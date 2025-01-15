@@ -11,7 +11,8 @@
 
 5. If you are on Mac, consider using a program called MultiPatch instead (easy to find on Google). The Delta Patcher Lite tool will probably not work for you.
 
-6. Patching is a bit unreliable on mobile phones. I can't really help with problems there. You can search for prepatched ROMs online or use a PC then transfer the patched ROM to your phone.
+6. Patching is a bit unreliable on mobile phones. I can't really help with problems there. You can search for prepatched ROMs online or use a PC then transfer the patched ROM to your phone
+.
 ---
 
 #### Q: Why has my game frozen when trying to start the first rival battle?
@@ -60,7 +61,7 @@
 
 ---
 
-#### Q: Can I get <Pokémon name here> as a shiny?
+#### Q: Can I get <Pokémon name here\> as a shiny?
 
 - Yes, all Pokémon are available as shiny at whatever rate the version you're playing has (1/512 with shiny boost, 1/8192 if not).
 - You need to soft reset to try to get shinies for static encounters; save states don't reroll the RNG so you'll get the same Pokémon every time.

@@ -27,6 +27,7 @@ The following items have had adjustments to their costs:
 The following items now cost zero and are thus unsellable:
 - All TMs
 
+
 =========================================================
 Modified TMs
 =========================================================
@@ -307,6 +308,8 @@ Key Items
 A * means the location has changed from the original Platinum.
 A ** means the key item is new to Renegade Platinum.
 
+Item                    Location                            Obtained
+---                     ---                                 ---
 Azure Flute             Hearthome City - Foreign Building   Gift from NPC       *
 Vs. Recorder            Jubilife City                       Gift from Looker
 Bicycle                 Twinleaf Town                       Gift from Mom       *
@@ -349,6 +352,9 @@ Replaced Items
 The following items (some unobtainable) have been replaced with items from other games.
 Items under the "Old Item" column are now unavailable.
 
+A * means thank you to Serebii.net for the item sprite.
+A ** means a completely new item that is used in the Mewtwo event.
+
 Old Item                New Item
 ---------               ---------
 Contest Pass            Ice Stone
@@ -361,6 +367,3 @@ Rule Book               Rainbow Wing
 S.S. Ticket             Tea
 Seal Bag                GS Ball *
 Storage Key             Mysterious Invitation **
-
-* Thank you to Serebii.net for the item sprite.
-** A completely new item that is used in the Mewtwo event.
