@@ -1,0 +1,72 @@
+---
+
+## Item Interaction Changes
+
+"Using" in this context means the item can be used exactly like an evolution stone (e.g. a Fire Stone).
+
+```
+- Poliwhirl: Now able to evolve into Politoed by using a King's Rock.
+- Slowpoke: Now able to evolve into Slowking by using a King's Rock.
+- Onix: Now able to evolve into Steelix by using a Metal Coat.
+- Rhydon: Now able to evolve into Rhyperior by using a Protector.
+- Seadra: Now able to evolve into Kingdra by using a Dragon Scale.
+- Scyther: Now able to evolve into Scizor by using a Metal Coat.
+- Electabuzz: Now able to evolve into Electivire by using an Electirizer.
+- Magmar: Now able to evolve into Magmortar by using a Magmarizer.
+- Porygon: Now able to evolve into Porygon2 by using a Up-Grade.
+- Porygon2: Now able to evolve into Porygon-Z by using a Dubious Disc.
+- Feebas: Now able to evolve into Milotic by using a Prism Scale.
+- Dusclops: Now able to evolve into Dusknoir by using a Reaper Cloth.
+- Clamperl: Now able to evolve into Huntail by using a Deep Sea Tooth.
+- Clamperl: Now able to evolve into Gorebyss by using a Deep Sea Scale.
+```
+
+---
+
+## Level Changes
+
+```
+- Ponyta: Now evolves into Rapidash at Level 35.
+- Slowpoke: Now evolves into Slowbro at Level 33.
+- Grimer: Now evolves into Muk at Level 35.
+- Rhyhorn: Now evolves into Rhydon at Level 36.
+- Omanyte: Now evolves into Omastar at Level 30.
+- Kabuto: Now evolves into Kabutops at Level 30.
+- Slugma: Now evolves into Magcargo at Level 32.
+- Aron: Now evolves into Lairon at Level 24.
+- Lairon: Now evolves into Aggron at Level 40.
+- Meditite: Now evolves into Medicham at Level 33.
+- Wailmer: Now evolves into Wailord at Level 36.
+- Trapinch: Now evolves into Vibrava at Level 30.
+- Baltoy: Now evolves into Claydol at Level 32.
+- Lileep: Now evolves into Cradily at Level 30.
+- Anorith: Now evolves into Armaldo at Level 30.
+- Shuppet: Now evolves into Banette at Level 32.
+- Duskull: Now evolves into Dusclops at Level 32.
+- Snorunt: Now evolves into Glalie at Level 32.
+- Spheal: Now evolves into Sealeo at Level 24.
+- Sealeo: Now evolves into Walrein at Level 40.
+- Glameow: Now evolves into Purugly at Level 32.
+- Stunky: Now evolves into Skuntank at Level 32.
+- Skorupi: Now evolves into Drapion at Level 30.
+- Croagunk: Now evolves into Toxicroak at Level 33.
+```
+
+---
+
+## Method Changes
+
+```
+- Kadabra: Now able to evolve into Alakazam at Level 36.
+- Machoke: Now able to evolve into Machamp at Level 36.
+- Graveler: Now able to evolve into Golem at Level 36.
+- Haunter: Now able to evolve into Gengar at Level 36.
+- Eevee: Now only evolves into Espeon with the Sun Stone.
+- Eevee: Now only evolves into Umbreon with the Moon Stone.
+- Eevee: Now only evolves into Leafeon with the Leaf Stone.
+- Eevee: Now only evolves into Glaceon with the Ice Stone.
+- Feebas: Now able to evolve into Milotic by using a Prism Scale.
+- Budew: Now evolves into Roselia when happy regardless of the time.
+- Chingling: Now evolves into Chimecho when happy regardless of the time.
+- Riolu: Now evolves into Lucario when happy regardless of the time.
+```

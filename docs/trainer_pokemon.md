@@ -1,0 +1,1714 @@
+o-----------------------------------o
+| Pokémon Renegade Platinum         |
+| Trainer Pokémon (v1.3.0)          |
+o-----------------------------------o
+
+=========================================================
+General Changes
+=========================================================
+- Trainer rosters in every area has been modified. They are all listed below with species and levels.
+- Important trainers have their entire roster listed including species, levels, items, moves and natures.
+- Natures have not been set for all Trainers - if a '?' is listed where the nature should be then it hasn't been specifically set.
+- Some postgame Trainers have a * next to their name. This signals that you need to beat them to advance into Stark Mountain.
+- Some trainers have a (!) next to their name. This means that they have further rosters via the Vs. Seeker.
+- Some trainers have a (3) or other number next to their name. This means they should start using these teams once you have that number of badges.
+- Instead of a number, you may see a (C) for Champion or (S) for Stark Mountain, which means after completing these they'll gain those teams.
+- Please note that the number of badges may not always be correct. Feel free to report any incorrect information!
+
+=========================================================
+Area Changes
+=========================================================
+
+Route 201
+=================================================================================================================================================
+PKMN Trainer Barry          Chimchar Lv. 5
+PKMN Trainer Barry          Piplup Lv. 5
+PKMN Trainer Barry          Turtwig Lv. 5
+
+Route 202
+=================================================================================================================================================
+PKMN Trainer Dawn           Piplup Lv. 9
+PKMN Trainer Dawn           Turtwig Lv. 9
+PKMN Trainer Dawn           Chimchar Lv. 9
+PKMN Trainer Lucas          Piplup Lv. 9
+PKMN Trainer Lucas          Turtwig Lv. 9
+PKMN Trainer Lucas          Chimchar Lv. 9
+Lass Natalie                Sentret Lv. 7, Bidoof Lv. 7
+Youngster Tristan (!)       Hoothoot Lv. 7, Starly Lv. 7
+Youngster Logan             Growlithe Lv. 7, Burmy Lv. 7, Zigzagoon Lv. 7
+
+Rematches
+Youngster Tristan (3)       Noctowl Lv. 27, Staravia Lv. 27
+Youngster Tristan (5)       Noctowl Lv. 39, Staraptor Lv. 39
+Youngster Tristan (8)       Noctowl Lv. 59, Staraptor Lv. 59, Pidgeot Lv. 59
+
+Jubilife City Trainer School
+=================================================================================================================================================
+Schoolkid Harrison          Abra Lv. 8, Psyduck Lv. 8
+Schoolkid Christine         Ralts Lv. 8, Staryu Lv. 8
+
+Route 204 ~ South
+=================================================================================================================================================
+Lass Sarah                  Shinx Lv. 8, Nidoran♀ Lv. 8, Pidgey Lv. 8
+Lass Samantha (!)           Oddish Lv. 8, Budew Lv. 8, Bellsprout Lv. 8
+Youngster Tyler             Magikarp Lv. 11
+
+Rematches
+Lass Samantha (3)           Luxio Lv. 26, Roselia Lv. 26, Weepinbell Lv. 26
+Lass Samantha (5)           Luxio Lv. 38, Roselia Lv. 38, Weepinbell Lv. 38
+Lass Samantha (C)           Luxray Lv. 70, Roserade Lv. 70, Victreebel Lv. 70
+
+Route 203
+=================================================================================================================================================
+PKMN Trainer Barry          Starly Lv. 10, Munchlax Lv. 10, Turtwig Lv. 11
+PKMN Trainer Barry          Starly Lv. 10, Munchlax Lv. 10, Chimchar Lv. 11
+PKMN Trainer Barry          Starly Lv. 10, Munchlax Lv. 10, Piplup Lv. 11
+Youngster Michael           Kricketot Lv. 9, Zubat Lv. 9, Rattata Lv. 9
+Youngster Dallas (!)        Shinx Lv. 10, Sandshrew Lv. 10
+Youngster Sebastian         Nakuhita Lv. 10, Machop Lv. 10
+Lass Kaitlin                Spearow Lv. 9, Cubone Lv. 9, Azurill Lv. 9
+Lass Madeline (!)           Psyduck Lv. 10, Sunkern Lv. 10
+
+Rematches
+Youngster Dallas (3)        Luxio Lv. 27, Sandslash Lv. 27
+Youngster Dallas (5)        Luxio Lv. 38, Sandslash Lv. 38, Bibarel Lv. 38
+Youngster Dallas (C)        Luxray Lv. 69, Sandslash Lv. 69, Bibarel Lv. 69, Golem Lv. 69
+Lass Madeline (3)           Psyduck Lv. 26, Sunkern Lv. 26, Buneary Lv. 26
+Lass Madeline (5)           Golduck Lv. 38, Sunflora Lv. 38, Lopunny Lv. 38
+Lass Madeline (8)           Golduck Lv. 59, Sunflora Lv. 59, Lopunny Lv. 59
+
+Oreburgh Gate
+=================================================================================================================================================
+Camper Curtis               Seedot Lv. 10, Diglett Lv. 10
+Picnicker Diana             Whismur Lv. 10, Wooper Lv. 10
+Veteran Grant               Lucario Lv. 45, Golem Lv. 45, Staraptor Lv. 45
+
+Oreburgh City
+=================================================================================================================================================
+Reporter Helen              Treecko Lv. 10, Torchic Lv. 10, Mudkip Lv. 10
+PKMN Trainer Steven         Skarmory Lv. 88, Aggron Lv. 88, Aerodactyl Lv. 88, Cradily Lv. 88, Armaldo Lv. 88, Metagross Lv. 89
+
+PKMN Trainer Steven
+Skarmory (Lv. 88) @ Occa Berry      /   ?           /   Keen Eye        /   Brave Bird, Iron Head, Drill Run, Stealth Rock
+Aggron (Lv. 88) @ Focus Sash        /   ?           /   Rock Head       /   Head Smash, Aqua Tail, Iron Tail, Thunder Wave
+Aerodactyl (Lv. 88) @ Muscle Band   /   ?           /   Rock Head       /   Brave Bird, Stone Edge, Crunch, Fire Fang
+Cradily (Lv. 88) @ Leftovers        /   ?           /   Suction Cups    /   Power Whip, Rock Slide, Toxic, Recover
+Armaldo (Lv. 88) @ Passho Berry     /   ?           /   Battle Armor    /   Stone Edge, X-Scissor, Swords Dance, Aqua Jet
+Metagross (Lv. 89) @ Life Orb       /   ?           /   Iron Fist       /   Meteor Mash, Zen Headbutt, Earthquake, Ice Punch
+
+Oreburgh Mine
+=================================================================================================================================================
+Worker Mason                Aron Lv. 12, Phanpy Lv. 12, Riolu Lv. 12
+Worker Colin                Geodude Lv. 12, Whismur Lv. 12, Machop Lv. 12
+
+Oreburgh Gym
+=================================================================================================================================================
+Youngster Jonathon          Rhyhorn Lv. 13, Omanyte Lv. 13, Kabuto Lv. 13
+Youngster Darius            Aron Lv. 13, Anorith Lv. 13, Lileep Lv. 13
+Leader Roark                Nosepass Lv. 15, Bonsly Lv. 15, Geodude Lv. 15, Onix Lv. 15, Larvitar Lv. 15, Cranidos Lv. 16
+
+Leader Roark
+Nosepass (Lv. 15) @ Smooth Rock     /   Modest      /   Sturdy          /   Stealth Rock, Sandstorm, Thunder Wave, Shock Wave
+Bonsly (Lv. 15) @ Rindo Berry       /   Impish      /   Rock Head       /   Stealth Rock, Brick Break, Rollout, Defense Curl
+Geodude (Lv. 15) @ Expert Belt      /   Adamant     /   Rock Head       /   Bulldoze, Rock Tomb, Fire Punch, Thunder Punch
+Onix (Lv. 15) @ Muscle Band         /   Jolly       /   Rock Head       /   Stealth Rock, Rock Tomb, Bulldoze, Sandstorm
+Larvitar (Lv. 15) @ Flame Orb       /   Jolly       /   Guts            /   Rock Tomb, Bulldoze, Bite, Protect
+Cranidos (Lv. 16) @ Sitrus Berry    /   Hasty       /   Rock Head (!)   /   Zen Headbutt, Rock Tomb, Thunder Punch, Scary Face
+
+Jubilife City
+=================================================================================================================================================
+Reporter Kayla              Bulbasaur Lv. 5, Charmander Lv. 5, Squirtle Lv. 5
+Galactic Grunt              Stunky Lv. 13, Silcoon Lv. 13
+Galactic Grunt              Glameow Lv. 13, Cascoon Lv. 13
+PKMN Trainer Dawn           Clefairy Lv. 13, Piplup Lv. 14
+PKMN Trainer Dawn           Clefairy Lv. 13, Turtwig Lv. 14
+PKMN Trainer Dawn           Clefairy Lv. 13, Chimchar Lv. 14
+PKMN Trainer Lucas          Snubbull Lv. 13, Piplup Lv. 14
+PKMN Trainer Lucas          Snubbull Lv. 13, Turtwig Lv. 14
+PKMN Trainer Lucas          Snubbull Lv. 13, Chimchar Lv. 14
+
+Route 204 ~ North
+=================================================================================================================================================
+Aroma Lady Taylor           Cherubi Lv. 13, Hoppip Lv. 13, Shroomish Lv. 13
+Bug Catcher Brandon (!)     Wurmple Lv. 14, Kricketune Lv. 14
+Twins Liv & Liz             Plusle Lv. 15, Minun Lv. 15
+
+Rematches
+Bug Catcher Brandon (3)     Dustox Lv. 27, Kricketune Lv. 27
+Bug Catcher Brandon (5)     Dustox Lv. 38, Kricketune Lv. 38, Scyther Lv. 38
+Bug Catcher Brandon (C)     Dustox Lv. 70, Kricketune Lv. 70, Scizor Lv. 70
+
+Floaroma Town
+=================================================================================================================================================
+Reporter Jenny              Chikorita Lv. 15, Cyndaquil Lv. 15, Totodile Lv. 15
+
+Floaroma Meadow
+=================================================================================================================================================
+Galactic Grunt              Zubat Lv. 15, Spinarak Lv. 15
+Galactic Grunt              Croagunk Lv. 15, Ledyba Lv. 15
+
+Valley Windworks
+=================================================================================================================================================
+Galactic Grunt              Poochyena Lv. 14, Gulpin Lv. 14, Houndour Lv. 14
+Galactic Grunt              Grimer Lv. 15, Koffing Lv. 15
+Galactic Grunt              Kakuna Lv. 14, Pineco Lv. 14, Metapod Lv. 14
+Commander Mars              Zubat Lv. 18, Bronzor Lv. 18, Yanma Lv. 18, Purugly Lv. 19
+
+Commander Mars
+Zubat (Lv. 18) @ None               /   Naive       /   Inner Focus     /   Poison Fang, Wing Attack, Toxic, Confuse Ray
+Bronzor (Lv. 18) @ Sitrus Berry     /   Brave       /   Levitate        /   Hypnosis, Extrasensory, Gyro Ball, Confuse Ray
+Yanma (Lv. 18) @ None               /   Timid       /   Speed Boost     /   Silver Wind, Air Cutter, Detect, Sonic Boom
+Purugly (Lv. 19) @ Sitrus Berry     /   Jolly       /   Thick Fat       /   Fake Out, Hypnosis, Facade, Feint Attack
+
+Route 205 ~ South
+=================================================================================================================================================
+Hiker Daniel                Diglett Lv. 15, Shieldon Lv. 15, Numel Lv. 15
+Aroma Lady Elizabeth (!)    Chikorita Lv. 16, Bulbasaur Lv. 16
+Camper Jacob                Ponyta Lv. 15, Mareep Lv. 15, Buizel Lv. 15
+Picnicker Siena             Pachirisu Lv. 17
+Hiker Nicholas              Shellos Lv. 16, Onix Lv. 16
+Battle Girl Kelsey          Machop Lv. 16, Mankey Lv. 16, Meditite Lv. 16
+Picnicker Karina (!)        Piplup Lv. 16, Chimchar Lv. 16
+Camper Zackary (!)          Aipom Lv. 15, Slakoth Lv. 15, Taillow Lv. 15
+
+Rematches
+Aroma Lady Elizabeth (3)    Bayleef Lv. 27, Ivysaur Lv. 27
+Aroma Lady Elizabeth (5)    Meganium Lv. 39, Venusaur Lv. 39
+Aroma Lady Elizabeth (C)    Meganium Lv. 71, Venusaur Lv. 71
+Camper Zackary (3)          Aipom Lv. 26, Vigoroth Lv. 26, Swellow Lv. 26
+Camper Zackary (5)          Ambipom Lv. 38, Vigoroth Lv. 38, Swellow Lv. 38
+Camper Zackary (C)          Ambipom Lv. 70, Slaking Lv. 70, Swellow Lv. 70
+Picnicker Karina (3)        Prinplup Lv. 27, Monferno Lv. 27
+Picnicker Karina (5)        Empoleon Lv. 39, Infernape Lv. 39
+Picnicker Karina (C)        Empoleon Lv. 71, Infernape Lv. 71
+
+Eterna Forest
+=================================================================================================================================================
+PKMN Trainer Cheryl         Drifloon Lv. 19, Makuhita Lv. 19, Wailmer Lv. 19, Chansey Lv. 20
+Bug Catcher Jack            Surskit Lv. 16, Paras Lv. 16, Venonat Lv. 16
+Lass Briana                 Buneary Lv. 17, Marill Lv. 17
+Psychic Lindsey             Slowpoke Lv. 17, Exeggcute Lv. 17, Natu Lv. 17
+Psychic Elijah              Spoink Lv. 17, Drowzee Lv. 17, Baltoy Lv. 17
+Bug Catcher Philip          Combee Lv. 17, Beedrill Lv. 19
+Bug Catcher Donald          Nincada Lv. 17, Dustox Lv. 19
+Psychic Kody                Mime Jr. Lv. 18, Mr. Mime Lv. 20
+Psychic Rachael             Chingling Lv. 18, Chimecho Lv. 20
+
+PKMN Trainer Cheryl
+Drifloon (Lv. 19) @ Sitrus Berry    /   Modest      /   Unburden        /   Ominous Wind, Air Cutter, Shock Wave, Swift
+Makuhita (Lv. 19) @ None            /   Relaxed     /   Thick Fat       /   Knock Off, Fake Out, Brick Break, Bullet Punch
+Wailmer (Lv. 19) @ None             /   Relaxed     /   Water Veil      /   Water Pulse, Rock Tomb, Mist, Rollout
+Chansey (Lv. 20) @ Sitrus Berry     /   Quiet       /   Serene Grace    /   Hyper Voice, Soft-Boiled, Ice Beam, Thunderbolt
+
+Route 205 ~ North
+=================================================================================================================================================
+Fisherman Joseph (!)        Goldeen Lv. 18, Poliwag Lv. 18, Corphish Lv. 18
+Fisherman Andrew            Magikarp Lv. 18, Feebas Lv. 18, Magikarp Lv. 18
+Fisherman Zachary           Krabby Lv. 19, Finneon Lv. 19
+
+Rematches
+Fisherman Joseph (5)        Seaking Lv. 38, Poliwhirl Lv. 38, Crawdaunt Lv. 38
+Fisherman Joseph (C)        Seaking Lv. 70, Politoed Lv. 70, Crawdaunt Lv. 70
+
+Route 211 ~ West
+=================================================================================================================================================
+Ninja Boy Zach (!)          Zubat Lv. 19, Skorupi Lv. 19, Zubat Lv. 19
+Hiker Louis                 Geodude Lv. 19, Slugma Lv. 19, Beldum Lv. 19
+Bird Keeper Alexandra       Natu Lv. 20, Swablu Lv. 20, Staravia Lv. 20
+
+Rematches
+Ninja Boy Zach (5)          Golbat Lv. 38, Skorupi Lv. 38, Golbat Lv. 38
+Ninja Boy Zach (8)          Crobat Lv. 59, Drapion Lv. 59, Crobat Lv. 59
+Ninja Boy Zach (C)          Crobat Lv. 70, Drapion Lv. 70, Crobat Lv. 70
+
+Route 211 ~ East
+=================================================================================================================================================
+Bird Keeper Katherine       Noctowl Lv. 22
+Ninja Boy Nick              Ninjask Lv. 20
+Black Belt Sean             Heracross Lv. 22
+Ruin Maniac Harry (!)       Aerodactyl Lv. 21
+
+Rematches
+Ruin Maniac Harry (8)       Aerodactyl Lv. 61
+Ruin Maniac Harry (C)       Aerodactyl Lv. 72
+
+Route 216
+=================================================================================================================================================
+Ace Trainer Blake           Porygon Lv. 23, Vigoroth Lv. 23
+Ace Trainer Maria           Quagsire Lv. 22, Quilava Lv. 22, Sudowoodo Lv. 22
+Ace Trainer Laura           Togetic Lv. 23, Swellow Lv. 23
+Skier Edward (!)            Snover Lv. 20, Snorunt Lv. 20, Swinub Lv. 20
+Ace Trainer Garrett         Mr. Mime Lv. 22, Nuzleaf Lv. 22, Scyther Lv. 22
+
+With Rock Climb
+Black Belt Philip (!)       Hariyama Lv. 56, Machamp Lv. 56
+Skier Bradley               Piloswine Lv. 54, Glalie Lv. 54
+Skier Kaitlyn               Lapras Lv. 55
+Skier Andrea (!)            Abomasnow Lv. 55
+
+Rematches
+Skier Edward (8)            Abomasnow Lv. 59, Glalie Lv. 59, Piloswine Lv. 59
+Skier Edward (C)            Abomasnow Lv. 70, Glalie Lv. 70, Mamoswine Lv. 70
+Black Belt Philip (C)       Hariyama Lv. 70, Machamp Lv. 70, Poliwrath Lv. 70
+Skier Andrea (8)            Abomasnow Lv. 61
+Skier Andrea (C)            Abomasnow Lv. 72
+
+Route 206
+=================================================================================================================================================
+Cyclist Axel                Pichu Lv. 19, Pichu Lv. 19, Pikachu Lv. 19
+Cyclist Megan               Pidgeotto Lv. 21
+Cyclist James               Ponyta Lv. 20, Flaaffy Lv. 20
+Cyclist Nicole              Taillow Lv. 19, Doduo Lv. 19, Wingull Lv. 19
+Cyclist John (!)            Farfetch'd Lv. 21
+Cyclist Kayla (!)           Voltorb Lv. 19, Magnemite Lv. 19, Electrike Lv. 19
+Cyclist Ryan                Luxio Lv. 21
+Cyclist Rachel              Jolteon Lv. 21
+Hiker Theodore              Torkoal Lv. 26
+
+Rematches
+Cyclist John (5)            Farfetch'd Lv. 40
+Cyclist John (8)            Farfetch'd Lv. 61
+Cyclist John (C)            Farfetch'd Lv. 72
+Cyclist Kayla (5)           Electrode Lv. 38, Magneton Lv. 38, Manectric Lv. 38
+Cyclist Kayla (8)           Electrode Lv. 59, Magneton Lv. 59, Manectric Lv. 59
+Cyclist Kayla (C)           Electrode Lv. 70, Magnezone Lv. 70, Manectric Lv. 70
+
+Eterna Gym
+=================================================================================================================================================
+Lass Caroline               Lotad Lv. 22, Cacnea Lv. 22, Exeggcute Lv. 22, Shroomish Lv. 22
+Aroma Lady Jenna            Weepinbell Lv. 23, Ivysaur Lv. 23, Gloom Lv. 23
+Aroma Lady Angela           Roselia Lv. 23, Bayleef Lv. 23, Skiploom Lv. 23
+Leader Gardenia             Bellossom Lv. 25, Tangela Lv. 25, Cherrim Lv. 25, Grotle Lv. 25, Breloom Lv. 25, Roserade Lv. 26
+
+Leader Gardenia
+Bellossom (Lv. 25) @ Wide Lens      /   Relaxed     /   Chlorophyll     /   Grass Knot, Teeter Dance, Dazzling Gleam, Stun Spore
+Tangela (Lv. 25) @ Coba Berry       /   Rash        /   Chlorophyll     /   Grass Knot, Shock Wave, Ancient Power, Stun Spore
+Cherrim (Lv. 25) @ Focus Sash       /   Hasty       /   Flower Gift     /   Grass Knot, Sunny Day, Weather Ball, Morning Sun
+Grotle (Lv. 25) @ Leftovers         /   Adamant     /   Overgrow        /   Seed Bomb, Protect, Leech Seed, Bulldoze
+Breloom (Lv. 25) @ Muscle Band      /   Naughty     /   Technician      /   Bullet Seed, Mach Punch, Thunder Punch, Spore
+Roserade (Lv. 26) @ Sitrus Berry    /   Timid       /   Technician      /   Magical Leaf, Sludge, Dazzling Gleam, Extrasensory
+
+Team Galactic Eterna Building
+=================================================================================================================================================
+Galactic Grunt              Ledian Lv. 24, Ariados Lv. 24
+Galactic Grunt              Ekans Lv. 23, Glameow Lv. 23, Nidoran♀ Lv. 23
+Galactic Grunt              Koffing Lv. 23, Stunky Lv. 23, Nidoran♂ Lv. 23
+Galactic Grunt              Croagunk Lv. 24, Golbat Lv. 24
+Galactic Grunt              Cleffa Lv. 23
+Galactic Grunt              Houndour Lv. 23, Skorupi Lv. 23, Beautifly Lv. 23
+Scientist Travon            Drowzee Lv. 24, Metang Lv. 24, Kadabra Lv. 24
+Commander Jupiter           Golbat Lv. 26, Sableye Lv. 26, Tangela Lv. 26, Skuntank Lv. 27
+
+Commander Jupiter
+Golbat (Lv. 26) @ None              /   Jolly       /   Inner Focus     /   Wing Attack, Giga Drain, Leech Life, Confuse Ray
+Sableye (Lv. 26) @ Sitrus Berry     /   Adamant     /   Magic Guard (!) /   Fake Out, Shadow Claw, Knock Off, Shadow Sneak
+Tangela (Lv. 26) @ None             /   Modest      /   Chlorophyll     /   Giga Drain, Shock Wave, Leech Seed, Sleep Powder
+Skuntank (Lv. 27) @ Sitrus Berry    /   Adamant     /   Aftermath       /   Poison Jab, Night Slash, Focus Energy, Torment
+
+Route 207
+=================================================================================================================================================
+Camper Anthony              Magby Lv. 24, Trapinch Lv. 24, Charmander Lv. 24
+Picnicker Lauren            Smoochum Lv. 24, Snubbull Lv. 24, Treecko Lv. 24
+Youngster Austin            Lombre Lv. 25, Gligar Lv. 25
+Hiker Justin                Graveler Lv. 25, Sandslash Lv. 25
+Hiker Kevin                 Dunsparce Lv. 25, Dunsparce Lv. 25
+Battle Girl Helen (!)       Tyrogue Lv. 26, Meditite Lv. 26, Hariyama Lv. 26
+PKMN Trainer Dawn           Piloswine Lv. 29, Clefable Lv. 29, Lopunny Lv. 29, Grotle Lv. 30
+PKMN Trainer Dawn           Piloswine Lv. 29, Clefable Lv. 29, Lopunny Lv. 29, Monferno Lv. 30
+PKMN Trainer Dawn           Piloswine Lv. 29, Clefable Lv. 29, Lopunny Lv. 29, Prinplup Lv. 30
+PKMN Trainer Lucas          Piloswine Lv. 29, Granbull Lv. 29, Lickilicky Lv. 29, Grotle Lv. 30
+PKMN Trainer Lucas          Piloswine Lv. 29, Granbull Lv. 29, Lickilicky Lv. 29, Monferno Lv. 30
+PKMN Trainer Lucas          Piloswine Lv. 29, Granbull Lv. 29, Lickilicky Lv. 29, Prinplup Lv. 30
+
+Rematches
+Battle Girl Helen (3)       Tyrogue Lv. 28, Meditite Lv. 28, Hariyama Lv. 28
+Battle Girl Helen (7)       Hitmontop Lv. 54, Medicham Lv. 54, Hariyama Lv. 54
+Battle Girl Helen (C)       Hitmontop Lv. 72, Medicham Lv. 72, Hariyama Lv. 72
+
+PKMN Trainer Dawn
+Piloswine (Lv. 29) @ Focus Sash     /   ?           /   Thick Fat       /   Avalanche, Take Down, Rock Slide, Ice Shard
+Clefable (Lv. 29) @ Leftovers       /   ?           /   Cute Charm      /   Moonblast, Moonlight, Encore, Thunder Wave
+Lopunny (Lv. 29) @ Muscle Band      /   ?           /   Scrappy (!)     /   Dizzy Punch, Fake Out, Jump Kick, Quick Attack
+Grotle (Lv. 30) @ Sitrus Berry      /   ?           /   Overgrow        /   Seed Bomb, Body Slam, Leech Seed, Sand Tomb     (!)
+Monferno (Lv. 30) @ Sitrus Berry    /   ?           /   Iron Fist       /   Flamethrower, Fake Out, Mach Punch, Grass Knot  (!)
+Prinplup (Lv. 30) @ Sitrus Berry    /   ?           /   Torrent         /   Bubble Beam, Icy Wind, Brick Break, Shadow Claw (!)
+
+PKMN Trainer Lucas
+Piloswine (Lv. 29) @ Focus Sash     /   ?           /   Thick Fat       /   Avalanche, Take Down, Rock Slide, Ice Shard
+Granbull (Lv. 29) @ Muscle Band     /   ?           /   Intimidate      /   Play Rough, Fire Fang, Thunder Fang, Ice Fang
+Lickilicky (Lv. 29) @ Leftovers     /   ?           /   Own Tempo       /   Slam, Magnitude, Knock Off, Protect
+Grotle (Lv. 30) @ Sitrus Berry      /   ?           /   Overgrow        /   Seed Bomb, Body Slam, Leech Seed, Sand Tomb     (!)
+Monferno (Lv. 30) @ Sitrus Berry    /   ?           /   Iron Fist       /   Flamethrower, Fake Out, Mach Punch, Grass Knot  (!)
+Prinplup (Lv. 30) @ Sitrus Berry    /   ?           /   Torrent         /   Bubble Beam, Icy Wind, Brick Break, Shadow Claw (!)
+
+Wayward Cave
+=================================================================================================================================================
+PKMN Trainer Mira           Togetic Lv. 27, Haunter Lv. 27, Porygon2 Lv. 27, Kadabra Lv. 28
+Hiker Reginald              Dugtrio Lv. 26
+Hiker Lorenzo               Rhyhorn Lv. 25, Sudowoodo Lv. 25
+Lass Cassidy                Skitty Lv. 24, Meowth Lv. 24, Eevee Lv. 24
+Youngster Wayne             Loudred Lv. 25, Raticate Lv. 25
+Picnicker Tori              Psyduck Lv. 25, Nidorina Lv. 25
+Camper Diego                Aipom Lv. 25, Nidorino Lv. 25
+Picnicker Ana               Illumise Lv. 25, Furret Lv. 25
+Camper Parker               Volbeat Lv. 25, Linoone Lv. 25
+Collector Terry             Gible Lv. 24, Bagon Lv. 24, Gabite Lv. 24
+Ruin Maniac Gerald          Cubone Lv. 25, Probopass Lv. 25
+
+PKMN Trainer Mira
+Togetic (Lv. 27) @ Sitrus Berry     /   Modest      /   Serene Grace    /   Dazzling Gleam, Air Cutter, Soft-Boiled, Sweet Kiss
+Haunter (Lv. 27) @ Spell Tag        /   Hasty       /   Levitate        /   Shadow Ball, Double Team, Hypnosis, Curse
+Porygon2 (Lv. 27) @ Expert Belt     /   Calm        /   Trace           /   Tri Attack, Charge Beam, Signal Beam, Recover
+Kadabra (Lv. 28) @ Life Orb         /   Modest      /   Magic Guard     /   Psybeam, Grass Knot, Dazzling Gleam, Recover
+
+Route 208
+=================================================================================================================================================
+Hiker Robert                Marowak Lv. 28
+Hiker Jonathan              Hippopotas Lv. 26, Shuckle Lv. 26, Bronzor Lv. 26
+Black Belt Kyle             Machoke Lv. 29
+Aroma Lady Hannah           Roselia Lv. 27, Sunflora Lv. 27
+Artist William (!)          Smeargle Lv. 26, Smeargle Lv. 26, Smeargle Lv. 26
+Fisherman Cody              Whiscash Lv. 44, Gyarados Lv. 44
+Hiker Alexander             Graveler Lv. 28
+Elite Four Aaron            Dustox Lv. 31, Beautifly Lv. 31, Venomoth Lv. 31, Scizor Lv. 31, Drapion Lv. 32
+
+Rematches
+Artist William (5)          Smeargle Lv. 38, Smeargle Lv. 38, Smeargle Lv. 38
+Artist William (8)          Smeargle Lv. 53, Smeargle Lv. 53, Smeargle Lv. 53
+Artist William (C)          Smeargle Lv. 70, Smeargle Lv. 70, Smeargle Lv. 70
+
+Elite Four Aaron
+Dustox (Lv. 31) @ Leftovers         /   Calm        /   Shield Dust     /   Bug Buzz, Toxic, Protect, Moonlight
+Beautifly (Lv. 31) @ Focus Sash     /   Mild        /   Swarm           /   Bug Buzz, Air Slash, Energy Ball, Psychic
+Venomoth (Lv. 31) @ Wise Glasses    /   Naive       /   Tinted Lens     /   Bug Buzz, Psychic, Sludge Bomb, Sleep Powder
+Scizor (Lv. 31) @ Muscle Band       /   Adamant     /   Technician      /   X-Scissor, Bullet Punch, Iron Head, Swords Dance
+Drapion (Lv. 32) @ Scope Lens       /   Jolly       /   Sniper          /   Cross Poison, X-Scissor, Night Slash, Swords Dance
+
+Hearthome Gym
+=================================================================================================================================================
+Youngster Donny             Gastly Lv. 27, Gastly Lv. 27, Gastly Lv. 27
+Lass Molly                  Misdreavus Lv. 29
+School Kid Chance           Duskull Lv. 26, Shuppet Lv. 26, Duskull Lv. 26
+School Kid Mackenzie        Shuppet Lv. 26, Duskull Lv. 26, Shuppet Lv. 26
+Ace Trainer Allen           Haunter Lv. 29, Shedinja Lv. 29, Sableye Lv. 29
+Ace Trainer Catherine       Haunter Lv. 29, Rotom Lv. 29, Froslass Lv. 29
+Leader Fantina              Drifblim Lv. 32, Dusclops Lv. 32, Banette Lv. 32, Spiritomb Lv. 32, Gengar Lv. 32, Mismagius Lv. 33
+PKMN Trainer Barry          Staravia Lv. 32, Heracross Lv. 32, Snorlax Lv. 32, Grotle Lv. 33
+PKMN Trainer Barry          Staravia Lv. 32, Heracross Lv. 32, Snorlax Lv. 32, Monferno Lv. 33
+PKMN Trainer Barry          Staravia Lv. 32, Heracross Lv. 32, Snorlax Lv. 32, Prinplup Lv. 33
+
+Leader Fantina
+Drifblim (Lv. 32) @ Starf Berry     /   Naive       /   Unburden        /   Shadow Ball, Air Slash, Baton Pass, Calm Mind
+Dusclops (Lv. 32) @ Leftovers       /   Impish      /   Pressure        /   Shadow Punch, Will-O-Wisp, Protect, Pain Split
+Banette (Lv. 32) @ Muscle Band      /   Adamant     /   Insomnia        /   Shadow Claw, Will-O-Wisp, Sucker Punch, Disable
+Spiritomb (Lv. 32) @ Zoom Lens      /   Relaxed     /   Pressure        /   Shadow Ball, Will-O-Wisp, Dark Pulse, Disable
+Gengar (Lv. 32) @ Wise Glasses      /   Naive       /   Levitate        /   Shadow Ball, Will-O-Wisp, Sludge Bomb, Dazzling Gleam
+Mismagius (Lv. 33) @ Sitrus Berry   /   Naive       /   Levitate        /   Shadow Ball, Power Gem, Calm Mind, Dazzling Gleam
+
+PKMN Trainer Barry
+Staravia (Lv. 32) @ Muscle Band     /   ?           /   Reckless        /   Facade, Aerial Ace, Double Team, Endeavor
+Heracross (Lv. 32) @ Coba Berry     /   ?           /   Guts            /   Bug Bite, Brick Break, Aerial Ace, Knock Off
+Snorlax (Lv. 32) @ Leftovers        /   ?           /   Thick Fat       /   Body Slam, Yawn, Amnesia, Rock Slide
+Grotle (Lv. 33) @ Sitrus Berry      /   ?           /   Overgrow        /   Seed Bomb, Crunch, Leech Seed, Protect          (!)
+Monferno (Lv. 33) @ Sitrus Berry    /   ?           /   Iron Fist       /   Flamethrower, Low Kick, Grass Knot, Fake Out    (!)
+Prinplup (Lv. 33) @ Sitrus Berry    /   ?           /   Torrent         /   Scald, Icy Wind, Grass Knot, Aerial Ace         (!)
+
+Route 212 ~ North
+=================================================================================================================================================
+Galactic Grunt              Mightyena Lv. 29, Arbok Lv. 29
+Galactic Grunt              Kricketune Lv. 30
+Galactic Grunt              Glameow Lv. 28, Koffing Lv. 28, Dustox Lv. 28
+Galactic Grunt              Lunatone Lv. 29, Solrock Lv. 29
+Galactic Grunt              Solrock Lv. 29, Lunatone Lv. 29
+Galactic Grunt              Nincada Lv. 30
+Galactic Grunt              Ninjask Lv. 30
+Galactic Grunt              Shedinja Lv. 30
+Galactic Grunt              Beedrill Lv. 29, Golbat Lv. 29
+Galactic Grunt              Croagunk Lv. 28, Seviper Lv. 28, Butterfree Lv. 28
+Galactic Grunt              Murkrow Lv. 30
+Galactic Grunt              Stunky Lv. 28, Venonat Lv. 28, Arbok Lv. 28
+Commander Saturn            Bronzong Lv. 33, Octillery Lv. 33, Toxicroak Lv. 34
+Gentleman Backlot           Wigglytuff Lv. 33, Raichu Lv. 33, Espeon Lv. 33
+Rich Boy Jason              Prinplup Lv. 30, Azumarill Lv. 30
+Lady Melissa (!)            Cherrim Lv. 30, Jumpluff Lv. 30
+Gentleman Jeremy (!)        Chatot Lv. 31
+Socialite Reina (!)         Delcatty Lv. 31
+Policeman Bobby             Noctowl Lv. 31
+Policeman Alex              Machamp Lv. 31
+Policeman Dylan             Arcanine Lv. 31
+Policeman Caleb             Granbull Lv. 31
+
+Rematches
+Lady Melissa (5)            Gloom Lv. 38, Cherrim Lv. 38, Jumpluff Lv. 38
+Lady Melissa (8)            Bellossom Lv. 59, Cherrim Lv. 59, Jumpluff Lv. 59
+Lady Melissa (C)            Bellossom Lv. 70, Cherrim Lv. 70, Jumpluff Lv. 70
+Gentleman Jeremy (5)        Chatot Lv. 41
+Gentleman Jeremy (8)        Chatot Lv. 62
+Gentleman Jeremy (C)        Chatot Lv. 73
+Socialite Reina (8)         Delcatty Lv. 62
+Socialite Reina (C)         Delcatty Lv. 73
+
+Commander Saturn
+Bronzong (Lv. 33) @ Leftovers       /   ?           /   Levitate        /   Hypnosis, Gyro Ball, Zen Headbutt, Confuse Ray
+Octillery (Lv. 33) @ Wise Glasses   /   ?           /   Suction Cups    /   Octazooka, Signal Beam, Ice Beam, Flamethrower
+Toxicroak (Lv. 34) @ Muscle Band    /   ?           /   Dry Skin        /   Drain Punch, Poison Jab, Fake Out, Vacuum Wave
+
+Gentleman Backlot
+Wigglytuff (Lv. 33) @ Zoom Lens     /   ?           /   Cute Charm      /   Moonblast, Hyper Voice, Sing, Thunderbolt
+Raichu (Lv. 33) @ Wise Glasses      /   ?           /   Static          /   Fake Out, Thunderbolt, Grass Knot, Teeter Dance
+Espeon (Lv. 33) @ Sitrus Berry      /   ?           /   Synchronize     /   Psychic, Power Gem, Dazzling Gleam, Protect
+
+Route 209
+=================================================================================================================================================
+PKMN Breeder Albert (!)     Tyrogue Lv. 26, Chingling Lv. 26, Bonsly Lv. 26, Magby Lv. 26, Elekid Lv. 26, Mime Jr. Lv. 26
+Twins Emma & Lil            Vaporeon Lv. 30, Flareon Lv. 30
+Poké Kid Danielle (!)       Pichu Lv. 28, Pikachu Lv. 29, Raichu Lv. 30
+PKMN Breeder Jennifer (!)   Azurill Lv. 26, Togepi Lv. 26, Cleffa Lv. 26, Igglybuff Lv. 26, Smoochum Lv. 26, Budew Lv. 26
+Cowgirl Shelley             Ponyta Lv. 30, Bibarel Lv. 30
+Jogger Richard              Dodrio Lv. 31
+Jogger Raul                 Fearow Lv. 31
+Young Couple Ty & Sue       Illumise Lv. 31, Volbeat Lv. 31
+
+Rematches
+PKMN Breeder Albert (5)     Hitmontop Lv. 37, Chimecho Lv. 37, Sudowoodo Lv. 37, Magmar Lv. 37, Electabuzz Lv. 37, Mr. Mime Lv. 37
+PKMN Breeder Albert (8)     Hitmontop Lv. 57, Chimecho Lv. 57, Sudowoodo Lv. 57, Magmar Lv. 57, Electabuzz Lv. 57, Mr. Mime Lv. 57
+PKMN Breeder Albert (C)     Hitmontop Lv. 68, Chimecho Lv. 68, Sudowoodo Lv. 68, Magmar Lv. 68, Electabuzz Lv. 68, Mr. Mime Lv. 68
+Poké Kid Danielle (5)       Pikachu Lv. 37, Pikachu Lv. 37, Raichu Lv. 38
+Poké Kid Danielle (8)       Pikachu Lv. 57, Raichu Lv. 58, Raichu Lv. 58
+Poké Kid Danielle (C)       Raichu Lv. 69, Raichu Lv. 69, Raichu Lv. 69
+PKMN Breeder Jennifer (5)   Marill Lv. 37, Togetic Lv. 37, Clefairy Lv. 37, Jigglypuff Lv. 37, Jynx Lv. 37, Roselia Lv. 37
+PKMN Breeder Jennifer (8)   Azumarill Lv. 57, Togekiss Lv. 57, Clefable Lv. 57, Wigglytuff Lv. 57, Jynx Lv. 57, Roserade Lv. 57
+PKMN Breeder Jennifer (C)   Azumarill Lv. 68, Togekiss Lv. 68, Clefable Lv. 68, Wigglytuff Lv. 68, Jynx Lv. 68, Roserade Lv. 68
+
+Lost Tower
+=================================================================================================================================================
+Youngster Oliver            Shellos Lv. 31, Barboach Lv. 31, Mothim Lv. 31
+Pokéfan Leonard             Plusle Lv. 31, Minun Lv. 31, Pachirisu Lv. 31
+Roughneck Kirby             Cleffa Lv. 33
+Pokéfan Rebekah             Clefairy Lv. 30, Wailmer Lv. 30, Bonsly Lv. 30, Skitty Lv. 30
+Young Couple Mike & Nat     Murkrow Lv. 33, Misdreavus Lv. 33
+Belle & Pa Beth & Bob       Ponyta Lv. 33, Flaaffy Lv. 33
+
+Solaceon Ruins
+=================================================================================================================================================
+Ruin Maniac Karl            Bronzor Lv. 31, Graveler Lv. 31, Sandslash Lv. 31
+
+Route 210 ~ South
+=================================================================================================================================================
+Twins Teri & Tia            Furret Lv. 32, Linoone Lv. 32
+Jogger Wyatt                Electrode Lv. 33
+PKMN Breeder Kahlil         Riolu Lv. 31, Chingling Lv. 31, Munchlax Lv. 31
+PKMN Breeder Amber          Mantyke Lv. 31, Happiny Lv. 31, Wynaut Lv. 31
+Belle & Pa Ava & Matt       Tauros Lv. 33, Miltank Lv. 33
+Rancher Marco (!)           Rapidash Lv. 33
+Collector Fernando          Dratini Lv. 31, Dragonair Lv. 33
+Collector Edwin             Bagon Lv. 31, Shelgon Lv. 33
+Waitress Kati               Clefable Lv. 33
+
+Rematches
+Rancher Marco (8)           Rapidash Lv. 59, Tauros Lv. 59, Miltank Lv. 59
+Rancher Marco (C)           Rapidash Lv. 70, Tauros Lv. 70, Miltank Lv. 70
+
+Route 215
+=================================================================================================================================================
+Black Belt Derek            Combusken Lv. 34, Hitmonlee Lv. 34
+Black Belt Gregory          Primeape Lv. 34, Hitmonchan Lv. 34
+Black Belt Nathaniel        Machoke Lv. 34, Hitmontop Lv. 34
+Jogger Scott                Staraptor Lv. 34
+Ruin Maniac Calvin          Marowak Lv. 33, Rampardos Lv. 33
+Jogger Craig (!)            Luxray Lv. 34
+Ace Trainer Dennis (!)      Gligar Lv. 35, Gyarados Lv. 35, Drifblim Lv. 35
+Ace Trainer Maya (!)        Lickitung Lv. 35, Gardevoir Lv. 35, Roserade Lv. 35
+
+Rematches
+Jogger Craig (8)            Luxray Lv. 60, Luxray Lv. 60
+Jogger Craig (C)            Luxray Lv. 72, Luxray Lv. 72
+Ace Trainer Dennis (7)      Gliscor Lv. 62, Gyarados Lv. 62, Drifblim Lv. 62
+Ace Trainer Dennis (S)      Gliscor Lv. 77, Gyarados Lv. 77, Drifblim Lv. 77
+Ace Trainer Maya (7)        Lickilicky Lv. 62, Gardevoir Lv. 62, Roserade Lv. 62
+Ace Trainer Maya (S)        Lickilicky Lv. 77, Gardevoir Lv. 77, Roserade Lv. 77
+
+Veilstone Gym
+=================================================================================================================================================
+Black Belt Colby            Machop Lv. 33, Meditite Lv. 33, Croagunk Lv. 33, Mankey Lv. 33, Makuhita Lv. 33
+Black Belt Darren           Primeape Lv. 35, Hariyama Lv. 35, Breloom Lv. 35
+Black Belt Jeffery          Heracross Lv. 36, Poliwrath Lv. 36
+Black Belt Rafael           Hitmonchan Lv. 35, Hitmonlee Lv. 35, Hitmontop Lv. 35
+Leader Maylene              Medicham Lv. 38, Machamp Lv. 38, Infernape Lv. 38, Toxicroak Lv. 38, Gallade Lv. 38, Lucario Lv. 39
+
+Leader Maylene
+Medicham (Lv. 38) @ Sitrus Berry    /   Naive       /   Pure Power          /   High Jump Kick, Zen Headbutt, Ice Punch, Fake Out
+Machamp (Lv. 38) @ Toxic Orb        /   Relaxed     /   Guts                /   Close Combat, Payback, Thunder Punch, Protect
+Infernape (Lv. 38) @ Life Orb       /   Hasty       /   Iron Fist           /   Close Combat, Rock Slide, Fire Punch, Mach Punch
+Toxicroak (Lv. 38) @ Big Root       /   Lonely      /   Dry Skin            /   Drain Punch, Poison Jab, Ice Punch, Sucker Punch
+Gallade (Lv. 38) @ Light Clay       /   Brave       /   Steadfast           /   Drain Punch, Zen Headbutt, Light Screen, Reflect
+Lucario (Lv. 39) @ Focus Sash       /   Timid       /   Adaptability (!)    /   Aura Sphere, Flash Cannon, Dark Pulse, Agility
+
+Veilstone City
+=================================================================================================================================================
+Dragon Tamer Nils           Dragonair Lv. 35, Shelgon Lv. 35, Vibrava Lv. 35, Kingdra Lv. 36
+Team Galactic Grunt         Weezing Lv. 35, Golbat Lv. 35, Venomoth Lv. 35
+Team Galactic Grunt         Skuntank Lv. 35, Dustox Lv. 35, Wormadam Lv. 35
+
+Route 214
+=================================================================================================================================================
+PI Carlos (!)               Dugtrio Lv. 36
+Collector Douglas           Jolteon Lv. 33, Vaporeon Lv. 33, Flareon Lv. 33
+Collector Brady             Kangaskhan Lv. 33, Tropius Lv. 33, Swalot Lv. 33
+Ruin Maniac Bryan           Anorith Lv. 33, Lileep Lv. 33, Aerodactyl Lv. 33
+Ruin Maniac Ronald          Relicanth Lv. 35
+Collector Jamal             Lapras Lv. 35
+Beauty Devon                Wormadam Lv. 33, Wormadam Lv. 33, Wormadam Lv. 33
+Psychic Mitchell (!)        Kadabra Lv. 34, Grumpig Lv. 34, Hypno Lv. 34
+Psychic Abigail (!)         Kirlia Lv. 34, Chimecho Lv. 34, Girafarig Lv. 34
+
+Rematches
+PI Carlos (8)               Dugtrio Lv. 62
+PI Carlos (C)               Dugtrio Lv. 70, Lapras Lv. 70, Kingler Lv. 70
+Psychic Mitchell (8)        Alakazam Lv. 60, Grumpig Lv. 60, Hypno Lv. 60
+Psychic Mitchell (C)        Alakazam Lv. 72, Grumpig Lv. 72, Hypno Lv. 72
+Psychic Abigail (8)         Gardevoir Lv. 60, Chimecho Lv. 60, Girafarig Lv. 60
+Psychic Abigail (C)         Gardevoir Lv. 72, Chimecho Lv. 72, Girafarig Lv. 72
+
+Seven Stars Restaurant
+=================================================================================================================================================
+Artist Ismael               Smeargle Lv. 37
+Beauty Harley               Golduck Lv. 37
+Rich Boy Roman              Arcanine Lv. 37
+Lady Kylie                  Vileplume Lv. 37
+Gentleman Leonardo          Chatot Lv. 37
+Socialite Rebecca           Persian Lv. 37
+Collector Eugene            Milotic Lv. 37
+Aroma Lady Alison           Meganium Lv. 37
+School Kid Esteban          Quagsire Lv. 37
+Pokéfan Meredith            Pachirisu Lv. 37
+Veteran Emanuel             Blaziken Lv. 37
+Lass Blythe                 Lopunny Lv. 37
+Cameraman Darryl            Magneton Lv. 37
+Reporter Valerie            Loudred Lv. 37
+PI Kendrick                 Rhydon Lv. 37
+Beauty Gabriella            Lumineon Lv. 37
+Scientist Emilio            Alakazam Lv. 37
+Pokémon Breeder Kaylee      Azumarill Lv. 37
+
+Route 213
+=================================================================================================================================================
+Beauty Cyndy (!)            Delcatty Lv. 37, Persian Lv. 37
+Fisherman Kenneth           Carvanha Lv. 36, Remoraid Lv. 36, Horsea Lv. 36
+Tuber Jared (!)             Gastrodon Lv. 37
+Tuber Chelsea (!)           Azumarill Lv. 37
+Swimmer Haley               Golduck Lv. 43, Mantine Lv. 43, Corsola Lv. 43
+Swimmer Sheltin             Gyarados Lv. 43, Gyarados Lv. 43, Gyarados Lv. 43
+Sailor Paul                 Politoed Lv. 45
+Swimmer Evan                Quagsire Lv. 44, Sharpedo Lv. 44
+Swimmer Mary                Pelipper Lv. 44, Lumineon Lv. 44
+Galactic Grunt              Toxicroak Lv. 41
+
+Rematches
+Beauty Cyndy (8)            Delcatty Lv. 59, Persian Lv. 59, Purugly Lv. 59
+Beauty Cyndy (C)            Delcatty Lv. 70, Persian Lv. 70, Purugly Lv. 70
+Tuber Jared (5)             Gastrodon Lv. 39
+Tuber Jared (C)             Gastrodon Lv. 69
+Tuber Chelsea (8)           Azumarill Lv. 59
+Tuber Chelsea (C)           Azumarill Lv. 69
+
+Route 212 ~ South
+=================================================================================================================================================
+Parasol Lady Sabrina        Castform Lv. 39
+Scientist Shaun (!)         Magneton Lv. 37, Electrode Lv. 37, Porygon2 Lv. 37
+Pokémon Ranger Taylor (!)   Carnivine Lv. 39, Kecleon Lv. 39, Electabuzz Lv. 39
+Parasol Lady Alexa (!)      Seadra Lv. 38, Golduck Lv. 38
+Fisherman Juan              Shellder Lv. 36, Clamperl Lv. 36, Cloyster Lv. 39
+Fisherman Josh              Remoraid Lv. 36, Goldeen Lv. 36, Octillery Lv. 39
+Fisherman Travis            Barboach Lv. 38, Qwilfish Lv. 38
+Collector Dean              Espeon Lv. 37, Umbreon Lv. 37, Glaceon Lv. 37
+Policeman Danny             Growlithe Lv. 37, Machoke Lv. 37, Noctowl Lv. 37
+Scientist Stefano           Weezing Lv. 38, Muk Lv. 38
+Pokémon Ranger Allison (!)  Milotic Lv. 39, Leafeon Lv. 39, Jynx Lv. 39
+Pokémon Ranger Jeffrey      Magmar Lv. 39, Manectric Lv. 39, Nidoking Lv. 39
+
+Rematches
+Scientist Shaun (5)         Magneton Lv. 38, Electrode Lv. 38, Porygon2 Lv. 38
+Scientist Shaun (8)         Magneton Lv. 59, Electrode Lv. 59, Porygon2 Lv. 59
+Scientist Shaun (C)         Magnezone Lv. 70, Electrode Lv. 70, Porygon-Z Lv. 70
+Pokémon Ranger Taylor (5)   Carnivine Lv. 40, Kecleon Lv. 40, Electabuzz Lv. 40
+Pokémon Ranger Taylor (8)   Carnivine Lv. 60, Kecleon Lv. 60, Electivire Lv. 60
+Pokémon Ranger Taylor (C)   Carnivine Lv. 71, Kecleon Lv. 71, Electivire Lv. 71
+Pokémon Ranger Allison (5)  Milotic Lv. 40, Leafeon Lv. 40, Jynx Lv. 40
+Pokémon Ranger Allison (8)  Milotic Lv. 60, Leafeon Lv. 60, Jynx Lv. 60
+Pokémon Ranger Allison (C)  Milotic Lv. 71, Leafeon Lv. 71, Jynx Lv. 71
+Parasol Lady Alexa (5)      Seadra Lv. 39, Golduck Lv. 39
+Parasol Lady Alexa (8)      Kingdra Lv. 60, Golduck Lv. 60
+Parasol Lady Alexa (C)      Kingdra Lv. 71, Golduck Lv. 71
+
+Pastoria City
+=================================================================================================================================================
+PKMN Trainer Barry          Staraptor Lv. 41, Heracross Lv. 41, Snorlax Lv. 41, Azumarill Lv. 41, Arcanine Lv. 41, Torterra Lv. 42
+PKMN Trainer Barry          Staraptor Lv. 41, Heracross Lv. 41, Snorlax Lv. 41, Azumarill Lv. 41, Breloom Lv. 41, Infernape Lv. 42
+PKMN Trainer Barry          Staraptor Lv. 41, Heracross Lv. 41, Snorlax Lv. 41, Breloom Lv. 41, Arcanine Lv. 41, Empoleon Lv. 42
+
+PKMN Trainer Barry
+Staraptor (Lv. 41) @ Muscle Band    /   ?           /   Reckless        /   Double-Edge, Close Combat, Aerial Ace, Roost
+Heracross (Lv. 41) @ Coba Berry     /   ?           /   Guts            /   Megahorn, Brick Break, Bullet Seed, Night Slash
+Snorlax (Lv. 41) @ Leftovers        /   ?           /   Thick Fat       /   Body Slam, Crunch, Rest, Sleep Talk
+Azumarill (Lv. 41) @ Life Orb       /   ?           /   Huge Power      /   Aqua Tail, Play Rough, Body Slam, Aqua Jet          (!)
+Arcanine (Lv. 41) @ Expert Belt     /   ?           /   Intimidate      /   Heat Wave, Thunder Fang, Outrage, Crunch            (!)
+Breloom (Lv. 41) @ Focus Sash       /   ?           /   Technician      /   Bullet Seed, Force Palm, Spore, Rock Tomb           (!)
+Torterra (Lv. 42) @ Sitrus Berry    /   ?           /   Overgrow        /   Seed Bomb, Earthquake, Crunch, Iron Head            (!)
+Infernape (Lv. 42) @ Sitrus Berry   /   ?           /   Iron Fist       /   Flamethrower, Close Combat, Fake Out, Thunder Punch (!)
+Empoleon (Lv. 42) @ Sitrus Berry    /   ?           /   Torrent         /   Scald, Flash Cannon, Agility, Swagger               (!)
+
+Pastoria Gym
+=================================================================================================================================================
+Tuber Jacky                 Bibarel Lv. 39, Wartortle Lv. 39, Sealeo Lv. 39
+Fisherman Walter            Whiscash Lv. 39, Lanturn Lv. 39, Seaking Lv. 39
+Sailor Damian               Pelipper Lv. 39, Croconaw Lv. 39, Golduck Lv. 39
+Tuber Caitlyn               Azumarill Lv. 39, Marshtomp Lv. 39, Dewgong Lv. 39
+Fisherman Erick             Lumineon Lv. 39, Tentacruel Lv. 39, Kingler Lv. 39
+Sailor Samson               Slowbro Lv. 39, Gastrodon Lv. 39, Mantine Lv. 39
+Leader Wake                 Quagsire Lv. 43, Gyarados Lv. 43, Poliwrath Lv. 43, Ludicolo Lv. 43, Sharpedo Lv. 43, Floatzel Lv. 44
+
+Leader Wake
+Quagsire (Lv. 43) @ Rindo Berry     /   Adamant     /   Water Absorb        /   Aqua Tail, Earthquake, Recover, Ice Punch
+Gyarados (Lv. 43) @ Wacan Berry     /   Jolly       /   Intimidate          /   Aqua Tail, Ice Fang, Crunch, Dragon Dance
+Poliwrath (Lv. 43) @ Sitrus Berry   /   Careful     /   Water Absorb        /   Waterfall, Drain Punch, Ice Punch, Hypnosis
+Ludicolo (Lv. 43) @ Life Orb        /   Modest      /   Swift Swim          /   Hydro Pump, Ice Beam, Energy Ball, Fake Out
+Sharpedo (Lv. 43) @ Focus Sash      /   Naive       /   Speed Boost         /   Waterfall, Crunch, Ice Fang, Zen Headbutt
+Floatzel (Lv. 44) @ Life Orb        /   Naive       /   Swift Swim          /   Aqua Tail, Crunch, Ice Punch, Aqua Jet
+
+Route 210 ~ North
+=================================================================================================================================================
+Ninja Boy Fabian            Toxicroak Lv. 41
+Ninja Boy Brennan           Ninjask Lv. 41
+Ninja Boy Bruce             Skuntank Lv. 41
+Ninja Boy Joel              Scyther Lv. 39, Spinda Lv. 39, Golbat Lv. 39
+Ace Trainer Alyssa          Ambipom Lv. 42, Starmie Lv. 42, Torterra Lv. 42
+Double Team Zac & Jen       Gyarados Lv. 42, Gliscor Lv. 42, Victreebel Lv. 42, Typhlosion Lv. 42, Ursaring Lv. 42, Ampharos Lv. 42
+Ace Trainer Ernest          Politoed Lv. 41, Pinsir Lv. 41, Probopass Lv. 41, Xatu Lv. 41
+Ninja Boy Davido            Ninetales Lv. 41
+Black Belt Adam             Machamp Lv. 42, Blaziken Lv. 42, Heracross Lv. 42
+Ninja Boy Nathan            Swalot Lv. 39, Dustox Lv. 39, Mothim Lv. 39
+Bird Keeper Brianna (!)     Dodrio Lv. 42, Pidgeot Lv. 42, Skarmory Lv. 42
+Veteran Brian (!)           Tangrowth Lv. 43, Rapidash Lv. 43, Feraligatr Lv. 43
+Dragon Tamer Patrick (!)    Gabite Lv. 41, Shelgon Lv. 41, Vibrava Lv. 41, Dragonair Lv. 41
+PKMN Trainer Dawn           Alakazam Lv. 44, Mamoswine Lv. 44, Clefable Lv. 44, Lopunny Lv. 44, Vaporeon Lv. 44, Torterra Lv. 45
+PKMN Trainer Dawn           Alakazam Lv. 44, Mamoswine Lv. 44, Clefable Lv. 44, Lopunny Lv. 44, Jolteon Lv. 44, Infernape Lv. 45
+PKMN Trainer Dawn           Alakazam Lv. 44, Mamoswine Lv. 44, Clefable Lv. 44, Lopunny Lv. 44, Flareon Lv. 44, Empoleon Lv. 45
+PKMN Trainer Lucas          Alakazam Lv. 44, Mamoswine Lv. 44, Granbull Lv. 44, Lickilicky Lv. 44, Vaporeon Lv. 44, Torterra Lv. 45
+PKMN Trainer Lucas          Alakazam Lv. 44, Mamoswine Lv. 44, Granbull Lv. 44, Lickilicky Lv. 44, Jolteon Lv. 44, Infernape Lv. 45
+PKMN Trainer Lucas          Alakazam Lv. 44, Mamoswine Lv. 44, Granbull Lv. 44, Lickilicky Lv. 44, Flareon Lv. 44, Empoleon Lv. 45
+
+Rematches
+Bird Keeper Brianna (8)     Dodrio Lv. 60, Pidgeot Lv. 60, Skarmory Lv. 60
+Bird Keeper Brianna (C)     Dodrio Lv. 71, Pidgeot Lv. 71, Skarmory Lv. 71
+Veteran Brian (8)           Tangrowth Lv. 61, Rapidash Lv. 61, Feraligatr Lv. 61
+Veteran Brian (C)           Tangrowth Lv. 75, Rapidash Lv. 75, Feraligatr Lv. 75
+Dragon Tamer Patrick (8)    Gabite Lv. 58, Shelgon Lv. 58, Vibrava Lv. 58, Dragonair Lv. 58
+Dragon Tamer Patrick (C)    Garchomp Lv. 70, Salamence Lv. 70, Flygon Lv. 70, Dragonite Lv. 70
+
+PKMN Trainer Dawn
+Alakazam (Lv. 44) @ Life Orb        /   ?           /   Magic Guard     /   Psychic, Shadow Ball, Energy Ball, Dazzling Gleam
+Mamoswine (Lv. 44) @ Passho Berry   /   ?           /   Thick Fat       /   Earthquake, Avalanche, Stone Edge, Ice Shard
+Clefable (Lv. 44) @ Leftovers       /   ?           /   Cute Charm      /   Moonblast, Moonlight, Psychic, Thunder Wave
+Lopunny (Lv. 44) @ Choice Band      /   ?           /   Scrappy (!)     /   Strength, Jump Kick, Fire Punch, Ice Punch
+Vaporeon (Lv. 44) @ Wise Glasses    /   ?           /   Water Absorb    /   Hydro Pump, Ice Beam, Extrasensory, Aqua Ring           (!)
+Jolteon (Lv. 44) @ Wise Glasses     /   ?           /   Volt Absorb     /   Thunder, Shadow Ball, Extrasensory, Thunder Wave        (!)
+Flareon (Lv. 44) @ Muscle Band      /   ?           /   Flash Fire      /   Flare Blitz, Play Rough, Close Combat, Will-O-Wisp      (!)
+Torterra (Lv. 45) @ Sitrus Berry    /   ?           /   Overgrow        /   Wood Hammer, Earthquake, Iron Head, Rock Slide          (!)
+Infernape (Lv. 45) @ Sitrus Berry   /   ?           /   Iron Fist       /   Fire Blast, Close Combat, Thunder Punch, Rock Slide     (!)
+Empoleon (Lv. 45) @ Sitrus Berry    /   ?           /   Torrent         /   Surf, Flash Cannon, Grass Knot, Featherdance            (!)
+
+PKMN Trainer Lucas
+Alakazam (Lv. 44) @ Life Orb        /   ?           /   Magic Guard     /   Psychic, Shadow Ball, Energy Ball, Dazzling Gleam
+Mamoswine (Lv. 44) @ Passho Berry   /   ?           /   Thick Fat       /   Earthquake, Avalanche, Stone Edge, Ice Shard
+Granbull (Lv. 44) @ Choice Band     /   ?           /   Intimidate      /   Play Rough, Close Combat, Crunch, Earthquake
+Lickilicky (Lv. 44) @ Leftovers     /   ?           /   Own Tempo       /   Body Slam, Zen Headbutt, Earthquake, Amnesia
+Vaporeon (Lv. 44) @ Wise Glasses    /   ?           /   Water Absorb    /   Hydro Pump, Ice Beam, Extrasensory, Aqua Ring           (!)
+Jolteon (Lv. 44) @ Wise Glasses     /   ?           /   Volt Absorb     /   Thunder, Shadow Ball, Extrasensory, Thunder Wave        (!)
+Flareon (Lv. 44) @ Muscle Band      /   ?           /   Flash Fire      /   Flare Blitz, Play Rough, Close Combat, Will-O-Wisp      (!)
+Torterra (Lv. 45) @ Sitrus Berry    /   ?           /   Overgrow        /   Wood Hammer, Earthquake, Iron Head, Rock Slide          (!)
+Infernape (Lv. 45) @ Sitrus Berry   /   ?           /   Iron Fist       /   Fire Blast, Close Combat, Thunder Punch, Rock Slide     (!)
+Empoleon (Lv. 45) @ Sitrus Berry    /   ?           /   Torrent         /   Surf, Flash Cannon, Grass Knot, Featherdance            (!)
+
+Celestic Town
+=================================================================================================================================================
+Galactic Grunt              Houndoom Lv. 43, Golbat Lv. 43, Beedrill Lv. 43
+Galactic Boss Cyrus         Crobat Lv. 45, Honchkrow Lv. 45, Magnezone Lv. 45, Weavile Lv. 46
+
+Galactic Boss Cyrus
+Crobat (Lv. 45) @ Wise Glasses      /   ?           /   Inner Focus     /   Sludge Bomb, Air Slash, Giga Drain, Hypnosis
+Honchkrow (Lv. 45) @ Scope Lens     /   ?           /   Super Luck      /   Brave Bird, Night Slash, Swagger, Torment
+Magnezone (Lv. 45) @ Life Orb       /   ?           /   Magnet Pull     /   Thunderbolt, Flash Cannon, Thunder Wave, Mirror Coat
+Weavile (Lv. 46) @ Expert Belt      /   ?           /   Technician (!)  /   Feint Attack, Icicle Crash, Ice Shard, Swords Dance
+
+Route 218
+=================================================================================================================================================
+Fisherman Miguel (!)        Huntail Lv. 44, Gorebyss Lv. 44
+Fisherman Luc               Crawdaunt Lv. 45
+Sailor Skyler               Omastar Lv. 43, Kabutops Lv. 43, Relicanth Lv. 43
+Guitarist Tony (!)          Kricketune Lv. 44, Exploud Lv. 44
+
+Rematches
+Fisherman Miguel (C)        Clamperl Lv. 70, Huntail Lv. 70, Gorebyss Lv. 70
+Guitarist Tony (C)          Kricketune Lv. 71, Exploud Lv. 71
+
+Fuego Ironworks
+=================================================================================================================================================
+Worker Dillan               Machop Lv. 42, Machoke Lv. 43, Machamp Lv. 44
+Worker Holden               Magnemite Lv. 42, Magnemite Lv. 42, Steelix Lv. 45
+Worker Conrad               Magmar Lv. 43, Magcargo Lv. 43, Rapidash Lv. 43
+
+Route 219
+=================================================================================================================================================
+Tuber Mariel                Azumarill Lv. 43, Vaporeon Lv. 43
+Tuber Trenton               Poliwhirl Lv. 42, Gastrodon Lv. 42, Bibarel Lv. 42
+
+Route 220
+=================================================================================================================================================
+Swimmer Jessica             Seadra Lv. 43, Luvdisc Lv. 43, Seaking Lv. 43
+Swimmer Erica               Lumineon Lv. 44, Corsola Lv. 44
+Swimmer Adrian              Octillery Lv. 43, Tentacruel Lv. 43, Slowking Lv. 43
+Swimmer Vincent             Wailord Lv. 45
+Swimmer Claire              Starmie Lv. 44, Blastoise Lv. 44
+Swimmer Erik                Politoed Lv. 44, Lanturn Lv. 44
+Swimmer Katelyn             Floatzel Lv. 43, Medicham Lv. 43, Seaking Lv. 43
+
+Route 221
+=================================================================================================================================================
+Swimmer Dillon              Swampert Lv. 46
+Swimmer Vanessa             Milotic Lv. 46
+Fisherman Cory              Whiscash Lv. 44, Kingler Lv. 44, Gyarados Lv. 44
+Ace Trainer Shannon (!)     Vileplume Lv. 45, Gardevoir Lv. 45, Lopunny Lv. 45, Nidoqueen Lv. 45
+Ace Trainer Jake (!)        Claydol Lv. 45, Charizard Lv. 45, Exeggutor Lv. 45, Absol Lv. 45
+Collector Ivan (!)          Togekiss Lv. 45, Blissey Lv. 45
+
+Rematches
+Ace Trainer Shannon (C)     Vileplume Lv. 72, Gardevoir Lv. 72, Lopunny Lv. 72, Nidoqueen Lv. 72
+Ace Trainer Jake (C)        Claydol Lv. 72, Charizard Lv. 72, Exeggutor Lv. 72, Absol Lv. 72
+Collector Ivan (C)          Togekiss Lv. 72, Blissey Lv. 72
+
+Pal Park
+=================================================================================================================================================
+Castle Valet Darach         Gallade Lv. 48, Empoleon Lv. 48, Alakazam Lv. 48, Metagross Lv. 48, Staraptor Lv. 48, Entei Lv. 48
+
+Castle Valet Darach
+Gallade (Lv. 48) @ Scope Lens       /   ?           /   Steadfast       /   Psycho Cut, Night Slash, Close Combat, Leaf Blade
+Empoleon (Lv. 48) @ Sitrus Berry    /   ?           /   Torrent         /   Hydro Pump, Flash Cannon, Ice Beam, Aqua Jet
+Alakazam (Lv. 48) @ Expert Belt     /   ?           /   Magic Guard     /   Psychic, Dazzling Gleam, Focus Blast, Energy Ball
+Metagross (Lv. 48) @ Life Orb       /   ?           /   Iron Fist (!)   /   Meteor Mash, Zen Headbutt, Earthquake, Hammer Arm
+Staraptor (Lv. 48) @ King's Rock    /   ?           /   Reckless        /   Return, Brave Bird, Close Combat, Roost
+Entei (Lv. 48) @ Shuca Berry        /   ?           /   Pressure        /   Sacred Fire, Stone Edge, Extreme Speed, Iron Head
+
+Canalave City
+=================================================================================================================================================
+PKMN Trainer Barry          Staraptor Lv. 48, Heracross Lv. 48, Snorlax Lv. 48, Azumarill Lv. 48, Arcanine Lv. 48, Torterra Lv. 49
+PKMN Trainer Barry          Staraptor Lv. 48, Heracross Lv. 48, Snorlax Lv. 48, Azumarill Lv. 48, Breloom Lv. 48, Infernape Lv. 49
+PKMN Trainer Barry          Staraptor Lv. 48, Heracross Lv. 48, Snorlax Lv. 48, Breloom Lv. 48, Arcanine Lv. 48, Empoleon Lv. 49
+
+PKMN Trainer Barry
+Staraptor (Lv. 48) @ Choice Band    /   ?           /   Reckless        /   Double-Edge, Brave Bird, Close Combat, U-turn
+Heracross (Lv. 48) @ Muscle Band    /   ?           /   Guts            /   Megahorn, Close Combat, Rock Slide, Night Slash
+Snorlax (Lv. 48) @ Leftovers        /   ?           /   Thick Fat       /   Curse, Body Slam, Crunch, Slack Off
+Azumarill (Lv. 48) @ Life Orb       /   ?           /   Huge Power      /   Aqua Tail, Play Rough, Ice Punch, Aqua Jet          (!)
+Arcanine (Lv. 48) @ Expert Belt     /   ?           /   Intimidate      /   Flare Blitz, Extreme Speed, Crunch, Close Combat    (!)
+Breloom (Lv. 48) @ Focus Sash       /   ?           /   Technician      /   Bullet Seed, Force Palm, Spore, Stone Edge          (!)
+Torterra (Lv. 49) @ Sitrus Berry    /   ?           /   Overgrow        /   Wood Hammer, Earthquake, Crunch, Iron Head          (!)
+Infernape (Lv. 49) @ Sitrus Berry   /   ?           /   Iron Fist       /   Fire Blast, Close Combat, Fake Out, Thunder Punch   (!)
+Empoleon (Lv. 49) @ Sitrus Berry    /   ?           /   Torrent         /   Surf, Flash Cannon, Grass Knot, Agility             (!)
+
+Iron Island
+=================================================================================================================================================
+PKMN Trainer Riley          Absol Lv. 49, Ursaring Lv. 49, Metagross Lv. 49, Salamence Lv. 49, Slaking Lv. 49, Lucario Lv. 50
+Camper Lawrence             Charmeleon Lv. 46, Ambipom Lv. 46, Floatzel Lv. 46
+Picnicker Summer            Grovyle Lv. 46, Fearow Lv. 46, Raichu Lv. 46
+Worker Noel                 Donphan Lv. 48
+Worker Braden               Camerupt Lv. 48
+Hiker Damon                 Pupitar Lv. 46, Probopass Lv. 46, Steelix Lv. 46
+Hiker Maurice               Rhydon Lv. 47, Golem Lv. 47
+Black Belt Kendal           Poliwrath Lv. 48, Hariyama Lv. 48
+Battle Girl Tyler           Hitmontop Lv. 48, Primeape Lv. 48
+Worker Brendon              Magneton Lv. 47, Machoke Lv. 47
+Worker Quentin              Lairon Lv. 47, Graveler Lv. 47
+Ace Trainer Jonah           Masquerain Lv. 48, Cradily Lv. 48, Hippowdon Lv. 48
+Ace Trainer Brenda          Gardevoir Lv. 48, Lopunny Lv. 48, Medicham Lv. 48
+Galactic Grunt              Golbat Lv. 46, Houndoom Lv. 46, Muk Lv. 46
+Galactic Grunt              Purugly Lv. 46, Toxicroak Lv. 46, Skuntank Lv. 46
+
+PKMN Trainer Riley
+Absol (Lv. 49) @ Scope Lens         /   ?           /   Super Luck      /   Night Slash, Psycho Cut, Megahorn, Play Rough
+Ursaring (Lv. 49) @ Flame Orb       /   ?           /   Guts            /   Strength, Close Combat, Play Rough, Protect
+Metagross (Lv. 49) @ Liechi Berry   /   ?           /   Clear Body      /   Meteor Mash, Earthquake, Zen Headbutt, Agility
+Salamence (Lv. 49) @ Power Herb     /   ?           /   Intimidate      /   Dragon Rush, Fly, Crunch, Dragon Dance
+Slaking (Lv. 49) @ Sitrus Berry     /   ?           /   Truant          /   Body Slam, Hammer Arm, Play Rough, Slack Off
+Lucario (Lv. 50) @ Life Orb         /   ?           /   Adaptability    /   High Jump Kick, Meteor Mash, Blaze Kick, Bullet Punch
+
+Canalave Gym
+=================================================================================================================================================
+Black Belt Ricky            Steelix Lv. 51
+Worker Gary                 Magnemite Lv. 46, Aron Lv. 46, Bronzor Lv. 46, Beldum Lv. 46, Shieldon Lv. 46
+Worker Jackson              Magneton Lv. 48, Lairon Lv. 48, Metang Lv. 48
+Ace Trainer Cesar           Empoleon Lv. 50, Scizor Lv. 50, Metagross Lv. 50
+Worker Gerardo              Probopass Lv. 49, Forretress Lv. 49
+Black Belt David            Lucario Lv. 51
+Ace Trainer Breanna         Skarmory Lv. 50, Mawile Lv. 50, Wormadam Lv. 50
+Leader Bryon                Bronzong Lv. 52, Magnezone Lv. 52, Steelix Lv. 52, Forretress Lv. 52, Aggron Lv. 52, Bastiodon Lv. 53
+
+Leader Byron
+Bronzong (Lv. 52) @ Light Clay      /   Impish      /   Levitate        /   Gyro Ball, Stealth Rock, Reflect, Light Screen
+Magnezone (Lv. 52) @ Wise Glasses   /   Quiet       /   Magnet Pull     /   Thunderbolt, Flash Cannon, Signal Beam, Thunder Wave
+Steelix (Lv. 52) @ Muscle Band      /   Adamant     /   Rock Head       /   Gyro Ball, Earthquake, Stone Edge, Explosion
+Forretress (Lv. 52) @ Sitrus Berry  /   Impish      /   Sturdy          /   Gyro Ball, Spikes, Toxic Spikes, Explosion
+Aggron (Lv. 52) @ Focus Sash        /   Naughty     /   Rock Head       /   Head Smash, Iron Head, Aqua Tail, Low Kick
+Bastiodon (Lv. 53) @ Leftovers      /   Sassy       /   Soundproof      /   Iron Head, Toxic, Protect, Metal Burst
+
+Lake Valor
+=================================================================================================================================================
+Galactic Grunt              Purugly Lv. 50
+Galactic Grunt              Houndoom Lv. 50
+Galactic Grunt              Skuntank Lv. 50
+Commander Saturn            Alakazam Lv. 52, Octillery Lv. 52, Bronzong Lv. 52, Rhydon Lv. 52, Toxicroak Lv. 53
+
+Commander Saturn
+Alakazam (Lv. 52) @ Wise Glasses    /   ?           /   Magic Guard     /   Psychic, Calm Mind, Recover, Focus Blast
+Octillery (Lv. 52) @ Expert Belt    /   ?           /   Suction Cups    /   Hydro Pump, Seed Bomb, Flamethrower, Flash Cannon
+Bronzong (Lv. 52) @ Bright Powder   /   ?           /   Levitate        /   Iron Head, Zen Headbutt, Shadow Ball, Explosion
+Rhydon (Lv. 52) @ Muscle Band       /   ?           /   Rock Head       /   Stone Edge, Earthquake, Hammer Arm, Megahorn
+Toxicroak (Lv. 53) @ Life Orb       /   ?           /   Dry Skin        /   Gunk Shot, Cross Chop, Fake Out, Sucker Punch
+
+Lake Verity
+=================================================================================================================================================
+Galactic Grunt              Beautifly Lv. 50, Butterfree Lv. 50
+Galactic Grunt              Dustox Lv. 50, Beedrill Lv. 50
+Galactic Grunt              Nidorino Lv. 49, Golbat Lv. 49, Wormadam Lv. 49
+Galactic Grunt              Nidorina Lv. 49, Golbat Lv. 49, Mothim Lv. 49
+Commander Mars              Crobat Lv. 52, Yanmega Lv. 52, Bronzong Lv. 52, Kangaskhan Lv. 52, Purugly Lv. 53
+
+Commander Mars
+Crobat (Lv. 52) @ Bright Powder     /   ?           /   Inner Focus     /   Brave Bird, Hypnosis, Double Team, Giga Drain
+Yanmega (Lv. 52) @ Wise Glasses     /   ?           /   Speed Boost     /   Bug Buzz, Air Slash, Psychic, Detect
+Bronzong (Lv. 52) @ Leftovers       /   ?           /   Levitate        /   Stealth Rock, Gyro Ball, Payback, Explosion
+Kangaskhan (Lv. 52) @ Muscle Band   /   ?           /   Scrappy         /   Double-Edge, Hammer Arm, Crunch, Fake Out
+Purugly (Lv. 53) @ Sitrus Berry     /   ?           /   Thick Fat       /   Body Slam, Play Rough, Hypnosis, Fake Out
+
+Route 217
+=================================================================================================================================================
+Ace Trainer Dalton (!)      Magmortar Lv. 52, Venusaur Lv. 52, Kingdra Lv. 52
+Skier Shawn                 Snover Lv. 49, Snover Lv. 49, Abomasnow Lv. 52
+Ninja Boy Matthew           Crobat Lv. 51
+Skier Madison (!)           Smoochum Lv. 49, Snorunt Lv. 49, Jynx Lv. 52
+Ninja Boy Ethan             Drapion Lv. 51
+Skier Bjorn (!)             Swinub Lv. 49, Swinub Lv. 49, Piloswine Lv. 52
+Skier Lexie                 Dewgong Lv. 51, Glaceon Lv. 51
+Black Belt Luke             Machamp Lv. 51, Toxicroak Lv. 51, Lucario Lv. 51
+Ace Trainer Olivia (!)      Shiftry Lv. 52, Altaria Lv. 52, Blissey Lv. 52
+
+Rematches
+Ace Trainer Dalton (C)      Magmortar Lv. 72, Venusaur Lv. 72, Kingdra Lv. 72
+Skier Madison (8)           Jynx Lv. 59, Froslass Lv. 59, Jynx Lv. 59
+Skier Madison (C)           Jynx Lv. 70, Froslass Lv. 70, Jynx Lv. 70
+Skier Bjorn (8)             Piloswine Lv. 59, Piloswine Lv. 59, Mamoswine Lv. 59
+Skier Bjorn (C)             Mamoswine Lv. 72, Mamoswine Lv. 72, Mamoswine Lv. 72
+Ace Trainer Olivia (C)      Shiftry Lv. 72, Altaria Lv. 72, Blissey Lv. 72
+
+Snowpoint City
+=================================================================================================================================================
+Ace Trainer Aran            Heracross Lv. 54, Typhlosion Lv. 54, Tyranitar Lv. 54
+Ace Trainer Nephenee        Blissey Lv. 54, Meganium Lv. 54, Feraligatr Lv. 54
+
+Snowpoint Gym
+=================================================================================================================================================
+Ace Trainer Anton           Snorunt Lv. 51, Glalie Lv. 54, Glalie Lv. 54
+Ace Trainer Savannah        Seel Lv. 51, Jynx Lv. 54, Dewgong Lv. 54
+Ace Trainer Alicia          Spheal Lv. 51, Sealeo Lv. 53, Walrein Lv. 55
+Ace Trainer Isaiah          Abomasnow Lv. 54, Delibird Lv. 54
+Ace Trainer Brenna          Dewgong Lv. 53, Cloyster Lv. 53, Lapras Lv. 53
+Ace Trainer Sergio          Swinub Lv. 51, Piloswine Lv. 53, Mamoswine Lv. 55
+Leader Candice              Abomasnow Lv. 55, Weavile Lv. 55, Glaceon Lv. 55, Walrein Lv. 55, Mamoswine Lv. 55, Froslass Lv. 56
+
+Leader Candice
+Abomasnow (Lv. 55) @ Expert Belt    /   Brave       /   Snow Warning        /   Wood Hammer, Earthquake, Blizzard, Ice Shard
+Weavile (Lv. 55) @ Focus Sash       /   Naughty     /   Technician (!)      /   Crunch, Icicle Crash, Aerial Ace, Swords Dance
+Glaceon (Lv. 55) @ Bright Powder    /   Bold        /   Snow Cloak          /   Blizzard, Shadow Ball, Earth Power, Double Team
+Walrein (Lv. 55) @ Chople Berry     /   Quiet       /   Thick Fat           /   Blizzard, Surf, Yawn, Aqua Ring
+Mamoswine (Lv. 55) @ Passho Berry   /   Naive       /   Thick Fat           /   Earthquake, Avalanche, Stone Edge, Ice Shard
+Froslass (Lv. 56) @ Life Orb        /   Modest      /   Levitate (!)        /   Blizzard, Shadow Ball, Thunderbolt, Attract
+
+Galactic HQ
+=================================================================================================================================================
+Galactic Grunt              Golbat Lv. 53, Dustox Lv. 53, Parasect Lv. 53
+Galactic Grunt              Murkrow Lv. 54, Houndoom Lv. 54
+Galactic Grunt              Beautifly Lv. 53, Purugly Lv. 53, Vespiquen Lv. 53
+Galactic Grunt              Toxicroak Lv. 54, Skuntank Lv. 54
+Scientist Fredrick          Kirlia Lv. 53, Kadabra Lv. 53, Magneton Lv. 53
+Galactic Grunt              Scyther Lv. 54, Skuntank Lv. 54
+Galactic Grunt              Pinsir Lv. 54, Toxicroak Lv. 54
+Galactic Grunt              Golbat Lv. 53, Mightyena Lv. 53, Ariados Lv. 53
+Galactic Grunt              Golbat Lv. 53, Venomoth Lv. 53, Cacturne Lv. 53
+Scientist Darrius           Porygon-Z Lv. 55
+Galactic Grunt              Muk Lv. 54, Arbok Lv. 54
+Galactic Grunt              Forretress Lv. 53, Seviper Lv. 53, Yanmega Lv. 53
+Galactic Boss Cyrus         Crobat Lv. 57, Honchkrow Lv. 57, Houndoom Lv. 57, Magnezone Lv. 57, Weavile Lv. 58
+Commander Saturn            Bronzong Lv. 56, Octillery Lv. 56, Alakazam Lv. 56, Rhyperior Lv. 56, Magmortar Lv. 56, Toxicroak Lv. 57
+
+Galactic Boss Cyrus
+Crobat (Lv. 57) @ Choice Band       /   ?           /   Inner Focus     /   Brave Bird, U-turn, Cross Poison, Zen Headbutt
+Honchkrow (Lv. 57) @ Scope Lens     /   ?           /   Super Luck      /   Brave Bird, Night Slash, Thunder Wave, Heat Wave
+Houndoom (Lv. 57) @ Life Orb        /   ?           /   Intimidate (!)  /   Dark Pulse, Flamethrower, Sludge Bomb, Nasty Plot
+Magnezone (Lv. 57) @ Wise Glasses   /   ?           /   Magnet Pull     /   Thunderbolt, Flash Cannon, Signal Beam, Mirror Coat
+Weavile (Lv. 58) @ Expert Belt      /   ?           /   Technican (!)   /   Crunch, Icicle Crash, Aerial Ace, X-Scissor
+
+Commander Saturn
+Bronzong (Lv. 56) @ Light Clay      /   ?           /   Levitate        /   Zen Headbutt, Gyro Ball, Reflect, Light Screen
+Octillery (Lv. 56) @ Expert Belt    /   ?           /   Suction Cups    /   Hydro Pump, Blizzard, Fire Blast, Energy Ball
+Alakazam (Lv. 56) @ Life Orb        /   ?           /   Magic Guard     /   Psychic, Shadow Ball, Dazzling Gleam, Focus Blast
+Rhyperior (Lv. 56) @ Choice Band    /   ?           /   Solid Rock      /   Stone Edge, Earthquake, Megahorn
+Magmortar (Lv. 56) @ Choice Specs   /   ?           /   Flame Body      /   Fire Blast, Thunderbolt, Aura Sphere, Psychic
+Toxicroak (Lv. 57) @ Focus Sash     /   ?           /   Dry Skin        /   Cross Chop, Gunk Shot, Ice Punch, Fake Out
+
+Mt. Coronet ~ 3F
+=================================================================================================================================================
+Galactic Grunt              Nidorina Lv. 54, Swalot Lv. 54, Persian Lv. 54
+Galactic Grunt              Nidorino Lv. 54, Drapion Lv. 54, Kricketune Lv. 54
+
+Mt. Coronet ~ 4F
+=================================================================================================================================================
+Galactic Grunt              Houndoom Lv. 54, Golbat Lv. 54, Beedrill Lv. 54
+Galactic Grunt              Ledian Lv. 55, Weezing Lv. 55
+
+Mt. Coronet ~ Tunnel to Route 211 Entrance
+=================================================================================================================================================
+Galactic Grunt              Golbat Lv. 56
+Galactic Grunt              Murkrow Lv. 54, Mightyena Lv. 54, Sneasel Lv. 54
+Galactic Grunt              Masquerain Lv. 55, Muk Lv. 55
+
+Mt. Coronet ~ 6F
+=================================================================================================================================================
+Galactic Grunt              Golbat Lv. 55, Houndoom Lv. 55, Yanmega Lv. 55
+Galactic Grunt              Ariados Lv. 55, Persian Lv. 55, Forretress Lv. 55
+
+Mt. Coronet ~ 7F
+=================================================================================================================================================
+Galactic Grunt              Murkrow Lv. 55, Golbat Lv. 55, Toxicroak Lv. 55, Pinsir Lv. 55
+
+Spear Pillar
+=================================================================================================================================================
+Galactic Grunt              Toxicroak Lv. 56, Venomoth Lv. 56, Golbat Lv. 56
+Galactic Grunt              Persian Lv. 56, Beautifly Lv. 56, Hypno Lv. 56
+Commander Mars              Crobat Lv. 57, Yanmega Lv. 57, Bronzong Lv. 57, Electivire Lv. 57, Kangaskhan Lv. 57, Purugly Lv. 58
+Commander Jupiter           Crobat Lv. 57, Sableye Lv. 57, Bronzong Lv. 57, Tangrowth Lv. 57, Gastrodon Lv. 57, Skuntank Lv. 58
+
+PKMN Trainer Barry          Staraptor Lv. 58, Heracross Lv. 58, Snorlax Lv. 58, Azumarill Lv. 58, Arcanine Lv. 58, Torterra Lv. 59
+PKMN Trainer Barry          Staraptor Lv. 58, Heracross Lv. 58, Snorlax Lv. 58, Azumarill Lv. 58, Breloom Lv. 58, Infernape Lv. 59
+PKMN Trainer Barry          Staraptor Lv. 58, Heracross Lv. 58, Snorlax Lv. 58, Breloom Lv. 58, Arcanine Lv. 58, Empoleon Lv. 59
+
+Commander Mars
+Crobat (Lv. 57) @ Life Orb          /   ?           /   Inner Focus     /   Brave Bird, Sludge Bomb, Confuse Ray, Torment
+Yanmega (Lv. 57) @ Wise Glasses     /   ?           /   Speed Boost     /   Bug Buzz, Hurricane, Shadow Ball, Detect
+Bronzong (Lv. 57) @ Leftovers       /   ?           /   Levitate        /   Stealth Rock, Zen Headbutt, Gyro Ball, Earthquake
+Electivire (Lv. 57) @ Expert Belt   /   ?           /   Motor Drive     /   Thunder Punch, Ice Punch, Cross Chop, Fire Punch
+Kangaskhan (Lv. 57) @ Muscle Band   /   ?           /   Scrappy         /   Body Slam, Crunch, Hammer Arm, Fake Out
+Purugly (Lv. 58) @ Sitrus Berry     /   ?           /   Thick Fat       /   Body Slam, Play Rough, Fake Out, Hypnosis
+
+Commander Jupiter
+Crobat (Lv. 57) @ Bright Powder     /   ?           /   Inner Focus     /   Brave Bird, Sludge Bomb, Double Team, Hypnosis
+Sableye (Lv. 57) @ Muscle Band      /   ?           /   Magic Guard (!) /   Shadow Claw, Sucker Punch, Zen Headbutt, Fake Out
+Bronzong (Lv. 57) @ Leftovers       /   ?           /   Levitate        /   Swagger, Psychic, Flash Cannon, Grass Knot
+Tangrowth (Lv. 57) @ Big Root       /   ?           /   Chlorophyll     /   Giga Drain, Leech Seed, Focus Blast, Sludge Bomb
+Gastrodon (Lv. 57) @ Wise Glasses   /   ?           /   Sticky Hold     /   Muddy Water, Earth Power, Ice Beam, Recover
+Skuntank (Lv. 58) @ Sitrus Berry    /   ?           /   Aftermath       /   Gunk Shot, Crunch, Play Rough, Toxic
+
+Distortion World
+=================================================================================================================================================
+Galactic Boss Cyrus         Palkia Lv. 70, Dialga Lv. 70
+Galactic Boss Cyrus         Crobat Lv. 59, Honchkrow Lv. 59, Houndoom Lv. 59, Gyarados Lv. 59, Magnezone Lv. 59, Weavile Lv. 60
+
+Galactic Boss Cyrus
+Palkia (Lv. 70, 0 IV) @ None        /   ?           /   Pressure        /   Hydro Pump, Spacial Rend, Earth Power, Aura Sphere
+Dialga (Lv. 70, 0 IV) @ None        /   ?           /   Pressure        /   Flash Cannon, Roar of Time, Earth Power, Aura Sphere
+
+Galactic Boss Cyrus
+Crobat (Lv. 59) @ Choice Band       /   Jolly       /   Inner Focus     /   Brave Bird, U-turn, Cross Poison, Zen Headbutt
+Honchkrow (Lv. 59) @ White Herb     /   Naughty     /   Super Luck      /   Brave Bird, Sucker Punch, Thunder Wave, Superpower
+Houndoom (Lv. 59) @ Life Orb        /   Hasty       /   Intimidate (!)  /   Dark Pulse, Flamethrower, Sludge Bomb, Nasty Plot
+Gyarados (Lv. 59) @ Muscle Band     /   Jolly       /   Intimidate      /   Aqua Tail, Stone Edge, Ice Fang, Dragon Dance
+Magnezone (Lv. 59) @ Wise Glasses   /   Modest      /   Magnet Pull     /   Thunderbolt, Flash Cannon, Signal Beam, Mirror Coat
+Weavile (Lv. 60) @ Focus Sash       /   Jolly       /   Technician (!)  /   Feint Attack, Icicle Crash, Aerial Ace, Swords Dance
+
+Route 222
+=================================================================================================================================================
+Rich Boy Trey (!)           Luxray Lv. 57, Sceptile Lv. 57, Linoone Lv. 57
+Beauty Nicola               Lopunny Lv. 57, Flareon Lv. 57, Meganium Lv. 57
+Policeman Thomas            Noctowl Lv. 59
+Sailor Marc (!)             Lanturn Lv. 57, Machamp Lv. 57, Mantine Lv. 57
+Tuber Conner                Remoraid Lv. 57, Remoraid Lv. 57
+Sailor Luther               Pelipper Lv. 56, Gastrodon Lv. 56, Poliwrath Lv. 56, Kingler Lv. 56
+Fisherman Alec (!)          Gyarados Lv. 57, Gyarados Lv. 57, Gyarados Lv. 57
+Fisherman George            Octillery Lv. 58, Lumineon Lv. 58
+Fisherman Brett             Qwilfish Lv. 59
+Fisherman Cole              Seaking Lv. 57, Sharpedo Lv. 57, Kingdra Lv. 57
+Tuber Holly                 Azumarill Lv. 58
+Poké Kid Janet              Pikachu Lv. 57, Pikachu Lv. 57
+
+Rematches
+Rich Boy Trey (C)           Luxray Lv. 70, Sceptile Lv. 70, Linoone Lv. 70
+Rich Boy Trey (S)           Luxray Lv. 75, Sceptile Lv. 75, Linoone Lv. 75
+Sailor Marc (C)             Lanturn Lv. 70, Machamp Lv. 70, Mantine Lv. 70
+Sailor Marc (S)             Lanturn Lv. 75, Machamp Lv. 75, Mantine Lv. 75
+Fisherman Alec (C)          Gyarados Lv. 70, Gyarados Lv. 70, Gyarados Lv. 70
+
+Sunyshore City
+=================================================================================================================================================
+Arcade Star Dahlia          Blaziken Lv. 63, Dusknoir Lv. 63, Medicham Lv. 63, Togekiss Lv. 63, Ludicolo Lv. 63, Zapdos Lv. 63
+
+Blaziken (Lv. 63) @ Focus Sash      /   ?           /   Speed Boost     /   Swords Dance, Baton Pass, High Jump Kick, Blaze Kick
+Dusknoir (Lv. 63) @ Lum Berry       /   ?           /   Iron Fist (!)   /   Shadow Punch, Thunder Punch, Ice Punch, Drain Punch
+Medicham (Lv. 63) @ Choice Scarf    /   ?           /   Pure Power      /   High Jump Kick, Zen Headbutt, Ice Punch, Fire Punch
+Togekiss (Lv. 63) @ Wise Glasses    /   ?           /   Serene Grace    /   Hurricane, Moonblast, Aura Sphere, Flamethrower
+Ludicolo (Lv. 63) @ Life Orb        /   ?           /   Swift Swim      /   Hydro Pump, Giga Drain, Ice Beam, Fake Out
+Zapdos (Lv. 63) @ Sitrus Berry      /   ?           /   Pressure        /   Thunderbolt, Heat Wave, Drill Peck, Light Screen
+
+Sunyshore Gym
+=================================================================================================================================================
+School Kid Tiera            Plusle Lv. 56, Minun Lv. 56, Pachirisu Lv. 59
+School Kid Forrest          Elekid Lv. 56, Elekid Lv. 56, Electabuzz Lv. 59
+Guitarist Jerry             Electabuzz Lv. 60, Luxray Lv. 60
+Poké Kid Meghan             Pichu Lv. 56, Pichu Lv. 56, Pikachu Lv. 59
+Ace Trainer Destiny         Raichu Lv. 60, Lanturn Lv. 60, Jolteon Lv. 60, Luxray Lv. 60
+Guitarist Preston           Electabuzz Lv. 60, Magnezone Lv. 60
+Guitarist Lonnie            Electabuzz Lv. 60, Electrode Lv. 60
+Ace Trainer Zachery         Ampharos Lv. 60, Magnezone Lv. 60, Manectric Lv. 60, Electrode Lv. 60
+Leader Volkner              Jolteon Lv. 61, Raichu Lv. 61, Rotom Lv. 61, Rotom Lv. 61, Luxray Lv. 61, Electivire Lv. 62
+
+Leader Volkner
+Jolteon (Lv. 61) @ Focus Sash       /   Naive       /   Static          /   Thunderbolt, Shadow Ball, Grass Knot, Thunder Wave
+Raichu (Lv. 61) @ Expert Belt       /   Timid       /   Static          /   Thunderbolt, Grass Knot, Focus Blast, Surf
+Rotom (Lv. 61) @ Sitrus Berry       /   Modest      /   Levitate        /   Thunderbolt, Hydro Pump, Shadow Ball, Thunder Wave
+Rotom (Lv. 61) @ White Herb         /   Modest      /   Levitate        /   Thunderbolt, Overheat, Shadow Ball, Will-O-Wisp
+Luxray (Lv. 61) @ Choice Band       /   Naughty     /   Intimidate      /   Wild Charge, Crunch, Ice Fang, Fire Fang
+Electivire (Lv. 62) @ Life Orb      /   Jolly       /   Motor Drive     /   Wild Charge, Close Combat, Ice Punch, Earthquake
+
+Route 223
+=================================================================================================================================================
+Swimmer Wesley (!)          Floatzel Lv. 59, Sharpedo Lv. 59, Qwilfish Lv. 59
+Swimmer Ricardo             Tentacruel Lv. 61
+Swimmer Francisco (!)       Ludicolo Lv. 59, Relicanth Lv. 59, Poliwrath Lv. 59
+Swimmer Colton              Pelipper Lv. 59, Octillery Lv. 59, Feraligatr Lv. 59
+Swimmer Troy                Gyarados Lv. 61
+Swimmer Oscar               Mantine Lv. 59, Blastoise Lv. 59, Whiscash Lv. 59
+Swimmer Miranda (!)         Cloyster Lv. 60, Lumineon Lv. 60
+Swimmer Aubree              Bibarel Lv. 60, Quagsire Lv. 60
+Swimmer Paige               Azumarill Lv. 59, Slowbro Lv. 59, Gorebyss Lv. 59
+Swimmer Crystal (!)         Wailord Lv. 59, Seaking Lv. 59, Corsola Lv. 59
+Swimmer Cassandra           Vaporeon Lv. 61
+Swimmer Gabrielle           Golduck Lv. 59, Lapras Lv. 59, Starmie Lv. 59
+Sailor Zachariah (!)        Kingler Lv. 58, Machamp Lv. 58, Gastrodon Lv. 58, Slowking Lv. 58
+
+Rematches
+Swimmer Wesley (S)          Floatzel Lv. 75, Sharpedo Lv. 75, Qwilfish Lv. 75
+Swimmer Francisco (S)       Ludicolo Lv. 75, Relicanth Lv. 75, Poliwrath Lv. 75
+Swimmer Miranda (S)         Cloyster Lv. 75, Lumineon Lv. 75, Starmie Lv. 75
+Swimmer Crystal (S)         Wailord Lv. 75, Seaking Lv. 75, Corsola Lv. 75
+Sailor Zachariah (S)        Kingler Lv. 74, Machamp Lv. 74, Gastrodon Lv. 74, Slowking Lv. 74
+
+Victory Road
+=================================================================================================================================================
+Psychic Bryce               Gengar Lv. 63, Gardevoir Lv. 63, Exeggutor Lv. 63, Espeon Lv. 63
+Bird Keeper Hana            Noctowl Lv. 63, Dodrio Lv. 63, Farfetch'd Lv. 63, Pidgeot Lv. 63
+Ace Trainer Mariah          Blissey Lv. 63, Walrein Lv. 63, Aggron Lv. 63, Jumpluff Lv. 63, Mismagius Lv. 63
+Ace Trainer Omar            Rapidash Lv. 63, Tropius Lv. 63, Rampardos Lv. 63, Heracross Lv. 63, Mamoswine Lv. 63
+Ace Trainer Sydney          Clefable Lv. 63, Torterra Lv. 63, Starmie Lv. 63, Magcargo Lv. 63, Tauros Lv. 63
+Veteran Clayton             Lickilicky Lv. 64, Hippowdon Lv. 64, Staraptor Lv. 64, Pinsir Lv. 64, Electivire Lv. 64
+Double Team Al & Kay        Whiscash Lv. 64, Ambipom Lv. 64, Umbreon Lv. 64, Venusaur Lv. 64
+Black Belt Miles            Machamp Lv. 63, Poliwrath Lv. 63, Hitmonchan Lv. 63, Hitmonlee Lv. 63
+Psychic Valencia            Chimecho Lv. 63, Dusknoir Lv. 63, Absol Lv. 63, Grumpig Lv. 63
+Double Team Jo & Pat        Medicham Lv. 64, Milotic Lv. 64, Ninetales Lv. 64, Victreebel Lv. 64
+Ace Trainer Henry           Honchkrow Lv. 63, Marowak Lv. 63, Carnivine Lv. 63, Manectric Lv. 63, Slowking Lv. 63
+Dragon Tamer Ondrej         Kingdra Lv. 64, Altaria Lv. 64, Salamence Lv. 64, Charizard Lv. 64
+Veteran Edgar               Porygon-Z Lv. 64, Tangrowth Lv. 64, Empoleon Lv. 64, Golem Lv. 64, Typhlosion Lv. 64
+Dragon Tamer Clinton        Flygon Lv. 64, Gyarados Lv. 64, Dragonite Lv. 64, Aerodactyl Lv. 64
+
+Victory Road ~ East
+=================================================================================================================================================
+PKMN Trainer Marley         Starmie Lv. 65, Electrode Lv. 65, Sceptile Lv. 65, Crobat Lv. 65, Weavile Lv. 65, Arcanine Lv. 66
+Ace Trainer Micah           Metagross Lv. 65, Ludicolo Lv. 65, Blaziken Lv. 65
+Ace Trainer Brandi          Nidoqueen Lv. 65, Kangaskhan Lv. 65, Jynx Lv. 65
+Psychic Desiree             Mr. Mime Lv. 64, Drifblim Lv. 64, Hypno Lv. 64
+Psychic Landon              Banette Lv. 64, Alakazam Lv. 64, Girafarig Lv. 64
+Black Belt Eddie            Primeape Lv. 64, Breloom Lv. 64, Infernape Lv. 64
+Veteran Terrell             Parasect Lv. 66, Quagsire Lv. 66, Houndoom Lv. 66
+Dragon Tamer Joe            Dragonair Lv. 65, Salamence Lv. 65, Kingdra Lv. 65
+Bird Keeper Autumn          Xatu Lv. 64, Pelipper Lv. 64, Delibird Lv. 64
+Psychic Deandre             Dusclops Lv. 64, Sableye Lv. 64, Dusknoir Lv. 64
+Psychic Kendra              Chimecho Lv. 64, Froslass Lv. 64, Wobbuffet Lv. 64
+Black Belt Willie           Heracross Lv. 64, Machamp Lv. 64, Toxicroak Lv. 64
+Veteran Brenden             Forretress Lv. 66, Kabutops Lv. 66, Donphan Lv. 66
+Ace Trainer Arthur          Gastrodon Lv. 64, Beedrill Lv. 64, Ampharos Lv. 64
+Ace Trainer Clarice         Swalot Lv. 64, Ninetales Lv. 64, Scizor Lv. 64
+
+PKMN Trainer Marley
+Starmie (Lv. 65) @ Expert Belt      /   ?           /   Illuminate      /   Hydro Pump, Blizzard, Thunder, Psychic
+Electrode (Lv. 65) @ Light Clay     /   ?           /   Soundproof      /   Thunderbolt, Thunder Wave, Light Screen, Explosion
+Sceptile (Lv. 65) @ Petaya Berry    /   ?           /   Unburden        /   Energy Ball, Dragon Pulse, Focus Blast, Endure
+Crobat (Lv. 65) @ Bright Powder     /   ?           /   Inner Focus     /   Brave Bird, Cross Poison, Hypnosis, Roost
+Weavile (Lv. 65) @ Life Orb         /   ?           /   Technician      /   Crunch, Icicle Crash, Aerial Ace, Low Kick
+Arcanine (Lv. 66) @ Sitrus Berry    /   ?           /   Intimidate      /   Flare Blitz, Close Combat, Crunch, Extreme Speed
+
+Route 224
+=================================================================================================================================================
+Ace Trainer Ruben           Shiftry Lv. 67, Gyarados Lv. 67, Politoed Lv. 67, Leafeon Lv. 67
+Psychic Brittney            Hypno Lv. 66, Alakazam Lv. 66, Medicham Lv. 66, Lunatone Lv. 66
+Psychic Maxwell             Mismagius Lv. 66, Gengar Lv. 66, Slowbro Lv. 66, Solrock Lv. 66
+Veteran Armando (!)         Muk Lv. 68, Mightyena Lv. 68, Lickilicky Lv. 68, Pelipper Lv. 68
+Black Belt Carl             Hariyama Lv. 66, Hitmonlee Lv. 66, Hitmonchan Lv. 66, Hitmontop Lv. 66
+Ruin Maniac Larry           Aerodactyl Lv. 66, Armaldo Lv. 66, Cradily Lv. 66, Relicanth Lv. 66
+Ace Trainer Jamie           Vaporeon Lv. 67, Metagross Lv. 67, Roserade Lv. 67, Dugtrio Lv. 67
+Dragon Tamer Hayden (!)     Altaria Lv. 67, Salamence Lv. 67, Kingdra Lv. 67, Dragonite Lv. 67
+PKMN Trainer Dawn           Alakazam Lv. 69, Mamoswine Lv. 69, Clefable Lv. 69, Lopunny Lv. 69, Vaporeon Lv. 69, Torterra Lv. 70
+PKMN Trainer Dawn           Alakazam Lv. 69, Mamoswine Lv. 69, Clefable Lv. 69, Lopunny Lv. 69, Jolteon Lv. 69, Infernape Lv. 70
+PKMN Trainer Dawn           Alakazam Lv. 69, Mamoswine Lv. 69, Clefable Lv. 69, Lopunny Lv. 69, Flareon Lv. 69, Empoleon Lv. 70
+PKMN Trainer Lucas          Alakazam Lv. 69, Mamoswine Lv. 69, Granbull Lv. 69, Lickilicky Lv. 69, Vaporeon Lv. 69, Torterra Lv. 70
+PKMN Trainer Lucas          Alakazam Lv. 69, Mamoswine Lv. 69, Granbull Lv. 69, Lickilicky Lv. 69, Jolteon Lv. 69, Infernape Lv. 70
+PKMN Trainer Lucas          Alakazam Lv. 69, Mamoswine Lv. 69, Granbull Lv. 69, Lickilicky Lv. 69, Flareon Lv. 69, Empoleon Lv. 70
+
+Rematches
+Veteran Armando (S)         Muk Lv. 77, Mightyena Lv. 77, Lickilicky Lv. 77, Pelipper Lv. 77
+Dragon Tamer Hayden (S)     Altaria Lv. 77, Salamence Lv. 77, Kingdra Lv. 77, Dragonite Lv. 77
+
+PKMN Trainer Dawn
+Alakazam (Lv. 69) @ Life Orb        /   ?           /   Magic Guard     /   Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
+Mamoswine (Lv. 69) @ Choice Band    /   ?           /   Thick Fat       /   Earthquake, Icicle Crash, Stone Edge, Superpower
+Clefable (Lv. 69) @ Leftovers       /   ?           /   Cute Charm      /   Moonblast, Soft-Boiled, Calm Mind, Flamethrower
+Lopunny (Lv. 69) @ Focus Sash       /   ?           /   Scrappy         /   Mega Kick, High Jump Kick, Fake Out, Agility
+Vaporeon (Lv. 69) @ Wacan Berry     /   ?           /   Water Absorb    /   Muddy Water, Ice Beam, Rest, Sleep Talk                 (!)
+Jolteon (Lv. 69) @ Shuca Berry      /   ?           /   Volt Absorb     /   Thunderbolt, Grass Knot, Shadow Ball, Thunder Wave      (!)
+Flareon (Lv. 69) @ Passho Berry     /   ?           /   Flash Fire      /   Flare Blitz, Play Rough, Close Combat, Wild Charge      (!)
+Torterra (Lv. 70) @ Sitrus Berry    /   ?           /   Overgrow        /   Frenzy Plant, Earthquake, Stone Edge, Iron Head         (!)
+Infernape (Lv. 70) @ Sitrus Berry   /   ?           /   Iron Fist       /   Blast Burn, Close Combat, Stone Edge, Thunder Punch     (!)
+Empoleon (Lv. 70) @ Sitrus Berry    /   ?           /   Torrent         /   Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam        (!)
+
+PKMN Trainer Lucas
+Alakazam (Lv. 69) @ Life Orb        /   ?           /   Magic Guard     /   Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
+Mamoswine (Lv. 69) @ Choice Band    /   ?           /   Thick Fat       /   Earthquake, Icicle Crash, Stone Edge, Superpower
+Granbull (Lv. 69) @ Muscle Band     /   ?           /   Intimidate      /   Play Rough, Close Combat, Crunch, Earthquake
+Lickilicky (Lv. 69) @ Leftovers     /   ?           /   Own Tempo       /   Double-Edge, Earthquake, Hammer Arm, Swords Dance
+Vaporeon (Lv. 69) @ Wacan Berry     /   ?           /   Water Absorb    /   Muddy Water, Ice Beam, Rest, Sleep Talk                 (!)
+Jolteon (Lv. 69) @ Shuca Berry      /   ?           /   Volt Absorb     /   Thunderbolt, Grass Knot, Shadow Ball, Thunder Wave      (!)
+Flareon (Lv. 69) @ Passho Berry     /   ?           /   Flash Fire      /   Flare Blitz, Play Rough, Close Combat, Wild Charge      (!)
+Torterra (Lv. 70) @ Sitrus Berry    /   ?           /   Overgrow        /   Frenzy Plant, Earthquake, Stone Edge, Iron Head         (!)
+Infernape (Lv. 70) @ Sitrus Berry   /   ?           /   Iron Fist       /   Blast Burn, Close Combat, Stone Edge, Thunder Punch     (!)
+Empoleon (Lv. 70) @ Sitrus Berry    /   ?           /   Torrent         /   Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam        (!)
+
+Pokémon League
+=================================================================================================================================================
+Note: In the first round, each Elite Four member will use a random team out of the four listed when challenged.
+
+PKMN Trainer Barry          Staraptor Lv. 70, Heracross Lv. 70, Snorlax Lv. 70, Azumarill Lv. 70, Arcanine Lv. 70, Torterra Lv. 71
+PKMN Trainer Barry          Staraptor Lv. 70, Heracross Lv. 70, Snorlax Lv. 70, Azumarill Lv. 70, Breloom Lv. 70, Infernape Lv. 71
+PKMN Trainer Barry          Staraptor Lv. 70, Heracross Lv. 70, Snorlax Lv. 70, Breloom Lv. 70, Arcanine Lv. 70, Empoleon Lv. 71
+
+Round 1
+---
+Elite Four Aaron            Yanmega Lv. 71, Scizor Lv. 71, Heracross Lv. 71, Vespiquen Lv. 71, Armaldo Lv. 71, Drapion Lv. 72
+Elite Four Aaron            Venomoth Lv. 71, Scyther Lv. 71, Pinsir Lv. 71, Forretress Lv. 71, Armaldo Lv. 71, Drapion Lv. 72
+Elite Four Aaron            Masquerain Lv. 71, Beautifly Lv. 71, Heracross Lv. 71, Scizor Lv. 71, Dustox Lv. 71, Drapion Lv. 72
+Elite Four Aaron            Scyther Lv. 71, Yanmega Lv. 71, Pinsir Lv. 71, Scizor Lv. 71, Flygon Lv. 71, Drapion Lv. 72
+Elite Four Bertha           Hippowdon Lv. 72, Whiscash Lv. 72, Gliscor Lv. 72, Golem Lv. 72, Donphan Lv. 72, Rhyperior Lv. 73
+Elite Four Bertha           Hippowdon Lv. 72, Sudowoodo Lv. 72, Gliscor Lv. 72, Torterra Lv. 72, Camerupt Lv. 72, Rhyperior Lv. 73
+Elite Four Bertha           Tyranitar Lv. 72, Swampert Lv. 72, Dugtrio Lv. 72, Mamoswine Lv. 72, Claydol Lv. 72, Rhyperior Lv. 73
+Elite Four Bertha           Tyranitar Lv. 72, Quagsire Lv. 72, Mamoswine Lv. 72, Dugtrio Lv. 72, Torterra Lv. 72, Rhyperior Lv. 73
+Elite Four Flint            Ninetales Lv. 73, Houndoom Lv. 73, Flareon Lv. 73, Rapidash Lv. 73, Infernape Lv. 73, Magmortar Lv. 74
+Elite Four Flint            Rapidash Lv. 73, Lopunny Lv. 73, Drifblim Lv. 73, Steelix Lv. 73, Infernape Lv. 73, Magmortar Lv. 74
+Elite Four Flint            Ninetales Lv. 73, Arcanine Lv. 73, Magcargo Lv. 73, Lopunny Lv. 73, Charizard Lv. 73, Magmortar Lv. 74
+Elite Four Flint            Torkoal Lv. 73, Houndoom Lv. 73, Arcanine Lv. 73, Drifblim Lv. 73, Typhlosion Lv. 73, Magmortar Lv. 74
+Elite Four Lucian           Mr. Mime Lv. 74, Espeon Lv. 74, Bronzong Lv. 74, Alakazam Lv. 74, Metagross Lv. 74, Gallade Lv. 75
+Elite Four Lucian           Espeon Lv. 74, Girafarig Lv. 74, Medicham Lv. 74, Starmie Lv. 74, Exeggutor Lv. 74, Gallade Lv. 75
+Elite Four Lucian           Hypno Lv. 74, Slowbro Lv. 74, Gardevoir Lv. 74, Jynx Lv. 74, Bronzong Lv. 74, Gallade Lv. 75
+Elite Four Lucian           Alakazam Lv. 74, Gardevoir Lv. 74, Exeggutor Lv. 74, Starmie Lv. 74, Metagross Lv. 74, Gallade Lv. 75
+Champion Cynthia            Spiritomb Lv. 77, Roserade Lv. 77, Togekiss Lv. 77, Lucario Lv. 77, Milotic Lv. 77, Garchomp Lv. 78
+Champion Cynthia            Milotic Lv. 77, Spiritomb Lv. 77, Ampharos Lv. 77, Staraptor Lv. 77, Lucario Lv. 77, Garchomp Lv. 78
+Champion Cynthia            Togekiss Lv. 77, Milotic Lv. 77, Spiritomb Lv. 77, Lucario Lv. 77, Glaceon Lv. 77, Garchomp Lv. 78
+Champion Cynthia            Clefable Lv. 77, Roserade Lv. 77, Mismagius Lv. 77, Lopunny Lv. 77, Milotic Lv. 77, Garchomp Lv. 78
+
+Round 2
+---
+Elite Four Aaron            Yanmega Lv. 83, Scizor Lv. 83, Heracross Lv. 83, Scyther Lv. 83, Armaldo Lv. 83, Drapion Lv. 84
+Elite Four Bertha           Hippowdown Lv. 84, Swampert Lv. 84, Gliscor Lv. 84, Tyranitar Lv. 84, Dugtrio Lv. 84, Rhyperior Lv. 85
+Elite Four Flint            Ninetales Lv. 85, Houndoom Lv. 85, Magmortar Lv. 85, Infernape Lv. 85, Rapidash Lv. 85, Moltres Lv. 86
+Elite Four Lucian           Mr. Mime Lv. 86, Espeon Lv. 86, Gallade Lv. 86, Metagross Lv. 86, Alakazam Lv. 86, Latios Lv. 87
+Champion Cynthia            Spiritomb Lv. 88, Togekiss Lv. 88, Lucario Lv. 88, Garchomp Lv. 88, Milotic Lv. 88, Rayquaza Lv. 89
+
+PKMN Trainer Barry
+Staraptor (Lv. 70) @ Choice Scarf   /   ?           /   Intimidate          /   Double-Edge, Brave Bird, Close Combat, U-turn
+Heracross (Lv. 70) @ Toxic Orb      /   ?           /   Guts                /   Megahorn, Close Combat, Stone Edge, Protect
+Snorlax (Lv. 70) @ Leftovers        /   ?           /   Thick Fat           /   Body Slam, Earthquake, Curse, Slack Off
+Azumarill (Lv. 70) @ Life Orb       /   ?           /   Huge Power          /   Aqua Tail, Play Rough, Ice Punch, Aqua Jet              (!)
+Arcanine (Lv. 70) @ Life Orb        /   ?           /   Intimidate          /   Flare Blitz, Close Combat, Wild Charge, Crunch          (!)
+Breloom (Lv. 70) @ Life Orb         /   ?           /   Technician          /   Bullet Seed, Force Palm, Stone Edge, Spore              (!)
+Torterra (Lv. 71) @ Sitrus Berry    /   ?           /   Overgrow            /   Wood Hammer, Earthquake, Stone Edge, Crunch             (!)
+Infernape (Lv. 71) @ Sitrus Berry   /   ?           /   Iron Fist           /   Flare Blitz, Close Combat, Stone Edge, Grass Knot       (!)
+Empoleon (Lv. 71) @ Sitrus Berry    /   ?           /   Torrent             /   Hydro Pump, Flash Cannon, Grass Knot, Blizzard          (!)
+
+(R1) Elite Four Aaron
+Yanmega (Lv. 71) @ Wise Glasses     /   Timid       /   Speed Boost         /   Bug Buzz, Hurricane, Giga Drain, Protect
+Scizor (Lv. 71) @ Life Orb          /   Adamant     /   Technician          /   Bug Bite, Iron Head, Bullet Punch, U-turn
+Heracross (Lv. 71) @ Choice Scarf   /   Adamant     /   Guts                /   Megahorn, Close Combat, Stone Edge, Night Slash
+Vespiquen (Lv. 71) @ Leftovers      /   Brave       /   Intimidate (!)      /   Attack Order, Defend Order, Heal Order, Hurricane
+Armaldo (Lv. 71) @ Choice Band      /   Naughty     /   Battle Armor        /   X-Scissor, Stone Edge, Earthquake, Aqua Tail
+Drapion (Lv. 72) @ Scope Lens       /   Jolly       /   Sniper              /   Cross Poison, Night Slash, X-Scissor, Earthquake
+
+(R1) Elite Four Aaron
+Venomoth (Lv. 71) @ Wide Lens       /   Timid       /   Tinted Lens         /   Bug Buzz, Sludge Bomb, Double Team, Psychic
+Scyther (Lv. 71) @ Life Orb         /   Naive       /   Technician          /   Bug Bite, Aerial Ace, Quick Attack, U-turn
+Pinsir (Lv. 71) @ Expert Belt       /   Adamant     /   Hyper Cutter        /   Megahorn, Close Combat, Stone Edge, Earthquake
+Forretress (Lv. 71) @ Leftovers     /   Adamant     /   Sturdy              /   Gyro Ball, Bug Bite, Drill Run, Toxic Spikes
+Armaldo (Lv. 71) @ Choice Band      /   Adamant     /   Battle Armor        /   X-Scissor, Stone Edge, Earthquake, Aqua Tail
+Drapion (Lv. 72) @ Scope Lens       /   Naive       /   Sniper              /   Cross Poison, Night Slash, Aqua Tail, Earthquake
+
+(R1) Elite Four Aaron
+Masquerain (Lv. 71) @ Wise Glasses  /   Hasty       /   Intimidate          /   Hydro Pump, Bug Buzz, Hurricane, Blizzard
+Beautifly (Lv. 71) @ Focus Sash     /   Mild        /   Swarm               /   Bug Buzz, Hurricane, Energy Ball, Shadow Ball
+Heracross (Lv. 71) @ Toxic Orb      /   Adamant     /   Guts                /   Megahorn, Close Combat, Stone Edge, Protect
+Scizor (Lv. 71) @ Life Orb          /   Adamant     /   Technician          /   Bug Bite, Iron Head, Bullet Punch, U-turn
+Dustox (Lv. 71) @ Light Clay        /   Bold        /   Shield Dust         /   Bug Buzz, Sludge Bomb, Light Screen, Moonlight
+Drapion (Lv. 72) @ Scope Lens       /   Naive       /   Sniper              /   Cross Poison, Night Slash, X-Scissor, Earthquake
+
+(R1) Elite Four Aaron
+Scyther (Lv. 71) @ Life Orb         /   Naive       /   Technician          /   Bug Bite, Aerial Ace, Quick Attack, U-turn
+Yanmega (Lv. 71) @ Wise Glasses     /   Timid       /   Speed Boost         /   Bug Buzz, Hurricane, Psychic, Detect
+Pinsir (Lv. 71) @ Expert Belt       /   Adamant     /   Hyper Cutter        /   Megahorn, Close Combat, Stone Edge, Earthquake
+Scizor (Lv. 71) @ Life Orb          /   Adamant     /   Technician          /   Bug Bite, Iron Head, Bullet Punch, U-turn
+Flygon (Lv. 71) @ White Herb        /   Timid       /   Compound Eyes (!)   /   Bug Buzz, Draco Meteor, Fire Blast, Earth Power
+Drapion (Lv. 72) @ Scope Lens       /   Naive       /   Sniper              /   Cross Poison, Night Slash, Aqua Tail, Earthquake
+
+(R1) Elite Four Bertha
+Hippowdon (Lv. 72) @ Leftovers      /   Adamant     /   Sand Stream         /   Earthquake, Crunch, Stealth Rock, Slack Off
+Whiscash (Lv. 72) @ Life Orb        /   Careful     /   Oblivious           /   Aqua Tail, Earthquake, Bounce, Dragon Dance
+Gliscor (Lv. 72) @ Toxic Orb        /   Naive       /   Poison Heal         /   Earthquake, Wing Attack, Protect, Roost
+Golem (Lv. 72) @ Focus Sash         /   Naughty     /   Rock Head           /   Earthquake, Stone Edge, Thunder Punch, Explosion
+Donphan (Lv. 72) @ Rindo Berry      /   Impish      /   Sand Veil           /   Earthquake, Play Rough, Head Smash, Superpower
+Rhyperior (Lv. 73) @ Choice Band    /   Brave       /   Solid Rock          /   Earthquake, Stone Edge, Megahorn, Ice Punch
+
+(R1) Elite Four Bertha
+Hippowdon (Lv. 72) @ Sitrus Berry   /   Naughty     /   Sand Stream         /   Earthquake, Crunch, Stealth Rock, Slack Off
+Sudowoodo (Lv. 72) @ Passho Berry   /   Relaxed     /   Rock Head           /   Head Smash, Wood Hammer, Sucker Punch, Hammer Arm
+Gliscor (Lv. 72) @ Toxic Orb        /   Impish      /   Poison Heal         /   Earthquake, X-Scissor, Protect, Roost
+Torterra (Lv. 72) @ Leftovers       /   Adamant     /   Overgrow            /   Earthquake, Wood Hammer, Stone Edge, Leech Seed
+Camerupt (Lv. 72) @ Focus Sash      /   Quiet       /   Solid Rock          /   Overheat, Earth Power, Yawn, Explosion
+Rhyperior (Lv. 73) @ Choice Band    /   Naughty     /   Solid Rock          /   Earthquake, Stone Edge, Megahorn, Thunder Punch
+
+(R1) Elite Four Bertha
+Tyranitar (Lv. 72) @ Choice Scarf   /   Naughty     /   Sand Stream         /   Stone Edge, Crunch, Earthquake, Thunder Punch
+Swampert (Lv. 72) @ Lum Berry       /   Adamant     /   Torrent             /   Earthquake, Aqua Tail, Rest, Sleep Talk
+Dugtrio (Lv. 72) @ Choice Band      /   Naughty     /   Arena Trap          /   Earthquake, Stone Edge, Night Slash, Aerial Ace
+Mamoswine (Lv. 72) @ Passho Berry   /   Jolly       /   Thick Fat           /   Earthquake, Icicle Crash, Stone Edge, Ice Shard
+Claydol (Lv. 72) @ Light Clay       /   Sassy       /   Levitate            /   Earthquake, Psychic, Reflect, Light Screen
+Rhyperior (Lv. 73) @ Choice Band    /   Naughty     /   Solid Rock          /   Earthquake, Stone Edge, Megahorn, Fire Punch
+
+(R1) Elite Four Bertha
+Tyranitar (Lv. 72) @ Choice Scarf   /   Jolly       /   Sand Stream         /   Stone Edge, Crunch, Earthquake, Fire Punch
+Quagsire (Lv. 72) @ Sitrus Berry    /   Careful     /   Water Absorb        /   Earthquake, Aqua Tail, Yawn, Recover
+Mamoswine (Lv. 72) @ Passho Berry   /   Jolly       /   Thick Fat           /   Earthquake, Icicle Crash, Stone Edge, Ice Shard
+Dugtrio (Lv. 72) @ Choice Band      /   Naughty     /   Arena Trap          /   Earthquake, Stone Edge, Night Slash, Aerial Ace
+Torterra (Lv. 72) @ Leftovers       /   Brave       /   Overgrow            /   Earthquake, Wood Hammer, Stone Edge, Leech Seed
+Rhyperior (Lv. 73) @ Choice Band    /   Naughty     /   Solid Rock          /   Earthquake, Stone Edge, Megahorn, Ice Punch
+
+(R1) Elite Four Flint
+Ninetales (Lv. 73) @ White Herb     /   Timid       /   Drought             /   Overheat, Solar Beam, Moonblast, Confuse Ray
+Houndoom (Lv. 73) @ Choice Scarf    /   Hasty       /   Intimidate (!)      /   Fire Blast, Dark Pulse, Solar Beam, Sludge Bomb
+Flareon (Lv. 73) @ Choice Band      /   Lonely      /   Flash Fire          /   Flare Blitz, Play Rough, Wild Charge, Close Combat
+Rapidash (Lv. 73) @ Power Herb      /   Hasty       /   Flame Body          /   Flare Blitz, Wild Charge, Megahorn, Drill Run
+Infernape (Lv. 73) @ Expert Belt    /   Hasty       /   Iron Fist           /   Flare Blitz, Close Combat, Thunder Punch, Grass Knot
+Magmortar (Lv. 74) @ Life Orb       /   Timid       /   Flame Body          /   Fire Blast, Thunderbolt, Aura Sphere, Solar Beam
+
+(R1) Elite Four Flint
+Rapidash (Lv. 73) @ Heat Rock       /   Naive       /   Flame Body          /   Flare Blitz, Wild Charge, Megahorn, Sunny Day
+Lopunny (Lv. 73) @ Focus Sash       /   Hasty       /   Scrappy (!)         /   High Jump Kick, Mega Kick, Blaze Kick, Sunny Day
+Drifblim (Lv. 73) @ Wacan Berry     /   Modest      /   Unburden            /   Shadow Ball, Hurricane, Flamethrower, Will-O-Wisp
+Steelix (Lv. 73) @ Muscle Band      /   Sassy       /   Rock Head           /   Iron Tail, Earthquake, Fire Fang, Crunch
+Infernape (Lv. 73) @ Expert Belt    /   Adamant     /   Iron Fist           /   Flare Blitz, Close Combat, Thunder Punch, Gunk Shot
+Magmortar (Lv. 74) @ Life Orb       /   Modest      /   Flame Body          /   Fire Blast, Thunderbolt, Aura Sphere, Solar Beam
+
+(R1) Elite Four Flint
+Ninetales (Lv. 73) @ White Herb     /   Modest      /   Drought             /   Overheat, Solar Beam, Moonblast, Hypnosis
+Arcanine (Lv. 73) @ Expert Belt     /   Hasty       /   Intimidate          /   Flare Blitz, Wild Charge, Crunch, Extreme Speed
+Magcargo (Lv. 73) @ Focus Sash      /   Quiet       /   Solid Rock (!)      /   Fire Blast, Earth Power, Power Gem, Solar Beam
+Lopunny (Lv. 73) @ Muscle Band      /   Hasty       /   Scrappy (!)         /   High Jump Kick, Mega Kick, Blaze Kick, Fake Out
+Charizard (Lv. 73) @ Choice Specs   /   Modest      /   Drought (!)         /   Fire Blast, Dragon Pulse, Hurricane, Solar Beam
+Magmortar (Lv. 74) @ Life Orb       /   Modest      /   Flame Body          /   Fire Blast, Thunderbolt, Aura Sphere, Solar Beam
+
+(R1) Elite Four Flint
+Torkoal (Lv. 73) @ Focus Sash       /   Calm        /   Drought             /   Fire Blast, Earth Power, Stealth Rock, Solar Beam
+Houndoom (Lv. 73) @ Choice Specs    /   Hasty       /   Intimidate (!)      /   Fire Blast, Dark Pulse, Solar Beam, Sludge Bomb
+Arcanine (Lv. 73) @ Expert Belt     /   Hasty       /   Intimidate          /   Flare Blitz, Wild Charge, Crunch, Extreme Speed
+Drifblim (Lv. 73) @ Wacan Berry     /   Rash        /   Unburden            /   Shadow Ball, Hurricane, Flamethrower, Will-O-Wisp
+Typhlosion (Lv. 73) @ Choice Scarf  /   Timid       /   Flash Fire          /   Eruption, Extrasensory, Earth Power, Solar Beam
+Magmortar (Lv. 74) @ Life Orb       /   Rash        /   Flame Body          /   Fire Blast, Thunderbolt, Aura Sphere, Solar Beam
+
+(R1) Elite Four Lucian
+Mr. Mime (Lv. 74) @ Light Clay      /   Naive       /   Filter              /   Psychic, Dazzling Gleam, Reflect, Light Screen
+Espeon (Lv. 74) @ Wise Glasses      /   Naive       /   Synchronize         /   Psychic, Dazzling Gleam, Aura Sphere, Power Gem
+Bronzong (Lv. 74) @ Leftovers       /   Impish      /   Levitate            /   Zen Headbutt, Gyro Ball, Reflect, Light Screen
+Alakazam (Lv. 74) @ Life Orb        /   Timid       /   Magic Guard         /   Psychic, Shadow Ball, Energy Ball, Aura Sphere
+Metagross (Lv. 74) @ Muscle Band    /   Naughty     /   Iron Fist (!)       /   Zen Headbutt, Meteor Mash, Earthquake, Explosion
+Gallade (Lv. 75) @ Scope Lens       /   Lonely      /   Steadfast           /   Psycho Cut, Close Combat, Leaf Blade, Night Slash
+
+(R1) Elite Four Lucian
+Espeon (Lv. 74) @ Light Clay        /   Hasty       /   Synchronize         /   Psychic, Aura Sphere, Reflect, Light Screen
+Girafarig (Lv. 74) @ Colbur Berry   /   Hasty       /   Inner Focus         /   Psychic, Thunderbolt, Shadow Ball, Earthquake
+Medicham (Lv. 74) @ Choice Scarf    /   Naive       /   Pure Power          /   Zen Headbutt, High Jump Kick, Thunder Punch, Ice Punch
+Starmie (Lv. 74) @ Life Orb         /   Modest      /   Illuminate          /   Psychic, Hydro Pump, Ice Beam, Thunderbolt
+Exeggutor (Lv. 74) @ Occa Berry     /   Quiet       /   Chlorophyll         /   Psychic, Giga Drain, Sleep Powder, Leech Seed
+Gallade (Lv. 75) @ Scope Lens       /   Jolly       /   Steadfast           /   Psycho Cut, Close Combat, Leaf Blade, Night Slash
+
+(R1) Elite Four Lucian
+Hypno (Lv. 74) @ Light Clay         /   Relaxed     /   Insomnia            /   Psychic, Hypnosis, Reflect, Light Screen
+Slowbro (Lv. 74) @ Leftovers        /   Bold        /   Oblivious           /   Psychic, Scald, Flamethrower, Slack Off
+Gardevoir (Lv. 74) @ Wise Glasses   /   Timid       /   Synchronize         /   Psychic, Moonblast, Thunderbolt, Aura Sphere
+Jynx (Lv. 74) @ White Herb          /   Naive       /   Dry Skin            /   Psycho Boost, Blizzard, Petal Dance, Fake Out
+Bronzong (Lv. 74) @ Occa Berry      /   Relaxed     /   Levitate            /   Psychic, Flash Cannon, Earthquake, Hypnosis
+Gallade (Lv. 75) @ Scope Lens       /   Jolly       /   Steadfast           /   Psycho Cut, Close Combat, Leaf Blade, Night Slash
+
+(R1) Elite Four Lucian
+Alakazam (Lv. 74) @ Focus Sash      /   Timid       /   Magic Guard         /   Psychic, Aura Sphere, Thunder Wave, Counter
+Gardevoir (Lv. 74) @ Wise Glasses   /   Timid       /   Synchronize         /   Psychic, Moonblast, Thunderbolt, Aura Sphere
+Exeggutor (Lv. 74) @ Occa Berry     /   Rash        /   Chlorophyll         /   Psychic, Giga Drain, Sleep Powder, Leech Seed
+Starmie (Lv. 74) @ Life Orb         /   Modest      /   Illuminate          /   Psychic, Hydro Pump, Ice Beam, Thunderbolt
+Metagross (Lv. 74) @ Muscle Band    /   Naughty     /   Iron Fist (!)       /   Zen Headbutt, Meteor Mash, Earthquake, Explosion
+Gallade (Lv. 75) @ Scope Lens       /   Jolly       /   Steadfast           /   Psycho Cut, Close Combat, Leaf Blade, Night Slash
+
+(R1) Champion Cynthia
+Spiritomb (Lv. 77) @ Lum Berry      /   Sassy       /   Pressure            /   Dark Pulse, Will-O-Wisp, Confuse Ray, Rest
+Roserade (Lv. 77) @ White Herb      /   Timid       /   Technician          /   Leaf Storm, Sludge Bomb, Dazzling Gleam, Sleep Powder
+Togekiss (Lv. 77) @ Sitrus Berry    /   Bold        /   Serene Grace        /   Air Slash, Thunder Wave, Roost, Moonblast
+Lucario (Lv. 77) @ Life Orb         /   Jolly       /   Adaptability (!)    /   High Jump Kick, Meteor Mash, Extreme Speed, Ice Punch
+Milotic (Lv. 77) @ Leftovers        /   Calm        /   Marvel Scale        /   Surf, Ice Beam, Recover, Hypnosis
+Garchomp (Lv. 78) @ Yache Berry     /   Jolly       /   Rough Skin          /   Earthquake, Outrage, Stone Edge, Swords Dance
+
+(R1) Champion Cynthia
+Milotic (Lv. 77) @ Leftovers        /   Bold        /   Marvel Scale        /   Scald, Ice Beam, Light Screen, Recover
+Spiritomb (Lv. 77) @ Wise Glasses   /   Relaxed     /   Pressure            /   Dark Pulse, Shadow Ball, Psychic, Hypnosis
+Ampharos (Lv. 77) @ Shuca Berry     /   Quiet       /   Static              /   Thunderbolt, Dragon Pulse, Focus Blast, Flash Cannon
+Staraptor (Lv. 77) @ Choice Scarf   /   Naughty     /   Reckless            /   Brave Bird, Double-Edge, Close Combat, U-turn
+Lucario (Lv. 77) @ Life Orb         /   Timid       /   Adaptability (!)    /   Aura Sphere, Flash Cannon, Dark Pulse, Vacuum Wave
+Garchomp (Lv. 78) @ Yache Berry     /   Hasty       /   Rough Skin          /   Earthquake, Outrage, Stone Edge, Swords Dance
+
+(R1) Champion Cynthia
+Togekiss (Lv. 77) @ Light Clay      /   Quiet       /   Serene Grace        /   Moonblast, Light Screen, Reflect, Tailwind
+Milotic (Lv. 77) @ Leftovers        /   Calm        /   Marvel Scale        /   Scald, Ice Beam, Recover, Protect
+Spiritomb (Lv. 77) @ Sitrus Berry   /   Relaxed     /   Pressure            /   Dark Pulse, Calm Mind, Rest, Sleep Talk
+Lucario (Lv. 77) @ Life Orb         /   Hasty       /   Adaptability (!)    /   High Jump Kick, Meteor Mash, Bullet Punch, Stone Edge
+Glaceon (Lv. 77) @ Choice Specs     /   Modest      /   Snow Cloak          /   Blizzard, Earth Power, Extrasensory, Shadow Ball
+Garchomp (Lv. 78) @ Yache Berry     /   Hasty       /   Rough Skin          /   Earthquake, Outrage, Stone Edge, Swords Dance
+
+(R1) Champion Cynthia
+Clefable (Lv. 77) @ Light Clay      /   Calm        /   Cute Charm          /   Moonblast, Soft-Boiled, Reflect, Light Screen
+Roserade (Lv. 77) @ Choice Scarf    /   Modest      /   Technician          /   Energy Ball, Sludge Bomb, Shadow Ball, Dazzling Gleam
+Mismagius (Lv. 77) @ Wise Glasses   /   Timid       /   Levitate            /   Shadow Ball, Moonblast, Thunderbolt, Thunder Wave
+Lopunny (Lv. 77) @ Life Orb         /   Hasty       /   Scrappy (!)         /   High Jump Kick, Mega Kick, Ice Punch, Fake Out
+Milotic (Lv. 77) @ Leftovers        /   Calm        /   Marvel Scale        /   Hydro Pump, Ice Beam, Rest, Sleep Talk
+Garchomp (Lv. 78) @ Yache Berry     /   Hasty       /   Rough Skin          /   Earthquake, Outrage, Stone Edge, Swords Dance
+
+(R2) Elite Four Aaron
+Yanmega (Lv. 83) @ Wise Glasses     /   ?           /   Speed Boost         /   Bug Buzz, Air Slash, Giga Drain, Protect
+Scizor (Lv. 83) @ Muscle Band       /   ?           /   Technician          /   Bug Bite, Aerial Ace, Superpower, Bullet Punch
+Heracross (Lv. 83) @ Toxic Orb      /   ?           /   Guts                /   Megahorn, Close Combat, Stone Edge, Protect
+Scyther (Lv. 83) @ Life Orb         /   ?           /   Technician          /   Bug Bite, Aerial Ace, Brick Break, Quick Attack
+Armaldo (Lv. 83) @ Passho Berry     /   ?           /   Battle Armor        /   X-Scissor, Stone Edge, Earthquake, Aqua Jet
+Drapion (Lv. 84) @ Scope Lens       /   ?           /   Sniper              /   Cross Poison, Night Slash, X-Scissor, Earthquake
+
+(R2) Elite Four Bertha
+Hippowdon (Lv. 84) @ Leftovers      /   ?           /   Sand Stream         /   Earthquake, Stone Edge, Stealth Rock, Slack Off
+Swampert (Lv. 84) @ Rindo Berry     /   ?           /   Torrent             /   Earthquake, Aqua Tail, Avalanche, Mirror Coat
+Gliscor (Lv. 84) @ Toxic Orb        /   ?           /   Poison Heal         /   Earthquake, Protect, Double Team, Guillotine
+Tyranitar (Lv. 84) @ Expert Belt    /   ?           /   Sand Stream         /   Stone Edge, Crunch, Fire Punch, Thunder Punch
+Dugtrio (Lv. 84) @ Choice Band      /   ?           /   Arena Trap          /   Earthquake, Stone Edge, Night Slash, Aerial Ace
+Rhyperior (Lv. 85) @ Focus Sash     /   ?           /   Rock Head           /   Earthquake, Rock Wrecker, Megahorn, Hammer Arm
+
+(R2) Elite Four Flint
+Ninetales (Lv. 85) @ Wide Lens      /   ?           /   Drought             /   Fire Blast, Solar Beam, Moonblast, Hypnosis
+Houndoom (Lv. 85) @ White Herb      /   ?           /   Intimidate (!)      /   Overheat, Solar Beam, Dark Pulse, Sludge Bomb
+Magmortar (Lv. 85) @ Expert Belt    /   ?           /   Flame Body          /   Fire Blast, Thunderbolt, Focus Blast, Psychic
+Infernape (Lv. 85) @ Life Orb       /   ?           /   Iron Fist           /   Flare Blitz, Close Combat, Thunder Punch, Mach Punch
+Rapidash (Lv. 85) @ Power Herb      /   ?           /   Flame Body          /   Flare Blitz, Drill Run, Megahorn, Bounce
+Moltres (Lv. 86) @ Choice Scarf     /   ?           /   Pressure            /   Fire Blast, Hurricane, Solar Beam, U-turn
+
+(R2) Elite Four Lucian
+Mr. Mime (Lv. 86) @ Light Clay      /   ?           /   Filter              /   Psychic, Dazzling Gleam, Reflect, Light Screen
+Espeon (Lv. 86) @ Salac Berry       /   ?           /   Synchronize         /   Psychic, Aura Sphere, Calm Mind, Baton Pass
+Gallade (Lv. 86) @ Muscle Band      /   ?           /   Steadfast           /   Zen Headbutt, Close Combat, Ice Punch, Swords Dance
+Metagross (Lv. 86) @ Occa Berry     /   ?           /   Iron Fist (!)       /   Meteor Mash, Earthquake, Ice Punch, Explosion
+Alakazam (Lv. 86) @ Life Orb        /   ?           /   Magic Guard         /   Psychic, Aura Sphere, Shadow Ball, Grass Knot
+Latios (Lv. 87) @ Choice Specs      /   ?           /   Levitate            /   Psychic, Draco Meteor, Ice Beam, Thunderbolt
+
+(R2) Champion Cynthia
+Spiritomb (Lv. 88) @ Lum Berry      /   ?           /   Pressure            /   Dark Pulse, Rest, Sleep Talk, Calm Mind
+Togekiss (Lv. 88) @ Leftovers       /   ?           /   Serene Grace        /   Air Slash, Thunder Wave, Roost, Aura Sphere
+Lucario (Lv. 88) @ Life Orb         /   ?           /   Adaptability        /   Meteor Mash, High Jump Kick, Crunch, Bullet Punch
+Garchomp (Lv. 88) @ Choice Scarf    /   ?           /   Rough Skin          /   Outrage, Earthquake, Stone Edge, Extreme Speed
+Milotic (Lv. 88) @ Flame Orb        /   ?           /   Marvel Scale        /   Scald, Ice Beam, Attract, Recover
+Rayquaza (Lv. 89) @ Focus Sash      /   ?           /   Air Lock            /   Outrage, Earthquake, Overheat, Dragon Dance
+
+Fight Area
+=================================================================================================================================================
+Leader Volkner              Raichu Lv. 74, Jolteon Lv. 74, Electivire Lv. 75
+Elite Four Flint            Arcanine Lv. 74, Flareon Lv. 74, Magmortar Lv. 75
+PKMN Trainer Barry          Staraptor Lv. 74, Heracross Lv. 74, Snorlax Lv. 74, Azumarill Lv. 74, Arcanine Lv. 74, Torterra Lv. 75
+PKMN Trainer Barry          Staraptor Lv. 74, Heracross Lv. 74, Snorlax Lv. 74, Azumarill Lv. 74, Breloom Lv. 74, Infernape Lv. 75
+PKMN Trainer Barry          Staraptor Lv. 74, Heracross Lv. 74, Snorlax Lv. 74, Breloom Lv. 74, Arcanine Lv. 74, Empoleon Lv. 75
+
+Route 225
+=================================================================================================================================================
+Ace Trainer Rodolfo (!)         Starmie Lv. 73, Scizor Lv. 73, Sceptile Lv. 73, Ninetales Lv. 73
+PKMN Ranger Ashlee (!)          Linoone Lv. 73, Arbok Lv. 73, Butterfree Lv. 73
+Bird Keeper Audrey (!)          Farfetch'd Lv. 73, Swellow Lv. 73, Pidgeot Lv. 73
+Psychic Daisy (!)               Slowbro Lv. 74, Slowking Lv. 74
+Dragon Tamer Geoffrey (!)       Altaria Lv. 75
+Ace Trainer Deanna (!)          Ampharos Lv. 73, Tropius Lv. 73, Lapras Lv. 73, Miltank Lv. 73
+PKMN Ranger Dwayne              Skarmory Lv. 73, Golduck Lv. 73, Donphan Lv. 73
+Ace Trainer Quinn               Pinsir Lv. 73, Lanturn Lv. 73, Golem Lv. 73, Exploud Lv. 73
+Ace Trainer Heather *           Pelipper Lv. 76, Togekiss Lv. 76, Aerodactyl Lv. 76, Pidgeot Lv. 76, Tropius Lv. 76, Dragonite Lv. 77
+
+Rematches
+Ace Trainer Rodolfo (S)         Starmie Lv. 79, Scizor Lv. 79, Sceptile Lv. 79, Ninetales Lv. 79
+PKMN Ranger Ashlee (S)          Linoone Lv. 78, Arbok Lv. 78, Butterfree Lv. 78
+Bird Keeper Audrey (S)          Farfetch'd Lv. 78, Swellow Lv. 78, Pidgeot Lv. 78
+Psychic Daisy (S)               Slowbro Lv. 79, Slowking Lv. 79
+Dragon Tamer Geoffrey (S)       Altaria Lv. 79, Garchomp Lv. 79
+Ace Trainer Deanna (S)          Ampharos Lv. 79, Tropius Lv. 79, Lapras Lv. 79, Miltank Lv. 79
+
+Ace Trainer Heather
+Pelipper (Lv. 76) @ Focus Sash      /   ?           /   Drizzle             /   Hydro Pump, Hurricane, Ice Beam, Tailwind
+Togekiss (Lv. 76) @ Expert Belt     /   ?           /   Serene Grace        /   Hurricane, Moonblast, Shadow Ball, Roost
+Aerodactyl (Lv. 76) @ Life Orb      /   ?           /   Rock Head           /   Brave Bird, Stone Edge, Crunch, Earthquake
+Pidgeot (Lv. 76) @ Wise Glasses     /   ?           /   No Guard (!)        /   Hurricane, Hyper Beam, Heat Wave, Tailwind
+Tropius (Lv. 76) @ Leftovers        /   ?           /   Chlorophyll         /   Hurricane, Energy Ball, Dragon Pulse, Roost
+Dragonite (Lv. 77) @ White Herb     /   ?           /   Marvel Scale (!)    /   Hurricane, Draco Meteor, Thunder, Ice Beam
+
+Route 226
+=================================================================================================================================================
+Swimmer Lydia               Azumarill Lv. 73, Dewgong Lv. 73, Wailord Lv. 73
+Ace Trainer Graham          Tyrogue Lv. 74, Hitmonchan Lv. 74, Hitmonlee Lv. 74, Hitmontop Lv. 74
+Bird Keeper Geneva          Fearow Lv. 74, Xatu Lv. 74, Swellow Lv. 74
+Dragon Tamer Stanley        Kingdra Lv. 76
+Swimmer Wade                Sharpedo Lv. 74, Whiscash Lv. 74
+Ace Trainer Wyver *         Kingdra Lv. 76, Flygon Lv. 76, Altaria Lv. 76, Dragonite Lv. 76, Garchomp Lv. 76, Salamence Lv. 77
+
+Ace Trainer Wyver
+Kingdra (Lv. 76) @ Haban Berry      /   ?           /   Swift Swim          /   Waterfall, Outrage, Yawn, Dragon Dance
+Flygon (Lv. 76) @ White Herb        /   ?           /   Compound Eyes (!)   /   Draco Meteor, Earth Power, Bug Buzz, Fire Blast
+Altaria (Lv. 76) @ Leftovers        /   ?           /   Cloud Nine          /   Dragon Claw, Toxic, Rest, Sleep Talk
+Dragonite (Lv. 76) @ Sitrus Berry   /   ?           /   Marvel Scale (!)    /   Outrage, Earthquake, Extreme Speed, Iron Tail
+Garchomp (Lv. 76) @ Choice Scarf    /   ?           /   Rough Skin          /   Outrage, Earthquake, Poison Jab, Fire Fang
+Salamence (Lv. 77) @ Focus Sash     /   ?           /   Intimidate          /   Outrage, Aerial Ace, Dragon Dance, Earthquake
+
+Route 227
+=================================================================================================================================================
+Ace Trainer Saul (!)        Tauros Lv. 78
+PKMN Ranger Felicia         Jumpluff Lv. 76, Lopunny Lv. 76
+Black Belt Griffin          Breloom Lv. 75, Medicham Lv. 75, Lucario Lv. 75
+Ace Trainer Mikayla         Seviper Lv. 76, Persian Lv. 76, Absol Lv. 76
+Ace Trainer Slythe *        Gengar Lv. 76, Tentacruel Lv. 76, Nidoqueen Lv. 76, Crobat Lv. 76, Toxicroak Lv. 76, Vileplume Lv. 77
+PKMN Trainer Buck           Torkoal Lv. 77, Shuckle Lv. 77, Umbreon Lv. 77, Dusknoir Lv. 77, Cloyster Lv. 77, Claydol Lv. 78
+
+Rematches
+Ace Trainer Saul (S)        Tauros Lv. 80
+
+Ace Trainer Slythe
+Gengar (Lv. 76) @ Wide Lens         /   ?           /   Levitate            /   Sludge Bomb, Shadow Ball, Focus Blast, Thunder
+Tentacruel (Lv. 76) @ Black Sludge  /   ?           /   Clear Body          /   Sludge Bomb, Muddy Water, Ice Beam, Toxic Spikes
+Nidoqueen (Lv. 76) @ Life Orb       /   ?           /   Poison Point        /   Poison Jab, Earthquake, Fire Blast, Stone Edge
+Crobat (Lv. 76) @ Shell Bell        /   ?           /   Inner Focus         /   Cross Poison, Brave Bird, Hypnosis, Leech Life
+Toxicroak (Lv. 76) @ Expert Belt    /   ?           /   Dry Skin            /   Gunk Shot, Drain Punch, Sucker Punch, Fake Out
+Vileplume (Lv. 77) @ Sitrus Berry   /   ?           /   Chlorophyll         /   Sludge Bomb, Petal Dance, Moonblast, Sleep Powder
+
+PKMN Trainer Buck
+Torkoal (Lv. 77) @ Shuca Berry      /   ?           /   Drought             /   Fire Blast, Earth Power, Solar Beam, Stealth Rock
+Shuckle (Lv. 77) @ Lum Berry        /   ?           /   Sturdy              /   Toxic, Encore, Rest, Protect
+Umbreon (Lv. 77) @ Chople Berry     /   ?           /   Synchronize         /   Payback, Confuse Ray, Toxic, Moonlight
+Dusknoir (Lv. 77) @ Sitrus Berry    /   ?           /   Iron Fist (!)       /   Shadow Punch, Confuse Ray, Protect, Drain Punch
+Cloyster (Lv. 77) @ Expert Belt     /   ?           /   Skill Link          /   Icicle Spear, Hydro Pump, Spikes, Toxic Spikes
+Claydol (Lv. 78) @ Leftovers        /   ?           /   Levitate            /   Earth Power, Psychic, Ice Beam, Calm Mind
+
+Route 228
+=================================================================================================================================================
+Ace Trainer Jose            Floatzel Lv. 76, Sandslash Lv. 76, Manectric Lv. 76
+Ace Trainer Moira (!)       Cacturne Lv. 76, Gastrodon Lv. 76, Claydol Lv. 76
+PKMN Ranger Kyler (!)       Exeggutor Lv. 75, Zangoose Lv. 75, Empoleon Lv. 75
+PKMN Ranger Krista          Marowak Lv. 76, Aggron Lv. 76
+Dragon Tamer Keegan         Flygon Lv. 76
+Psychic Corbin (!)          Hypno Lv. 76, Gallade Lv. 76
+Ace Trainer Meagan          Delcatty Lv. 77, Abomasnow Lv. 77
+Black Belt Davon (!)        Hariyama Lv. 75, Machamp Lv. 75, Primeape Lv. 75
+Ace Trainer Shade *         Houndoom Lv. 76, Weavile Lv. 76, Shiftry Lv. 76, Sharpedo Lv. 76, Spiritomb Lv. 76, Tyranitar Lv. 77
+
+Rematches
+Ace Trainer Moira (S)       Cacturne Lv. 79, Gastrodon Lv. 79, Claydol Lv. 79
+PKMN Ranger Kyler (S)       Exeggutor Lv. 78, Zangoose Lv. 78, Empoleon Lv. 78
+Psychic Corbin (S)          Hypno Lv. 78, Gallade Lv. 78, Xatu Lv. 78
+Black Belt Davon (S)        Hariyama Lv. 78, Machamp Lv. 78, Primeape Lv. 78
+
+Ace Trainer Shade
+Houndoom (Lv. 76) @ White Herb      /   ?           /   Intimidate (!)      /   Dark Pulse, Overheat, Sludge Bomb, Thunder Fang
+Weavile (Lv. 76) @ Muscle Band      /   ?           /   Technician (!)      /   Icicle Crash, Feint Attack, Aerial Ace, Low Kick
+Shiftry (Lv. 76) @ Wise Glasses     /   ?           /   Chlorophyll         /   Energy Ball, Dark Pulse, Hurricane, Focus Blast
+Sharpedo (Lv. 76) @ Expert Belt     /   ?           /   Speed Boost         /   Waterfall, Crunch, Ice Fang, Zen Headbutt
+Spiritomb (Lv. 76) @ Leftovers      /   ?           /   Pressure            /   Dark Pulse, Psychic, Hypnosis, Double Team
+Tyranitar (Lv. 77) @ Chople Berry   /   ?           /   Sand Stream         /   Crunch, Stone Edge, Iron Tail, Fire Punch
+
+Route 229
+=================================================================================================================================================
+PKMN Ranger Deshawn         Spinda Lv. 74, Kecleon Lv. 74, Granbull Lv. 74
+Ace Trainer Felix           Dusknoir Lv. 76, Salamence Lv. 76
+Ace Trainer Dana            Mightyena Lv. 75, Gardevoir Lv. 75, Butterfree Lv. 75
+Ace Trainer Sandra          Dugtrio Lv. 74, Raichu Lv. 74, Arcanine Lv. 74, Vileplume Lv. 74
+Ace Trainer Gene *          Stantler Lv. 76, Dodrio Lv. 76, Girafarig Lv. 76, Bibarel Lv. 76, Porygon-Z Lv. 76, Snorlax Lv. 77
+
+Ace Trainer Gene
+Stantler (Lv. 76) @ Choice Scarf    /   ?           /   Intimidate          /   Double-Edge, Jump Kick, Megahorn, Zen Headbutt
+Dodrio (Lv. 76) @ Muscle Band       /   ?           /   Tangled Feet        /   Double-Edge, Brave Bird, High Jump Kick, Drill Run
+Girafarig (Lv. 76) @ Wise Glasses   /   ?           /   Inner Focus         /   Hyper Voice, Psychic, Thunderbolt, Dazzling Gleam
+Bibarel (Lv. 76) @ Chople Berry     /   ?           /   Simple              /   Double-Edge, Aqua Tail, Crunch, Curse
+Porygon-Z (Lv. 76) @ Life Orb       /   ?           /   Adaptability        /   Hyper Beam, Thunderbolt, Ice Beam, Psychic
+Snorlax (Lv. 77) @ Leftovers        /   ?           /   Thick Fat           /   Body Slam, Earthquake, Curse, Slack Off
+
+Route 230
+=================================================================================================================================================
+Swimmer Glenn (!)           Octillery Lv. 73, Politoed Lv. 73
+Swimmer Joanna (!)          Luvdisc Lv. 72, Corsola Lv. 72, Vaporeon Lv. 72
+Swimmer Kurt                Krabby Lv. 70, Corphish Lv. 70, Kingler Lv. 72, Crawdaunt Lv. 72
+Swimmer Sophia              Delibird Lv. 73, Mantine Lv. 73
+Swimmer Sam                 Walrein Lv. 72, Gastrodon Lv. 72, Seaking Lv. 72
+Swimmer Mallory             Masquerain Lv. 73, Ludicolo Lv. 73
+Ace Trainer Luna *          Wigglytuff Lv. 76, Clefable Lv. 76, Azumarill Lv. 76, Granbull Lv. 76, Mawile Lv. 76, Gardevoir Lv. 77
+
+Rematches
+Swimmer Glenn (S)           Octillery Lv. 76, Politoed Lv. 76
+Swimmer Joanna (S)          Luvdisc Lv. 75, Corsola Lv. 75, Vaporeon Lv. 75
+
+Ace Trainer Luna
+Wigglytuff (Lv. 76) @ Expert Belt   /   ?           /   Cute Charm          /   Moonblast, Thunderbolt, Ice Beam, Flamethrower
+Clefable (Lv. 76) @ Leftovers       /   ?           /   Cute Charm          /   Moonblast, Soft-Boiled, Focus Blast, Reflect
+Azumarill (Lv. 76) @ White Herb     /   ?           /   Huge Power          /   Play Rough, Aqua Tail, Superpower, Aqua Jet
+Granbull (Lv. 76) @ Muscle Band     /   ?           /   Intimidate          /   Play Rough, Close Combat, Crunch, Lovely Kiss
+Mawile (Lv. 76) @ Focus Sash        /   ?           /   Huge Power (!)      /   Play Rough, Iron Head, Sucker Punch, Swords Dance
+Gardevoir (Lv. 77) @ Life Orb       /   ?           /   Synchronize         /   Moonblast, Psychic, Thunderbolt, Aura Sphere
+
+Stark Mountain ~ Outside
+=================================================================================================================================================
+Dragon Tamer Darien         Dragonite Lv. 78
+
+Stark Mountain ~ Entrance
+=================================================================================================================================================
+Commander Mars              Crobat Lv. 77, Yanmega Lv. 77, Bronzong Lv. 77, Electivire Lv. 77, Kangaskhan Lv. 77, Purugly Lv. 78
+Commander Jupiter           Bronzong Lv. 77, Sableye Lv. 77, Crobat Lv. 77, Tangrowth Lv. 77, Gastrodon Lv. 77, Skuntank Lv. 78
+
+Commander Mars
+Crobat (Lv. 77) @ Life Orb          /   ?           /   Inner Focus     /   Brave Bird, Sludge Bomb, Giga Drain, Hypnosis
+Yanmega (Lv. 77) @ Wise Glasses     /   ?           /   Speed Boost     /   Bug Buzz, Air Slash, Psychic, Detect
+Bronzong (Lv. 77) @ Leftovers       /   ?           /   Levitate        /   Gyro Ball, Zen Headbutt, Earthquake, Rock Slide
+Electivire (Lv. 77) @ Expert Belt   /   ?           /   Motor Drive     /   Wild Charge, Ice Punch, Cross Chop, Fire Punch
+Kangaskhan (Lv. 77) @ Muscle Band   /   ?           /   Scrappy         /   Body Slam, Crunch, Hammer Arm, Fake Out
+Purugly (Lv. 78) @ Sitrus Berry     /   ?           /   Thick Fat       /   Body Slam, Play Rough, Fake Out, Hypnosis
+
+Commander Jupiter
+Bronzong (Lv. 77) @ Leftovers       /   ?           /   Levitate        /   Swagger, Psychic, Flash Cannon, Grass Knot
+Sableye (Lv. 77) @ Muscle Band      /   ?           /   Magic Guard (!) /   Shadow Claw, Sucker Punch, Zen Headbutt, Fake Out
+Crobat (Lv. 77) @ Bright Powder     /   ?           /   Inner Focus     /   Hurricane, Sludge Bomb, Double Team, Hypnosis
+Tangrowth (Lv. 77) @ White Herb     /   ?           /   Chlorophyll     /   Leaf Storm, Earthquake, Focus Blast, Sludge Bomb
+Gastrodon (Lv. 77) @ Wise Glasses   /   ?           /   Sticky Hold     /   Muddy Water, Earth Power, Ice Beam, Recover
+Skuntank (Lv. 78) @ Sitrus Berry    /   ?           /   Aftermath       /   Gunk Shot, Crunch, Play Rough, Toxic
+
+Stark Mountain ~ Interior
+=================================================================================================================================================
+Ace Trainer Keenan          Primeape Lv. 78, Banette Lv. 78, Electivire Lv. 78
+Ace Trainer Kassandra       Jumpluff Lv. 78, Ampharos Lv. 78, Steelix Lv. 78
+Ace Trainer Stefan          Tyranitar Lv. 78, Torterra Lv. 78, Aggron Lv. 78
+Ace Trainer Jasmin          Drapion Lv. 78, Hippowdown Lv. 78, Magmortar Lv. 78
+Bird Keeper Krystal         Staraptor Lv. 78, Fearow Lv. 78, Noctowl Lv. 78
+Black Belt Ray              Breloom Lv. 78, Toxicroak Lv. 78, Hariyama Lv. 78
+Ace Trainer Abel            Glalie Lv. 78, Crobat Lv. 78, Ninetales Lv. 78
+Ace Trainer Monique         Luxray Lv. 78, Ursaring Lv. 78, Gliscor Lv. 78
+Psychic Chelsey             Lunatone Lv. 78, Gardevoir Lv. 78, Xatu Lv. 78
+Psychic Sterling            Solrock Lv. 78, Gallade Lv. 78, Claydol Lv. 78
+Veteran Harlan              Raticate Lv. 78, Drifblim Lv. 78, Shiftry Lv. 78
+Dragon Tamer Kenny          Salamence Lv. 78, Flygon Lv. 78, Altaria Lv. 78
+Ace Trainer Skylar          Exploud Lv. 78, Rampardos Lv. 78, Pelipper Lv. 78
+Ace Trainer Natasha         Wigglytuff Lv. 78, Alakazam Lv. 78, Medicham Lv. 78
+Dragon Tamer Drake          Garchomp Lv. 78, Dragonite Lv. 78, Kingdra Lv. 78
+Black Belt Jarrett          Machamp Lv. 78, Blaziken Lv. 78, Poliwrath Lv. 78
+
+Battleground
+=================================================================================================================================================
+Leader Roark                Sudowoodo Lv. 81, Probopass Lv. 81, Golem Lv. 81, Aerodactyl Lv. 81, Tyranitar Lv. 81, Rampardos Lv. 82
+Leader Gardenia             Cherrim Lv. 81, Tangrowth Lv. 81, Bellossom Lv. 81, Torterra Lv. 81, Breloom Lv. 81, Roserade Lv. 82
+Leader Fantina              Drifblim Lv. 81, Dusknoir Lv. 81, Banette Lv. 81, Spiritomb Lv. 81, Gengar Lv. 81, Mismagius Lv. 82
+Leader Maylene              Medicham Lv. 82, Machamp Lv. 82, Infernape Lv. 82, Toxicroak Lv. 82, Gallade Lv. 82, Lucario Lv. 83
+Leader Wake                 Quagsire Lv. 81, Gyarados Lv. 81, Poliwrath Lv. 81, Ludicolo Lv. 81, Sharpedo Lv. 81, Floatzel Lv. 82
+Leader Byron                Bronzong Lv. 81, Magnezone Lv. 81, Steelix Lv. 81, Forretress Lv. 81, Aggron Lv. 81, Bastiodon Lv. 82
+Leader Candice              Abomasnow Lv. 81, Weavile Lv. 81, Glaceon Lv. 81, Walrein Lv. 81, Mamoswine Lv. 81, Froslass Lv. 82
+Leader Volkner              Jolteon Lv. 81, Raichu Lv. 81, Rotom Lv. 81, Rotom Lv. 81, Luxray Lv. 81, Electivire Lv. 82
+PKMN Trainer Cheryl         Wobbuffet Lv. 81, Snorlax Lv. 81, Drifblim Lv. 81, Hariyama Lv. 81, Wailord Lv. 81, Blissey Lv. 82
+PKMN Trainer Mira           Togekiss Lv. 81, Gengar Lv. 81, Exeggutor Lv. 81, Magnezone Lv. 81, Porygon-Z Lv. 81, Alakazam Lv. 82
+PKMN Trainer Riley          Absol Lv. 81, Ursaring Lv. 81, Metagross Lv. 81, Salamence Lv. 81, Slaking Lv. 81, Lucario Lv. 82
+PKMN Trainer Marley         Starmie Lv. 81, Electrode Lv. 81, Sceptile Lv. 81, Crobat Lv. 81, Weavile Lv. 81, Arcanine Lv. 82
+PKMN Trainer Buck           Torkoal Lv. 81, Shuckle Lv. 81, Umbreon Lv. 81, Dusknoir Lv. 81, Cloyster Lv. 81, Claydol Lv. 82
+PKMN Trainer Barry          Staraptor Lv. 84, Heracross Lv. 84, Snorlax Lv. 84, Azumarill Lv. 84, Arcanine Lv. 84, Torterra Lv. 85
+PKMN Trainer Barry          Staraptor Lv. 84, Heracross Lv. 84, Snorlax Lv. 84, Azumarill Lv. 84, Breloom Lv. 84, Infernape Lv. 85
+PKMN Trainer Barry          Staraptor Lv. 84, Heracross Lv. 84, Snorlax Lv. 84, Breloom Lv. 84, Arcanine Lv. 84, Empoleon Lv. 85
+PKMN Trainer Dawn           Alakazam Lv. 83, Mamoswine Lv. 83, Clefable Lv. 83, Lopunny Lv. 83, Vaporeon Lv. 83, Torterra Lv. 84
+PKMN Trainer Dawn           Alakazam Lv. 83, Mamoswine Lv. 83, Clefable Lv. 83, Lopunny Lv. 83, Jolteon Lv. 83, Infernape Lv. 84
+PKMN Trainer Dawn           Alakazam Lv. 83, Mamoswine Lv. 83, Clefable Lv. 83, Lopunny Lv. 83, Flareon Lv. 83, Empoleon Lv. 84
+PKMN Trainer Lucas          Alakazam Lv. 83, Mamoswine Lv. 83, Granbull Lv. 83, Lickilicky Lv. 83, Vaporeon Lv. 83, Torterra Lv. 84
+PKMN Trainer Lucas          Alakazam Lv. 83, Mamoswine Lv. 83, Granbull Lv. 83, Lickilicky Lv. 83, Jolteon Lv. 83, Infernape Lv. 84
+PKMN Trainer Lucas          Alakazam Lv. 83, Mamoswine Lv. 83, Granbull Lv. 83, Lickilicky Lv. 83, Flareon Lv. 83, Empoleon Lv. 84
+
+[Battle Marathon Only]
+Commander Mars              Crobat Lv. 81, Yanmega Lv. 81, Bronzong Lv. 81, Electivire Lv. 81, Kangaskhan Lv. 81, Purugly Lv. 82
+Commander Jupiter           Bronzong Lv. 81, Sableye Lv. 81, Crobat Lv. 81, Tangrowth Lv. 81, Gastrodon Lv. 81, Skuntank Lv. 82
+Commander Saturn            Bronzong Lv. 81, Octillery Lv. 81, Alakazam Lv. 81, Rhyperior Lv. 81, Magmortar Lv. 81, Toxicroak Lv. 82
+Galactic Boss Cyrus         Crobat Lv. 83, Honchkrow Lv. 83, Houndoom Lv. 83, Gyarados Lv. 83, Magnezone Lv. 83, Weavile Lv. 84
+
+Pokémon Center
+=================================================================================================================================================
+Reporter Kinsey             Drifloon Lv. 10, Shinx Lv. 10
+Reporter Kinsey (3)         Drifloon Lv. 30, Luxio Lv. 30
+Reporter Kinsey (5)         Drifblim Lv. 40, Luxray Lv. 40
+Reporter Kinsey (8)         Drifblim Lv. 60, Luxray Lv. 60
+Reporter Kinsey (C)         Drifblim Lv. 70, Luxray Lv. 70
+Reporter Kinsey (S)         Drifblim Lv. 80, Luxray Lv. 80
+Cameraman Tevin             Mime Jr. Lv. 10, Machop Lv. 10
+Cameraman Tevin (3)         Mime Jr. Lv. 30, Machoke Lv. 30
+Cameraman Tevin (5)         Mr. Mime Lv. 40, Machamp Lv. 40
+Cameraman Tevin (8)         Mr. Mime Lv. 60, Machamp Lv. 60
+Cameraman Tevin (C)         Mr. Mime Lv. 70, Machamp Lv. 70
+Cameraman Tevin (S)         Mr. Mime Lv. 80, Machamp Lv. 80
+Interviewers Roxy & Oli     Magnemite Lv. 10, Ralts Lv. 10
+Interviewers Roxy & Oli (3) Magneton Lv. 30, Kirlia Lv. 30
+Interviewers Roxy & Oli (5) Magnezone Lv. 40, Gardevoir Lv. 40
+Interviewers Roxy & Oli (8) Magnezone Lv. 60, Gardevoir Lv. 60
+Interviewers Roxy & Oli (C) Magnezone Lv. 70, Gardevoir Lv. 70
+Interviewers Roxy & Oli (S) Magnezone Lv. 80, Gardevoir Lv. 80
+Idol Grace                  Igglybuff Lv. 10, Cleffa Lv. 10
+Idol Grace (3)              Jigglypuff Lv. 30, Clefairy Lv. 30
+Idol Grace (5)              Wigglytuff Lv. 40, Clefable Lv. 40
+Idol Grace (8)              Wigglytuff Lv. 60, Clefable Lv. 60
+Idol Grace (C)              Wigglytuff Lv. 70, Clefable Lv. 70
+Idol Grace (S)              Wigglytuff Lv. 80, Clefable Lv. 80
+Guitarist Arturo            Kricketot Lv. 10, Voltorb Lv. 10
+Guitarist Arturo (3)        Kricketune Lv. 30, Electrode Lv. 30
+Guitarist Arturo (5)        Kricketune Lv. 40, Electrode Lv. 40
+Guitarist Arturo (8)        Kricketune Lv. 60, Electrode Lv. 60
+Guitarist Arturo (C)        Kricketune Lv. 70, Electrode Lv. 70
+Guitarist Arturo (S)        Kricketune Lv. 80, Electrode Lv. 80
+Poké Kid Ariel              Pichu Lv. 10, Pichu Lv. 10, Pichu Lv. 10
+Poké Kid Ariel (3)          Pichu Lv. 30, Pikachu Lv. 30, Pikachu Lv. 30
+Poké Kid Ariel (5)          Pichu Lv. 40, Pikachu Lv. 40, Raichu Lv. 40
+Poké Kid Ariel (8)          Pichu Lv. 60, Pikachu Lv. 60, Raichu Lv. 60
+Poké Kid Ariel (C)          Pichu Lv. 70, Pikachu Lv. 70, Raichu Lv. 70
+Poké Kid Ariel (S)          Pichu Lv. 80, Pikachu Lv. 80, Raichu Lv. 80
+Clown Lee                   Aipom Lv. 10, Abra Lv. 10
+Clown Lee (3)               Aipom Lv. 30, Kadabra Lv. 30
+Clown Lee (5)               Ambipom Lv. 40, Alakazam Lv. 40
+Clown Lee (8)               Ambipom Lv. 60, Alakazam Lv. 60
+Clown Lee (C)               Ambipom Lv. 70, Alakazam Lv. 70
+Clown Lee (S)               Ambipom Lv. 80, Alakazam Lv. 80

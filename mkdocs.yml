@@ -4,3 +4,16 @@ theme:
   name: material
 nav:
   - Home: index.md
+  - Action Replay Codes: action_replay_codes.md
+  - Evolution Changes: evolution_changes.md
+  - Frequently Asked Questions: frequently_asked_questions.md
+  - Item Changes: item_changes.md
+  - Move Changes: move_changes.md
+  - NPC Changes: npc_changes.md
+  - Pokemon Changes: pokemon_changes.md
+  - Randomize Instructions: randomize_instructions.md
+  - Special Events: special_events.md
+  - Trade Changes: trade_changes.md
+  - Trainer Pokemon: trainer_pokemon.md
+  - Type Changes: type_changes.md
+  - Wild Pokemon: wild_pokemon.md
