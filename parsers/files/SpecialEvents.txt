@@ -1,8 +1,3 @@
-o-----------------------------------o
-| Pokémon Renegade Platinum         |
-| Special Events (v1.3.0)           |
-o-----------------------------------o
-
 =========================================================
 General Notes
 =========================================================
@@ -125,7 +120,7 @@ Level: 20
 - This event can only be performed once.
 
 #442 Spiritomb
---
+---
 Location: Route 209
 Level: 30
 
