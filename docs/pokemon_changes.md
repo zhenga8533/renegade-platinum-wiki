@@ -2,17 +2,11 @@
 ## General Changes
 
 - The Fairy-type has been added to the game, replacing the almost unused ???-type.
-
 - All Pokémon have had their base stats updated to match Ultra Sun and Ultra Moon.
-
 - All Pokémon have had their types updated to match Ultra Sun and Ultra Moon.
-
 - All Pokémon have had their wild held item updated to match Ultra Sun and Ultra Moon (with some exceptions).
-
 - All Pokémon now have an egg cycle of 0, i.e. they will hatch extremely quickly.
-
-- Wingull, Pelipper and Torkoal have gained their new abilities from Gen VII
-.
+- Wingull, Pelipper and Torkoal have gained their new abilities from Gen VII.
 ---
 
 ## Held Item Exceptions

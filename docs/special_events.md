@@ -1,8 +1,8 @@
 ---
 ## General Notes
 
-- All Pokémon here have the normal chance to be shiny. There are no shiny locks
-.
+- All Pokémon here have the normal chance to be shiny.
+- There are no shiny locks.
 ---
 
 ## Gift Pokémon

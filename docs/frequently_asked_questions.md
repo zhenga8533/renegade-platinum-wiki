@@ -2,17 +2,11 @@
 #### Q: Why is the patching not working?
 
 1. Make sure you're using the correct patch for the Platinum ROM you've obtained.
-
 2. If using a dump made from your own American cartridge, copies purchased near Platinum's original release should use the 3541 patch. Otherwise, the 4997 patch should hopefully do the job.
-
 3. Make sure you're trying to apply the patch to an .nds file (that should be 128 MB). It should not still be compressed in a .zip or .7z, and it definitely should not be an .exe!
-
 4. The patch to turn Platinum into Renegade Platinum should work without needing to uncheck the "Checksum validation" option. If you do this to force it through, it'll likely freeze in battles.
-
 5. If you are on Mac, consider using a program called MultiPatch instead (easy to find on Google). The Delta Patcher Lite tool will probably not work for you.
-
-6. Patching is a bit unreliable on mobile phones. I can't really help with problems there. You can search for prepatched ROMs online or use a PC then transfer the patched ROM to your phone
-.
+6. Patching is a bit unreliable on mobile phones. I can't really help with problems there. You can search for prepatched ROMs online or use a PC then transfer the patched ROM to your phone.
 ---
 
 #### Q: Why has my game frozen when trying to start the first rival battle?
