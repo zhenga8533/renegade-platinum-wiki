@@ -1,8 +1,3 @@
-o-----------------------------------o
-| Pokémon Renegade Platinum         |
-| Pokémon Changes (v1.3.0)          |
-o-----------------------------------o
-
 =========================================================
 General Changes
 =========================================================
@@ -30,21 +25,21 @@ Other Changes
 =========================================================
 Custom Changes
 =========================================================
-From the bases as listed above, further changes to any Pokémon are listed below. These can include changes to base stats, abilities, types etcetera.
+- From the bases as listed above, further changes to any Pokémon are listed below. These can include changes to base stats, abilities, types etcetera.
 
-Any changes marked with (Complete) are only found in the Complete version. This includes all base stat and non-canon type changes (i.e. types that aren't accurate as of Gen 7), and any ability changes that give an ability to a Pokémon it has never had before (e.g. Weavile). Likewise, any changes marked with (Classic) are only in found in the Classic version. All other changes are in both versions.
+- Any changes marked with (Complete) are only found in the Complete version. This includes all base stat and non-canon type changes (i.e. types that aren't accurate as of Gen 7), and any ability changes that give an ability to a Pokémon it has never had before (e.g. Weavile). Likewise, any changes marked with (Classic) are only in found in the Classic version. All other changes are in both versions.
 
-Some Pokémon have had a Hidden Ability from a later generation added as a regular ability (e.g. Ninetales). These changes are in both the Complete and Classic versions.
+- Some Pokémon have had a Hidden Ability from a later generation added as a regular ability (e.g. Ninetales). These changes are in both the Complete and Classic versions.
 
-Changes to movepools e.g. learning moves by level up or TM that were not possible before are also present in both the Complete and Classic versions.
+- Changes to movepools e.g. learning moves by level up or TM that were not possible before are also present in both the Complete and Classic versions.
 
-TM compatibilty with any of the new TMs (Bug Buzz, Hurricane) is also listed here.
+- TM compatibilty with any of the new TMs (Bug Buzz, Hurricane) is also listed here.
 
-Any move previously unavailable to a Pokémon is listed with a (!!) besides it.
+- Any move previously unavailable to a Pokémon is listed with a (!!) besides it.
 
-Level up moves have also been changed for every single Pokémon. These should include all moves they learn in Ultra Sun and Ultra Moon that are available in Renegade Platinum, as well as additional moves from move tutors, egg moves or entirely new techniques.
+- Level up moves have also been changed for every single Pokémon. These should include all moves they learn in Ultra Sun and Ultra Moon that are available in Renegade Platinum, as well as additional moves from move tutors, egg moves or entirely new techniques.
 
-Each Pokémon is listed under its own section header below.
+- Each Pokémon is listed under its own section header below.
 
 =========================================================
 Specific Changes
