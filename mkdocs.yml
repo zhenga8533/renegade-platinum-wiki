@@ -1,5 +1,9 @@
-site_name: My Docs
-site_url: https://mydomain.org/mysite
+site_name: Renegade Platinum Wiki
+site_url: https://zhenga8533.github.io/renegade-platinum-wiki/
+site_description: A fanmade wiki for the Volt White ROM hack.
+site_author: Volcaronitee
+repo_url: https://github.com/zhenga8533/renegade-platinum-wiki
+
 theme:
   name: material
 nav:
