@@ -1,8 +1,3 @@
-o-----------------------------------o
-| Pokémon Renegade Platinum         |
-| Trainer Pokémon (v1.3.0)          |
-o-----------------------------------o
-
 =========================================================
 General Changes
 =========================================================
@@ -1023,8 +1018,8 @@ Galactic Boss Cyrus         Palkia Lv. 70, Dialga Lv. 70
 Galactic Boss Cyrus         Crobat Lv. 59, Honchkrow Lv. 59, Houndoom Lv. 59, Gyarados Lv. 59, Magnezone Lv. 59, Weavile Lv. 60
 
 Galactic Boss Cyrus
-Palkia (Lv. 70, 0 IV) @ None        /   ?           /   Pressure        /   Hydro Pump, Spacial Rend, Earth Power, Aura Sphere
-Dialga (Lv. 70, 0 IV) @ None        /   ?           /   Pressure        /   Flash Cannon, Roar of Time, Earth Power, Aura Sphere
+Palkia (Lv. 70) @ None        /   ?           /   Pressure        /   Hydro Pump, Spacial Rend, Earth Power, Aura Sphere
+Dialga (Lv. 70) @ None        /   ?           /   Pressure        /   Flash Cannon, Roar of Time, Earth Power, Aura Sphere
 
 Galactic Boss Cyrus
 Crobat (Lv. 59) @ Choice Band       /   Jolly       /   Inner Focus     /   Brave Bird, U-turn, Cross Poison, Zen Headbutt
@@ -1683,11 +1678,11 @@ Cameraman Tevin (8)         Mr. Mime Lv. 60, Machamp Lv. 60
 Cameraman Tevin (C)         Mr. Mime Lv. 70, Machamp Lv. 70
 Cameraman Tevin (S)         Mr. Mime Lv. 80, Machamp Lv. 80
 Interviewers Roxy & Oli     Magnemite Lv. 10, Ralts Lv. 10
-Interviewers Roxy & Oli (3) Magneton Lv. 30, Kirlia Lv. 30
-Interviewers Roxy & Oli (5) Magnezone Lv. 40, Gardevoir Lv. 40
-Interviewers Roxy & Oli (8) Magnezone Lv. 60, Gardevoir Lv. 60
-Interviewers Roxy & Oli (C) Magnezone Lv. 70, Gardevoir Lv. 70
-Interviewers Roxy & Oli (S) Magnezone Lv. 80, Gardevoir Lv. 80
+Interviewers Roxy & Oli (3)   Magneton Lv. 30, Kirlia Lv. 30
+Interviewers Roxy & Oli (5)   Magnezone Lv. 40, Gardevoir Lv. 40
+Interviewers Roxy & Oli (8)   Magnezone Lv. 60, Gardevoir Lv. 60
+Interviewers Roxy & Oli (C)   Magnezone Lv. 70, Gardevoir Lv. 70
+Interviewers Roxy & Oli (S)   Magnezone Lv. 80, Gardevoir Lv. 80
 Idol Grace                  Igglybuff Lv. 10, Cleffa Lv. 10
 Idol Grace (3)              Jigglypuff Lv. 30, Clefairy Lv. 30
 Idol Grace (5)              Wigglytuff Lv. 40, Clefable Lv. 40
