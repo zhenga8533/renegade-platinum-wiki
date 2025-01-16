@@ -8,30 +8,29 @@
 
 ## Move Replacements
 
-The following moves have been replaced with moves from later generations.
-Moves under the "Old Move" column are now unavailable.
+- The following moves have been replaced with moves from later generations.
+- Moves under the "Old Move" column are now unavailable.
 
-<pre><code><b>Old Move</b>                <b>New Move</b>
-<b>---------               ---------</b>
-Barrage                 Draining Kiss
-Brine                   Scald
-Constrict               Icicle Crash
-Horn Drill              Drill Run
-Lunar Dance             Moonblast
-Luster Purge            Dazzling Gleam
-Mist Ball               Disarming Voice
-Sand Tomb               Bulldoze
-Submission              Play Rough
-Twister                 Hurricane
-Volt Tackle             Wild Charge
-</code></pre>
+| Old Move     | New Move        |
+| ------------ | --------------- |
+| Barrage      | Draining Kiss   |
+| Brine        | Scald           |
+| Constrict    | Icicle Crash    |
+| Horn Drill   | Drill Run       |
+| Lunar Dance  | Moonblast       |
+| Luster Purge | Dazzling Gleam  |
+| Mist Ball    | Disarming Voice |
+| Sand Tomb    | Bulldoze        |
+| Submission   | Play Rough      |
+| Twister      | Hurricane       |
+| Volt Tackle  | Wild Charge     |
 
 ---
 
 ## Move Modifications
 
-Some moves have had changes to their numerical values.
-There are also some cases where moves have lost effects because it can't be replicated in the Gen IV engine.
+- Some moves have had changes to their numerical values.
+- There are also some cases where moves have lost effects because it can't be replicated in the Gen IV engine.
 
 <pre><code><b>Aurora Beam</b>
 <b>Power:</b> 65 → 75
