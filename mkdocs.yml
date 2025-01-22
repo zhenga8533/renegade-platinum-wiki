@@ -1,11 +1,34 @@
 site_name: Renegade Platinum Wiki
 site_url: https://zhenga8533.github.io/renegade-platinum-wiki/
-site_description: A fanmade wiki for the Volt White ROM hack.
+site_description: A fanmade wiki for the Pokémon Renegade Platinum ROM hack.
 site_author: Volcaronitee
 repo_url: https://github.com/zhenga8533/renegade-platinum-wiki
 
 theme:
   name: material
+  features:
+    - navigation.footer
+    - navigation.instant.progress
+    - navigation.prune
+    - navigation.tabs
+    - navigation.top
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+markdown_extensions:
+  - admonition
+  - attr_list
 nav:
   - Home: index.md
   - Action Replay Codes: action_replay_codes.md
