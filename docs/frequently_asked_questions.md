@@ -1,5 +1,5 @@
 ---
-#### Q: Why is the patching not working?
+## Q: Why is the patching not working?
 
 1. Make sure you're using the correct patch for the Platinum ROM you've obtained.
 2. If using a dump made from your own American cartridge, copies purchased near Platinum's original release should use the 3541 patch. Otherwise, the 4997 patch should hopefully do the job.
@@ -9,7 +9,7 @@
 6. Patching is a bit unreliable on mobile phones. I can't really help with problems there. You can search for prepatched ROMs online or use a PC then transfer the patched ROM to your phone.
 ---
 
-#### Q: Why has my game frozen when trying to start the first rival battle?
+## Q: Why has my game frozen when trying to start the first rival battle?
 
 - This means you've likely used the wrong ROM base. Try the patch for the other ROM base.
 - If you try to force the patch through by unchecking "checksum validation" in Delta Patcher Lite, you will probably also end up with this issue.
@@ -17,7 +17,7 @@
 
 ---
 
-#### Q: How can I update my Renegade Platinum to a newer version?
+## Q: How can I update my Renegade Platinum to a newer version?
 
 - Renegade Platinum save files are compatible between each version, so this should be possible.
 - Most emulators link the ROM name and the save file together, e.g. RenegadePlatinum.nds would have a corresponding save file RenegadePlatinum.sav.
@@ -40,7 +40,7 @@
 
 ---
 
-#### Q: Can I randomise Renegade Platinum?
+## Q: Can I randomise Renegade Platinum?
 
 - No, this is not possible via the Universal Pokémon Randomizer.
 - Expanded files mean the internal file locations are different to normal, and the Universal Pokémon Randomizer is unable to handle this.
@@ -49,20 +49,20 @@
 
 ---
 
-#### Q: Does the boost to the shiny rate affect the Poké Radar shiny patches?
+## Q: Does the boost to the shiny rate affect the Poké Radar shiny patches?
 
 - No, the Poké Radar works off its own RNG system that will force a shiny patch when it rolls the correct number. The shiny rate change in this game doesn't affect this.
 
 ---
 
-#### Q: Can I get <Pokémon name here\> as a shiny?
+## Q: Can I get <Pokémon name here\> as a shiny?
 
 - Yes, all Pokémon are available as shiny at whatever rate the version you're playing has (1/512 with shiny boost, 1/8192 if not).
 - You need to soft reset to try to get shinies for static encounters; save states don't reroll the RNG so you'll get the same Pokémon every time.
 
 ---
 
-#### Q: I'm seeing graphical distortion when walking in grass sometimes. Is this a bug?
+## Q: I'm seeing graphical distortion when walking in grass sometimes. Is this a bug?
 
 - This is a bug, but not with the hack; it's a problem with the emulator (specifically DeSmuME that I know of).
 - The graphical distortion is harmless and will go away when the screen is refreshed.
@@ -70,19 +70,19 @@
 
 ---
 
-#### Q: I finished the Galactic events in Eterna City and am now stuck. What do I do?
+## Q: I finished the Galactic events in Eterna City and am now stuck. What do I do?
 
 - Go to the Bike Shop in Eterna City and talk to the owner. After this, you should be able to progress past Route 206.
 
 ---
 
-#### Q: Why can't I get into Canalave City? Where am I meant to go?
+## Q: Why can't I get into Canalave City? Where am I meant to go?
 
 - You must now visit Pal Park before you can continue into Canalave City.
 - Be sure to talk to all of the NPCs at Pal Park. You're after a specific item to get past the guard blocking you!
 
 ---
 
-#### Q: Where can I find the ROM base for Renegade Platinum?
+## Q: Where can I find the ROM base for Renegade Platinum?
 
 - Can't give you a link here, unfortunately. But they do exist on the Internet.

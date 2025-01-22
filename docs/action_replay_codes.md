@@ -4,7 +4,7 @@
 
 ---
 
-#### Instant Text
+## Instant Text
 
 This code will make all text appear instantly instead of a gradual scroll.
 Please note that it will stop you hearing certain fanfares (e.g. the sound effect after an evolution).
@@ -21,7 +21,7 @@ Please note that it will stop you hearing certain fanfares (e.g. the sound effec
 
 ---
 
-#### Gauge Animation Cut
+## Gauge Animation Cut
 
 This code will make it so HP bars drop instantly instead of gradually.
 Please note that it won't have any effect until the HP bars are over a certain value, so the effect won't be immediately apparent early on.

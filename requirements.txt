@@ -1,2 +1,3 @@
 mkdocs == 1.6.1
 mkdocs-material == 9.5.49
+python-dotenv == 1.0.1

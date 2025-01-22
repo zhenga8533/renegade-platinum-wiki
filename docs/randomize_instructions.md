@@ -40,7 +40,7 @@ You need the following things:
 
 8. Pop open the Renegade Platinum ROM you just edited in [crysatltile2](https://www.romhacking.net/utilities/818/) in whatever emulator you use and your randomized changes should be active.
 
-The files are as follows...
+The files are as follows:
 
 ```
 1. Pokémon Base Stats, Abilities, Types are found in:
