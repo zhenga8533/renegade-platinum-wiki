@@ -54,10 +54,11 @@ echo ""
 
 # Run all parsers
 echo "Running all parsers"
-$PYTHON evolution_changes.py
-$PYTHON item_changes.py
-$PYTHON move_changes.py
-$PYTHON pokemon_changes.py
+#$PYTHON evolution_changes.py
+#$PYTHON item_changes.py
+#$PYTHON move_changes.py
+#$PYTHON pokemon_changes.py
+$PYTHON special_events.py
 echo "Finished running all parsers"
 echo ""
 
