@@ -56,6 +56,7 @@ echo ""
 echo "Running all parsers"
 $PYTHON evolution_changes.py
 $PYTHON item_changes.py
+$PYTHON move_changes.py
 echo "Finished running all parsers"
 echo ""
 

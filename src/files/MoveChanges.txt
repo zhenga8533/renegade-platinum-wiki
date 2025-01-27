@@ -1,8 +1,3 @@
-o-----------------------------------o
-| Pokémon Renegade Platinum         |
-| Move Changes (v1.3.0)             |
-o-----------------------------------o
-
 =========================================================
 General Changes
 =========================================================
@@ -86,7 +81,7 @@ Power: 60 >> 90
 
 Poison Fang
 Power: 50 >> 65
-Accuracy: 100 > 95
+Accuracy: 100 >> 95
 
 Poison Tail
 Power: 50 >> 90
@@ -102,7 +97,7 @@ Rock Smash
 Power: 40 >> 60
 
 Scald
-Effect: Burn (30%) + Self thaw + Thaw enemy frozen Pokémon >> Burn (30%) + Self thaw (Engine limitation)
+Effect: Burn (30%) + Self Thaw + Thaw Enemy >> Burn (30%) + Self Thaw + No Thaw Enemey (Engine limitation)
 
 Shadow Claw
 Power: 65 >> 80
