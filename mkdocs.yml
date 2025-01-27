@@ -35,16 +35,16 @@ nav:
       - Home: index.md
       - Changelog: getting_started/changelog.md
       - Download Links: getting_started/download_links.md
+      - FAQ: getting_started/frequently_asked_questions.md
       - Patching Guide: getting_started/patching_guide.md
+      - Randomize: getting_started/randomize_instructions.md
   - Mechanics:
       - Action Replay Codes: mechanics/action_replay_codes.md
       - Evolution Changes: mechanics/evolution_changes.md
-      - Frequently Asked Questions: mechanics/frequently_asked_questions.md
       - Item Changes: mechanics/item_changes.md
       - Move Changes: mechanics/move_changes.md
       - NPC Changes: mechanics/npc_changes.md
       - Pokemon Changes: mechanics/pokemon_changes.md
-      - Randomize Instructions: mechanics/randomize_instructions.md
       - Special Events: mechanics/special_events.md
       - Trade Changes: mechanics/trade_changes.md
       - Trainer Pokemon: mechanics/trainer_pokemon.md

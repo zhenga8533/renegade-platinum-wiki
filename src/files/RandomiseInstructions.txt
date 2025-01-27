@@ -3,6 +3,12 @@ o-----------------------------------o
 | How to Randomize                  |
 o-----------------------------------o
 
+NOTE - You can use this randomizer program now:
+https://www.reddit.com/r/PokemonROMhacks/comments/sv8jrj/version_1100_of_universal_pokemon_randomizer/
+ 
+NOTE - You can do this to randomise Trainers with the file transplant method:
+https://projectpokemon.org/home/forums/topic/61645-how-to-keep-renegade-platinum-additions-with-randomized-trainers/
+
 Please note that you *cannot* randomize everything due to how the hack has changed things.
 
 Trainer battles, gift Pokémon, TMs, field items and static encounters (legendaries) are off limits - you'll probably end up with crashes in places if you try to import these.
