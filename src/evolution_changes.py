@@ -31,7 +31,9 @@ def main():
         logger.log(logging.DEBUG, f"Parsing line {i + 1}: {line}")
 
         if line.startswith("=") or line == "":
-            continue
+            if list_index > 1:
+                md += "\n"
+                list_index = 1
         elif next_line.startswith("="):
             md += f"---\n\n## {line}\n\n"
             list_index = 1

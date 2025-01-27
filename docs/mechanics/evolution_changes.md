@@ -20,6 +20,7 @@
 12. Dusclops: Now able to evolve into Dusknoir by using a Reaper Cloth.
 13. Clamperl: Now able to evolve into Huntail by using a Deep Sea Tooth.
 14. Clamperl: Now able to evolve into Gorebyss by using a Deep Sea Scale.
+
 ---
 
 ## Level Changes
@@ -48,6 +49,7 @@
 22. Stunky: Now evolves into Skuntank at Level 32.
 23. Skorupi: Now evolves into Drapion at Level 30.
 24. Croagunk: Now evolves into Toxicroak at Level 33.
+
 ---
 
 ## Method Changes
