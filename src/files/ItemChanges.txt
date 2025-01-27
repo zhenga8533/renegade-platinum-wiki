@@ -1,8 +1,3 @@
-o-----------------------------------o
-| Pokémon Renegade Platinum         |
-| Item Changes (v1.3.0)             |
-o-----------------------------------o
-
 =========================================================
 Modified Items
 =========================================================
@@ -58,7 +53,7 @@ Black Sludge            Great Marsh
 Blue Flute              Route 216
 Blue Scarf              Pastoria City
 Bright Powder           Mt. Coronet
-Charcoal                Route 227, attached to Charmander, Cyndaquil and Torchic gifts
+Charcoal                Route 227, attached to Charmander/Cyndaquil/Torchic gifts
 Choice Band             Route 214
 Choice Scarf            Solaceon Ruins
 Choice Specs            Celestic Town (from NPC at Morning)
@@ -108,10 +103,10 @@ Mental Herb             Route 216, Veilstone Game Corner Prize (Buyable)
 Metal Coat              Route 207, Iron Island, Veilstone Game Corner Prize (Buyable), Sunyshore City
 Metal Powder            Floaroma Town
 Metronome               Amity Square, Veilstone Game Corner Prize (Buyable)
-Miracle Seed            Route 204 (North), Floaroma Meadow, attached to Bulbasaur, Chikorita and Treecko gifts
+Miracle Seed            Route 204 (North), Floaroma Meadow, attached to Bulbasaur/Chikorita/Treecko gifts
 Moon Stone              Oreburgh Mine, Mt. Coronet (Route 211 entrance), Eterna City (Hidden), Mt. Coronet (Hidden), Veilstone Dept. Store (Buyable)
 Muscle Band             Oreburgh Mine, Veilstone Game Corner Prize (Buyable)
-Mystic Water            Pastoria City, attached to Squirtle, Totodile and Mudkip gifts
+Mystic Water            Pastoria City, attached to Squirtle/Totodile/Mudkip gifts
 Never-Melt Ice          Snowpoint Temple, Trade for Spheal in Oreburgh
 Odd Incense             Solaceon Ruins
 Oval Stone              Oreburgh City, Lost Tower, Veilstone Dept. Store (Buyable)
@@ -365,5 +360,5 @@ Loot Sack               Prism Scale
 Point Card              Silver Wing
 Rule Book               Rainbow Wing
 S.S. Ticket             Tea
-Seal Bag                GS Ball *
-Storage Key             Mysterious Invitation **
+Seal Bag                GS Ball   *
+Storage Key             Mysterious Invitation   **
