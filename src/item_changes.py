@@ -20,7 +20,7 @@ def main():
     data = load(INPUT_PATH + "ItemChanges.txt", logger)
     lines = data.split("\n")
     n = len(lines)
-    md = "# Item Changes\n"
+    md = "# Item Changes\n\n"
 
     listing = False
     parse_table = False

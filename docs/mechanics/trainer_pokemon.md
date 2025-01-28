@@ -1,9 +1,5 @@
 # Trainer Pokémon
 
----
-
-## General Changes
-
 1. Trainer rosters in every area has been modified. They are all listed below with species and levels.
 1. Important trainers have their entire roster listed including species, levels, items, moves and natures.
 1. Natures have not been set for all Trainers - if a '?' is listed where the nature should be then it hasn't been specifically set.

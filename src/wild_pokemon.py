@@ -30,7 +30,7 @@ def main():
     data = load(INPUT_PATH + "WildPokemon.txt", logger)
     lines = data.split("\n")
     n = len(lines)
-    md = "# Wild Pokemon\n"
+    md = "# Wild Pokemon\n\n"
 
     rod_levels = {
         "Old Rod": "10",

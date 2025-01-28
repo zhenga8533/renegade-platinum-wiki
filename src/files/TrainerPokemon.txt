@@ -1,6 +1,3 @@
-=========================================================
-General Changes
-=========================================================
 - Trainer rosters in every area has been modified. They are all listed below with species and levels.
 - Important trainers have their entire roster listed including species, levels, items, moves and natures.
 - Natures have not been set for all Trainers - if a '?' is listed where the nature should be then it hasn't been specifically set.
@@ -966,7 +963,7 @@ Mt. Coronet ~ 4F
 Galactic Grunt              Houndoom Lv. 54, Golbat Lv. 54, Beedrill Lv. 54
 Galactic Grunt              Ledian Lv. 55, Weezing Lv. 55
 
-Mt. Coronet ~ Tunnel to Route 211 Entrance
+Mt. Coronet ~ Route 211 Entrance
 =================================================================================================================================================
 Galactic Grunt              Golbat Lv. 56
 Galactic Grunt              Murkrow Lv. 54, Mightyena Lv. 54, Sneasel Lv. 54

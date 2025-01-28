@@ -28,7 +28,6 @@ The following items now cost zero and are thus unsellable:
 
 1. All TMs
 
-
 ---
 
 ## Modified TMs
@@ -46,7 +45,6 @@ Additionally, all TMs will now have a quantity of 99 when obtained.
 
 1. No TMs are available within Poké Marts.
 1. An NPC at the Pokémon League can reset your inventory to have 99 of all TMs.
-
 
 ---
 
