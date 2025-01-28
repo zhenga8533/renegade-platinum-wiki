@@ -73,19 +73,19 @@ def main():
                 if trainer_rosters[i] != "":
                     trainer_rosters[i] += "\n---\n\n"
                 trainer_rosters[i] += f"## {line}\n\n"
-                trainer_rosters[i] += "<h3>Generic Trainers</h3>\n\n"
+                trainer_rosters[i] += "<h3>Generic Trainers:</h3>\n\n"
         elif line.startswith("- "):
             md += f"1. {line[2:]}\n"
         elif line == "Rematches":
             for i in range(3):
-                trainer_rosters[i] += "\n<h3>Rematches</h3>\n\n"
+                trainer_rosters[i] += "\n<h3>Rematches:</h3>\n\n"
         elif "@" in line:
             for i in range(3):
                 trainer_rosters[i] += parse_pokemon_set(line, i)
         elif "@" in next_line:
             if not parse_important:
                 for i in range(3):
-                    trainer_rosters[i] += f"\n<h3>Important Trainers</h3>\n\n"
+                    trainer_rosters[i] += f"\n<h3>Important Trainers:</h3>\n\n"
                 parse_important = True
             else:
                 for i in range(3):

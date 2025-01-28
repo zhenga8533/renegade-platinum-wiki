@@ -21,7 +21,7 @@
 
 	## Route 201
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Barry
 		1. Chimchar Lv. 5
@@ -30,7 +30,7 @@
 	
 	## Route 202
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Dawn
 		1. Piplup Lv. 9
@@ -47,7 +47,7 @@
 		1. Burmy Lv. 7
 		1. Zigzagoon Lv. 7
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Youngster Tristan (3)
 		1. Noctowl Lv. 27
@@ -64,7 +64,7 @@
 	
 	## Jubilife City Trainer School
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Schoolkid Harrison
 		1. Abra Lv. 8
@@ -77,7 +77,7 @@
 	
 	## Route 204 ~ South
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Lass Sarah
 		1. Shinx Lv. 8
@@ -90,7 +90,7 @@
 	1. Youngster Tyler
 		1. Magikarp Lv. 11
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Lass Samantha (3)
 		1. Luxio Lv. 26
@@ -109,7 +109,7 @@
 	
 	## Route 203
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Barry
 		1. Starly Lv. 10
@@ -133,7 +133,7 @@
 		1. Psyduck Lv. 10
 		1. Sunkern Lv. 10
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Youngster Dallas (3)
 		1. Luxio Lv. 27
@@ -164,7 +164,7 @@
 	
 	## Oreburgh Gate
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Camper Curtis
 		1. Seedot Lv. 10
@@ -181,7 +181,7 @@
 	
 	## Oreburgh City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Reporter Helen
 		1. Treecko Lv. 10
@@ -195,7 +195,7 @@
 		1. Armaldo Lv. 88
 		1. Metagross Lv. 89
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Steven**
 	
@@ -254,7 +254,7 @@
 	
 	## Oreburgh Mine
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Worker Mason
 		1. Aron Lv. 12
@@ -269,7 +269,7 @@
 	
 	## Oreburgh Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Youngster Jonathon
 		1. Rhyhorn Lv. 13
@@ -287,7 +287,7 @@
 		1. Larvitar Lv. 15
 		1. Cranidos Lv. 16
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Roark**
 	
@@ -346,7 +346,7 @@
 	
 	## Jubilife City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Reporter Kayla
 		1. Bulbasaur Lv. 5
@@ -369,7 +369,7 @@
 	
 	## Route 204 ~ North
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Aroma Lady Taylor
 		1. Cherubi Lv. 13
@@ -382,7 +382,7 @@
 		1. Plusle Lv. 15
 		1. Minun Lv. 15
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Bug Catcher Brandon (3)
 		1. Dustox Lv. 27
@@ -400,7 +400,7 @@
 	
 	## Floaroma Town
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Reporter Jenny
 		1. Chikorita Lv. 15
@@ -411,7 +411,7 @@
 	
 	## Floaroma Meadow
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Zubat Lv. 15
@@ -424,7 +424,7 @@
 	
 	## Valley Windworks
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Poochyena Lv. 14
@@ -443,7 +443,7 @@
 		1. Yanma Lv. 18
 		1. Purugly Lv. 19
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Mars**
 	
@@ -486,7 +486,7 @@
 	
 	## Route 205 ~ South
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Hiker Daniel
 		1. Diglett Lv. 15
@@ -516,7 +516,7 @@
 		1. Slakoth Lv. 15
 		1. Taillow Lv. 15
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Aroma Lady Elizabeth (3)
 		1. Bayleef Lv. 27
@@ -553,7 +553,7 @@
 	
 	## Eterna Forest
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Cheryl
 		1. Drifloon Lv. 19
@@ -588,7 +588,7 @@
 		1. Chingling Lv. 18
 		1. Chimecho Lv. 20
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Cheryl**
 	
@@ -631,7 +631,7 @@
 	
 	## Route 205 ~ North
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Fisherman Joseph (!)
 		1. Goldeen Lv. 18
@@ -645,7 +645,7 @@
 		1. Krabby Lv. 19
 		1. Finneon Lv. 19
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Fisherman Joseph (5)
 		1. Seaking Lv. 38
@@ -660,7 +660,7 @@
 	
 	## Route 211 ~ West
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ninja Boy Zach (!)
 		1. Zubat Lv. 19
@@ -675,7 +675,7 @@
 		1. Swablu Lv. 20
 		1. Staravia Lv. 20
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ninja Boy Zach (5)
 		1. Golbat Lv. 38
@@ -694,7 +694,7 @@
 	
 	## Route 211 ~ East
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Bird Keeper Katherine
 		1. Noctowl Lv. 22
@@ -705,7 +705,7 @@
 	1. Ruin Maniac Harry (!)
 		1. Aerodactyl Lv. 21
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ruin Maniac Harry (8)
 		1. Aerodactyl Lv. 61
@@ -716,7 +716,7 @@
 	
 	## Route 216
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Blake
 		1. Porygon Lv. 23
@@ -747,7 +747,7 @@
 	1. Skier Andrea (!)
 		1. Abomasnow Lv. 55
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Skier Edward (8)
 		1. Abomasnow Lv. 59
@@ -770,7 +770,7 @@
 	
 	## Route 206
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Cyclist Axel
 		1. Pichu Lv. 19
@@ -798,7 +798,7 @@
 	1. Hiker Theodore
 		1. Torkoal Lv. 26
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Cyclist John (5)
 		1. Farfetch'd Lv. 40
@@ -823,7 +823,7 @@
 	
 	## Eterna Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Lass Caroline
 		1. Lotad Lv. 22
@@ -846,7 +846,7 @@
 		1. Breloom Lv. 25
 		1. Roserade Lv. 26
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Gardenia**
 	
@@ -905,7 +905,7 @@
 	
 	## Team Galactic Eterna Building
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Ledian Lv. 24
@@ -937,7 +937,7 @@
 		1. Tangela Lv. 26
 		1. Skuntank Lv. 27
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Jupiter**
 	
@@ -980,7 +980,7 @@
 	
 	## Route 207
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Camper Anthony
 		1. Magby Lv. 24
@@ -1014,7 +1014,7 @@
 		1. Lickilicky Lv. 29
 		1. Grotle Lv. 30
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Battle Girl Helen (3)
 		1. Tyrogue Lv. 28
@@ -1029,7 +1029,7 @@
 		1. Medicham Lv. 72
 		1. Hariyama Lv. 72
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Dawn**
 	
@@ -1108,7 +1108,7 @@
 	
 	## Wayward Cave
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Mira
 		1. Togetic Lv. 27
@@ -1147,7 +1147,7 @@
 		1. Cubone Lv. 25
 		1. Probopass Lv. 25
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Mira**
 	
@@ -1190,7 +1190,7 @@
 	
 	## Route 208
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Hiker Robert
 		1. Marowak Lv. 28
@@ -1219,7 +1219,7 @@
 		1. Scizor Lv. 31
 		1. Drapion Lv. 32
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Artist William (5)
 		1. Smeargle Lv. 38
@@ -1234,7 +1234,7 @@
 		1. Smeargle Lv. 70
 		1. Smeargle Lv. 70
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Elite Four Aaron**
 	
@@ -1285,7 +1285,7 @@
 	
 	## Hearthome Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Youngster Donny
 		1. Gastly Lv. 27
@@ -1322,7 +1322,7 @@
 		1. Snorlax Lv. 32
 		1. Grotle Lv. 33
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Fantina**
 	
@@ -1417,7 +1417,7 @@
 	
 	## Route 212 ~ North
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Mightyena Lv. 29
@@ -1480,7 +1480,7 @@
 	1. Policeman Caleb
 		1. Granbull Lv. 31
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Lady Melissa (5)
 		1. Gloom Lv. 38
@@ -1505,7 +1505,7 @@
 	1. Socialite Reina (C)
 		1. Delcatty Lv. 73
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Saturn**
 	
@@ -1568,7 +1568,7 @@
 	
 	## Route 209
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Breeder Albert (!)
 		1. Tyrogue Lv. 26
@@ -1602,7 +1602,7 @@
 		1. Illumise Lv. 31
 		1. Volbeat Lv. 31
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. PKMN Breeder Albert (5)
 		1. Hitmontop Lv. 37
@@ -1663,7 +1663,7 @@
 	
 	## Lost Tower
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Youngster Oliver
 		1. Shellos Lv. 31
@@ -1691,7 +1691,7 @@
 	
 	## Solaceon Ruins
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ruin Maniac Karl
 		1. Bronzor Lv. 31
@@ -1702,7 +1702,7 @@
 	
 	## Route 210 ~ South
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Twins Teri & Tia
 		1. Furret Lv. 32
@@ -1731,7 +1731,7 @@
 	1. Waitress Kati
 		1. Clefable Lv. 33
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Rancher Marco (8)
 		1. Rapidash Lv. 59
@@ -1746,7 +1746,7 @@
 	
 	## Route 215
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Black Belt Derek
 		1. Combusken Lv. 34
@@ -1773,7 +1773,7 @@
 		1. Gardevoir Lv. 35
 		1. Roserade Lv. 35
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Jogger Craig (8)
 		1. Luxray Lv. 60
@@ -1802,7 +1802,7 @@
 	
 	## Veilstone Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Black Belt Colby
 		1. Machop Lv. 33
@@ -1829,7 +1829,7 @@
 		1. Gallade Lv. 38
 		1. Lucario Lv. 39
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Maylene**
 	
@@ -1888,7 +1888,7 @@
 	
 	## Veilstone City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Dragon Tamer Nils
 		1. Dragonair Lv. 35
@@ -1908,7 +1908,7 @@
 	
 	## Route 214
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PI Carlos (!)
 		1. Dugtrio Lv. 36
@@ -1941,7 +1941,7 @@
 		1. Chimecho Lv. 34
 		1. Girafarig Lv. 34
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. PI Carlos (8)
 		1. Dugtrio Lv. 62
@@ -1970,7 +1970,7 @@
 	
 	## Seven Stars Restaurant
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Artist Ismael
 		1. Smeargle Lv. 37
@@ -2013,7 +2013,7 @@
 	
 	## Route 213
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Beauty Cyndy (!)
 		1. Delcatty Lv. 37
@@ -2045,7 +2045,7 @@
 	1. Galactic Grunt
 		1. Toxicroak Lv. 41
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Beauty Cyndy (8)
 		1. Delcatty Lv. 59
@@ -2068,7 +2068,7 @@
 	
 	## Route 212 ~ South
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Parasol Lady Sabrina
 		1. Castform Lv. 39
@@ -2114,7 +2114,7 @@
 		1. Manectric Lv. 39
 		1. Nidoking Lv. 39
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Scientist Shaun (5)
 		1. Magneton Lv. 38
@@ -2166,7 +2166,7 @@
 	
 	## Pastoria City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Barry
 		1. Staraptor Lv. 41
@@ -2176,7 +2176,7 @@
 		1. Arcanine Lv. 41
 		1. Torterra Lv. 42
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Barry**
 	
@@ -2227,7 +2227,7 @@
 	
 	## Pastoria Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Tuber Jacky
 		1. Bibarel Lv. 39
@@ -2261,7 +2261,7 @@
 		1. Sharpedo Lv. 43
 		1. Floatzel Lv. 44
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Wake**
 	
@@ -2320,7 +2320,7 @@
 	
 	## Route 210 ~ North
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ninja Boy Fabian
 		1. Toxicroak Lv. 41
@@ -2386,7 +2386,7 @@
 		1. Vaporeon Lv. 44
 		1. Torterra Lv. 45
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Bird Keeper Brianna (8)
 		1. Dodrio Lv. 60
@@ -2415,7 +2415,7 @@
 		1. Flygon Lv. 70
 		1. Dragonite Lv. 70
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Dawn**
 	
@@ -2526,7 +2526,7 @@
 	
 	## Celestic Town
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Houndoom Lv. 43
@@ -2538,7 +2538,7 @@
 		1. Magnezone Lv. 45
 		1. Weavile Lv. 46
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Galactic Boss Cyrus**
 	
@@ -2581,7 +2581,7 @@
 	
 	## Route 218
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Fisherman Miguel (!)
 		1. Huntail Lv. 44
@@ -2596,7 +2596,7 @@
 		1. Kricketune Lv. 44
 		1. Exploud Lv. 44
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Fisherman Miguel (C)
 		1. Clamperl Lv. 70
@@ -2610,7 +2610,7 @@
 	
 	## Fuego Ironworks
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Worker Dillan
 		1. Machop Lv. 42
@@ -2629,7 +2629,7 @@
 	
 	## Route 219
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Tuber Mariel
 		1. Azumarill Lv. 43
@@ -2643,7 +2643,7 @@
 	
 	## Route 220
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Swimmer Jessica
 		1. Seadra Lv. 43
@@ -2673,7 +2673,7 @@
 	
 	## Route 221
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Swimmer Dillon
 		1. Swampert Lv. 46
@@ -2697,7 +2697,7 @@
 		1. Togekiss Lv. 45
 		1. Blissey Lv. 45
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ace Trainer Shannon (C)
 		1. Vileplume Lv. 72
@@ -2717,7 +2717,7 @@
 	
 	## Pal Park
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Castle Valet Darach
 		1. Gallade Lv. 48
@@ -2727,7 +2727,7 @@
 		1. Staraptor Lv. 48
 		1. Entei Lv. 48
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Castle Valet Darach**
 	
@@ -2786,7 +2786,7 @@
 	
 	## Canalave City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Barry
 		1. Staraptor Lv. 48
@@ -2796,7 +2796,7 @@
 		1. Arcanine Lv. 48
 		1. Torterra Lv. 49
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Barry**
 	
@@ -2847,7 +2847,7 @@
 	
 	## Iron Island
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Riley
 		1. Absol Lv. 49
@@ -2904,7 +2904,7 @@
 		1. Toxicroak Lv. 46
 		1. Skuntank Lv. 46
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Riley**
 	
@@ -2963,7 +2963,7 @@
 	
 	## Canalave Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Black Belt Ricky
 		1. Steelix Lv. 51
@@ -2998,7 +2998,7 @@
 		1. Aggron Lv. 52
 		1. Bastiodon Lv. 53
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Byron**
 	
@@ -3057,7 +3057,7 @@
 	
 	## Lake Valor
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Purugly Lv. 50
@@ -3072,7 +3072,7 @@
 		1. Rhydon Lv. 52
 		1. Toxicroak Lv. 53
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Saturn**
 	
@@ -3123,7 +3123,7 @@
 	
 	## Lake Verity
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Beautifly Lv. 50
@@ -3146,7 +3146,7 @@
 		1. Kangaskhan Lv. 52
 		1. Purugly Lv. 53
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Mars**
 	
@@ -3197,7 +3197,7 @@
 	
 	## Route 217
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Dalton (!)
 		1. Magmortar Lv. 52
@@ -3231,7 +3231,7 @@
 		1. Altaria Lv. 52
 		1. Blissey Lv. 52
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ace Trainer Dalton (C)
 		1. Magmortar Lv. 72
@@ -3262,7 +3262,7 @@
 	
 	## Snowpoint City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Aran
 		1. Heracross Lv. 54
@@ -3277,7 +3277,7 @@
 	
 	## Snowpoint Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Anton
 		1. Snorunt Lv. 51
@@ -3310,7 +3310,7 @@
 		1. Mamoswine Lv. 55
 		1. Froslass Lv. 56
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Candice**
 	
@@ -3369,7 +3369,7 @@
 	
 	## Galactic HQ
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Golbat Lv. 53
@@ -3426,7 +3426,7 @@
 		1. Magmortar Lv. 56
 		1. Toxicroak Lv. 57
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Galactic Boss Cyrus**
 	
@@ -3528,7 +3528,7 @@
 	
 	## Mt. Coronet ~ 3F
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Nidorina Lv. 54
@@ -3543,7 +3543,7 @@
 	
 	## Mt. Coronet ~ 4F
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Houndoom Lv. 54
@@ -3557,7 +3557,7 @@
 	
 	## Mt. Coronet ~ Tunnel to Route 211 Entrance
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Golbat Lv. 56
@@ -3573,7 +3573,7 @@
 	
 	## Mt. Coronet ~ 6F
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Golbat Lv. 55
@@ -3588,7 +3588,7 @@
 	
 	## Mt. Coronet ~ 7F
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Murkrow Lv. 55
@@ -3600,7 +3600,7 @@
 	
 	## Spear Pillar
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Toxicroak Lv. 56
@@ -3632,7 +3632,7 @@
 		1. Arcanine Lv. 58
 		1. Torterra Lv. 59
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Mars**
 	
@@ -3743,7 +3743,7 @@
 	
 	## Distortion World
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Boss Cyrus
 		1. Palkia Lv. 70
@@ -3756,7 +3756,7 @@
 		1. Magnezone Lv. 59
 		1. Weavile Lv. 60
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Galactic Boss Cyrus**
 	
@@ -3835,7 +3835,7 @@
 	
 	## Route 222
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Rich Boy Trey (!)
 		1. Luxray Lv. 57
@@ -3878,7 +3878,7 @@
 		1. Pikachu Lv. 57
 		1. Pikachu Lv. 57
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Rich Boy Trey (C)
 		1. Luxray Lv. 70
@@ -3905,7 +3905,7 @@
 	
 	## Sunyshore City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Arcade Star Dahlia
 		1. Blaziken Lv. 63
@@ -3967,7 +3967,7 @@
 	
 	## Sunyshore Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. School Kid Tiera
 		1. Plusle Lv. 56
@@ -4008,7 +4008,7 @@
 		1. Luxray Lv. 61
 		1. Electivire Lv. 62
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Volkner**
 	
@@ -4067,7 +4067,7 @@
 	
 	## Route 223
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Swimmer Wesley (!)
 		1. Floatzel Lv. 59
@@ -4115,7 +4115,7 @@
 		1. Gastrodon Lv. 58
 		1. Slowking Lv. 58
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Swimmer Wesley (S)
 		1. Floatzel Lv. 75
@@ -4143,7 +4143,7 @@
 	
 	## Victory Road
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Psychic Bryce
 		1. Gengar Lv. 63
@@ -4226,7 +4226,7 @@
 	
 	## Victory Road ~ East
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Marley
 		1. Starmie Lv. 65
@@ -4292,7 +4292,7 @@
 		1. Ninetales Lv. 64
 		1. Scizor Lv. 64
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Marley**
 	
@@ -4351,7 +4351,7 @@
 	
 	## Route 224
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Ruben
 		1. Shiftry Lv. 67
@@ -4408,7 +4408,7 @@
 		1. Vaporeon Lv. 69
 		1. Torterra Lv. 70
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Veteran Armando (S)
 		1. Muk Lv. 77
@@ -4421,7 +4421,7 @@
 		1. Kingdra Lv. 77
 		1. Dragonite Lv. 77
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Dawn**
 	
@@ -4532,7 +4532,7 @@
 	
 	## Pokémon League
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Barry
 		1. Staraptor Lv. 70
@@ -4717,7 +4717,7 @@
 		1. Milotic Lv. 88
 		1. Rayquaza Lv. 89
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Barry**
 	
@@ -6068,7 +6068,7 @@
 	
 	## Fight Area
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Leader Volkner
 		1. Raichu Lv. 74
@@ -6090,7 +6090,7 @@
 	
 	## Route 225
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Rodolfo (!)
 		1. Starmie Lv. 73
@@ -6132,7 +6132,7 @@
 		1. Tropius Lv. 76
 		1. Dragonite Lv. 77
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ace Trainer Rodolfo (S)
 		1. Starmie Lv. 79
@@ -6159,7 +6159,7 @@
 		1. Lapras Lv. 79
 		1. Miltank Lv. 79
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Ace Trainer Heather**
 	
@@ -6218,7 +6218,7 @@
 	
 	## Route 226
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Swimmer Lydia
 		1. Azumarill Lv. 73
@@ -6246,7 +6246,7 @@
 		1. Garchomp Lv. 76
 		1. Salamence Lv. 77
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Ace Trainer Wyver**
 	
@@ -6305,7 +6305,7 @@
 	
 	## Route 227
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Saul (!)
 		1. Tauros Lv. 78
@@ -6335,12 +6335,12 @@
 		1. Cloyster Lv. 77
 		1. Claydol Lv. 78
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ace Trainer Saul (S)
 		1. Tauros Lv. 80
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Ace Trainer Slythe**
 	
@@ -6451,7 +6451,7 @@
 	
 	## Route 228
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Jose
 		1. Floatzel Lv. 76
@@ -6488,7 +6488,7 @@
 		1. Spiritomb Lv. 76
 		1. Tyranitar Lv. 77
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ace Trainer Moira (S)
 		1. Cacturne Lv. 79
@@ -6507,7 +6507,7 @@
 		1. Machamp Lv. 78
 		1. Primeape Lv. 78
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Ace Trainer Shade**
 	
@@ -6566,7 +6566,7 @@
 	
 	## Route 229
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Ranger Deshawn
 		1. Spinda Lv. 74
@@ -6592,7 +6592,7 @@
 		1. Porygon-Z Lv. 76
 		1. Snorlax Lv. 77
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Ace Trainer Gene**
 	
@@ -6651,7 +6651,7 @@
 	
 	## Route 230
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Swimmer Glenn (!)
 		1. Octillery Lv. 73
@@ -6683,7 +6683,7 @@
 		1. Mawile Lv. 76
 		1. Gardevoir Lv. 77
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Swimmer Glenn (S)
 		1. Octillery Lv. 76
@@ -6693,7 +6693,7 @@
 		1. Corsola Lv. 75
 		1. Vaporeon Lv. 75
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Ace Trainer Luna**
 	
@@ -6752,7 +6752,7 @@
 	
 	## Stark Mountain ~ Outside
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Dragon Tamer Darien
 		1. Dragonite Lv. 78
@@ -6761,7 +6761,7 @@
 	
 	## Stark Mountain ~ Entrance
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Commander Mars
 		1. Crobat Lv. 77
@@ -6778,7 +6778,7 @@
 		1. Gastrodon Lv. 77
 		1. Skuntank Lv. 78
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Mars**
 	
@@ -6889,7 +6889,7 @@
 	
 	## Stark Mountain ~ Interior
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Keenan
 		1. Primeape Lv. 78
@@ -6960,7 +6960,7 @@
 	
 	## Battleground
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Leader Roark
 		1. Sudowoodo Lv. 81
@@ -7107,7 +7107,7 @@
 	
 	## Pokémon Center
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Reporter Kinsey
 		1. Drifloon Lv. 10
@@ -7247,7 +7247,7 @@
 
 	## Route 201
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Barry
 		1. Piplup Lv. 5
@@ -7256,7 +7256,7 @@
 	
 	## Route 202
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Dawn
 		1. Turtwig Lv. 9
@@ -7273,7 +7273,7 @@
 		1. Burmy Lv. 7
 		1. Zigzagoon Lv. 7
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Youngster Tristan (3)
 		1. Noctowl Lv. 27
@@ -7290,7 +7290,7 @@
 	
 	## Jubilife City Trainer School
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Schoolkid Harrison
 		1. Abra Lv. 8
@@ -7303,7 +7303,7 @@
 	
 	## Route 204 ~ South
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Lass Sarah
 		1. Shinx Lv. 8
@@ -7316,7 +7316,7 @@
 	1. Youngster Tyler
 		1. Magikarp Lv. 11
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Lass Samantha (3)
 		1. Luxio Lv. 26
@@ -7335,7 +7335,7 @@
 	
 	## Route 203
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Barry
 		1. Starly Lv. 10
@@ -7359,7 +7359,7 @@
 		1. Psyduck Lv. 10
 		1. Sunkern Lv. 10
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Youngster Dallas (3)
 		1. Luxio Lv. 27
@@ -7390,7 +7390,7 @@
 	
 	## Oreburgh Gate
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Camper Curtis
 		1. Seedot Lv. 10
@@ -7407,7 +7407,7 @@
 	
 	## Oreburgh City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Reporter Helen
 		1. Treecko Lv. 10
@@ -7421,7 +7421,7 @@
 		1. Armaldo Lv. 88
 		1. Metagross Lv. 89
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Steven**
 	
@@ -7480,7 +7480,7 @@
 	
 	## Oreburgh Mine
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Worker Mason
 		1. Aron Lv. 12
@@ -7495,7 +7495,7 @@
 	
 	## Oreburgh Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Youngster Jonathon
 		1. Rhyhorn Lv. 13
@@ -7513,7 +7513,7 @@
 		1. Larvitar Lv. 15
 		1. Cranidos Lv. 16
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Roark**
 	
@@ -7572,7 +7572,7 @@
 	
 	## Jubilife City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Reporter Kayla
 		1. Bulbasaur Lv. 5
@@ -7595,7 +7595,7 @@
 	
 	## Route 204 ~ North
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Aroma Lady Taylor
 		1. Cherubi Lv. 13
@@ -7608,7 +7608,7 @@
 		1. Plusle Lv. 15
 		1. Minun Lv. 15
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Bug Catcher Brandon (3)
 		1. Dustox Lv. 27
@@ -7626,7 +7626,7 @@
 	
 	## Floaroma Town
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Reporter Jenny
 		1. Chikorita Lv. 15
@@ -7637,7 +7637,7 @@
 	
 	## Floaroma Meadow
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Zubat Lv. 15
@@ -7650,7 +7650,7 @@
 	
 	## Valley Windworks
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Poochyena Lv. 14
@@ -7669,7 +7669,7 @@
 		1. Yanma Lv. 18
 		1. Purugly Lv. 19
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Mars**
 	
@@ -7712,7 +7712,7 @@
 	
 	## Route 205 ~ South
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Hiker Daniel
 		1. Diglett Lv. 15
@@ -7742,7 +7742,7 @@
 		1. Slakoth Lv. 15
 		1. Taillow Lv. 15
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Aroma Lady Elizabeth (3)
 		1. Bayleef Lv. 27
@@ -7779,7 +7779,7 @@
 	
 	## Eterna Forest
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Cheryl
 		1. Drifloon Lv. 19
@@ -7814,7 +7814,7 @@
 		1. Chingling Lv. 18
 		1. Chimecho Lv. 20
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Cheryl**
 	
@@ -7857,7 +7857,7 @@
 	
 	## Route 205 ~ North
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Fisherman Joseph (!)
 		1. Goldeen Lv. 18
@@ -7871,7 +7871,7 @@
 		1. Krabby Lv. 19
 		1. Finneon Lv. 19
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Fisherman Joseph (5)
 		1. Seaking Lv. 38
@@ -7886,7 +7886,7 @@
 	
 	## Route 211 ~ West
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ninja Boy Zach (!)
 		1. Zubat Lv. 19
@@ -7901,7 +7901,7 @@
 		1. Swablu Lv. 20
 		1. Staravia Lv. 20
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ninja Boy Zach (5)
 		1. Golbat Lv. 38
@@ -7920,7 +7920,7 @@
 	
 	## Route 211 ~ East
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Bird Keeper Katherine
 		1. Noctowl Lv. 22
@@ -7931,7 +7931,7 @@
 	1. Ruin Maniac Harry (!)
 		1. Aerodactyl Lv. 21
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ruin Maniac Harry (8)
 		1. Aerodactyl Lv. 61
@@ -7942,7 +7942,7 @@
 	
 	## Route 216
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Blake
 		1. Porygon Lv. 23
@@ -7973,7 +7973,7 @@
 	1. Skier Andrea (!)
 		1. Abomasnow Lv. 55
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Skier Edward (8)
 		1. Abomasnow Lv. 59
@@ -7996,7 +7996,7 @@
 	
 	## Route 206
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Cyclist Axel
 		1. Pichu Lv. 19
@@ -8024,7 +8024,7 @@
 	1. Hiker Theodore
 		1. Torkoal Lv. 26
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Cyclist John (5)
 		1. Farfetch'd Lv. 40
@@ -8049,7 +8049,7 @@
 	
 	## Eterna Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Lass Caroline
 		1. Lotad Lv. 22
@@ -8072,7 +8072,7 @@
 		1. Breloom Lv. 25
 		1. Roserade Lv. 26
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Gardenia**
 	
@@ -8131,7 +8131,7 @@
 	
 	## Team Galactic Eterna Building
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Ledian Lv. 24
@@ -8163,7 +8163,7 @@
 		1. Tangela Lv. 26
 		1. Skuntank Lv. 27
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Jupiter**
 	
@@ -8206,7 +8206,7 @@
 	
 	## Route 207
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Camper Anthony
 		1. Magby Lv. 24
@@ -8240,7 +8240,7 @@
 		1. Lickilicky Lv. 29
 		1. Monferno Lv. 30
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Battle Girl Helen (3)
 		1. Tyrogue Lv. 28
@@ -8255,7 +8255,7 @@
 		1. Medicham Lv. 72
 		1. Hariyama Lv. 72
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Dawn**
 	
@@ -8334,7 +8334,7 @@
 	
 	## Wayward Cave
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Mira
 		1. Togetic Lv. 27
@@ -8373,7 +8373,7 @@
 		1. Cubone Lv. 25
 		1. Probopass Lv. 25
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Mira**
 	
@@ -8416,7 +8416,7 @@
 	
 	## Route 208
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Hiker Robert
 		1. Marowak Lv. 28
@@ -8445,7 +8445,7 @@
 		1. Scizor Lv. 31
 		1. Drapion Lv. 32
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Artist William (5)
 		1. Smeargle Lv. 38
@@ -8460,7 +8460,7 @@
 		1. Smeargle Lv. 70
 		1. Smeargle Lv. 70
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Elite Four Aaron**
 	
@@ -8511,7 +8511,7 @@
 	
 	## Hearthome Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Youngster Donny
 		1. Gastly Lv. 27
@@ -8548,7 +8548,7 @@
 		1. Snorlax Lv. 32
 		1. Monferno Lv. 33
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Fantina**
 	
@@ -8643,7 +8643,7 @@
 	
 	## Route 212 ~ North
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Mightyena Lv. 29
@@ -8706,7 +8706,7 @@
 	1. Policeman Caleb
 		1. Granbull Lv. 31
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Lady Melissa (5)
 		1. Gloom Lv. 38
@@ -8731,7 +8731,7 @@
 	1. Socialite Reina (C)
 		1. Delcatty Lv. 73
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Saturn**
 	
@@ -8794,7 +8794,7 @@
 	
 	## Route 209
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Breeder Albert (!)
 		1. Tyrogue Lv. 26
@@ -8828,7 +8828,7 @@
 		1. Illumise Lv. 31
 		1. Volbeat Lv. 31
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. PKMN Breeder Albert (5)
 		1. Hitmontop Lv. 37
@@ -8889,7 +8889,7 @@
 	
 	## Lost Tower
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Youngster Oliver
 		1. Shellos Lv. 31
@@ -8917,7 +8917,7 @@
 	
 	## Solaceon Ruins
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ruin Maniac Karl
 		1. Bronzor Lv. 31
@@ -8928,7 +8928,7 @@
 	
 	## Route 210 ~ South
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Twins Teri & Tia
 		1. Furret Lv. 32
@@ -8957,7 +8957,7 @@
 	1. Waitress Kati
 		1. Clefable Lv. 33
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Rancher Marco (8)
 		1. Rapidash Lv. 59
@@ -8972,7 +8972,7 @@
 	
 	## Route 215
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Black Belt Derek
 		1. Combusken Lv. 34
@@ -8999,7 +8999,7 @@
 		1. Gardevoir Lv. 35
 		1. Roserade Lv. 35
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Jogger Craig (8)
 		1. Luxray Lv. 60
@@ -9028,7 +9028,7 @@
 	
 	## Veilstone Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Black Belt Colby
 		1. Machop Lv. 33
@@ -9055,7 +9055,7 @@
 		1. Gallade Lv. 38
 		1. Lucario Lv. 39
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Maylene**
 	
@@ -9114,7 +9114,7 @@
 	
 	## Veilstone City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Dragon Tamer Nils
 		1. Dragonair Lv. 35
@@ -9134,7 +9134,7 @@
 	
 	## Route 214
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PI Carlos (!)
 		1. Dugtrio Lv. 36
@@ -9167,7 +9167,7 @@
 		1. Chimecho Lv. 34
 		1. Girafarig Lv. 34
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. PI Carlos (8)
 		1. Dugtrio Lv. 62
@@ -9196,7 +9196,7 @@
 	
 	## Seven Stars Restaurant
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Artist Ismael
 		1. Smeargle Lv. 37
@@ -9239,7 +9239,7 @@
 	
 	## Route 213
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Beauty Cyndy (!)
 		1. Delcatty Lv. 37
@@ -9271,7 +9271,7 @@
 	1. Galactic Grunt
 		1. Toxicroak Lv. 41
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Beauty Cyndy (8)
 		1. Delcatty Lv. 59
@@ -9294,7 +9294,7 @@
 	
 	## Route 212 ~ South
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Parasol Lady Sabrina
 		1. Castform Lv. 39
@@ -9340,7 +9340,7 @@
 		1. Manectric Lv. 39
 		1. Nidoking Lv. 39
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Scientist Shaun (5)
 		1. Magneton Lv. 38
@@ -9392,7 +9392,7 @@
 	
 	## Pastoria City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Barry
 		1. Staraptor Lv. 41
@@ -9402,7 +9402,7 @@
 		1. Breloom Lv. 41
 		1. Infernape Lv. 42
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Barry**
 	
@@ -9453,7 +9453,7 @@
 	
 	## Pastoria Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Tuber Jacky
 		1. Bibarel Lv. 39
@@ -9487,7 +9487,7 @@
 		1. Sharpedo Lv. 43
 		1. Floatzel Lv. 44
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Wake**
 	
@@ -9546,7 +9546,7 @@
 	
 	## Route 210 ~ North
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ninja Boy Fabian
 		1. Toxicroak Lv. 41
@@ -9612,7 +9612,7 @@
 		1. Jolteon Lv. 44
 		1. Infernape Lv. 45
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Bird Keeper Brianna (8)
 		1. Dodrio Lv. 60
@@ -9641,7 +9641,7 @@
 		1. Flygon Lv. 70
 		1. Dragonite Lv. 70
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Dawn**
 	
@@ -9752,7 +9752,7 @@
 	
 	## Celestic Town
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Houndoom Lv. 43
@@ -9764,7 +9764,7 @@
 		1. Magnezone Lv. 45
 		1. Weavile Lv. 46
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Galactic Boss Cyrus**
 	
@@ -9807,7 +9807,7 @@
 	
 	## Route 218
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Fisherman Miguel (!)
 		1. Huntail Lv. 44
@@ -9822,7 +9822,7 @@
 		1. Kricketune Lv. 44
 		1. Exploud Lv. 44
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Fisherman Miguel (C)
 		1. Clamperl Lv. 70
@@ -9836,7 +9836,7 @@
 	
 	## Fuego Ironworks
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Worker Dillan
 		1. Machop Lv. 42
@@ -9855,7 +9855,7 @@
 	
 	## Route 219
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Tuber Mariel
 		1. Azumarill Lv. 43
@@ -9869,7 +9869,7 @@
 	
 	## Route 220
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Swimmer Jessica
 		1. Seadra Lv. 43
@@ -9899,7 +9899,7 @@
 	
 	## Route 221
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Swimmer Dillon
 		1. Swampert Lv. 46
@@ -9923,7 +9923,7 @@
 		1. Togekiss Lv. 45
 		1. Blissey Lv. 45
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ace Trainer Shannon (C)
 		1. Vileplume Lv. 72
@@ -9943,7 +9943,7 @@
 	
 	## Pal Park
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Castle Valet Darach
 		1. Gallade Lv. 48
@@ -9953,7 +9953,7 @@
 		1. Staraptor Lv. 48
 		1. Entei Lv. 48
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Castle Valet Darach**
 	
@@ -10012,7 +10012,7 @@
 	
 	## Canalave City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Barry
 		1. Staraptor Lv. 48
@@ -10022,7 +10022,7 @@
 		1. Breloom Lv. 48
 		1. Infernape Lv. 49
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Barry**
 	
@@ -10073,7 +10073,7 @@
 	
 	## Iron Island
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Riley
 		1. Absol Lv. 49
@@ -10130,7 +10130,7 @@
 		1. Toxicroak Lv. 46
 		1. Skuntank Lv. 46
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Riley**
 	
@@ -10189,7 +10189,7 @@
 	
 	## Canalave Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Black Belt Ricky
 		1. Steelix Lv. 51
@@ -10224,7 +10224,7 @@
 		1. Aggron Lv. 52
 		1. Bastiodon Lv. 53
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Byron**
 	
@@ -10283,7 +10283,7 @@
 	
 	## Lake Valor
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Purugly Lv. 50
@@ -10298,7 +10298,7 @@
 		1. Rhydon Lv. 52
 		1. Toxicroak Lv. 53
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Saturn**
 	
@@ -10349,7 +10349,7 @@
 	
 	## Lake Verity
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Beautifly Lv. 50
@@ -10372,7 +10372,7 @@
 		1. Kangaskhan Lv. 52
 		1. Purugly Lv. 53
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Mars**
 	
@@ -10423,7 +10423,7 @@
 	
 	## Route 217
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Dalton (!)
 		1. Magmortar Lv. 52
@@ -10457,7 +10457,7 @@
 		1. Altaria Lv. 52
 		1. Blissey Lv. 52
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ace Trainer Dalton (C)
 		1. Magmortar Lv. 72
@@ -10488,7 +10488,7 @@
 	
 	## Snowpoint City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Aran
 		1. Heracross Lv. 54
@@ -10503,7 +10503,7 @@
 	
 	## Snowpoint Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Anton
 		1. Snorunt Lv. 51
@@ -10536,7 +10536,7 @@
 		1. Mamoswine Lv. 55
 		1. Froslass Lv. 56
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Candice**
 	
@@ -10595,7 +10595,7 @@
 	
 	## Galactic HQ
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Golbat Lv. 53
@@ -10652,7 +10652,7 @@
 		1. Magmortar Lv. 56
 		1. Toxicroak Lv. 57
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Galactic Boss Cyrus**
 	
@@ -10754,7 +10754,7 @@
 	
 	## Mt. Coronet ~ 3F
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Nidorina Lv. 54
@@ -10769,7 +10769,7 @@
 	
 	## Mt. Coronet ~ 4F
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Houndoom Lv. 54
@@ -10783,7 +10783,7 @@
 	
 	## Mt. Coronet ~ Tunnel to Route 211 Entrance
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Golbat Lv. 56
@@ -10799,7 +10799,7 @@
 	
 	## Mt. Coronet ~ 6F
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Golbat Lv. 55
@@ -10814,7 +10814,7 @@
 	
 	## Mt. Coronet ~ 7F
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Murkrow Lv. 55
@@ -10826,7 +10826,7 @@
 	
 	## Spear Pillar
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Toxicroak Lv. 56
@@ -10858,7 +10858,7 @@
 		1. Breloom Lv. 58
 		1. Infernape Lv. 59
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Mars**
 	
@@ -10969,7 +10969,7 @@
 	
 	## Distortion World
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Boss Cyrus
 		1. Palkia Lv. 70
@@ -10982,7 +10982,7 @@
 		1. Magnezone Lv. 59
 		1. Weavile Lv. 60
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Galactic Boss Cyrus**
 	
@@ -11061,7 +11061,7 @@
 	
 	## Route 222
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Rich Boy Trey (!)
 		1. Luxray Lv. 57
@@ -11104,7 +11104,7 @@
 		1. Pikachu Lv. 57
 		1. Pikachu Lv. 57
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Rich Boy Trey (C)
 		1. Luxray Lv. 70
@@ -11131,7 +11131,7 @@
 	
 	## Sunyshore City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Arcade Star Dahlia
 		1. Blaziken Lv. 63
@@ -11193,7 +11193,7 @@
 	
 	## Sunyshore Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. School Kid Tiera
 		1. Plusle Lv. 56
@@ -11234,7 +11234,7 @@
 		1. Luxray Lv. 61
 		1. Electivire Lv. 62
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Volkner**
 	
@@ -11293,7 +11293,7 @@
 	
 	## Route 223
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Swimmer Wesley (!)
 		1. Floatzel Lv. 59
@@ -11341,7 +11341,7 @@
 		1. Gastrodon Lv. 58
 		1. Slowking Lv. 58
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Swimmer Wesley (S)
 		1. Floatzel Lv. 75
@@ -11369,7 +11369,7 @@
 	
 	## Victory Road
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Psychic Bryce
 		1. Gengar Lv. 63
@@ -11452,7 +11452,7 @@
 	
 	## Victory Road ~ East
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Marley
 		1. Starmie Lv. 65
@@ -11518,7 +11518,7 @@
 		1. Ninetales Lv. 64
 		1. Scizor Lv. 64
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Marley**
 	
@@ -11577,7 +11577,7 @@
 	
 	## Route 224
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Ruben
 		1. Shiftry Lv. 67
@@ -11634,7 +11634,7 @@
 		1. Jolteon Lv. 69
 		1. Infernape Lv. 70
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Veteran Armando (S)
 		1. Muk Lv. 77
@@ -11647,7 +11647,7 @@
 		1. Kingdra Lv. 77
 		1. Dragonite Lv. 77
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Dawn**
 	
@@ -11758,7 +11758,7 @@
 	
 	## Pokémon League
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Barry
 		1. Staraptor Lv. 70
@@ -11943,7 +11943,7 @@
 		1. Milotic Lv. 88
 		1. Rayquaza Lv. 89
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Barry**
 	
@@ -13294,7 +13294,7 @@
 	
 	## Fight Area
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Leader Volkner
 		1. Raichu Lv. 74
@@ -13316,7 +13316,7 @@
 	
 	## Route 225
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Rodolfo (!)
 		1. Starmie Lv. 73
@@ -13358,7 +13358,7 @@
 		1. Tropius Lv. 76
 		1. Dragonite Lv. 77
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ace Trainer Rodolfo (S)
 		1. Starmie Lv. 79
@@ -13385,7 +13385,7 @@
 		1. Lapras Lv. 79
 		1. Miltank Lv. 79
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Ace Trainer Heather**
 	
@@ -13444,7 +13444,7 @@
 	
 	## Route 226
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Swimmer Lydia
 		1. Azumarill Lv. 73
@@ -13472,7 +13472,7 @@
 		1. Garchomp Lv. 76
 		1. Salamence Lv. 77
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Ace Trainer Wyver**
 	
@@ -13531,7 +13531,7 @@
 	
 	## Route 227
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Saul (!)
 		1. Tauros Lv. 78
@@ -13561,12 +13561,12 @@
 		1. Cloyster Lv. 77
 		1. Claydol Lv. 78
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ace Trainer Saul (S)
 		1. Tauros Lv. 80
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Ace Trainer Slythe**
 	
@@ -13677,7 +13677,7 @@
 	
 	## Route 228
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Jose
 		1. Floatzel Lv. 76
@@ -13714,7 +13714,7 @@
 		1. Spiritomb Lv. 76
 		1. Tyranitar Lv. 77
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ace Trainer Moira (S)
 		1. Cacturne Lv. 79
@@ -13733,7 +13733,7 @@
 		1. Machamp Lv. 78
 		1. Primeape Lv. 78
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Ace Trainer Shade**
 	
@@ -13792,7 +13792,7 @@
 	
 	## Route 229
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Ranger Deshawn
 		1. Spinda Lv. 74
@@ -13818,7 +13818,7 @@
 		1. Porygon-Z Lv. 76
 		1. Snorlax Lv. 77
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Ace Trainer Gene**
 	
@@ -13877,7 +13877,7 @@
 	
 	## Route 230
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Swimmer Glenn (!)
 		1. Octillery Lv. 73
@@ -13909,7 +13909,7 @@
 		1. Mawile Lv. 76
 		1. Gardevoir Lv. 77
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Swimmer Glenn (S)
 		1. Octillery Lv. 76
@@ -13919,7 +13919,7 @@
 		1. Corsola Lv. 75
 		1. Vaporeon Lv. 75
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Ace Trainer Luna**
 	
@@ -13978,7 +13978,7 @@
 	
 	## Stark Mountain ~ Outside
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Dragon Tamer Darien
 		1. Dragonite Lv. 78
@@ -13987,7 +13987,7 @@
 	
 	## Stark Mountain ~ Entrance
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Commander Mars
 		1. Crobat Lv. 77
@@ -14004,7 +14004,7 @@
 		1. Gastrodon Lv. 77
 		1. Skuntank Lv. 78
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Mars**
 	
@@ -14115,7 +14115,7 @@
 	
 	## Stark Mountain ~ Interior
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Keenan
 		1. Primeape Lv. 78
@@ -14186,7 +14186,7 @@
 	
 	## Battleground
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Leader Roark
 		1. Sudowoodo Lv. 81
@@ -14333,7 +14333,7 @@
 	
 	## Pokémon Center
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Reporter Kinsey
 		1. Drifloon Lv. 10
@@ -14473,7 +14473,7 @@
 
 	## Route 201
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Barry
 		1. Turtwig Lv. 5
@@ -14482,7 +14482,7 @@
 	
 	## Route 202
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Dawn
 		1. Chimchar Lv. 9
@@ -14499,7 +14499,7 @@
 		1. Burmy Lv. 7
 		1. Zigzagoon Lv. 7
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Youngster Tristan (3)
 		1. Noctowl Lv. 27
@@ -14516,7 +14516,7 @@
 	
 	## Jubilife City Trainer School
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Schoolkid Harrison
 		1. Abra Lv. 8
@@ -14529,7 +14529,7 @@
 	
 	## Route 204 ~ South
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Lass Sarah
 		1. Shinx Lv. 8
@@ -14542,7 +14542,7 @@
 	1. Youngster Tyler
 		1. Magikarp Lv. 11
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Lass Samantha (3)
 		1. Luxio Lv. 26
@@ -14561,7 +14561,7 @@
 	
 	## Route 203
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Barry
 		1. Starly Lv. 10
@@ -14585,7 +14585,7 @@
 		1. Psyduck Lv. 10
 		1. Sunkern Lv. 10
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Youngster Dallas (3)
 		1. Luxio Lv. 27
@@ -14616,7 +14616,7 @@
 	
 	## Oreburgh Gate
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Camper Curtis
 		1. Seedot Lv. 10
@@ -14633,7 +14633,7 @@
 	
 	## Oreburgh City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Reporter Helen
 		1. Treecko Lv. 10
@@ -14647,7 +14647,7 @@
 		1. Armaldo Lv. 88
 		1. Metagross Lv. 89
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Steven**
 	
@@ -14706,7 +14706,7 @@
 	
 	## Oreburgh Mine
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Worker Mason
 		1. Aron Lv. 12
@@ -14721,7 +14721,7 @@
 	
 	## Oreburgh Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Youngster Jonathon
 		1. Rhyhorn Lv. 13
@@ -14739,7 +14739,7 @@
 		1. Larvitar Lv. 15
 		1. Cranidos Lv. 16
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Roark**
 	
@@ -14798,7 +14798,7 @@
 	
 	## Jubilife City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Reporter Kayla
 		1. Bulbasaur Lv. 5
@@ -14821,7 +14821,7 @@
 	
 	## Route 204 ~ North
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Aroma Lady Taylor
 		1. Cherubi Lv. 13
@@ -14834,7 +14834,7 @@
 		1. Plusle Lv. 15
 		1. Minun Lv. 15
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Bug Catcher Brandon (3)
 		1. Dustox Lv. 27
@@ -14852,7 +14852,7 @@
 	
 	## Floaroma Town
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Reporter Jenny
 		1. Chikorita Lv. 15
@@ -14863,7 +14863,7 @@
 	
 	## Floaroma Meadow
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Zubat Lv. 15
@@ -14876,7 +14876,7 @@
 	
 	## Valley Windworks
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Poochyena Lv. 14
@@ -14895,7 +14895,7 @@
 		1. Yanma Lv. 18
 		1. Purugly Lv. 19
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Mars**
 	
@@ -14938,7 +14938,7 @@
 	
 	## Route 205 ~ South
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Hiker Daniel
 		1. Diglett Lv. 15
@@ -14968,7 +14968,7 @@
 		1. Slakoth Lv. 15
 		1. Taillow Lv. 15
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Aroma Lady Elizabeth (3)
 		1. Bayleef Lv. 27
@@ -15005,7 +15005,7 @@
 	
 	## Eterna Forest
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Cheryl
 		1. Drifloon Lv. 19
@@ -15040,7 +15040,7 @@
 		1. Chingling Lv. 18
 		1. Chimecho Lv. 20
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Cheryl**
 	
@@ -15083,7 +15083,7 @@
 	
 	## Route 205 ~ North
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Fisherman Joseph (!)
 		1. Goldeen Lv. 18
@@ -15097,7 +15097,7 @@
 		1. Krabby Lv. 19
 		1. Finneon Lv. 19
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Fisherman Joseph (5)
 		1. Seaking Lv. 38
@@ -15112,7 +15112,7 @@
 	
 	## Route 211 ~ West
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ninja Boy Zach (!)
 		1. Zubat Lv. 19
@@ -15127,7 +15127,7 @@
 		1. Swablu Lv. 20
 		1. Staravia Lv. 20
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ninja Boy Zach (5)
 		1. Golbat Lv. 38
@@ -15146,7 +15146,7 @@
 	
 	## Route 211 ~ East
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Bird Keeper Katherine
 		1. Noctowl Lv. 22
@@ -15157,7 +15157,7 @@
 	1. Ruin Maniac Harry (!)
 		1. Aerodactyl Lv. 21
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ruin Maniac Harry (8)
 		1. Aerodactyl Lv. 61
@@ -15168,7 +15168,7 @@
 	
 	## Route 216
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Blake
 		1. Porygon Lv. 23
@@ -15199,7 +15199,7 @@
 	1. Skier Andrea (!)
 		1. Abomasnow Lv. 55
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Skier Edward (8)
 		1. Abomasnow Lv. 59
@@ -15222,7 +15222,7 @@
 	
 	## Route 206
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Cyclist Axel
 		1. Pichu Lv. 19
@@ -15250,7 +15250,7 @@
 	1. Hiker Theodore
 		1. Torkoal Lv. 26
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Cyclist John (5)
 		1. Farfetch'd Lv. 40
@@ -15275,7 +15275,7 @@
 	
 	## Eterna Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Lass Caroline
 		1. Lotad Lv. 22
@@ -15298,7 +15298,7 @@
 		1. Breloom Lv. 25
 		1. Roserade Lv. 26
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Gardenia**
 	
@@ -15357,7 +15357,7 @@
 	
 	## Team Galactic Eterna Building
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Ledian Lv. 24
@@ -15389,7 +15389,7 @@
 		1. Tangela Lv. 26
 		1. Skuntank Lv. 27
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Jupiter**
 	
@@ -15432,7 +15432,7 @@
 	
 	## Route 207
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Camper Anthony
 		1. Magby Lv. 24
@@ -15466,7 +15466,7 @@
 		1. Lickilicky Lv. 29
 		1. Prinplup Lv. 30
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Battle Girl Helen (3)
 		1. Tyrogue Lv. 28
@@ -15481,7 +15481,7 @@
 		1. Medicham Lv. 72
 		1. Hariyama Lv. 72
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Dawn**
 	
@@ -15560,7 +15560,7 @@
 	
 	## Wayward Cave
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Mira
 		1. Togetic Lv. 27
@@ -15599,7 +15599,7 @@
 		1. Cubone Lv. 25
 		1. Probopass Lv. 25
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Mira**
 	
@@ -15642,7 +15642,7 @@
 	
 	## Route 208
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Hiker Robert
 		1. Marowak Lv. 28
@@ -15671,7 +15671,7 @@
 		1. Scizor Lv. 31
 		1. Drapion Lv. 32
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Artist William (5)
 		1. Smeargle Lv. 38
@@ -15686,7 +15686,7 @@
 		1. Smeargle Lv. 70
 		1. Smeargle Lv. 70
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Elite Four Aaron**
 	
@@ -15737,7 +15737,7 @@
 	
 	## Hearthome Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Youngster Donny
 		1. Gastly Lv. 27
@@ -15774,7 +15774,7 @@
 		1. Snorlax Lv. 32
 		1. Prinplup Lv. 33
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Fantina**
 	
@@ -15869,7 +15869,7 @@
 	
 	## Route 212 ~ North
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Mightyena Lv. 29
@@ -15932,7 +15932,7 @@
 	1. Policeman Caleb
 		1. Granbull Lv. 31
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Lady Melissa (5)
 		1. Gloom Lv. 38
@@ -15957,7 +15957,7 @@
 	1. Socialite Reina (C)
 		1. Delcatty Lv. 73
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Saturn**
 	
@@ -16020,7 +16020,7 @@
 	
 	## Route 209
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Breeder Albert (!)
 		1. Tyrogue Lv. 26
@@ -16054,7 +16054,7 @@
 		1. Illumise Lv. 31
 		1. Volbeat Lv. 31
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. PKMN Breeder Albert (5)
 		1. Hitmontop Lv. 37
@@ -16115,7 +16115,7 @@
 	
 	## Lost Tower
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Youngster Oliver
 		1. Shellos Lv. 31
@@ -16143,7 +16143,7 @@
 	
 	## Solaceon Ruins
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ruin Maniac Karl
 		1. Bronzor Lv. 31
@@ -16154,7 +16154,7 @@
 	
 	## Route 210 ~ South
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Twins Teri & Tia
 		1. Furret Lv. 32
@@ -16183,7 +16183,7 @@
 	1. Waitress Kati
 		1. Clefable Lv. 33
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Rancher Marco (8)
 		1. Rapidash Lv. 59
@@ -16198,7 +16198,7 @@
 	
 	## Route 215
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Black Belt Derek
 		1. Combusken Lv. 34
@@ -16225,7 +16225,7 @@
 		1. Gardevoir Lv. 35
 		1. Roserade Lv. 35
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Jogger Craig (8)
 		1. Luxray Lv. 60
@@ -16254,7 +16254,7 @@
 	
 	## Veilstone Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Black Belt Colby
 		1. Machop Lv. 33
@@ -16281,7 +16281,7 @@
 		1. Gallade Lv. 38
 		1. Lucario Lv. 39
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Maylene**
 	
@@ -16340,7 +16340,7 @@
 	
 	## Veilstone City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Dragon Tamer Nils
 		1. Dragonair Lv. 35
@@ -16360,7 +16360,7 @@
 	
 	## Route 214
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PI Carlos (!)
 		1. Dugtrio Lv. 36
@@ -16393,7 +16393,7 @@
 		1. Chimecho Lv. 34
 		1. Girafarig Lv. 34
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. PI Carlos (8)
 		1. Dugtrio Lv. 62
@@ -16422,7 +16422,7 @@
 	
 	## Seven Stars Restaurant
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Artist Ismael
 		1. Smeargle Lv. 37
@@ -16465,7 +16465,7 @@
 	
 	## Route 213
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Beauty Cyndy (!)
 		1. Delcatty Lv. 37
@@ -16497,7 +16497,7 @@
 	1. Galactic Grunt
 		1. Toxicroak Lv. 41
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Beauty Cyndy (8)
 		1. Delcatty Lv. 59
@@ -16520,7 +16520,7 @@
 	
 	## Route 212 ~ South
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Parasol Lady Sabrina
 		1. Castform Lv. 39
@@ -16566,7 +16566,7 @@
 		1. Manectric Lv. 39
 		1. Nidoking Lv. 39
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Scientist Shaun (5)
 		1. Magneton Lv. 38
@@ -16618,7 +16618,7 @@
 	
 	## Pastoria City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Barry
 		1. Staraptor Lv. 41
@@ -16628,7 +16628,7 @@
 		1. Arcanine Lv. 41
 		1. Empoleon Lv. 42
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Barry**
 	
@@ -16679,7 +16679,7 @@
 	
 	## Pastoria Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Tuber Jacky
 		1. Bibarel Lv. 39
@@ -16713,7 +16713,7 @@
 		1. Sharpedo Lv. 43
 		1. Floatzel Lv. 44
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Wake**
 	
@@ -16772,7 +16772,7 @@
 	
 	## Route 210 ~ North
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ninja Boy Fabian
 		1. Toxicroak Lv. 41
@@ -16838,7 +16838,7 @@
 		1. Flareon Lv. 44
 		1. Empoleon Lv. 45
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Bird Keeper Brianna (8)
 		1. Dodrio Lv. 60
@@ -16867,7 +16867,7 @@
 		1. Flygon Lv. 70
 		1. Dragonite Lv. 70
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Dawn**
 	
@@ -16978,7 +16978,7 @@
 	
 	## Celestic Town
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Houndoom Lv. 43
@@ -16990,7 +16990,7 @@
 		1. Magnezone Lv. 45
 		1. Weavile Lv. 46
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Galactic Boss Cyrus**
 	
@@ -17033,7 +17033,7 @@
 	
 	## Route 218
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Fisherman Miguel (!)
 		1. Huntail Lv. 44
@@ -17048,7 +17048,7 @@
 		1. Kricketune Lv. 44
 		1. Exploud Lv. 44
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Fisherman Miguel (C)
 		1. Clamperl Lv. 70
@@ -17062,7 +17062,7 @@
 	
 	## Fuego Ironworks
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Worker Dillan
 		1. Machop Lv. 42
@@ -17081,7 +17081,7 @@
 	
 	## Route 219
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Tuber Mariel
 		1. Azumarill Lv. 43
@@ -17095,7 +17095,7 @@
 	
 	## Route 220
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Swimmer Jessica
 		1. Seadra Lv. 43
@@ -17125,7 +17125,7 @@
 	
 	## Route 221
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Swimmer Dillon
 		1. Swampert Lv. 46
@@ -17149,7 +17149,7 @@
 		1. Togekiss Lv. 45
 		1. Blissey Lv. 45
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ace Trainer Shannon (C)
 		1. Vileplume Lv. 72
@@ -17169,7 +17169,7 @@
 	
 	## Pal Park
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Castle Valet Darach
 		1. Gallade Lv. 48
@@ -17179,7 +17179,7 @@
 		1. Staraptor Lv. 48
 		1. Entei Lv. 48
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Castle Valet Darach**
 	
@@ -17238,7 +17238,7 @@
 	
 	## Canalave City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Barry
 		1. Staraptor Lv. 48
@@ -17248,7 +17248,7 @@
 		1. Arcanine Lv. 48
 		1. Empoleon Lv. 49
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Barry**
 	
@@ -17299,7 +17299,7 @@
 	
 	## Iron Island
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Riley
 		1. Absol Lv. 49
@@ -17356,7 +17356,7 @@
 		1. Toxicroak Lv. 46
 		1. Skuntank Lv. 46
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Riley**
 	
@@ -17415,7 +17415,7 @@
 	
 	## Canalave Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Black Belt Ricky
 		1. Steelix Lv. 51
@@ -17450,7 +17450,7 @@
 		1. Aggron Lv. 52
 		1. Bastiodon Lv. 53
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Byron**
 	
@@ -17509,7 +17509,7 @@
 	
 	## Lake Valor
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Purugly Lv. 50
@@ -17524,7 +17524,7 @@
 		1. Rhydon Lv. 52
 		1. Toxicroak Lv. 53
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Saturn**
 	
@@ -17575,7 +17575,7 @@
 	
 	## Lake Verity
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Beautifly Lv. 50
@@ -17598,7 +17598,7 @@
 		1. Kangaskhan Lv. 52
 		1. Purugly Lv. 53
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Mars**
 	
@@ -17649,7 +17649,7 @@
 	
 	## Route 217
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Dalton (!)
 		1. Magmortar Lv. 52
@@ -17683,7 +17683,7 @@
 		1. Altaria Lv. 52
 		1. Blissey Lv. 52
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ace Trainer Dalton (C)
 		1. Magmortar Lv. 72
@@ -17714,7 +17714,7 @@
 	
 	## Snowpoint City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Aran
 		1. Heracross Lv. 54
@@ -17729,7 +17729,7 @@
 	
 	## Snowpoint Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Anton
 		1. Snorunt Lv. 51
@@ -17762,7 +17762,7 @@
 		1. Mamoswine Lv. 55
 		1. Froslass Lv. 56
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Candice**
 	
@@ -17821,7 +17821,7 @@
 	
 	## Galactic HQ
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Golbat Lv. 53
@@ -17878,7 +17878,7 @@
 		1. Magmortar Lv. 56
 		1. Toxicroak Lv. 57
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Galactic Boss Cyrus**
 	
@@ -17980,7 +17980,7 @@
 	
 	## Mt. Coronet ~ 3F
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Nidorina Lv. 54
@@ -17995,7 +17995,7 @@
 	
 	## Mt. Coronet ~ 4F
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Houndoom Lv. 54
@@ -18009,7 +18009,7 @@
 	
 	## Mt. Coronet ~ Tunnel to Route 211 Entrance
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Golbat Lv. 56
@@ -18025,7 +18025,7 @@
 	
 	## Mt. Coronet ~ 6F
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Golbat Lv. 55
@@ -18040,7 +18040,7 @@
 	
 	## Mt. Coronet ~ 7F
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Murkrow Lv. 55
@@ -18052,7 +18052,7 @@
 	
 	## Spear Pillar
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Grunt
 		1. Toxicroak Lv. 56
@@ -18084,7 +18084,7 @@
 		1. Arcanine Lv. 58
 		1. Empoleon Lv. 59
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Mars**
 	
@@ -18195,7 +18195,7 @@
 	
 	## Distortion World
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Galactic Boss Cyrus
 		1. Palkia Lv. 70
@@ -18208,7 +18208,7 @@
 		1. Magnezone Lv. 59
 		1. Weavile Lv. 60
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Galactic Boss Cyrus**
 	
@@ -18287,7 +18287,7 @@
 	
 	## Route 222
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Rich Boy Trey (!)
 		1. Luxray Lv. 57
@@ -18330,7 +18330,7 @@
 		1. Pikachu Lv. 57
 		1. Pikachu Lv. 57
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Rich Boy Trey (C)
 		1. Luxray Lv. 70
@@ -18357,7 +18357,7 @@
 	
 	## Sunyshore City
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Arcade Star Dahlia
 		1. Blaziken Lv. 63
@@ -18419,7 +18419,7 @@
 	
 	## Sunyshore Gym
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. School Kid Tiera
 		1. Plusle Lv. 56
@@ -18460,7 +18460,7 @@
 		1. Luxray Lv. 61
 		1. Electivire Lv. 62
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Leader Volkner**
 	
@@ -18519,7 +18519,7 @@
 	
 	## Route 223
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Swimmer Wesley (!)
 		1. Floatzel Lv. 59
@@ -18567,7 +18567,7 @@
 		1. Gastrodon Lv. 58
 		1. Slowking Lv. 58
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Swimmer Wesley (S)
 		1. Floatzel Lv. 75
@@ -18595,7 +18595,7 @@
 	
 	## Victory Road
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Psychic Bryce
 		1. Gengar Lv. 63
@@ -18678,7 +18678,7 @@
 	
 	## Victory Road ~ East
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Marley
 		1. Starmie Lv. 65
@@ -18744,7 +18744,7 @@
 		1. Ninetales Lv. 64
 		1. Scizor Lv. 64
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Marley**
 	
@@ -18803,7 +18803,7 @@
 	
 	## Route 224
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Ruben
 		1. Shiftry Lv. 67
@@ -18860,7 +18860,7 @@
 		1. Flareon Lv. 69
 		1. Empoleon Lv. 70
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Veteran Armando (S)
 		1. Muk Lv. 77
@@ -18873,7 +18873,7 @@
 		1. Kingdra Lv. 77
 		1. Dragonite Lv. 77
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Dawn**
 	
@@ -18984,7 +18984,7 @@
 	
 	## Pokémon League
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Trainer Barry
 		1. Staraptor Lv. 70
@@ -19169,7 +19169,7 @@
 		1. Milotic Lv. 88
 		1. Rayquaza Lv. 89
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**PKMN Trainer Barry**
 	
@@ -20520,7 +20520,7 @@
 	
 	## Fight Area
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Leader Volkner
 		1. Raichu Lv. 74
@@ -20542,7 +20542,7 @@
 	
 	## Route 225
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Rodolfo (!)
 		1. Starmie Lv. 73
@@ -20584,7 +20584,7 @@
 		1. Tropius Lv. 76
 		1. Dragonite Lv. 77
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ace Trainer Rodolfo (S)
 		1. Starmie Lv. 79
@@ -20611,7 +20611,7 @@
 		1. Lapras Lv. 79
 		1. Miltank Lv. 79
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Ace Trainer Heather**
 	
@@ -20670,7 +20670,7 @@
 	
 	## Route 226
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Swimmer Lydia
 		1. Azumarill Lv. 73
@@ -20698,7 +20698,7 @@
 		1. Garchomp Lv. 76
 		1. Salamence Lv. 77
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Ace Trainer Wyver**
 	
@@ -20757,7 +20757,7 @@
 	
 	## Route 227
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Saul (!)
 		1. Tauros Lv. 78
@@ -20787,12 +20787,12 @@
 		1. Cloyster Lv. 77
 		1. Claydol Lv. 78
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ace Trainer Saul (S)
 		1. Tauros Lv. 80
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Ace Trainer Slythe**
 	
@@ -20903,7 +20903,7 @@
 	
 	## Route 228
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Jose
 		1. Floatzel Lv. 76
@@ -20940,7 +20940,7 @@
 		1. Spiritomb Lv. 76
 		1. Tyranitar Lv. 77
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Ace Trainer Moira (S)
 		1. Cacturne Lv. 79
@@ -20959,7 +20959,7 @@
 		1. Machamp Lv. 78
 		1. Primeape Lv. 78
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Ace Trainer Shade**
 	
@@ -21018,7 +21018,7 @@
 	
 	## Route 229
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. PKMN Ranger Deshawn
 		1. Spinda Lv. 74
@@ -21044,7 +21044,7 @@
 		1. Porygon-Z Lv. 76
 		1. Snorlax Lv. 77
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Ace Trainer Gene**
 	
@@ -21103,7 +21103,7 @@
 	
 	## Route 230
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Swimmer Glenn (!)
 		1. Octillery Lv. 73
@@ -21135,7 +21135,7 @@
 		1. Mawile Lv. 76
 		1. Gardevoir Lv. 77
 	
-	<h3>Rematches</h3>
+	<h3>Rematches:</h3>
 	
 	1. Swimmer Glenn (S)
 		1. Octillery Lv. 76
@@ -21145,7 +21145,7 @@
 		1. Corsola Lv. 75
 		1. Vaporeon Lv. 75
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Ace Trainer Luna**
 	
@@ -21204,7 +21204,7 @@
 	
 	## Stark Mountain ~ Outside
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Dragon Tamer Darien
 		1. Dragonite Lv. 78
@@ -21213,7 +21213,7 @@
 	
 	## Stark Mountain ~ Entrance
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Commander Mars
 		1. Crobat Lv. 77
@@ -21230,7 +21230,7 @@
 		1. Gastrodon Lv. 77
 		1. Skuntank Lv. 78
 	
-	<h3>Important Trainers</h3>
+	<h3>Important Trainers:</h3>
 	
 	**Commander Mars**
 	
@@ -21341,7 +21341,7 @@
 	
 	## Stark Mountain ~ Interior
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Ace Trainer Keenan
 		1. Primeape Lv. 78
@@ -21412,7 +21412,7 @@
 	
 	## Battleground
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Leader Roark
 		1. Sudowoodo Lv. 81
@@ -21559,7 +21559,7 @@
 	
 	## Pokémon Center
 	
-	<h3>Generic Trainers</h3>
+	<h3>Generic Trainers:</h3>
 	
 	1. Reporter Kinsey
 		1. Drifloon Lv. 10

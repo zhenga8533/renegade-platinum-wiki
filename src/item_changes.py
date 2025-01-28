@@ -22,7 +22,7 @@ def main():
     n = len(lines)
     md = "# Item Changes\n"
 
-    list_index = 1
+    listing = False
     parse_table = False
 
     # Parse data
@@ -33,13 +33,17 @@ def main():
         logger.log(logging.DEBUG, f"Parsing line {i + 1}: {line}")
 
         if line.startswith("=") or line == "":
-            continue
+            if listing:
+                md += "\n"
+                listing = False
         elif next_line.startswith("="):
-            md += f"\n---\n\n## {line}\n\n"
-            parse_table = False
+            if parse_table:
+                md += "\n"
+                parse_table = False
+            md += f"---\n\n## {line}\n\n"
         elif line.startswith("- "):
-            md += f"{list_index}. {line[2:]}\n"
-            list_index += 1
+            md += f"1. {line[2:]}\n"
+            listing = True
         elif next_line.startswith("---"):
             headers = re.split(r"\s{3,}", line)
             md += f"| {' | '.join(headers)} |\n"
@@ -52,9 +56,6 @@ def main():
 
             md += f"| {' | '.join(cells)} |\n"
         else:
-            if list_index > 1:
-                md += "\n"
-                list_index = 1
             md += line + "\n\n"
     logger.log(logging.INFO, "Data parsed successfully!")
 

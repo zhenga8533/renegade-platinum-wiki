@@ -1,6 +1,6 @@
 1. These are some Action Replay codes which might be helpful to make the game play a bit faster.
-2. Please note that the Game ID is different to the original Platinum. You can find this value out with the R4 Cheat Code Editor program if you need it.
-3. These can also be applied to the ROM as an additional patch which is supplied with the download.
+1. Please note that the Game ID is different to the original Platinum. You can find this value out with the R4 Cheat Code Editor program if you need it.
+1. These can also be applied to the ROM as an additional patch which is supplied with the download.
 
 ---
 

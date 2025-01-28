@@ -19,9 +19,8 @@ def main():
     data = load(INPUT_PATH + "SpecialEvents.txt", logger)
     lines = data.split("\n")
     n = len(lines)
-    md = "# Special Events\n\n"
+    md = "# Special Events\n"
 
-    list_index = 0
     parse_encounter = False
 
     # Parse data
@@ -32,21 +31,16 @@ def main():
         logger.log(logging.DEBUG, f"Parsing line {i + 1}: {line}")
 
         if line.startswith("=") or line == "" or line == "---":
-            if list_index > 1:
-                md += "\n"
-                list_index = 1
             if parse_encounter and line != "---":
                 md += "```\n\n"
                 parse_encounter = False
         elif next_line.startswith("="):
-            md += f"---\n\n## {line}\n\n"
-            list_index = 1
+            md += f"\n---\n\n## {line}\n\n"
         elif next_line.startswith("---"):
-            md += f"**{line}**\n\n```\n"
+            md += f"\n**{line}**\n\n```\n"
             parse_encounter = True
         elif line.startswith("- "):
-            md += f"{list_index}. {line[2:]}\n"
-            list_index += 1
+            md += f"1. {line[2:]}\n"
         elif parse_encounter:
             md += line + "\n"
         else:

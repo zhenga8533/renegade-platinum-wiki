@@ -7,45 +7,46 @@
 The following items now have a "Use" option like evolutionary stones:
 
 1. Deep Sea Scale
-2. Deep Sea Tooth
-3. Dragon Scale
-4. Dubious Disc
-5. Electirizer
-6. King's Rock
-7. Magmarizer
-8. Metal Coat
-9. Protector
-10. Reaper Cloth
-11. Up-Grade
+1. Deep Sea Tooth
+1. Dragon Scale
+1. Dubious Disc
+1. Electirizer
+1. King's Rock
+1. Magmarizer
+1. Metal Coat
+1. Protector
+1. Reaper Cloth
+1. Up-Grade
 
 The following items have had adjustments to their costs:
 
 1. Poké Ball     ($200 >> $50)
-2. Great Ball    ($600 >> $150)
-3. Ultra Ball    ($1200 >> $300)
+1. Great Ball    ($600 >> $150)
+1. Ultra Ball    ($1200 >> $300)
 
 The following items now cost zero and are thus unsellable:
 
 1. All TMs
 
+
 ---
 
 ## Modified TMs
 
-
 The following TMs have had their moves changed (compatibility matches Ultra Sun and Ultra Moon plus extras as listed in Pokémon Changes):
 
 1. TM55: Brine >> Scald
-2. TM57: Charge Beam >> Wild Charge
-3. TM62: Silver Wind >> Bug Buzz
-4. TM83: Natural Gift >> Hyper Voice
-5. TM85: Dream Eater >> Dazzling Gleam
-6. TM88: Pluck >> Hurricane
+1. TM57: Charge Beam >> Wild Charge
+1. TM62: Silver Wind >> Bug Buzz
+1. TM83: Natural Gift >> Hyper Voice
+1. TM85: Dream Eater >> Dazzling Gleam
+1. TM88: Pluck >> Hurricane
 
 Additionally, all TMs will now have a quantity of 99 when obtained.
 
 1. No TMs are available within Poké Marts.
-2. An NPC at the Pokémon League can reset your inventory to have 99 of all TMs.
+1. An NPC at the Pokémon League can reset your inventory to have 99 of all TMs.
+
 
 ---
 
@@ -176,7 +177,6 @@ Additionally, all TMs will now have a quantity of 99 when obtained.
 ---
 
 ## TM Locations
-
 
 A * means the location has changed from the original Platinum.
 
