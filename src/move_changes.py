@@ -37,12 +37,10 @@ def main():
                 md += "\n"
                 parse_change = False
         elif next_line.startswith("="):
-            if parse_table:
-                md += "\n"
-                parse_table = False
-            md += f"---\n\n## {line}\n\n"
+            md += f"\n---\n\n## {line}\n\n"
+            parse_table = False
         elif line.startswith("- "):
-            md += line + "\n"
+            md += f"1. {line[2:]}\n"
         elif next_line.startswith("---"):
             headers = re.split(r"\s{3,}", line)
             md += f"| {' | '.join(headers)} |\n"

@@ -57,7 +57,7 @@ echo ""
 echo "Running all parsers"
 #$PYTHON evolution_changes.py
 #$PYTHON item_changes.py
-#$PYTHON move_changes.py
+$PYTHON move_changes.py
 #$PYTHON pokemon_changes.py
 #$PYTHON special_events.py
 #$PYTHON trainer_pokemon.py

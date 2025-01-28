@@ -1,12 +1,14 @@
 # Move Changes
 
+
 ---
 
 ## General Changes
 
-- The numbers of all moves (power, accuracy, PP, effect chance, priority) are updated to match Ultra Sun and Ultra Moon.
-- Curse is now a Ghost-type move as in Ultra Sun and Ultra Moon.
-- Charm, Moonlight and Sweet Kiss are now Fairy-type as in Ultra Sun and Ultra Moon.
+1. The numbers of all moves (power, accuracy, PP, effect chance, priority) are updated to match Ultra Sun and Ultra Moon.
+1. Curse is now a Ghost-type move as in Ultra Sun and Ultra Moon.
+1. Charm, Moonlight and Sweet Kiss are now Fairy-type as in Ultra Sun and Ultra Moon.
+
 ---
 
 ## Move Replacements
