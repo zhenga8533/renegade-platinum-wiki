@@ -2,58 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://zhenga8533.github.io/renegade-platinum-wiki/</loc>
-         <lastmod>2025-01-16</lastmod>
+         <lastmod>2025-01-28</lastmod>
     </url>
     <url>
-         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/action_replay_codes/</loc>
-         <lastmod>2025-01-16</lastmod>
+         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/getting_started/changelog/</loc>
+         <lastmod>2025-01-28</lastmod>
     </url>
     <url>
-         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/evolution_changes/</loc>
-         <lastmod>2025-01-16</lastmod>
+         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/getting_started/download_links/</loc>
+         <lastmod>2025-01-28</lastmod>
     </url>
     <url>
-         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/frequently_asked_questions/</loc>
-         <lastmod>2025-01-16</lastmod>
+         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/getting_started/frequently_asked_questions/</loc>
+         <lastmod>2025-01-28</lastmod>
     </url>
     <url>
-         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/item_changes/</loc>
-         <lastmod>2025-01-16</lastmod>
+         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/getting_started/patching_guide/</loc>
+         <lastmod>2025-01-28</lastmod>
     </url>
     <url>
-         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/move_changes/</loc>
-         <lastmod>2025-01-16</lastmod>
+         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/getting_started/randomize_instructions/</loc>
+         <lastmod>2025-01-28</lastmod>
     </url>
     <url>
-         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/npc_changes/</loc>
-         <lastmod>2025-01-16</lastmod>
+         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/mechanics/action_replay_codes/</loc>
+         <lastmod>2025-01-28</lastmod>
     </url>
     <url>
-         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/pokemon_changes/</loc>
-         <lastmod>2025-01-16</lastmod>
+         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/mechanics/evolution_changes/</loc>
+         <lastmod>2025-01-28</lastmod>
     </url>
     <url>
-         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/randomize_instructions/</loc>
-         <lastmod>2025-01-16</lastmod>
+         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/mechanics/item_changes/</loc>
+         <lastmod>2025-01-28</lastmod>
     </url>
     <url>
-         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/special_events/</loc>
-         <lastmod>2025-01-16</lastmod>
+         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/mechanics/move_changes/</loc>
+         <lastmod>2025-01-28</lastmod>
     </url>
     <url>
-         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/trade_changes/</loc>
-         <lastmod>2025-01-16</lastmod>
+         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/mechanics/npc_changes/</loc>
+         <lastmod>2025-01-28</lastmod>
     </url>
     <url>
-         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/trainer_pokemon/</loc>
-         <lastmod>2025-01-16</lastmod>
+         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/mechanics/pokemon_changes/</loc>
+         <lastmod>2025-01-28</lastmod>
     </url>
     <url>
-         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/type_changes/</loc>
-         <lastmod>2025-01-16</lastmod>
+         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/mechanics/special_events/</loc>
+         <lastmod>2025-01-28</lastmod>
     </url>
     <url>
-         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/wild_pokemon/</loc>
-         <lastmod>2025-01-16</lastmod>
+         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/mechanics/trade_changes/</loc>
+         <lastmod>2025-01-28</lastmod>
+    </url>
+    <url>
+         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/mechanics/trainer_pokemon/</loc>
+         <lastmod>2025-01-28</lastmod>
+    </url>
+    <url>
+         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/mechanics/type_changes/</loc>
+         <lastmod>2025-01-28</lastmod>
+    </url>
+    <url>
+         <loc>https://zhenga8533.github.io/renegade-platinum-wiki/mechanics/wild_pokemon/</loc>
+         <lastmod>2025-01-28</lastmod>
     </url>
 </urlset>
