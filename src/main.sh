@@ -55,14 +55,14 @@ echo ""
 
 # Run all parsers
 echo "Running all parsers"
-#$PYTHON evolution_changes.py
-#$PYTHON item_changes.py
-#$PYTHON move_changes.py
-#$PYTHON pokemon_changes.py
-#$PYTHON special_events.py
+$PYTHON evolution_changes.py
+$PYTHON item_changes.py
+$PYTHON move_changes.py
+$PYTHON pokemon_changes.py
+$PYTHON special_events.py
 $PYTHON trainer_pokemon.py
-#$PYTHON type_changes.py
-#$PYTHON wild_pokemon.py
+$PYTHON type_changes.py
+$PYTHON wild_pokemon.py
 echo "Finished running all parsers"
 echo ""
 
@@ -76,5 +76,5 @@ echo "Updating Markdown files in docs"
 mkdir -p ../docs/mechanics
 mkdir -p ../docs/pokemon
 
-cp -r -f -u $OUTPUT_PATH/* ../docs/mechanics
+rsync -av --update $OUTPUT_PATH/ ../docs/mechanics/
 echo "Markdown files updated"

@@ -25,7 +25,7 @@
 	<b>Nature:</b> ?
 	<b>Moves:</b>
 	1. Scratch
-	2. Leer</code></pre>
+	2. Leer<br><br></code></pre>
 
 === "Chimchar"
 
@@ -35,7 +35,7 @@
 	<b>Nature:</b> ?
 	<b>Moves:</b>
 	1. Pound
-	2. Growl</code></pre>
+	2. Growl<br><br></code></pre>
 
 === "Piplup"
 
@@ -45,14 +45,13 @@
 	<b>Nature:</b> ?
 	<b>Moves:</b>
 	1. Tackle
-	2. Withdraw</code></pre>
+	2. Withdraw<br><br></code></pre>
 
 
 ---
 
 ## Route 202
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Lass Natalie
@@ -92,7 +91,7 @@
 	<b>Moves:</b>
 	1. Scratch
 	2. Leer
-	3. Ember</code></pre>
+	3. Ember<br><br></code></pre>
 
 === "Chimchar"
 
@@ -103,7 +102,7 @@
 	<b>Moves:</b>
 	1. Pound
 	2. Growl
-	3. Bubble</code></pre>
+	3. Bubble<br><br></code></pre>
 
 === "Piplup"
 
@@ -114,7 +113,7 @@
 	<b>Moves:</b>
 	1. Tackle
 	2. Withdraw
-	3. Absorb</code></pre>
+	3. Absorb<br><br></code></pre>
 
 **PKMN Trainer Lucas**
 
@@ -127,7 +126,7 @@
 	<b>Moves:</b>
 	1. Scratch
 	2. Leer
-	3. Ember</code></pre>
+	3. Ember<br><br></code></pre>
 
 === "Chimchar"
 
@@ -138,7 +137,7 @@
 	<b>Moves:</b>
 	1. Pound
 	2. Growl
-	3. Bubble</code></pre>
+	3. Bubble<br><br></code></pre>
 
 === "Piplup"
 
@@ -149,7 +148,7 @@
 	<b>Moves:</b>
 	1. Tackle
 	2. Withdraw
-	3. Absorb</code></pre>
+	3. Absorb<br><br></code></pre>
 
 
 ---
@@ -170,7 +169,6 @@
 
 ## Route 204 (South)
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Lass Sarah
@@ -204,7 +202,6 @@
 
 ## Route 203
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Youngster Michael
@@ -258,33 +255,14 @@
 
 === "Turtwig"
 
-	<pre><code><b>Starly</b> @ No Item
-	<b>Ability:</b> Reckless
-	<b>Level:</b> 10
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Wing Attack
-	2. Tackle
-	3. Growl<br><br><b>Munchlax</b> @ No Item
-	<b>Ability:</b> Thick Fat
-	<b>Level:</b> 10
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Tackle
-	2. Metronome
-	3. Amnesia
-	4. Rock Tomb<br><br><b>Chimchar</b> @ Oran Berry
+	<pre><code><b>Chimchar</b> @ Oran Berry
 	<b>Ability:</b> Iron Fist
 	<b>Level:</b> 11
 	<b>Nature:</b> ?
 	<b>Moves:</b>
 	1. Ember
 	2. Fury Swipes
-	3. Taunt</code></pre>
-
-=== "Chimchar"
-
-	<pre><code><b>Starly</b> @ No Item
+	3. Taunt<br><br><b>Starly</b> @ No Item
 	<b>Ability:</b> Reckless
 	<b>Level:</b> 10
 	<b>Nature:</b> ?
@@ -299,18 +277,18 @@
 	1. Tackle
 	2. Metronome
 	3. Amnesia
-	4. Rock Tomb<br><br><b>Piplup</b> @ Oran Berry
+	4. Rock Tomb</code></pre>
+
+=== "Chimchar"
+
+	<pre><code><b>Piplup</b> @ Oran Berry
 	<b>Ability:</b> Torrent
 	<b>Level:</b> 11
 	<b>Nature:</b> ?
 	<b>Moves:</b>
 	1. Water Pulse
 	2. Pound
-	3. Peck</code></pre>
-
-=== "Piplup"
-
-	<pre><code><b>Starly</b> @ No Item
+	3. Peck<br><br><b>Starly</b> @ No Item
 	<b>Ability:</b> Reckless
 	<b>Level:</b> 10
 	<b>Nature:</b> ?
@@ -325,14 +303,33 @@
 	1. Tackle
 	2. Metronome
 	3. Amnesia
-	4. Rock Tomb<br><br><b>Turtwig</b> @ Oran Berry
+	4. Rock Tomb</code></pre>
+
+=== "Piplup"
+
+	<pre><code><b>Turtwig</b> @ Oran Berry
 	<b>Ability:</b> Overgrow
 	<b>Level:</b> 11
 	<b>Nature:</b> ?
 	<b>Moves:</b>
 	1. Razor Leaf
 	2. Tackle
-	3. Curse</code></pre>
+	3. Curse<br><br><b>Starly</b> @ No Item
+	<b>Ability:</b> Reckless
+	<b>Level:</b> 10
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Wing Attack
+	2. Tackle
+	3. Growl<br><br><b>Munchlax</b> @ No Item
+	<b>Ability:</b> Thick Fat
+	<b>Level:</b> 10
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Tackle
+	2. Metronome
+	3. Amnesia
+	4. Rock Tomb</code></pre>
 
 
 ---
@@ -416,7 +413,7 @@
 1. Meteor Mash
 2. Zen Headbutt
 3. Earthquake
-4. Ice Punch<br><br></code></pre>
+4. Ice Punch</code></pre>
 
 
 ---
@@ -502,7 +499,7 @@
 1. Zen Headbutt
 2. Rock Tomb
 3. Thunder Punch
-4. Scary Face<br><br></code></pre>
+4. Scary Face</code></pre>
 
 
 ---
@@ -528,15 +525,7 @@
 
 === "Turtwig"
 
-	<pre><code><b>Clefairy</b> @ No Item
-	<b>Ability:</b> Cute Charm
-	<b>Level:</b> 13
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Double Slap
-	2. Encore
-	3. Sing
-	4. Disarming Voice<br><br><b>Chimchar</b> @ No Item
+	<pre><code><b>Chimchar</b> @ No Item
 	<b>Ability:</b> Blaze
 	<b>Level:</b> 14
 	<b>Nature:</b> ?
@@ -544,11 +533,7 @@
 	1. Scratch
 	2. Ember
 	3. Taunt
-	4. Fury Swipes</code></pre>
-
-=== "Chimchar"
-
-	<pre><code><b>Clefairy</b> @ No Item
+	4. Fury Swipes<br><br><b>Clefairy</b> @ No Item
 	<b>Ability:</b> Cute Charm
 	<b>Level:</b> 13
 	<b>Nature:</b> ?
@@ -556,7 +541,11 @@
 	1. Double Slap
 	2. Encore
 	3. Sing
-	4. Disarming Voice<br><br><b>Piplup</b> @ No Item
+	4. Disarming Voice</code></pre>
+
+=== "Chimchar"
+
+	<pre><code><b>Piplup</b> @ No Item
 	<b>Ability:</b> Torrent
 	<b>Level:</b> 14
 	<b>Nature:</b> ?
@@ -564,11 +553,7 @@
 	1. Pound
 	2. Bubble
 	3. Water Sport
-	4. Peck</code></pre>
-
-=== "Piplup"
-
-	<pre><code><b>Clefairy</b> @ No Item
+	4. Peck<br><br><b>Clefairy</b> @ No Item
 	<b>Ability:</b> Cute Charm
 	<b>Level:</b> 13
 	<b>Nature:</b> ?
@@ -576,7 +561,11 @@
 	1. Double Slap
 	2. Encore
 	3. Sing
-	4. Disarming Voice<br><br><b>Turtwig</b> @ No Item
+	4. Disarming Voice</code></pre>
+
+=== "Piplup"
+
+	<pre><code><b>Turtwig</b> @ No Item
 	<b>Ability:</b> Overgrow
 	<b>Level:</b> 14
 	<b>Nature:</b> ?
@@ -584,21 +573,21 @@
 	1. Tackle
 	2. Absorb
 	3. Razor Leaf
-	4. Curse</code></pre>
+	4. Curse<br><br><b>Clefairy</b> @ No Item
+	<b>Ability:</b> Cute Charm
+	<b>Level:</b> 13
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Double Slap
+	2. Encore
+	3. Sing
+	4. Disarming Voice</code></pre>
 
 **PKMN Trainer Lucas**
 
 === "Turtwig"
 
-	<pre><code><b>Snubbull</b> @ No Item
-	<b>Ability:</b> Intimidate
-	<b>Level:</b> 13
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Tackle
-	2. Charm
-	3. Lick
-	4. Bite<br><br><b>Chimchar</b> @ No Item
+	<pre><code><b>Chimchar</b> @ No Item
 	<b>Ability:</b> Blaze
 	<b>Level:</b> 14
 	<b>Nature:</b> ?
@@ -606,11 +595,7 @@
 	1. Scratch
 	2. Ember
 	3. Taunt
-	4. Fury Swipes</code></pre>
-
-=== "Chimchar"
-
-	<pre><code><b>Snubbull</b> @ No Item
+	4. Fury Swipes<br><br><b>Snubbull</b> @ No Item
 	<b>Ability:</b> Intimidate
 	<b>Level:</b> 13
 	<b>Nature:</b> ?
@@ -618,7 +603,11 @@
 	1. Tackle
 	2. Charm
 	3. Lick
-	4. Bite<br><br><b>Piplup</b> @ No Item
+	4. Bite</code></pre>
+
+=== "Chimchar"
+
+	<pre><code><b>Piplup</b> @ No Item
 	<b>Ability:</b> Torrent
 	<b>Level:</b> 14
 	<b>Nature:</b> ?
@@ -626,11 +615,7 @@
 	1. Pound
 	2. Bubble
 	3. Water Sport
-	4. Peck</code></pre>
-
-=== "Piplup"
-
-	<pre><code><b>Snubbull</b> @ No Item
+	4. Peck<br><br><b>Snubbull</b> @ No Item
 	<b>Ability:</b> Intimidate
 	<b>Level:</b> 13
 	<b>Nature:</b> ?
@@ -638,7 +623,11 @@
 	1. Tackle
 	2. Charm
 	3. Lick
-	4. Bite<br><br><b>Turtwig</b> @ No Item
+	4. Bite</code></pre>
+
+=== "Piplup"
+
+	<pre><code><b>Turtwig</b> @ No Item
 	<b>Ability:</b> Overgrow
 	<b>Level:</b> 14
 	<b>Nature:</b> ?
@@ -646,14 +635,21 @@
 	1. Tackle
 	2. Absorb
 	3. Razor Leaf
-	4. Curse</code></pre>
+	4. Curse<br><br><b>Snubbull</b> @ No Item
+	<b>Ability:</b> Intimidate
+	<b>Level:</b> 13
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Tackle
+	2. Charm
+	3. Lick
+	4. Bite</code></pre>
 
 
 ---
 
 ## Route 204 (North)
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Aroma Lady Taylor
@@ -762,14 +758,13 @@
 1. Fake Out
 2. Hypnosis
 3. Facade
-4. Feint Attack<br><br></code></pre>
+4. Feint Attack</code></pre>
 
 
 ---
 
 ## Route 205 (South)
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Hiker Daniel
@@ -904,14 +899,13 @@
 1. Hyper Voice
 2. Soft-Boiled
 3. Ice Beam
-4. Thunderbolt<br><br></code></pre>
+4. Thunderbolt</code></pre>
 
 
 ---
 
 ## Route 205 (North)
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Fisherman Joseph (!)
@@ -942,7 +936,6 @@
 
 ## Route 211 (West)
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Ninja Boy Zach (!)
@@ -978,7 +971,6 @@
 
 ## Route 211 (East)
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Bird Keeper Katherine
@@ -1002,7 +994,6 @@
 
 ## Route 216
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Ace Trainer Blake
@@ -1058,7 +1049,6 @@
 
 ## Route 206
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Cyclist Axel
@@ -1181,7 +1171,7 @@
 1. Magical Leaf
 2. Sludge
 3. Dazzling Gleam
-4. Extrasensory<br><br></code></pre>
+4. Extrasensory</code></pre>
 
 
 ---
@@ -1251,14 +1241,13 @@
 1. Poison Jab
 2. Night Slash
 3. Focus Energy
-4. Torment<br><br></code></pre>
+4. Torment</code></pre>
 
 
 ---
 
 ## Route 207
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Camper Anthony
@@ -1304,31 +1293,7 @@
 
 === "Turtwig"
 
-	<pre><code><b>Piloswine</b> @ Focus Sash
-	<b>Ability:</b> Thick Fat
-	<b>Level:</b> 29
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Avalanche
-	2. Take Down
-	3. Rock Slide
-	4. Ice Shard<br><br><b>Clefable</b> @ Leftovers
-	<b>Ability:</b> Cute Charm
-	<b>Level:</b> 29
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Moonblast
-	2. Moonlight
-	3. Encore
-	4. Thunder Wave<br><br><b>Lopunny</b> @ Muscle Band
-	<b>Ability:</b> Scrappy (!)
-	<b>Level:</b> 29
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Dizzy Punch
-	2. Fake Out
-	3. Jump Kick
-	4. Quick Attack<br><br><b>Grotle</b> @ Sitrus Berry
+	<pre><code><b>Grotle</b> @ Sitrus Berry
 	<b>Ability:</b> Overgrow
 	<b>Level:</b> 30
 	<b>Nature:</b> ?
@@ -1336,11 +1301,7 @@
 	1. Seed Bomb
 	2. Body Slam
 	3. Leech Seed
-	4. Sand Tomb</code></pre>
-
-=== "Chimchar"
-
-	<pre><code><b>Piloswine</b> @ Focus Sash
+	4. Sand Tomb<br><br><b>Piloswine</b> @ Focus Sash
 	<b>Ability:</b> Thick Fat
 	<b>Level:</b> 29
 	<b>Nature:</b> ?
@@ -1364,7 +1325,11 @@
 	1. Dizzy Punch
 	2. Fake Out
 	3. Jump Kick
-	4. Quick Attack<br><br><b>Monferno</b> @ Sitrus Berry
+	4. Quick Attack</code></pre>
+
+=== "Chimchar"
+
+	<pre><code><b>Monferno</b> @ Sitrus Berry
 	<b>Ability:</b> Iron Fist
 	<b>Level:</b> 30
 	<b>Nature:</b> ?
@@ -1372,11 +1337,7 @@
 	1. Flamethrower
 	2. Fake Out
 	3. Mach Punch
-	4. Grass Knot</code></pre>
-
-=== "Piplup"
-
-	<pre><code><b>Piloswine</b> @ Focus Sash
+	4. Grass Knot<br><br><b>Piloswine</b> @ Focus Sash
 	<b>Ability:</b> Thick Fat
 	<b>Level:</b> 29
 	<b>Nature:</b> ?
@@ -1400,7 +1361,11 @@
 	1. Dizzy Punch
 	2. Fake Out
 	3. Jump Kick
-	4. Quick Attack<br><br><b>Prinplup</b> @ Sitrus Berry
+	4. Quick Attack</code></pre>
+
+=== "Piplup"
+
+	<pre><code><b>Prinplup</b> @ Sitrus Berry
 	<b>Ability:</b> Torrent
 	<b>Level:</b> 30
 	<b>Nature:</b> ?
@@ -1408,37 +1373,37 @@
 	1. Bubble Beam
 	2. Icy Wind
 	3. Brick Break
-	4. Shadow Claw</code></pre>
+	4. Shadow Claw<br><br><b>Piloswine</b> @ Focus Sash
+	<b>Ability:</b> Thick Fat
+	<b>Level:</b> 29
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Avalanche
+	2. Take Down
+	3. Rock Slide
+	4. Ice Shard<br><br><b>Clefable</b> @ Leftovers
+	<b>Ability:</b> Cute Charm
+	<b>Level:</b> 29
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Moonblast
+	2. Moonlight
+	3. Encore
+	4. Thunder Wave<br><br><b>Lopunny</b> @ Muscle Band
+	<b>Ability:</b> Scrappy (!)
+	<b>Level:</b> 29
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Dizzy Punch
+	2. Fake Out
+	3. Jump Kick
+	4. Quick Attack</code></pre>
 
 **PKMN Trainer Lucas**
 
 === "Turtwig"
 
-	<pre><code><b>Piloswine</b> @ Focus Sash
-	<b>Ability:</b> Thick Fat
-	<b>Level:</b> 29
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Avalanche
-	2. Take Down
-	3. Rock Slide
-	4. Ice Shard<br><br><b>Granbull</b> @ Muscle Band
-	<b>Ability:</b> Intimidate
-	<b>Level:</b> 29
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Play Rough
-	2. Fire Fang
-	3. Thunder Fang
-	4. Ice Fang<br><br><b>Lickilicky</b> @ Leftovers
-	<b>Ability:</b> Own Tempo
-	<b>Level:</b> 29
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Slam
-	2. Magnitude
-	3. Knock Off
-	4. Protect<br><br><b>Grotle</b> @ Sitrus Berry
+	<pre><code><b>Grotle</b> @ Sitrus Berry
 	<b>Ability:</b> Overgrow
 	<b>Level:</b> 30
 	<b>Nature:</b> ?
@@ -1446,11 +1411,7 @@
 	1. Seed Bomb
 	2. Body Slam
 	3. Leech Seed
-	4. Sand Tomb</code></pre>
-
-=== "Chimchar"
-
-	<pre><code><b>Piloswine</b> @ Focus Sash
+	4. Sand Tomb<br><br><b>Piloswine</b> @ Focus Sash
 	<b>Ability:</b> Thick Fat
 	<b>Level:</b> 29
 	<b>Nature:</b> ?
@@ -1474,7 +1435,11 @@
 	1. Slam
 	2. Magnitude
 	3. Knock Off
-	4. Protect<br><br><b>Monferno</b> @ Sitrus Berry
+	4. Protect</code></pre>
+
+=== "Chimchar"
+
+	<pre><code><b>Monferno</b> @ Sitrus Berry
 	<b>Ability:</b> Iron Fist
 	<b>Level:</b> 30
 	<b>Nature:</b> ?
@@ -1482,11 +1447,7 @@
 	1. Flamethrower
 	2. Fake Out
 	3. Mach Punch
-	4. Grass Knot</code></pre>
-
-=== "Piplup"
-
-	<pre><code><b>Piloswine</b> @ Focus Sash
+	4. Grass Knot<br><br><b>Piloswine</b> @ Focus Sash
 	<b>Ability:</b> Thick Fat
 	<b>Level:</b> 29
 	<b>Nature:</b> ?
@@ -1510,7 +1471,11 @@
 	1. Slam
 	2. Magnitude
 	3. Knock Off
-	4. Protect<br><br><b>Prinplup</b> @ Sitrus Berry
+	4. Protect</code></pre>
+
+=== "Piplup"
+
+	<pre><code><b>Prinplup</b> @ Sitrus Berry
 	<b>Ability:</b> Torrent
 	<b>Level:</b> 30
 	<b>Nature:</b> ?
@@ -1518,7 +1483,31 @@
 	1. Bubble Beam
 	2. Icy Wind
 	3. Brick Break
-	4. Shadow Claw</code></pre>
+	4. Shadow Claw<br><br><b>Piloswine</b> @ Focus Sash
+	<b>Ability:</b> Thick Fat
+	<b>Level:</b> 29
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Avalanche
+	2. Take Down
+	3. Rock Slide
+	4. Ice Shard<br><br><b>Granbull</b> @ Muscle Band
+	<b>Ability:</b> Intimidate
+	<b>Level:</b> 29
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Play Rough
+	2. Fire Fang
+	3. Thunder Fang
+	4. Ice Fang<br><br><b>Lickilicky</b> @ Leftovers
+	<b>Ability:</b> Own Tempo
+	<b>Level:</b> 29
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Slam
+	2. Magnitude
+	3. Knock Off
+	4. Protect</code></pre>
 
 
 ---
@@ -1595,14 +1584,13 @@
 1. Psybeam
 2. Grass Knot
 3. Dazzling Gleam
-4. Recover<br><br></code></pre>
+4. Recover</code></pre>
 
 
 ---
 
 ## Route 208
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Hiker Robert
@@ -1685,7 +1673,7 @@
 1. Cross Poison
 2. X-Scissor
 3. Night Slash
-4. Swords Dance<br><br></code></pre>
+4. Swords Dance</code></pre>
 
 
 ---
@@ -1769,37 +1757,13 @@
 1. Shadow Ball
 2. Power Gem
 3. Calm Mind
-4. Dazzling Gleam<br><br></code></pre>
+4. Dazzling Gleam</code></pre>
 
 **PKMN Trainer Barry**
 
 === "Turtwig"
 
-	<pre><code><b>Staravia</b> @ Muscle Band
-	<b>Ability:</b> Reckless
-	<b>Level:</b> 32
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Facade
-	2. Aerial Ace
-	3. Double Team
-	4. Endeavor<br><br><b>Heracross</b> @ Coba Berry
-	<b>Ability:</b> Guts
-	<b>Level:</b> 32
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Bug Bite
-	2. Brick Break
-	3. Aerial Ace
-	4. Knock Off<br><br><b>Snorlax</b> @ Leftovers
-	<b>Ability:</b> Thick Fat
-	<b>Level:</b> 32
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Body Slam
-	2. Yawn
-	3. Amnesia
-	4. Rock Slide<br><br><b>Grotle</b> @ Sitrus Berry
+	<pre><code><b>Grotle</b> @ Sitrus Berry
 	<b>Ability:</b> Overgrow
 	<b>Level:</b> 33
 	<b>Nature:</b> ?
@@ -1807,11 +1771,7 @@
 	1. Seed Bomb
 	2. Crunch
 	3. Leech Seed
-	4. Protect</code></pre>
-
-=== "Chimchar"
-
-	<pre><code><b>Staravia</b> @ Muscle Band
+	4. Protect<br><br><b>Staravia</b> @ Muscle Band
 	<b>Ability:</b> Reckless
 	<b>Level:</b> 32
 	<b>Nature:</b> ?
@@ -1835,7 +1795,11 @@
 	1. Body Slam
 	2. Yawn
 	3. Amnesia
-	4. Rock Slide<br><br><b>Monferno</b> @ Sitrus Berry
+	4. Rock Slide</code></pre>
+
+=== "Chimchar"
+
+	<pre><code><b>Monferno</b> @ Sitrus Berry
 	<b>Ability:</b> Iron Fist
 	<b>Level:</b> 33
 	<b>Nature:</b> ?
@@ -1843,11 +1807,7 @@
 	1. Flamethrower
 	2. Low Kick
 	3. Grass Knot
-	4. Fake Out</code></pre>
-
-=== "Piplup"
-
-	<pre><code><b>Staravia</b> @ Muscle Band
+	4. Fake Out<br><br><b>Staravia</b> @ Muscle Band
 	<b>Ability:</b> Reckless
 	<b>Level:</b> 32
 	<b>Nature:</b> ?
@@ -1871,7 +1831,11 @@
 	1. Body Slam
 	2. Yawn
 	3. Amnesia
-	4. Rock Slide<br><br><b>Prinplup</b> @ Sitrus Berry
+	4. Rock Slide</code></pre>
+
+=== "Piplup"
+
+	<pre><code><b>Prinplup</b> @ Sitrus Berry
 	<b>Ability:</b> Torrent
 	<b>Level:</b> 33
 	<b>Nature:</b> ?
@@ -1879,14 +1843,37 @@
 	1. Scald
 	2. Icy Wind
 	3. Grass Knot
-	4. Aerial Ace</code></pre>
+	4. Aerial Ace<br><br><b>Staravia</b> @ Muscle Band
+	<b>Ability:</b> Reckless
+	<b>Level:</b> 32
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Facade
+	2. Aerial Ace
+	3. Double Team
+	4. Endeavor<br><br><b>Heracross</b> @ Coba Berry
+	<b>Ability:</b> Guts
+	<b>Level:</b> 32
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Bug Bite
+	2. Brick Break
+	3. Aerial Ace
+	4. Knock Off<br><br><b>Snorlax</b> @ Leftovers
+	<b>Ability:</b> Thick Fat
+	<b>Level:</b> 32
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Body Slam
+	2. Yawn
+	3. Amnesia
+	4. Rock Slide</code></pre>
 
 
 ---
 
 ## Route 212 (North)
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Galactic Grunt
@@ -1995,7 +1982,7 @@
 1. Drain Punch
 2. Poison Jab
 3. Fake Out
-4. Vacuum Wave<br><br></code></pre>
+4. Vacuum Wave</code></pre>
 
 **Gentleman Backlot**
 
@@ -2023,14 +2010,13 @@
 1. Psychic
 2. Power Gem
 3. Dazzling Gleam
-4. Protect<br><br></code></pre>
+4. Protect</code></pre>
 
 
 ---
 
 ## Route 209
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. PKMN Breeder Albert (!)
@@ -2043,7 +2029,7 @@
 1. Twins Emma & Lil
 	1. Vaporeon Lv. 30
 	2. Flareon Lv. 30
-1. Poké Kid Danielle (!)
+1. Poke Kid Danielle (!)
 	1. Pichu Lv. 28
 	2. Pikachu Lv. 29
 	3. Raichu Lv. 30
@@ -2088,15 +2074,15 @@
 	4. Magmar Lv. 68
 	5. Electabuzz Lv. 68
 	6. Mr. Mime Lv. 68
-1. Poké Kid Danielle (5)
+1. Poke Kid Danielle (5)
 	1. Pikachu Lv. 37
 	2. Pikachu Lv. 37
 	3. Raichu Lv. 38
-1. Poké Kid Danielle (8)
+1. Poke Kid Danielle (8)
 	1. Pikachu Lv. 57
 	2. Raichu Lv. 58
 	3. Raichu Lv. 58
-1. Poké Kid Danielle (C)
+1. Poke Kid Danielle (C)
 	1. Raichu Lv. 69
 	2. Raichu Lv. 69
 	3. Raichu Lv. 69
@@ -2133,13 +2119,13 @@
 	1. Shellos Lv. 31
 	2. Barboach Lv. 31
 	3. Mothim Lv. 31
-1. Pokéfan Leonard
+1. Pokefan Leonard
 	1. Plusle Lv. 31
 	2. Minun Lv. 31
 	3. Pachirisu Lv. 31
 1. Roughneck Kirby
 	1. Cleffa Lv. 33
-1. Pokéfan Rebekah
+1. Pokefan Rebekah
 	1. Clefairy Lv. 30
 	2. Wailmer Lv. 30
 	3. Bonsly Lv. 30
@@ -2168,7 +2154,6 @@
 
 ## Route 210 (South)
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Twins Teri & Tia
@@ -2214,7 +2199,6 @@
 
 ## Route 215
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Black Belt Derek
@@ -2344,7 +2328,7 @@
 1. Aura Sphere
 2. Flash Cannon
 3. Dark Pulse
-4. Agility<br><br></code></pre>
+4. Agility</code></pre>
 
 
 ---
@@ -2372,7 +2356,6 @@
 
 ## Route 214
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. PI Carlos (!)
@@ -2456,7 +2439,7 @@
 	1. Meganium Lv. 37
 1. School Kid Esteban
 	1. Quagsire Lv. 37
-1. Pokéfan Meredith
+1. Pokefan Meredith
 	1. Pachirisu Lv. 37
 1. Veteran Emanuel
 	1. Blaziken Lv. 37
@@ -2472,7 +2455,7 @@
 	1. Lumineon Lv. 37
 1. Scientist Emilio
 	1. Alakazam Lv. 37
-1. Pokémon Breeder Kaylee
+1. PKMN Breeder Kaylee
 	1. Azumarill Lv. 37
 
 
@@ -2480,7 +2463,6 @@
 
 ## Route 213
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Beauty Cyndy (!)
@@ -2537,7 +2519,6 @@
 
 ## Route 212 (South)
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Parasol Lady Sabrina
@@ -2546,7 +2527,7 @@
 	1. Magneton Lv. 37
 	2. Electrode Lv. 37
 	3. Porygon2 Lv. 37
-1. Pokémon Ranger Taylor (!)
+1. PKMN Ranger Taylor (!)
 	1. Carnivine Lv. 39
 	2. Kecleon Lv. 39
 	3. Electabuzz Lv. 39
@@ -2575,11 +2556,11 @@
 1. Scientist Stefano
 	1. Weezing Lv. 38
 	2. Muk Lv. 38
-1. Pokémon Ranger Allison (!)
+1. PKMN Ranger Allison (!)
 	1. Milotic Lv. 39
 	2. Leafeon Lv. 39
 	3. Jynx Lv. 39
-1. Pokémon Ranger Jeffrey
+1. PKMN Ranger Jeffrey
 	1. Magmar Lv. 39
 	2. Manectric Lv. 39
 	3. Nidoking Lv. 39
@@ -2598,27 +2579,27 @@
 	1. Magnezone Lv. 70
 	2. Electrode Lv. 70
 	3. Porygon-Z Lv. 70
-1. Pokémon Ranger Taylor (5)
+1. PKMN Ranger Taylor (5)
 	1. Carnivine Lv. 40
 	2. Kecleon Lv. 40
 	3. Electabuzz Lv. 40
-1. Pokémon Ranger Taylor (8)
+1. PKMN Ranger Taylor (8)
 	1. Carnivine Lv. 60
 	2. Kecleon Lv. 60
 	3. Electivire Lv. 60
-1. Pokémon Ranger Taylor (C)
+1. PKMN Ranger Taylor (C)
 	1. Carnivine Lv. 71
 	2. Kecleon Lv. 71
 	3. Electivire Lv. 71
-1. Pokémon Ranger Allison (5)
+1. PKMN Ranger Allison (5)
 	1. Milotic Lv. 40
 	2. Leafeon Lv. 40
 	3. Jynx Lv. 40
-1. Pokémon Ranger Allison (8)
+1. PKMN Ranger Allison (8)
 	1. Milotic Lv. 60
 	2. Leafeon Lv. 60
 	3. Jynx Lv. 60
-1. Pokémon Ranger Allison (C)
+1. PKMN Ranger Allison (C)
 	1. Milotic Lv. 71
 	2. Leafeon Lv. 71
 	3. Jynx Lv. 71
@@ -2643,31 +2624,7 @@
 
 === "Turtwig"
 
-	<pre><code><b>Staraptor</b> @ Muscle Band
-	<b>Ability:</b> Reckless
-	<b>Level:</b> 41
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Double-Edge
-	2. Close Combat
-	3. Aerial Ace
-	4. Roost<br><br><b>Heracross</b> @ Coba Berry
-	<b>Ability:</b> Guts
-	<b>Level:</b> 41
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Megahorn
-	2. Brick Break
-	3. Bullet Seed
-	4. Night Slash<br><br><b>Snorlax</b> @ Leftovers
-	<b>Ability:</b> Thick Fat
-	<b>Level:</b> 41
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Body Slam
-	2. Crunch
-	3. Rest
-	4. Sleep Talk<br><br><b>Azumarill</b> @ Life Orb
+	<pre><code><b>Azumarill</b> @ Life Orb
 	<b>Ability:</b> Huge Power
 	<b>Level:</b> 41
 	<b>Nature:</b> ?
@@ -2683,11 +2640,7 @@
 	1. Seed Bomb
 	2. Earthquake
 	3. Crunch
-	4. Iron Head</code></pre>
-
-=== "Chimchar"
-
-	<pre><code><b>Staraptor</b> @ Muscle Band
+	4. Iron Head<br><br><b>Staraptor</b> @ Muscle Band
 	<b>Ability:</b> Reckless
 	<b>Level:</b> 41
 	<b>Nature:</b> ?
@@ -2711,7 +2664,11 @@
 	1. Body Slam
 	2. Crunch
 	3. Rest
-	4. Sleep Talk<br><br><b>Arcanine</b> @ Expert Belt
+	4. Sleep Talk</code></pre>
+
+=== "Chimchar"
+
+	<pre><code><b>Arcanine</b> @ Expert Belt
 	<b>Ability:</b> Intimidate
 	<b>Level:</b> 41
 	<b>Nature:</b> ?
@@ -2727,11 +2684,7 @@
 	1. Flamethrower
 	2. Close Combat
 	3. Fake Out
-	4. Thunder Punch</code></pre>
-
-=== "Piplup"
-
-	<pre><code><b>Staraptor</b> @ Muscle Band
+	4. Thunder Punch<br><br><b>Staraptor</b> @ Muscle Band
 	<b>Ability:</b> Reckless
 	<b>Level:</b> 41
 	<b>Nature:</b> ?
@@ -2755,7 +2708,11 @@
 	1. Body Slam
 	2. Crunch
 	3. Rest
-	4. Sleep Talk<br><br><b>Breloom</b> @ Focus Sash
+	4. Sleep Talk</code></pre>
+
+=== "Piplup"
+
+	<pre><code><b>Breloom</b> @ Focus Sash
 	<b>Ability:</b> Technician
 	<b>Level:</b> 41
 	<b>Nature:</b> ?
@@ -2771,7 +2728,31 @@
 	1. Scald
 	2. Flash Cannon
 	3. Agility
-	4. Swagger</code></pre>
+	4. Swagger<br><br><b>Staraptor</b> @ Muscle Band
+	<b>Ability:</b> Reckless
+	<b>Level:</b> 41
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Double-Edge
+	2. Close Combat
+	3. Aerial Ace
+	4. Roost<br><br><b>Heracross</b> @ Coba Berry
+	<b>Ability:</b> Guts
+	<b>Level:</b> 41
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Megahorn
+	2. Brick Break
+	3. Bullet Seed
+	4. Night Slash<br><br><b>Snorlax</b> @ Leftovers
+	<b>Ability:</b> Thick Fat
+	<b>Level:</b> 41
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Body Slam
+	2. Crunch
+	3. Rest
+	4. Sleep Talk</code></pre>
 
 
 ---
@@ -2857,14 +2838,13 @@
 1. Aqua Tail
 2. Crunch
 3. Ice Punch
-4. Aqua Jet<br><br></code></pre>
+4. Aqua Jet</code></pre>
 
 
 ---
 
 ## Route 210 (North)
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Ninja Boy Fabian
@@ -2952,39 +2932,7 @@
 
 === "Turtwig"
 
-	<pre><code><b>Alakazam</b> @ Life Orb
-	<b>Ability:</b> Magic Guard
-	<b>Level:</b> 44
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Psychic
-	2. Shadow Ball
-	3. Energy Ball
-	4. Dazzling Gleam<br><br><b>Mamoswine</b> @ Passho Berry
-	<b>Ability:</b> Thick Fat
-	<b>Level:</b> 44
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Earthquake
-	2. Avalanche
-	3. Stone Edge
-	4. Ice Shard<br><br><b>Clefable</b> @ Leftovers
-	<b>Ability:</b> Cute Charm
-	<b>Level:</b> 44
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Moonblast
-	2. Moonlight
-	3. Psychic
-	4. Thunder Wave<br><br><b>Lopunny</b> @ Choice Band
-	<b>Ability:</b> Scrappy (!)
-	<b>Level:</b> 44
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Strength
-	2. Jump Kick
-	3. Fire Punch
-	4. Ice Punch<br><br><b>Vaporeon</b> @ Wise Glasses
+	<pre><code><b>Vaporeon</b> @ Wise Glasses
 	<b>Ability:</b> Water Absorb
 	<b>Level:</b> 44
 	<b>Nature:</b> ?
@@ -3000,11 +2948,7 @@
 	1. Wood Hammer
 	2. Earthquake
 	3. Iron Head
-	4. Rock Slide</code></pre>
-
-=== "Chimchar"
-
-	<pre><code><b>Alakazam</b> @ Life Orb
+	4. Rock Slide<br><br><b>Alakazam</b> @ Life Orb
 	<b>Ability:</b> Magic Guard
 	<b>Level:</b> 44
 	<b>Nature:</b> ?
@@ -3036,7 +2980,11 @@
 	1. Strength
 	2. Jump Kick
 	3. Fire Punch
-	4. Ice Punch<br><br><b>Jolteon</b> @ Wise Glasses
+	4. Ice Punch</code></pre>
+
+=== "Chimchar"
+
+	<pre><code><b>Jolteon</b> @ Wise Glasses
 	<b>Ability:</b> Volt Absorb
 	<b>Level:</b> 44
 	<b>Nature:</b> ?
@@ -3052,11 +3000,7 @@
 	1. Fire Blast
 	2. Close Combat
 	3. Thunder Punch
-	4. Rock Slide</code></pre>
-
-=== "Piplup"
-
-	<pre><code><b>Alakazam</b> @ Life Orb
+	4. Rock Slide<br><br><b>Alakazam</b> @ Life Orb
 	<b>Ability:</b> Magic Guard
 	<b>Level:</b> 44
 	<b>Nature:</b> ?
@@ -3088,7 +3032,11 @@
 	1. Strength
 	2. Jump Kick
 	3. Fire Punch
-	4. Ice Punch<br><br><b>Flareon</b> @ Muscle Band
+	4. Ice Punch</code></pre>
+
+=== "Piplup"
+
+	<pre><code><b>Flareon</b> @ Muscle Band
 	<b>Ability:</b> Flash Fire
 	<b>Level:</b> 44
 	<b>Nature:</b> ?
@@ -3104,45 +3052,45 @@
 	1. Surf
 	2. Flash Cannon
 	3. Grass Knot
-	4. Featherdance</code></pre>
+	4. Featherdance<br><br><b>Alakazam</b> @ Life Orb
+	<b>Ability:</b> Magic Guard
+	<b>Level:</b> 44
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Psychic
+	2. Shadow Ball
+	3. Energy Ball
+	4. Dazzling Gleam<br><br><b>Mamoswine</b> @ Passho Berry
+	<b>Ability:</b> Thick Fat
+	<b>Level:</b> 44
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Earthquake
+	2. Avalanche
+	3. Stone Edge
+	4. Ice Shard<br><br><b>Clefable</b> @ Leftovers
+	<b>Ability:</b> Cute Charm
+	<b>Level:</b> 44
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Moonblast
+	2. Moonlight
+	3. Psychic
+	4. Thunder Wave<br><br><b>Lopunny</b> @ Choice Band
+	<b>Ability:</b> Scrappy (!)
+	<b>Level:</b> 44
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Strength
+	2. Jump Kick
+	3. Fire Punch
+	4. Ice Punch</code></pre>
 
 **PKMN Trainer Lucas**
 
 === "Turtwig"
 
-	<pre><code><b>Alakazam</b> @ Life Orb
-	<b>Ability:</b> Magic Guard
-	<b>Level:</b> 44
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Psychic
-	2. Shadow Ball
-	3. Energy Ball
-	4. Dazzling Gleam<br><br><b>Mamoswine</b> @ Passho Berry
-	<b>Ability:</b> Thick Fat
-	<b>Level:</b> 44
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Earthquake
-	2. Avalanche
-	3. Stone Edge
-	4. Ice Shard<br><br><b>Granbull</b> @ Choice Band
-	<b>Ability:</b> Intimidate
-	<b>Level:</b> 44
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Play Rough
-	2. Close Combat
-	3. Crunch
-	4. Earthquake<br><br><b>Lickilicky</b> @ Leftovers
-	<b>Ability:</b> Own Tempo
-	<b>Level:</b> 44
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Body Slam
-	2. Zen Headbutt
-	3. Earthquake
-	4. Amnesia<br><br><b>Vaporeon</b> @ Wise Glasses
+	<pre><code><b>Vaporeon</b> @ Wise Glasses
 	<b>Ability:</b> Water Absorb
 	<b>Level:</b> 44
 	<b>Nature:</b> ?
@@ -3158,11 +3106,7 @@
 	1. Wood Hammer
 	2. Earthquake
 	3. Iron Head
-	4. Rock Slide</code></pre>
-
-=== "Chimchar"
-
-	<pre><code><b>Alakazam</b> @ Life Orb
+	4. Rock Slide<br><br><b>Alakazam</b> @ Life Orb
 	<b>Ability:</b> Magic Guard
 	<b>Level:</b> 44
 	<b>Nature:</b> ?
@@ -3194,7 +3138,11 @@
 	1. Body Slam
 	2. Zen Headbutt
 	3. Earthquake
-	4. Amnesia<br><br><b>Jolteon</b> @ Wise Glasses
+	4. Amnesia</code></pre>
+
+=== "Chimchar"
+
+	<pre><code><b>Jolteon</b> @ Wise Glasses
 	<b>Ability:</b> Volt Absorb
 	<b>Level:</b> 44
 	<b>Nature:</b> ?
@@ -3210,11 +3158,7 @@
 	1. Fire Blast
 	2. Close Combat
 	3. Thunder Punch
-	4. Rock Slide</code></pre>
-
-=== "Piplup"
-
-	<pre><code><b>Alakazam</b> @ Life Orb
+	4. Rock Slide<br><br><b>Alakazam</b> @ Life Orb
 	<b>Ability:</b> Magic Guard
 	<b>Level:</b> 44
 	<b>Nature:</b> ?
@@ -3246,7 +3190,11 @@
 	1. Body Slam
 	2. Zen Headbutt
 	3. Earthquake
-	4. Amnesia<br><br><b>Flareon</b> @ Muscle Band
+	4. Amnesia</code></pre>
+
+=== "Piplup"
+
+	<pre><code><b>Flareon</b> @ Muscle Band
 	<b>Ability:</b> Flash Fire
 	<b>Level:</b> 44
 	<b>Nature:</b> ?
@@ -3262,7 +3210,39 @@
 	1. Surf
 	2. Flash Cannon
 	3. Grass Knot
-	4. Featherdance</code></pre>
+	4. Featherdance<br><br><b>Alakazam</b> @ Life Orb
+	<b>Ability:</b> Magic Guard
+	<b>Level:</b> 44
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Psychic
+	2. Shadow Ball
+	3. Energy Ball
+	4. Dazzling Gleam<br><br><b>Mamoswine</b> @ Passho Berry
+	<b>Ability:</b> Thick Fat
+	<b>Level:</b> 44
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Earthquake
+	2. Avalanche
+	3. Stone Edge
+	4. Ice Shard<br><br><b>Granbull</b> @ Choice Band
+	<b>Ability:</b> Intimidate
+	<b>Level:</b> 44
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Play Rough
+	2. Close Combat
+	3. Crunch
+	4. Earthquake<br><br><b>Lickilicky</b> @ Leftovers
+	<b>Ability:</b> Own Tempo
+	<b>Level:</b> 44
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Body Slam
+	2. Zen Headbutt
+	3. Earthquake
+	4. Amnesia</code></pre>
 
 
 ---
@@ -3312,14 +3292,13 @@
 1. Feint Attack
 2. Icicle Crash
 3. Ice Shard
-4. Swords Dance<br><br></code></pre>
+4. Swords Dance</code></pre>
 
 
 ---
 
 ## Route 218
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Fisherman Miguel (!)
@@ -3416,7 +3395,6 @@
 
 ## Route 221
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Swimmer Dillon
@@ -3514,7 +3492,7 @@
 1. Sacred Fire
 2. Stone Edge
 3. Extreme Speed
-4. Iron Head<br><br></code></pre>
+4. Iron Head</code></pre>
 
 
 ---
@@ -3527,31 +3505,7 @@
 
 === "Turtwig"
 
-	<pre><code><b>Staraptor</b> @ Choice Band
-	<b>Ability:</b> Reckless
-	<b>Level:</b> 48
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Double-Edge
-	2. Brave Bird
-	3. Close Combat
-	4. U-turn<br><br><b>Heracross</b> @ Muscle Band
-	<b>Ability:</b> Guts
-	<b>Level:</b> 48
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Megahorn
-	2. Close Combat
-	3. Rock Slide
-	4. Night Slash<br><br><b>Snorlax</b> @ Leftovers
-	<b>Ability:</b> Thick Fat
-	<b>Level:</b> 48
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Curse
-	2. Body Slam
-	3. Crunch
-	4. Slack Off<br><br><b>Azumarill</b> @ Life Orb
+	<pre><code><b>Azumarill</b> @ Life Orb
 	<b>Ability:</b> Huge Power
 	<b>Level:</b> 48
 	<b>Nature:</b> ?
@@ -3567,11 +3521,7 @@
 	1. Wood Hammer
 	2. Earthquake
 	3. Crunch
-	4. Iron Head</code></pre>
-
-=== "Chimchar"
-
-	<pre><code><b>Staraptor</b> @ Choice Band
+	4. Iron Head<br><br><b>Staraptor</b> @ Choice Band
 	<b>Ability:</b> Reckless
 	<b>Level:</b> 48
 	<b>Nature:</b> ?
@@ -3595,7 +3545,11 @@
 	1. Curse
 	2. Body Slam
 	3. Crunch
-	4. Slack Off<br><br><b>Arcanine</b> @ Expert Belt
+	4. Slack Off</code></pre>
+
+=== "Chimchar"
+
+	<pre><code><b>Arcanine</b> @ Expert Belt
 	<b>Ability:</b> Intimidate
 	<b>Level:</b> 48
 	<b>Nature:</b> ?
@@ -3611,11 +3565,7 @@
 	1. Fire Blast
 	2. Close Combat
 	3. Fake Out
-	4. Thunder Punch</code></pre>
-
-=== "Piplup"
-
-	<pre><code><b>Staraptor</b> @ Choice Band
+	4. Thunder Punch<br><br><b>Staraptor</b> @ Choice Band
 	<b>Ability:</b> Reckless
 	<b>Level:</b> 48
 	<b>Nature:</b> ?
@@ -3639,7 +3589,11 @@
 	1. Curse
 	2. Body Slam
 	3. Crunch
-	4. Slack Off<br><br><b>Breloom</b> @ Focus Sash
+	4. Slack Off</code></pre>
+
+=== "Piplup"
+
+	<pre><code><b>Breloom</b> @ Focus Sash
 	<b>Ability:</b> Technician
 	<b>Level:</b> 48
 	<b>Nature:</b> ?
@@ -3655,7 +3609,31 @@
 	1. Surf
 	2. Flash Cannon
 	3. Grass Knot
-	4. Agility</code></pre>
+	4. Agility<br><br><b>Staraptor</b> @ Choice Band
+	<b>Ability:</b> Reckless
+	<b>Level:</b> 48
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Double-Edge
+	2. Brave Bird
+	3. Close Combat
+	4. U-turn<br><br><b>Heracross</b> @ Muscle Band
+	<b>Ability:</b> Guts
+	<b>Level:</b> 48
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Megahorn
+	2. Close Combat
+	3. Rock Slide
+	4. Night Slash<br><br><b>Snorlax</b> @ Leftovers
+	<b>Ability:</b> Thick Fat
+	<b>Level:</b> 48
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Curse
+	2. Body Slam
+	3. Crunch
+	4. Slack Off</code></pre>
 
 
 ---
@@ -3764,7 +3742,7 @@
 1. High Jump Kick
 2. Meteor Mash
 3. Blaze Kick
-4. Bullet Punch<br><br></code></pre>
+4. Bullet Punch</code></pre>
 
 
 ---
@@ -3798,13 +3776,6 @@
 	1. Skarmory Lv. 50
 	2. Mawile Lv. 50
 	3. Wormadam Lv. 50
-1. Leader Bryon
-	1. Bronzong Lv. 52
-	2. Magnezone Lv. 52
-	3. Steelix Lv. 52
-	4. Forretress Lv. 52
-	5. Aggron Lv. 52
-	6. Bastiodon Lv. 53
 
 <h3>Important Trainers</h3>
 
@@ -3858,7 +3829,7 @@
 1. Iron Head
 2. Toxic
 3. Protect
-4. Metal Burst<br><br></code></pre>
+4. Metal Burst</code></pre>
 
 
 ---
@@ -3918,7 +3889,7 @@
 1. Gunk Shot
 2. Cross Chop
 3. Fake Out
-4. Sucker Punch<br><br></code></pre>
+4. Sucker Punch</code></pre>
 
 
 ---
@@ -3986,14 +3957,13 @@
 1. Body Slam
 2. Play Rough
 3. Hypnosis
-4. Fake Out<br><br></code></pre>
+4. Fake Out</code></pre>
 
 
 ---
 
 ## Route 217
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Ace Trainer Dalton (!)
@@ -4154,7 +4124,7 @@
 1. Blizzard
 2. Shadow Ball
 3. Thunderbolt
-4. Attract<br><br></code></pre>
+4. Attract</code></pre>
 
 
 ---
@@ -4249,7 +4219,7 @@
 1. Crunch
 2. Icicle Crash
 3. Aerial Ace
-4. X-Scissor<br><br></code></pre>
+4. X-Scissor</code></pre>
 
 **Commander Saturn**
 
@@ -4300,7 +4270,7 @@
 1. Cross Chop
 2. Gunk Shot
 3. Ice Punch
-4. Fake Out<br><br></code></pre>
+4. Fake Out</code></pre>
 
 
 ---
@@ -4394,27 +4364,6 @@
 	1. Persian Lv. 56
 	2. Beautifly Lv. 56
 	3. Hypno Lv. 56
-1. PKMN Trainer Barry
-	1. Staraptor Lv. 58
-	2. Heracross Lv. 58
-	3. Snorlax Lv. 58
-	4. Azumarill Lv. 58
-	5. Arcanine Lv. 58
-	6. Torterra Lv. 59
-1. PKMN Trainer Barry
-	1. Staraptor Lv. 58
-	2. Heracross Lv. 58
-	3. Snorlax Lv. 58
-	4. Azumarill Lv. 58
-	5. Breloom Lv. 58
-	6. Infernape Lv. 59
-1. PKMN Trainer Barry
-	1. Staraptor Lv. 58
-	2. Heracross Lv. 58
-	3. Snorlax Lv. 58
-	4. Breloom Lv. 58
-	5. Arcanine Lv. 58
-	6. Empoleon Lv. 59
 
 <h3>Important Trainers</h3>
 
@@ -4468,7 +4417,7 @@
 1. Body Slam
 2. Play Rough
 3. Fake Out
-4. Hypnosis<br><br></code></pre>
+4. Hypnosis</code></pre>
 
 **Commander Jupiter**
 
@@ -4520,7 +4469,7 @@
 1. Gunk Shot
 2. Crunch
 3. Play Rough
-4. Toxic<br><br></code></pre>
+4. Toxic</code></pre>
 
 
 ---
@@ -4579,14 +4528,13 @@
 1. Feint Attack
 2. Icicle Crash
 3. Aerial Ace
-4. Swords Dance<br><br></code></pre>
+4. Swords Dance</code></pre>
 
 
 ---
 
 ## Route 222
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Rich Boy Trey (!)
@@ -4626,7 +4574,7 @@
 	3. Kingdra Lv. 57
 1. Tuber Holly
 	1. Azumarill Lv. 58
-1. Poké Kid Janet
+1. Poke Kid Janet
 	1. Pikachu Lv. 57
 	2. Pikachu Lv. 57
 
@@ -4710,7 +4658,7 @@
 1. Thunderbolt
 2. Heat Wave
 3. Drill Peck
-4. Light Screen<br><br></code></pre>
+4. Light Screen</code></pre>
 
 
 ---
@@ -4730,7 +4678,7 @@
 1. Guitarist Jerry
 	1. Electabuzz Lv. 60
 	2. Luxray Lv. 60
-1. Poké Kid Meghan
+1. Poke Kid Meghan
 	1. Pichu Lv. 56
 	2. Pichu Lv. 56
 	3. Pikachu Lv. 59
@@ -4803,14 +4751,13 @@
 1. Wild Charge
 2. Close Combat
 3. Ice Punch
-4. Earthquake<br><br></code></pre>
+4. Earthquake</code></pre>
 
 
 ---
 
 ## Route 223
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Swimmer Wesley (!)
@@ -5083,14 +5030,13 @@
 1. Flare Blitz
 2. Close Combat
 3. Crunch
-4. Extreme Speed<br><br></code></pre>
+4. Extreme Speed</code></pre>
 
 
 ---
 
 ## Route 224
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Ace Trainer Ruben
@@ -5153,39 +5099,7 @@
 
 === "Turtwig"
 
-	<pre><code><b>Alakazam</b> @ Life Orb
-	<b>Ability:</b> Magic Guard
-	<b>Level:</b> 69
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Psychic
-	2. Shadow Ball
-	3. Aura Sphere
-	4. Dazzling Gleam<br><br><b>Mamoswine</b> @ Choice Band
-	<b>Ability:</b> Thick Fat
-	<b>Level:</b> 69
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Earthquake
-	2. Icicle Crash
-	3. Stone Edge
-	4. Superpower<br><br><b>Clefable</b> @ Leftovers
-	<b>Ability:</b> Cute Charm
-	<b>Level:</b> 69
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Moonblast
-	2. Soft-Boiled
-	3. Calm Mind
-	4. Flamethrower<br><br><b>Lopunny</b> @ Focus Sash
-	<b>Ability:</b> Scrappy
-	<b>Level:</b> 69
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Mega Kick
-	2. High Jump Kick
-	3. Fake Out
-	4. Agility<br><br><b>Vaporeon</b> @ Wacan Berry
+	<pre><code><b>Vaporeon</b> @ Wacan Berry
 	<b>Ability:</b> Water Absorb
 	<b>Level:</b> 69
 	<b>Nature:</b> ?
@@ -5201,11 +5115,7 @@
 	1. Frenzy Plant
 	2. Earthquake
 	3. Stone Edge
-	4. Iron Head</code></pre>
-
-=== "Chimchar"
-
-	<pre><code><b>Alakazam</b> @ Life Orb
+	4. Iron Head<br><br><b>Alakazam</b> @ Life Orb
 	<b>Ability:</b> Magic Guard
 	<b>Level:</b> 69
 	<b>Nature:</b> ?
@@ -5237,7 +5147,11 @@
 	1. Mega Kick
 	2. High Jump Kick
 	3. Fake Out
-	4. Agility<br><br><b>Jolteon</b> @ Shuca Berry
+	4. Agility</code></pre>
+
+=== "Chimchar"
+
+	<pre><code><b>Jolteon</b> @ Shuca Berry
 	<b>Ability:</b> Volt Absorb
 	<b>Level:</b> 69
 	<b>Nature:</b> ?
@@ -5253,11 +5167,7 @@
 	1. Blast Burn
 	2. Close Combat
 	3. Stone Edge
-	4. Thunder Punch</code></pre>
-
-=== "Piplup"
-
-	<pre><code><b>Alakazam</b> @ Life Orb
+	4. Thunder Punch<br><br><b>Alakazam</b> @ Life Orb
 	<b>Ability:</b> Magic Guard
 	<b>Level:</b> 69
 	<b>Nature:</b> ?
@@ -5289,7 +5199,11 @@
 	1. Mega Kick
 	2. High Jump Kick
 	3. Fake Out
-	4. Agility<br><br><b>Flareon</b> @ Passho Berry
+	4. Agility</code></pre>
+
+=== "Piplup"
+
+	<pre><code><b>Flareon</b> @ Passho Berry
 	<b>Ability:</b> Flash Fire
 	<b>Level:</b> 69
 	<b>Nature:</b> ?
@@ -5305,45 +5219,45 @@
 	1. Hydro Cannon
 	2. Flash Cannon
 	3. Grass Knot
-	4. Ice Beam</code></pre>
+	4. Ice Beam<br><br><b>Alakazam</b> @ Life Orb
+	<b>Ability:</b> Magic Guard
+	<b>Level:</b> 69
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Psychic
+	2. Shadow Ball
+	3. Aura Sphere
+	4. Dazzling Gleam<br><br><b>Mamoswine</b> @ Choice Band
+	<b>Ability:</b> Thick Fat
+	<b>Level:</b> 69
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Earthquake
+	2. Icicle Crash
+	3. Stone Edge
+	4. Superpower<br><br><b>Clefable</b> @ Leftovers
+	<b>Ability:</b> Cute Charm
+	<b>Level:</b> 69
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Moonblast
+	2. Soft-Boiled
+	3. Calm Mind
+	4. Flamethrower<br><br><b>Lopunny</b> @ Focus Sash
+	<b>Ability:</b> Scrappy
+	<b>Level:</b> 69
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Mega Kick
+	2. High Jump Kick
+	3. Fake Out
+	4. Agility</code></pre>
 
 **PKMN Trainer Lucas**
 
 === "Turtwig"
 
-	<pre><code><b>Alakazam</b> @ Life Orb
-	<b>Ability:</b> Magic Guard
-	<b>Level:</b> 69
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Psychic
-	2. Shadow Ball
-	3. Aura Sphere
-	4. Dazzling Gleam<br><br><b>Mamoswine</b> @ Choice Band
-	<b>Ability:</b> Thick Fat
-	<b>Level:</b> 69
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Earthquake
-	2. Icicle Crash
-	3. Stone Edge
-	4. Superpower<br><br><b>Granbull</b> @ Muscle Band
-	<b>Ability:</b> Intimidate
-	<b>Level:</b> 69
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Play Rough
-	2. Close Combat
-	3. Crunch
-	4. Earthquake<br><br><b>Lickilicky</b> @ Leftovers
-	<b>Ability:</b> Own Tempo
-	<b>Level:</b> 69
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Double-Edge
-	2. Earthquake
-	3. Hammer Arm
-	4. Swords Dance<br><br><b>Vaporeon</b> @ Wacan Berry
+	<pre><code><b>Vaporeon</b> @ Wacan Berry
 	<b>Ability:</b> Water Absorb
 	<b>Level:</b> 69
 	<b>Nature:</b> ?
@@ -5359,11 +5273,7 @@
 	1. Frenzy Plant
 	2. Earthquake
 	3. Stone Edge
-	4. Iron Head</code></pre>
-
-=== "Chimchar"
-
-	<pre><code><b>Alakazam</b> @ Life Orb
+	4. Iron Head<br><br><b>Alakazam</b> @ Life Orb
 	<b>Ability:</b> Magic Guard
 	<b>Level:</b> 69
 	<b>Nature:</b> ?
@@ -5395,7 +5305,11 @@
 	1. Double-Edge
 	2. Earthquake
 	3. Hammer Arm
-	4. Swords Dance<br><br><b>Jolteon</b> @ Shuca Berry
+	4. Swords Dance</code></pre>
+
+=== "Chimchar"
+
+	<pre><code><b>Jolteon</b> @ Shuca Berry
 	<b>Ability:</b> Volt Absorb
 	<b>Level:</b> 69
 	<b>Nature:</b> ?
@@ -5411,11 +5325,7 @@
 	1. Blast Burn
 	2. Close Combat
 	3. Stone Edge
-	4. Thunder Punch</code></pre>
-
-=== "Piplup"
-
-	<pre><code><b>Alakazam</b> @ Life Orb
+	4. Thunder Punch<br><br><b>Alakazam</b> @ Life Orb
 	<b>Ability:</b> Magic Guard
 	<b>Level:</b> 69
 	<b>Nature:</b> ?
@@ -5447,7 +5357,11 @@
 	1. Double-Edge
 	2. Earthquake
 	3. Hammer Arm
-	4. Swords Dance<br><br><b>Flareon</b> @ Passho Berry
+	4. Swords Dance</code></pre>
+
+=== "Piplup"
+
+	<pre><code><b>Flareon</b> @ Passho Berry
 	<b>Ability:</b> Flash Fire
 	<b>Level:</b> 69
 	<b>Nature:</b> ?
@@ -5463,190 +5377,48 @@
 	1. Hydro Cannon
 	2. Flash Cannon
 	3. Grass Knot
-	4. Ice Beam</code></pre>
+	4. Ice Beam<br><br><b>Alakazam</b> @ Life Orb
+	<b>Ability:</b> Magic Guard
+	<b>Level:</b> 69
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Psychic
+	2. Shadow Ball
+	3. Aura Sphere
+	4. Dazzling Gleam<br><br><b>Mamoswine</b> @ Choice Band
+	<b>Ability:</b> Thick Fat
+	<b>Level:</b> 69
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Earthquake
+	2. Icicle Crash
+	3. Stone Edge
+	4. Superpower<br><br><b>Granbull</b> @ Muscle Band
+	<b>Ability:</b> Intimidate
+	<b>Level:</b> 69
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Play Rough
+	2. Close Combat
+	3. Crunch
+	4. Earthquake<br><br><b>Lickilicky</b> @ Leftovers
+	<b>Ability:</b> Own Tempo
+	<b>Level:</b> 69
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Double-Edge
+	2. Earthquake
+	3. Hammer Arm
+	4. Swords Dance</code></pre>
 
 
 ---
 
 ## Pokémon League
 
-<h3>Generic Trainers</h3>
+!!! note
 
-1. Elite Four Aaron
-	1. Yanmega Lv. 71
-	2. Scizor Lv. 71
-	3. Heracross Lv. 71
-	4. Vespiquen Lv. 71
-	5. Armaldo Lv. 71
-	6. Drapion Lv. 72
-1. Elite Four Aaron
-	1. Venomoth Lv. 71
-	2. Scyther Lv. 71
-	3. Pinsir Lv. 71
-	4. Forretress Lv. 71
-	5. Armaldo Lv. 71
-	6. Drapion Lv. 72
-1. Elite Four Aaron
-	1. Masquerain Lv. 71
-	2. Beautifly Lv. 71
-	3. Heracross Lv. 71
-	4. Scizor Lv. 71
-	5. Dustox Lv. 71
-	6. Drapion Lv. 72
-1. Elite Four Aaron
-	1. Scyther Lv. 71
-	2. Yanmega Lv. 71
-	3. Pinsir Lv. 71
-	4. Scizor Lv. 71
-	5. Flygon Lv. 71
-	6. Drapion Lv. 72
-1. Elite Four Bertha
-	1. Hippowdon Lv. 72
-	2. Whiscash Lv. 72
-	3. Gliscor Lv. 72
-	4. Golem Lv. 72
-	5. Donphan Lv. 72
-	6. Rhyperior Lv. 73
-1. Elite Four Bertha
-	1. Hippowdon Lv. 72
-	2. Sudowoodo Lv. 72
-	3. Gliscor Lv. 72
-	4. Torterra Lv. 72
-	5. Camerupt Lv. 72
-	6. Rhyperior Lv. 73
-1. Elite Four Bertha
-	1. Tyranitar Lv. 72
-	2. Swampert Lv. 72
-	3. Dugtrio Lv. 72
-	4. Mamoswine Lv. 72
-	5. Claydol Lv. 72
-	6. Rhyperior Lv. 73
-1. Elite Four Bertha
-	1. Tyranitar Lv. 72
-	2. Quagsire Lv. 72
-	3. Mamoswine Lv. 72
-	4. Dugtrio Lv. 72
-	5. Torterra Lv. 72
-	6. Rhyperior Lv. 73
-1. Elite Four Flint
-	1. Ninetales Lv. 73
-	2. Houndoom Lv. 73
-	3. Flareon Lv. 73
-	4. Rapidash Lv. 73
-	5. Infernape Lv. 73
-	6. Magmortar Lv. 74
-1. Elite Four Flint
-	1. Rapidash Lv. 73
-	2. Lopunny Lv. 73
-	3. Drifblim Lv. 73
-	4. Steelix Lv. 73
-	5. Infernape Lv. 73
-	6. Magmortar Lv. 74
-1. Elite Four Flint
-	1. Ninetales Lv. 73
-	2. Arcanine Lv. 73
-	3. Magcargo Lv. 73
-	4. Lopunny Lv. 73
-	5. Charizard Lv. 73
-	6. Magmortar Lv. 74
-1. Elite Four Flint
-	1. Torkoal Lv. 73
-	2. Houndoom Lv. 73
-	3. Arcanine Lv. 73
-	4. Drifblim Lv. 73
-	5. Typhlosion Lv. 73
-	6. Magmortar Lv. 74
-1. Elite Four Lucian
-	1. Mr. Mime Lv. 74
-	2. Espeon Lv. 74
-	3. Bronzong Lv. 74
-	4. Alakazam Lv. 74
-	5. Metagross Lv. 74
-	6. Gallade Lv. 75
-1. Elite Four Lucian
-	1. Espeon Lv. 74
-	2. Girafarig Lv. 74
-	3. Medicham Lv. 74
-	4. Starmie Lv. 74
-	5. Exeggutor Lv. 74
-	6. Gallade Lv. 75
-1. Elite Four Lucian
-	1. Hypno Lv. 74
-	2. Slowbro Lv. 74
-	3. Gardevoir Lv. 74
-	4. Jynx Lv. 74
-	5. Bronzong Lv. 74
-	6. Gallade Lv. 75
-1. Elite Four Lucian
-	1. Alakazam Lv. 74
-	2. Gardevoir Lv. 74
-	3. Exeggutor Lv. 74
-	4. Starmie Lv. 74
-	5. Metagross Lv. 74
-	6. Gallade Lv. 75
-1. Champion Cynthia
-	1. Spiritomb Lv. 77
-	2. Roserade Lv. 77
-	3. Togekiss Lv. 77
-	4. Lucario Lv. 77
-	5. Milotic Lv. 77
-	6. Garchomp Lv. 78
-1. Champion Cynthia
-	1. Milotic Lv. 77
-	2. Spiritomb Lv. 77
-	3. Ampharos Lv. 77
-	4. Staraptor Lv. 77
-	5. Lucario Lv. 77
-	6. Garchomp Lv. 78
-1. Champion Cynthia
-	1. Togekiss Lv. 77
-	2. Milotic Lv. 77
-	3. Spiritomb Lv. 77
-	4. Lucario Lv. 77
-	5. Glaceon Lv. 77
-	6. Garchomp Lv. 78
-1. Champion Cynthia
-	1. Clefable Lv. 77
-	2. Roserade Lv. 77
-	3. Mismagius Lv. 77
-	4. Lopunny Lv. 77
-	5. Milotic Lv. 77
-	6. Garchomp Lv. 78
-1. Elite Four Aaron
-	1. Yanmega Lv. 83
-	2. Scizor Lv. 83
-	3. Heracross Lv. 83
-	4. Scyther Lv. 83
-	5. Armaldo Lv. 83
-	6. Drapion Lv. 84
-1. Elite Four Bertha
-	1. Hippowdown Lv. 84
-	2. Swampert Lv. 84
-	3. Gliscor Lv. 84
-	4. Tyranitar Lv. 84
-	5. Dugtrio Lv. 84
-	6. Rhyperior Lv. 85
-1. Elite Four Flint
-	1. Ninetales Lv. 85
-	2. Houndoom Lv. 85
-	3. Magmortar Lv. 85
-	4. Infernape Lv. 85
-	5. Rapidash Lv. 85
-	6. Moltres Lv. 86
-1. Elite Four Lucian
-	1. Mr. Mime Lv. 86
-	2. Espeon Lv. 86
-	3. Gallade Lv. 86
-	4. Metagross Lv. 86
-	5. Alakazam Lv. 86
-	6. Latios Lv. 87
-1. Champion Cynthia
-	1. Spiritomb Lv. 88
-	2. Togekiss Lv. 88
-	3. Lucario Lv. 88
-	4. Garchomp Lv. 88
-	5. Milotic Lv. 88
-	6. Rayquaza Lv. 89
+	In the first round, each Elite Four member will use a random team out of the four listed when challenged.
 
 <h3>Important Trainers</h3>
 
@@ -5654,31 +5426,7 @@
 
 === "Turtwig"
 
-	<pre><code><b>Staraptor</b> @ Choice Scarf
-	<b>Ability:</b> Intimidate
-	<b>Level:</b> 70
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Double-Edge
-	2. Brave Bird
-	3. Close Combat
-	4. U-turn<br><br><b>Heracross</b> @ Toxic Orb
-	<b>Ability:</b> Guts
-	<b>Level:</b> 70
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Megahorn
-	2. Close Combat
-	3. Stone Edge
-	4. Protect<br><br><b>Snorlax</b> @ Leftovers
-	<b>Ability:</b> Thick Fat
-	<b>Level:</b> 70
-	<b>Nature:</b> ?
-	<b>Moves:</b>
-	1. Body Slam
-	2. Earthquake
-	3. Curse
-	4. Slack Off<br><br><b>Azumarill</b> @ Life Orb
+	<pre><code><b>Azumarill</b> @ Life Orb
 	<b>Ability:</b> Huge Power
 	<b>Level:</b> 70
 	<b>Nature:</b> ?
@@ -5694,11 +5442,7 @@
 	1. Wood Hammer
 	2. Earthquake
 	3. Stone Edge
-	4. Crunch</code></pre>
-
-=== "Chimchar"
-
-	<pre><code><b>Staraptor</b> @ Choice Scarf
+	4. Crunch<br><br><b>Staraptor</b> @ Choice Scarf
 	<b>Ability:</b> Intimidate
 	<b>Level:</b> 70
 	<b>Nature:</b> ?
@@ -5722,7 +5466,11 @@
 	1. Body Slam
 	2. Earthquake
 	3. Curse
-	4. Slack Off<br><br><b>Arcanine</b> @ Life Orb
+	4. Slack Off</code></pre>
+
+=== "Chimchar"
+
+	<pre><code><b>Arcanine</b> @ Life Orb
 	<b>Ability:</b> Intimidate
 	<b>Level:</b> 70
 	<b>Nature:</b> ?
@@ -5738,11 +5486,7 @@
 	1. Flare Blitz
 	2. Close Combat
 	3. Stone Edge
-	4. Grass Knot</code></pre>
-
-=== "Piplup"
-
-	<pre><code><b>Staraptor</b> @ Choice Scarf
+	4. Grass Knot<br><br><b>Staraptor</b> @ Choice Scarf
 	<b>Ability:</b> Intimidate
 	<b>Level:</b> 70
 	<b>Nature:</b> ?
@@ -5766,7 +5510,11 @@
 	1. Body Slam
 	2. Earthquake
 	3. Curse
-	4. Slack Off<br><br><b>Breloom</b> @ Life Orb
+	4. Slack Off</code></pre>
+
+=== "Piplup"
+
+	<pre><code><b>Breloom</b> @ Life Orb
 	<b>Ability:</b> Technician
 	<b>Level:</b> 70
 	<b>Nature:</b> ?
@@ -5782,267 +5530,1081 @@
 	1. Hydro Pump
 	2. Flash Cannon
 	3. Grass Knot
-	4. Blizzard</code></pre>
+	4. Blizzard<br><br><b>Staraptor</b> @ Choice Scarf
+	<b>Ability:</b> Intimidate
+	<b>Level:</b> 70
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Double-Edge
+	2. Brave Bird
+	3. Close Combat
+	4. U-turn<br><br><b>Heracross</b> @ Toxic Orb
+	<b>Ability:</b> Guts
+	<b>Level:</b> 70
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Megahorn
+	2. Close Combat
+	3. Stone Edge
+	4. Protect<br><br><b>Snorlax</b> @ Leftovers
+	<b>Ability:</b> Thick Fat
+	<b>Level:</b> 70
+	<b>Nature:</b> ?
+	<b>Moves:</b>
+	1. Body Slam
+	2. Earthquake
+	3. Curse
+	4. Slack Off</code></pre>
 
 **(R1) Elite Four Aaron**
 
-<pre><code><b>Scyther</b> @ Life Orb
-<b>Ability:</b> Technician
-<b>Level:</b> 71
-<b>Nature:</b> Naive
-<b>Moves:</b>
-1. Bug Bite
-2. Aerial Ace
-3. Quick Attack
-4. U-turn<br><br><b>Yanmega</b> @ Wise Glasses
-<b>Ability:</b> Speed Boost
-<b>Level:</b> 71
-<b>Nature:</b> Timid
-<b>Moves:</b>
-1. Bug Buzz
-2. Hurricane
-3. Psychic
-4. Detect<br><br><b>Pinsir</b> @ Expert Belt
-<b>Ability:</b> Hyper Cutter
-<b>Level:</b> 71
-<b>Nature:</b> Adamant
-<b>Moves:</b>
-1. Megahorn
-2. Close Combat
-3. Stone Edge
-4. Earthquake<br><br><b>Scizor</b> @ Life Orb
-<b>Ability:</b> Technician
-<b>Level:</b> 71
-<b>Nature:</b> Adamant
-<b>Moves:</b>
-1. Bug Bite
-2. Iron Head
-3. Bullet Punch
-4. U-turn<br><br><b>Flygon</b> @ White Herb
-<b>Ability:</b> Compound Eyes (!)
-<b>Level:</b> 71
-<b>Nature:</b> Timid
-<b>Moves:</b>
-1. Bug Buzz
-2. Draco Meteor
-3. Fire Blast
-4. Earth Power<br><br><b>Drapion</b> @ Scope Lens
-<b>Ability:</b> Sniper
-<b>Level:</b> 72
-<b>Nature:</b> Naive
-<b>Moves:</b>
-1. Cross Poison
-2. Night Slash
-3. Aqua Tail
-4. Earthquake<br><br></code></pre>
+=== "1"
+
+	<pre><code><b>Yanmega</b> @ Wise Glasses
+	<b>Ability:</b> Speed Boost
+	<b>Level:</b> 71
+	<b>Nature:</b> Timid
+	<b>Moves:</b>
+	1. Bug Buzz
+	2. Hurricane
+	3. Giga Drain
+	4. Protect<br><br><b>Scizor</b> @ Life Orb
+	<b>Ability:</b> Technician
+	<b>Level:</b> 71
+	<b>Nature:</b> Adamant
+	<b>Moves:</b>
+	1. Bug Bite
+	2. Iron Head
+	3. Bullet Punch
+	4. U-turn<br><br><b>Heracross</b> @ Choice Scarf
+	<b>Ability:</b> Guts
+	<b>Level:</b> 71
+	<b>Nature:</b> Adamant
+	<b>Moves:</b>
+	1. Megahorn
+	2. Close Combat
+	3. Stone Edge
+	4. Night Slash<br><br><b>Vespiquen</b> @ Leftovers
+	<b>Ability:</b> Intimidate (!)
+	<b>Level:</b> 71
+	<b>Nature:</b> Brave
+	<b>Moves:</b>
+	1. Attack Order
+	2. Defend Order
+	3. Heal Order
+	4. Hurricane<br><br><b>Armaldo</b> @ Choice Band
+	<b>Ability:</b> Battle Armor
+	<b>Level:</b> 71
+	<b>Nature:</b> Naughty
+	<b>Moves:</b>
+	1. X-Scissor
+	2. Stone Edge
+	3. Earthquake
+	4. Aqua Tail<br><br><b>Drapion</b> @ Scope Lens
+	<b>Ability:</b> Sniper
+	<b>Level:</b> 72
+	<b>Nature:</b> Jolly
+	<b>Moves:</b>
+	1. Cross Poison
+	2. Night Slash
+	3. X-Scissor
+	4. Earthquake</code></pre>
+
+=== "2"
+
+	<pre><code><b>Venomoth</b> @ Wide Lens
+	<b>Ability:</b> Tinted Lens
+	<b>Level:</b> 71
+	<b>Nature:</b> Timid
+	<b>Moves:</b>
+	1. Bug Buzz
+	2. Sludge Bomb
+	3. Double Team
+	4. Psychic<br><br><b>Scyther</b> @ Life Orb
+	<b>Ability:</b> Technician
+	<b>Level:</b> 71
+	<b>Nature:</b> Naive
+	<b>Moves:</b>
+	1. Bug Bite
+	2. Aerial Ace
+	3. Quick Attack
+	4. U-turn<br><br><b>Pinsir</b> @ Expert Belt
+	<b>Ability:</b> Hyper Cutter
+	<b>Level:</b> 71
+	<b>Nature:</b> Adamant
+	<b>Moves:</b>
+	1. Megahorn
+	2. Close Combat
+	3. Stone Edge
+	4. Earthquake<br><br><b>Forretress</b> @ Leftovers
+	<b>Ability:</b> Sturdy
+	<b>Level:</b> 71
+	<b>Nature:</b> Adamant
+	<b>Moves:</b>
+	1. Gyro Ball
+	2. Bug Bite
+	3. Drill Run
+	4. Toxic Spikes<br><br><b>Armaldo</b> @ Choice Band
+	<b>Ability:</b> Battle Armor
+	<b>Level:</b> 71
+	<b>Nature:</b> Adamant
+	<b>Moves:</b>
+	1. X-Scissor
+	2. Stone Edge
+	3. Earthquake
+	4. Aqua Tail<br><br><b>Drapion</b> @ Scope Lens
+	<b>Ability:</b> Sniper
+	<b>Level:</b> 72
+	<b>Nature:</b> Naive
+	<b>Moves:</b>
+	1. Cross Poison
+	2. Night Slash
+	3. Aqua Tail
+	4. Earthquake</code></pre>
+
+=== "3"
+
+	<pre><code><b>Masquerain</b> @ Wise Glasses
+	<b>Ability:</b> Intimidate
+	<b>Level:</b> 71
+	<b>Nature:</b> Hasty
+	<b>Moves:</b>
+	1. Hydro Pump
+	2. Bug Buzz
+	3. Hurricane
+	4. Blizzard<br><br><b>Beautifly</b> @ Focus Sash
+	<b>Ability:</b> Swarm
+	<b>Level:</b> 71
+	<b>Nature:</b> Mild
+	<b>Moves:</b>
+	1. Bug Buzz
+	2. Hurricane
+	3. Energy Ball
+	4. Shadow Ball<br><br><b>Heracross</b> @ Toxic Orb
+	<b>Ability:</b> Guts
+	<b>Level:</b> 71
+	<b>Nature:</b> Adamant
+	<b>Moves:</b>
+	1. Megahorn
+	2. Close Combat
+	3. Stone Edge
+	4. Protect<br><br><b>Scizor</b> @ Life Orb
+	<b>Ability:</b> Technician
+	<b>Level:</b> 71
+	<b>Nature:</b> Adamant
+	<b>Moves:</b>
+	1. Bug Bite
+	2. Iron Head
+	3. Bullet Punch
+	4. U-turn<br><br><b>Dustox</b> @ Light Clay
+	<b>Ability:</b> Shield Dust
+	<b>Level:</b> 71
+	<b>Nature:</b> Bold
+	<b>Moves:</b>
+	1. Bug Buzz
+	2. Sludge Bomb
+	3. Light Screen
+	4. Moonlight<br><br><b>Drapion</b> @ Scope Lens
+	<b>Ability:</b> Sniper
+	<b>Level:</b> 72
+	<b>Nature:</b> Naive
+	<b>Moves:</b>
+	1. Cross Poison
+	2. Night Slash
+	3. X-Scissor
+	4. Earthquake</code></pre>
+
+=== "4"
+
+	<pre><code><b>Scyther</b> @ Life Orb
+	<b>Ability:</b> Technician
+	<b>Level:</b> 71
+	<b>Nature:</b> Naive
+	<b>Moves:</b>
+	1. Bug Bite
+	2. Aerial Ace
+	3. Quick Attack
+	4. U-turn<br><br><b>Yanmega</b> @ Wise Glasses
+	<b>Ability:</b> Speed Boost
+	<b>Level:</b> 71
+	<b>Nature:</b> Timid
+	<b>Moves:</b>
+	1. Bug Buzz
+	2. Hurricane
+	3. Psychic
+	4. Detect<br><br><b>Pinsir</b> @ Expert Belt
+	<b>Ability:</b> Hyper Cutter
+	<b>Level:</b> 71
+	<b>Nature:</b> Adamant
+	<b>Moves:</b>
+	1. Megahorn
+	2. Close Combat
+	3. Stone Edge
+	4. Earthquake<br><br><b>Scizor</b> @ Life Orb
+	<b>Ability:</b> Technician
+	<b>Level:</b> 71
+	<b>Nature:</b> Adamant
+	<b>Moves:</b>
+	1. Bug Bite
+	2. Iron Head
+	3. Bullet Punch
+	4. U-turn<br><br><b>Flygon</b> @ White Herb
+	<b>Ability:</b> Compound Eyes (!)
+	<b>Level:</b> 71
+	<b>Nature:</b> Timid
+	<b>Moves:</b>
+	1. Bug Buzz
+	2. Draco Meteor
+	3. Fire Blast
+	4. Earth Power<br><br><b>Drapion</b> @ Scope Lens
+	<b>Ability:</b> Sniper
+	<b>Level:</b> 72
+	<b>Nature:</b> Naive
+	<b>Moves:</b>
+	1. Cross Poison
+	2. Night Slash
+	3. Aqua Tail
+	4. Earthquake</code></pre>
 
 **(R1) Elite Four Bertha**
 
-<pre><code><b>Tyranitar</b> @ Choice Scarf
-<b>Ability:</b> Sand Stream
-<b>Level:</b> 72
-<b>Nature:</b> Jolly
-<b>Moves:</b>
-1. Stone Edge
-2. Crunch
-3. Earthquake
-4. Fire Punch<br><br><b>Quagsire</b> @ Sitrus Berry
-<b>Ability:</b> Water Absorb
-<b>Level:</b> 72
-<b>Nature:</b> Careful
-<b>Moves:</b>
-1. Earthquake
-2. Aqua Tail
-3. Yawn
-4. Recover<br><br><b>Mamoswine</b> @ Passho Berry
-<b>Ability:</b> Thick Fat
-<b>Level:</b> 72
-<b>Nature:</b> Jolly
-<b>Moves:</b>
-1. Earthquake
-2. Icicle Crash
-3. Stone Edge
-4. Ice Shard<br><br><b>Dugtrio</b> @ Choice Band
-<b>Ability:</b> Arena Trap
-<b>Level:</b> 72
-<b>Nature:</b> Naughty
-<b>Moves:</b>
-1. Earthquake
-2. Stone Edge
-3. Night Slash
-4. Aerial Ace<br><br><b>Torterra</b> @ Leftovers
-<b>Ability:</b> Overgrow
-<b>Level:</b> 72
-<b>Nature:</b> Brave
-<b>Moves:</b>
-1. Earthquake
-2. Wood Hammer
-3. Stone Edge
-4. Leech Seed<br><br><b>Rhyperior</b> @ Choice Band
-<b>Ability:</b> Solid Rock
-<b>Level:</b> 73
-<b>Nature:</b> Naughty
-<b>Moves:</b>
-1. Earthquake
-2. Stone Edge
-3. Megahorn
-4. Ice Punch<br><br></code></pre>
+=== "1"
+
+	<pre><code><b>Hippowdon</b> @ Leftovers
+	<b>Ability:</b> Sand Stream
+	<b>Level:</b> 72
+	<b>Nature:</b> Adamant
+	<b>Moves:</b>
+	1. Earthquake
+	2. Crunch
+	3. Stealth Rock
+	4. Slack Off<br><br><b>Whiscash</b> @ Life Orb
+	<b>Ability:</b> Oblivious
+	<b>Level:</b> 72
+	<b>Nature:</b> Careful
+	<b>Moves:</b>
+	1. Aqua Tail
+	2. Earthquake
+	3. Bounce
+	4. Dragon Dance<br><br><b>Gliscor</b> @ Toxic Orb
+	<b>Ability:</b> Poison Heal
+	<b>Level:</b> 72
+	<b>Nature:</b> Naive
+	<b>Moves:</b>
+	1. Earthquake
+	2. Wing Attack
+	3. Protect
+	4. Roost<br><br><b>Golem</b> @ Focus Sash
+	<b>Ability:</b> Rock Head
+	<b>Level:</b> 72
+	<b>Nature:</b> Naughty
+	<b>Moves:</b>
+	1. Earthquake
+	2. Stone Edge
+	3. Thunder Punch
+	4. Explosion<br><br><b>Donphan</b> @ Rindo Berry
+	<b>Ability:</b> Sand Veil
+	<b>Level:</b> 72
+	<b>Nature:</b> Impish
+	<b>Moves:</b>
+	1. Earthquake
+	2. Play Rough
+	3. Head Smash
+	4. Superpower<br><br><b>Rhyperior</b> @ Choice Band
+	<b>Ability:</b> Solid Rock
+	<b>Level:</b> 73
+	<b>Nature:</b> Brave
+	<b>Moves:</b>
+	1. Earthquake
+	2. Stone Edge
+	3. Megahorn
+	4. Ice Punch</code></pre>
+
+=== "2"
+
+	<pre><code><b>Hippowdon</b> @ Sitrus Berry
+	<b>Ability:</b> Sand Stream
+	<b>Level:</b> 72
+	<b>Nature:</b> Naughty
+	<b>Moves:</b>
+	1. Earthquake
+	2. Crunch
+	3. Stealth Rock
+	4. Slack Off<br><br><b>Sudowoodo</b> @ Passho Berry
+	<b>Ability:</b> Rock Head
+	<b>Level:</b> 72
+	<b>Nature:</b> Relaxed
+	<b>Moves:</b>
+	1. Head Smash
+	2. Wood Hammer
+	3. Sucker Punch
+	4. Hammer Arm<br><br><b>Gliscor</b> @ Toxic Orb
+	<b>Ability:</b> Poison Heal
+	<b>Level:</b> 72
+	<b>Nature:</b> Impish
+	<b>Moves:</b>
+	1. Earthquake
+	2. X-Scissor
+	3. Protect
+	4. Roost<br><br><b>Torterra</b> @ Leftovers
+	<b>Ability:</b> Overgrow
+	<b>Level:</b> 72
+	<b>Nature:</b> Adamant
+	<b>Moves:</b>
+	1. Earthquake
+	2. Wood Hammer
+	3. Stone Edge
+	4. Leech Seed<br><br><b>Camerupt</b> @ Focus Sash
+	<b>Ability:</b> Solid Rock
+	<b>Level:</b> 72
+	<b>Nature:</b> Quiet
+	<b>Moves:</b>
+	1. Overheat
+	2. Earth Power
+	3. Yawn
+	4. Explosion<br><br><b>Rhyperior</b> @ Choice Band
+	<b>Ability:</b> Solid Rock
+	<b>Level:</b> 73
+	<b>Nature:</b> Naughty
+	<b>Moves:</b>
+	1. Earthquake
+	2. Stone Edge
+	3. Megahorn
+	4. Thunder Punch</code></pre>
+
+=== "3"
+
+	<pre><code><b>Tyranitar</b> @ Choice Scarf
+	<b>Ability:</b> Sand Stream
+	<b>Level:</b> 72
+	<b>Nature:</b> Naughty
+	<b>Moves:</b>
+	1. Stone Edge
+	2. Crunch
+	3. Earthquake
+	4. Thunder Punch<br><br><b>Swampert</b> @ Lum Berry
+	<b>Ability:</b> Torrent
+	<b>Level:</b> 72
+	<b>Nature:</b> Adamant
+	<b>Moves:</b>
+	1. Earthquake
+	2. Aqua Tail
+	3. Rest
+	4. Sleep Talk<br><br><b>Dugtrio</b> @ Choice Band
+	<b>Ability:</b> Arena Trap
+	<b>Level:</b> 72
+	<b>Nature:</b> Naughty
+	<b>Moves:</b>
+	1. Earthquake
+	2. Stone Edge
+	3. Night Slash
+	4. Aerial Ace<br><br><b>Mamoswine</b> @ Passho Berry
+	<b>Ability:</b> Thick Fat
+	<b>Level:</b> 72
+	<b>Nature:</b> Jolly
+	<b>Moves:</b>
+	1. Earthquake
+	2. Icicle Crash
+	3. Stone Edge
+	4. Ice Shard<br><br><b>Claydol</b> @ Light Clay
+	<b>Ability:</b> Levitate
+	<b>Level:</b> 72
+	<b>Nature:</b> Sassy
+	<b>Moves:</b>
+	1. Earthquake
+	2. Psychic
+	3. Reflect
+	4. Light Screen<br><br><b>Rhyperior</b> @ Choice Band
+	<b>Ability:</b> Solid Rock
+	<b>Level:</b> 73
+	<b>Nature:</b> Naughty
+	<b>Moves:</b>
+	1. Earthquake
+	2. Stone Edge
+	3. Megahorn
+	4. Fire Punch</code></pre>
+
+=== "4"
+
+	<pre><code><b>Tyranitar</b> @ Choice Scarf
+	<b>Ability:</b> Sand Stream
+	<b>Level:</b> 72
+	<b>Nature:</b> Jolly
+	<b>Moves:</b>
+	1. Stone Edge
+	2. Crunch
+	3. Earthquake
+	4. Fire Punch<br><br><b>Quagsire</b> @ Sitrus Berry
+	<b>Ability:</b> Water Absorb
+	<b>Level:</b> 72
+	<b>Nature:</b> Careful
+	<b>Moves:</b>
+	1. Earthquake
+	2. Aqua Tail
+	3. Yawn
+	4. Recover<br><br><b>Mamoswine</b> @ Passho Berry
+	<b>Ability:</b> Thick Fat
+	<b>Level:</b> 72
+	<b>Nature:</b> Jolly
+	<b>Moves:</b>
+	1. Earthquake
+	2. Icicle Crash
+	3. Stone Edge
+	4. Ice Shard<br><br><b>Dugtrio</b> @ Choice Band
+	<b>Ability:</b> Arena Trap
+	<b>Level:</b> 72
+	<b>Nature:</b> Naughty
+	<b>Moves:</b>
+	1. Earthquake
+	2. Stone Edge
+	3. Night Slash
+	4. Aerial Ace<br><br><b>Torterra</b> @ Leftovers
+	<b>Ability:</b> Overgrow
+	<b>Level:</b> 72
+	<b>Nature:</b> Brave
+	<b>Moves:</b>
+	1. Earthquake
+	2. Wood Hammer
+	3. Stone Edge
+	4. Leech Seed<br><br><b>Rhyperior</b> @ Choice Band
+	<b>Ability:</b> Solid Rock
+	<b>Level:</b> 73
+	<b>Nature:</b> Naughty
+	<b>Moves:</b>
+	1. Earthquake
+	2. Stone Edge
+	3. Megahorn
+	4. Ice Punch</code></pre>
 
 **(R1) Elite Four Flint**
 
-<pre><code><b>Torkoal</b> @ Focus Sash
-<b>Ability:</b> Drought
-<b>Level:</b> 73
-<b>Nature:</b> Calm
-<b>Moves:</b>
-1. Fire Blast
-2. Earth Power
-3. Stealth Rock
-4. Solar Beam<br><br><b>Houndoom</b> @ Choice Specs
-<b>Ability:</b> Intimidate (!)
-<b>Level:</b> 73
-<b>Nature:</b> Hasty
-<b>Moves:</b>
-1. Fire Blast
-2. Dark Pulse
-3. Solar Beam
-4. Sludge Bomb<br><br><b>Arcanine</b> @ Expert Belt
-<b>Ability:</b> Intimidate
-<b>Level:</b> 73
-<b>Nature:</b> Hasty
-<b>Moves:</b>
-1. Flare Blitz
-2. Wild Charge
-3. Crunch
-4. Extreme Speed<br><br><b>Drifblim</b> @ Wacan Berry
-<b>Ability:</b> Unburden
-<b>Level:</b> 73
-<b>Nature:</b> Rash
-<b>Moves:</b>
-1. Shadow Ball
-2. Hurricane
-3. Flamethrower
-4. Will-O-Wisp<br><br><b>Typhlosion</b> @ Choice Scarf
-<b>Ability:</b> Flash Fire
-<b>Level:</b> 73
-<b>Nature:</b> Timid
-<b>Moves:</b>
-1. Eruption
-2. Extrasensory
-3. Earth Power
-4. Solar Beam<br><br><b>Magmortar</b> @ Life Orb
-<b>Ability:</b> Flame Body
-<b>Level:</b> 74
-<b>Nature:</b> Rash
-<b>Moves:</b>
-1. Fire Blast
-2. Thunderbolt
-3. Aura Sphere
-4. Solar Beam<br><br></code></pre>
+=== "1"
+
+	<pre><code><b>Ninetales</b> @ White Herb
+	<b>Ability:</b> Drought
+	<b>Level:</b> 73
+	<b>Nature:</b> Timid
+	<b>Moves:</b>
+	1. Overheat
+	2. Solar Beam
+	3. Moonblast
+	4. Confuse Ray<br><br><b>Houndoom</b> @ Choice Scarf
+	<b>Ability:</b> Intimidate (!)
+	<b>Level:</b> 73
+	<b>Nature:</b> Hasty
+	<b>Moves:</b>
+	1. Fire Blast
+	2. Dark Pulse
+	3. Solar Beam
+	4. Sludge Bomb<br><br><b>Flareon</b> @ Choice Band
+	<b>Ability:</b> Flash Fire
+	<b>Level:</b> 73
+	<b>Nature:</b> Lonely
+	<b>Moves:</b>
+	1. Flare Blitz
+	2. Play Rough
+	3. Wild Charge
+	4. Close Combat<br><br><b>Rapidash</b> @ Power Herb
+	<b>Ability:</b> Flame Body
+	<b>Level:</b> 73
+	<b>Nature:</b> Hasty
+	<b>Moves:</b>
+	1. Flare Blitz
+	2. Wild Charge
+	3. Megahorn
+	4. Drill Run<br><br><b>Infernape</b> @ Expert Belt
+	<b>Ability:</b> Iron Fist
+	<b>Level:</b> 73
+	<b>Nature:</b> Hasty
+	<b>Moves:</b>
+	1. Flare Blitz
+	2. Close Combat
+	3. Thunder Punch
+	4. Grass Knot<br><br><b>Magmortar</b> @ Life Orb
+	<b>Ability:</b> Flame Body
+	<b>Level:</b> 74
+	<b>Nature:</b> Timid
+	<b>Moves:</b>
+	1. Fire Blast
+	2. Thunderbolt
+	3. Aura Sphere
+	4. Solar Beam</code></pre>
+
+=== "2"
+
+	<pre><code><b>Rapidash</b> @ Heat Rock
+	<b>Ability:</b> Flame Body
+	<b>Level:</b> 73
+	<b>Nature:</b> Naive
+	<b>Moves:</b>
+	1. Flare Blitz
+	2. Wild Charge
+	3. Megahorn
+	4. Sunny Day<br><br><b>Lopunny</b> @ Focus Sash
+	<b>Ability:</b> Scrappy (!)
+	<b>Level:</b> 73
+	<b>Nature:</b> Hasty
+	<b>Moves:</b>
+	1. High Jump Kick
+	2. Mega Kick
+	3. Blaze Kick
+	4. Sunny Day<br><br><b>Drifblim</b> @ Wacan Berry
+	<b>Ability:</b> Unburden
+	<b>Level:</b> 73
+	<b>Nature:</b> Modest
+	<b>Moves:</b>
+	1. Shadow Ball
+	2. Hurricane
+	3. Flamethrower
+	4. Will-O-Wisp<br><br><b>Steelix</b> @ Muscle Band
+	<b>Ability:</b> Rock Head
+	<b>Level:</b> 73
+	<b>Nature:</b> Sassy
+	<b>Moves:</b>
+	1. Iron Tail
+	2. Earthquake
+	3. Fire Fang
+	4. Crunch<br><br><b>Infernape</b> @ Expert Belt
+	<b>Ability:</b> Iron Fist
+	<b>Level:</b> 73
+	<b>Nature:</b> Adamant
+	<b>Moves:</b>
+	1. Flare Blitz
+	2. Close Combat
+	3. Thunder Punch
+	4. Gunk Shot<br><br><b>Magmortar</b> @ Life Orb
+	<b>Ability:</b> Flame Body
+	<b>Level:</b> 74
+	<b>Nature:</b> Modest
+	<b>Moves:</b>
+	1. Fire Blast
+	2. Thunderbolt
+	3. Aura Sphere
+	4. Solar Beam</code></pre>
+
+=== "3"
+
+	<pre><code><b>Ninetales</b> @ White Herb
+	<b>Ability:</b> Drought
+	<b>Level:</b> 73
+	<b>Nature:</b> Modest
+	<b>Moves:</b>
+	1. Overheat
+	2. Solar Beam
+	3. Moonblast
+	4. Hypnosis<br><br><b>Arcanine</b> @ Expert Belt
+	<b>Ability:</b> Intimidate
+	<b>Level:</b> 73
+	<b>Nature:</b> Hasty
+	<b>Moves:</b>
+	1. Flare Blitz
+	2. Wild Charge
+	3. Crunch
+	4. Extreme Speed<br><br><b>Magcargo</b> @ Focus Sash
+	<b>Ability:</b> Solid Rock (!)
+	<b>Level:</b> 73
+	<b>Nature:</b> Quiet
+	<b>Moves:</b>
+	1. Fire Blast
+	2. Earth Power
+	3. Power Gem
+	4. Solar Beam<br><br><b>Lopunny</b> @ Muscle Band
+	<b>Ability:</b> Scrappy (!)
+	<b>Level:</b> 73
+	<b>Nature:</b> Hasty
+	<b>Moves:</b>
+	1. High Jump Kick
+	2. Mega Kick
+	3. Blaze Kick
+	4. Fake Out<br><br><b>Charizard</b> @ Choice Specs
+	<b>Ability:</b> Drought (!)
+	<b>Level:</b> 73
+	<b>Nature:</b> Modest
+	<b>Moves:</b>
+	1. Fire Blast
+	2. Dragon Pulse
+	3. Hurricane
+	4. Solar Beam<br><br><b>Magmortar</b> @ Life Orb
+	<b>Ability:</b> Flame Body
+	<b>Level:</b> 74
+	<b>Nature:</b> Modest
+	<b>Moves:</b>
+	1. Fire Blast
+	2. Thunderbolt
+	3. Aura Sphere
+	4. Solar Beam</code></pre>
+
+=== "4"
+
+	<pre><code><b>Torkoal</b> @ Focus Sash
+	<b>Ability:</b> Drought
+	<b>Level:</b> 73
+	<b>Nature:</b> Calm
+	<b>Moves:</b>
+	1. Fire Blast
+	2. Earth Power
+	3. Stealth Rock
+	4. Solar Beam<br><br><b>Houndoom</b> @ Choice Specs
+	<b>Ability:</b> Intimidate (!)
+	<b>Level:</b> 73
+	<b>Nature:</b> Hasty
+	<b>Moves:</b>
+	1. Fire Blast
+	2. Dark Pulse
+	3. Solar Beam
+	4. Sludge Bomb<br><br><b>Arcanine</b> @ Expert Belt
+	<b>Ability:</b> Intimidate
+	<b>Level:</b> 73
+	<b>Nature:</b> Hasty
+	<b>Moves:</b>
+	1. Flare Blitz
+	2. Wild Charge
+	3. Crunch
+	4. Extreme Speed<br><br><b>Drifblim</b> @ Wacan Berry
+	<b>Ability:</b> Unburden
+	<b>Level:</b> 73
+	<b>Nature:</b> Rash
+	<b>Moves:</b>
+	1. Shadow Ball
+	2. Hurricane
+	3. Flamethrower
+	4. Will-O-Wisp<br><br><b>Typhlosion</b> @ Choice Scarf
+	<b>Ability:</b> Flash Fire
+	<b>Level:</b> 73
+	<b>Nature:</b> Timid
+	<b>Moves:</b>
+	1. Eruption
+	2. Extrasensory
+	3. Earth Power
+	4. Solar Beam<br><br><b>Magmortar</b> @ Life Orb
+	<b>Ability:</b> Flame Body
+	<b>Level:</b> 74
+	<b>Nature:</b> Rash
+	<b>Moves:</b>
+	1. Fire Blast
+	2. Thunderbolt
+	3. Aura Sphere
+	4. Solar Beam</code></pre>
 
 **(R1) Elite Four Lucian**
 
-<pre><code><b>Alakazam</b> @ Focus Sash
-<b>Ability:</b> Magic Guard
-<b>Level:</b> 74
-<b>Nature:</b> Timid
-<b>Moves:</b>
-1. Psychic
-2. Aura Sphere
-3. Thunder Wave
-4. Counter<br><br><b>Gardevoir</b> @ Wise Glasses
-<b>Ability:</b> Synchronize
-<b>Level:</b> 74
-<b>Nature:</b> Timid
-<b>Moves:</b>
-1. Psychic
-2. Moonblast
-3. Thunderbolt
-4. Aura Sphere<br><br><b>Exeggutor</b> @ Occa Berry
-<b>Ability:</b> Chlorophyll
-<b>Level:</b> 74
-<b>Nature:</b> Rash
-<b>Moves:</b>
-1. Psychic
-2. Giga Drain
-3. Sleep Powder
-4. Leech Seed<br><br><b>Starmie</b> @ Life Orb
-<b>Ability:</b> Illuminate
-<b>Level:</b> 74
-<b>Nature:</b> Modest
-<b>Moves:</b>
-1. Psychic
-2. Hydro Pump
-3. Ice Beam
-4. Thunderbolt<br><br><b>Metagross</b> @ Muscle Band
-<b>Ability:</b> Iron Fist (!)
-<b>Level:</b> 74
-<b>Nature:</b> Naughty
-<b>Moves:</b>
-1. Zen Headbutt
-2. Meteor Mash
-3. Earthquake
-4. Explosion<br><br><b>Gallade</b> @ Scope Lens
-<b>Ability:</b> Steadfast
-<b>Level:</b> 75
-<b>Nature:</b> Jolly
-<b>Moves:</b>
-1. Psycho Cut
-2. Close Combat
-3. Leaf Blade
-4. Night Slash<br><br></code></pre>
+=== "1"
+
+	<pre><code><b>Mr. Mime</b> @ Light Clay
+	<b>Ability:</b> Filter
+	<b>Level:</b> 74
+	<b>Nature:</b> Naive
+	<b>Moves:</b>
+	1. Psychic
+	2. Dazzling Gleam
+	3. Reflect
+	4. Light Screen<br><br><b>Espeon</b> @ Wise Glasses
+	<b>Ability:</b> Synchronize
+	<b>Level:</b> 74
+	<b>Nature:</b> Naive
+	<b>Moves:</b>
+	1. Psychic
+	2. Dazzling Gleam
+	3. Aura Sphere
+	4. Power Gem<br><br><b>Bronzong</b> @ Leftovers
+	<b>Ability:</b> Levitate
+	<b>Level:</b> 74
+	<b>Nature:</b> Impish
+	<b>Moves:</b>
+	1. Zen Headbutt
+	2. Gyro Ball
+	3. Reflect
+	4. Light Screen<br><br><b>Alakazam</b> @ Life Orb
+	<b>Ability:</b> Magic Guard
+	<b>Level:</b> 74
+	<b>Nature:</b> Timid
+	<b>Moves:</b>
+	1. Psychic
+	2. Shadow Ball
+	3. Energy Ball
+	4. Aura Sphere<br><br><b>Metagross</b> @ Muscle Band
+	<b>Ability:</b> Iron Fist (!)
+	<b>Level:</b> 74
+	<b>Nature:</b> Naughty
+	<b>Moves:</b>
+	1. Zen Headbutt
+	2. Meteor Mash
+	3. Earthquake
+	4. Explosion<br><br><b>Gallade</b> @ Scope Lens
+	<b>Ability:</b> Steadfast
+	<b>Level:</b> 75
+	<b>Nature:</b> Lonely
+	<b>Moves:</b>
+	1. Psycho Cut
+	2. Close Combat
+	3. Leaf Blade
+	4. Night Slash</code></pre>
+
+=== "2"
+
+	<pre><code><b>Espeon</b> @ Light Clay
+	<b>Ability:</b> Synchronize
+	<b>Level:</b> 74
+	<b>Nature:</b> Hasty
+	<b>Moves:</b>
+	1. Psychic
+	2. Aura Sphere
+	3. Reflect
+	4. Light Screen<br><br><b>Girafarig</b> @ Colbur Berry
+	<b>Ability:</b> Inner Focus
+	<b>Level:</b> 74
+	<b>Nature:</b> Hasty
+	<b>Moves:</b>
+	1. Psychic
+	2. Thunderbolt
+	3. Shadow Ball
+	4. Earthquake<br><br><b>Medicham</b> @ Choice Scarf
+	<b>Ability:</b> Pure Power
+	<b>Level:</b> 74
+	<b>Nature:</b> Naive
+	<b>Moves:</b>
+	1. Zen Headbutt
+	2. High Jump Kick
+	3. Thunder Punch
+	4. Ice Punch<br><br><b>Starmie</b> @ Life Orb
+	<b>Ability:</b> Illuminate
+	<b>Level:</b> 74
+	<b>Nature:</b> Modest
+	<b>Moves:</b>
+	1. Psychic
+	2. Hydro Pump
+	3. Ice Beam
+	4. Thunderbolt<br><br><b>Exeggutor</b> @ Occa Berry
+	<b>Ability:</b> Chlorophyll
+	<b>Level:</b> 74
+	<b>Nature:</b> Quiet
+	<b>Moves:</b>
+	1. Psychic
+	2. Giga Drain
+	3. Sleep Powder
+	4. Leech Seed<br><br><b>Gallade</b> @ Scope Lens
+	<b>Ability:</b> Steadfast
+	<b>Level:</b> 75
+	<b>Nature:</b> Jolly
+	<b>Moves:</b>
+	1. Psycho Cut
+	2. Close Combat
+	3. Leaf Blade
+	4. Night Slash</code></pre>
+
+=== "3"
+
+	<pre><code><b>Hypno</b> @ Light Clay
+	<b>Ability:</b> Insomnia
+	<b>Level:</b> 74
+	<b>Nature:</b> Relaxed
+	<b>Moves:</b>
+	1. Psychic
+	2. Hypnosis
+	3. Reflect
+	4. Light Screen<br><br><b>Slowbro</b> @ Leftovers
+	<b>Ability:</b> Oblivious
+	<b>Level:</b> 74
+	<b>Nature:</b> Bold
+	<b>Moves:</b>
+	1. Psychic
+	2. Scald
+	3. Flamethrower
+	4. Slack Off<br><br><b>Gardevoir</b> @ Wise Glasses
+	<b>Ability:</b> Synchronize
+	<b>Level:</b> 74
+	<b>Nature:</b> Timid
+	<b>Moves:</b>
+	1. Psychic
+	2. Moonblast
+	3. Thunderbolt
+	4. Aura Sphere<br><br><b>Jynx</b> @ White Herb
+	<b>Ability:</b> Dry Skin
+	<b>Level:</b> 74
+	<b>Nature:</b> Naive
+	<b>Moves:</b>
+	1. Psycho Boost
+	2. Blizzard
+	3. Petal Dance
+	4. Fake Out<br><br><b>Bronzong</b> @ Occa Berry
+	<b>Ability:</b> Levitate
+	<b>Level:</b> 74
+	<b>Nature:</b> Relaxed
+	<b>Moves:</b>
+	1. Psychic
+	2. Flash Cannon
+	3. Earthquake
+	4. Hypnosis<br><br><b>Gallade</b> @ Scope Lens
+	<b>Ability:</b> Steadfast
+	<b>Level:</b> 75
+	<b>Nature:</b> Jolly
+	<b>Moves:</b>
+	1. Psycho Cut
+	2. Close Combat
+	3. Leaf Blade
+	4. Night Slash</code></pre>
+
+=== "4"
+
+	<pre><code><b>Alakazam</b> @ Focus Sash
+	<b>Ability:</b> Magic Guard
+	<b>Level:</b> 74
+	<b>Nature:</b> Timid
+	<b>Moves:</b>
+	1. Psychic
+	2. Aura Sphere
+	3. Thunder Wave
+	4. Counter<br><br><b>Gardevoir</b> @ Wise Glasses
+	<b>Ability:</b> Synchronize
+	<b>Level:</b> 74
+	<b>Nature:</b> Timid
+	<b>Moves:</b>
+	1. Psychic
+	2. Moonblast
+	3. Thunderbolt
+	4. Aura Sphere<br><br><b>Exeggutor</b> @ Occa Berry
+	<b>Ability:</b> Chlorophyll
+	<b>Level:</b> 74
+	<b>Nature:</b> Rash
+	<b>Moves:</b>
+	1. Psychic
+	2. Giga Drain
+	3. Sleep Powder
+	4. Leech Seed<br><br><b>Starmie</b> @ Life Orb
+	<b>Ability:</b> Illuminate
+	<b>Level:</b> 74
+	<b>Nature:</b> Modest
+	<b>Moves:</b>
+	1. Psychic
+	2. Hydro Pump
+	3. Ice Beam
+	4. Thunderbolt<br><br><b>Metagross</b> @ Muscle Band
+	<b>Ability:</b> Iron Fist (!)
+	<b>Level:</b> 74
+	<b>Nature:</b> Naughty
+	<b>Moves:</b>
+	1. Zen Headbutt
+	2. Meteor Mash
+	3. Earthquake
+	4. Explosion<br><br><b>Gallade</b> @ Scope Lens
+	<b>Ability:</b> Steadfast
+	<b>Level:</b> 75
+	<b>Nature:</b> Jolly
+	<b>Moves:</b>
+	1. Psycho Cut
+	2. Close Combat
+	3. Leaf Blade
+	4. Night Slash</code></pre>
 
 **(R1) Champion Cynthia**
 
-<pre><code><b>Clefable</b> @ Light Clay
-<b>Ability:</b> Cute Charm
-<b>Level:</b> 77
-<b>Nature:</b> Calm
-<b>Moves:</b>
-1. Moonblast
-2. Soft-Boiled
-3. Reflect
-4. Light Screen<br><br><b>Roserade</b> @ Choice Scarf
-<b>Ability:</b> Technician
-<b>Level:</b> 77
-<b>Nature:</b> Modest
-<b>Moves:</b>
-1. Energy Ball
-2. Sludge Bomb
-3. Shadow Ball
-4. Dazzling Gleam<br><br><b>Mismagius</b> @ Wise Glasses
-<b>Ability:</b> Levitate
-<b>Level:</b> 77
-<b>Nature:</b> Timid
-<b>Moves:</b>
-1. Shadow Ball
-2. Moonblast
-3. Thunderbolt
-4. Thunder Wave<br><br><b>Lopunny</b> @ Life Orb
-<b>Ability:</b> Scrappy (!)
-<b>Level:</b> 77
-<b>Nature:</b> Hasty
-<b>Moves:</b>
-1. High Jump Kick
-2. Mega Kick
-3. Ice Punch
-4. Fake Out<br><br><b>Milotic</b> @ Leftovers
-<b>Ability:</b> Marvel Scale
-<b>Level:</b> 77
-<b>Nature:</b> Calm
-<b>Moves:</b>
-1. Hydro Pump
-2. Ice Beam
-3. Rest
-4. Sleep Talk<br><br><b>Garchomp</b> @ Yache Berry
-<b>Ability:</b> Rough Skin
-<b>Level:</b> 78
-<b>Nature:</b> Hasty
-<b>Moves:</b>
-1. Earthquake
-2. Outrage
-3. Stone Edge
-4. Swords Dance<br><br></code></pre>
+=== "1"
+
+	<pre><code><b>Spiritomb</b> @ Lum Berry
+	<b>Ability:</b> Pressure
+	<b>Level:</b> 77
+	<b>Nature:</b> Sassy
+	<b>Moves:</b>
+	1. Dark Pulse
+	2. Will-O-Wisp
+	3. Confuse Ray
+	4. Rest<br><br><b>Roserade</b> @ White Herb
+	<b>Ability:</b> Technician
+	<b>Level:</b> 77
+	<b>Nature:</b> Timid
+	<b>Moves:</b>
+	1. Leaf Storm
+	2. Sludge Bomb
+	3. Dazzling Gleam
+	4. Sleep Powder<br><br><b>Togekiss</b> @ Sitrus Berry
+	<b>Ability:</b> Serene Grace
+	<b>Level:</b> 77
+	<b>Nature:</b> Bold
+	<b>Moves:</b>
+	1. Air Slash
+	2. Thunder Wave
+	3. Roost
+	4. Moonblast<br><br><b>Lucario</b> @ Life Orb
+	<b>Ability:</b> Adaptability (!)
+	<b>Level:</b> 77
+	<b>Nature:</b> Jolly
+	<b>Moves:</b>
+	1. High Jump Kick
+	2. Meteor Mash
+	3. Extreme Speed
+	4. Ice Punch<br><br><b>Milotic</b> @ Leftovers
+	<b>Ability:</b> Marvel Scale
+	<b>Level:</b> 77
+	<b>Nature:</b> Calm
+	<b>Moves:</b>
+	1. Surf
+	2. Ice Beam
+	3. Recover
+	4. Hypnosis<br><br><b>Garchomp</b> @ Yache Berry
+	<b>Ability:</b> Rough Skin
+	<b>Level:</b> 78
+	<b>Nature:</b> Jolly
+	<b>Moves:</b>
+	1. Earthquake
+	2. Outrage
+	3. Stone Edge
+	4. Swords Dance</code></pre>
+
+=== "2"
+
+	<pre><code><b>Milotic</b> @ Leftovers
+	<b>Ability:</b> Marvel Scale
+	<b>Level:</b> 77
+	<b>Nature:</b> Bold
+	<b>Moves:</b>
+	1. Scald
+	2. Ice Beam
+	3. Light Screen
+	4. Recover<br><br><b>Spiritomb</b> @ Wise Glasses
+	<b>Ability:</b> Pressure
+	<b>Level:</b> 77
+	<b>Nature:</b> Relaxed
+	<b>Moves:</b>
+	1. Dark Pulse
+	2. Shadow Ball
+	3. Psychic
+	4. Hypnosis<br><br><b>Ampharos</b> @ Shuca Berry
+	<b>Ability:</b> Static
+	<b>Level:</b> 77
+	<b>Nature:</b> Quiet
+	<b>Moves:</b>
+	1. Thunderbolt
+	2. Dragon Pulse
+	3. Focus Blast
+	4. Flash Cannon<br><br><b>Staraptor</b> @ Choice Scarf
+	<b>Ability:</b> Reckless
+	<b>Level:</b> 77
+	<b>Nature:</b> Naughty
+	<b>Moves:</b>
+	1. Brave Bird
+	2. Double-Edge
+	3. Close Combat
+	4. U-turn<br><br><b>Lucario</b> @ Life Orb
+	<b>Ability:</b> Adaptability (!)
+	<b>Level:</b> 77
+	<b>Nature:</b> Timid
+	<b>Moves:</b>
+	1. Aura Sphere
+	2. Flash Cannon
+	3. Dark Pulse
+	4. Vacuum Wave<br><br><b>Garchomp</b> @ Yache Berry
+	<b>Ability:</b> Rough Skin
+	<b>Level:</b> 78
+	<b>Nature:</b> Hasty
+	<b>Moves:</b>
+	1. Earthquake
+	2. Outrage
+	3. Stone Edge
+	4. Swords Dance</code></pre>
+
+=== "3"
+
+	<pre><code><b>Togekiss</b> @ Light Clay
+	<b>Ability:</b> Serene Grace
+	<b>Level:</b> 77
+	<b>Nature:</b> Quiet
+	<b>Moves:</b>
+	1. Moonblast
+	2. Light Screen
+	3. Reflect
+	4. Tailwind<br><br><b>Milotic</b> @ Leftovers
+	<b>Ability:</b> Marvel Scale
+	<b>Level:</b> 77
+	<b>Nature:</b> Calm
+	<b>Moves:</b>
+	1. Scald
+	2. Ice Beam
+	3. Recover
+	4. Protect<br><br><b>Spiritomb</b> @ Sitrus Berry
+	<b>Ability:</b> Pressure
+	<b>Level:</b> 77
+	<b>Nature:</b> Relaxed
+	<b>Moves:</b>
+	1. Dark Pulse
+	2. Calm Mind
+	3. Rest
+	4. Sleep Talk<br><br><b>Lucario</b> @ Life Orb
+	<b>Ability:</b> Adaptability (!)
+	<b>Level:</b> 77
+	<b>Nature:</b> Hasty
+	<b>Moves:</b>
+	1. High Jump Kick
+	2. Meteor Mash
+	3. Bullet Punch
+	4. Stone Edge<br><br><b>Glaceon</b> @ Choice Specs
+	<b>Ability:</b> Snow Cloak
+	<b>Level:</b> 77
+	<b>Nature:</b> Modest
+	<b>Moves:</b>
+	1. Blizzard
+	2. Earth Power
+	3. Extrasensory
+	4. Shadow Ball<br><br><b>Garchomp</b> @ Yache Berry
+	<b>Ability:</b> Rough Skin
+	<b>Level:</b> 78
+	<b>Nature:</b> Hasty
+	<b>Moves:</b>
+	1. Earthquake
+	2. Outrage
+	3. Stone Edge
+	4. Swords Dance</code></pre>
+
+=== "4"
+
+	<pre><code><b>Clefable</b> @ Light Clay
+	<b>Ability:</b> Cute Charm
+	<b>Level:</b> 77
+	<b>Nature:</b> Calm
+	<b>Moves:</b>
+	1. Moonblast
+	2. Soft-Boiled
+	3. Reflect
+	4. Light Screen<br><br><b>Roserade</b> @ Choice Scarf
+	<b>Ability:</b> Technician
+	<b>Level:</b> 77
+	<b>Nature:</b> Modest
+	<b>Moves:</b>
+	1. Energy Ball
+	2. Sludge Bomb
+	3. Shadow Ball
+	4. Dazzling Gleam<br><br><b>Mismagius</b> @ Wise Glasses
+	<b>Ability:</b> Levitate
+	<b>Level:</b> 77
+	<b>Nature:</b> Timid
+	<b>Moves:</b>
+	1. Shadow Ball
+	2. Moonblast
+	3. Thunderbolt
+	4. Thunder Wave<br><br><b>Lopunny</b> @ Life Orb
+	<b>Ability:</b> Scrappy (!)
+	<b>Level:</b> 77
+	<b>Nature:</b> Hasty
+	<b>Moves:</b>
+	1. High Jump Kick
+	2. Mega Kick
+	3. Ice Punch
+	4. Fake Out<br><br><b>Milotic</b> @ Leftovers
+	<b>Ability:</b> Marvel Scale
+	<b>Level:</b> 77
+	<b>Nature:</b> Calm
+	<b>Moves:</b>
+	1. Hydro Pump
+	2. Ice Beam
+	3. Rest
+	4. Sleep Talk<br><br><b>Garchomp</b> @ Yache Berry
+	<b>Ability:</b> Rough Skin
+	<b>Level:</b> 78
+	<b>Nature:</b> Hasty
+	<b>Moves:</b>
+	1. Earthquake
+	2. Outrage
+	3. Stone Edge
+	4. Swords Dance</code></pre>
 
 **(R2) Elite Four Aaron**
 
@@ -6094,7 +6656,7 @@
 1. Cross Poison
 2. Night Slash
 3. X-Scissor
-4. Earthquake<br><br></code></pre>
+4. Earthquake</code></pre>
 
 **(R2) Elite Four Bertha**
 
@@ -6146,7 +6708,7 @@
 1. Earthquake
 2. Rock Wrecker
 3. Megahorn
-4. Hammer Arm<br><br></code></pre>
+4. Hammer Arm</code></pre>
 
 **(R2) Elite Four Flint**
 
@@ -6198,7 +6760,7 @@
 1. Fire Blast
 2. Hurricane
 3. Solar Beam
-4. U-turn<br><br></code></pre>
+4. U-turn</code></pre>
 
 **(R2) Elite Four Lucian**
 
@@ -6250,7 +6812,7 @@
 1. Psychic
 2. Draco Meteor
 3. Ice Beam
-4. Thunderbolt<br><br></code></pre>
+4. Thunderbolt</code></pre>
 
 **(R2) Champion Cynthia**
 
@@ -6302,7 +6864,7 @@
 1. Outrage
 2. Earthquake
 3. Overheat
-4. Dragon Dance<br><br></code></pre>
+4. Dragon Dance</code></pre>
 
 
 ---
@@ -6346,7 +6908,6 @@
 
 ## Route 225
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Ace Trainer Rodolfo (!)
@@ -6468,7 +7029,7 @@
 1. Hurricane
 2. Draco Meteor
 3. Thunder
-4. Ice Beam<br><br></code></pre>
+4. Ice Beam</code></pre>
 
 
 ---
@@ -6555,14 +7116,13 @@
 1. Outrage
 2. Aerial Ace
 3. Dragon Dance
-4. Earthquake<br><br></code></pre>
+4. Earthquake</code></pre>
 
 
 ---
 
 ## Route 227
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Ace Trainer Saul (!)
@@ -6643,7 +7203,7 @@
 1. Sludge Bomb
 2. Petal Dance
 3. Moonblast
-4. Sleep Powder<br><br></code></pre>
+4. Sleep Powder</code></pre>
 
 **PKMN Trainer Buck**
 
@@ -6695,14 +7255,13 @@
 1. Earth Power
 2. Psychic
 3. Ice Beam
-4. Calm Mind<br><br></code></pre>
+4. Calm Mind</code></pre>
 
 
 ---
 
 ## Route 228
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Ace Trainer Jose
@@ -6811,7 +7370,7 @@
 1. Crunch
 2. Stone Edge
 3. Iron Tail
-4. Fire Punch<br><br></code></pre>
+4. Fire Punch</code></pre>
 
 
 ---
@@ -6896,14 +7455,13 @@
 1. Body Slam
 2. Earthquake
 3. Curse
-4. Slack Off<br><br></code></pre>
+4. Slack Off</code></pre>
 
 
 ---
 
 ## Route 230
 
-<h3>Rematches</h3>
 <h3>Generic Trainers</h3>
 
 1. Swimmer Glenn (!)
@@ -6998,7 +7556,7 @@
 1. Moonblast
 2. Psychic
 3. Thunderbolt
-4. Aura Sphere<br><br></code></pre>
+4. Aura Sphere</code></pre>
 
 
 ---
@@ -7067,7 +7625,7 @@
 1. Body Slam
 2. Play Rough
 3. Fake Out
-4. Hypnosis<br><br></code></pre>
+4. Hypnosis</code></pre>
 
 **Commander Jupiter**
 
@@ -7119,7 +7677,7 @@
 1. Gunk Shot
 2. Crunch
 3. Play Rough
-4. Toxic<br><br></code></pre>
+4. Toxic</code></pre>
 
 
 ---
@@ -7480,27 +8038,27 @@
 1. Guitarist Arturo (S)
 	1. Kricketune Lv. 80
 	2. Electrode Lv. 80
-1. Poké Kid Ariel
+1. Poke Kid Ariel
 	1. Pichu Lv. 10
 	2. Pichu Lv. 10
 	3. Pichu Lv. 10
-1. Poké Kid Ariel (3)
+1. Poke Kid Ariel (3)
 	1. Pichu Lv. 30
 	2. Pikachu Lv. 30
 	3. Pikachu Lv. 30
-1. Poké Kid Ariel (5)
+1. Poke Kid Ariel (5)
 	1. Pichu Lv. 40
 	2. Pikachu Lv. 40
 	3. Raichu Lv. 40
-1. Poké Kid Ariel (8)
+1. Poke Kid Ariel (8)
 	1. Pichu Lv. 60
 	2. Pikachu Lv. 60
 	3. Raichu Lv. 60
-1. Poké Kid Ariel (C)
+1. Poke Kid Ariel (C)
 	1. Pichu Lv. 70
 	2. Pikachu Lv. 70
 	3. Raichu Lv. 70
-1. Poké Kid Ariel (S)
+1. Poke Kid Ariel (S)
 	1. Pichu Lv. 80
 	2. Pikachu Lv. 80
 	3. Raichu Lv. 80

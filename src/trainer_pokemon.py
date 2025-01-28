@@ -54,22 +54,31 @@ def parse_trainers(trainers, rematches, important):
             base = ""
             rivals = ["", "", ""]
             rival_index = 0
+            elite_four = ["", "", "", ""]
+            elite_four_index = 0
 
             for line in pokemon:
                 if line.endswith("(!)"):
                     rivals[rival_index] += parse_pokemon_set(line)
                     rival_index = (rival_index + 1) % 3
-                    continue
+                elif trainer.startswith("(R1)"):
+                    elite_four[elite_four_index // 6] += parse_pokemon_set(line)
+                    elite_four_index += 1
+                else:
+                    base += parse_pokemon_set(line)
 
-                base += parse_pokemon_set(line)
-
-            if rivals[0] == "":
-                md += f"<pre><code>{base}</code></pre>\n\n"
-            else:
+            if rivals[0] != "":
                 for i, starter in enumerate(["Turtwig", "Chimchar", "Piplup"]):
                     md += f'=== "{starter}"\n\n\t'
-                    md += "\n\t".join(f"<pre><code>{base + rivals[i][:-8]}</code></pre>".split("\n"))
+                    md += "\n\t".join(f"<pre><code>{rivals[i] + base[:-8]}</code></pre>".split("\n"))
                     md += "\n\n"
+            elif elite_four[0] != "":
+                for i, num in enumerate(["1", "2", "3", "4"]):
+                    md += f'=== "{num}"\n\n\t'
+                    md += "\n\t".join(f"<pre><code>{base + elite_four[i][:-8]}</code></pre>".split("\n"))
+                    md += "\n\n"
+            else:
+                md += f"<pre><code>{base[:-8]}</code></pre>\n\n"
 
     return md
 
@@ -117,7 +126,6 @@ def main():
         elif line.startswith("- "):
             md += f"1. {line[2:]}\n"
         elif line == "Rematches":
-            md += "<h3>Rematches</h3>\n"
             curr_roster = rematches
         elif "@" in line:
             important[trainer].append(line)
@@ -126,6 +134,8 @@ def main():
             important[trainer] = []
         elif "Lv." in line:
             curr_roster.append(line)
+        elif line.startswith("Note:"):
+            md += f"!!! note\n\n\t{line[6:]}\n\n"
     md += parse_trainers(trainers, rematches, important)
     logger.log(logging.INFO, "Data parsed successfully!")
 
