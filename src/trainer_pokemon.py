@@ -6,13 +6,8 @@ import os
 import re
 
 
-def parse_pokemon_set(line: str, rival_index: int) -> str:
-    if line.startswith("0") or line.startswith("1") or line.startswith("2"):
-        if int(line[0]) != rival_index:
-            return ""
-        line = line[1:].rstrip("(!)")
-
-    strs = [s.strip() for s in line.split("/")]
+def parse_pokemon_set(line: str) -> str:
+    strs = [s.strip() for s in line.rstrip("(!)").split("/")]
     name, level, item = re.match(r"(.+) \(Lv\. (\d+)\) @ (.+)", strs[0]).groups()
     nature = strs[1]
     ability = strs[2]
@@ -26,6 +21,57 @@ def parse_pokemon_set(line: str, rival_index: int) -> str:
     pokemon += "\n".join([f"{i}. {move}" for i, move in enumerate(moves, 1)])
 
     return pokemon + "<br><br>"
+
+
+def parse_trainers(trainers, rematches, important):
+    trainers = [t for t in trainers if re.split(r"\s{2,}", t)[0] not in important]
+    md = ""
+
+    if len(trainers) > 0:
+        md += "<h3>Generic Trainers</h3>\n\n"
+        for trainer in trainers:
+            name, pokemon = re.split(r"\s{2,}", trainer)
+            md += f"1. {name}\n\t"
+            md += "\n\t".join([f"{i}. {line}" for i, line in enumerate(pokemon.split(", "), 1)])
+            md += "\n"
+        md += "\n"
+
+    if len(rematches) > 0:
+        md += "<h3>Rematches</h3>\n\n"
+        for trainer in rematches:
+            name, pokemon = re.split(r"\s{2,}", trainer)
+            md += f"1. {name}\n\t"
+            md += "\n\t".join([f"{i}. {line}" for i, line in enumerate(pokemon.split(", "), 1)])
+            md += "\n"
+        md += "\n"
+
+    if len(important) > 0:
+        md += "<h3>Important Trainers</h3>\n\n"
+        for trainer in important:
+            pokemon = important[trainer]
+            md += f"**{trainer}**\n\n"
+
+            base = ""
+            rivals = ["", "", ""]
+            rival_index = 0
+
+            for line in pokemon:
+                if line.endswith("(!)"):
+                    rivals[rival_index] += parse_pokemon_set(line)
+                    rival_index = (rival_index + 1) % 3
+                    continue
+
+                base += parse_pokemon_set(line)
+
+            if rivals[0] == "":
+                md += f"<pre><code>{base}</code></pre>\n\n"
+            else:
+                for i, starter in enumerate(["Turtwig", "Chimchar", "Piplup"]):
+                    md += f'=== "{starter}"\n\n\t'
+                    md += "\n\t".join(f"<pre><code>{base + rivals[i][:-8]}</code></pre>".split("\n"))
+                    md += "\n\n"
+
+    return md
 
 
 def main():
@@ -44,12 +90,11 @@ def main():
     n = len(lines)
     md = "# Trainer Pokémon\n\n"
 
-    rivals = ["PKMN Trainer Barry", "PKMN Trainer Dawn", "PKMN Trainer Lucas"]
-    trainer_rosters = ["", "", ""]
-    rival_index = 0
-
-    curr_trainer = ""
-    parse_important = False
+    trainer = None
+    trainers = []
+    rematches = []
+    important = {}
+    curr_roster = trainers
 
     # Parse data
     logger.log(logging.INFO, "Parsing data...")
@@ -61,61 +106,28 @@ def main():
         if line.startswith("=") or line == "":
             pass
         elif next_line.startswith("="):
-            if parse_important:
-                for i in range(3):
-                    trainer_rosters[i] = trainer_rosters[i].rstrip("<br>") + "</code></pre>\n\n"
-                parse_important = False
-            if line == "General Changes":
-                md += "---\n\n## General Changes\n\n"
-                continue
+            if len(trainers) > 0:
+                md += parse_trainers(trainers, rematches, important)
+                trainers = []
+                rematches = []
+                important = {}
+                curr_roster = trainers
 
-            for i in range(3):
-                if trainer_rosters[i] != "":
-                    trainer_rosters[i] += "\n---\n\n"
-                trainer_rosters[i] += f"## {line}\n\n"
-                trainer_rosters[i] += "<h3>Generic Trainers:</h3>\n\n"
+            md += f"\n---\n\n## {line}\n\n"
         elif line.startswith("- "):
             md += f"1. {line[2:]}\n"
         elif line == "Rematches":
-            for i in range(3):
-                trainer_rosters[i] += "\n<h3>Rematches:</h3>\n\n"
+            md += "<h3>Rematches</h3>\n"
+            curr_roster = rematches
         elif "@" in line:
-            for i in range(3):
-                trainer_rosters[i] += parse_pokemon_set(line, i)
+            important[trainer].append(line)
         elif "@" in next_line:
-            if not parse_important:
-                for i in range(3):
-                    trainer_rosters[i] += f"\n<h3>Important Trainers:</h3>\n\n"
-                parse_important = True
-            else:
-                for i in range(3):
-                    trainer_rosters[i] = trainer_rosters[i].rstrip("<br>") + "</code></pre>\n\n"
-
-            for i in range(3):
-                trainer_rosters[i] += f"**{line}**\n\n<pre><code>"
-            curr_trainer = line
+            trainer = line
+            important[trainer] = []
         elif "Lv." in line:
-            trainer, pokemon = re.split(r"\s{2,}", line)
-            if trainer != curr_trainer:
-                curr_trainer = trainer
-
-            if trainer in rivals:
-                trainer_rosters[rival_index] += f"1. {trainer}\n\t"
-                trainer_rosters[rival_index] += "\n\t".join([f"1. {p}" for p in pokemon.split(", ")]) + "\n"
-                rival_index = (rival_index + 1) % 3
-            else:
-                for i in range(3):
-                    trainer_rosters[i] += f"1. {trainer}\n\t"
-                    trainer_rosters[i] += "\n\t".join([f"1. {p}" for p in pokemon.split(", ")]) + "\n"
+            curr_roster.append(line)
+    md += parse_trainers(trainers, rematches, important)
     logger.log(logging.INFO, "Data parsed successfully!")
-
-    md += "\n---\n\n## Trainer Rosters\n"
-    md += '\n=== "Turtwig"\n\n\t'
-    md += "\n\t".join(trainer_rosters[0].split("\n")) + "\n"
-    md += '\n=== "Chimchar"\n\n\t'
-    md += "\n\t".join(trainer_rosters[1].split("\n")) + "\n"
-    md += '\n=== "Piplup"\n\n\t'
-    md += "\n\t".join(trainer_rosters[2].split("\n")) + "\n"
 
     save(OUTPUT_PATH + "trainer_pokemon.md", md, logger)
 
