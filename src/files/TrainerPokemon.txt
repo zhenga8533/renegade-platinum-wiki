@@ -10,10 +10,6 @@ General Changes
 - Instead of a number, you may see a (C) for Champion or (S) for Stark Mountain, which means after completing these they'll gain those teams.
 - Please note that the number of badges may not always be correct. Feel free to report any incorrect information!
 
-=========================================================
-Area Changes
-=========================================================
-
 Route 201
 =================================================================================================================================================
 PKMN Trainer Barry          Chimchar Lv. 5
@@ -44,7 +40,7 @@ Schoolkid Christine         Ralts Lv. 8, Staryu Lv. 8
 
 Route 204 ~ South
 =================================================================================================================================================
-Lass Sarah                  Shinx Lv. 8, Nidoran♀ Lv. 8, Pidgey Lv. 8
+Lass Sarah                  Shinx Lv. 8, Nidoran F Lv. 8, Pidgey Lv. 8
 Lass Samantha (!)           Oddish Lv. 8, Budew Lv. 8, Bellsprout Lv. 8
 Youngster Tyler             Magikarp Lv. 11
 
@@ -286,8 +282,8 @@ Roserade (Lv. 26) @ Sitrus Berry    /   Timid       /   Technician      /   Magi
 Team Galactic Eterna Building
 =================================================================================================================================================
 Galactic Grunt              Ledian Lv. 24, Ariados Lv. 24
-Galactic Grunt              Ekans Lv. 23, Glameow Lv. 23, Nidoran♀ Lv. 23
-Galactic Grunt              Koffing Lv. 23, Stunky Lv. 23, Nidoran♂ Lv. 23
+Galactic Grunt              Ekans Lv. 23, Glameow Lv. 23, Nidoran F Lv. 23
+Galactic Grunt              Koffing Lv. 23, Stunky Lv. 23, Nidoran M Lv. 23
 Galactic Grunt              Croagunk Lv. 24, Golbat Lv. 24
 Galactic Grunt              Cleffa Lv. 23
 Galactic Grunt              Houndour Lv. 23, Skorupi Lv. 23, Beautifly Lv. 23
@@ -324,17 +320,17 @@ PKMN Trainer Dawn
 Piloswine (Lv. 29) @ Focus Sash     /   ?           /   Thick Fat       /   Avalanche, Take Down, Rock Slide, Ice Shard
 Clefable (Lv. 29) @ Leftovers       /   ?           /   Cute Charm      /   Moonblast, Moonlight, Encore, Thunder Wave
 Lopunny (Lv. 29) @ Muscle Band      /   ?           /   Scrappy (!)     /   Dizzy Punch, Fake Out, Jump Kick, Quick Attack
-Grotle (Lv. 30) @ Sitrus Berry      /   ?           /   Overgrow        /   Seed Bomb, Body Slam, Leech Seed, Sand Tomb     (!)
-Monferno (Lv. 30) @ Sitrus Berry    /   ?           /   Iron Fist       /   Flamethrower, Fake Out, Mach Punch, Grass Knot  (!)
-Prinplup (Lv. 30) @ Sitrus Berry    /   ?           /   Torrent         /   Bubble Beam, Icy Wind, Brick Break, Shadow Claw (!)
+0Grotle (Lv. 30) @ Sitrus Berry      /   ?           /   Overgrow        /   Seed Bomb, Body Slam, Leech Seed, Sand Tomb     (!)
+1Monferno (Lv. 30) @ Sitrus Berry    /   ?           /   Iron Fist       /   Flamethrower, Fake Out, Mach Punch, Grass Knot  (!)
+2Prinplup (Lv. 30) @ Sitrus Berry    /   ?           /   Torrent         /   Bubble Beam, Icy Wind, Brick Break, Shadow Claw (!)
 
 PKMN Trainer Lucas
 Piloswine (Lv. 29) @ Focus Sash     /   ?           /   Thick Fat       /   Avalanche, Take Down, Rock Slide, Ice Shard
 Granbull (Lv. 29) @ Muscle Band     /   ?           /   Intimidate      /   Play Rough, Fire Fang, Thunder Fang, Ice Fang
 Lickilicky (Lv. 29) @ Leftovers     /   ?           /   Own Tempo       /   Slam, Magnitude, Knock Off, Protect
-Grotle (Lv. 30) @ Sitrus Berry      /   ?           /   Overgrow        /   Seed Bomb, Body Slam, Leech Seed, Sand Tomb     (!)
-Monferno (Lv. 30) @ Sitrus Berry    /   ?           /   Iron Fist       /   Flamethrower, Fake Out, Mach Punch, Grass Knot  (!)
-Prinplup (Lv. 30) @ Sitrus Berry    /   ?           /   Torrent         /   Bubble Beam, Icy Wind, Brick Break, Shadow Claw (!)
+0Grotle (Lv. 30) @ Sitrus Berry      /   ?           /   Overgrow        /   Seed Bomb, Body Slam, Leech Seed, Sand Tomb     (!)
+1Monferno (Lv. 30) @ Sitrus Berry    /   ?           /   Iron Fist       /   Flamethrower, Fake Out, Mach Punch, Grass Knot  (!)
+2Prinplup (Lv. 30) @ Sitrus Berry    /   ?           /   Torrent         /   Bubble Beam, Icy Wind, Brick Break, Shadow Claw (!)
 
 Wayward Cave
 =================================================================================================================================================
@@ -404,9 +400,9 @@ PKMN Trainer Barry
 Staravia (Lv. 32) @ Muscle Band     /   ?           /   Reckless        /   Facade, Aerial Ace, Double Team, Endeavor
 Heracross (Lv. 32) @ Coba Berry     /   ?           /   Guts            /   Bug Bite, Brick Break, Aerial Ace, Knock Off
 Snorlax (Lv. 32) @ Leftovers        /   ?           /   Thick Fat       /   Body Slam, Yawn, Amnesia, Rock Slide
-Grotle (Lv. 33) @ Sitrus Berry      /   ?           /   Overgrow        /   Seed Bomb, Crunch, Leech Seed, Protect          (!)
-Monferno (Lv. 33) @ Sitrus Berry    /   ?           /   Iron Fist       /   Flamethrower, Low Kick, Grass Knot, Fake Out    (!)
-Prinplup (Lv. 33) @ Sitrus Berry    /   ?           /   Torrent         /   Scald, Icy Wind, Grass Knot, Aerial Ace         (!)
+0Grotle (Lv. 33) @ Sitrus Berry      /   ?           /   Overgrow        /   Seed Bomb, Crunch, Leech Seed, Protect          (!)
+1Monferno (Lv. 33) @ Sitrus Berry    /   ?           /   Iron Fist       /   Flamethrower, Low Kick, Grass Knot, Fake Out    (!)
+2Prinplup (Lv. 33) @ Sitrus Berry    /   ?           /   Torrent         /   Scald, Icy Wind, Grass Knot, Aerial Ace         (!)
 
 Route 212 ~ North
 =================================================================================================================================================
@@ -646,12 +642,12 @@ PKMN Trainer Barry
 Staraptor (Lv. 41) @ Muscle Band    /   ?           /   Reckless        /   Double-Edge, Close Combat, Aerial Ace, Roost
 Heracross (Lv. 41) @ Coba Berry     /   ?           /   Guts            /   Megahorn, Brick Break, Bullet Seed, Night Slash
 Snorlax (Lv. 41) @ Leftovers        /   ?           /   Thick Fat       /   Body Slam, Crunch, Rest, Sleep Talk
-Azumarill (Lv. 41) @ Life Orb       /   ?           /   Huge Power      /   Aqua Tail, Play Rough, Body Slam, Aqua Jet          (!)
-Arcanine (Lv. 41) @ Expert Belt     /   ?           /   Intimidate      /   Heat Wave, Thunder Fang, Outrage, Crunch            (!)
-Breloom (Lv. 41) @ Focus Sash       /   ?           /   Technician      /   Bullet Seed, Force Palm, Spore, Rock Tomb           (!)
-Torterra (Lv. 42) @ Sitrus Berry    /   ?           /   Overgrow        /   Seed Bomb, Earthquake, Crunch, Iron Head            (!)
-Infernape (Lv. 42) @ Sitrus Berry   /   ?           /   Iron Fist       /   Flamethrower, Close Combat, Fake Out, Thunder Punch (!)
-Empoleon (Lv. 42) @ Sitrus Berry    /   ?           /   Torrent         /   Scald, Flash Cannon, Agility, Swagger               (!)
+0Azumarill (Lv. 41) @ Life Orb       /   ?           /   Huge Power      /   Aqua Tail, Play Rough, Body Slam, Aqua Jet          (!)
+1Arcanine (Lv. 41) @ Expert Belt     /   ?           /   Intimidate      /   Heat Wave, Thunder Fang, Outrage, Crunch            (!)
+2Breloom (Lv. 41) @ Focus Sash       /   ?           /   Technician      /   Bullet Seed, Force Palm, Spore, Rock Tomb           (!)
+0Torterra (Lv. 42) @ Sitrus Berry    /   ?           /   Overgrow        /   Seed Bomb, Earthquake, Crunch, Iron Head            (!)
+1Infernape (Lv. 42) @ Sitrus Berry   /   ?           /   Iron Fist       /   Flamethrower, Close Combat, Fake Out, Thunder Punch (!)
+2Empoleon (Lv. 42) @ Sitrus Berry    /   ?           /   Torrent         /   Scald, Flash Cannon, Agility, Swagger               (!)
 
 Pastoria Gym
 =================================================================================================================================================
@@ -706,24 +702,24 @@ Alakazam (Lv. 44) @ Life Orb        /   ?           /   Magic Guard     /   Psyc
 Mamoswine (Lv. 44) @ Passho Berry   /   ?           /   Thick Fat       /   Earthquake, Avalanche, Stone Edge, Ice Shard
 Clefable (Lv. 44) @ Leftovers       /   ?           /   Cute Charm      /   Moonblast, Moonlight, Psychic, Thunder Wave
 Lopunny (Lv. 44) @ Choice Band      /   ?           /   Scrappy (!)     /   Strength, Jump Kick, Fire Punch, Ice Punch
-Vaporeon (Lv. 44) @ Wise Glasses    /   ?           /   Water Absorb    /   Hydro Pump, Ice Beam, Extrasensory, Aqua Ring           (!)
-Jolteon (Lv. 44) @ Wise Glasses     /   ?           /   Volt Absorb     /   Thunder, Shadow Ball, Extrasensory, Thunder Wave        (!)
-Flareon (Lv. 44) @ Muscle Band      /   ?           /   Flash Fire      /   Flare Blitz, Play Rough, Close Combat, Will-O-Wisp      (!)
-Torterra (Lv. 45) @ Sitrus Berry    /   ?           /   Overgrow        /   Wood Hammer, Earthquake, Iron Head, Rock Slide          (!)
-Infernape (Lv. 45) @ Sitrus Berry   /   ?           /   Iron Fist       /   Fire Blast, Close Combat, Thunder Punch, Rock Slide     (!)
-Empoleon (Lv. 45) @ Sitrus Berry    /   ?           /   Torrent         /   Surf, Flash Cannon, Grass Knot, Featherdance            (!)
+0Vaporeon (Lv. 44) @ Wise Glasses    /   ?           /   Water Absorb    /   Hydro Pump, Ice Beam, Extrasensory, Aqua Ring           (!)
+1Jolteon (Lv. 44) @ Wise Glasses     /   ?           /   Volt Absorb     /   Thunder, Shadow Ball, Extrasensory, Thunder Wave        (!)
+2Flareon (Lv. 44) @ Muscle Band      /   ?           /   Flash Fire      /   Flare Blitz, Play Rough, Close Combat, Will-O-Wisp      (!)
+0Torterra (Lv. 45) @ Sitrus Berry    /   ?           /   Overgrow        /   Wood Hammer, Earthquake, Iron Head, Rock Slide          (!)
+1Infernape (Lv. 45) @ Sitrus Berry   /   ?           /   Iron Fist       /   Fire Blast, Close Combat, Thunder Punch, Rock Slide     (!)
+2Empoleon (Lv. 45) @ Sitrus Berry    /   ?           /   Torrent         /   Surf, Flash Cannon, Grass Knot, Featherdance            (!)
 
 PKMN Trainer Lucas
 Alakazam (Lv. 44) @ Life Orb        /   ?           /   Magic Guard     /   Psychic, Shadow Ball, Energy Ball, Dazzling Gleam
 Mamoswine (Lv. 44) @ Passho Berry   /   ?           /   Thick Fat       /   Earthquake, Avalanche, Stone Edge, Ice Shard
 Granbull (Lv. 44) @ Choice Band     /   ?           /   Intimidate      /   Play Rough, Close Combat, Crunch, Earthquake
 Lickilicky (Lv. 44) @ Leftovers     /   ?           /   Own Tempo       /   Body Slam, Zen Headbutt, Earthquake, Amnesia
-Vaporeon (Lv. 44) @ Wise Glasses    /   ?           /   Water Absorb    /   Hydro Pump, Ice Beam, Extrasensory, Aqua Ring           (!)
-Jolteon (Lv. 44) @ Wise Glasses     /   ?           /   Volt Absorb     /   Thunder, Shadow Ball, Extrasensory, Thunder Wave        (!)
-Flareon (Lv. 44) @ Muscle Band      /   ?           /   Flash Fire      /   Flare Blitz, Play Rough, Close Combat, Will-O-Wisp      (!)
-Torterra (Lv. 45) @ Sitrus Berry    /   ?           /   Overgrow        /   Wood Hammer, Earthquake, Iron Head, Rock Slide          (!)
-Infernape (Lv. 45) @ Sitrus Berry   /   ?           /   Iron Fist       /   Fire Blast, Close Combat, Thunder Punch, Rock Slide     (!)
-Empoleon (Lv. 45) @ Sitrus Berry    /   ?           /   Torrent         /   Surf, Flash Cannon, Grass Knot, Featherdance            (!)
+0Vaporeon (Lv. 44) @ Wise Glasses    /   ?           /   Water Absorb    /   Hydro Pump, Ice Beam, Extrasensory, Aqua Ring           (!)
+1Jolteon (Lv. 44) @ Wise Glasses     /   ?           /   Volt Absorb     /   Thunder, Shadow Ball, Extrasensory, Thunder Wave        (!)
+2Flareon (Lv. 44) @ Muscle Band      /   ?           /   Flash Fire      /   Flare Blitz, Play Rough, Close Combat, Will-O-Wisp      (!)
+0Torterra (Lv. 45) @ Sitrus Berry    /   ?           /   Overgrow        /   Wood Hammer, Earthquake, Iron Head, Rock Slide          (!)
+1Infernape (Lv. 45) @ Sitrus Berry   /   ?           /   Iron Fist       /   Fire Blast, Close Combat, Thunder Punch, Rock Slide     (!)
+2Empoleon (Lv. 45) @ Sitrus Berry    /   ?           /   Torrent         /   Surf, Flash Cannon, Grass Knot, Featherdance            (!)
 
 Celestic Town
 =================================================================================================================================================
@@ -804,12 +800,12 @@ PKMN Trainer Barry
 Staraptor (Lv. 48) @ Choice Band    /   ?           /   Reckless        /   Double-Edge, Brave Bird, Close Combat, U-turn
 Heracross (Lv. 48) @ Muscle Band    /   ?           /   Guts            /   Megahorn, Close Combat, Rock Slide, Night Slash
 Snorlax (Lv. 48) @ Leftovers        /   ?           /   Thick Fat       /   Curse, Body Slam, Crunch, Slack Off
-Azumarill (Lv. 48) @ Life Orb       /   ?           /   Huge Power      /   Aqua Tail, Play Rough, Ice Punch, Aqua Jet          (!)
-Arcanine (Lv. 48) @ Expert Belt     /   ?           /   Intimidate      /   Flare Blitz, Extreme Speed, Crunch, Close Combat    (!)
-Breloom (Lv. 48) @ Focus Sash       /   ?           /   Technician      /   Bullet Seed, Force Palm, Spore, Stone Edge          (!)
-Torterra (Lv. 49) @ Sitrus Berry    /   ?           /   Overgrow        /   Wood Hammer, Earthquake, Crunch, Iron Head          (!)
-Infernape (Lv. 49) @ Sitrus Berry   /   ?           /   Iron Fist       /   Fire Blast, Close Combat, Fake Out, Thunder Punch   (!)
-Empoleon (Lv. 49) @ Sitrus Berry    /   ?           /   Torrent         /   Surf, Flash Cannon, Grass Knot, Agility             (!)
+0Azumarill (Lv. 48) @ Life Orb       /   ?           /   Huge Power      /   Aqua Tail, Play Rough, Ice Punch, Aqua Jet          (!)
+1Arcanine (Lv. 48) @ Expert Belt     /   ?           /   Intimidate      /   Flare Blitz, Extreme Speed, Crunch, Close Combat    (!)
+2Breloom (Lv. 48) @ Focus Sash       /   ?           /   Technician      /   Bullet Seed, Force Palm, Spore, Stone Edge          (!)
+0Torterra (Lv. 49) @ Sitrus Berry    /   ?           /   Overgrow        /   Wood Hammer, Earthquake, Crunch, Iron Head          (!)
+1Infernape (Lv. 49) @ Sitrus Berry   /   ?           /   Iron Fist       /   Fire Blast, Close Combat, Fake Out, Thunder Punch   (!)
+2Empoleon (Lv. 49) @ Sitrus Berry    /   ?           /   Torrent         /   Surf, Flash Cannon, Grass Knot, Agility             (!)
 
 Iron Island
 =================================================================================================================================================
@@ -1174,24 +1170,24 @@ Alakazam (Lv. 69) @ Life Orb        /   ?           /   Magic Guard     /   Psyc
 Mamoswine (Lv. 69) @ Choice Band    /   ?           /   Thick Fat       /   Earthquake, Icicle Crash, Stone Edge, Superpower
 Clefable (Lv. 69) @ Leftovers       /   ?           /   Cute Charm      /   Moonblast, Soft-Boiled, Calm Mind, Flamethrower
 Lopunny (Lv. 69) @ Focus Sash       /   ?           /   Scrappy         /   Mega Kick, High Jump Kick, Fake Out, Agility
-Vaporeon (Lv. 69) @ Wacan Berry     /   ?           /   Water Absorb    /   Muddy Water, Ice Beam, Rest, Sleep Talk                 (!)
-Jolteon (Lv. 69) @ Shuca Berry      /   ?           /   Volt Absorb     /   Thunderbolt, Grass Knot, Shadow Ball, Thunder Wave      (!)
-Flareon (Lv. 69) @ Passho Berry     /   ?           /   Flash Fire      /   Flare Blitz, Play Rough, Close Combat, Wild Charge      (!)
-Torterra (Lv. 70) @ Sitrus Berry    /   ?           /   Overgrow        /   Frenzy Plant, Earthquake, Stone Edge, Iron Head         (!)
-Infernape (Lv. 70) @ Sitrus Berry   /   ?           /   Iron Fist       /   Blast Burn, Close Combat, Stone Edge, Thunder Punch     (!)
-Empoleon (Lv. 70) @ Sitrus Berry    /   ?           /   Torrent         /   Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam        (!)
+0Vaporeon (Lv. 69) @ Wacan Berry     /   ?           /   Water Absorb    /   Muddy Water, Ice Beam, Rest, Sleep Talk                 (!)
+1Jolteon (Lv. 69) @ Shuca Berry      /   ?           /   Volt Absorb     /   Thunderbolt, Grass Knot, Shadow Ball, Thunder Wave      (!)
+2Flareon (Lv. 69) @ Passho Berry     /   ?           /   Flash Fire      /   Flare Blitz, Play Rough, Close Combat, Wild Charge      (!)
+0Torterra (Lv. 70) @ Sitrus Berry    /   ?           /   Overgrow        /   Frenzy Plant, Earthquake, Stone Edge, Iron Head         (!)
+1Infernape (Lv. 70) @ Sitrus Berry   /   ?           /   Iron Fist       /   Blast Burn, Close Combat, Stone Edge, Thunder Punch     (!)
+2Empoleon (Lv. 70) @ Sitrus Berry    /   ?           /   Torrent         /   Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam        (!)
 
 PKMN Trainer Lucas
 Alakazam (Lv. 69) @ Life Orb        /   ?           /   Magic Guard     /   Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
 Mamoswine (Lv. 69) @ Choice Band    /   ?           /   Thick Fat       /   Earthquake, Icicle Crash, Stone Edge, Superpower
 Granbull (Lv. 69) @ Muscle Band     /   ?           /   Intimidate      /   Play Rough, Close Combat, Crunch, Earthquake
 Lickilicky (Lv. 69) @ Leftovers     /   ?           /   Own Tempo       /   Double-Edge, Earthquake, Hammer Arm, Swords Dance
-Vaporeon (Lv. 69) @ Wacan Berry     /   ?           /   Water Absorb    /   Muddy Water, Ice Beam, Rest, Sleep Talk                 (!)
-Jolteon (Lv. 69) @ Shuca Berry      /   ?           /   Volt Absorb     /   Thunderbolt, Grass Knot, Shadow Ball, Thunder Wave      (!)
-Flareon (Lv. 69) @ Passho Berry     /   ?           /   Flash Fire      /   Flare Blitz, Play Rough, Close Combat, Wild Charge      (!)
-Torterra (Lv. 70) @ Sitrus Berry    /   ?           /   Overgrow        /   Frenzy Plant, Earthquake, Stone Edge, Iron Head         (!)
-Infernape (Lv. 70) @ Sitrus Berry   /   ?           /   Iron Fist       /   Blast Burn, Close Combat, Stone Edge, Thunder Punch     (!)
-Empoleon (Lv. 70) @ Sitrus Berry    /   ?           /   Torrent         /   Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam        (!)
+0Vaporeon (Lv. 69) @ Wacan Berry     /   ?           /   Water Absorb    /   Muddy Water, Ice Beam, Rest, Sleep Talk                 (!)
+1Jolteon (Lv. 69) @ Shuca Berry      /   ?           /   Volt Absorb     /   Thunderbolt, Grass Knot, Shadow Ball, Thunder Wave      (!)
+2Flareon (Lv. 69) @ Passho Berry     /   ?           /   Flash Fire      /   Flare Blitz, Play Rough, Close Combat, Wild Charge      (!)
+0Torterra (Lv. 70) @ Sitrus Berry    /   ?           /   Overgrow        /   Frenzy Plant, Earthquake, Stone Edge, Iron Head         (!)
+1Infernape (Lv. 70) @ Sitrus Berry   /   ?           /   Iron Fist       /   Blast Burn, Close Combat, Stone Edge, Thunder Punch     (!)
+2Empoleon (Lv. 70) @ Sitrus Berry    /   ?           /   Torrent         /   Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam        (!)
 
 Pokémon League
 =================================================================================================================================================
@@ -1236,12 +1232,12 @@ PKMN Trainer Barry
 Staraptor (Lv. 70) @ Choice Scarf   /   ?           /   Intimidate          /   Double-Edge, Brave Bird, Close Combat, U-turn
 Heracross (Lv. 70) @ Toxic Orb      /   ?           /   Guts                /   Megahorn, Close Combat, Stone Edge, Protect
 Snorlax (Lv. 70) @ Leftovers        /   ?           /   Thick Fat           /   Body Slam, Earthquake, Curse, Slack Off
-Azumarill (Lv. 70) @ Life Orb       /   ?           /   Huge Power          /   Aqua Tail, Play Rough, Ice Punch, Aqua Jet              (!)
-Arcanine (Lv. 70) @ Life Orb        /   ?           /   Intimidate          /   Flare Blitz, Close Combat, Wild Charge, Crunch          (!)
-Breloom (Lv. 70) @ Life Orb         /   ?           /   Technician          /   Bullet Seed, Force Palm, Stone Edge, Spore              (!)
-Torterra (Lv. 71) @ Sitrus Berry    /   ?           /   Overgrow            /   Wood Hammer, Earthquake, Stone Edge, Crunch             (!)
-Infernape (Lv. 71) @ Sitrus Berry   /   ?           /   Iron Fist           /   Flare Blitz, Close Combat, Stone Edge, Grass Knot       (!)
-Empoleon (Lv. 71) @ Sitrus Berry    /   ?           /   Torrent             /   Hydro Pump, Flash Cannon, Grass Knot, Blizzard          (!)
+0Azumarill (Lv. 70) @ Life Orb       /   ?           /   Huge Power          /   Aqua Tail, Play Rough, Ice Punch, Aqua Jet              (!)
+1Arcanine (Lv. 70) @ Life Orb        /   ?           /   Intimidate          /   Flare Blitz, Close Combat, Wild Charge, Crunch          (!)
+2Breloom (Lv. 70) @ Life Orb         /   ?           /   Technician          /   Bullet Seed, Force Palm, Stone Edge, Spore              (!)
+0Torterra (Lv. 71) @ Sitrus Berry    /   ?           /   Overgrow            /   Wood Hammer, Earthquake, Stone Edge, Crunch             (!)
+1Infernape (Lv. 71) @ Sitrus Berry   /   ?           /   Iron Fist           /   Flare Blitz, Close Combat, Stone Edge, Grass Knot       (!)
+2Empoleon (Lv. 71) @ Sitrus Berry    /   ?           /   Torrent             /   Hydro Pump, Flash Cannon, Grass Knot, Blizzard          (!)
 
 (R1) Elite Four Aaron
 Yanmega (Lv. 71) @ Wise Glasses     /   Timid       /   Speed Boost         /   Bug Buzz, Hurricane, Giga Drain, Protect

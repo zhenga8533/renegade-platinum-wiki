@@ -14,6 +14,7 @@ echo ""
 
 # Check for i/o paths
 echo "Checking for i/o paths"
+OVERWRITE=$(grep "^OVERWRITE" .env | cut -d '=' -f2- | tr -d ' "')
 OUTPUT_PATH=$(grep "^OUTPUT_PATH" .env | cut -d '=' -f2- | tr -d ' "')
 POKEMON_INPUT_PATH=$(grep "^POKEMON_INPUT_PATH" .env | cut -d '=' -f2- | tr -d ' "')
 if [ -d $POKEMON_INPUT_PATH ]; then
@@ -58,19 +59,17 @@ echo "Running all parsers"
 #$PYTHON item_changes.py
 #$PYTHON move_changes.py
 #$PYTHON pokemon_changes.py
-$PYTHON special_events.py
+#$PYTHON special_events.py
+$PYTHON trainer_pokemon.py
 echo "Finished running all parsers"
 echo ""
 
 # Give option to update markdown files
-read -p "Would you like to update the markdown files in docs? (y/n) " -n 1 -r
-echo ""
-if ! [[ $REPLY =~ ^[Yy]$ ]]; then
+if ! [[ $OVERWRITE == "True" ]]; then
   echo "Markdown files not updated"
   exit 0
 fi
 
-echo ""
 echo "Updating Markdown files in docs"
 mkdir -p ../docs/mechanics
 mkdir -p ../docs/pokemon

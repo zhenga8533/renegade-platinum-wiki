@@ -30,6 +30,9 @@ theme:
 markdown_extensions:
   - admonition
   - attr_list
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
 nav:
   - Getting Started:
       - Home: index.md
