@@ -46,6 +46,8 @@
 
 **#001 - Bulbasaur**
 
+![Bulbasaur](../assets/sprites/bulbasaur/front.gif)
+
 Ability:
 
 ```
@@ -76,6 +78,8 @@ Level Up:
 ```
 
 **#002 - Ivysaur**
+
+![Ivysaur](../assets/sprites/ivysaur/front.gif)
 
 Ability:
 
@@ -108,6 +112,8 @@ Level Up:
 ```
 
 **#003 - Venusaur**
+
+![Venusaur](../assets/sprites/venusaur/front.gif)
 
 Ability (Complete):
 
@@ -158,6 +164,8 @@ Level Up:
 
 **#004 - Charmander**
 
+![Charmander](../assets/sprites/charmander/front.gif)
+
 Ability:
 
 ```
@@ -193,6 +201,8 @@ Level Up:
 ```
 
 **#005 - Charmeleon**
+
+![Charmeleon](../assets/sprites/charmeleon/front.gif)
 
 Ability:
 
@@ -230,6 +240,8 @@ Level Up:
 ```
 
 **#006 - Charizard**
+
+![Charizard](../assets/sprites/charizard/front.gif)
 
 Ability (Complete):
 
@@ -294,6 +306,8 @@ Level Up:
 
 **#007 - Squirtle**
 
+![Squirtle](../assets/sprites/squirtle/front.gif)
+
 Ability:
 
 ```
@@ -323,6 +337,8 @@ Level Up:
 ```
 
 **#008 - Wartortle**
+
+![Wartortle](../assets/sprites/wartortle/front.gif)
 
 Ability:
 
@@ -354,6 +370,8 @@ Level Up:
 ```
 
 **#009 - Blastoise**
+
+![Blastoise](../assets/sprites/blastoise/front.gif)
 
 Ability (Complete):
 
@@ -411,6 +429,8 @@ Level Up:
 
 **#010 - Caterpie**
 
+![Caterpie](../assets/sprites/caterpie/front.gif)
+
 Ability:
 
 ```
@@ -428,6 +448,8 @@ Level Up:
 
 **#011 - Metapod**
 
+![Metapod](../assets/sprites/metapod/front.gif)
+
 Ability:
 
 ```
@@ -444,6 +466,8 @@ Level Up:
 ```
 
 **#012 - Butterfree**
+
+![Butterfree](../assets/sprites/butterfree/front.gif)
 
 Ability:
 
@@ -493,6 +517,8 @@ Level Up:
 
 **#013 - Weedle**
 
+![Weedle](../assets/sprites/weedle/front.gif)
+
 Ability:
 
 ```
@@ -510,6 +536,8 @@ Level Up:
 
 **#014 - Kakuna**
 
+![Kakuna](../assets/sprites/kakuna/front.gif)
+
 Ability:
 
 ```
@@ -526,6 +554,8 @@ Level Up:
 ```
 
 **#015 - Beedrill**
+
+![Beedrill](../assets/sprites/beedrill/front.gif)
 
 Ability (Complete):
 
@@ -580,6 +610,8 @@ Level Up:
 
 **#016 - Pidgey**
 
+![Pidgey](../assets/sprites/pidgey/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -618,6 +650,8 @@ Level Up:
 
 **#017 - Pidgeotto**
 
+![Pidgeotto](../assets/sprites/pidgeotto/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -655,6 +689,8 @@ Level Up:
 ```
 
 **#018 - Pidgeot**
+
+![Pidgeot](../assets/sprites/pidgeot/front.gif)
 
 Ability (Complete):
 
@@ -705,6 +741,8 @@ Level Up:
 
 **#019 - Rattata**
 
+![Rattata](../assets/sprites/rattata/front.gif)
+
 Ability:
 
 ```
@@ -734,6 +772,8 @@ Level Up:
 ```
 
 **#020 - Raticate**
+
+![Raticate](../assets/sprites/raticate/front.gif)
 
 Ability:
 
@@ -775,6 +815,8 @@ Level Up:
 
 **#021 - Spearow**
 
+![Spearow](../assets/sprites/spearow/front.gif)
+
 Ability:
 
 ```
@@ -811,6 +853,8 @@ Level Up:
 ```
 
 **#022 - Fearow**
+
+![Fearow](../assets/sprites/fearow/front.gif)
 
 Ability:
 
@@ -859,6 +903,8 @@ Level Up:
 
 **#023 - Ekans**
 
+![Ekans](../assets/sprites/ekans/front.gif)
+
 Level Up:
 
 ```
@@ -882,6 +928,8 @@ Level Up:
 ```
 
 **#024 - Arbok**
+
+![Arbok](../assets/sprites/arbok/front.gif)
 
 Base Stats (Complete):
 
@@ -917,6 +965,8 @@ Level Up:
 ```
 
 **#025 - Pikachu**
+
+![Pikachu](../assets/sprites/pikachu/front.gif)
 
 Ability:
 
@@ -955,6 +1005,8 @@ Level Up:
 
 **#026 - Raichu**
 
+![Raichu](../assets/sprites/raichu/front.gif)
+
 Ability:
 
 ```
@@ -991,6 +1043,8 @@ Level Up:
 
 **#027 - Sandshrew**
 
+![Sandshrew](../assets/sprites/sandshrew/front.gif)
+
 Level Up:
 
 ```
@@ -1017,6 +1071,8 @@ Level Up:
 ```
 
 **#028 - Sandslash**
+
+![Sandslash](../assets/sprites/sandslash/front.gif)
 
 Level Up:
 
@@ -1046,6 +1102,8 @@ Level Up:
 
 **#029 - Nidoran F**
 
+![Nidoran F](../assets/sprites/nidoran-f/front.gif)
+
 Level Up:
 
 ```
@@ -1068,6 +1126,8 @@ Level Up:
 ```
 
 **#030 - Nidorina**
+
+![Nidorina](../assets/sprites/nidorina/front.gif)
 
 Level Up:
 
@@ -1092,6 +1152,8 @@ Level Up:
 
 **#031 - Nidoqueen**
 
+![Nidoqueen](../assets/sprites/nidoqueen/front.gif)
+
 Level Up:
 
 ```
@@ -1108,6 +1170,8 @@ Level Up:
 ```
 
 **#032 - Nidoran M**
+
+![Nidoran M](../assets/sprites/nidoran-m/front.gif)
 
 Level Up:
 
@@ -1132,6 +1196,8 @@ Level Up:
 
 **#033 - Nidorino**
 
+![Nidorino](../assets/sprites/nidorino/front.gif)
+
 Level Up:
 
 ```
@@ -1155,6 +1221,8 @@ Level Up:
 
 **#034 - Nidoking**
 
+![Nidoking](../assets/sprites/nidoking/front.gif)
+
 Level Up:
 
 ```
@@ -1171,6 +1239,8 @@ Level Up:
 ```
 
 **#035 - Clefairy**
+
+![Clefairy](../assets/sprites/clefairy/front.gif)
 
 Level Up:
 
@@ -1200,6 +1270,8 @@ Level Up:
 
 **#036 - Clefable**
 
+![Clefable](../assets/sprites/clefable/front.gif)
+
 Level Up:
 
 ```
@@ -1213,6 +1285,8 @@ Level Up:
 ```
 
 **#037 - Vulpix**
+
+![Vulpix](../assets/sprites/vulpix/front.gif)
 
 Ability:
 
@@ -1252,6 +1326,8 @@ Level Up:
 ```
 
 **#038 - Ninetales**
+
+![Ninetales](../assets/sprites/ninetales/front.gif)
 
 Ability:
 
@@ -1297,6 +1373,8 @@ Level Up:
 
 **#039 - Jigglypuff**
 
+![Jigglypuff](../assets/sprites/jigglypuff/front.gif)
+
 Ability (Complete):
 
 ```
@@ -1339,6 +1417,8 @@ Level Up:
 
 **#040 - Wigglytuff**
 
+![Wigglytuff](../assets/sprites/wigglytuff/front.gif)
+
 Ability (Complete):
 
 ```
@@ -1369,6 +1449,8 @@ Level Up:
 
 **#041 - Zubat**
 
+![Zubat](../assets/sprites/zubat/front.gif)
+
 Moves:
 
 ```
@@ -1398,6 +1480,8 @@ Level Up:
 ```
 
 **#042 - Golbat**
+
+![Golbat](../assets/sprites/golbat/front.gif)
 
 Moves:
 
@@ -1431,6 +1515,8 @@ Level Up:
 
 **#043 - Oddish**
 
+![Oddish](../assets/sprites/oddish/front.gif)
+
 Ability:
 
 ```
@@ -1461,6 +1547,8 @@ Level Up:
 ```
 
 **#044 - Gloom**
+
+![Gloom](../assets/sprites/gloom/front.gif)
 
 Ability:
 
@@ -1493,6 +1581,8 @@ Level Up:
 
 **#045 - Vileplume**
 
+![Vileplume](../assets/sprites/vileplume/front.gif)
+
 Ability:
 
 ```
@@ -1516,6 +1606,8 @@ Level Up:
 ```
 
 **#046 - Paras**
+
+![Paras](../assets/sprites/paras/front.gif)
 
 Moves:
 
@@ -1546,6 +1638,8 @@ Level Up:
 ```
 
 **#047 - Parasect**
+
+![Parasect](../assets/sprites/parasect/front.gif)
 
 Base Stats (Complete):
 
@@ -1585,6 +1679,8 @@ Level Up:
 
 **#048 - Venonat**
 
+![Venonat](../assets/sprites/venonat/front.gif)
+
 Ability:
 
 ```
@@ -1621,6 +1717,8 @@ Level Up:
 ```
 
 **#049 - Venomoth**
+
+![Venomoth](../assets/sprites/venomoth/front.gif)
 
 Ability:
 
@@ -1671,6 +1769,8 @@ Level Up:
 
 **#050 - Diglett**
 
+![Diglett](../assets/sprites/diglett/front.gif)
+
 Level Up:
 
 ```
@@ -1694,6 +1794,8 @@ Level Up:
 ```
 
 **#051 - Dugtrio**
+
+![Dugtrio](../assets/sprites/dugtrio/front.gif)
 
 Level Up:
 
@@ -1720,6 +1822,8 @@ Level Up:
 ```
 
 **#052 - Meowth**
+
+![Meowth](../assets/sprites/meowth/front.gif)
 
 Ability:
 
@@ -1753,6 +1857,8 @@ Level Up:
 ```
 
 **#053 - Persian**
+
+![Persian](../assets/sprites/persian/front.gif)
 
 Ability:
 
@@ -1796,6 +1902,8 @@ Level Up:
 
 **#054 - Psyduck**
 
+![Psyduck](../assets/sprites/psyduck/front.gif)
+
 Level Up:
 
 ```
@@ -1820,6 +1928,8 @@ Level Up:
 ```
 
 **#055 - Golduck**
+
+![Golduck](../assets/sprites/golduck/front.gif)
 
 Type (Complete):
 
@@ -1856,6 +1966,8 @@ Level Up:
 
 **#056 - Mankey**
 
+![Mankey](../assets/sprites/mankey/front.gif)
+
 Level Up:
 
 ```
@@ -1882,6 +1994,8 @@ Level Up:
 ```
 
 **#057 - Primeape**
+
+![Primeape](../assets/sprites/primeape/front.gif)
 
 Level Up:
 
@@ -1911,6 +2025,8 @@ Level Up:
 
 **#058 - Growlithe**
 
+![Growlithe](../assets/sprites/growlithe/front.gif)
+
 Level Up:
 
 ```
@@ -1936,6 +2052,8 @@ Level Up:
 
 **#059 - Arcanine**
 
+![Arcanine](../assets/sprites/arcanine/front.gif)
+
 Level Up:
 
 ```
@@ -1952,6 +2070,8 @@ Level Up:
 ```
 
 **#060 - Poliwag**
+
+![Poliwag](../assets/sprites/poliwag/front.gif)
 
 Level Up
 
@@ -1987,6 +2107,8 @@ Level Up
 
 **#061 - Poliwhirl**
 
+![Poliwhirl](../assets/sprites/poliwhirl/front.gif)
+
 Evolution:
 
 ```
@@ -2015,6 +2137,8 @@ Level Up:
 
 **#062 - Poliwrath**
 
+![Poliwrath](../assets/sprites/poliwrath/front.gif)
+
 Moves:
 
 ```
@@ -2040,6 +2164,8 @@ Level Up:
 
 **#063 - Abra**
 
+![Abra](../assets/sprites/abra/front.gif)
+
 Ability:
 
 ```
@@ -2054,6 +2180,8 @@ Level Up:
 ```
 
 **#064 - Kadabra**
+
+![Kadabra](../assets/sprites/kadabra/front.gif)
 
 Ability:
 
@@ -2092,6 +2220,8 @@ Level Up:
 
 **#065 - Alakazam**
 
+![Alakazam](../assets/sprites/alakazam/front.gif)
+
 Ability:
 
 ```
@@ -2126,6 +2256,8 @@ Level Up:
 
 **#066 - Machop**
 
+![Machop](../assets/sprites/machop/front.gif)
+
 Level Up:
 
 ```
@@ -2151,6 +2283,8 @@ Level Up:
 ```
 
 **#067 - Machoke**
+
+![Machoke](../assets/sprites/machoke/front.gif)
 
 Evolution:
 
@@ -2184,6 +2318,8 @@ Level Up:
 
 **#068 - Machamp**
 
+![Machamp](../assets/sprites/machamp/front.gif)
+
 Level Up:
 
 ```
@@ -2211,6 +2347,8 @@ Level Up:
 ```
 
 **#069 - Bellsprout**
+
+![Bellsprout](../assets/sprites/bellsprout/front.gif)
 
 Ability:
 
@@ -2243,6 +2381,8 @@ Level Up:
 
 **#070 - Weepinbell**
 
+![Weepinbell](../assets/sprites/weepinbell/front.gif)
+
 Ability:
 
 ```
@@ -2274,6 +2414,8 @@ Level Up:
 
 **#071 - Victreebel**
 
+![Victreebel](../assets/sprites/victreebel/front.gif)
+
 Ability:
 
 ```
@@ -2301,6 +2443,8 @@ Level Up:
 
 **#072 - Tentacool**
 
+![Tentacool](../assets/sprites/tentacool/front.gif)
+
 Level Up:
 
 ```
@@ -2323,6 +2467,8 @@ Level Up:
 ```
 
 **#073 - Tentacruel**
+
+![Tentacruel](../assets/sprites/tentacruel/front.gif)
 
 Level Up:
 
@@ -2347,6 +2493,8 @@ Level Up:
 
 **#074 - Geodude**
 
+![Geodude](../assets/sprites/geodude/front.gif)
+
 Level Up:
 
 ```
@@ -2370,6 +2518,8 @@ Level Up:
 ```
 
 **#075 - Graveler**
+
+![Graveler](../assets/sprites/graveler/front.gif)
 
 Evolution:
 
@@ -2402,6 +2552,8 @@ Level Up:
 
 **#076 - Golem**
 
+![Golem](../assets/sprites/golem/front.gif)
+
 Level Up:
 
 ```
@@ -2429,6 +2581,8 @@ Level Up:
 ```
 
 **#077 - Ponyta**
+
+![Ponyta](../assets/sprites/ponyta/front.gif)
 
 Ability:
 
@@ -2467,6 +2621,8 @@ Level Up:
 
 **#078 - Rapidash**
 
+![Rapidash](../assets/sprites/rapidash/front.gif)
+
 Ability:
 
 ```
@@ -2501,6 +2657,8 @@ Level Up:
 ```
 
 **#079 - Slowpoke**
+
+![Slowpoke](../assets/sprites/slowpoke/front.gif)
 
 Evolution:
 
@@ -2540,6 +2698,8 @@ Level Up:
 
 **#080 - Slowbro**
 
+![Slowbro](../assets/sprites/slowbro/front.gif)
+
 Moves:
 
 ```
@@ -2571,6 +2731,8 @@ Level Up:
 ```
 
 **#081 - Magnemite**
+
+![Magnemite](../assets/sprites/magnemite/front.gif)
 
 Moves:
 
@@ -2604,6 +2766,8 @@ Level Up:
 
 **#082 - Magneton**
 
+![Magneton](../assets/sprites/magneton/front.gif)
+
 Moves:
 
 ```
@@ -2636,6 +2800,8 @@ Level Up:
 ```
 
 **#083 - Farfetch'd**
+
+![Farfetch'd](../assets/sprites/farfetchd/front.gif)
 
 Ability (Complete):
 
@@ -2701,6 +2867,8 @@ Level Up:
 
 **#084 - Doduo**
 
+![Doduo](../assets/sprites/doduo/front.gif)
+
 Ability:
 
 ```
@@ -2732,6 +2900,8 @@ Level Up:
 ```
 
 **#085 - Dodrio**
+
+![Dodrio](../assets/sprites/dodrio/front.gif)
 
 Ability:
 
@@ -2768,6 +2938,8 @@ Level Up:
 
 **#086 - Seel**
 
+![Seel](../assets/sprites/seel/front.gif)
+
 Level Up:
 
 ```
@@ -2794,6 +2966,8 @@ Level Up:
 ```
 
 **#087 - Dewgong**
+
+![Dewgong](../assets/sprites/dewgong/front.gif)
 
 Base Stats (Complete):
 
@@ -2830,6 +3004,8 @@ Level Up:
 
 **#088 - Grimer**
 
+![Grimer](../assets/sprites/grimer/front.gif)
+
 Evolution:
 
 ```
@@ -2861,6 +3037,8 @@ Level Up:
 
 **#089 - Muk**
 
+![Muk](../assets/sprites/muk/front.gif)
+
 Level Up:
 
 ```
@@ -2887,6 +3065,8 @@ Level Up:
 ```
 
 **#090 - Shellder**
+
+![Shellder](../assets/sprites/shellder/front.gif)
 
 Ability:
 
@@ -2924,6 +3104,8 @@ Level Up:
 
 **#091 - Cloyster**
 
+![Cloyster](../assets/sprites/cloyster/front.gif)
+
 Ability:
 
 ```
@@ -2955,6 +3137,8 @@ Level Up:
 
 **#092 - Gastly**
 
+![Gastly](../assets/sprites/gastly/front.gif)
+
 Level Up:
 
 ```
@@ -2979,6 +3163,8 @@ Level Up:
 ```
 
 **#093 - Haunter**
+
+![Haunter](../assets/sprites/haunter/front.gif)
 
 Evolution:
 
@@ -3012,6 +3198,8 @@ Level Up:
 
 **#094 - Gengar**
 
+![Gengar](../assets/sprites/gengar/front.gif)
+
 Level Up:
 
 ```
@@ -3038,6 +3226,8 @@ Level Up:
 ```
 
 **#095 - Onix**
+
+![Onix](../assets/sprites/onix/front.gif)
 
 Base Stats (Complete):
 
@@ -3077,6 +3267,8 @@ Level Up:
 
 **#096 - Drowzee**
 
+![Drowzee](../assets/sprites/drowzee/front.gif)
+
 Level Up:
 
 ```
@@ -3102,6 +3294,8 @@ Level Up:
 ```
 
 **#097 - Hypno**
+
+![Hypno](../assets/sprites/hypno/front.gif)
 
 Level Up:
 
@@ -3130,6 +3324,8 @@ Level Up:
 ```
 
 **#098 - Krabby**
+
+![Krabby](../assets/sprites/krabby/front.gif)
 
 Moves:
 
@@ -3161,6 +3357,8 @@ Level Up:
 ```
 
 **#099 - Kingler**
+
+![Kingler](../assets/sprites/kingler/front.gif)
 
 Moves:
 
@@ -3197,6 +3395,8 @@ Level Up:
 
 **#100 - Voltorb**
 
+![Voltorb](../assets/sprites/voltorb/front.gif)
+
 Moves:
 
 ```
@@ -3227,6 +3427,8 @@ Level Up:
 ```
 
 **#101 - Electrode**
+
+![Electrode](../assets/sprites/electrode/front.gif)
 
 Moves:
 
@@ -3260,6 +3462,8 @@ Level Up:
 
 **#102 - Exeggcute**
 
+![Exeggcute](../assets/sprites/exeggcute/front.gif)
+
 Level Up:
 
 ```
@@ -3285,6 +3489,8 @@ Level Up:
 
 **#103 - Exeggutor**
 
+![Exeggutor](../assets/sprites/exeggutor/front.gif)
+
 Level Up:
 
 ```
@@ -3300,6 +3506,8 @@ Level Up:
 ```
 
 **#104 - Cubone**
+
+![Cubone](../assets/sprites/cubone/front.gif)
 
 Level Up:
 
@@ -3327,6 +3535,8 @@ Level Up:
 
 **#105 - Marowak**
 
+![Marowak](../assets/sprites/marowak/front.gif)
+
 Level Up:
 
 ```
@@ -3353,6 +3563,8 @@ Level Up:
 ```
 
 **#106 - Hitmonlee**
+
+![Hitmonlee](../assets/sprites/hitmonlee/front.gif)
 
 Ability:
 
@@ -3384,6 +3596,8 @@ Level Up:
 ```
 
 **#107 - Hitmonchan**
+
+![Hitmonchan](../assets/sprites/hitmonchan/front.gif)
 
 Ability:
 
@@ -3417,6 +3631,8 @@ Level Up:
 
 **#108 - Lickitung**
 
+![Lickitung](../assets/sprites/lickitung/front.gif)
+
 Level Up:
 
 ```
@@ -3444,6 +3660,8 @@ Level Up:
 
 **#109 - Koffing**
 
+![Koffing](../assets/sprites/koffing/front.gif)
+
 Level Up:
 
 ```
@@ -3467,6 +3685,8 @@ Level Up:
 ```
 
 **#110 - Weezing**
+
+![Weezing](../assets/sprites/weezing/front.gif)
 
 Level Up:
 
@@ -3493,6 +3713,8 @@ Level Up:
 ```
 
 **#111 - Rhyhorn**
+
+![Rhyhorn](../assets/sprites/rhyhorn/front.gif)
 
 Ability:
 
@@ -3531,6 +3753,8 @@ Level Up:
 ```
 
 **#112 - Rhydon**
+
+![Rhydon](../assets/sprites/rhydon/front.gif)
 
 Ability:
 
@@ -3572,6 +3796,8 @@ Level Up:
 
 **#113 - Chansey**
 
+![Chansey](../assets/sprites/chansey/front.gif)
+
 Ability:
 
 ```
@@ -3607,6 +3833,8 @@ Level Up:
 
 **#114 - Tangela**
 
+![Tangela](../assets/sprites/tangela/front.gif)
+
 Level Up:
 
 ```
@@ -3632,6 +3860,8 @@ Level Up:
 ```
 
 **#115 - Kangaskhan**
+
+![Kangaskhan](../assets/sprites/kangaskhan/front.gif)
 
 Ability:
 
@@ -3665,6 +3895,8 @@ Level Up:
 
 **#116 - Horsea**
 
+![Horsea](../assets/sprites/horsea/front.gif)
+
 Level Up:
 
 ```
@@ -3688,6 +3920,8 @@ Level Up:
 ```
 
 **#117 - Seadra**
+
+![Seadra](../assets/sprites/seadra/front.gif)
 
 Evolution:
 
@@ -3719,6 +3953,8 @@ Level Up:
 ```
 
 **#118 - Goldeen**
+
+![Goldeen](../assets/sprites/goldeen/front.gif)
 
 Base Stats (Complete):
 
@@ -3752,6 +3988,8 @@ Level Up:
 ```
 
 **#119 - Seaking**
+
+![Seaking](../assets/sprites/seaking/front.gif)
 
 Base Stats (Complete):
 
@@ -3787,6 +4025,8 @@ Level Up:
 
 **#120 - Staryu**
 
+![Staryu](../assets/sprites/staryu/front.gif)
+
 Level Up:
 
 ```
@@ -3812,6 +4052,8 @@ Level Up:
 
 **#121 - Starmie**
 
+![Starmie](../assets/sprites/starmie/front.gif)
+
 Level Up:
 
 ```
@@ -3825,6 +4067,8 @@ Level Up:
 ```
 
 **#122 - Mr. Mime**
+
+![Mr. Mime](../assets/sprites/mr-mime/front.gif)
 
 Ability:
 
@@ -3867,6 +4111,8 @@ Level Up:
 ```
 
 **#123 - Scyther**
+
+![Scyther](../assets/sprites/scyther/front.gif)
 
 Ability:
 
@@ -3915,6 +4161,8 @@ Level Up:
 
 **#124 - Jynx**
 
+![Jynx](../assets/sprites/jynx/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -3957,6 +4205,8 @@ Level Up:
 
 **#125 - Electabuzz**
 
+![Electabuzz](../assets/sprites/electabuzz/front.gif)
+
 Ability:
 
 ```
@@ -3993,6 +4243,8 @@ Level Up:
 ```
 
 **#126 - Magmar**
+
+![Magmar](../assets/sprites/magmar/front.gif)
 
 Ability:
 
@@ -4031,6 +4283,8 @@ Level Up:
 
 **#127 - Pinsir**
 
+![Pinsir](../assets/sprites/pinsir/front.gif)
+
 Moves:
 
 ```
@@ -4063,6 +4317,8 @@ Level Up:
 
 **#128 - Tauros**
 
+![Tauros](../assets/sprites/tauros/front.gif)
+
 Level Up:
 
 ```
@@ -4090,6 +4346,8 @@ Level Up:
 
 **#129 - Magikarp**
 
+![Magikarp](../assets/sprites/magikarp/front.gif)
+
 Level Up:
 
 ```
@@ -4100,6 +4358,8 @@ Level Up:
 ```
 
 **#130 - Gyarados**
+
+![Gyarados](../assets/sprites/gyarados/front.gif)
 
 Moves:
 
@@ -4130,6 +4390,8 @@ Level Up:
 
 **#131 - Lapras**
 
+![Lapras](../assets/sprites/lapras/front.gif)
+
 Level Up:
 
 ```
@@ -4158,6 +4420,8 @@ Level Up:
 
 **#132 - Ditto**
 
+![Ditto](../assets/sprites/ditto/front.gif)
+
 Level Up:
 
 ```
@@ -4165,6 +4429,8 @@ Level Up:
 ```
 
 **#133 - Eevee**
+
+![Eevee](../assets/sprites/eevee/front.gif)
 
 Evolution:
 
@@ -4207,6 +4473,8 @@ Level Up:
 
 **#134 - Vaporeon**
 
+![Vaporeon](../assets/sprites/vaporeon/front.gif)
+
 Moves:
 
 ```
@@ -4239,6 +4507,8 @@ Level Up:
 
 **#135 - Jolteon**
 
+![Jolteon](../assets/sprites/jolteon/front.gif)
+
 Moves:
 
 ```
@@ -4270,6 +4540,8 @@ Level Up:
 ```
 
 **#136 - Flareon**
+
+![Flareon](../assets/sprites/flareon/front.gif)
 
 Base Stats (Complete):
 
@@ -4312,6 +4584,8 @@ Level Up:
 
 **#137 - Porygon**
 
+![Porygon](../assets/sprites/porygon/front.gif)
+
 Evolution:
 
 ```
@@ -4345,6 +4619,8 @@ Level Up:
 
 **#138 - Omanyte**
 
+![Omanyte](../assets/sprites/omanyte/front.gif)
+
 Evolution:
 
 ```
@@ -4375,6 +4651,8 @@ Level Up:
 
 **#139 - Omastar**
 
+![Omastar](../assets/sprites/omastar/front.gif)
+
 Level Up:
 
 ```
@@ -4401,6 +4679,8 @@ Level Up:
 ```
 
 **#140 - Kabuto**
+
+![Kabuto](../assets/sprites/kabuto/front.gif)
 
 Evolution:
 
@@ -4432,6 +4712,8 @@ Level Up:
 
 **#141 - Kabutops**
 
+![Kabutops](../assets/sprites/kabutops/front.gif)
+
 Level Up:
 
 ```
@@ -4459,6 +4741,8 @@ Level Up:
 ```
 
 **#142 - Aerodactyl**
+
+![Aerodactyl](../assets/sprites/aerodactyl/front.gif)
 
 Moves:
 
@@ -4494,6 +4778,8 @@ Level Up:
 
 **#143 - Snorlax**
 
+![Snorlax](../assets/sprites/snorlax/front.gif)
+
 Ability:
 
 ```
@@ -4527,6 +4813,8 @@ Level Up:
 ```
 
 **#144 - Articuno**
+
+![Articuno](../assets/sprites/articuno/front.gif)
 
 Ability:
 
@@ -4564,6 +4852,8 @@ Level Up:
 
 **#145 - Zapdos**
 
+![Zapdos](../assets/sprites/zapdos/front.gif)
+
 Ability:
 
 ```
@@ -4599,6 +4889,8 @@ Level Up:
 ```
 
 **#146 - Moltres**
+
+![Moltres](../assets/sprites/moltres/front.gif)
 
 Ability:
 
@@ -4636,6 +4928,8 @@ Level Up:
 
 **#147 - Dratini**
 
+![Dratini](../assets/sprites/dratini/front.gif)
+
 Ability:
 
 ```
@@ -4665,6 +4959,8 @@ Level Up:
 ```
 
 **#148 - Dragonair**
+
+![Dragonair](../assets/sprites/dragonair/front.gif)
 
 Ability:
 
@@ -4701,6 +4997,8 @@ Level Up:
 ```
 
 **#149 - Dragonite**
+
+![Dragonite](../assets/sprites/dragonite/front.gif)
 
 Ability (Complete):
 
@@ -4750,6 +5048,8 @@ Level Up:
 
 **#150 - Mewtwo**
 
+![Mewtwo](../assets/sprites/mewtwo/front.gif)
+
 Level Up:
 
 ```
@@ -4775,6 +5075,8 @@ Level Up:
 ```
 
 **#151 - Mew**
+
+![Mew](../assets/sprites/mew/front.gif)
 
 Moves:
 
@@ -4803,6 +5105,8 @@ Level Up:
 ```
 
 **#152 - Chikorita**
+
+![Chikorita](../assets/sprites/chikorita/front.gif)
 
 Ability (Complete):
 
@@ -4848,6 +5152,8 @@ Level Up:
 
 **#153 - Bayleef**
 
+![Bayleef](../assets/sprites/bayleef/front.gif)
+
 Ability (Complete):
 
 ```
@@ -4892,6 +5198,8 @@ Level Up:
 ```
 
 **#154 - Meganium**
+
+![Meganium](../assets/sprites/meganium/front.gif)
 
 Ability (Complete):
 
@@ -4955,6 +5263,8 @@ Level Up:
 
 **#155 - Cyndaquil**
 
+![Cyndaquil](../assets/sprites/cyndaquil/front.gif)
+
 Ability (Complete):
 
 ```
@@ -4991,6 +5301,8 @@ Level Up:
 ```
 
 **#156 - Quilava**
+
+![Quilava](../assets/sprites/quilava/front.gif)
 
 Ability (Complete):
 
@@ -5029,6 +5341,8 @@ Level Up:
 ```
 
 **#157 - Typhlosion**
+
+![Typhlosion](../assets/sprites/typhlosion/front.gif)
 
 Ability (Complete):
 
@@ -5079,6 +5393,8 @@ Level Up:
 
 **#158 - Totodile**
 
+![Totodile](../assets/sprites/totodile/front.gif)
+
 Ability (Complete):
 
 ```
@@ -5115,6 +5431,8 @@ Level Up:
 ```
 
 **#159 - Croconaw**
+
+![Croconaw](../assets/sprites/croconaw/front.gif)
 
 Ability (Complete):
 
@@ -5153,6 +5471,8 @@ Level Up:
 ```
 
 **#160 - Feraligatr**
+
+![Feraligatr](../assets/sprites/feraligatr/front.gif)
 
 Ability (Complete):
 
@@ -5203,6 +5523,8 @@ Level Up:
 
 **#161 - Sentret**
 
+![Sentret](../assets/sprites/sentret/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -5234,6 +5556,8 @@ Level Up:
 ```
 
 **#162 - Furret**
+
+![Furret](../assets/sprites/furret/front.gif)
 
 Ability (Complete):
 
@@ -5276,6 +5600,8 @@ Level Up:
 
 **#163 - Hoothoot**
 
+![Hoothoot](../assets/sprites/hoothoot/front.gif)
+
 Ability:
 
 ```
@@ -5314,6 +5640,8 @@ Level Up:
 ```
 
 **#164 - Noctowl**
+
+![Noctowl](../assets/sprites/noctowl/front.gif)
 
 Ability:
 
@@ -5371,6 +5699,8 @@ Level Up:
 
 **#165 - Ledyba**
 
+![Ledyba](../assets/sprites/ledyba/front.gif)
+
 Ability (Complete):
 
 ```
@@ -5416,6 +5746,8 @@ Level Up:
 ```
 
 **#166 - Ledian**
+
+![Ledian](../assets/sprites/ledian/front.gif)
 
 Ability (Complete):
 
@@ -5466,6 +5798,8 @@ Level Up:
 
 **#167 - Spinarak**
 
+![Spinarak](../assets/sprites/spinarak/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -5504,6 +5838,8 @@ Level Up:
 ```
 
 **#168 - Ariados**
+
+![Ariados](../assets/sprites/ariados/front.gif)
 
 Base Stats (Complete):
 
@@ -5546,6 +5882,8 @@ Level Up:
 
 **#169 - Crobat**
 
+![Crobat](../assets/sprites/crobat/front.gif)
+
 Moves:
 
 ```
@@ -5579,6 +5917,8 @@ Level Up:
 
 **#170 - Chinchou**
 
+![Chinchou](../assets/sprites/chinchou/front.gif)
+
 Ability:
 
 ```
@@ -5610,6 +5950,8 @@ Level Up:
 
 **#171 - Lanturn**
 
+![Lanturn](../assets/sprites/lanturn/front.gif)
+
 Ability:
 
 ```
@@ -5640,6 +5982,8 @@ Level Up:
 ```
 
 **#172 - Pichu**
+
+![Pichu](../assets/sprites/pichu/front.gif)
 
 Ability:
 
@@ -5676,6 +6020,8 @@ Level Up:
 
 **#173 - Cleffa**
 
+![Cleffa](../assets/sprites/cleffa/front.gif)
+
 Base Happiness:
 
 ```
@@ -5698,6 +6044,8 @@ Level Up:
 ```
 
 **#174 - Igglybuff**
+
+![Igglybuff](../assets/sprites/igglybuff/front.gif)
 
 Ability (Complete):
 
@@ -5727,6 +6075,8 @@ Level Up:
 ```
 
 **#175 - Togepi**
+
+![Togepi](../assets/sprites/togepi/front.gif)
 
 Ability:
 
@@ -5767,6 +6117,8 @@ Level Up:
 ```
 
 **#176 - Togetic**
+
+![Togetic](../assets/sprites/togetic/front.gif)
 
 Ability:
 
@@ -5809,6 +6161,8 @@ Level Up:
 
 **#177 - Natu**
 
+![Natu](../assets/sprites/natu/front.gif)
+
 Level Up:
 
 ```
@@ -5832,6 +6186,8 @@ Level Up:
 ```
 
 **#178 - Xatu**
+
+![Xatu](../assets/sprites/xatu/front.gif)
 
 Moves:
 
@@ -5866,6 +6222,8 @@ Level Up:
 
 **#179 - Mareep**
 
+![Mareep](../assets/sprites/mareep/front.gif)
+
 Level Up:
 
 ```
@@ -5889,6 +6247,8 @@ Level Up:
 
 **#180 - Flaaffy**
 
+![Flaaffy](../assets/sprites/flaaffy/front.gif)
+
 Level Up:
 
 ```
@@ -5911,6 +6271,8 @@ Level Up:
 ```
 
 **#181 - Ampharos**
+
+![Ampharos](../assets/sprites/ampharos/front.gif)
 
 Moves:
 
@@ -5956,6 +6318,8 @@ Level Up:
 
 **#182 - Bellossom**
 
+![Bellossom](../assets/sprites/bellossom/front.gif)
+
 Ability (Complete):
 
 ```
@@ -5989,6 +6353,8 @@ Level Up:
 ```
 
 **#183 - Marill**
+
+![Marill](../assets/sprites/marill/front.gif)
 
 Ability:
 
@@ -6028,6 +6394,8 @@ Level Up:
 ```
 
 **#184 - Azumarill**
+
+![Azumarill](../assets/sprites/azumarill/front.gif)
 
 Ability:
 
@@ -6077,6 +6445,8 @@ Level Up:
 
 **#185 - Sudowoodo**
 
+![Sudowoodo](../assets/sprites/sudowoodo/front.gif)
+
 Ability:
 
 ```
@@ -6118,6 +6488,8 @@ Level Up:
 
 **#186 - Politoed**
 
+![Politoed](../assets/sprites/politoed/front.gif)
+
 Ability:
 
 ```
@@ -6140,6 +6512,8 @@ Level Up:
 ```
 
 **#187 - Hoppip**
+
+![Hoppip](../assets/sprites/hoppip/front.gif)
 
 Base Stats (Complete):
 
@@ -6176,6 +6550,8 @@ Level Up:
 
 **#188 - Skiploom**
 
+![Skiploom](../assets/sprites/skiploom/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -6210,6 +6586,8 @@ Level Up:
 ```
 
 **#189 - Jumpluff**
+
+![Jumpluff](../assets/sprites/jumpluff/front.gif)
 
 Base Stats (Complete):
 
@@ -6253,6 +6631,8 @@ Level Up:
 
 **#190 - Aipom**
 
+![Aipom](../assets/sprites/aipom/front.gif)
+
 Level Up:
 
 ```
@@ -6278,6 +6658,8 @@ Level Up:
 ```
 
 **#191 - Sunkern**
+
+![Sunkern](../assets/sprites/sunkern/front.gif)
 
 Level Up:
 
@@ -6305,6 +6687,8 @@ Level Up:
 ```
 
 **#192 - Sunflora**
+
+![Sunflora](../assets/sprites/sunflora/front.gif)
 
 Base Stats (Complete):
 
@@ -6341,6 +6725,8 @@ Level Up:
 
 **#193 - Yanma**
 
+![Yanma](../assets/sprites/yanma/front.gif)
+
 Moves:
 
 ```
@@ -6373,6 +6759,8 @@ Level Up:
 ```
 
 **#194 - Wooper**
+
+![Wooper](../assets/sprites/wooper/front.gif)
 
 Ability:
 
@@ -6414,6 +6802,8 @@ Level Up:
 
 **#195 - Quagsire**
 
+![Quagsire](../assets/sprites/quagsire/front.gif)
+
 Ability:
 
 ```
@@ -6454,6 +6844,8 @@ Level Up:
 
 **#196 - Espeon**
 
+![Espeon](../assets/sprites/espeon/front.gif)
+
 Level Up:
 
 ```
@@ -6479,6 +6871,8 @@ Level Up:
 ```
 
 **#197 - Umbreon**
+
+![Umbreon](../assets/sprites/umbreon/front.gif)
 
 Moves:
 
@@ -6511,6 +6905,8 @@ Level Up:
 ```
 
 **#198 - Murkrow**
+
+![Murkrow](../assets/sprites/murkrow/front.gif)
 
 Ability:
 
@@ -6548,6 +6944,8 @@ Level Up:
 
 **#199 - Slowking**
 
+![Slowking](../assets/sprites/slowking/front.gif)
+
 Moves:
 
 ```
@@ -6581,6 +6979,8 @@ Level Up:
 ```
 
 **#200 - Misdreavus**
+
+![Misdreavus](../assets/sprites/misdreavus/front.gif)
 
 Type (Complete):
 
@@ -6616,6 +7016,8 @@ Level Up:
 
 **#201 - Unown**
 
+![Unown](../assets/sprites/unown/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -6644,6 +7046,8 @@ Level Up:
 
 **#202 - Wobbuffet**
 
+![Wobbuffet](../assets/sprites/wobbuffet/front.gif)
+
 Level Up:
 
 ```
@@ -6657,6 +7061,8 @@ Level Up:
 ```
 
 **#203 - Girafarig**
+
+![Girafarig](../assets/sprites/girafarig/front.gif)
 
 Level Up:
 
@@ -6684,6 +7090,8 @@ Level Up:
 ```
 
 **#204 - Pineco**
+
+![Pineco](../assets/sprites/pineco/front.gif)
 
 Moves:
 
@@ -6715,6 +7123,8 @@ Level Up:
 ```
 
 **#205 - Forretress**
+
+![Forretress](../assets/sprites/forretress/front.gif)
 
 Moves:
 
@@ -6750,6 +7160,8 @@ Level Up:
 
 **#206 - Dunsparce**
 
+![Dunsparce](../assets/sprites/dunsparce/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -6784,6 +7196,8 @@ Level Up:
 ```
 
 **#207 - Gligar**
+
+![Gligar](../assets/sprites/gligar/front.gif)
 
 Ability:
 
@@ -6824,6 +7238,8 @@ Level Up:
 
 **#208 - Steelix**
 
+![Steelix](../assets/sprites/steelix/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -6859,6 +7275,8 @@ Level Up:
 
 **#209 - Snubbull**
 
+![Snubbull](../assets/sprites/snubbull/front.gif)
+
 Level Up:
 
 ```
@@ -6885,6 +7303,8 @@ Level Up:
 ```
 
 **#210 - Granbull**
+
+![Granbull](../assets/sprites/granbull/front.gif)
 
 Level Up:
 
@@ -6913,6 +7333,8 @@ Level Up:
 ```
 
 **#211 - Qwilfish**
+
+![Qwilfish](../assets/sprites/qwilfish/front.gif)
 
 Ability:
 
@@ -6955,6 +7377,8 @@ Level Up:
 
 **#212 - Scizor**
 
+![Scizor](../assets/sprites/scizor/front.gif)
+
 Ability:
 
 ```
@@ -6996,6 +7420,8 @@ Level Up:
 
 **#213 - Shuckle**
 
+![Shuckle](../assets/sprites/shuckle/front.gif)
+
 Moves:
 
 ```
@@ -7026,6 +7452,8 @@ Level Up:
 ```
 
 **#214 - Heracross**
+
+![Heracross](../assets/sprites/heracross/front.gif)
 
 Ability (Complete):
 
@@ -7075,6 +7503,8 @@ Level Up:
 
 **#215 - Sneasel**
 
+![Sneasel](../assets/sprites/sneasel/front.gif)
+
 Ability (Complete):
 
 ```
@@ -7106,6 +7536,8 @@ Level Up:
 
 **#216 - Teddiursa**
 
+![Teddiursa](../assets/sprites/teddiursa/front.gif)
+
 Level Up:
 
 ```
@@ -7134,6 +7566,8 @@ Level Up:
 
 **#217 - Ursaring**
 
+![Ursaring](../assets/sprites/ursaring/front.gif)
+
 Level Up:
 
 ```
@@ -7161,6 +7595,8 @@ Level Up:
 ```
 
 **#218 - Slugma**
+
+![Slugma](../assets/sprites/slugma/front.gif)
 
 Base Stats (Complete):
 
@@ -7199,6 +7635,8 @@ Level Up:
 ```
 
 **#219 - Magcargo**
+
+![Magcargo](../assets/sprites/magcargo/front.gif)
 
 Ability (Complete):
 
@@ -7239,6 +7677,8 @@ Level Up:
 
 **#220 - Swinub**
 
+![Swinub](../assets/sprites/swinub/front.gif)
+
 Ability:
 
 ```
@@ -7270,6 +7710,8 @@ Level Up:
 ```
 
 **#221 - Piloswine**
+
+![Piloswine](../assets/sprites/piloswine/front.gif)
 
 Ability:
 
@@ -7305,6 +7747,8 @@ Level Up:
 
 **#222 - Corsola**
 
+![Corsola](../assets/sprites/corsola/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -7339,6 +7783,8 @@ Level Up:
 
 **#223 - Remoraid**
 
+![Remoraid](../assets/sprites/remoraid/front.gif)
+
 Level Up:
 
 ```
@@ -7362,6 +7808,8 @@ Level Up:
 ```
 
 **#224 - Octillery**
+
+![Octillery](../assets/sprites/octillery/front.gif)
 
 Level Up:
 
@@ -7390,6 +7838,8 @@ Level Up:
 ```
 
 **#225 - Delibird**
+
+![Delibird](../assets/sprites/delibird/front.gif)
 
 Ability (Complete):
 
@@ -7444,6 +7894,8 @@ Level Up:
 
 **#226 - Mantine**
 
+![Mantine](../assets/sprites/mantine/front.gif)
+
 Moves:
 
 ```
@@ -7479,6 +7931,8 @@ Level Up:
 
 **#227 - Skarmory**
 
+![Skarmory](../assets/sprites/skarmory/front.gif)
+
 Moves:
 
 ```
@@ -7513,6 +7967,8 @@ Level Up:
 
 **#228 - Houndour**
 
+![Houndour](../assets/sprites/houndour/front.gif)
+
 Ability (Complete):
 
 ```
@@ -7542,6 +7998,8 @@ Level Up:
 ```
 
 **#229 - Houndoom**
+
+![Houndoom](../assets/sprites/houndoom/front.gif)
 
 Ability (Complete):
 
@@ -7574,6 +8032,8 @@ Level Up:
 
 **#230 - Kingdra**
 
+![Kingdra](../assets/sprites/kingdra/front.gif)
+
 Level Up:
 
 ```
@@ -7600,6 +8060,8 @@ Level Up:
 ```
 
 **#231 - Phanpy**
+
+![Phanpy](../assets/sprites/phanpy/front.gif)
 
 Ability:
 
@@ -7633,6 +8095,8 @@ Level Up:
 ```
 
 **#232 - Donphan**
+
+![Donphan](../assets/sprites/donphan/front.gif)
 
 Ability:
 
@@ -7669,6 +8133,8 @@ Level Up:
 
 **#233 - Porygon2**
 
+![Porygon2](../assets/sprites/porygon2/front.gif)
+
 Evolution:
 
 ```
@@ -7702,6 +8168,8 @@ Level Up:
 
 **#234 - Stantler**
 
+![Stantler](../assets/sprites/stantler/front.gif)
+
 Level Up:
 
 ```
@@ -7728,6 +8196,8 @@ Level Up:
 ```
 
 **#235 - Smeargle**
+
+![Smeargle](../assets/sprites/smeargle/front.gif)
 
 Ability:
 
@@ -7763,6 +8233,8 @@ Level Up:
 
 **#236 - Tyrogue**
 
+![Tyrogue](../assets/sprites/tyrogue/front.gif)
+
 Ability:
 
 ```
@@ -7783,6 +8255,8 @@ Level Up:
 ```
 
 **#237 - Hitmontop**
+
+![Hitmontop](../assets/sprites/hitmontop/front.gif)
 
 Ability:
 
@@ -7814,6 +8288,8 @@ Level Up:
 ```
 
 **#238 - Smoochum**
+
+![Smoochum](../assets/sprites/smoochum/front.gif)
 
 Ability:
 
@@ -7855,6 +8331,8 @@ Level Up:
 
 **#239 - Elekid**
 
+![Elekid](../assets/sprites/elekid/front.gif)
+
 Ability:
 
 ```
@@ -7885,6 +8363,8 @@ Level Up:
 ```
 
 **#240 - Magby**
+
+![Magby](../assets/sprites/magby/front.gif)
 
 Ability:
 
@@ -7917,6 +8397,8 @@ Level Up:
 
 **#241 - Miltank**
 
+![Miltank](../assets/sprites/miltank/front.gif)
+
 Level Up:
 
 ```
@@ -7938,6 +8420,8 @@ Level Up:
 ```
 
 **#242 - Blissey**
+
+![Blissey](../assets/sprites/blissey/front.gif)
 
 Ability:
 
@@ -7974,6 +8458,8 @@ Level Up:
 
 **#243 - Raikou**
 
+![Raikou](../assets/sprites/raikou/front.gif)
+
 Ability:
 
 ```
@@ -8005,6 +8491,8 @@ Level Up:
 
 **#244 - Entei**
 
+![Entei](../assets/sprites/entei/front.gif)
+
 Ability:
 
 ```
@@ -8035,6 +8523,8 @@ Level Up:
 ```
 
 **#245 - Suicune**
+
+![Suicune](../assets/sprites/suicune/front.gif)
 
 Ability:
 
@@ -8073,6 +8563,8 @@ Level Up:
 
 **#246 - Larvitar**
 
+![Larvitar](../assets/sprites/larvitar/front.gif)
+
 Level Up:
 
 ```
@@ -8097,6 +8589,8 @@ Level Up:
 
 **#247 - Pupitar**
 
+![Pupitar](../assets/sprites/pupitar/front.gif)
+
 Level Up:
 
 ```
@@ -8120,6 +8614,8 @@ Level Up:
 ```
 
 **#248 - Tyranitar**
+
+![Tyranitar](../assets/sprites/tyranitar/front.gif)
 
 Level Up:
 
@@ -8148,6 +8644,8 @@ Level Up:
 ```
 
 **#249 - Lugia**
+
+![Lugia](../assets/sprites/lugia/front.gif)
 
 Moves:
 
@@ -8178,6 +8676,8 @@ Level Up:
 
 **#250 - Ho-oh**
 
+![Ho-oh](../assets/sprites/ho-oh/front.gif)
+
 Moves:
 
 ```
@@ -8207,6 +8707,8 @@ Level Up:
 
 **#251 - Celebi**
 
+![Celebi](../assets/sprites/celebi/front.gif)
+
 Level Up:
 
 ```
@@ -8229,6 +8731,8 @@ Level Up:
 ```
 
 **#252 - Treecko**
+
+![Treecko](../assets/sprites/treecko/front.gif)
 
 Ability:
 
@@ -8260,6 +8764,8 @@ Level Up:
 
 **#253 - Grovyle**
 
+![Grovyle](../assets/sprites/grovyle/front.gif)
+
 Ability:
 
 ```
@@ -8290,6 +8796,8 @@ Level Up:
 ```
 
 **#254 - Sceptile**
+
+![Sceptile](../assets/sprites/sceptile/front.gif)
 
 Ability:
 
@@ -8346,6 +8854,8 @@ Level Up:
 
 **#255 - Torchic**
 
+![Torchic](../assets/sprites/torchic/front.gif)
+
 Ability:
 
 ```
@@ -8376,6 +8886,8 @@ Level Up:
 ```
 
 **#256 - Combusken**
+
+![Combusken](../assets/sprites/combusken/front.gif)
 
 Ability:
 
@@ -8408,6 +8920,8 @@ Level Up:
 ```
 
 **#257 - Blaziken**
+
+![Blaziken](../assets/sprites/blaziken/front.gif)
 
 Ability:
 
@@ -8451,6 +8965,8 @@ Level Up:
 
 **#258 - Mudkip**
 
+![Mudkip](../assets/sprites/mudkip/front.gif)
+
 Ability:
 
 ```
@@ -8480,6 +8996,8 @@ Level Up:
 ```
 
 **#259 - Marshtomp**
+
+![Marshtomp](../assets/sprites/marshtomp/front.gif)
 
 Ability:
 
@@ -8512,6 +9030,8 @@ Level Up:
 ```
 
 **#260 - Swampert**
+
+![Swampert](../assets/sprites/swampert/front.gif)
 
 Ability:
 
@@ -8548,6 +9068,8 @@ Level Up:
 
 **#261 - Poochyena**
 
+![Poochyena](../assets/sprites/poochyena/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -8577,6 +9099,8 @@ Level Up:
 ```
 
 **#262 - Mightyena**
+
+![Mightyena](../assets/sprites/mightyena/front.gif)
 
 Base Stats (Complete):
 
@@ -8613,6 +9137,8 @@ Level Up:
 
 **#263 - Zigzagoon**
 
+![Zigzagoon](../assets/sprites/zigzagoon/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -8648,6 +9174,8 @@ Level Up:
 ```
 
 **#264 - Linoone**
+
+![Linoone](../assets/sprites/linoone/front.gif)
 
 Base Stats (Complete):
 
@@ -8689,6 +9217,8 @@ Level Up:
 
 **#265 - Wurmple**
 
+![Wurmple](../assets/sprites/wurmple/front.gif)
+
 Ability:
 
 ```
@@ -8707,6 +9237,8 @@ Level Up:
 
 **#266 - Silcoon**
 
+![Silcoon](../assets/sprites/silcoon/front.gif)
+
 Ability:
 
 ```
@@ -8723,6 +9255,8 @@ Level Up:
 ```
 
 **#267 - Beautifly**
+
+![Beautifly](../assets/sprites/beautifly/front.gif)
 
 Ability;
 
@@ -8769,6 +9303,8 @@ Level Up:
 
 **#268 - Cascoon**
 
+![Cascoon](../assets/sprites/cascoon/front.gif)
+
 Ability:
 
 ```
@@ -8785,6 +9321,8 @@ Level Up:
 ```
 
 **#269 - Dustox**
+
+![Dustox](../assets/sprites/dustox/front.gif)
 
 Ability;
 
@@ -8831,6 +9369,8 @@ Level Up:
 
 **#270 - Lotad**
 
+![Lotad](../assets/sprites/lotad/front.gif)
+
 Level Up:
 
 ```
@@ -8850,6 +9390,8 @@ Level Up:
 ```
 
 **#271 - Lombre**
+
+![Lombre](../assets/sprites/lombre/front.gif)
 
 Level Up:
 
@@ -8874,6 +9416,8 @@ Level Up:
 
 **#272 - Ludicolo**
 
+![Ludicolo](../assets/sprites/ludicolo/front.gif)
+
 Level Up:
 
 ```
@@ -8886,6 +9430,8 @@ Level Up:
 ```
 
 **#273 - Seedot**
+
+![Seedot](../assets/sprites/seedot/front.gif)
 
 Level Up:
 
@@ -8902,6 +9448,8 @@ Level Up:
 ```
 
 **#274 - Nuzleaf**
+
+![Nuzleaf](../assets/sprites/nuzleaf/front.gif)
 
 Level Up:
 
@@ -8923,6 +9471,8 @@ Level Up:
 
 **#275 - Shiftry**
 
+![Shiftry](../assets/sprites/shiftry/front.gif)
+
 Moves:
 
 ```
@@ -8943,6 +9493,8 @@ Level Up:
 ```
 
 **#276 - Taillow**
+
+![Taillow](../assets/sprites/taillow/front.gif)
 
 Ability:
 
@@ -8977,6 +9529,8 @@ Level Up:
 ```
 
 **#277 - Swellow**
+
+![Swellow](../assets/sprites/swellow/front.gif)
 
 Ability:
 
@@ -9021,6 +9575,8 @@ Level Up:
 
 **#278 - Wingull**
 
+![Wingull](../assets/sprites/wingull/front.gif)
+
 Ability:
 
 ```
@@ -9056,6 +9612,8 @@ Level Up:
 ```
 
 **#279 - Pelipper**
+
+![Pelipper](../assets/sprites/pelipper/front.gif)
 
 Ability:
 
@@ -9105,6 +9663,8 @@ Level Up:
 
 **#280 - Ralts**
 
+![Ralts](../assets/sprites/ralts/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -9135,6 +9695,8 @@ Level Up:
 ```
 
 **#281 - Kirlia**
+
+![Kirlia](../assets/sprites/kirlia/front.gif)
 
 Base Stats (Complete):
 
@@ -9167,6 +9729,8 @@ Level Up:
 
 **#282 - Gardevoir**
 
+![Gardevoir](../assets/sprites/gardevoir/front.gif)
+
 Level Up:
 
 ```
@@ -9192,6 +9756,8 @@ Level Up:
 ```
 
 **#283 - Surskit**
+
+![Surskit](../assets/sprites/surskit/front.gif)
 
 Base Stats (Complete):
 
@@ -9229,6 +9795,8 @@ Level Up:
 ```
 
 **#284 - Masquerain**
+
+![Masquerain](../assets/sprites/masquerain/front.gif)
 
 Base Stats (Complete):
 
@@ -9281,6 +9849,8 @@ Level Up:
 
 **#285 - Shroomish**
 
+![Shroomish](../assets/sprites/shroomish/front.gif)
+
 Ability:
 
 ```
@@ -9311,6 +9881,8 @@ Level Up:
 ```
 
 **#286 - Breloom**
+
+![Breloom](../assets/sprites/breloom/front.gif)
 
 Ability:
 
@@ -9351,6 +9923,8 @@ Level Up:
 
 **#287 - Slakoth**
 
+![Slakoth](../assets/sprites/slakoth/front.gif)
+
 Level Up:
 
 ```
@@ -9370,6 +9944,8 @@ Level Up:
 ```
 
 **#288 - Vigoroth**
+
+![Vigoroth](../assets/sprites/vigoroth/front.gif)
 
 Level Up:
 
@@ -9391,6 +9967,8 @@ Level Up:
 ```
 
 **#289 - Slaking**
+
+![Slaking](../assets/sprites/slaking/front.gif)
 
 Level Up:
 
@@ -9415,6 +9993,8 @@ Level Up:
 ```
 
 **#290 - Nincada**
+
+![Nincada](../assets/sprites/nincada/front.gif)
 
 Moves:
 
@@ -9442,6 +10022,8 @@ Level Up:
 ```
 
 **#291 - Ninjask**
+
+![Ninjask](../assets/sprites/ninjask/front.gif)
 
 Moves:
 
@@ -9477,6 +10059,8 @@ Level Up:
 
 **#292 - Shedinja**
 
+![Shedinja](../assets/sprites/shedinja/front.gif)
+
 Moves:
 
 ```
@@ -9505,6 +10089,8 @@ Level Up:
 ```
 
 **#293 - Whismur**
+
+![Whismur](../assets/sprites/whismur/front.gif)
 
 Ability (Complete):
 
@@ -9542,6 +10128,8 @@ Level Up:
 
 **#294 - Loudred**
 
+![Loudred](../assets/sprites/loudred/front.gif)
+
 Ability:
 
 ```
@@ -9577,6 +10165,8 @@ Level Up:
 ```
 
 **#295 - Exploud**
+
+![Exploud](../assets/sprites/exploud/front.gif)
 
 Ability:
 
@@ -9619,6 +10209,8 @@ Level Up:
 
 **#296 - Makuhita**
 
+![Makuhita](../assets/sprites/makuhita/front.gif)
+
 Level Up:
 
 ```
@@ -9644,6 +10236,8 @@ Level Up:
 ```
 
 **#297 - Hariyama**
+
+![Hariyama](../assets/sprites/hariyama/front.gif)
 
 Level Up:
 
@@ -9671,6 +10265,8 @@ Level Up:
 ```
 
 **#298 - Azurill**
+
+![Azurill](../assets/sprites/azurill/front.gif)
 
 Ability:
 
@@ -9711,6 +10307,8 @@ Level Up:
 
 **#299 - Nosepass**
 
+![Nosepass](../assets/sprites/nosepass/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -9742,6 +10340,8 @@ Level Up:
 ```
 
 **#300 - Skitty**
+
+![Skitty](../assets/sprites/skitty/front.gif)
 
 Base Stats (Complete):
 
@@ -9778,6 +10378,8 @@ Level Up:
 
 **#301 - Delcatty**
 
+![Delcatty](../assets/sprites/delcatty/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -9799,6 +10401,8 @@ Level Up:
 ```
 
 **#302 - Sableye**
+
+![Sableye](../assets/sprites/sableye/front.gif)
 
 Ability (Complete):
 
@@ -9841,6 +10445,8 @@ Level Up:
 ```
 
 **#303 - Mawile**
+
+![Mawile](../assets/sprites/mawile/front.gif)
 
 Ability (Complete):
 
@@ -9891,6 +10497,8 @@ Level Up:
 
 **#304 - Aron**
 
+![Aron](../assets/sprites/aron/front.gif)
+
 Ability:
 
 ```
@@ -9928,6 +10536,8 @@ Level Up:
 ```
 
 **#305 - Lairon**
+
+![Lairon](../assets/sprites/lairon/front.gif)
 
 Ability:
 
@@ -9967,6 +10577,8 @@ Level Up:
 
 **#306 - Aggron**
 
+![Aggron](../assets/sprites/aggron/front.gif)
+
 Ability:
 
 ```
@@ -10001,6 +10613,8 @@ Level Up:
 ```
 
 **#307 - Meditite**
+
+![Meditite](../assets/sprites/meditite/front.gif)
 
 Base Stats (Complete):
 
@@ -10040,6 +10654,8 @@ Level Up:
 
 **#308 - Medicham**
 
+![Medicham](../assets/sprites/medicham/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -10075,6 +10691,8 @@ Level Up:
 
 **#309 - Electrike**
 
+![Electrike](../assets/sprites/electrike/front.gif)
+
 Level Up:
 
 ```
@@ -10101,6 +10719,8 @@ Level Up:
 
 **#310 - Manectric**
 
+![Manectric](../assets/sprites/manectric/front.gif)
+
 Level Up:
 
 ```
@@ -10126,6 +10746,8 @@ Level Up:
 ```
 
 **#311 - Plusle**
+
+![Plusle](../assets/sprites/plusle/front.gif)
 
 Ability:
 
@@ -10167,6 +10789,8 @@ Level Up:
 
 **#312 - Minun**
 
+![Minun](../assets/sprites/minun/front.gif)
+
 Ability:
 
 ```
@@ -10206,6 +10830,8 @@ Level Up:
 ```
 
 **#313 - Volbeat**
+
+![Volbeat](../assets/sprites/volbeat/front.gif)
 
 Ability:
 
@@ -10260,6 +10886,8 @@ Level Up:
 
 **#314 - Illumise**
 
+![Illumise](../assets/sprites/illumise/front.gif)
+
 Ability:
 
 ```
@@ -10313,6 +10941,8 @@ Level Up:
 
 **#315 - Roselia**
 
+![Roselia](../assets/sprites/roselia/front.gif)
+
 Ability:
 
 ```
@@ -10348,6 +10978,8 @@ Level Up:
 
 **#316 - Gulpin**
 
+![Gulpin](../assets/sprites/gulpin/front.gif)
+
 Level Up:
 
 ```
@@ -10371,6 +11003,8 @@ Level Up:
 ```
 
 **#317 - Swalot**
+
+![Swalot](../assets/sprites/swalot/front.gif)
 
 Level Up:
 
@@ -10398,6 +11032,8 @@ Level Up:
 ```
 
 **#318 - Carvanha**
+
+![Carvanha](../assets/sprites/carvanha/front.gif)
 
 Ability:
 
@@ -10429,6 +11065,8 @@ Level Up:
 ```
 
 **#319 - Sharpedo**
+
+![Sharpedo](../assets/sprites/sharpedo/front.gif)
 
 Ability:
 
@@ -10465,6 +11103,8 @@ Level Up:
 
 **#320 - Wailmer**
 
+![Wailmer](../assets/sprites/wailmer/front.gif)
+
 Evolution:
 
 ```
@@ -10498,6 +11138,8 @@ Level Up:
 
 **#321 - Wailord**
 
+![Wailord](../assets/sprites/wailord/front.gif)
+
 Level Up:
 
 ```
@@ -10524,6 +11166,8 @@ Level Up:
 ```
 
 **#322 - Numel**
+
+![Numel](../assets/sprites/numel/front.gif)
 
 Ability:
 
@@ -10553,6 +11197,8 @@ Level Up:
 ```
 
 **#323 - Camerupt**
+
+![Camerupt](../assets/sprites/camerupt/front.gif)
 
 Ability:
 
@@ -10585,6 +11231,8 @@ Level Up:
 ```
 
 **#324 - Torkoal**
+
+![Torkoal](../assets/sprites/torkoal/front.gif)
 
 Ability
 
@@ -10619,6 +11267,8 @@ Level Up:
 
 **#325 - Spoink**
 
+![Spoink](../assets/sprites/spoink/front.gif)
+
 Level Up:
 
 ```
@@ -10644,6 +11294,8 @@ Level Up:
 ```
 
 **#326 - Grumpig**
+
+![Grumpig](../assets/sprites/grumpig/front.gif)
 
 Level Up:
 
@@ -10671,6 +11323,8 @@ Level Up:
 ```
 
 **#327 - Spinda**
+
+![Spinda](../assets/sprites/spinda/front.gif)
 
 Base Stats (Complete):
 
@@ -10706,6 +11360,8 @@ Level Up:
 ```
 
 **#328 - Trapinch**
+
+![Trapinch](../assets/sprites/trapinch/front.gif)
 
 Ability:
 
@@ -10760,6 +11416,8 @@ Level Up:
 ```
 
 **#329 - Vibrava**
+
+![Vibrava](../assets/sprites/vibrava/front.gif)
 
 Ability (Complete):
 
@@ -10820,6 +11478,8 @@ Level Up:
 ```
 
 **#330 - Flygon**
+
+![Flygon](../assets/sprites/flygon/front.gif)
 
 Ability (Complete):
 
@@ -10884,6 +11544,8 @@ Level Up:
 
 **#331 - Cacnea**
 
+![Cacnea](../assets/sprites/cacnea/front.gif)
+
 Ability:
 
 ```
@@ -10917,6 +11579,8 @@ Level Up:
 ```
 
 **#332 - Cacturne**
+
+![Cacturne](../assets/sprites/cacturne/front.gif)
 
 Ability:
 
@@ -10952,6 +11616,8 @@ Level Up:
 ```
 
 **#333 - Swablu**
+
+![Swablu](../assets/sprites/swablu/front.gif)
 
 Ability:
 
@@ -11004,6 +11670,8 @@ Level Up:
 ```
 
 **#334 - Altaria**
+
+![Altaria](../assets/sprites/altaria/front.gif)
 
 Ability:
 
@@ -11060,6 +11728,8 @@ Level Up:
 
 **#335 - Zangoose**
 
+![Zangoose](../assets/sprites/zangoose/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -11092,6 +11762,8 @@ Level Up:
 ```
 
 **#336 - Seviper**
+
+![Seviper](../assets/sprites/seviper/front.gif)
 
 Base Stats (Complete):
 
@@ -11132,6 +11804,8 @@ Level Up:
 
 **#337 - Lunatone**
 
+![Lunatone](../assets/sprites/lunatone/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -11164,6 +11838,8 @@ Level Up:
 
 **#338 - Solrock**
 
+![Solrock](../assets/sprites/solrock/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -11195,6 +11871,8 @@ Level Up:
 
 **#339 - Barboach**
 
+![Barboach](../assets/sprites/barboach/front.gif)
+
 Level Up:
 
 ```
@@ -11219,6 +11897,8 @@ Level Up:
 ```
 
 **#340 - Whiscash**
+
+![Whiscash](../assets/sprites/whiscash/front.gif)
 
 Level Up:
 
@@ -11247,6 +11927,8 @@ Level Up:
 ```
 
 **#341 - Corphish**
+
+![Corphish](../assets/sprites/corphish/front.gif)
 
 Ability:
 
@@ -11280,6 +11962,8 @@ Level Up:
 ```
 
 **#342 - Crawdaunt**
+
+![Crawdaunt](../assets/sprites/crawdaunt/front.gif)
 
 Ability:
 
@@ -11315,6 +11999,8 @@ Level Up:
 
 **#343 - Baltoy**
 
+![Baltoy](../assets/sprites/baltoy/front.gif)
+
 Evolution:
 
 ```
@@ -11345,6 +12031,8 @@ Level Up:
 ```
 
 **#344 - Claydol**
+
+![Claydol](../assets/sprites/claydol/front.gif)
 
 Moves:
 
@@ -11379,6 +12067,8 @@ Level Up:
 ```
 
 **#345 - Lileep**
+
+![Lileep](../assets/sprites/lileep/front.gif)
 
 Ability:
 
@@ -11418,6 +12108,8 @@ Level Up:
 
 **#346 - Cradily**
 
+![Cradily](../assets/sprites/cradily/front.gif)
+
 Ability:
 
 ```
@@ -11450,6 +12142,8 @@ Level Up:
 ```
 
 **#347 - Anorith**
+
+![Anorith](../assets/sprites/anorith/front.gif)
 
 Ability:
 
@@ -11494,6 +12188,8 @@ Level Up:
 
 **#348 - Armaldo**
 
+![Armaldo](../assets/sprites/armaldo/front.gif)
+
 Ability:
 
 ```
@@ -11533,6 +12229,8 @@ Level Up:
 
 **#349 - Feebas**
 
+![Feebas](../assets/sprites/feebas/front.gif)
+
 Ability:
 
 ```
@@ -11556,6 +12254,8 @@ Level Up:
 ```
 
 **#350 - Milotic**
+
+![Milotic](../assets/sprites/milotic/front.gif)
 
 Ability:
 
@@ -11605,6 +12305,8 @@ Level Up:
 
 **#351 - Castform**
 
+![Castform](../assets/sprites/castform/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -11637,6 +12339,8 @@ Level Up:
 ```
 
 **#352 - Kecleon**
+
+![Kecleon](../assets/sprites/kecleon/front.gif)
 
 Base Stats (Complete):
 
@@ -11673,6 +12377,8 @@ Level Up:
 
 **#353 - Shuppet**
 
+![Shuppet](../assets/sprites/shuppet/front.gif)
+
 Evolution:
 
 ```
@@ -11703,6 +12409,8 @@ Level Up:
 ```
 
 **#354 - Banette**
+
+![Banette](../assets/sprites/banette/front.gif)
 
 Base Stats (Complete):
 
@@ -11736,6 +12444,8 @@ Level Up:
 ```
 
 **#355 - Duskull**
+
+![Duskull](../assets/sprites/duskull/front.gif)
 
 Ability (Complete):
 
@@ -11778,6 +12488,8 @@ Level Up:
 ```
 
 **#356 - Dusclops**
+
+![Dusclops](../assets/sprites/dusclops/front.gif)
 
 Ability (Complete):
 
@@ -11826,6 +12538,8 @@ Level Up:
 ```
 
 **#357 - Tropius**
+
+![Tropius](../assets/sprites/tropius/front.gif)
 
 Base Experience (Complete):
 
@@ -11876,6 +12590,8 @@ Level Up:
 
 **#358 - Chimecho**
 
+![Chimecho](../assets/sprites/chimecho/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -11908,6 +12624,8 @@ Level Up:
 ```
 
 **#359 - Absol**
+
+![Absol](../assets/sprites/absol/front.gif)
 
 Ability:
 
@@ -11951,6 +12669,8 @@ Level Up:
 
 **#360 - Wynaut**
 
+![Wynaut](../assets/sprites/wynaut/front.gif)
+
 Level Up:
 
 ```
@@ -11964,6 +12684,8 @@ Level Up:
 ```
 
 **#361 - Snorunt**
+
+![Snorunt](../assets/sprites/snorunt/front.gif)
 
 Evolution:
 
@@ -11993,6 +12715,8 @@ Level Up:
 ```
 
 **#362 - Glalie**
+
+![Glalie](../assets/sprites/glalie/front.gif)
 
 Ability (Complete):
 
@@ -12054,6 +12778,8 @@ Level Up:
 
 **#363 - Spheal**
 
+![Spheal](../assets/sprites/spheal/front.gif)
+
 Evolution:
 
 ```
@@ -12084,6 +12810,8 @@ Level Up:
 ```
 
 **#364 - Sealeo**
+
+![Sealeo](../assets/sprites/sealeo/front.gif)
 
 Evolution:
 
@@ -12117,6 +12845,8 @@ Level Up:
 
 **#365 - Walrein**
 
+![Walrein](../assets/sprites/walrein/front.gif)
+
 Level Up:
 
 ```
@@ -12144,6 +12874,8 @@ Level Up:
 ```
 
 **#366 - Clamperl**
+
+![Clamperl](../assets/sprites/clamperl/front.gif)
 
 Ability (Complete):
 
@@ -12179,6 +12911,8 @@ Level Up:
 
 **#367 - Huntail**
 
+![Huntail](../assets/sprites/huntail/front.gif)
+
 Ability:
 
 ```
@@ -12209,6 +12943,8 @@ Level Up:
 
 **#368 - Gorebyss**
 
+![Gorebyss](../assets/sprites/gorebyss/front.gif)
+
 Ability:
 
 ```
@@ -12238,6 +12974,8 @@ Level Up:
 ```
 
 **#369 - Relicanth**
+
+![Relicanth](../assets/sprites/relicanth/front.gif)
 
 Ability:
 
@@ -12273,6 +13011,8 @@ Level Up:
 ```
 
 **#370 - Luvdisc**
+
+![Luvdisc](../assets/sprites/luvdisc/front.gif)
 
 Ability:
 
@@ -12326,6 +13066,8 @@ Level Up:
 
 **#371 - Bagon**
 
+![Bagon](../assets/sprites/bagon/front.gif)
+
 Level Up:
 
 ```
@@ -12351,6 +13093,8 @@ Level Up:
 
 **#372 - Shelgon**
 
+![Shelgon](../assets/sprites/shelgon/front.gif)
+
 Level Up:
 
 ```
@@ -12375,6 +13119,8 @@ Level Up:
 ```
 
 **#373 - Salamence**
+
+![Salamence](../assets/sprites/salamence/front.gif)
 
 Moves:
 
@@ -12410,6 +13156,8 @@ Level Up:
 
 **#374 - Beldum**
 
+![Beldum](../assets/sprites/beldum/front.gif)
+
 Ability (Complete):
 
 ```
@@ -12435,6 +13183,8 @@ Level Up:
 ```
 
 **#375 - Metang**
+
+![Metang](../assets/sprites/metang/front.gif)
 
 Ability (Complete):
 
@@ -12480,6 +13230,8 @@ Level Up:
 ```
 
 **#376 - Metagross**
+
+![Metagross](../assets/sprites/metagross/front.gif)
 
 Ability (Complete):
 
@@ -12529,6 +13281,8 @@ Level Up:
 
 **#377 - Regirock**
 
+![Regirock](../assets/sprites/regirock/front.gif)
+
 Level Up:
 
 ```
@@ -12552,6 +13306,8 @@ Level Up:
 
 **#378 - Regice**
 
+![Regice](../assets/sprites/regice/front.gif)
+
 Level Up:
 
 ```
@@ -12574,6 +13330,8 @@ Level Up:
 ```
 
 **#379 - Registeel**
+
+![Registeel](../assets/sprites/registeel/front.gif)
 
 Level Up:
 
@@ -12600,6 +13358,8 @@ Level Up:
 
 **#380 - Latias**
 
+![Latias](../assets/sprites/latias/front.gif)
+
 Level Up:
 
 ```
@@ -12622,6 +13382,8 @@ Level Up:
 ```
 
 **#381 - Latios**
+
+![Latios](../assets/sprites/latios/front.gif)
 
 Level Up:
 
@@ -12646,6 +13408,8 @@ Level Up:
 
 **#382 - Kyogre**
 
+![Kyogre](../assets/sprites/kyogre/front.gif)
+
 Level Up:
 
 ```
@@ -12666,6 +13430,8 @@ Level Up:
 ```
 
 **#383 - Groudon**
+
+![Groudon](../assets/sprites/groudon/front.gif)
 
 Level Up:
 
@@ -12688,6 +13454,8 @@ Level Up:
 
 **#384 - Rayquaza**
 
+![Rayquaza](../assets/sprites/rayquaza/front.gif)
+
 Level Up:
 
 ```
@@ -12707,6 +13475,8 @@ Level Up:
 ```
 
 **#385 - Jirachi**
+
+![Jirachi](../assets/sprites/jirachi/front.gif)
 
 Level Up:
 
@@ -12732,6 +13502,8 @@ Level Up:
 ```
 
 **#386 - Deoxys**
+
+![Deoxys](../assets/sprites/deoxys-normal/front.gif)
 
 Level Up (Normal Forme):
 
@@ -12813,6 +13585,8 @@ Level Up (Speed Forme):
 
 **#387 - Turtwig**
 
+![Turtwig](../assets/sprites/turtwig/front.gif)
+
 Ability:
 
 ```
@@ -12841,6 +13615,8 @@ Level Up:
 ```
 
 **#388 - Grotle**
+
+![Grotle](../assets/sprites/grotle/front.gif)
 
 Ability:
 
@@ -12871,6 +13647,8 @@ Level Up:
 ```
 
 **#389 - Torterra**
+
+![Torterra](../assets/sprites/torterra/front.gif)
 
 Ability:
 
@@ -12913,6 +13691,8 @@ Level Up:
 
 **#390 - Chimchar**
 
+![Chimchar](../assets/sprites/chimchar/front.gif)
+
 Ability:
 
 ```
@@ -12941,6 +13721,8 @@ Level Up:
 ```
 
 **#391 - Monferno**
+
+![Monferno](../assets/sprites/monferno/front.gif)
 
 Ability:
 
@@ -12977,6 +13759,8 @@ Level Up:
 ```
 
 **#392 - Infernape**
+
+![Infernape](../assets/sprites/infernape/front.gif)
 
 Ability:
 
@@ -13024,6 +13808,8 @@ Level Up:
 
 **#393 - Piplup**
 
+![Piplup](../assets/sprites/piplup/front.gif)
+
 Ability (Complete):
 
 ```
@@ -13052,6 +13838,8 @@ Level Up:
 ```
 
 **#394 - Prinplup**
+
+![Prinplup](../assets/sprites/prinplup/front.gif)
 
 Ability (Complete):
 
@@ -13082,6 +13870,8 @@ Level Up:
 ```
 
 **#395 - Empoleon**
+
+![Empoleon](../assets/sprites/empoleon/front.gif)
 
 Ability (Complete):
 
@@ -13124,6 +13914,8 @@ Level Up:
 
 **#396 - Starly**
 
+![Starly](../assets/sprites/starly/front.gif)
+
 Ability:
 
 ```
@@ -13159,6 +13951,8 @@ Level Up:
 
 **#397 - Staravia**
 
+![Staravia](../assets/sprites/staravia/front.gif)
+
 Ability:
 
 ```
@@ -13193,6 +13987,8 @@ Level Up:
 ```
 
 **#398 - Staraptor**
+
+![Staraptor](../assets/sprites/staraptor/front.gif)
 
 Ability:
 
@@ -13232,6 +14028,8 @@ Level Up:
 
 **#399 - Bidoof**
 
+![Bidoof](../assets/sprites/bidoof/front.gif)
+
 Moves:
 
 ```
@@ -13260,6 +14058,8 @@ Level Up:
 ```
 
 **#400 - Bibarel**
+
+![Bibarel](../assets/sprites/bibarel/front.gif)
 
 Base Stats (Complete):
 
@@ -13299,6 +14099,8 @@ Level Up:
 
 **#401 - Kricketot**
 
+![Kricketot](../assets/sprites/kricketot/front.gif)
+
 Ability:
 
 ```
@@ -13323,6 +14125,8 @@ Level Up:
 ```
 
 **#402 - Kricketune**
+
+![Kricketune](../assets/sprites/kricketune/front.gif)
 
 Ability:
 
@@ -13372,6 +14176,8 @@ Level Up:
 
 **#403 - Shinx**
 
+![Shinx](../assets/sprites/shinx/front.gif)
+
 Ability:
 
 ```
@@ -13404,6 +14210,8 @@ Level Up:
 
 **#404 - Luxio**
 
+![Luxio](../assets/sprites/luxio/front.gif)
+
 Ability:
 
 ```
@@ -13435,6 +14243,8 @@ Level Up:
 ```
 
 **#405 - Luxray**
+
+![Luxray](../assets/sprites/luxray/front.gif)
 
 Ability:
 
@@ -13482,6 +14292,8 @@ Level Up:
 
 **#406 - Budew**
 
+![Budew](../assets/sprites/budew/front.gif)
+
 Ability:
 
 ```
@@ -13517,6 +14329,8 @@ Level Up:
 
 **#407 - Roserade**
 
+![Roserade](../assets/sprites/roserade/front.gif)
+
 Ability:
 
 ```
@@ -13536,6 +14350,8 @@ Level Up:
 ```
 
 **#408 - Cranidos**
+
+![Cranidos](../assets/sprites/cranidos/front.gif)
 
 Ability (Complete):
 
@@ -13567,6 +14383,8 @@ Level Up:
 ```
 
 **#409 - Rampardos**
+
+![Rampardos](../assets/sprites/rampardos/front.gif)
 
 Ability (Complete):
 
@@ -13600,6 +14418,8 @@ Level Up:
 ```
 
 **#410 - Shieldon**
+
+![Shieldon](../assets/sprites/shieldon/front.gif)
 
 Ability:
 
@@ -13638,6 +14458,8 @@ Level Up:
 ```
 
 **#411 - Bastiodon**
+
+![Bastiodon](../assets/sprites/bastiodon/front.gif)
 
 Ability:
 
@@ -13679,6 +14501,8 @@ Level Up:
 
 **#412 - Burmy**
 
+![Burmy](../assets/sprites/burmy/front.gif)
+
 Ability (Complete):
 
 ```
@@ -13710,6 +14534,8 @@ Level Up:
 ```
 
 **#413 - Wormadam**
+
+![Wormadam](../assets/sprites/wormadam-plant/front.gif)
 
 Ability (Complete):
 
@@ -13821,6 +14647,8 @@ Level Up (Trash Cloak):
 
 **#414 - Mothim**
 
+![Mothim](../assets/sprites/mothim/front.gif)
+
 Ability:
 
 ```
@@ -13865,6 +14693,8 @@ Level Up:
 
 **#415 - Combee**
 
+![Combee](../assets/sprites/combee/front.gif)
+
 Ability:
 
 ```
@@ -13888,6 +14718,8 @@ Level Up:
 ```
 
 **#416 - Vespiquen**
+
+![Vespiquen](../assets/sprites/vespiquen/front.gif)
 
 Ability (Complete):
 
@@ -13931,6 +14763,8 @@ Level Up:
 
 **#417 - Pachirisu**
 
+![Pachirisu](../assets/sprites/pachirisu/front.gif)
+
 Ability:
 
 ```
@@ -13970,6 +14804,8 @@ Level Up:
 
 **#418 - Buizel**
 
+![Buizel](../assets/sprites/buizel/front.gif)
+
 Ability:
 
 ```
@@ -13998,6 +14834,8 @@ Level Up:
 ```
 
 **#419 - Floatzel**
+
+![Floatzel](../assets/sprites/floatzel/front.gif)
 
 Ability:
 
@@ -14029,6 +14867,8 @@ Level Up:
 
 **#420 - Cherubi**
 
+![Cherubi](../assets/sprites/cherubi/front.gif)
+
 Level Up:
 
 ```
@@ -14050,6 +14890,8 @@ Level Up:
 ```
 
 **#421 - Cherrim**
+
+![Cherrim](../assets/sprites/cherrim/front.gif)
 
 Base Stats (Complete):
 
@@ -14082,6 +14924,8 @@ Level Up:
 
 **#422 - Shellos**
 
+![Shellos](../assets/sprites/shellos/front.gif)
+
 Level Up:
 
 ```
@@ -14105,6 +14949,8 @@ Level Up:
 ```
 
 **#423 - Gastrodon**
+
+![Gastrodon](../assets/sprites/gastrodon/front.gif)
 
 Level Up:
 
@@ -14131,6 +14977,8 @@ Level Up:
 
 **#424 - Ambipom**
 
+![Ambipom](../assets/sprites/ambipom/front.gif)
+
 Level Up:
 
 ```
@@ -14156,6 +15004,8 @@ Level Up:
 ```
 
 **#425 - Drifloon**
+
+![Drifloon](../assets/sprites/drifloon/front.gif)
 
 Ability:
 
@@ -14194,6 +15044,8 @@ Level Up:
 ```
 
 **#426 - Drifblim**
+
+![Drifblim](../assets/sprites/drifblim/front.gif)
 
 Ability:
 
@@ -14235,6 +15087,8 @@ Level Up:
 
 **#427 - Buneary**
 
+![Buneary](../assets/sprites/buneary/front.gif)
+
 Ability:
 
 ```
@@ -14266,6 +15120,8 @@ Level Up:
 ```
 
 **#428 - Lopunny**
+
+![Lopunny](../assets/sprites/lopunny/front.gif)
 
 Ability (Complete):
 
@@ -14323,6 +15179,8 @@ Level Up:
 
 **#429 - Mismagius**
 
+![Mismagius](../assets/sprites/mismagius/front.gif)
+
 Type (Complete):
 
 ```
@@ -14346,6 +15204,8 @@ Level Up:
 ```
 
 **#430 - Honchkrow**
+
+![Honchkrow](../assets/sprites/honchkrow/front.gif)
 
 Ability:
 
@@ -14376,6 +15236,8 @@ Level Up:
 ```
 
 **#431 - Glameow**
+
+![Glameow](../assets/sprites/glameow/front.gif)
 
 Base Stats (Complete):
 
@@ -14416,6 +15278,8 @@ Level Up:
 
 **#432 - Purugly**
 
+![Purugly](../assets/sprites/purugly/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -14449,6 +15313,8 @@ Level Up:
 ```
 
 **#433 - Chingling**
+
+![Chingling](../assets/sprites/chingling/front.gif)
 
 Base Stats (Complete):
 
@@ -14485,6 +15351,8 @@ Level Up:
 ```
 
 **#434 - Stunky**
+
+![Stunky](../assets/sprites/stunky/front.gif)
 
 Ability:
 
@@ -14533,6 +15401,8 @@ Level Up:
 
 **#435 - Skuntank**
 
+![Skuntank](../assets/sprites/skuntank/front.gif)
+
 Ability:
 
 ```
@@ -14575,6 +15445,8 @@ Level Up:
 
 **#436 - Bronzor**
 
+![Bronzor](../assets/sprites/bronzor/front.gif)
+
 Level Up:
 
 ```
@@ -14598,6 +15470,8 @@ Level Up:
 ```
 
 **#437 - Bronzong**
+
+![Bronzong](../assets/sprites/bronzong/front.gif)
 
 Moves:
 
@@ -14631,6 +15505,8 @@ Level Up:
 ```
 
 **#438 - Bonsly**
+
+![Bonsly](../assets/sprites/bonsly/front.gif)
 
 Ability:
 
@@ -14668,6 +15544,8 @@ Level Up:
 ```
 
 **#439 - Mime Jr.**
+
+![Mime Jr.](../assets/sprites/mime-jr/front.gif)
 
 Ability:
 
@@ -14710,6 +15588,8 @@ Level Up:
 
 **#440 - Happiny**
 
+![Happiny](../assets/sprites/happiny/front.gif)
+
 Ability:
 
 ```
@@ -14736,6 +15616,8 @@ Level Up:
 ```
 
 **#441 - Chatot**
+
+![Chatot](../assets/sprites/chatot/front.gif)
 
 Ability (Complete):
 
@@ -14783,6 +15665,8 @@ Level Up:
 
 **#442 - Spiritomb**
 
+![Spiritomb](../assets/sprites/spiritomb/front.gif)
+
 Level Up:
 
 ```
@@ -14807,6 +15691,8 @@ Level Up:
 ```
 
 **#443 - Gible**
+
+![Gible](../assets/sprites/gible/front.gif)
 
 Ability:
 
@@ -14840,6 +15726,8 @@ Level Up:
 
 **#444 - Gabite**
 
+![Gabite](../assets/sprites/gabite/front.gif)
+
 Ability:
 
 ```
@@ -14870,6 +15758,8 @@ Level Up:
 ```
 
 **#445 - Garchomp**
+
+![Garchomp](../assets/sprites/garchomp/front.gif)
 
 Ability:
 
@@ -14911,6 +15801,8 @@ Level Up:
 
 **#446 - Munchlax**
 
+![Munchlax](../assets/sprites/munchlax/front.gif)
+
 Ability:
 
 ```
@@ -14944,6 +15836,8 @@ Level Up:
 
 **#447 - Riolu**
 
+![Riolu](../assets/sprites/riolu/front.gif)
+
 Evolution:
 
 ```
@@ -14970,6 +15864,8 @@ Level Up:
 ```
 
 **#448 - Lucario**
+
+![Lucario](../assets/sprites/lucario/front.gif)
 
 Ability (Complete):
 
@@ -15006,6 +15902,8 @@ Level Up:
 
 **#449 - Hippopotas**
 
+![Hippopotas](../assets/sprites/hippopotas/front.gif)
+
 Level Up:
 
 ```
@@ -15028,6 +15926,8 @@ Level Up:
 ```
 
 **#450 - Hippowdon**
+
+![Hippowdon](../assets/sprites/hippowdon/front.gif)
 
 Level Up:
 
@@ -15054,6 +15954,8 @@ Level Up:
 ```
 
 **#451 - Skorupi**
+
+![Skorupi](../assets/sprites/skorupi/front.gif)
 
 Ability:
 
@@ -15098,6 +16000,8 @@ Level Up:
 
 **#452 - Drapion**
 
+![Drapion](../assets/sprites/drapion/front.gif)
+
 Ability:
 
 ```
@@ -15137,6 +16041,8 @@ Level Up:
 ```
 
 **#453 - Croagunk**
+
+![Croagunk](../assets/sprites/croagunk/front.gif)
 
 Ability:
 
@@ -15183,6 +16089,8 @@ Level Up:
 
 **#454 - Toxicroak**
 
+![Toxicroak](../assets/sprites/toxicroak/front.gif)
+
 Ability:
 
 ```
@@ -15222,6 +16130,8 @@ Level Up:
 ```
 
 **#455 - Carnivine**
+
+![Carnivine](../assets/sprites/carnivine/front.gif)
 
 Base Stats (Complete):
 
@@ -15263,6 +16173,8 @@ Level Up:
 
 **#456 - Finneon**
 
+![Finneon](../assets/sprites/finneon/front.gif)
+
 Base Stats (Complete):
 
 ```
@@ -15299,6 +16211,8 @@ Level Up:
 ```
 
 **#457 - Lumineon**
+
+![Lumineon](../assets/sprites/lumineon/front.gif)
 
 Base Stats (Complete):
 
@@ -15340,6 +16254,8 @@ Level Up:
 
 **#458 - Mantyke**
 
+![Mantyke](../assets/sprites/mantyke/front.gif)
+
 Level Up:
 
 ```
@@ -15364,6 +16280,8 @@ Level Up:
 ```
 
 **#459 - Snover**
+
+![Snover](../assets/sprites/snover/front.gif)
 
 Ability:
 
@@ -15396,6 +16314,8 @@ Level Up:
 
 **#460 - Abomasnow**
 
+![Abomasnow](../assets/sprites/abomasnow/front.gif)
+
 Ability:
 
 ```
@@ -15427,6 +16347,8 @@ Level Up:
 ```
 
 **#461 - Weavile**
+
+![Weavile](../assets/sprites/weavile/front.gif)
 
 Ability (Complete):
 
@@ -15463,6 +16385,8 @@ Level Up:
 
 **#462 - Magnezone**
 
+![Magnezone](../assets/sprites/magnezone/front.gif)
+
 Moves:
 
 ```
@@ -15497,6 +16421,8 @@ Level Up:
 
 **#463 - Lickilicky**
 
+![Lickilicky](../assets/sprites/lickilicky/front.gif)
+
 Level Up:
 
 ```
@@ -15524,6 +16450,8 @@ Level Up:
 ```
 
 **#464 - Rhyperior**
+
+![Rhyperior](../assets/sprites/rhyperior/front.gif)
 
 Ability:
 
@@ -15560,6 +16488,8 @@ Level Up:
 
 **#465 - Tangrowth**
 
+![Tangrowth](../assets/sprites/tangrowth/front.gif)
+
 Level Up:
 
 ```
@@ -15586,6 +16516,8 @@ Level Up:
 ```
 
 **#466 - Electivire**
+
+![Electivire](../assets/sprites/electivire/front.gif)
 
 Ability:
 
@@ -15635,6 +16567,8 @@ Level Up:
 
 **#467 - Magmortar**
 
+![Magmortar](../assets/sprites/magmortar/front.gif)
+
 Ability:
 
 ```
@@ -15669,6 +16603,8 @@ Level Up:
 
 **#468 - Togekiss**
 
+![Togekiss](../assets/sprites/togekiss/front.gif)
+
 Ability:
 
 ```
@@ -15694,6 +16630,8 @@ Level Up:
 ```
 
 **#469 - Yanmega**
+
+![Yanmega](../assets/sprites/yanmega/front.gif)
 
 Moves:
 
@@ -15731,6 +16669,8 @@ Level Up:
 
 **#470 - Leafeon**
 
+![Leafeon](../assets/sprites/leafeon/front.gif)
+
 Moves:
 
 ```
@@ -15763,6 +16703,8 @@ Level Up:
 ```
 
 **#471 - Glaceon**
+
+![Glaceon](../assets/sprites/glaceon/front.gif)
 
 Base Stats (Complete):
 
@@ -15804,6 +16746,8 @@ Level Up:
 ```
 
 **#472 - Gliscor**
+
+![Gliscor](../assets/sprites/gliscor/front.gif)
 
 Ability:
 
@@ -15848,6 +16792,8 @@ Level Up:
 
 **#473 - Mamoswine**
 
+![Mamoswine](../assets/sprites/mamoswine/front.gif)
+
 Ability:
 
 ```
@@ -15883,6 +16829,8 @@ Level Up:
 
 **#474 - Porygon-Z**
 
+![Porygon-Z](../assets/sprites/porygon-z/front.gif)
+
 Level Up:
 
 ```
@@ -15911,6 +16859,8 @@ Level Up:
 
 **#475 - Gallade**
 
+![Gallade](../assets/sprites/gallade/front.gif)
+
 Level Up:
 
 ```
@@ -15935,6 +16885,8 @@ Level Up:
 ```
 
 **#476 - Probopass**
+
+![Probopass](../assets/sprites/probopass/front.gif)
 
 Base Stats (Complete):
 
@@ -15970,6 +16922,8 @@ Level Up:
 ```
 
 **#477 - Dusknoir**
+
+![Dusknoir](../assets/sprites/dusknoir/front.gif)
 
 Ability (Complete):
 
@@ -16019,6 +16973,8 @@ Level Up:
 
 **#478 - Froslass**
 
+![Froslass](../assets/sprites/froslass/front.gif)
+
 Ability (Complete):
 
 ```
@@ -16059,6 +17015,8 @@ Level Up:
 ```
 
 **#479 - Rotom**
+
+![Rotom](../assets/sprites/rotom/front.gif)
 
 Ability (Fan Rotom) (Complete):
 
@@ -16107,6 +17065,8 @@ Level Up:
 
 **#480 - Uxie**
 
+![Uxie](../assets/sprites/uxie/front.gif)
+
 Type (Complete):
 
 ```
@@ -16135,6 +17095,8 @@ Level Up:
 ```
 
 **#481 - Mesprit**
+
+![Mesprit](../assets/sprites/mesprit/front.gif)
 
 Type (Complete):
 
@@ -16165,6 +17127,8 @@ Level Up:
 
 **#482 - Azelf**
 
+![Azelf](../assets/sprites/azelf/front.gif)
+
 Type (Complete):
 
 ```
@@ -16194,6 +17158,8 @@ Level Up:
 
 **#483 - Dialga**
 
+![Dialga](../assets/sprites/dialga/front.gif)
+
 Level Up:
 
 ```
@@ -16215,6 +17181,8 @@ Level Up:
 
 **#484 - Palkia**
 
+![Palkia](../assets/sprites/palkia/front.gif)
+
 Level Up:
 
 ```
@@ -16235,6 +17203,8 @@ Level Up:
 ```
 
 **#485 - Heatran**
+
+![Heatran](../assets/sprites/heatran/front.gif)
 
 Ability:
 
@@ -16264,6 +17234,8 @@ Level Up:
 
 **#486 - Regigigas**
 
+![Regigigas](../assets/sprites/regigigas/front.gif)
+
 Level Up:
 
 ```
@@ -16286,6 +17258,8 @@ Level Up:
 ```
 
 **#487 - Giratina**
+
+![Giratina](../assets/sprites/giratina-altered/front.gif)
 
 Held Item:
 
@@ -16314,6 +17288,8 @@ Level Up:
 
 **#488 - Cresselia**
 
+![Cresselia](../assets/sprites/cresselia/front.gif)
+
 Level Up:
 
 ```
@@ -16336,6 +17312,8 @@ Level Up:
 
 **#489 - Phione**
 
+![Phione](../assets/sprites/phione/front.gif)
+
 Level Up:
 
 ```
@@ -16356,6 +17334,8 @@ Level Up:
 ```
 
 **#490 - Manaphy**
+
+![Manaphy](../assets/sprites/manaphy/front.gif)
 
 Level Up:
 
@@ -16380,6 +17360,8 @@ Level Up:
 
 **#491 - Darkrai**
 
+![Darkrai](../assets/sprites/darkrai/front.gif)
+
 Level Up:
 
 ```
@@ -16403,6 +17385,8 @@ Level Up:
 ```
 
 **#492 - Shaymin**
+
+![Shaymin](../assets/sprites/shaymin-land/front.gif)
 
 Level Up (Land Forme):
 
@@ -16443,6 +17427,8 @@ Level Up (Sky Forme):
 ```
 
 **#493 - Arceus**
+
+![Arceus](../assets/sprites/arceus/front.gif)
 
 Moves:
 

@@ -1,5 +1,6 @@
 from dotenv import load_dotenv
-from util.file import load, save
+from util.file import load, save, verify_asset_path
+from util.format import find_pokemon_sprite
 from util.logger import Logger
 import logging
 import os
@@ -37,6 +38,8 @@ def main():
         elif next_line.startswith("="):
             if " - " in line:
                 md += f"**#{line}**\n\n"
+                pokemon = line.split(" - ")[1]
+                md += find_pokemon_sprite(pokemon, "front", logger) + "\n\n"
             else:
                 md += f"\n---\n\n## {line}\n\n"
         elif line.startswith("- "):

@@ -24,6 +24,10 @@ Level: 1
 
 **#1 Bulbasaur, #4 Charmander, #7 Squirtle**
 
+![Bulbasaur](../assets/sprites/bulbasaur/front.gif)
+![Charmander](../assets/sprites/charmander/front.gif)
+![Squirtle](../assets/sprites/squirtle/front.gif)
+
 ```
 Location: Jubilife City Pokémon Center
 Level: 5
@@ -38,6 +42,8 @@ Level: 5
 
 **#131 Lapras**
 
+![Lapras](../assets/sprites/lapras/front.gif)
+
 ```
 Location: Pastoria City
 Level: 35
@@ -47,6 +53,8 @@ Level: 35
 1. She'll give you a Lapras after she finishes.
 
 **#133 Eevee**
+
+![Eevee](../assets/sprites/eevee/front.gif)
 
 ```
 Location: Twinleaf Town
@@ -59,6 +67,8 @@ Level: 5
 
 **#137 Porygon**
 
+![Porygon](../assets/sprites/porygon/front.gif)
+
 ```
 Location: Eterna Galactic Building
 Level: 22
@@ -68,6 +78,14 @@ Level: 22
 1. Interact with the Poké Ball behind her to get Porygon.
 
 **#138 Omanyte, #140 Kabuto, #142 Aerodactyl, #345 Lileep, #347 Anorith, #408 Cranidos, #410 Shieldon**
+
+![Omanyte](../assets/sprites/omanyte/front.gif)
+![Kabuto](../assets/sprites/kabuto/front.gif)
+![Aerodactyl](../assets/sprites/aerodactyl/front.gif)
+![Lileep](../assets/sprites/lileep/front.gif)
+![Anorith](../assets/sprites/anorith/front.gif)
+![Cranidos](../assets/sprites/cranidos/front.gif)
+![Shieldon](../assets/sprites/shieldon/front.gif)
 
 ```
 Location: Eterna City
@@ -79,6 +97,10 @@ Level: 20
 1. Take the fossils to the museum in Oreburgh City to revive them.
 
 **#152 Chikorita, #155 Cyndaquil, #158 Totodile**
+
+![Chikorita](../assets/sprites/chikorita/front.gif)
+![Cyndaquil](../assets/sprites/cyndaquil/front.gif)
+![Totodile](../assets/sprites/totodile/front.gif)
 
 ```
 Location: Floaroma Town Pokémon Center
@@ -94,6 +116,10 @@ Level: 15
 
 **#252 Treecko, #255 Torchic, #258 Mudkip**
 
+![Treecko](../assets/sprites/treecko/front.gif)
+![Torchic](../assets/sprites/torchic/front.gif)
+![Mudkip](../assets/sprites/mudkip/front.gif)
+
 ```
 Location: Oreburgh City Pokémon Center
 Level: 10
@@ -108,6 +134,8 @@ Level: 10
 
 **#374 Beldum**
 
+![Beldum](../assets/sprites/beldum/front.gif)
+
 ```
 Location: Oreburgh City
 Level: 10
@@ -117,6 +145,10 @@ Level: 10
 1. Talk to Steven and he'll offer you a Beldum.
 
 **#387 Turtwig, #390 Chimchar, #393 Piplup**
+
+![Turtwig](../assets/sprites/turtwig/front.gif)
+![Chimchar](../assets/sprites/chimchar/front.gif)
+![Piplup](../assets/sprites/piplup/front.gif)
 
 ```
 Location: Sandgem Town
@@ -135,6 +167,8 @@ Level: 5
 
 **#94 Gengar**
 
+![Gengar](../assets/sprites/gengar/front.gif)
+
 ```
 Location: Old Chateau
 Level: 20
@@ -146,6 +180,8 @@ Level: 20
 
 **#442 Spiritomb**
 
+![Spiritomb](../assets/sprites/spiritomb/front.gif)
+
 ```
 Location: Route 209
 Level: 30
@@ -155,6 +191,8 @@ Level: 30
 1. Talk to the broken stone tower to encounter Spiritomb.
 
 **#444 Gabite**
+
+![Gabite](../assets/sprites/gabite/front.gif)
 
 ```
 Location: Wayward Cave
@@ -166,6 +204,8 @@ Level: 25
 1. This event can only be performed once.
 
 **#479 Rotom**
+
+![Rotom](../assets/sprites/rotom/front.gif)
 
 ```
 Location: Old Chateau
@@ -182,6 +222,8 @@ Level: 20
 
 **#144 Articuno**
 
+![Articuno](../assets/sprites/articuno/front.gif)
+
 ```
 Location: Mt. Coronet (Summit)
 Level: 60
@@ -194,6 +236,8 @@ Level: 60
 1. You can keep battling Articuno until you catch it.
 
 **#145 Zapdos**
+
+![Zapdos](../assets/sprites/zapdos/front.gif)
 
 ```
 Location: Valley Windworks
@@ -208,6 +252,8 @@ Level: 60
 
 **#146 Moltres**
 
+![Moltres](../assets/sprites/moltres/front.gif)
+
 ```
 Location: Victory Road
 Level: 60
@@ -220,6 +266,8 @@ Level: 60
 1. You can keep battling Moltres until you catch it.
 
 **#150 Mewtwo**
+
+![Mewtwo](../assets/sprites/mewtwo/front.gif)
 
 ```
 Location: Oreburgh Gate
@@ -234,6 +282,8 @@ Level: 70
 1. You can keep battling Mewtwo until you catch it.
 
 **#151 Mew**
+
+![Mew](../assets/sprites/mew/front.gif)
 
 ```
 Location: Route 201
@@ -253,6 +303,8 @@ Level: 40
 
 **#243 Raikou**
 
+![Raikou](../assets/sprites/raikou/front.gif)
+
 ```
 Location: Route 208
 Level: 60
@@ -265,6 +317,8 @@ Level: 60
 1. You can keep battling Raikou until you catch it.
 
 **#244 Entei**
+
+![Entei](../assets/sprites/entei/front.gif)
 
 ```
 Location: Route 211 (East)
@@ -279,6 +333,8 @@ Level: 60
 
 **#245 Suicune**
 
+![Suicune](../assets/sprites/suicune/front.gif)
+
 ```
 Location: Route 213
 Level: 60
@@ -291,6 +347,8 @@ Level: 60
 1. You can keep battling Suicune until you catch it.
 
 **#249 Lugia**
+
+![Lugia](../assets/sprites/lugia/front.gif)
 
 ```
 Location: Route 220
@@ -306,6 +364,8 @@ Level: 70
 1. You can keep battling Lugia until you catch it.
 
 **#250 Ho-oh**
+
+![Ho-oh](../assets/sprites/ho-oh/front.gif)
 
 ```
 Location: Lost Tower
@@ -323,6 +383,8 @@ Level: 70
 
 **#251 Celebi**
 
+![Celebi](../assets/sprites/celebi/front.gif)
+
 ```
 Location: Eterna Forest
 Level: 40
@@ -339,6 +401,8 @@ Level: 40
 
 **#377 Regirock**
 
+![Regirock](../assets/sprites/regirock/front.gif)
+
 ```
 Location: Route 228
 Level: 60
@@ -351,6 +415,8 @@ Level: 60
 1. You can exit and enter the room to encounter Regirock again until you catch it.
 
 **#378 Regice**
+
+![Regice](../assets/sprites/regice/front.gif)
 
 ```
 Location: Mt. Coronet (Route 216 Entrance)
@@ -365,6 +431,8 @@ Level: 60
 
 **#379 Registeel**
 
+![Registeel](../assets/sprites/registeel/front.gif)
+
 ```
 Location: Iron Island (B3F)
 Level: 60
@@ -377,6 +445,8 @@ Level: 60
 1. You can exit and enter the room to encounter Registeel again until you catch it.
 
 **#380 Latias**
+
+![Latias](../assets/sprites/latias/front.gif)
 
 ```
 Location: Fullmoon Island
@@ -391,6 +461,8 @@ Level: 68
 
 **#381 Latios**
 
+![Latios](../assets/sprites/latios/front.gif)
+
 ```
 Location: Fullmoon Island
 Level: 68
@@ -403,6 +475,8 @@ Level: 68
 1. You can pick "Blue" to battle Latios repeatedly until you catch it.
 
 **#382 Kyogre**
+
+![Kyogre](../assets/sprites/kyogre/front.gif)
 
 ```
 Location: Mt. Coronet (B1F)
@@ -419,6 +493,8 @@ Level: 70
 
 **#383 Groudon**
 
+![Groudon](../assets/sprites/groudon/front.gif)
+
 ```
 Location: Stark Mountain (Interior)
 Level: 70
@@ -433,6 +509,8 @@ Level: 70
 1. You can keep battling Groudon until you catch it.
 
 **#384 Rayquaza**
+
+![Rayquaza](../assets/sprites/rayquaza/front.gif)
 
 ```
 Location: Pokémon League
@@ -449,6 +527,8 @@ Level: 70
 
 **#385 Jirachi**
 
+![Jirachi](../assets/sprites/jirachi/front.gif)
+
 ```
 Location: Solaceon Ruins
 Level: 40
@@ -463,6 +543,8 @@ Level: 40
 
 **#386 Deoxys**
 
+![Deoxys](../assets/sprites/deoxys-normal/front.gif)
+
 ```
 Location: Veilstone City
 Level: 70
@@ -475,6 +557,8 @@ Level: 70
 1. You can exit from the meteor pit to encounter Deoxys repeatedly until you catch it.
 
 **#480 Uxie**
+
+![Uxie](../assets/sprites/uxie/front.gif)
 
 ```
 Location: Acuity Cavern
@@ -489,6 +573,8 @@ Level: 60
 
 **#481 Mesprit**
 
+![Mesprit](../assets/sprites/mesprit/front.gif)
+
 ```
 Location: Verity Cavern
 Level: 60
@@ -501,6 +587,8 @@ Level: 60
 1. You can keep battling Mesprit until you catch it.
 
 **#482 Azelf**
+
+![Azelf](../assets/sprites/azelf/front.gif)
 
 ```
 Location: Valor Cavern
@@ -515,6 +603,8 @@ Level: 60
 
 **#483 Dialga**
 
+![Dialga](../assets/sprites/dialga/front.gif)
+
 ```
 Location: Spear Pillar
 Level: 70
@@ -527,6 +617,8 @@ Level: 70
 1. If you defeat or run from Dialga, you will need to defeat the Elite Four to get it to appear again.
 
 **#484 Palkia**
+
+![Palkia](../assets/sprites/palkia/front.gif)
 
 ```
 Location: Spear Pillar
@@ -542,6 +634,8 @@ Level: 70
 
 **#485 Heatran**
 
+![Heatran](../assets/sprites/heatran/front.gif)
+
 ```
 Location: Stark Mountain (Furthest Room - Interior)
 Level: 68
@@ -556,6 +650,8 @@ Level: 68
 
 **#486 Regigigas**
 
+![Regigigas](../assets/sprites/regigigas/front.gif)
+
 ```
 Location: Snowpoint Temple (B6F)
 Level: 70
@@ -569,6 +665,8 @@ Level: 70
 
 **#487 Giratina**
 
+![Giratina](../assets/sprites/giratina-altered/front.gif)
+
 ```
 Location: Distortion World / Turnback Cave
 Level: 70
@@ -579,6 +677,8 @@ Level: 70
 1. If you defeat or run from Giratina in Turnback Cave, you will need to defeat the Elite Four to get it to appear again.
 
 **#488 Cresselia**
+
+![Cresselia](../assets/sprites/cresselia/front.gif)
 
 ```
 Location: Fullmoon Island
@@ -592,6 +692,8 @@ Level: 68
 
 **#489 Phione**
 
+![Phione](../assets/sprites/phione/front.gif)
+
 ```
 Location: N/A
 Level: N/A
@@ -602,6 +704,8 @@ Level: N/A
 
 **#490 Manaphy**
 
+![Manaphy](../assets/sprites/manaphy/front.gif)
+
 ```
 Location: Pokémon Mansion
 Level: N/A
@@ -611,6 +715,8 @@ Level: N/A
 1. Accept the Egg, then hatch it to get Manaphy.
 
 **#491 Darkrai**
+
+![Darkrai](../assets/sprites/darkrai/front.gif)
 
 ```
 Location: Newmoon Island
@@ -625,6 +731,8 @@ Level: 68
 1. You can fight Darkrai repeatedly by re-entering the house until you catch it.
 
 **#492 Shaymin**
+
+![Shaymin](../assets/sprites/shaymin-land/front.gif)
 
 ```
 Location: Flower Paradise
@@ -641,6 +749,8 @@ Level: 30
 1. You can fight Shaymin repeatedly by exiting and entering Flower Paradise until you catch it.
 
 **#493 Arceus**
+
+![Arceus](../assets/sprites/arceus/front.gif)
 
 ```
 Location: Hall of Origin

@@ -11,6 +11,7 @@
 You will be asked for a Ponyta in exchange for a Spheal.
 
 <pre><code><b>Gaia the Spheal</b>
+<img src="../../assets/sprites/spheal/front.gif" alt="Spheal">
 - <b>Item:</b> Never-Melt Ice
 - <b>IVs:</b> 31 HP / 31 Atk / 15 Def / 31 SAtk / 15 SDef / 15 Spd
 - <b>Nature:</b> Quiet
@@ -23,6 +24,7 @@ You will be asked for a Ponyta in exchange for a Spheal.
 You will be asked for a Cherubi in exchange for a Skorupi.
 
 <pre><code><b>Spike the Skorupi</b>
+<img src="../../assets/sprites/skorupi/front.gif" alt="Skorupi">
 - <b>Item:</b> Poison Barb
 - <b>IVs:</b> 15 HP / 31 Atk / 31 Def / 15 SAtk / 15 SDef / 31 Spd
 - <b>Nature:</b> Jolly
@@ -35,6 +37,7 @@ You will be asked for a Cherubi in exchange for a Skorupi.
 You will be asked for a Snorunt in exchange for a Chatot.
 
 <pre><code><b>Macaw the Chatot</b>
+<img src="../../assets/sprites/chatot/front.gif" alt="chatot">
 - <b>Item:</b> Sharp Beak
 - <b>IVs:</b> 15 HP / 15 Atk / 15 Def / 31 SAtk / 31 SDef / 31 Spd
 - <b>Nature:</b> Modest
@@ -47,6 +50,7 @@ You will be asked for a Snorunt in exchange for a Chatot.
 You will be asked for a Magikarp in exchange for a (German) Magikarp.
 
 <pre><code><b>Foppa the Magikarp</b>
+<img src="../../assets/sprites/magikarp/front.gif" alt="Magikarp">
 - <b>Item:</b> Starf Berry
 - <b>IVs:</b> 31 HP / 31 Atk / 31 Def / 31 SAtk / 31 SDef / 31 Spd
 - <b>Nature:</b> Adamant
