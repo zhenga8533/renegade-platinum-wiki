@@ -1,0 +1,55 @@
+site_name: Renegade Platinum Wiki
+site_url: https://zhenga8533.github.io/renegade-platinum-wiki/
+site_description: A fanmade wiki for the Pokémon Renegade Platinum ROM hack.
+site_author: Volcaronitee
+repo_url: https://github.com/zhenga8533/renegade-platinum-wiki
+
+theme:
+  name: material
+  favicon: assets/favicon.png
+  features:
+    - navigation.footer
+    - navigation.instant.progress
+    - navigation.prune
+    - navigation.tabs
+    - navigation.top
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+nav:
+  - Getting Started:
+      - Home: index.md
+      - Changelog: getting_started/changelog.md
+      - Download Links: getting_started/download_links.md
+      - FAQ: getting_started/frequently_asked_questions.md
+      - Patching Guide: getting_started/patching_guide.md
+      - Randomize: getting_started/randomize_instructions.md
+  - Mechanics:
+      - Action Replay Codes: mechanics/action_replay_codes.md
+      - Evolution Changes: mechanics/evolution_changes.md
+      - Item Changes: mechanics/item_changes.md
+      - Move Changes: mechanics/move_changes.md
+      - NPC Changes: mechanics/npc_changes.md
+      - Pokemon Changes: mechanics/pokemon_changes.md
+      - Special Events: mechanics/special_events.md
+      - Trade Changes: mechanics/trade_changes.md
+      - Trainer Pokemon: mechanics/trainer_pokemon.md
+      - Type Changes: mechanics/type_changes.md
+      - Wild Pokemon: mechanics/wild_pokemon.md

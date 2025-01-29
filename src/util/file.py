@@ -13,11 +13,10 @@ def save(file_path: str, content: str, logger: Logger) -> None:
     :return: None
     """
 
-    dirs = file_path.split("/")[:-1]
-    for dir in dirs:
-        if not os.path.exists(dir):
-            logger.log(logging.INFO, f"Creating directory: '{dir}'")
-            os.makedirs(dir)
+    dirs = file_path.rsplit("/", 1)[0]
+    if not os.path.exists(dirs):
+        os.makedirs(dirs)
+        logger.log(logging.INFO, f"Created directory '{dirs}'.")
 
     try:
         with open(file_path, "w", encoding="utf-8") as file:
