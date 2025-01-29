@@ -16,7 +16,8 @@ def parse_pokemon_set(line: str) -> str:
     pokemon = f"<b>{name}</b> @ {item}\n"
     pokemon += f"<b>Ability:</b> {ability}\n"
     pokemon += f"<b>Level:</b> {level}\n"
-    pokemon += f"<b>Nature:</b> {nature}\n"
+    if nature != "?":
+        pokemon += f"<b>Nature:</b> {nature}\n"
     pokemon += "<b>Moves:</b>\n"
     pokemon += "\n".join([f"{i}. {move}" for i, move in enumerate(moves, 1)])
 
@@ -70,12 +71,12 @@ def parse_trainers(trainers, rematches, important):
             if rivals[0] != "":
                 for i, starter in enumerate(["Turtwig", "Chimchar", "Piplup"]):
                     md += f'=== "{starter}"\n\n\t'
-                    md += "\n\t".join(f"<pre><code>{rivals[i] + base[:-8]}</code></pre>".split("\n"))
+                    md += "\n\t".join(f"<pre><code>{(rivals[i] + base)[:-8]}</code></pre>".split("\n"))
                     md += "\n\n"
             elif elite_four[0] != "":
                 for i, num in enumerate(["1", "2", "3", "4"]):
                     md += f'=== "{num}"\n\n\t'
-                    md += "\n\t".join(f"<pre><code>{base + elite_four[i][:-8]}</code></pre>".split("\n"))
+                    md += "\n\t".join(f"<pre><code>{(base + elite_four[i])[:-8]}</code></pre>".split("\n"))
                     md += "\n\n"
             else:
                 md += f"<pre><code>{base[:-8]}</code></pre>\n\n"

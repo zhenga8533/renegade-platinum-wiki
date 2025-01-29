@@ -76,5 +76,10 @@ echo "Updating Markdown files in docs"
 mkdir -p ../docs/mechanics
 mkdir -p ../docs/pokemon
 
-rsync -av --update $OUTPUT_PATH/ ../docs/mechanics/
+# Check for rsync
+if ! command -v rsync &> /dev/null; then
+  cp -r -f -u $OUTPUT_PATH/* ../docs/mechanics
+else
+  rsync -av --update $OUTPUT_PATH/ ../docs/mechanics/
+fi
 echo "Markdown files updated"
