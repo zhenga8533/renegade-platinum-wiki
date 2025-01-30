@@ -77,7 +77,6 @@ if ! [[ $OVERWRITE == "True" ]]; then
 fi
 
 echo "Updating Markdown files in docs"
-rm $OUTPUT_PATH/wild_nav.md
 
 mkdir -p ../docs/mechanics
 mkdir -p ../docs/pokemon
@@ -85,10 +84,10 @@ mkdir -p ../docs/wild_encounters
 
 # Check for rsync
 if ! command -v rsync &> /dev/null; then
-  cp -r -f -u $OUTPUT_PATH/* ../docs/mechanics
+  find "$OUTPUT_PATH" -maxdepth 1 -type f ! -name "wild_nav.md" -exec cp -r -f -u {} ../docs/mechanics \;
   cp -r -f -u $WILD_ENCOUNTER_PATH/* ../docs/wild_encounters
 else
-  rsync -av --update $OUTPUT_PATH/ ../docs/mechanics/
+  rsync -av --exclude='wild_nav.md' "$OUTPUT_PATH/" ../docs/mechanics
   rsync -av --update $WILD_ENCOUNTER_PATH/ ../docs/wild_encounters
 fi
 echo "Markdown files updated"

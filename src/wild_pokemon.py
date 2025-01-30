@@ -13,7 +13,7 @@ def get_encounter_class(encounter_type: str):
     if encounter_type == "Surf":
         return "Surfing"
     if encounter_type in ["Old Rod", "Good Rod", "Super Rod"]:
-        return "All Rods"
+        return "Fishing"
     return encounter_type
 
 
@@ -42,6 +42,7 @@ def main():
     levels = rod_levels.copy()
 
     curr_location = None
+    curr_encounter = None
     wild_encounters = {}
 
     # Parse data
@@ -59,6 +60,7 @@ def main():
             # Set wild encounters for the current location
             if "(" in line:
                 curr_location, section = line.split(" (", 1)
+                curr_encounter = None
                 wild_encounters[curr_location] = wild_encounters.get(curr_location, "")
                 wild_encounters[curr_location] += f"---\n\n## {section[:-1]}\n\n"
             else:
@@ -73,20 +75,25 @@ def main():
                 levels[encounter.rstrip(")")] = level
         elif "%" in line:
             encounter, pokemon = re.split(r"\s{2,}", line)
-            level = levels.get(get_encounter_class(encounter), levels.get(encounter, "?"))
+            encounter_class = get_encounter_class(encounter)
+            level = levels.get(encounter_class, levels.get(encounter, "?"))
             wild_pokemon = pokemon.split(", ")
 
             md += f"{encounter} (Lv. {level})\n\n```\n"
             md += "\n".join([f"{i}. {p}" for i, p in enumerate(wild_pokemon, 1)]) + "\n```\n\n"
 
-            wild_encounters[curr_location] += f"### {encounter}\n\n"
-            wild_encounters[curr_location] += f"| Sprite | Pokémon | Encounter Type | Level | Chance |\n"
-            wild_encounters[curr_location] += f"|:------:|---------|:--------------:|-------|--------|\n"
+            if curr_encounter != encounter_class:
+                wild_encounters[curr_location] += f"### {encounter_class}\n\n"
+                wild_encounters[curr_location] += f"| Sprite | Pokémon | Encounter Type | Level | Chance |\n"
+                wild_encounters[curr_location] += f"|:------:|---------|:--------------:|-------|--------|\n"
+                curr_encounter = encounter_class
+
             for wild in wild_pokemon:
                 pokemon, chance = wild.split(" (")
                 sprite = find_pokemon_sprite(pokemon, "front", logger).replace("../", "../../")
-                encounter_type = f"![{encounter}](../../assets/encounter_types/{format_id(encounter, symbol="_")}.png)"
+                encounter_type = f'![{encounter}](../../assets/encounter_types/{format_id(encounter, symbol="_")}.png "{encounter}")'
 
+                wild_encounters[curr_location] = wild_encounters[curr_location].rstrip() + "\n"
                 wild_encounters[curr_location] += f"| {sprite} | {pokemon} | "
                 wild_encounters[curr_location] += f"{encounter_type}{{: style='max-width: 24px;' }} | "
                 wild_encounters[curr_location] += f"{level} | {chance[:-1]} |\n"

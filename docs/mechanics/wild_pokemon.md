@@ -7,7 +7,7 @@
 1. The Old Rod and Good Rod are obtainable from the same places as before. The Super Rod is obtainable in Snowpoint City.
 1. Honey trees now respond with an encounter straight away after applying Honey.
 1. Please note that the shiny rate for Pokémon is 1/512 unless you chose to use the normal rate patch.
-1. Some Pokémon are only found when using the Poke Radar (these are listed as Poke Radar). These Pokémon may show up when you enter the patches with the yellow sparkles (NOT the shiny sparkles, that's something else!)
+1. Some Pokémon are only found when using the Poké Radar (these are listed as Poké Radar). These Pokémon may show up when you enter the patches with the yellow sparkles (NOT the shiny sparkles, that's something else!)
 
 ---
 
@@ -78,7 +78,7 @@ Night (Lv. 4 - 5)
 6. Nidoran F (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 4 - 5)
 
 ```
 1. Doduo (22%)
@@ -122,7 +122,7 @@ Night (Lv. 4 - 5)
 6. Wingull (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 4 - 5)
 
 ```
 1. Wynaut (22%)
@@ -194,7 +194,7 @@ Night (Lv. 5 - 6)
 7. Burmy (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 5 - 6)
 
 ```
 1. Houndour (22%)
@@ -244,7 +244,7 @@ Night (Lv. 6 - 7)
 8. Spinarak (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 6 - 7)
 
 ```
 1. Roselia (22%)
@@ -388,7 +388,7 @@ Night (Lv. 7 - 8)
 7. Abra (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 7 - 8)
 
 ```
 1. Pineco (22%)
@@ -549,7 +549,7 @@ Night (Lv. 9 - 10)
 5. Larvitar (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 9 - 10)
 
 ```
 1. Stantler (22%)
@@ -685,7 +685,7 @@ Night (Lv. 11 - 12)
 8. Spinarak (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 11 - 12)
 
 ```
 1. Roselia (22%)
@@ -729,7 +729,7 @@ Night (Lv. 11 - 13)
 6. Pachirisu (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 11 - 13)
 
 ```
 1. Plusle (11%)
@@ -829,7 +829,7 @@ Night (Lv. 11 - 13)
 5. Pachirisu (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 11 - 13)
 
 ```
 1. Plusle (11%)
@@ -918,7 +918,7 @@ Night (Lv. 14 - 16)
 7. Taillow (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 14 - 16)
 
 ```
 1. Beautifly (11%)
@@ -1015,7 +1015,7 @@ Night (Lv. 15 - 17)
 7. Illumise (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 15 - 17)
 
 ```
 1. Yanma (22%)
@@ -1133,7 +1133,7 @@ Night (Lv. 16 - 18)
 6. Chingling (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 16 - 18)
 
 ```
 1. Tyrogue (22%)
@@ -1224,7 +1224,7 @@ Night (Lv. 18 - 19)
 6. Bagon (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 18 - 19)
 
 ```
 1. Tyrogue (22%)
@@ -1442,7 +1442,7 @@ Night (Lv. 18 - 20)
 5. Sneasel (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 18 - 20)
 
 ```
 1. Delibird (22%)
@@ -1489,7 +1489,7 @@ Night (Lv. 20 - 22)
 7. Gligar (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 20 - 22)
 
 ```
 1. Torkoal (22%)
@@ -1669,7 +1669,7 @@ Night (Lv. 23 - 24)
 8. Smeargle (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 23 - 24)
 
 ```
 1. Dunsparce (22%)
@@ -1757,7 +1757,7 @@ Night (Lv. 24 - 26)
 7. Smeargle (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 24 - 26)
 
 ```
 1. Farfetch'd (22%)
@@ -1845,7 +1845,7 @@ Night (Lv. 24 - 26)
 8. Eevee (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 24 - 26)
 
 ```
 1. Castform (22%)
@@ -1895,7 +1895,7 @@ Night (Lv. 24 - 26)
 8. Chansey (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 24 - 26)
 
 ```
 1. Purugly (22%)
@@ -2050,7 +2050,7 @@ Night (Lv. 28 - 30)
 8. Rapidash (5%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 28 - 30)
 
 ```
 1. Kecleon (22%)
@@ -2109,7 +2109,7 @@ Night (Lv. 27 - 30)
 7. Hypno (5%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 27 - 30)
 
 ```
 1. Absol (22%)
@@ -2163,7 +2163,7 @@ Night (Lv. 28 - 32)
 6. Cacnea (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 28 - 32)
 
 ```
 1. Spinda (22%)
@@ -2283,7 +2283,7 @@ Night (Lv. 31 - 33)
 5. Kricketune (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 31 - 33)
 
 ```
 1. Venomoth (22%)
@@ -2326,7 +2326,7 @@ Night (Lv. 32 - 34)
 5. Shuckle (5%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 32 - 34)
 
 ```
 1. Absol (22%)
@@ -2661,7 +2661,7 @@ Night (Lv. 33 - 36)
 8. Toxicroak (5%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 33 - 36)
 
 ```
 1. Muk (11%)
@@ -2755,7 +2755,7 @@ Night (Lv. 34 - 38)
 8. Shelgon (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 34 - 38)
 
 ```
 1. Altaria (22%)
@@ -2957,7 +2957,7 @@ Night (Lv. 38 - 40)
 7. Dodrio (10%)
 ```
 
-Poke Radar  -
+Poké Radar  -
 
 Surf (Lv. 30 - 45)
 
@@ -3038,7 +3038,7 @@ Night (Lv. 36 - 40)
 5. Forretress (15%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 36 - 40)
 
 ```
 1. Weezing (22%)
@@ -3381,7 +3381,7 @@ Night (Lv. 44 - 48)
 7. Delibird (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 44 - 48)
 
 ```
 1. Froslass (22%)
@@ -3390,7 +3390,7 @@ Poke Radar (Lv. ?)
 
 ---
 
-## Acuity Lakefron
+## Acuity Lakefront
 
 Morning (Lv. 45 - 49)
 
@@ -3428,7 +3428,7 @@ Night (Lv. 45 - 49)
 7. Delibird (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 45 - 49)
 
 ```
 1. Froslass (22%)
@@ -3437,7 +3437,7 @@ Poke Radar (Lv. ?)
 
 ---
 
-## Snowpoint Templ
+## Snowpoint Temple
 
 Morning (Lv. 47 - 50)
 
@@ -3513,7 +3513,7 @@ Night (Lv. 49 - 51)
 5. Glalie (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 49 - 51)
 
 ```
 1. Wobbuffet (22%)
@@ -3677,7 +3677,7 @@ Night (Lv. 50 - 52)
 6. Ursaring (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 50 - 52)
 
 ```
 1. Clefable (22%)
@@ -3799,7 +3799,7 @@ Night (Lv. 51 - 53)
 6. Ursaring (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 51 - 53)
 
 ```
 1. Clefable (22%)
@@ -3984,7 +3984,7 @@ Night (Lv. 53 - 54)
 6. Dusclops (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 53 - 54)
 
 ```
 1. Wobbuffet (22%)
@@ -4049,7 +4049,7 @@ Night (Lv. 53 - 54)
 5. Golduck (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 53 - 54)
 
 ```
 1. Wobbuffet (22%)
@@ -4158,7 +4158,7 @@ Night (Lv. 53 - 54)
 7. Mr. Mime (10%)
 ```
 
-Poke Radar (Lv. ?)
+Poké Radar (Lv. 53 - 54)
 
 ```
 1. Delcatty (22%)
@@ -4634,7 +4634,7 @@ Night (Lv. 59)
 8. Xatu (10%)
 ```
 
-Poke Radar  -
+Poké Radar  -
 
 Surf (Lv. 50 - 60)
 

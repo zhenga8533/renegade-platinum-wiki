@@ -11,12 +11,12 @@
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
 | ![Magikarp](../../assets/sprites/magikarp/front.gif) | Magikarp | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod"){: style='max-width: 24px;' } | 10 | 60% |
-| ![Krabby](../../assets/sprites/krabby/front.gif) | Krabby | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod"){: style='max-width: 24px;' } | 10 | 30% |
-| ![Staryu](../../assets/sprites/staryu/front.gif) | Staryu | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod"){: style='max-width: 24px;' } | 10 | 10% |
+| ![Luvdisc](../../assets/sprites/luvdisc/front.gif) | Luvdisc | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod"){: style='max-width: 24px;' } | 10 | 30% |
+| ![Corsola](../../assets/sprites/corsola/front.gif) | Corsola | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod"){: style='max-width: 24px;' } | 10 | 10% |
 | ![Magikarp](../../assets/sprites/magikarp/front.gif) | Magikarp | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod"){: style='max-width: 24px;' } | 25 | 60% |
-| ![Krabby](../../assets/sprites/krabby/front.gif) | Krabby | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod"){: style='max-width: 24px;' } | 25 | 30% |
-| ![Staryu](../../assets/sprites/staryu/front.gif) | Staryu | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod"){: style='max-width: 24px;' } | 25 | 10% |
+| ![Luvdisc](../../assets/sprites/luvdisc/front.gif) | Luvdisc | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod"){: style='max-width: 24px;' } | 25 | 30% |
+| ![Corsola](../../assets/sprites/corsola/front.gif) | Corsola | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod"){: style='max-width: 24px;' } | 25 | 10% |
 | ![Gyarados](../../assets/sprites/gyarados/front.gif) | Gyarados | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod"){: style='max-width: 24px;' } | 50 | 60% |
-| ![Kingler](../../assets/sprites/kingler/front.gif) | Kingler | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod"){: style='max-width: 24px;' } | 50 | 30% |
-| ![Starmie](../../assets/sprites/starmie/front.gif) | Starmie | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod"){: style='max-width: 24px;' } | 50 | 10% |
+| ![Luvdisc](../../assets/sprites/luvdisc/front.gif) | Luvdisc | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod"){: style='max-width: 24px;' } | 50 | 30% |
+| ![Corsola](../../assets/sprites/corsola/front.gif) | Corsola | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod"){: style='max-width: 24px;' } | 50 | 10% |
 

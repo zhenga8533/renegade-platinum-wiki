@@ -8,6 +8,7 @@ theme:
   name: material
   favicon: assets/favicon.png
   features:
+    - content.tooltips
     - navigation.footer
     - navigation.instant.progress
     - navigation.prune
@@ -142,10 +143,10 @@ nav:
           - Wild Pokémon: wild_encounters/iron_island/wild_pokemon.md
       - Route 217:
           - Wild Pokémon: wild_encounters/route_217/wild_pokemon.md
-      - Acuity Lakefron:
-          - Wild Pokémon: wild_encounters/acuity_lakefron/wild_pokemon.md
-      - Snowpoint Templ:
-          - Wild Pokémon: wild_encounters/snowpoint_templ/wild_pokemon.md
+      - Acuity Lakefront:
+          - Wild Pokémon: wild_encounters/acuity_lakefront/wild_pokemon.md
+      - Snowpoint Temple:
+          - Wild Pokémon: wild_encounters/snowpoint_temple/wild_pokemon.md
       - Lake Acuity:
           - Wild Pokémon: wild_encounters/lake_acuity/wild_pokemon.md
       - Sendoff Spring:
@@ -159,7 +160,7 @@ nav:
       - Route 223:
           - Wild Pokémon: wild_encounters/route_223/wild_pokemon.md
       - Pokémon League:
-          - Wild Pokémon: wild_encounters/pokmon_league/wild_pokemon.md
+          - Wild Pokémon: wild_encounters/pokémon_league/wild_pokemon.md
       - Victory Road:
           - Wild Pokémon: wild_encounters/victory_road/wild_pokemon.md
       - Route 224:

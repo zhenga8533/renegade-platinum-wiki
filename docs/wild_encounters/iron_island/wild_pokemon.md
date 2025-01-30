@@ -2,122 +2,92 @@
 
 ## Outside
 
-### Surf
+### Surfing
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Wingull](../../assets/sprites/wingull/front.gif) | Wingull | ![Surf](../../assets/encounter_types/surf.png){: style='max-width: 24px;' } | 30 - 45 | 60% |
-| ![Tentacool](../../assets/sprites/tentacool/front.gif) | Tentacool | ![Surf](../../assets/encounter_types/surf.png){: style='max-width: 24px;' } | 30 - 45 | 30% |
-| ![Pelipper](../../assets/sprites/pelipper/front.gif) | Pelipper | ![Surf](../../assets/encounter_types/surf.png){: style='max-width: 24px;' } | 30 - 45 | 5% |
-| ![Tentacruel](../../assets/sprites/tentacruel/front.gif) | Tentacruel | ![Surf](../../assets/encounter_types/surf.png){: style='max-width: 24px;' } | 30 - 45 | 5% |
+| ![Wingull](../../assets/sprites/wingull/front.gif) | Wingull | ![Surf](../../assets/encounter_types/surf.png "Surf"){: style='max-width: 24px;' } | 30 - 45 | 60% |
+| ![Tentacool](../../assets/sprites/tentacool/front.gif) | Tentacool | ![Surf](../../assets/encounter_types/surf.png "Surf"){: style='max-width: 24px;' } | 30 - 45 | 30% |
+| ![Pelipper](../../assets/sprites/pelipper/front.gif) | Pelipper | ![Surf](../../assets/encounter_types/surf.png "Surf"){: style='max-width: 24px;' } | 30 - 45 | 5% |
+| ![Tentacruel](../../assets/sprites/tentacruel/front.gif) | Tentacruel | ![Surf](../../assets/encounter_types/surf.png "Surf"){: style='max-width: 24px;' } | 30 - 45 | 5% |
 
-### Old Rod
-
-| Sprite | Pokémon | Encounter Type | Level | Chance |
-|:------:|---------|:--------------:|-------|--------|
-| ![Magikarp](../../assets/sprites/magikarp/front.gif) | Magikarp | ![Old Rod](../../assets/encounter_types/old_rod.png){: style='max-width: 24px;' } | 10 | 60% |
-| ![Finneon](../../assets/sprites/finneon/front.gif) | Finneon | ![Old Rod](../../assets/encounter_types/old_rod.png){: style='max-width: 24px;' } | 10 | 30% |
-| ![Qwilfish](../../assets/sprites/qwilfish/front.gif) | Qwilfish | ![Old Rod](../../assets/encounter_types/old_rod.png){: style='max-width: 24px;' } | 10 | 10% |
-
-### Good Rod
+### Fishing
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Magikarp](../../assets/sprites/magikarp/front.gif) | Magikarp | ![Good Rod](../../assets/encounter_types/good_rod.png){: style='max-width: 24px;' } | 25 | 60% |
-| ![Finneon](../../assets/sprites/finneon/front.gif) | Finneon | ![Good Rod](../../assets/encounter_types/good_rod.png){: style='max-width: 24px;' } | 25 | 30% |
-| ![Qwilfish](../../assets/sprites/qwilfish/front.gif) | Qwilfish | ![Good Rod](../../assets/encounter_types/good_rod.png){: style='max-width: 24px;' } | 25 | 10% |
-
-### Super Rod
-
-| Sprite | Pokémon | Encounter Type | Level | Chance |
-|:------:|---------|:--------------:|-------|--------|
-| ![Gyarados](../../assets/sprites/gyarados/front.gif) | Gyarados | ![Super Rod](../../assets/encounter_types/super_rod.png){: style='max-width: 24px;' } | 50 | 60% |
-| ![Lumineon](../../assets/sprites/lumineon/front.gif) | Lumineon | ![Super Rod](../../assets/encounter_types/super_rod.png){: style='max-width: 24px;' } | 50 | 30% |
-| ![Qwilfish](../../assets/sprites/qwilfish/front.gif) | Qwilfish | ![Super Rod](../../assets/encounter_types/super_rod.png){: style='max-width: 24px;' } | 50 | 10% |
+| ![Magikarp](../../assets/sprites/magikarp/front.gif) | Magikarp | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod"){: style='max-width: 24px;' } | 10 | 60% |
+| ![Finneon](../../assets/sprites/finneon/front.gif) | Finneon | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod"){: style='max-width: 24px;' } | 10 | 30% |
+| ![Qwilfish](../../assets/sprites/qwilfish/front.gif) | Qwilfish | ![Old Rod](../../assets/encounter_types/old_rod.png "Old Rod"){: style='max-width: 24px;' } | 10 | 10% |
+| ![Magikarp](../../assets/sprites/magikarp/front.gif) | Magikarp | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod"){: style='max-width: 24px;' } | 25 | 60% |
+| ![Finneon](../../assets/sprites/finneon/front.gif) | Finneon | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod"){: style='max-width: 24px;' } | 25 | 30% |
+| ![Qwilfish](../../assets/sprites/qwilfish/front.gif) | Qwilfish | ![Good Rod](../../assets/encounter_types/good_rod.png "Good Rod"){: style='max-width: 24px;' } | 25 | 10% |
+| ![Gyarados](../../assets/sprites/gyarados/front.gif) | Gyarados | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod"){: style='max-width: 24px;' } | 50 | 60% |
+| ![Lumineon](../../assets/sprites/lumineon/front.gif) | Lumineon | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod"){: style='max-width: 24px;' } | 50 | 30% |
+| ![Qwilfish](../../assets/sprites/qwilfish/front.gif) | Qwilfish | ![Super Rod](../../assets/encounter_types/super_rod.png "Super Rod"){: style='max-width: 24px;' } | 50 | 10% |
 
 ---
 
 ## 1F
 
-### Morning
+### Walking
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Graveler](../../assets/sprites/graveler/front.gif) | Graveler | ![Morning](../../assets/encounter_types/morning.png){: style='max-width: 24px;' } | 41 - 43 | 25% |
-| ![Golbat](../../assets/sprites/golbat/front.gif) | Golbat | ![Morning](../../assets/encounter_types/morning.png){: style='max-width: 24px;' } | 41 - 43 | 20% |
-| ![Lairon](../../assets/sprites/lairon/front.gif) | Lairon | ![Morning](../../assets/encounter_types/morning.png){: style='max-width: 24px;' } | 41 - 43 | 15% |
-| ![Mawile](../../assets/sprites/mawile/front.gif) | Mawile | ![Morning](../../assets/encounter_types/morning.png){: style='max-width: 24px;' } | 41 - 43 | 10% |
-| ![Sableye](../../assets/sprites/sableye/front.gif) | Sableye | ![Morning](../../assets/encounter_types/morning.png){: style='max-width: 24px;' } | 41 - 43 | 10% |
-| ![Nosepass](../../assets/sprites/nosepass/front.gif) | Nosepass | ![Morning](../../assets/encounter_types/morning.png){: style='max-width: 24px;' } | 41 - 43 | 10% |
-| ![Rhydon](../../assets/sprites/rhydon/front.gif) | Rhydon | ![Morning](../../assets/encounter_types/morning.png){: style='max-width: 24px;' } | 41 - 43 | 5% |
-| ![Steelix](../../assets/sprites/steelix/front.gif) | Steelix | ![Morning](../../assets/encounter_types/morning.png){: style='max-width: 24px;' } | 41 - 43 | 5% |
-
-### Day
-
-| Sprite | Pokémon | Encounter Type | Level | Chance |
-|:------:|---------|:--------------:|-------|--------|
-| ![Graveler](../../assets/sprites/graveler/front.gif) | Graveler | ![Day](../../assets/encounter_types/day.png){: style='max-width: 24px;' } | 41 - 43 | 25% |
-| ![Golbat](../../assets/sprites/golbat/front.gif) | Golbat | ![Day](../../assets/encounter_types/day.png){: style='max-width: 24px;' } | 41 - 43 | 20% |
-| ![Lairon](../../assets/sprites/lairon/front.gif) | Lairon | ![Day](../../assets/encounter_types/day.png){: style='max-width: 24px;' } | 41 - 43 | 15% |
-| ![Mawile](../../assets/sprites/mawile/front.gif) | Mawile | ![Day](../../assets/encounter_types/day.png){: style='max-width: 24px;' } | 41 - 43 | 10% |
-| ![Sableye](../../assets/sprites/sableye/front.gif) | Sableye | ![Day](../../assets/encounter_types/day.png){: style='max-width: 24px;' } | 41 - 43 | 10% |
-| ![Nosepass](../../assets/sprites/nosepass/front.gif) | Nosepass | ![Day](../../assets/encounter_types/day.png){: style='max-width: 24px;' } | 41 - 43 | 10% |
-| ![Rhydon](../../assets/sprites/rhydon/front.gif) | Rhydon | ![Day](../../assets/encounter_types/day.png){: style='max-width: 24px;' } | 41 - 43 | 5% |
-| ![Steelix](../../assets/sprites/steelix/front.gif) | Steelix | ![Day](../../assets/encounter_types/day.png){: style='max-width: 24px;' } | 41 - 43 | 5% |
-
-### Night
-
-| Sprite | Pokémon | Encounter Type | Level | Chance |
-|:------:|---------|:--------------:|-------|--------|
-| ![Graveler](../../assets/sprites/graveler/front.gif) | Graveler | ![Night](../../assets/encounter_types/night.png){: style='max-width: 24px;' } | 41 - 43 | 25% |
-| ![Golbat](../../assets/sprites/golbat/front.gif) | Golbat | ![Night](../../assets/encounter_types/night.png){: style='max-width: 24px;' } | 41 - 43 | 20% |
-| ![Lairon](../../assets/sprites/lairon/front.gif) | Lairon | ![Night](../../assets/encounter_types/night.png){: style='max-width: 24px;' } | 41 - 43 | 15% |
-| ![Mawile](../../assets/sprites/mawile/front.gif) | Mawile | ![Night](../../assets/encounter_types/night.png){: style='max-width: 24px;' } | 41 - 43 | 10% |
-| ![Sableye](../../assets/sprites/sableye/front.gif) | Sableye | ![Night](../../assets/encounter_types/night.png){: style='max-width: 24px;' } | 41 - 43 | 10% |
-| ![Nosepass](../../assets/sprites/nosepass/front.gif) | Nosepass | ![Night](../../assets/encounter_types/night.png){: style='max-width: 24px;' } | 41 - 43 | 10% |
-| ![Rhydon](../../assets/sprites/rhydon/front.gif) | Rhydon | ![Night](../../assets/encounter_types/night.png){: style='max-width: 24px;' } | 41 - 43 | 5% |
-| ![Steelix](../../assets/sprites/steelix/front.gif) | Steelix | ![Night](../../assets/encounter_types/night.png){: style='max-width: 24px;' } | 41 - 43 | 5% |
+| ![Graveler](../../assets/sprites/graveler/front.gif) | Graveler | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 41 - 43 | 25% |
+| ![Golbat](../../assets/sprites/golbat/front.gif) | Golbat | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 41 - 43 | 20% |
+| ![Lairon](../../assets/sprites/lairon/front.gif) | Lairon | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 41 - 43 | 15% |
+| ![Mawile](../../assets/sprites/mawile/front.gif) | Mawile | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 41 - 43 | 10% |
+| ![Sableye](../../assets/sprites/sableye/front.gif) | Sableye | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 41 - 43 | 10% |
+| ![Nosepass](../../assets/sprites/nosepass/front.gif) | Nosepass | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 41 - 43 | 10% |
+| ![Rhydon](../../assets/sprites/rhydon/front.gif) | Rhydon | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 41 - 43 | 5% |
+| ![Steelix](../../assets/sprites/steelix/front.gif) | Steelix | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 41 - 43 | 5% |
+| ![Graveler](../../assets/sprites/graveler/front.gif) | Graveler | ![Day](../../assets/encounter_types/day.png "Day"){: style='max-width: 24px;' } | 41 - 43 | 25% |
+| ![Golbat](../../assets/sprites/golbat/front.gif) | Golbat | ![Day](../../assets/encounter_types/day.png "Day"){: style='max-width: 24px;' } | 41 - 43 | 20% |
+| ![Lairon](../../assets/sprites/lairon/front.gif) | Lairon | ![Day](../../assets/encounter_types/day.png "Day"){: style='max-width: 24px;' } | 41 - 43 | 15% |
+| ![Mawile](../../assets/sprites/mawile/front.gif) | Mawile | ![Day](../../assets/encounter_types/day.png "Day"){: style='max-width: 24px;' } | 41 - 43 | 10% |
+| ![Sableye](../../assets/sprites/sableye/front.gif) | Sableye | ![Day](../../assets/encounter_types/day.png "Day"){: style='max-width: 24px;' } | 41 - 43 | 10% |
+| ![Nosepass](../../assets/sprites/nosepass/front.gif) | Nosepass | ![Day](../../assets/encounter_types/day.png "Day"){: style='max-width: 24px;' } | 41 - 43 | 10% |
+| ![Rhydon](../../assets/sprites/rhydon/front.gif) | Rhydon | ![Day](../../assets/encounter_types/day.png "Day"){: style='max-width: 24px;' } | 41 - 43 | 5% |
+| ![Steelix](../../assets/sprites/steelix/front.gif) | Steelix | ![Day](../../assets/encounter_types/day.png "Day"){: style='max-width: 24px;' } | 41 - 43 | 5% |
+| ![Graveler](../../assets/sprites/graveler/front.gif) | Graveler | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 41 - 43 | 25% |
+| ![Golbat](../../assets/sprites/golbat/front.gif) | Golbat | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 41 - 43 | 20% |
+| ![Lairon](../../assets/sprites/lairon/front.gif) | Lairon | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 41 - 43 | 15% |
+| ![Mawile](../../assets/sprites/mawile/front.gif) | Mawile | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 41 - 43 | 10% |
+| ![Sableye](../../assets/sprites/sableye/front.gif) | Sableye | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 41 - 43 | 10% |
+| ![Nosepass](../../assets/sprites/nosepass/front.gif) | Nosepass | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 41 - 43 | 10% |
+| ![Rhydon](../../assets/sprites/rhydon/front.gif) | Rhydon | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 41 - 43 | 5% |
+| ![Steelix](../../assets/sprites/steelix/front.gif) | Steelix | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 41 - 43 | 5% |
 
 ---
 
 ## 2F
 
-### Morning
+### Walking
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |
 |:------:|---------|:--------------:|-------|--------|
-| ![Graveler](../../assets/sprites/graveler/front.gif) | Graveler | ![Morning](../../assets/encounter_types/morning.png){: style='max-width: 24px;' } | 43 - 45 | 25% |
-| ![Golbat](../../assets/sprites/golbat/front.gif) | Golbat | ![Morning](../../assets/encounter_types/morning.png){: style='max-width: 24px;' } | 43 - 45 | 20% |
-| ![Lairon](../../assets/sprites/lairon/front.gif) | Lairon | ![Morning](../../assets/encounter_types/morning.png){: style='max-width: 24px;' } | 43 - 45 | 15% |
-| ![Mawile](../../assets/sprites/mawile/front.gif) | Mawile | ![Morning](../../assets/encounter_types/morning.png){: style='max-width: 24px;' } | 43 - 45 | 10% |
-| ![Sableye](../../assets/sprites/sableye/front.gif) | Sableye | ![Morning](../../assets/encounter_types/morning.png){: style='max-width: 24px;' } | 43 - 45 | 10% |
-| ![Nosepass](../../assets/sprites/nosepass/front.gif) | Nosepass | ![Morning](../../assets/encounter_types/morning.png){: style='max-width: 24px;' } | 43 - 45 | 10% |
-| ![Rhydon](../../assets/sprites/rhydon/front.gif) | Rhydon | ![Morning](../../assets/encounter_types/morning.png){: style='max-width: 24px;' } | 43 - 45 | 5% |
-| ![Steelix](../../assets/sprites/steelix/front.gif) | Steelix | ![Morning](../../assets/encounter_types/morning.png){: style='max-width: 24px;' } | 43 - 45 | 5% |
-
-### Day
-
-| Sprite | Pokémon | Encounter Type | Level | Chance |
-|:------:|---------|:--------------:|-------|--------|
-| ![Graveler](../../assets/sprites/graveler/front.gif) | Graveler | ![Day](../../assets/encounter_types/day.png){: style='max-width: 24px;' } | 43 - 45 | 25% |
-| ![Golbat](../../assets/sprites/golbat/front.gif) | Golbat | ![Day](../../assets/encounter_types/day.png){: style='max-width: 24px;' } | 43 - 45 | 20% |
-| ![Lairon](../../assets/sprites/lairon/front.gif) | Lairon | ![Day](../../assets/encounter_types/day.png){: style='max-width: 24px;' } | 43 - 45 | 15% |
-| ![Mawile](../../assets/sprites/mawile/front.gif) | Mawile | ![Day](../../assets/encounter_types/day.png){: style='max-width: 24px;' } | 43 - 45 | 10% |
-| ![Sableye](../../assets/sprites/sableye/front.gif) | Sableye | ![Day](../../assets/encounter_types/day.png){: style='max-width: 24px;' } | 43 - 45 | 10% |
-| ![Nosepass](../../assets/sprites/nosepass/front.gif) | Nosepass | ![Day](../../assets/encounter_types/day.png){: style='max-width: 24px;' } | 43 - 45 | 10% |
-| ![Rhydon](../../assets/sprites/rhydon/front.gif) | Rhydon | ![Day](../../assets/encounter_types/day.png){: style='max-width: 24px;' } | 43 - 45 | 5% |
-| ![Steelix](../../assets/sprites/steelix/front.gif) | Steelix | ![Day](../../assets/encounter_types/day.png){: style='max-width: 24px;' } | 43 - 45 | 5% |
-
-### Night
-
-| Sprite | Pokémon | Encounter Type | Level | Chance |
-|:------:|---------|:--------------:|-------|--------|
-| ![Graveler](../../assets/sprites/graveler/front.gif) | Graveler | ![Night](../../assets/encounter_types/night.png){: style='max-width: 24px;' } | 43 - 45 | 25% |
-| ![Golbat](../../assets/sprites/golbat/front.gif) | Golbat | ![Night](../../assets/encounter_types/night.png){: style='max-width: 24px;' } | 43 - 45 | 20% |
-| ![Lairon](../../assets/sprites/lairon/front.gif) | Lairon | ![Night](../../assets/encounter_types/night.png){: style='max-width: 24px;' } | 43 - 45 | 15% |
-| ![Mawile](../../assets/sprites/mawile/front.gif) | Mawile | ![Night](../../assets/encounter_types/night.png){: style='max-width: 24px;' } | 43 - 45 | 10% |
-| ![Sableye](../../assets/sprites/sableye/front.gif) | Sableye | ![Night](../../assets/encounter_types/night.png){: style='max-width: 24px;' } | 43 - 45 | 10% |
-| ![Nosepass](../../assets/sprites/nosepass/front.gif) | Nosepass | ![Night](../../assets/encounter_types/night.png){: style='max-width: 24px;' } | 43 - 45 | 10% |
-| ![Rhydon](../../assets/sprites/rhydon/front.gif) | Rhydon | ![Night](../../assets/encounter_types/night.png){: style='max-width: 24px;' } | 43 - 45 | 5% |
-| ![Steelix](../../assets/sprites/steelix/front.gif) | Steelix | ![Night](../../assets/encounter_types/night.png){: style='max-width: 24px;' } | 43 - 45 | 5% |
+| ![Graveler](../../assets/sprites/graveler/front.gif) | Graveler | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 43 - 45 | 25% |
+| ![Golbat](../../assets/sprites/golbat/front.gif) | Golbat | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 43 - 45 | 20% |
+| ![Lairon](../../assets/sprites/lairon/front.gif) | Lairon | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 43 - 45 | 15% |
+| ![Mawile](../../assets/sprites/mawile/front.gif) | Mawile | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 43 - 45 | 10% |
+| ![Sableye](../../assets/sprites/sableye/front.gif) | Sableye | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 43 - 45 | 10% |
+| ![Nosepass](../../assets/sprites/nosepass/front.gif) | Nosepass | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 43 - 45 | 10% |
+| ![Rhydon](../../assets/sprites/rhydon/front.gif) | Rhydon | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 43 - 45 | 5% |
+| ![Steelix](../../assets/sprites/steelix/front.gif) | Steelix | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 43 - 45 | 5% |
+| ![Graveler](../../assets/sprites/graveler/front.gif) | Graveler | ![Day](../../assets/encounter_types/day.png "Day"){: style='max-width: 24px;' } | 43 - 45 | 25% |
+| ![Golbat](../../assets/sprites/golbat/front.gif) | Golbat | ![Day](../../assets/encounter_types/day.png "Day"){: style='max-width: 24px;' } | 43 - 45 | 20% |
+| ![Lairon](../../assets/sprites/lairon/front.gif) | Lairon | ![Day](../../assets/encounter_types/day.png "Day"){: style='max-width: 24px;' } | 43 - 45 | 15% |
+| ![Mawile](../../assets/sprites/mawile/front.gif) | Mawile | ![Day](../../assets/encounter_types/day.png "Day"){: style='max-width: 24px;' } | 43 - 45 | 10% |
+| ![Sableye](../../assets/sprites/sableye/front.gif) | Sableye | ![Day](../../assets/encounter_types/day.png "Day"){: style='max-width: 24px;' } | 43 - 45 | 10% |
+| ![Nosepass](../../assets/sprites/nosepass/front.gif) | Nosepass | ![Day](../../assets/encounter_types/day.png "Day"){: style='max-width: 24px;' } | 43 - 45 | 10% |
+| ![Rhydon](../../assets/sprites/rhydon/front.gif) | Rhydon | ![Day](../../assets/encounter_types/day.png "Day"){: style='max-width: 24px;' } | 43 - 45 | 5% |
+| ![Steelix](../../assets/sprites/steelix/front.gif) | Steelix | ![Day](../../assets/encounter_types/day.png "Day"){: style='max-width: 24px;' } | 43 - 45 | 5% |
+| ![Graveler](../../assets/sprites/graveler/front.gif) | Graveler | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 43 - 45 | 25% |
+| ![Golbat](../../assets/sprites/golbat/front.gif) | Golbat | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 43 - 45 | 20% |
+| ![Lairon](../../assets/sprites/lairon/front.gif) | Lairon | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 43 - 45 | 15% |
+| ![Mawile](../../assets/sprites/mawile/front.gif) | Mawile | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 43 - 45 | 10% |
+| ![Sableye](../../assets/sprites/sableye/front.gif) | Sableye | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 43 - 45 | 10% |
+| ![Nosepass](../../assets/sprites/nosepass/front.gif) | Nosepass | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 43 - 45 | 10% |
+| ![Rhydon](../../assets/sprites/rhydon/front.gif) | Rhydon | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 43 - 45 | 5% |
+| ![Steelix](../../assets/sprites/steelix/front.gif) | Steelix | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 43 - 45 | 5% |
 
