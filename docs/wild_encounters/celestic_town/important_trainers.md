@@ -1,5 +1,3 @@
 # Important Trainers
----
-
-## Galactic Boss Cyrus
+### Galactic Boss Cyrus
 

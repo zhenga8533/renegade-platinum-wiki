@@ -63,3 +63,8 @@
 | ![Dragon Tamer Patrick (8)](../../assets/trainers/dragon_tamer.png)<br>Dragon Tamer Patrick (8) | ![Gabite](../../assets/sprites/gabite/front.gif)<br>Gabite<br>Lv. 58 | ![Shelgon](../../assets/sprites/shelgon/front.gif)<br>Shelgon<br>Lv. 58 | ![Vibrava](../../assets/sprites/vibrava/front.gif)<br>Vibrava<br>Lv. 58 | ![Dragonair](../../assets/sprites/dragonair/front.gif)<br>Dragonair<br>Lv. 58 |
 | ![Dragon Tamer Patrick (C)](../../assets/trainers/dragon_tamer.png)<br>Dragon Tamer Patrick (C) | ![Garchomp](../../assets/sprites/garchomp/front.gif)<br>Garchomp<br>Lv. 70 | ![Salamence](../../assets/sprites/salamence/front.gif)<br>Salamence<br>Lv. 70 | ![Flygon](../../assets/sprites/flygon/front.gif)<br>Flygon<br>Lv. 70 | ![Dragonite](../../assets/sprites/dragonite/front.gif)<br>Dragonite<br>Lv. 70 |
 
+
+### Important Trainers
+
+1. [PKMN Trainer Dawn](important_trainers.md#pkmn-trainer-dawn)
+1. [PKMN Trainer Lucas](important_trainers.md#pkmn-trainer-lucas)

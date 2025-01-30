@@ -1,5 +1,3 @@
 # Important Trainers
----
-
-## Castle Valet Darach
+### Castle Valet Darach
 

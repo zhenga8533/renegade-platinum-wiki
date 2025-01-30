@@ -29,3 +29,7 @@
 | ![Ace Trainer Brenna](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Brenna | ![Dewgong](../../assets/sprites/dewgong/front.gif)<br>Dewgong<br>Lv. 53 | ![Cloyster](../../assets/sprites/cloyster/front.gif)<br>Cloyster<br>Lv. 53 | ![Lapras](../../assets/sprites/lapras/front.gif)<br>Lapras<br>Lv. 53 |
 | ![Ace Trainer Sergio](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Sergio | ![Swinub](../../assets/sprites/swinub/front.gif)<br>Swinub<br>Lv. 51 | ![Piloswine](../../assets/sprites/piloswine/front.gif)<br>Piloswine<br>Lv. 53 | ![Mamoswine](../../assets/sprites/mamoswine/front.gif)<br>Mamoswine<br>Lv. 55 |
 
+
+### Important Trainers
+
+1. [Leader Candice](important_trainers.md#leader-candice)

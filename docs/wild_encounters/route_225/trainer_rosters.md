@@ -26,3 +26,7 @@
 | ![Dragon Tamer Geoffrey (S)](../../assets/trainers/dragon_tamer.png)<br>Dragon Tamer Geoffrey (S) | ![Altaria](../../assets/sprites/altaria/front.gif)<br>Altaria<br>Lv. 79 | ![Garchomp](../../assets/sprites/garchomp/front.gif)<br>Garchomp<br>Lv. 79 |
 | ![Ace Trainer Deanna (S)](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Deanna (S) | ![Ampharos](../../assets/sprites/ampharos/front.gif)<br>Ampharos<br>Lv. 79 | ![Tropius](../../assets/sprites/tropius/front.gif)<br>Tropius<br>Lv. 79 | ![Lapras](../../assets/sprites/lapras/front.gif)<br>Lapras<br>Lv. 79 | ![Miltank](../../assets/sprites/miltank/front.gif)<br>Miltank<br>Lv. 79 |
 
+
+### Important Trainers
+
+1. [Ace Trainer Heather](important_trainers.md#ace-trainer-heather)

@@ -17,3 +17,8 @@
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
 | ![Ace Trainer Saul (S)](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Saul (S) | ![Tauros](../../assets/sprites/tauros/front.gif)<br>Tauros<br>Lv. 80 |
 
+
+### Important Trainers
+
+1. [Ace Trainer Slythe](important_trainers.md#ace-trainer-slythe)
+1. [PKMN Trainer Buck](important_trainers.md#pkmn-trainer-buck)

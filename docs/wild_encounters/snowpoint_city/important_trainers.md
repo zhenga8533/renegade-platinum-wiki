@@ -4,7 +4,5 @@
 
 ## Gym
 
----
-
-## Leader Candice
+### Leader Candice
 

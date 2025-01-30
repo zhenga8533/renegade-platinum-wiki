@@ -4,7 +4,5 @@
 
 ## East
 
----
-
-## PKMN Trainer Marley
+### PKMN Trainer Marley
 

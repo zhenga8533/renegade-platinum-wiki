@@ -1,5 +1,3 @@
 # Important Trainers
----
-
-## Commander Mars
+### Commander Mars
 

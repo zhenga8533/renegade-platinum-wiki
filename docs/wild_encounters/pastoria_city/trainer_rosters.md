@@ -2,6 +2,15 @@
 
 ---
 
+## City
+
+
+### Important Trainers
+
+1. [PKMN Trainer Barry](important_trainers.md#pkmn-trainer-barry)
+
+---
+
 ## Gym
 
 
@@ -16,3 +25,7 @@
 | ![Fisherman Erick](../../assets/trainers/fisherman.png)<br>Fisherman Erick | ![Lumineon](../../assets/sprites/lumineon/front.gif)<br>Lumineon<br>Lv. 39 | ![Tentacruel](../../assets/sprites/tentacruel/front.gif)<br>Tentacruel<br>Lv. 39 | ![Kingler](../../assets/sprites/kingler/front.gif)<br>Kingler<br>Lv. 39 |
 | ![Sailor Samson](../../assets/trainers/sailor.png)<br>Sailor Samson | ![Slowbro](../../assets/sprites/slowbro/front.gif)<br>Slowbro<br>Lv. 39 | ![Gastrodon](../../assets/sprites/gastrodon/front.gif)<br>Gastrodon<br>Lv. 39 | ![Mantine](../../assets/sprites/mantine/front.gif)<br>Mantine<br>Lv. 39 |
 
+
+### Important Trainers
+
+1. [Leader Wake](important_trainers.md#leader-wake)

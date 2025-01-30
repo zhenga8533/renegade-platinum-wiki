@@ -86,10 +86,13 @@ def parse_trainers(trainers, rematches, important):
 
     if len(important) > 0:
         md += "<h3>Important Trainers</h3>\n\n"
+        trainer_rosters += "\n### Important Trainers\n\n"
+
         for trainer in important:
             pokemon = important[trainer]
             md += f"**{trainer}**\n\n"
-            important_trainers += f"---\n\n## {trainer}\n\n"
+            trainer_rosters += f"1. [{trainer}](important_trainers.md#{format_id(trainer)})\n"
+            important_trainers += f"### {trainer}\n\n"
 
             base = ""
             rivals = ["", "", ""]
@@ -152,6 +155,25 @@ def main():
     location = None
     section = None
 
+    def update_markdown():
+        nonlocal location, section, trainers, rematches, important, roster, wild_rosters, wild_trainers, md
+        roster_md, trainer_rosters, important_trainers = parse_trainers(trainers, rematches, important)
+        md += roster_md
+
+        if trainer_rosters != "":
+            wild_rosters[location] = wild_rosters.get(location, "# Trainer Rosters\n")
+            wild_rosters[location] += f"\n---\n\n## {section[:-1]}\n\n" if section else ""
+            wild_rosters[location] += trainer_rosters
+        if important_trainers != "":
+            wild_trainers[location] = wild_trainers.get(location, "# Important Trainers\n")
+            wild_trainers[location] += f"\n---\n\n## {section[:-1]}\n\n" if section else ""
+            wild_trainers[location] += important_trainers
+
+        trainers = []
+        rematches = []
+        important = {}
+        roster = trainers
+
     # Parse data
     logger.log(logging.INFO, "Parsing data...")
     for i in range(n):
@@ -163,23 +185,7 @@ def main():
             pass
         elif next_line.startswith("="):
             if len(trainers) > 0:
-                roster_md, trainer_rosters, important_trainers = parse_trainers(trainers, rematches, important)
-                md += roster_md
-
-                if trainer_rosters != "":
-                    wild_rosters[location] = wild_rosters.get(location, "# Trainer Rosters\n")
-                    wild_rosters[location] += f"\n---\n\n## {section[:-1]}\n\n" if section else ""
-                    wild_rosters[location] += trainer_rosters
-                if important_trainers != "":
-                    wild_trainers[location] = wild_trainers.get(location, "# Important Trainers\n")
-                    wild_trainers[location] += f"\n---\n\n## {section[:-1]}\n\n" if section else ""
-                    wild_trainers[location] += important_trainers
-
-                trainers = []
-                rematches = []
-                important = {}
-                roster = trainers
-
+                update_markdown()
             location, section = line.split(" (", 1) if "(" in line else (line, None)
             md += f"\n---\n\n## {line}\n\n"
         elif line.startswith("- "):
@@ -195,7 +201,7 @@ def main():
             roster.append(line)
         elif line.startswith("Note:"):
             md += f"!!! note\n\n\t{line[6:]}\n\n"
-    # md += parse_trainers(trainers, rematches, important)
+    update_markdown()
     logger.log(logging.INFO, "Data parsed successfully!")
 
     save(OUTPUT_PATH + "trainer_pokemon.md", md, logger)

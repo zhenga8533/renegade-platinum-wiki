@@ -17,3 +17,8 @@
 | ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Muk](../../assets/sprites/muk/front.gif)<br>Muk<br>Lv. 54 | ![Arbok](../../assets/sprites/arbok/front.gif)<br>Arbok<br>Lv. 54 |
 | ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Forretress](../../assets/sprites/forretress/front.gif)<br>Forretress<br>Lv. 53 | ![Seviper](../../assets/sprites/seviper/front.gif)<br>Seviper<br>Lv. 53 | ![Yanmega](../../assets/sprites/yanmega/front.gif)<br>Yanmega<br>Lv. 53 |
 
+
+### Important Trainers
+
+1. [Galactic Boss Cyrus](important_trainers.md#galactic-boss-cyrus)
+1. [Commander Saturn](important_trainers.md#commander-saturn)

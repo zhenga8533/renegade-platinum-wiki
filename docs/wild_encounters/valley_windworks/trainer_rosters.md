@@ -8,3 +8,7 @@
 | ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Grimer](../../assets/sprites/grimer/front.gif)<br>Grimer<br>Lv. 15 | ![Koffing](../../assets/sprites/koffing/front.gif)<br>Koffing<br>Lv. 15 |
 | ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Kakuna](../../assets/sprites/kakuna/front.gif)<br>Kakuna<br>Lv. 14 | ![Pineco](../../assets/sprites/pineco/front.gif)<br>Pineco<br>Lv. 14 | ![Metapod](../../assets/sprites/metapod/front.gif)<br>Metapod<br>Lv. 14 |
 
+
+### Important Trainers
+
+1. [Commander Mars](important_trainers.md#commander-mars)

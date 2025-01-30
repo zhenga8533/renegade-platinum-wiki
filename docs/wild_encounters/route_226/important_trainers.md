@@ -1,5 +1,3 @@
 # Important Trainers
----
-
-## Ace Trainer Wyver
+### Ace Trainer Wyver
 

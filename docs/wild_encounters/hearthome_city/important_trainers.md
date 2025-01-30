@@ -4,11 +4,7 @@
 
 ## Gym
 
----
+### Leader Fantina
 
-## Leader Fantina
-
----
-
-## PKMN Trainer Barry
+### PKMN Trainer Barry
 

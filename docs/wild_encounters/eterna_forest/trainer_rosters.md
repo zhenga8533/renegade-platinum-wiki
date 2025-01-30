@@ -13,3 +13,7 @@
 | ![Psychic Kody](../../assets/trainers/psychic.png)<br>Psychic Kody | ![Mime Jr.](../../assets/sprites/mime-jr/front.gif)<br>Mime Jr.<br>Lv. 18 | ![Mr. Mime](../../assets/sprites/mr-mime/front.gif)<br>Mr. Mime<br>Lv. 20 |
 | ![Psychic Rachael](../../assets/trainers/psychic.png)<br>Psychic Rachael | ![Chingling](../../assets/sprites/chingling/front.gif)<br>Chingling<br>Lv. 18 | ![Chimecho](../../assets/sprites/chimecho/front.gif)<br>Chimecho<br>Lv. 20 |
 
+
+### Important Trainers
+
+1. [PKMN Trainer Cheryl](important_trainers.md#pkmn-trainer-cheryl)

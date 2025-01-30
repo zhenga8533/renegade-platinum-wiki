@@ -4,16 +4,12 @@
 
 ## City
 
----
-
-## PKMN Trainer Barry
+### PKMN Trainer Barry
 
 
 ---
 
 ## Gym
 
----
-
-## Leader Byron
+### Leader Byron
 

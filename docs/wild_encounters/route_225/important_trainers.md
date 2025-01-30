@@ -1,5 +1,3 @@
 # Important Trainers
----
-
-## Ace Trainer Heather
+### Ace Trainer Heather
 

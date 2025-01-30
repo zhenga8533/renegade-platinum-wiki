@@ -21,3 +21,7 @@
 | ![Artist William (8)](../../assets/trainers/artist.png)<br>Artist William (8) | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 53 | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 53 | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 53 |
 | ![Artist William (C)](../../assets/trainers/artist.png)<br>Artist William (C) | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 70 | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 70 | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 70 |
 
+
+### Important Trainers
+
+1. [Elite Four Aaron](important_trainers.md#elite-four-aaron)

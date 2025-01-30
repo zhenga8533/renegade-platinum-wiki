@@ -45,6 +45,11 @@
 | ![Socialite Reina (C)](../../assets/trainers/socialite.png)<br>Socialite Reina (C) | ![Delcatty](../../assets/sprites/delcatty/front.gif)<br>Delcatty<br>Lv. 73 |
 
 
+### Important Trainers
+
+1. [Commander Saturn](important_trainers.md#commander-saturn)
+1. [Gentleman Backlot](important_trainers.md#gentleman-backlot)
+
 ---
 
 ## South

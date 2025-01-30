@@ -20,3 +20,7 @@
 | ![Swimmer Glenn (S)](../../assets/trainers/swimmer.png)<br>Swimmer Glenn (S) | ![Octillery](../../assets/sprites/octillery/front.gif)<br>Octillery<br>Lv. 76 | ![Politoed](../../assets/sprites/politoed/front.gif)<br>Politoed<br>Lv. 76 |
 | ![Swimmer Joanna (S)](../../assets/trainers/swimmer.png)<br>Swimmer Joanna (S) | ![Luvdisc](../../assets/sprites/luvdisc/front.gif)<br>Luvdisc<br>Lv. 75 | ![Corsola](../../assets/sprites/corsola/front.gif)<br>Corsola<br>Lv. 75 | ![Vaporeon](../../assets/sprites/vaporeon/front.gif)<br>Vaporeon<br>Lv. 75 |
 
+
+### Important Trainers
+
+1. [Ace Trainer Luna](important_trainers.md#ace-trainer-luna)

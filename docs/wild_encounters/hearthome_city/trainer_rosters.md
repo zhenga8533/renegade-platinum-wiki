@@ -16,3 +16,8 @@
 | ![Ace Trainer Allen](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Allen | ![Haunter](../../assets/sprites/haunter/front.gif)<br>Haunter<br>Lv. 29 | ![Shedinja](../../assets/sprites/shedinja/front.gif)<br>Shedinja<br>Lv. 29 | ![Sableye](../../assets/sprites/sableye/front.gif)<br>Sableye<br>Lv. 29 |
 | ![Ace Trainer Catherine](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Catherine | ![Haunter](../../assets/sprites/haunter/front.gif)<br>Haunter<br>Lv. 29 | ![Rotom](../../assets/sprites/rotom/front.gif)<br>Rotom<br>Lv. 29 | ![Froslass](../../assets/sprites/froslass/front.gif)<br>Froslass<br>Lv. 29 |
 
+
+### Important Trainers
+
+1. [Leader Fantina](important_trainers.md#leader-fantina)
+1. [PKMN Trainer Barry](important_trainers.md#pkmn-trainer-barry)

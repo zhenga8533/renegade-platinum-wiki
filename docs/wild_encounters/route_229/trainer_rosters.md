@@ -10,3 +10,7 @@
 | ![Ace Trainer Sandra](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Sandra | ![Dugtrio](../../assets/sprites/dugtrio/front.gif)<br>Dugtrio<br>Lv. 74 | ![Raichu](../../assets/sprites/raichu/front.gif)<br>Raichu<br>Lv. 74 | ![Arcanine](../../assets/sprites/arcanine/front.gif)<br>Arcanine<br>Lv. 74 | ![Vileplume](../../assets/sprites/vileplume/front.gif)<br>Vileplume<br>Lv. 74 |
 | ![Ace Trainer Gene *](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Gene * | ![Stantler](../../assets/sprites/stantler/front.gif)<br>Stantler<br>Lv. 76 | ![Dodrio](../../assets/sprites/dodrio/front.gif)<br>Dodrio<br>Lv. 76 | ![Girafarig](../../assets/sprites/girafarig/front.gif)<br>Girafarig<br>Lv. 76 | ![Bibarel](../../assets/sprites/bibarel/front.gif)<br>Bibarel<br>Lv. 76 | ![Porygon-Z](../../assets/sprites/porygon-z/front.gif)<br>Porygon-Z<br>Lv. 76 | ![Snorlax](../../assets/sprites/snorlax/front.gif)<br>Snorlax<br>Lv. 77 |
 
+
+### Important Trainers
+
+1. [Ace Trainer Gene](important_trainers.md#ace-trainer-gene)

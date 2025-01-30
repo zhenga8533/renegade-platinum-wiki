@@ -14,6 +14,16 @@
 
 ---
 
+## Entrance
+
+
+### Important Trainers
+
+1. [Commander Mars](important_trainers.md#commander-mars)
+1. [Commander Jupiter](important_trainers.md#commander-jupiter)
+
+---
+
 ## Interior
 
 

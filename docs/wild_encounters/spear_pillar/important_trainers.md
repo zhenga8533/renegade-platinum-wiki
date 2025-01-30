@@ -1,9 +1,5 @@
 # Important Trainers
----
+### Commander Mars
 
-## Commander Mars
-
----
-
-## Commander Jupiter
+### Commander Jupiter
 

@@ -24,3 +24,7 @@
 | ![Psychic Corbin (S)](../../assets/trainers/psychic.png)<br>Psychic Corbin (S) | ![Hypno](../../assets/sprites/hypno/front.gif)<br>Hypno<br>Lv. 78 | ![Gallade](../../assets/sprites/gallade/front.gif)<br>Gallade<br>Lv. 78 | ![Xatu](../../assets/sprites/xatu/front.gif)<br>Xatu<br>Lv. 78 |
 | ![Black Belt Davon (S)](../../assets/trainers/black_belt.png)<br>Black Belt Davon (S) | ![Hariyama](../../assets/sprites/hariyama/front.gif)<br>Hariyama<br>Lv. 78 | ![Machamp](../../assets/sprites/machamp/front.gif)<br>Machamp<br>Lv. 78 | ![Primeape](../../assets/sprites/primeape/front.gif)<br>Primeape<br>Lv. 78 |
 
+
+### Important Trainers
+
+1. [Ace Trainer Shade](important_trainers.md#ace-trainer-shade)

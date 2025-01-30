@@ -11,3 +11,7 @@
 | ![Swimmer Wade](../../assets/trainers/swimmer.png)<br>Swimmer Wade | ![Sharpedo](../../assets/sprites/sharpedo/front.gif)<br>Sharpedo<br>Lv. 74 | ![Whiscash](../../assets/sprites/whiscash/front.gif)<br>Whiscash<br>Lv. 74 |
 | ![Ace Trainer Wyver *](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Wyver * | ![Kingdra](../../assets/sprites/kingdra/front.gif)<br>Kingdra<br>Lv. 76 | ![Flygon](../../assets/sprites/flygon/front.gif)<br>Flygon<br>Lv. 76 | ![Altaria](../../assets/sprites/altaria/front.gif)<br>Altaria<br>Lv. 76 | ![Dragonite](../../assets/sprites/dragonite/front.gif)<br>Dragonite<br>Lv. 76 | ![Garchomp](../../assets/sprites/garchomp/front.gif)<br>Garchomp<br>Lv. 76 | ![Salamence](../../assets/sprites/salamence/front.gif)<br>Salamence<br>Lv. 77 |
 
+
+### Important Trainers
+
+1. [Ace Trainer Wyver](important_trainers.md#ace-trainer-wyver)

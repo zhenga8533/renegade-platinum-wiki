@@ -17,3 +17,8 @@
 | ![Youngster Tristan (5)](../../assets/trainers/youngster.png)<br>Youngster Tristan (5) | ![Noctowl](../../assets/sprites/noctowl/front.gif)<br>Noctowl<br>Lv. 39 | ![Staraptor](../../assets/sprites/staraptor/front.gif)<br>Staraptor<br>Lv. 39 |
 | ![Youngster Tristan (8)](../../assets/trainers/youngster.png)<br>Youngster Tristan (8) | ![Noctowl](../../assets/sprites/noctowl/front.gif)<br>Noctowl<br>Lv. 59 | ![Staraptor](../../assets/sprites/staraptor/front.gif)<br>Staraptor<br>Lv. 59 | ![Pidgeot](../../assets/sprites/pidgeot/front.gif)<br>Pidgeot<br>Lv. 59 |
 
+
+### Important Trainers
+
+1. [PKMN Trainer Dawn](important_trainers.md#pkmn-trainer-dawn)
+1. [PKMN Trainer Lucas](important_trainers.md#pkmn-trainer-lucas)

@@ -1,5 +1,3 @@
 # Important Trainers
----
-
-## Ace Trainer Gene
+### Ace Trainer Gene
 

@@ -1,5 +1,3 @@
 # Important Trainers
----
-
-## Ace Trainer Luna
+### Ace Trainer Luna
 

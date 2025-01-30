@@ -1,6 +1,0 @@
-# Important Trainers
-
----
-
-## Leader Maylene
-

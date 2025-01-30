@@ -1,5 +1,3 @@
 # Important Trainers
----
-
-## PKMN Trainer Cheryl
+### PKMN Trainer Cheryl
 

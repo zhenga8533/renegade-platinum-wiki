@@ -4,16 +4,12 @@
 
 ## City
 
----
-
-## Arcade Star Dahlia
+### Arcade Star Dahlia
 
 
 ---
 
 ## Gym
 
----
-
-## Leader Volkner
+### Leader Volkner
 

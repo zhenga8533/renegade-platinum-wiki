@@ -20,3 +20,8 @@
 | ![Battle Girl Helen (7)](../../assets/trainers/battle_girl.png)<br>Battle Girl Helen (7) | ![Hitmontop](../../assets/sprites/hitmontop/front.gif)<br>Hitmontop<br>Lv. 54 | ![Medicham](../../assets/sprites/medicham/front.gif)<br>Medicham<br>Lv. 54 | ![Hariyama](../../assets/sprites/hariyama/front.gif)<br>Hariyama<br>Lv. 54 |
 | ![Battle Girl Helen (C)](../../assets/trainers/battle_girl.png)<br>Battle Girl Helen (C) | ![Hitmontop](../../assets/sprites/hitmontop/front.gif)<br>Hitmontop<br>Lv. 72 | ![Medicham](../../assets/sprites/medicham/front.gif)<br>Medicham<br>Lv. 72 | ![Hariyama](../../assets/sprites/hariyama/front.gif)<br>Hariyama<br>Lv. 72 |
 
+
+### Important Trainers
+
+1. [PKMN Trainer Dawn](important_trainers.md#pkmn-trainer-dawn)
+1. [PKMN Trainer Lucas](important_trainers.md#pkmn-trainer-lucas)

@@ -28,3 +28,7 @@
 | ![Black Belt Jeffery](../../assets/trainers/black_belt.png)<br>Black Belt Jeffery | ![Heracross](../../assets/sprites/heracross/front.gif)<br>Heracross<br>Lv. 36 | ![Poliwrath](../../assets/sprites/poliwrath/front.gif)<br>Poliwrath<br>Lv. 36 |
 | ![Black Belt Rafael](../../assets/trainers/black_belt.png)<br>Black Belt Rafael | ![Hitmonchan](../../assets/sprites/hitmonchan/front.gif)<br>Hitmonchan<br>Lv. 35 | ![Hitmonlee](../../assets/sprites/hitmonlee/front.gif)<br>Hitmonlee<br>Lv. 35 | ![Hitmontop](../../assets/sprites/hitmontop/front.gif)<br>Hitmontop<br>Lv. 35 |
 
+
+### Important Trainers
+
+1. [Leader Maylene](important_trainers.md#leader-maylene)

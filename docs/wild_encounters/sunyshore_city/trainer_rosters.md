@@ -2,6 +2,15 @@
 
 ---
 
+## City
+
+
+### Important Trainers
+
+1. [Arcade Star Dahlia](important_trainers.md#arcade-star-dahlia)
+
+---
+
 ## Gym
 
 
@@ -18,3 +27,7 @@
 | ![Guitarist Lonnie](../../assets/trainers/guitarist.png)<br>Guitarist Lonnie | ![Electabuzz](../../assets/sprites/electabuzz/front.gif)<br>Electabuzz<br>Lv. 60 | ![Electrode](../../assets/sprites/electrode/front.gif)<br>Electrode<br>Lv. 60 |
 | ![Ace Trainer Zachery](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Zachery | ![Ampharos](../../assets/sprites/ampharos/front.gif)<br>Ampharos<br>Lv. 60 | ![Magnezone](../../assets/sprites/magnezone/front.gif)<br>Magnezone<br>Lv. 60 | ![Manectric](../../assets/sprites/manectric/front.gif)<br>Manectric<br>Lv. 60 | ![Electrode](../../assets/sprites/electrode/front.gif)<br>Electrode<br>Lv. 60 |
 
+
+### Important Trainers
+
+1. [Leader Volkner](important_trainers.md#leader-volkner)

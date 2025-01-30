@@ -4,16 +4,12 @@
 
 ## City
 
----
-
-## PKMN Trainer Steven
+### PKMN Trainer Steven
 
 
 ---
 
 ## Gym
 
----
-
-## Leader Roark
+### Leader Roark
 

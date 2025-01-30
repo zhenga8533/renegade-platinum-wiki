@@ -6741,3 +6741,138 @@
 
 ## Pokémon Center
 
+<h3>Generic Trainers</h3>
+
+1. Reporter Kinsey
+	1. Drifloon Lv. 10
+	2. Shinx Lv. 10
+1. Reporter Kinsey (3)
+	1. Drifloon Lv. 30
+	2. Luxio Lv. 30
+1. Reporter Kinsey (5)
+	1. Drifblim Lv. 40
+	2. Luxray Lv. 40
+1. Reporter Kinsey (8)
+	1. Drifblim Lv. 60
+	2. Luxray Lv. 60
+1. Reporter Kinsey (C)
+	1. Drifblim Lv. 70
+	2. Luxray Lv. 70
+1. Reporter Kinsey (S)
+	1. Drifblim Lv. 80
+	2. Luxray Lv. 80
+1. Cameraman Tevin
+	1. Mime Jr. Lv. 10
+	2. Machop Lv. 10
+1. Cameraman Tevin (3)
+	1. Mime Jr. Lv. 30
+	2. Machoke Lv. 30
+1. Cameraman Tevin (5)
+	1. Mr. Mime Lv. 40
+	2. Machamp Lv. 40
+1. Cameraman Tevin (8)
+	1. Mr. Mime Lv. 60
+	2. Machamp Lv. 60
+1. Cameraman Tevin (C)
+	1. Mr. Mime Lv. 70
+	2. Machamp Lv. 70
+1. Cameraman Tevin (S)
+	1. Mr. Mime Lv. 80
+	2. Machamp Lv. 80
+1. Interviewers Roxy & Oli
+	1. Magnemite Lv. 10
+	2. Ralts Lv. 10
+1. Interviewers Roxy & Oli (3)
+	1. Magneton Lv. 30
+	2. Kirlia Lv. 30
+1. Interviewers Roxy & Oli (5)
+	1. Magnezone Lv. 40
+	2. Gardevoir Lv. 40
+1. Interviewers Roxy & Oli (8)
+	1. Magnezone Lv. 60
+	2. Gardevoir Lv. 60
+1. Interviewers Roxy & Oli (C)
+	1. Magnezone Lv. 70
+	2. Gardevoir Lv. 70
+1. Interviewers Roxy & Oli (S)
+	1. Magnezone Lv. 80
+	2. Gardevoir Lv. 80
+1. Idol Grace
+	1. Igglybuff Lv. 10
+	2. Cleffa Lv. 10
+1. Idol Grace (3)
+	1. Jigglypuff Lv. 30
+	2. Clefairy Lv. 30
+1. Idol Grace (5)
+	1. Wigglytuff Lv. 40
+	2. Clefable Lv. 40
+1. Idol Grace (8)
+	1. Wigglytuff Lv. 60
+	2. Clefable Lv. 60
+1. Idol Grace (C)
+	1. Wigglytuff Lv. 70
+	2. Clefable Lv. 70
+1. Idol Grace (S)
+	1. Wigglytuff Lv. 80
+	2. Clefable Lv. 80
+1. Guitarist Arturo
+	1. Kricketot Lv. 10
+	2. Voltorb Lv. 10
+1. Guitarist Arturo (3)
+	1. Kricketune Lv. 30
+	2. Electrode Lv. 30
+1. Guitarist Arturo (5)
+	1. Kricketune Lv. 40
+	2. Electrode Lv. 40
+1. Guitarist Arturo (8)
+	1. Kricketune Lv. 60
+	2. Electrode Lv. 60
+1. Guitarist Arturo (C)
+	1. Kricketune Lv. 70
+	2. Electrode Lv. 70
+1. Guitarist Arturo (S)
+	1. Kricketune Lv. 80
+	2. Electrode Lv. 80
+1. Poke Kid Ariel
+	1. Pichu Lv. 10
+	2. Pichu Lv. 10
+	3. Pichu Lv. 10
+1. Poke Kid Ariel (3)
+	1. Pichu Lv. 30
+	2. Pikachu Lv. 30
+	3. Pikachu Lv. 30
+1. Poke Kid Ariel (5)
+	1. Pichu Lv. 40
+	2. Pikachu Lv. 40
+	3. Raichu Lv. 40
+1. Poke Kid Ariel (8)
+	1. Pichu Lv. 60
+	2. Pikachu Lv. 60
+	3. Raichu Lv. 60
+1. Poke Kid Ariel (C)
+	1. Pichu Lv. 70
+	2. Pikachu Lv. 70
+	3. Raichu Lv. 70
+1. Poke Kid Ariel (S)
+	1. Pichu Lv. 80
+	2. Pikachu Lv. 80
+	3. Raichu Lv. 80
+1. Clown Lee
+	1. Aipom Lv. 10
+	2. Abra Lv. 10
+1. Clown Lee (3)
+	1. Aipom Lv. 30
+	2. Kadabra Lv. 30
+1. Clown Lee (5)
+	1. Ambipom Lv. 40
+	2. Alakazam Lv. 40
+1. Clown Lee (8)
+	1. Ambipom Lv. 60
+	2. Alakazam Lv. 60
+1. Clown Lee (C)
+	1. Ambipom Lv. 70
+	2. Alakazam Lv. 70
+1. Clown Lee (S)
+	1. Ambipom Lv. 80
+	2. Alakazam Lv. 80
+

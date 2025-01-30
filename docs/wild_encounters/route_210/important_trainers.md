@@ -4,11 +4,7 @@
 
 ## North
 
----
+### PKMN Trainer Dawn
 
-## PKMN Trainer Dawn
-
----
-
-## PKMN Trainer Lucas
+### PKMN Trainer Lucas
 

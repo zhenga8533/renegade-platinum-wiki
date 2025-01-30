@@ -8,3 +8,8 @@
 | ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Stunky](../../assets/sprites/stunky/front.gif)<br>Stunky<br>Lv. 13 | ![Silcoon](../../assets/sprites/silcoon/front.gif)<br>Silcoon<br>Lv. 13 |
 | ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Glameow](../../assets/sprites/glameow/front.gif)<br>Glameow<br>Lv. 13 | ![Cascoon](../../assets/sprites/cascoon/front.gif)<br>Cascoon<br>Lv. 13 |
 
+
+### Important Trainers
+
+1. [PKMN Trainer Dawn](important_trainers.md#pkmn-trainer-dawn)
+1. [PKMN Trainer Lucas](important_trainers.md#pkmn-trainer-lucas)

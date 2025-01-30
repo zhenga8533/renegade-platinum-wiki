@@ -15,3 +15,7 @@
 | ![Collector Terry](../../assets/trainers/collector.png)<br>Collector Terry | ![Gible](../../assets/sprites/gible/front.gif)<br>Gible<br>Lv. 24 | ![Bagon](../../assets/sprites/bagon/front.gif)<br>Bagon<br>Lv. 24 | ![Gabite](../../assets/sprites/gabite/front.gif)<br>Gabite<br>Lv. 24 |
 | ![Ruin Maniac Gerald](../../assets/trainers/ruin_maniac.png)<br>Ruin Maniac Gerald | ![Cubone](../../assets/sprites/cubone/front.gif)<br>Cubone<br>Lv. 25 | ![Probopass](../../assets/sprites/probopass/front.gif)<br>Probopass<br>Lv. 25 |
 
+
+### Important Trainers
+
+1. [PKMN Trainer Mira](important_trainers.md#pkmn-trainer-mira)

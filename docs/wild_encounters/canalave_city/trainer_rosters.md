@@ -2,6 +2,15 @@
 
 ---
 
+## City
+
+
+### Important Trainers
+
+1. [PKMN Trainer Barry](important_trainers.md#pkmn-trainer-barry)
+
+---
+
 ## Gym
 
 
@@ -17,3 +26,7 @@
 | ![Black Belt David](../../assets/trainers/black_belt.png)<br>Black Belt David | ![Lucario](../../assets/sprites/lucario/front.gif)<br>Lucario<br>Lv. 51 |
 | ![Ace Trainer Breanna](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Breanna | ![Skarmory](../../assets/sprites/skarmory/front.gif)<br>Skarmory<br>Lv. 50 | ![Mawile](../../assets/sprites/mawile/front.gif)<br>Mawile<br>Lv. 50 | ![Wormadam](../../assets/sprites/wormadam-plant/front.gif)<br>Wormadam<br>Lv. 50 |
 
+
+### Important Trainers
+
+1. [Leader Byron](important_trainers.md#leader-byron)

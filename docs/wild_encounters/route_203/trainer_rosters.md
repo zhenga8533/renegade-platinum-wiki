@@ -22,3 +22,7 @@
 | ![Lass Madeline (5)](../../assets/trainers/lass.png)<br>Lass Madeline (5) | ![Golduck](../../assets/sprites/golduck/front.gif)<br>Golduck<br>Lv. 38 | ![Sunflora](../../assets/sprites/sunflora/front.gif)<br>Sunflora<br>Lv. 38 | ![Lopunny](../../assets/sprites/lopunny/front.gif)<br>Lopunny<br>Lv. 38 |
 | ![Lass Madeline (8)](../../assets/trainers/lass.png)<br>Lass Madeline (8) | ![Golduck](../../assets/sprites/golduck/front.gif)<br>Golduck<br>Lv. 59 | ![Sunflora](../../assets/sprites/sunflora/front.gif)<br>Sunflora<br>Lv. 59 | ![Lopunny](../../assets/sprites/lopunny/front.gif)<br>Lopunny<br>Lv. 59 |
 
+
+### Important Trainers
+
+1. [PKMN Trainer Barry](important_trainers.md#pkmn-trainer-barry)

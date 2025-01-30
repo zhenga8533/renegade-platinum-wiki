@@ -1,5 +1,3 @@
 # Important Trainers
----
-
-## PKMN Trainer Mira
+### PKMN Trainer Mira
 

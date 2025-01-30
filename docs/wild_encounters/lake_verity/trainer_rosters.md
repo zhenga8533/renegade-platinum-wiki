@@ -9,3 +9,7 @@
 | ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Nidorino](../../assets/sprites/nidorino/front.gif)<br>Nidorino<br>Lv. 49 | ![Golbat](../../assets/sprites/golbat/front.gif)<br>Golbat<br>Lv. 49 | ![Wormadam](../../assets/sprites/wormadam-plant/front.gif)<br>Wormadam<br>Lv. 49 |
 | ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Nidorina](../../assets/sprites/nidorina/front.gif)<br>Nidorina<br>Lv. 49 | ![Golbat](../../assets/sprites/golbat/front.gif)<br>Golbat<br>Lv. 49 | ![Mothim](../../assets/sprites/mothim/front.gif)<br>Mothim<br>Lv. 49 |
 
+
+### Important Trainers
+
+1. [Commander Mars](important_trainers.md#commander-mars)

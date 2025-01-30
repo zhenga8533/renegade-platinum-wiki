@@ -1,5 +1,3 @@
 # Important Trainers
----
-
-## Elite Four Aaron
+### Elite Four Aaron
 

@@ -1,5 +1,3 @@
 # Important Trainers
----
-
-## PKMN Trainer Barry
+### PKMN Trainer Barry
 

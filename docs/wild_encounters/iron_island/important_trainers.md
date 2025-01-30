@@ -1,5 +1,3 @@
 # Important Trainers
----
-
-## PKMN Trainer Riley
+### PKMN Trainer Riley
 

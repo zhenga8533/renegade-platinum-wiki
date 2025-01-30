@@ -14,6 +14,10 @@
 | ![Aroma Lady Angela](../../assets/trainers/aroma_lady.png)<br>Aroma Lady Angela | ![Roselia](../../assets/sprites/roselia/front.gif)<br>Roselia<br>Lv. 23 | ![Bayleef](../../assets/sprites/bayleef/front.gif)<br>Bayleef<br>Lv. 23 | ![Skiploom](../../assets/sprites/skiploom/front.gif)<br>Skiploom<br>Lv. 23 |
 
 
+### Important Trainers
+
+1. [Leader Gardenia](important_trainers.md#leader-gardenia)
+
 ---
 
 ## Team Galactic Building
@@ -31,3 +35,7 @@
 | ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Houndour](../../assets/sprites/houndour/front.gif)<br>Houndour<br>Lv. 23 | ![Skorupi](../../assets/sprites/skorupi/front.gif)<br>Skorupi<br>Lv. 23 | ![Beautifly](../../assets/sprites/beautifly/front.gif)<br>Beautifly<br>Lv. 23 |
 | ![Scientist Travon](../../assets/trainers/scientist.png)<br>Scientist Travon | ![Drowzee](../../assets/sprites/drowzee/front.gif)<br>Drowzee<br>Lv. 24 | ![Metang](../../assets/sprites/metang/front.gif)<br>Metang<br>Lv. 24 | ![Kadabra](../../assets/sprites/kadabra/front.gif)<br>Kadabra<br>Lv. 24 |
 
+
+### Important Trainers
+
+1. [Commander Jupiter](important_trainers.md#commander-jupiter)

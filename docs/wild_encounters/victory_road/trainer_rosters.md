@@ -44,3 +44,7 @@
 | ![Ace Trainer Arthur](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Arthur | ![Gastrodon](../../assets/sprites/gastrodon/front.gif)<br>Gastrodon<br>Lv. 64 | ![Beedrill](../../assets/sprites/beedrill/front.gif)<br>Beedrill<br>Lv. 64 | ![Ampharos](../../assets/sprites/ampharos/front.gif)<br>Ampharos<br>Lv. 64 |
 | ![Ace Trainer Clarice](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Clarice | ![Swalot](../../assets/sprites/swalot/front.gif)<br>Swalot<br>Lv. 64 | ![Ninetales](../../assets/sprites/ninetales/front.gif)<br>Ninetales<br>Lv. 64 | ![Scizor](../../assets/sprites/scizor/front.gif)<br>Scizor<br>Lv. 64 |
 
+
+### Important Trainers
+
+1. [PKMN Trainer Marley](important_trainers.md#pkmn-trainer-marley)

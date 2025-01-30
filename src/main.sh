@@ -23,6 +23,9 @@ WILD_ENCOUNTER_PATH=$(grep "^WILD_ENCOUNTER_PATH" .env | cut -d '=' -f2- | tr -d
 rm -rf $OUTPUT_PATH
 rm -rf $NAV_OUTPUT_PATH
 rm -rf $WILD_ENCOUNTER_PATH
+rm -rf ../docs/pokemon
+rm -rf ../docs/wild_encounters
+
 if [ -d $POKEMON_INPUT_PATH ]; then
   echo "Pokemon input data found"
 else

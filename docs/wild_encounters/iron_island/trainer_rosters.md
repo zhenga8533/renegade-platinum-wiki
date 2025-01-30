@@ -19,3 +19,7 @@
 | ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Golbat](../../assets/sprites/golbat/front.gif)<br>Golbat<br>Lv. 46 | ![Houndoom](../../assets/sprites/houndoom/front.gif)<br>Houndoom<br>Lv. 46 | ![Muk](../../assets/sprites/muk/front.gif)<br>Muk<br>Lv. 46 |
 | ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Purugly](../../assets/sprites/purugly/front.gif)<br>Purugly<br>Lv. 46 | ![Toxicroak](../../assets/sprites/toxicroak/front.gif)<br>Toxicroak<br>Lv. 46 | ![Skuntank](../../assets/sprites/skuntank/front.gif)<br>Skuntank<br>Lv. 46 |
 
+
+### Important Trainers
+
+1. [PKMN Trainer Riley](important_trainers.md#pkmn-trainer-riley)

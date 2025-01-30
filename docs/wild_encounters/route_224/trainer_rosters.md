@@ -21,3 +21,8 @@
 | ![Veteran Armando (S)](../../assets/trainers/veteran.png)<br>Veteran Armando (S) | ![Muk](../../assets/sprites/muk/front.gif)<br>Muk<br>Lv. 77 | ![Mightyena](../../assets/sprites/mightyena/front.gif)<br>Mightyena<br>Lv. 77 | ![Lickilicky](../../assets/sprites/lickilicky/front.gif)<br>Lickilicky<br>Lv. 77 | ![Pelipper](../../assets/sprites/pelipper/front.gif)<br>Pelipper<br>Lv. 77 |
 | ![Dragon Tamer Hayden (S)](../../assets/trainers/dragon_tamer.png)<br>Dragon Tamer Hayden (S) | ![Altaria](../../assets/sprites/altaria/front.gif)<br>Altaria<br>Lv. 77 | ![Salamence](../../assets/sprites/salamence/front.gif)<br>Salamence<br>Lv. 77 | ![Kingdra](../../assets/sprites/kingdra/front.gif)<br>Kingdra<br>Lv. 77 | ![Dragonite](../../assets/sprites/dragonite/front.gif)<br>Dragonite<br>Lv. 77 |
 
+
+### Important Trainers
+
+1. [PKMN Trainer Dawn](important_trainers.md#pkmn-trainer-dawn)
+1. [PKMN Trainer Lucas](important_trainers.md#pkmn-trainer-lucas)

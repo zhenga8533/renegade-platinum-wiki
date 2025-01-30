@@ -4,16 +4,12 @@
 
 ## Gym
 
----
-
-## Leader Gardenia
+### Leader Gardenia
 
 
 ---
 
 ## Team Galactic Building
 
----
-
-## Commander Jupiter
+### Commander Jupiter
 
