@@ -6,10 +6,9 @@
 
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![Hiker Robert](../../assets/trainers/hiker.png)<br>Hiker Robert | ![Marowak](../../assets/sprites/marowak/front.gif)<br>Marowak<br>Lv. 28 |
-| ![Hiker Jonathan](../../assets/trainers/hiker.png)<br>Hiker Jonathan | ![Hippopotas](../../assets/sprites/hippopotas/front.gif)<br>Hippopotas<br>Lv. 26 | ![Shuckle](../../assets/sprites/shuckle/front.gif)<br>Shuckle<br>Lv. 26 | ![Bronzor](../../assets/sprites/bronzor/front.gif)<br>Bronzor<br>Lv. 26 |
-| ![Black Belt Kyle](../../assets/trainers/black_belt.png)<br>Black Belt Kyle | ![Machoke](../../assets/sprites/machoke/front.gif)<br>Machoke<br>Lv. 29 |
-| ![Aroma Lady Hannah](../../assets/trainers/aroma_lady.png)<br>Aroma Lady Hannah | ![Roselia](../../assets/sprites/roselia/front.gif)<br>Roselia<br>Lv. 27 | ![Sunflora](../../assets/sprites/sunflora/front.gif)<br>Sunflora<br>Lv. 27 |
-| ![Artist William (!)](../../assets/trainers/artist.png)<br>Artist William (!) | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 26 | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 26 | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 26 |
-| ![Fisherman Cody](../../assets/trainers/fisherman.png)<br>Fisherman Cody | ![Whiscash](../../assets/sprites/whiscash/front.gif)<br>Whiscash<br>Lv. 44 | ![Gyarados](../../assets/sprites/gyarados/front.gif)<br>Gyarados<br>Lv. 44 |
-| ![Hiker Alexander](../../assets/trainers/hiker.png)<br>Hiker Alexander | ![Graveler](../../assets/sprites/graveler/front.gif)<br>Graveler<br>Lv. 28 |
+| ![Youngster Donny](../../assets/trainers/youngster.png)<br>Youngster Donny | ![Gastly](../../assets/sprites/gastly/front.gif)<br>Gastly<br>Lv. 27 | ![Gastly](../../assets/sprites/gastly/front.gif)<br>Gastly<br>Lv. 27 | ![Gastly](../../assets/sprites/gastly/front.gif)<br>Gastly<br>Lv. 27 |
+| ![Lass Molly](../../assets/trainers/lass.png)<br>Lass Molly | ![Misdreavus](../../assets/sprites/misdreavus/front.gif)<br>Misdreavus<br>Lv. 29 |
+| ![School Kid Chance](../../assets/trainers/school_kid.png)<br>School Kid Chance | ![Duskull](../../assets/sprites/duskull/front.gif)<br>Duskull<br>Lv. 26 | ![Shuppet](../../assets/sprites/shuppet/front.gif)<br>Shuppet<br>Lv. 26 | ![Duskull](../../assets/sprites/duskull/front.gif)<br>Duskull<br>Lv. 26 |
+| ![School Kid Mackenzie](../../assets/trainers/school_kid.png)<br>School Kid Mackenzie | ![Shuppet](../../assets/sprites/shuppet/front.gif)<br>Shuppet<br>Lv. 26 | ![Duskull](../../assets/sprites/duskull/front.gif)<br>Duskull<br>Lv. 26 | ![Shuppet](../../assets/sprites/shuppet/front.gif)<br>Shuppet<br>Lv. 26 |
+| ![Ace Trainer Allen](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Allen | ![Haunter](../../assets/sprites/haunter/front.gif)<br>Haunter<br>Lv. 29 | ![Shedinja](../../assets/sprites/shedinja/front.gif)<br>Shedinja<br>Lv. 29 | ![Sableye](../../assets/sprites/sableye/front.gif)<br>Sableye<br>Lv. 29 |
+| ![Ace Trainer Catherine](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Catherine | ![Haunter](../../assets/sprites/haunter/front.gif)<br>Haunter<br>Lv. 29 | ![Rotom](../../assets/sprites/rotom/front.gif)<br>Rotom<br>Lv. 29 | ![Froslass](../../assets/sprites/froslass/front.gif)<br>Froslass<br>Lv. 29 |

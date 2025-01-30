@@ -17,7 +17,7 @@
 | ![Masquerain](../../assets/sprites/masquerain/front.gif) | Masquerain | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 53 - 54 | 20% |
 | ![Lickitung](../../assets/sprites/lickitung/front.gif) | Lickitung | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 53 - 54 | 10% |
 | ![Golduck](../../assets/sprites/golduck/front.gif) | Golduck | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 53 - 54 | 10% |
-| ![Wobbuffet](../../assets/sprites/wobbuffet/front.gif) | Wobbuffet | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 53 - 54 | 22% |
+| ![Wobbuffet](../../assets/sprites/wobbuffet/front.gif) | Wobbuffet | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 53 - 54 | 22% |
 
 ### Surfing
 

@@ -62,6 +62,7 @@ def format_id(id: str, symbol: str = "-") -> str:
     :return: Formatted ID.
     """
 
+    id = id.replace("é", "e")
     id = re.sub(r"[^a-zA-Z0-9é\s-]", "", id)
     id = re.sub(r"\s+", " ", id).strip()
     return id.lower().replace(" ", symbol)

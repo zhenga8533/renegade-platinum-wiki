@@ -1,17 +1,25 @@
 # Trainer Rosters
 
----
-
-## Generic Trainers
+### Generic Trainers
 
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![PI Carlos (!)](../../assets/trainers/pi.png)<br>PI Carlos (!) | ![Dugtrio](../../assets/sprites/dugtrio/front.gif)<br>Dugtrio<br>Lv. 36 |
-| ![Collector Douglas](../../assets/trainers/collector.png)<br>Collector Douglas | ![Jolteon](../../assets/sprites/jolteon/front.gif)<br>Jolteon<br>Lv. 33 | ![Vaporeon](../../assets/sprites/vaporeon/front.gif)<br>Vaporeon<br>Lv. 33 | ![Flareon](../../assets/sprites/flareon/front.gif)<br>Flareon<br>Lv. 33 |
-| ![Collector Brady](../../assets/trainers/collector.png)<br>Collector Brady | ![Kangaskhan](../../assets/sprites/kangaskhan/front.gif)<br>Kangaskhan<br>Lv. 33 | ![Tropius](../../assets/sprites/tropius/front.gif)<br>Tropius<br>Lv. 33 | ![Swalot](../../assets/sprites/swalot/front.gif)<br>Swalot<br>Lv. 33 |
-| ![Ruin Maniac Bryan](../../assets/trainers/ruin_maniac.png)<br>Ruin Maniac Bryan | ![Anorith](../../assets/sprites/anorith/front.gif)<br>Anorith<br>Lv. 33 | ![Lileep](../../assets/sprites/lileep/front.gif)<br>Lileep<br>Lv. 33 | ![Aerodactyl](../../assets/sprites/aerodactyl/front.gif)<br>Aerodactyl<br>Lv. 33 |
-| ![Ruin Maniac Ronald](../../assets/trainers/ruin_maniac.png)<br>Ruin Maniac Ronald | ![Relicanth](../../assets/sprites/relicanth/front.gif)<br>Relicanth<br>Lv. 35 |
-| ![Collector Jamal](../../assets/trainers/collector.png)<br>Collector Jamal | ![Lapras](../../assets/sprites/lapras/front.gif)<br>Lapras<br>Lv. 35 |
-| ![Beauty Devon](../../assets/trainers/beauty.png)<br>Beauty Devon | ![Wormadam](../../assets/sprites/wormadam-plant/front.gif)<br>Wormadam<br>Lv. 33 | ![Wormadam](../../assets/sprites/wormadam-plant/front.gif)<br>Wormadam<br>Lv. 33 | ![Wormadam](../../assets/sprites/wormadam-plant/front.gif)<br>Wormadam<br>Lv. 33 |
-| ![Psychic Mitchell (!)](../../assets/trainers/psychic.png)<br>Psychic Mitchell (!) | ![Kadabra](../../assets/sprites/kadabra/front.gif)<br>Kadabra<br>Lv. 34 | ![Grumpig](../../assets/sprites/grumpig/front.gif)<br>Grumpig<br>Lv. 34 | ![Hypno](../../assets/sprites/hypno/front.gif)<br>Hypno<br>Lv. 34 |
-| ![Psychic Abigail (!)](../../assets/trainers/psychic.png)<br>Psychic Abigail (!) | ![Kirlia](../../assets/sprites/kirlia/front.gif)<br>Kirlia<br>Lv. 34 | ![Chimecho](../../assets/sprites/chimecho/front.gif)<br>Chimecho<br>Lv. 34 | ![Girafarig](../../assets/sprites/girafarig/front.gif)<br>Girafarig<br>Lv. 34 |
+| ![Artist Ismael](../../assets/trainers/artist.png)<br>Artist Ismael | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 37 |
+| ![Beauty Harley](../../assets/trainers/beauty.png)<br>Beauty Harley | ![Golduck](../../assets/sprites/golduck/front.gif)<br>Golduck<br>Lv. 37 |
+| ![Rich Boy Roman](../../assets/trainers/rich_boy.png)<br>Rich Boy Roman | ![Arcanine](../../assets/sprites/arcanine/front.gif)<br>Arcanine<br>Lv. 37 |
+| ![Lady Kylie](../../assets/trainers/lady.png)<br>Lady Kylie | ![Vileplume](../../assets/sprites/vileplume/front.gif)<br>Vileplume<br>Lv. 37 |
+| ![Gentleman Leonardo](../../assets/trainers/gentleman.png)<br>Gentleman Leonardo | ![Chatot](../../assets/sprites/chatot/front.gif)<br>Chatot<br>Lv. 37 |
+| ![Socialite Rebecca](../../assets/trainers/socialite.png)<br>Socialite Rebecca | ![Persian](../../assets/sprites/persian/front.gif)<br>Persian<br>Lv. 37 |
+| ![Collector Eugene](../../assets/trainers/collector.png)<br>Collector Eugene | ![Milotic](../../assets/sprites/milotic/front.gif)<br>Milotic<br>Lv. 37 |
+| ![Aroma Lady Alison](../../assets/trainers/aroma_lady.png)<br>Aroma Lady Alison | ![Meganium](../../assets/sprites/meganium/front.gif)<br>Meganium<br>Lv. 37 |
+| ![School Kid Esteban](../../assets/trainers/school_kid.png)<br>School Kid Esteban | ![Quagsire](../../assets/sprites/quagsire/front.gif)<br>Quagsire<br>Lv. 37 |
+| ![Pokefan Meredith](../../assets/trainers/pokefan.png)<br>Pokefan Meredith | ![Pachirisu](../../assets/sprites/pachirisu/front.gif)<br>Pachirisu<br>Lv. 37 |
+| ![Veteran Emanuel](../../assets/trainers/veteran.png)<br>Veteran Emanuel | ![Blaziken](../../assets/sprites/blaziken/front.gif)<br>Blaziken<br>Lv. 37 |
+| ![Lass Blythe](../../assets/trainers/lass.png)<br>Lass Blythe | ![Lopunny](../../assets/sprites/lopunny/front.gif)<br>Lopunny<br>Lv. 37 |
+| ![Cameraman Darryl](../../assets/trainers/cameraman.png)<br>Cameraman Darryl | ![Magneton](../../assets/sprites/magneton/front.gif)<br>Magneton<br>Lv. 37 |
+| ![Reporter Valerie](../../assets/trainers/reporter.png)<br>Reporter Valerie | ![Loudred](../../assets/sprites/loudred/front.gif)<br>Loudred<br>Lv. 37 |
+| ![PI Kendrick](../../assets/trainers/pi.png)<br>PI Kendrick | ![Rhydon](../../assets/sprites/rhydon/front.gif)<br>Rhydon<br>Lv. 37 |
+| ![Beauty Gabriella](../../assets/trainers/beauty.png)<br>Beauty Gabriella | ![Lumineon](../../assets/sprites/lumineon/front.gif)<br>Lumineon<br>Lv. 37 |
+| ![Scientist Emilio](../../assets/trainers/scientist.png)<br>Scientist Emilio | ![Alakazam](../../assets/sprites/alakazam/front.gif)<br>Alakazam<br>Lv. 37 |
+| ![PKMN Breeder Kaylee](../../assets/trainers/pkmn_breeder.png)<br>PKMN Breeder Kaylee | ![Azumarill](../../assets/sprites/azumarill/front.gif)<br>Azumarill<br>Lv. 37 |
+

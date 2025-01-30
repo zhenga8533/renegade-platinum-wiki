@@ -1,6 +1,9 @@
 # Important Trainers
+---
+
+## Ace Trainer Slythe
 
 ---
 
-## Ace Trainer Wyver
+## PKMN Trainer Buck
 

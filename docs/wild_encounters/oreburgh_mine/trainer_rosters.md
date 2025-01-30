@@ -1,9 +1,9 @@
 # Trainer Rosters
 
----
-
-## Generic Trainers
+### Generic Trainers
 
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![Reporter Helen](../../assets/trainers/reporter.png)<br>Reporter Helen | ![Treecko](../../assets/sprites/treecko/front.gif)<br>Treecko<br>Lv. 10 | ![Torchic](../../assets/sprites/torchic/front.gif)<br>Torchic<br>Lv. 10 | ![Mudkip](../../assets/sprites/mudkip/front.gif)<br>Mudkip<br>Lv. 10 |
+| ![Worker Mason](../../assets/trainers/worker.png)<br>Worker Mason | ![Aron](../../assets/sprites/aron/front.gif)<br>Aron<br>Lv. 12 | ![Phanpy](../../assets/sprites/phanpy/front.gif)<br>Phanpy<br>Lv. 12 | ![Riolu](../../assets/sprites/riolu/front.gif)<br>Riolu<br>Lv. 12 |
+| ![Worker Colin](../../assets/trainers/worker.png)<br>Worker Colin | ![Geodude](../../assets/sprites/geodude/front.gif)<br>Geodude<br>Lv. 12 | ![Whismur](../../assets/sprites/whismur/front.gif)<br>Whismur<br>Lv. 12 | ![Machop](../../assets/sprites/machop/front.gif)<br>Machop<br>Lv. 12 |
+

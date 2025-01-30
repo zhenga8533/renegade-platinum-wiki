@@ -1,10 +1,5 @@
 # Important Trainers
-
 ---
 
-## PKMN Trainer Dawn
-
----
-
-## PKMN Trainer Lucas
+## PKMN Trainer Mira
 

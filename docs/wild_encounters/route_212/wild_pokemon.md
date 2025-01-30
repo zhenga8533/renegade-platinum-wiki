@@ -27,7 +27,7 @@
 | ![Gloom](../../assets/sprites/gloom/front.gif) | Gloom | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 24 - 26 | 10% |
 | ![Kirlia](../../assets/sprites/kirlia/front.gif) | Kirlia | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 24 - 26 | 10% |
 | ![Smeargle](../../assets/sprites/smeargle/front.gif) | Smeargle | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 24 - 26 | 10% |
-| ![Farfetch'd](../../assets/sprites/farfetchd/front.gif) | Farfetch'd | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 24 - 26 | 22% |
+| ![Farfetch'd](../../assets/sprites/farfetchd/front.gif) | Farfetch'd | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 24 - 26 | 22% |
 
 ### Surfing
 
@@ -89,8 +89,8 @@
 | ![Lombre](../../assets/sprites/lombre/front.gif) | Lombre | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 33 - 36 | 10% |
 | ![Arbok](../../assets/sprites/arbok/front.gif) | Arbok | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 33 - 36 | 5% |
 | ![Toxicroak](../../assets/sprites/toxicroak/front.gif) | Toxicroak | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 33 - 36 | 5% |
-| ![Muk](../../assets/sprites/muk/front.gif) | Muk | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 33 - 36 | 11% |
-| ![Weezing](../../assets/sprites/weezing/front.gif) | Weezing | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 33 - 36 | 11% |
+| ![Muk](../../assets/sprites/muk/front.gif) | Muk | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 33 - 36 | 11% |
+| ![Weezing](../../assets/sprites/weezing/front.gif) | Weezing | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 33 - 36 | 11% |
 
 ### Surfing
 

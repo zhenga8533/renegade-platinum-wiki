@@ -1,12 +1,10 @@
 # Trainer Rosters
 
----
-
-## Generic Trainers
+### Generic Trainers
 
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![Fisherman Miguel (!)](../../assets/trainers/fisherman.png)<br>Fisherman Miguel (!) | ![Huntail](../../assets/sprites/huntail/front.gif)<br>Huntail<br>Lv. 44 | ![Gorebyss](../../assets/sprites/gorebyss/front.gif)<br>Gorebyss<br>Lv. 44 |
-| ![Fisherman Luc](../../assets/trainers/fisherman.png)<br>Fisherman Luc | ![Crawdaunt](../../assets/sprites/crawdaunt/front.gif)<br>Crawdaunt<br>Lv. 45 |
-| ![Sailor Skyler](../../assets/trainers/sailor.png)<br>Sailor Skyler | ![Omastar](../../assets/sprites/omastar/front.gif)<br>Omastar<br>Lv. 43 | ![Kabutops](../../assets/sprites/kabutops/front.gif)<br>Kabutops<br>Lv. 43 | ![Relicanth](../../assets/sprites/relicanth/front.gif)<br>Relicanth<br>Lv. 43 |
-| ![Guitarist Tony (!)](../../assets/trainers/guitarist.png)<br>Guitarist Tony (!) | ![Kricketune](../../assets/sprites/kricketune/front.gif)<br>Kricketune<br>Lv. 44 | ![Exploud](../../assets/sprites/exploud/front.gif)<br>Exploud<br>Lv. 44 |
+| ![Worker Dillan](../../assets/trainers/worker.png)<br>Worker Dillan | ![Machop](../../assets/sprites/machop/front.gif)<br>Machop<br>Lv. 42 | ![Machoke](../../assets/sprites/machoke/front.gif)<br>Machoke<br>Lv. 43 | ![Machamp](../../assets/sprites/machamp/front.gif)<br>Machamp<br>Lv. 44 |
+| ![Worker Holden](../../assets/trainers/worker.png)<br>Worker Holden | ![Magnemite](../../assets/sprites/magnemite/front.gif)<br>Magnemite<br>Lv. 42 | ![Magnemite](../../assets/sprites/magnemite/front.gif)<br>Magnemite<br>Lv. 42 | ![Steelix](../../assets/sprites/steelix/front.gif)<br>Steelix<br>Lv. 45 |
+| ![Worker Conrad](../../assets/trainers/worker.png)<br>Worker Conrad | ![Magmar](../../assets/sprites/magmar/front.gif)<br>Magmar<br>Lv. 43 | ![Magcargo](../../assets/sprites/magcargo/front.gif)<br>Magcargo<br>Lv. 43 | ![Rapidash](../../assets/sprites/rapidash/front.gif)<br>Rapidash<br>Lv. 43 |
+

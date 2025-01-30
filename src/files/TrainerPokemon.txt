@@ -93,7 +93,7 @@ Camper Curtis               Seedot Lv. 10, Diglett Lv. 10
 Picnicker Diana             Whismur Lv. 10, Wooper Lv. 10
 Veteran Grant               Lucario Lv. 45, Golem Lv. 45, Staraptor Lv. 45
 
-Oreburgh City
+Oreburgh City (City)
 =================================================================================================================================================
 Reporter Helen              Treecko Lv. 10, Torchic Lv. 10, Mudkip Lv. 10
 PKMN Trainer Steven         Skarmory Lv. 88, Aggron Lv. 88, Aerodactyl Lv. 88, Cradily Lv. 88, Armaldo Lv. 88, Metagross Lv. 89
@@ -111,7 +111,7 @@ Oreburgh Mine
 Worker Mason                Aron Lv. 12, Phanpy Lv. 12, Riolu Lv. 12
 Worker Colin                Geodude Lv. 12, Whismur Lv. 12, Machop Lv. 12
 
-Oreburgh Gym
+Oreburgh City (Gym)
 =================================================================================================================================================
 Youngster Jonathon          Rhyhorn Lv. 13, Omanyte Lv. 13, Kabuto Lv. 13
 Youngster Darius            Aron Lv. 13, Anorith Lv. 13, Lileep Lv. 13
@@ -295,7 +295,7 @@ Cyclist Kayla (5)           Electrode Lv. 38, Magneton Lv. 38, Manectric Lv. 38
 Cyclist Kayla (8)           Electrode Lv. 59, Magneton Lv. 59, Manectric Lv. 59
 Cyclist Kayla (C)           Electrode Lv. 70, Magnezone Lv. 70, Manectric Lv. 70
 
-Eterna Gym
+Eterna City (Gym)
 =================================================================================================================================================
 Lass Caroline               Lotad Lv. 22, Cacnea Lv. 22, Exeggcute Lv. 22, Shroomish Lv. 22
 Aroma Lady Jenna            Weepinbell Lv. 23, Ivysaur Lv. 23, Gloom Lv. 23
@@ -310,7 +310,7 @@ Grotle (Lv. 25) @ Leftovers         /   Adamant     /   Overgrow        /   Seed
 Breloom (Lv. 25) @ Muscle Band      /   Naughty     /   Technician      /   Bullet Seed, Mach Punch, Thunder Punch, Spore
 Roserade (Lv. 26) @ Sitrus Berry    /   Timid       /   Technician      /   Magical Leaf, Sludge, Dazzling Gleam, Extrasensory
 
-Team Galactic Eterna Building
+Eterna City (Team Galactic Building)
 =================================================================================================================================================
 Galactic Grunt              Ledian Lv. 24, Ariados Lv. 24
 Galactic Grunt              Ekans Lv. 23, Glameow Lv. 23, Nidoran F Lv. 23
@@ -406,7 +406,7 @@ Venomoth (Lv. 31) @ Wise Glasses    /   Naive       /   Tinted Lens     /   Bug 
 Scizor (Lv. 31) @ Muscle Band       /   Adamant     /   Technician      /   X-Scissor, Bullet Punch, Iron Head, Swords Dance
 Drapion (Lv. 32) @ Scope Lens       /   Jolly       /   Sniper          /   Cross Poison, X-Scissor, Night Slash, Swords Dance
 
-Hearthome Gym
+Hearthome City (Gym)
 =================================================================================================================================================
 Youngster Donny             Gastly Lv. 27, Gastly Lv. 27, Gastly Lv. 27
 Lass Molly                  Misdreavus Lv. 29
@@ -550,7 +550,13 @@ Ace Trainer Dennis (S)      Gliscor Lv. 77, Gyarados Lv. 77, Drifblim Lv. 77
 Ace Trainer Maya (7)        Lickilicky Lv. 62, Gardevoir Lv. 62, Roserade Lv. 62
 Ace Trainer Maya (S)        Lickilicky Lv. 77, Gardevoir Lv. 77, Roserade Lv. 77
 
-Veilstone Gym
+Veilstone City (City)
+=================================================================================================================================================
+Dragon Tamer Nils           Dragonair Lv. 35, Shelgon Lv. 35, Vibrava Lv. 35, Kingdra Lv. 36
+Team Galactic Grunt         Weezing Lv. 35, Golbat Lv. 35, Venomoth Lv. 35
+Team Galactic Grunt         Skuntank Lv. 35, Dustox Lv. 35, Wormadam Lv. 35
+
+Veilstone City (Gym)
 =================================================================================================================================================
 Black Belt Colby            Machop Lv. 33, Meditite Lv. 33, Croagunk Lv. 33, Mankey Lv. 33, Makuhita Lv. 33
 Black Belt Darren           Primeape Lv. 35, Hariyama Lv. 35, Breloom Lv. 35
@@ -565,12 +571,6 @@ Infernape (Lv. 38) @ Life Orb       /   Hasty       /   Iron Fist           /   
 Toxicroak (Lv. 38) @ Big Root       /   Lonely      /   Dry Skin            /   Drain Punch, Poison Jab, Ice Punch, Sucker Punch
 Gallade (Lv. 38) @ Light Clay       /   Brave       /   Steadfast           /   Drain Punch, Zen Headbutt, Light Screen, Reflect
 Lucario (Lv. 39) @ Focus Sash       /   Timid       /   Adaptability (!)    /   Aura Sphere, Flash Cannon, Dark Pulse, Agility
-
-Veilstone City
-=================================================================================================================================================
-Dragon Tamer Nils           Dragonair Lv. 35, Shelgon Lv. 35, Vibrava Lv. 35, Kingdra Lv. 36
-Team Galactic Grunt         Weezing Lv. 35, Golbat Lv. 35, Venomoth Lv. 35
-Team Galactic Grunt         Skuntank Lv. 35, Dustox Lv. 35, Wormadam Lv. 35
 
 Route 214
 =================================================================================================================================================
@@ -663,7 +663,7 @@ Parasol Lady Alexa (5)      Seadra Lv. 39, Golduck Lv. 39
 Parasol Lady Alexa (8)      Kingdra Lv. 60, Golduck Lv. 60
 Parasol Lady Alexa (C)      Kingdra Lv. 71, Golduck Lv. 71
 
-Pastoria City
+Pastoria City (City)
 =================================================================================================================================================
 PKMN Trainer Barry          Staraptor Lv. 41, Heracross Lv. 41, Snorlax Lv. 41, Azumarill Lv. 41, Arcanine Lv. 41, Torterra Lv. 42
 PKMN Trainer Barry          Staraptor Lv. 41, Heracross Lv. 41, Snorlax Lv. 41, Azumarill Lv. 41, Breloom Lv. 41, Infernape Lv. 42
@@ -680,7 +680,7 @@ Torterra (Lv. 42) @ Sitrus Berry    /   ?           /   Overgrow        /   Seed
 Infernape (Lv. 42) @ Sitrus Berry   /   ?           /   Iron Fist       /   Flamethrower, Close Combat, Fake Out, Thunder Punch (!)
 Empoleon (Lv. 42) @ Sitrus Berry    /   ?           /   Torrent         /   Scald, Flash Cannon, Agility, Swagger               (!)
 
-Pastoria Gym
+Pastoria City (Gym)
 =================================================================================================================================================
 Tuber Jacky                 Bibarel Lv. 39, Wartortle Lv. 39, Sealeo Lv. 39
 Fisherman Walter            Whiscash Lv. 39, Lanturn Lv. 39, Seaking Lv. 39
@@ -821,7 +821,7 @@ Metagross (Lv. 48) @ Life Orb       /   ?           /   Iron Fist (!)   /   Mete
 Staraptor (Lv. 48) @ King's Rock    /   ?           /   Reckless        /   Return, Brave Bird, Close Combat, Roost
 Entei (Lv. 48) @ Shuca Berry        /   ?           /   Pressure        /   Sacred Fire, Stone Edge, Extreme Speed, Iron Head
 
-Canalave City
+Canalave City (City)
 =================================================================================================================================================
 PKMN Trainer Barry          Staraptor Lv. 48, Heracross Lv. 48, Snorlax Lv. 48, Azumarill Lv. 48, Arcanine Lv. 48, Torterra Lv. 49
 PKMN Trainer Barry          Staraptor Lv. 48, Heracross Lv. 48, Snorlax Lv. 48, Azumarill Lv. 48, Breloom Lv. 48, Infernape Lv. 49
@@ -864,7 +864,7 @@ Salamence (Lv. 49) @ Power Herb     /   ?           /   Intimidate      /   Drag
 Slaking (Lv. 49) @ Sitrus Berry     /   ?           /   Truant          /   Body Slam, Hammer Arm, Play Rough, Slack Off
 Lucario (Lv. 50) @ Life Orb         /   ?           /   Adaptability    /   High Jump Kick, Meteor Mash, Blaze Kick, Bullet Punch
 
-Canalave Gym
+Canalave City (Gym)
 =================================================================================================================================================
 Black Belt Ricky            Steelix Lv. 51
 Worker Gary                 Magnemite Lv. 46, Aron Lv. 46, Bronzor Lv. 46, Beldum Lv. 46, Shieldon Lv. 46
@@ -932,12 +932,12 @@ Skier Bjorn (8)             Piloswine Lv. 59, Piloswine Lv. 59, Mamoswine Lv. 59
 Skier Bjorn (C)             Mamoswine Lv. 72, Mamoswine Lv. 72, Mamoswine Lv. 72
 Ace Trainer Olivia (C)      Shiftry Lv. 72, Altaria Lv. 72, Blissey Lv. 72
 
-Snowpoint City
+Snowpoint City (City)
 =================================================================================================================================================
 Ace Trainer Aran            Heracross Lv. 54, Typhlosion Lv. 54, Tyranitar Lv. 54
 Ace Trainer Nephenee        Blissey Lv. 54, Meganium Lv. 54, Feraligatr Lv. 54
 
-Snowpoint Gym
+Snowpoint City (Gym)
 =================================================================================================================================================
 Ace Trainer Anton           Snorunt Lv. 51, Glalie Lv. 54, Glalie Lv. 54
 Ace Trainer Savannah        Seel Lv. 51, Jynx Lv. 54, Dewgong Lv. 54
@@ -1074,7 +1074,7 @@ Sailor Marc (C)             Lanturn Lv. 70, Machamp Lv. 70, Mantine Lv. 70
 Sailor Marc (S)             Lanturn Lv. 75, Machamp Lv. 75, Mantine Lv. 75
 Fisherman Alec (C)          Gyarados Lv. 70, Gyarados Lv. 70, Gyarados Lv. 70
 
-Sunyshore City
+Sunyshore City (City)
 =================================================================================================================================================
 Arcade Star Dahlia          Blaziken Lv. 63, Dusknoir Lv. 63, Medicham Lv. 63, Togekiss Lv. 63, Ludicolo Lv. 63, Zapdos Lv. 63
 
@@ -1086,7 +1086,7 @@ Togekiss (Lv. 63) @ Wise Glasses    /   ?           /   Serene Grace    /   Hurr
 Ludicolo (Lv. 63) @ Life Orb        /   ?           /   Swift Swim      /   Hydro Pump, Giga Drain, Ice Beam, Fake Out
 Zapdos (Lv. 63) @ Sitrus Berry      /   ?           /   Pressure        /   Thunderbolt, Heat Wave, Drill Peck, Light Screen
 
-Sunyshore Gym
+Sunyshore City (Gym)
 =================================================================================================================================================
 School Kid Tiera            Plusle Lv. 56, Minun Lv. 56, Pachirisu Lv. 59
 School Kid Forrest          Elekid Lv. 56, Elekid Lv. 56, Electabuzz Lv. 59

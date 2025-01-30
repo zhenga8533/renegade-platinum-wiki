@@ -1,6 +1,5 @@
 # Important Trainers
-
 ---
 
-## Ace Trainer Shade
+## Ace Trainer Gene
 

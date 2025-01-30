@@ -23,5 +23,5 @@
 | ![Abomasnow](../../assets/sprites/abomasnow/front.gif) | Abomasnow | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 44 - 48 | 10% |
 | ![Glalie](../../assets/sprites/glalie/front.gif) | Glalie | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 44 - 48 | 10% |
 | ![Delibird](../../assets/sprites/delibird/front.gif) | Delibird | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 44 - 48 | 10% |
-| ![Froslass](../../assets/sprites/froslass/front.gif) | Froslass | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 44 - 48 | 22% |
+| ![Froslass](../../assets/sprites/froslass/front.gif) | Froslass | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 44 - 48 | 22% |
 

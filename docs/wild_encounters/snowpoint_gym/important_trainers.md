@@ -1,2 +1,6 @@
 # Important Trainers
 
+---
+
+## Leader Candice
+

@@ -19,5 +19,5 @@
 | ![Kricketot](../../assets/sprites/kricketot/front.gif) | Kricketot | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 4 - 5 | 10% |
 | ![Nidoran M](../../assets/sprites/nidoran-m/front.gif) | Nidoran M | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 4 - 5 | 10% |
 | ![Nidoran F](../../assets/sprites/nidoran-f/front.gif) | Nidoran F | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 4 - 5 | 10% |
-| ![Doduo](../../assets/sprites/doduo/front.gif) | Doduo | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 4 - 5 | 22% |
+| ![Doduo](../../assets/sprites/doduo/front.gif) | Doduo | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 4 - 5 | 22% |
 

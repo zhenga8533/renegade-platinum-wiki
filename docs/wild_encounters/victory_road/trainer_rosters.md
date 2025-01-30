@@ -1,31 +1,6 @@
 # Trainer Rosters
 
----
-
-## Generic Trainers
-
-| Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
-|:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![Swimmer Wesley (!)](../../assets/trainers/swimmer.png)<br>Swimmer Wesley (!) | ![Floatzel](../../assets/sprites/floatzel/front.gif)<br>Floatzel<br>Lv. 59 | ![Sharpedo](../../assets/sprites/sharpedo/front.gif)<br>Sharpedo<br>Lv. 59 | ![Qwilfish](../../assets/sprites/qwilfish/front.gif)<br>Qwilfish<br>Lv. 59 |
-| ![Swimmer Ricardo](../../assets/trainers/swimmer.png)<br>Swimmer Ricardo | ![Tentacruel](../../assets/sprites/tentacruel/front.gif)<br>Tentacruel<br>Lv. 61 |
-| ![Swimmer Francisco (!)](../../assets/trainers/swimmer.png)<br>Swimmer Francisco (!) | ![Ludicolo](../../assets/sprites/ludicolo/front.gif)<br>Ludicolo<br>Lv. 59 | ![Relicanth](../../assets/sprites/relicanth/front.gif)<br>Relicanth<br>Lv. 59 | ![Poliwrath](../../assets/sprites/poliwrath/front.gif)<br>Poliwrath<br>Lv. 59 |
-| ![Swimmer Colton](../../assets/trainers/swimmer.png)<br>Swimmer Colton | ![Pelipper](../../assets/sprites/pelipper/front.gif)<br>Pelipper<br>Lv. 59 | ![Octillery](../../assets/sprites/octillery/front.gif)<br>Octillery<br>Lv. 59 | ![Feraligatr](../../assets/sprites/feraligatr/front.gif)<br>Feraligatr<br>Lv. 59 |
-| ![Swimmer Troy](../../assets/trainers/swimmer.png)<br>Swimmer Troy | ![Gyarados](../../assets/sprites/gyarados/front.gif)<br>Gyarados<br>Lv. 61 |
-| ![Swimmer Oscar](../../assets/trainers/swimmer.png)<br>Swimmer Oscar | ![Mantine](../../assets/sprites/mantine/front.gif)<br>Mantine<br>Lv. 59 | ![Blastoise](../../assets/sprites/blastoise/front.gif)<br>Blastoise<br>Lv. 59 | ![Whiscash](../../assets/sprites/whiscash/front.gif)<br>Whiscash<br>Lv. 59 |
-| ![Swimmer Miranda (!)](../../assets/trainers/swimmer.png)<br>Swimmer Miranda (!) | ![Cloyster](../../assets/sprites/cloyster/front.gif)<br>Cloyster<br>Lv. 60 | ![Lumineon](../../assets/sprites/lumineon/front.gif)<br>Lumineon<br>Lv. 60 |
-| ![Swimmer Aubree](../../assets/trainers/swimmer.png)<br>Swimmer Aubree | ![Bibarel](../../assets/sprites/bibarel/front.gif)<br>Bibarel<br>Lv. 60 | ![Quagsire](../../assets/sprites/quagsire/front.gif)<br>Quagsire<br>Lv. 60 |
-| ![Swimmer Paige](../../assets/trainers/swimmer.png)<br>Swimmer Paige | ![Azumarill](../../assets/sprites/azumarill/front.gif)<br>Azumarill<br>Lv. 59 | ![Slowbro](../../assets/sprites/slowbro/front.gif)<br>Slowbro<br>Lv. 59 | ![Gorebyss](../../assets/sprites/gorebyss/front.gif)<br>Gorebyss<br>Lv. 59 |
-| ![Swimmer Crystal (!)](../../assets/trainers/swimmer.png)<br>Swimmer Crystal (!) | ![Wailord](../../assets/sprites/wailord/front.gif)<br>Wailord<br>Lv. 59 | ![Seaking](../../assets/sprites/seaking/front.gif)<br>Seaking<br>Lv. 59 | ![Corsola](../../assets/sprites/corsola/front.gif)<br>Corsola<br>Lv. 59 |
-| ![Swimmer Cassandra](../../assets/trainers/swimmer.png)<br>Swimmer Cassandra | ![Vaporeon](../../assets/sprites/vaporeon/front.gif)<br>Vaporeon<br>Lv. 61 |
-| ![Swimmer Gabrielle](../../assets/trainers/swimmer.png)<br>Swimmer Gabrielle | ![Golduck](../../assets/sprites/golduck/front.gif)<br>Golduck<br>Lv. 59 | ![Lapras](../../assets/sprites/lapras/front.gif)<br>Lapras<br>Lv. 59 | ![Starmie](../../assets/sprites/starmie/front.gif)<br>Starmie<br>Lv. 59 |
-| ![Sailor Zachariah (!)](../../assets/trainers/sailor.png)<br>Sailor Zachariah (!) | ![Kingler](../../assets/sprites/kingler/front.gif)<br>Kingler<br>Lv. 58 | ![Machamp](../../assets/sprites/machamp/front.gif)<br>Machamp<br>Lv. 58 | ![Gastrodon](../../assets/sprites/gastrodon/front.gif)<br>Gastrodon<br>Lv. 58 | ![Slowking](../../assets/sprites/slowking/front.gif)<br>Slowking<br>Lv. 58 |
----
-
-## East)
-
----
-
-## Generic Trainers
+### Generic Trainers
 
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -43,3 +18,29 @@
 | ![Dragon Tamer Ondrej](../../assets/trainers/dragon_tamer.png)<br>Dragon Tamer Ondrej | ![Kingdra](../../assets/sprites/kingdra/front.gif)<br>Kingdra<br>Lv. 64 | ![Altaria](../../assets/sprites/altaria/front.gif)<br>Altaria<br>Lv. 64 | ![Salamence](../../assets/sprites/salamence/front.gif)<br>Salamence<br>Lv. 64 | ![Charizard](../../assets/sprites/charizard/front.gif)<br>Charizard<br>Lv. 64 |
 | ![Veteran Edgar](../../assets/trainers/veteran.png)<br>Veteran Edgar | ![Porygon-Z](../../assets/sprites/porygon-z/front.gif)<br>Porygon-Z<br>Lv. 64 | ![Tangrowth](../../assets/sprites/tangrowth/front.gif)<br>Tangrowth<br>Lv. 64 | ![Empoleon](../../assets/sprites/empoleon/front.gif)<br>Empoleon<br>Lv. 64 | ![Golem](../../assets/sprites/golem/front.gif)<br>Golem<br>Lv. 64 | ![Typhlosion](../../assets/sprites/typhlosion/front.gif)<br>Typhlosion<br>Lv. 64 |
 | ![Dragon Tamer Clinton](../../assets/trainers/dragon_tamer.png)<br>Dragon Tamer Clinton | ![Flygon](../../assets/sprites/flygon/front.gif)<br>Flygon<br>Lv. 64 | ![Gyarados](../../assets/sprites/gyarados/front.gif)<br>Gyarados<br>Lv. 64 | ![Dragonite](../../assets/sprites/dragonite/front.gif)<br>Dragonite<br>Lv. 64 | ![Aerodactyl](../../assets/sprites/aerodactyl/front.gif)<br>Aerodactyl<br>Lv. 64 |
+
+
+---
+
+## East
+
+
+### Generic Trainers
+
+| Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
+|:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
+| ![Ace Trainer Micah](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Micah | ![Metagross](../../assets/sprites/metagross/front.gif)<br>Metagross<br>Lv. 65 | ![Ludicolo](../../assets/sprites/ludicolo/front.gif)<br>Ludicolo<br>Lv. 65 | ![Blaziken](../../assets/sprites/blaziken/front.gif)<br>Blaziken<br>Lv. 65 |
+| ![Ace Trainer Brandi](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Brandi | ![Nidoqueen](../../assets/sprites/nidoqueen/front.gif)<br>Nidoqueen<br>Lv. 65 | ![Kangaskhan](../../assets/sprites/kangaskhan/front.gif)<br>Kangaskhan<br>Lv. 65 | ![Jynx](../../assets/sprites/jynx/front.gif)<br>Jynx<br>Lv. 65 |
+| ![Psychic Desiree](../../assets/trainers/psychic.png)<br>Psychic Desiree | ![Mr. Mime](../../assets/sprites/mr-mime/front.gif)<br>Mr. Mime<br>Lv. 64 | ![Drifblim](../../assets/sprites/drifblim/front.gif)<br>Drifblim<br>Lv. 64 | ![Hypno](../../assets/sprites/hypno/front.gif)<br>Hypno<br>Lv. 64 |
+| ![Psychic Landon](../../assets/trainers/psychic.png)<br>Psychic Landon | ![Banette](../../assets/sprites/banette/front.gif)<br>Banette<br>Lv. 64 | ![Alakazam](../../assets/sprites/alakazam/front.gif)<br>Alakazam<br>Lv. 64 | ![Girafarig](../../assets/sprites/girafarig/front.gif)<br>Girafarig<br>Lv. 64 |
+| ![Black Belt Eddie](../../assets/trainers/black_belt.png)<br>Black Belt Eddie | ![Primeape](../../assets/sprites/primeape/front.gif)<br>Primeape<br>Lv. 64 | ![Breloom](../../assets/sprites/breloom/front.gif)<br>Breloom<br>Lv. 64 | ![Infernape](../../assets/sprites/infernape/front.gif)<br>Infernape<br>Lv. 64 |
+| ![Veteran Terrell](../../assets/trainers/veteran.png)<br>Veteran Terrell | ![Parasect](../../assets/sprites/parasect/front.gif)<br>Parasect<br>Lv. 66 | ![Quagsire](../../assets/sprites/quagsire/front.gif)<br>Quagsire<br>Lv. 66 | ![Houndoom](../../assets/sprites/houndoom/front.gif)<br>Houndoom<br>Lv. 66 |
+| ![Dragon Tamer Joe](../../assets/trainers/dragon_tamer.png)<br>Dragon Tamer Joe | ![Dragonair](../../assets/sprites/dragonair/front.gif)<br>Dragonair<br>Lv. 65 | ![Salamence](../../assets/sprites/salamence/front.gif)<br>Salamence<br>Lv. 65 | ![Kingdra](../../assets/sprites/kingdra/front.gif)<br>Kingdra<br>Lv. 65 |
+| ![Bird Keeper Autumn](../../assets/trainers/bird_keeper.png)<br>Bird Keeper Autumn | ![Xatu](../../assets/sprites/xatu/front.gif)<br>Xatu<br>Lv. 64 | ![Pelipper](../../assets/sprites/pelipper/front.gif)<br>Pelipper<br>Lv. 64 | ![Delibird](../../assets/sprites/delibird/front.gif)<br>Delibird<br>Lv. 64 |
+| ![Psychic Deandre](../../assets/trainers/psychic.png)<br>Psychic Deandre | ![Dusclops](../../assets/sprites/dusclops/front.gif)<br>Dusclops<br>Lv. 64 | ![Sableye](../../assets/sprites/sableye/front.gif)<br>Sableye<br>Lv. 64 | ![Dusknoir](../../assets/sprites/dusknoir/front.gif)<br>Dusknoir<br>Lv. 64 |
+| ![Psychic Kendra](../../assets/trainers/psychic.png)<br>Psychic Kendra | ![Chimecho](../../assets/sprites/chimecho/front.gif)<br>Chimecho<br>Lv. 64 | ![Froslass](../../assets/sprites/froslass/front.gif)<br>Froslass<br>Lv. 64 | ![Wobbuffet](../../assets/sprites/wobbuffet/front.gif)<br>Wobbuffet<br>Lv. 64 |
+| ![Black Belt Willie](../../assets/trainers/black_belt.png)<br>Black Belt Willie | ![Heracross](../../assets/sprites/heracross/front.gif)<br>Heracross<br>Lv. 64 | ![Machamp](../../assets/sprites/machamp/front.gif)<br>Machamp<br>Lv. 64 | ![Toxicroak](../../assets/sprites/toxicroak/front.gif)<br>Toxicroak<br>Lv. 64 |
+| ![Veteran Brenden](../../assets/trainers/veteran.png)<br>Veteran Brenden | ![Forretress](../../assets/sprites/forretress/front.gif)<br>Forretress<br>Lv. 66 | ![Kabutops](../../assets/sprites/kabutops/front.gif)<br>Kabutops<br>Lv. 66 | ![Donphan](../../assets/sprites/donphan/front.gif)<br>Donphan<br>Lv. 66 |
+| ![Ace Trainer Arthur](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Arthur | ![Gastrodon](../../assets/sprites/gastrodon/front.gif)<br>Gastrodon<br>Lv. 64 | ![Beedrill](../../assets/sprites/beedrill/front.gif)<br>Beedrill<br>Lv. 64 | ![Ampharos](../../assets/sprites/ampharos/front.gif)<br>Ampharos<br>Lv. 64 |
+| ![Ace Trainer Clarice](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Clarice | ![Swalot](../../assets/sprites/swalot/front.gif)<br>Swalot<br>Lv. 64 | ![Ninetales](../../assets/sprites/ninetales/front.gif)<br>Ninetales<br>Lv. 64 | ![Scizor](../../assets/sprites/scizor/front.gif)<br>Scizor<br>Lv. 64 |
+

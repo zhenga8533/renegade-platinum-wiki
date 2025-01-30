@@ -1,16 +1,15 @@
 # Trainer Rosters
 
----
-
-## Generic Trainers
+### Generic Trainers
 
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![Hiker Daniel](../../assets/trainers/hiker.png)<br>Hiker Daniel | ![Diglett](../../assets/sprites/diglett/front.gif)<br>Diglett<br>Lv. 15 | ![Shieldon](../../assets/sprites/shieldon/front.gif)<br>Shieldon<br>Lv. 15 | ![Numel](../../assets/sprites/numel/front.gif)<br>Numel<br>Lv. 15 |
-| ![Aroma Lady Elizabeth (!)](../../assets/trainers/aroma_lady.png)<br>Aroma Lady Elizabeth (!) | ![Chikorita](../../assets/sprites/chikorita/front.gif)<br>Chikorita<br>Lv. 16 | ![Bulbasaur](../../assets/sprites/bulbasaur/front.gif)<br>Bulbasaur<br>Lv. 16 |
-| ![Camper Jacob](../../assets/trainers/camper.png)<br>Camper Jacob | ![Ponyta](../../assets/sprites/ponyta/front.gif)<br>Ponyta<br>Lv. 15 | ![Mareep](../../assets/sprites/mareep/front.gif)<br>Mareep<br>Lv. 15 | ![Buizel](../../assets/sprites/buizel/front.gif)<br>Buizel<br>Lv. 15 |
-| ![Picnicker Siena](../../assets/trainers/picnicker.png)<br>Picnicker Siena | ![Pachirisu](../../assets/sprites/pachirisu/front.gif)<br>Pachirisu<br>Lv. 17 |
-| ![Hiker Nicholas](../../assets/trainers/hiker.png)<br>Hiker Nicholas | ![Shellos](../../assets/sprites/shellos/front.gif)<br>Shellos<br>Lv. 16 | ![Onix](../../assets/sprites/onix/front.gif)<br>Onix<br>Lv. 16 |
-| ![Battle Girl Kelsey](../../assets/trainers/battle_girl.png)<br>Battle Girl Kelsey | ![Machop](../../assets/sprites/machop/front.gif)<br>Machop<br>Lv. 16 | ![Mankey](../../assets/sprites/mankey/front.gif)<br>Mankey<br>Lv. 16 | ![Meditite](../../assets/sprites/meditite/front.gif)<br>Meditite<br>Lv. 16 |
-| ![Picnicker Karina (!)](../../assets/trainers/picnicker.png)<br>Picnicker Karina (!) | ![Piplup](../../assets/sprites/piplup/front.gif)<br>Piplup<br>Lv. 16 | ![Chimchar](../../assets/sprites/chimchar/front.gif)<br>Chimchar<br>Lv. 16 |
-| ![Camper Zackary (!)](../../assets/trainers/camper.png)<br>Camper Zackary (!) | ![Aipom](../../assets/sprites/aipom/front.gif)<br>Aipom<br>Lv. 15 | ![Slakoth](../../assets/sprites/slakoth/front.gif)<br>Slakoth<br>Lv. 15 | ![Taillow](../../assets/sprites/taillow/front.gif)<br>Taillow<br>Lv. 15 |
+| ![Bug Catcher Jack](../../assets/trainers/bug_catcher.png)<br>Bug Catcher Jack | ![Surskit](../../assets/sprites/surskit/front.gif)<br>Surskit<br>Lv. 16 | ![Paras](../../assets/sprites/paras/front.gif)<br>Paras<br>Lv. 16 | ![Venonat](../../assets/sprites/venonat/front.gif)<br>Venonat<br>Lv. 16 |
+| ![Lass Briana](../../assets/trainers/lass.png)<br>Lass Briana | ![Buneary](../../assets/sprites/buneary/front.gif)<br>Buneary<br>Lv. 17 | ![Marill](../../assets/sprites/marill/front.gif)<br>Marill<br>Lv. 17 |
+| ![Psychic Lindsey](../../assets/trainers/psychic.png)<br>Psychic Lindsey | ![Slowpoke](../../assets/sprites/slowpoke/front.gif)<br>Slowpoke<br>Lv. 17 | ![Exeggcute](../../assets/sprites/exeggcute/front.gif)<br>Exeggcute<br>Lv. 17 | ![Natu](../../assets/sprites/natu/front.gif)<br>Natu<br>Lv. 17 |
+| ![Psychic Elijah](../../assets/trainers/psychic.png)<br>Psychic Elijah | ![Spoink](../../assets/sprites/spoink/front.gif)<br>Spoink<br>Lv. 17 | ![Drowzee](../../assets/sprites/drowzee/front.gif)<br>Drowzee<br>Lv. 17 | ![Baltoy](../../assets/sprites/baltoy/front.gif)<br>Baltoy<br>Lv. 17 |
+| ![Bug Catcher Philip](../../assets/trainers/bug_catcher.png)<br>Bug Catcher Philip | ![Combee](../../assets/sprites/combee/front.gif)<br>Combee<br>Lv. 17 | ![Beedrill](../../assets/sprites/beedrill/front.gif)<br>Beedrill<br>Lv. 19 |
+| ![Bug Catcher Donald](../../assets/trainers/bug_catcher.png)<br>Bug Catcher Donald | ![Nincada](../../assets/sprites/nincada/front.gif)<br>Nincada<br>Lv. 17 | ![Dustox](../../assets/sprites/dustox/front.gif)<br>Dustox<br>Lv. 19 |
+| ![Psychic Kody](../../assets/trainers/psychic.png)<br>Psychic Kody | ![Mime Jr.](../../assets/sprites/mime-jr/front.gif)<br>Mime Jr.<br>Lv. 18 | ![Mr. Mime](../../assets/sprites/mr-mime/front.gif)<br>Mr. Mime<br>Lv. 20 |
+| ![Psychic Rachael](../../assets/trainers/psychic.png)<br>Psychic Rachael | ![Chingling](../../assets/sprites/chingling/front.gif)<br>Chingling<br>Lv. 18 | ![Chimecho](../../assets/sprites/chimecho/front.gif)<br>Chimecho<br>Lv. 20 |
+

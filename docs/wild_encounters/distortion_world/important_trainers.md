@@ -1,10 +1,5 @@
 # Important Trainers
-
 ---
 
-## Commander Mars
-
----
-
-## Commander Jupiter
+## Galactic Boss Cyrus
 

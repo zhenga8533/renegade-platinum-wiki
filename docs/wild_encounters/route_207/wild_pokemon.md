@@ -17,7 +17,7 @@
 | ![Ponyta](../../assets/sprites/ponyta/front.gif) | Ponyta | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 9 - 10 | 20% |
 | ![Phanpy](../../assets/sprites/phanpy/front.gif) | Phanpy | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 9 - 10 | 20% |
 | ![Larvitar](../../assets/sprites/larvitar/front.gif) | Larvitar | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 9 - 10 | 10% |
-| ![Stantler](../../assets/sprites/stantler/front.gif) | Stantler | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 9 - 10 | 22% |
+| ![Stantler](../../assets/sprites/stantler/front.gif) | Stantler | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 9 - 10 | 22% |
 
 ### Honey Tree
 

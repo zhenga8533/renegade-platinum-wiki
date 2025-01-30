@@ -23,7 +23,7 @@
 | ![Lotad](../../assets/sprites/lotad/front.gif) | Lotad | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 7 - 8 | 10% |
 | ![Cubone](../../assets/sprites/cubone/front.gif) | Cubone | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 7 - 8 | 10% |
 | ![Abra](../../assets/sprites/abra/front.gif) | Abra | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 7 - 8 | 10% |
-| ![Pineco](../../assets/sprites/pineco/front.gif) | Pineco | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 7 - 8 | 22% |
+| ![Pineco](../../assets/sprites/pineco/front.gif) | Pineco | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 7 - 8 | 22% |
 
 ### Surfing
 

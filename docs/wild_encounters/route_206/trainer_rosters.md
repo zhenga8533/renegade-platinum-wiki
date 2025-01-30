@@ -1,17 +1,28 @@
 # Trainer Rosters
 
----
-
-## Generic Trainers
+### Generic Trainers
 
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![Ace Trainer Blake](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Blake | ![Porygon](../../assets/sprites/porygon/front.gif)<br>Porygon<br>Lv. 23 | ![Vigoroth](../../assets/sprites/vigoroth/front.gif)<br>Vigoroth<br>Lv. 23 |
-| ![Ace Trainer Maria](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Maria | ![Quagsire](../../assets/sprites/quagsire/front.gif)<br>Quagsire<br>Lv. 22 | ![Quilava](../../assets/sprites/quilava/front.gif)<br>Quilava<br>Lv. 22 | ![Sudowoodo](../../assets/sprites/sudowoodo/front.gif)<br>Sudowoodo<br>Lv. 22 |
-| ![Ace Trainer Laura](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Laura | ![Togetic](../../assets/sprites/togetic/front.gif)<br>Togetic<br>Lv. 23 | ![Swellow](../../assets/sprites/swellow/front.gif)<br>Swellow<br>Lv. 23 |
-| ![Skier Edward (!)](../../assets/trainers/skier.png)<br>Skier Edward (!) | ![Snover](../../assets/sprites/snover/front.gif)<br>Snover<br>Lv. 20 | ![Snorunt](../../assets/sprites/snorunt/front.gif)<br>Snorunt<br>Lv. 20 | ![Swinub](../../assets/sprites/swinub/front.gif)<br>Swinub<br>Lv. 20 |
-| ![Ace Trainer Garrett](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Garrett | ![Mr. Mime](../../assets/sprites/mr-mime/front.gif)<br>Mr. Mime<br>Lv. 22 | ![Nuzleaf](../../assets/sprites/nuzleaf/front.gif)<br>Nuzleaf<br>Lv. 22 | ![Scyther](../../assets/sprites/scyther/front.gif)<br>Scyther<br>Lv. 22 |
-| ![Black Belt Philip (!)](../../assets/trainers/black_belt.png)<br>Black Belt Philip (!) | ![Hariyama](../../assets/sprites/hariyama/front.gif)<br>Hariyama<br>Lv. 56 | ![Machamp](../../assets/sprites/machamp/front.gif)<br>Machamp<br>Lv. 56 |
-| ![Skier Bradley](../../assets/trainers/skier.png)<br>Skier Bradley | ![Piloswine](../../assets/sprites/piloswine/front.gif)<br>Piloswine<br>Lv. 54 | ![Glalie](../../assets/sprites/glalie/front.gif)<br>Glalie<br>Lv. 54 |
-| ![Skier Kaitlyn](../../assets/trainers/skier.png)<br>Skier Kaitlyn | ![Lapras](../../assets/sprites/lapras/front.gif)<br>Lapras<br>Lv. 55 |
-| ![Skier Andrea (!)](../../assets/trainers/skier.png)<br>Skier Andrea (!) | ![Abomasnow](../../assets/sprites/abomasnow/front.gif)<br>Abomasnow<br>Lv. 55 |
+| ![Cyclist Axel](../../assets/trainers/cyclist.png)<br>Cyclist Axel | ![Pichu](../../assets/sprites/pichu/front.gif)<br>Pichu<br>Lv. 19 | ![Pichu](../../assets/sprites/pichu/front.gif)<br>Pichu<br>Lv. 19 | ![Pikachu](../../assets/sprites/pikachu/front.gif)<br>Pikachu<br>Lv. 19 |
+| ![Cyclist Megan](../../assets/trainers/cyclist.png)<br>Cyclist Megan | ![Pidgeotto](../../assets/sprites/pidgeotto/front.gif)<br>Pidgeotto<br>Lv. 21 |
+| ![Cyclist James](../../assets/trainers/cyclist.png)<br>Cyclist James | ![Ponyta](../../assets/sprites/ponyta/front.gif)<br>Ponyta<br>Lv. 20 | ![Flaaffy](../../assets/sprites/flaaffy/front.gif)<br>Flaaffy<br>Lv. 20 |
+| ![Cyclist Nicole](../../assets/trainers/cyclist.png)<br>Cyclist Nicole | ![Taillow](../../assets/sprites/taillow/front.gif)<br>Taillow<br>Lv. 19 | ![Doduo](../../assets/sprites/doduo/front.gif)<br>Doduo<br>Lv. 19 | ![Wingull](../../assets/sprites/wingull/front.gif)<br>Wingull<br>Lv. 19 |
+| ![Cyclist John [(!)](#rematches)](../../assets/trainers/cyclist.png)<br>Cyclist John [(!)](#rematches) | ![Farfetch'd](../../assets/sprites/farfetchd/front.gif)<br>Farfetch'd<br>Lv. 21 |
+| ![Cyclist Kayla [(!)](#rematches)](../../assets/trainers/cyclist.png)<br>Cyclist Kayla [(!)](#rematches) | ![Voltorb](../../assets/sprites/voltorb/front.gif)<br>Voltorb<br>Lv. 19 | ![Magnemite](../../assets/sprites/magnemite/front.gif)<br>Magnemite<br>Lv. 19 | ![Electrike](../../assets/sprites/electrike/front.gif)<br>Electrike<br>Lv. 19 |
+| ![Cyclist Ryan](../../assets/trainers/cyclist.png)<br>Cyclist Ryan | ![Luxio](../../assets/sprites/luxio/front.gif)<br>Luxio<br>Lv. 21 |
+| ![Cyclist Rachel](../../assets/trainers/cyclist.png)<br>Cyclist Rachel | ![Jolteon](../../assets/sprites/jolteon/front.gif)<br>Jolteon<br>Lv. 21 |
+| ![Hiker Theodore](../../assets/trainers/hiker.png)<br>Hiker Theodore | ![Torkoal](../../assets/sprites/torkoal/front.gif)<br>Torkoal<br>Lv. 26 |
+
+
+### Rematches
+
+| Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
+|:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
+| ![Cyclist John (5)](../../assets/trainers/cyclist.png)<br>Cyclist John (5) | ![Farfetch'd](../../assets/sprites/farfetchd/front.gif)<br>Farfetch'd<br>Lv. 40 |
+| ![Cyclist John (8)](../../assets/trainers/cyclist.png)<br>Cyclist John (8) | ![Farfetch'd](../../assets/sprites/farfetchd/front.gif)<br>Farfetch'd<br>Lv. 61 |
+| ![Cyclist John (C)](../../assets/trainers/cyclist.png)<br>Cyclist John (C) | ![Farfetch'd](../../assets/sprites/farfetchd/front.gif)<br>Farfetch'd<br>Lv. 72 |
+| ![Cyclist Kayla (5)](../../assets/trainers/cyclist.png)<br>Cyclist Kayla (5) | ![Electrode](../../assets/sprites/electrode/front.gif)<br>Electrode<br>Lv. 38 | ![Magneton](../../assets/sprites/magneton/front.gif)<br>Magneton<br>Lv. 38 | ![Manectric](../../assets/sprites/manectric/front.gif)<br>Manectric<br>Lv. 38 |
+| ![Cyclist Kayla (8)](../../assets/trainers/cyclist.png)<br>Cyclist Kayla (8) | ![Electrode](../../assets/sprites/electrode/front.gif)<br>Electrode<br>Lv. 59 | ![Magneton](../../assets/sprites/magneton/front.gif)<br>Magneton<br>Lv. 59 | ![Manectric](../../assets/sprites/manectric/front.gif)<br>Manectric<br>Lv. 59 |
+| ![Cyclist Kayla (C)](../../assets/trainers/cyclist.png)<br>Cyclist Kayla (C) | ![Electrode](../../assets/sprites/electrode/front.gif)<br>Electrode<br>Lv. 70 | ![Magnezone](../../assets/sprites/magnezone/front.gif)<br>Magnezone<br>Lv. 70 | ![Manectric](../../assets/sprites/manectric/front.gif)<br>Manectric<br>Lv. 70 |
+

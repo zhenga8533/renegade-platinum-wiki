@@ -2,5 +2,9 @@
 
 ---
 
-## Elite Four Aaron
+## Leader Fantina
+
+---
+
+## PKMN Trainer Barry
 

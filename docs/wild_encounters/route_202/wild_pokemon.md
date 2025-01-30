@@ -23,5 +23,5 @@
 | ![Poochyena](../../assets/sprites/poochyena/front.gif) | Poochyena | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 5 - 6 | 10% |
 | ![Growlithe](../../assets/sprites/growlithe/front.gif) | Growlithe | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 5 - 6 | 10% |
 | ![Burmy](../../assets/sprites/burmy/front.gif) | Burmy | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 5 - 6 | 10% |
-| ![Houndour](../../assets/sprites/houndour/front.gif) | Houndour | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 5 - 6 | 22% |
+| ![Houndour](../../assets/sprites/houndour/front.gif) | Houndour | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 5 - 6 | 22% |
 

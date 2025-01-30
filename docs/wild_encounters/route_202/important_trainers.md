@@ -1,6 +1,9 @@
 # Important Trainers
+---
+
+## PKMN Trainer Dawn
 
 ---
 
-## PKMN Trainer Barry
+## PKMN Trainer Lucas
 

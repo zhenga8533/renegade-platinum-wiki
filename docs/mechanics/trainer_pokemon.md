@@ -55,19 +55,6 @@
 
 ## Route 202
 
-<h3>Generic Trainers</h3>
-
-1. Lass Natalie
-	1. Sentret Lv. 7
-	2. Bidoof Lv. 7
-1. Youngster Tristan (!)
-	1. Hoothoot Lv. 7
-	2. Starly Lv. 7
-1. Youngster Logan
-	1. Growlithe Lv. 7
-	2. Burmy Lv. 7
-	3. Zigzagoon Lv. 7
-
 <h3>Rematches</h3>
 
 1. Youngster Tristan (3)
@@ -172,19 +159,6 @@
 
 ## Route 204 (South)
 
-<h3>Generic Trainers</h3>
-
-1. Lass Sarah
-	1. Shinx Lv. 8
-	2. Nidoran F Lv. 8
-	3. Pidgey Lv. 8
-1. Lass Samantha (!)
-	1. Oddish Lv. 8
-	2. Budew Lv. 8
-	3. Bellsprout Lv. 8
-1. Youngster Tyler
-	1. Magikarp Lv. 11
-
 <h3>Rematches</h3>
 
 1. Lass Samantha (3)
@@ -204,26 +178,6 @@
 ---
 
 ## Route 203
-
-<h3>Generic Trainers</h3>
-
-1. Youngster Michael
-	1. Kricketot Lv. 9
-	2. Zubat Lv. 9
-	3. Rattata Lv. 9
-1. Youngster Dallas (!)
-	1. Shinx Lv. 10
-	2. Sandshrew Lv. 10
-1. Youngster Sebastian
-	1. Makuhita Lv. 10
-	2. Machop Lv. 10
-1. Lass Kaitlin
-	1. Spearow Lv. 9
-	2. Cubone Lv. 9
-	3. Azurill Lv. 9
-1. Lass Madeline (!)
-	1. Psyduck Lv. 10
-	2. Sunkern Lv. 10
 
 <h3>Rematches</h3>
 
@@ -352,7 +306,7 @@
 
 ---
 
-## Oreburgh City
+## Oreburgh City (City)
 
 <h3>Generic Trainers</h3>
 
@@ -428,7 +382,7 @@
 
 ---
 
-## Oreburgh Gym
+## Oreburgh City (Gym)
 
 <h3>Generic Trainers</h3>
 
@@ -632,19 +586,6 @@
 
 ## Route 204 (North)
 
-<h3>Generic Trainers</h3>
-
-1. Aroma Lady Taylor
-	1. Cherubi Lv. 13
-	2. Hoppip Lv. 13
-	3. Shroomish Lv. 13
-1. Bug Catcher Brandon (!)
-	1. Wurmple Lv. 14
-	2. Kricketune Lv. 14
-1. Twins Liv & Liz
-	1. Plusle Lv. 15
-	2. Minun Lv. 15
-
 <h3>Rematches</h3>
 
 1. Bug Catcher Brandon (3)
@@ -746,36 +687,6 @@
 ---
 
 ## Route 205 (South)
-
-<h3>Generic Trainers</h3>
-
-1. Hiker Daniel
-	1. Diglett Lv. 15
-	2. Shieldon Lv. 15
-	3. Numel Lv. 15
-1. Aroma Lady Elizabeth (!)
-	1. Chikorita Lv. 16
-	2. Bulbasaur Lv. 16
-1. Camper Jacob
-	1. Ponyta Lv. 15
-	2. Mareep Lv. 15
-	3. Buizel Lv. 15
-1. Picnicker Siena
-	1. Pachirisu Lv. 17
-1. Hiker Nicholas
-	1. Shellos Lv. 16
-	2. Onix Lv. 16
-1. Battle Girl Kelsey
-	1. Machop Lv. 16
-	2. Mankey Lv. 16
-	3. Meditite Lv. 16
-1. Picnicker Karina (!)
-	1. Piplup Lv. 16
-	2. Chimchar Lv. 16
-1. Camper Zackary (!)
-	1. Aipom Lv. 15
-	2. Slakoth Lv. 15
-	3. Taillow Lv. 15
 
 <h3>Rematches</h3>
 
@@ -888,20 +799,6 @@
 
 ## Route 205 (North)
 
-<h3>Generic Trainers</h3>
-
-1. Fisherman Joseph (!)
-	1. Goldeen Lv. 18
-	2. Poliwag Lv. 18
-	3. Corphish Lv. 18
-1. Fisherman Andrew
-	1. Magikarp Lv. 18
-	2. Feebas Lv. 18
-	3. Magikarp Lv. 18
-1. Fisherman Zachary
-	1. Krabby Lv. 19
-	2. Finneon Lv. 19
-
 <h3>Rematches</h3>
 
 1. Fisherman Joseph (5)
@@ -917,21 +814,6 @@
 ---
 
 ## Route 211 (West)
-
-<h3>Generic Trainers</h3>
-
-1. Ninja Boy Zach (!)
-	1. Zubat Lv. 19
-	2. Skorupi Lv. 19
-	3. Zubat Lv. 19
-1. Hiker Louis
-	1. Geodude Lv. 19
-	2. Slugma Lv. 19
-	3. Beldum Lv. 19
-1. Bird Keeper Alexandra
-	1. Natu Lv. 20
-	2. Swablu Lv. 20
-	3. Staravia Lv. 20
 
 <h3>Rematches</h3>
 
@@ -953,17 +835,6 @@
 
 ## Route 211 (East)
 
-<h3>Generic Trainers</h3>
-
-1. Bird Keeper Katherine
-	1. Noctowl Lv. 22
-1. Ninja Boy Nick
-	1. Ninjask Lv. 20
-1. Black Belt Sean
-	1. Heracross Lv. 22
-1. Ruin Maniac Harry (!)
-	1. Aerodactyl Lv. 21
-
 <h3>Rematches</h3>
 
 1. Ruin Maniac Harry (8)
@@ -975,37 +846,6 @@
 ---
 
 ## Route 216
-
-<h3>Generic Trainers</h3>
-
-1. Ace Trainer Blake
-	1. Porygon Lv. 23
-	2. Vigoroth Lv. 23
-1. Ace Trainer Maria
-	1. Quagsire Lv. 22
-	2. Quilava Lv. 22
-	3. Sudowoodo Lv. 22
-1. Ace Trainer Laura
-	1. Togetic Lv. 23
-	2. Swellow Lv. 23
-1. Skier Edward (!)
-	1. Snover Lv. 20
-	2. Snorunt Lv. 20
-	3. Swinub Lv. 20
-1. Ace Trainer Garrett
-	1. Mr. Mime Lv. 22
-	2. Nuzleaf Lv. 22
-	3. Scyther Lv. 22
-1. Black Belt Philip (!)
-	1. Hariyama Lv. 56
-	2. Machamp Lv. 56
-1. Skier Bradley
-	1. Piloswine Lv. 54
-	2. Glalie Lv. 54
-1. Skier Kaitlyn
-	1. Lapras Lv. 55
-1. Skier Andrea (!)
-	1. Abomasnow Lv. 55
 
 <h3>Rematches</h3>
 
@@ -1031,34 +871,6 @@
 
 ## Route 206
 
-<h3>Generic Trainers</h3>
-
-1. Cyclist Axel
-	1. Pichu Lv. 19
-	2. Pichu Lv. 19
-	3. Pikachu Lv. 19
-1. Cyclist Megan
-	1. Pidgeotto Lv. 21
-1. Cyclist James
-	1. Ponyta Lv. 20
-	2. Flaaffy Lv. 20
-1. Cyclist Nicole
-	1. Taillow Lv. 19
-	2. Doduo Lv. 19
-	3. Wingull Lv. 19
-1. Cyclist John (!)
-	1. Farfetch'd Lv. 21
-1. Cyclist Kayla (!)
-	1. Voltorb Lv. 19
-	2. Magnemite Lv. 19
-	3. Electrike Lv. 19
-1. Cyclist Ryan
-	1. Luxio Lv. 21
-1. Cyclist Rachel
-	1. Jolteon Lv. 21
-1. Hiker Theodore
-	1. Torkoal Lv. 26
-
 <h3>Rematches</h3>
 
 1. Cyclist John (5)
@@ -1083,7 +895,7 @@
 
 ---
 
-## Eterna Gym
+## Eterna City (Gym)
 
 <h3>Generic Trainers</h3>
 
@@ -1158,7 +970,7 @@
 
 ---
 
-## Team Galactic Eterna Building
+## Eterna City (Team Galactic Building)
 
 <h3>Generic Trainers</h3>
 
@@ -1229,30 +1041,6 @@
 ---
 
 ## Route 207
-
-<h3>Generic Trainers</h3>
-
-1. Camper Anthony
-	1. Magby Lv. 24
-	2. Trapinch Lv. 24
-	3. Charmander Lv. 24
-1. Picnicker Lauren
-	1. Smoochum Lv. 24
-	2. Snubbull Lv. 24
-	3. Treecko Lv. 24
-1. Youngster Austin
-	1. Lombre Lv. 25
-	2. Gligar Lv. 25
-1. Hiker Justin
-	1. Graveler Lv. 25
-	2. Sandslash Lv. 25
-1. Hiker Kevin
-	1. Dunsparce Lv. 25
-	2. Dunsparce Lv. 25
-1. Battle Girl Helen (!)
-	1. Tyrogue Lv. 26
-	2. Meditite Lv. 26
-	3. Hariyama Lv. 26
 
 <h3>Rematches</h3>
 
@@ -1549,29 +1337,6 @@
 
 ## Route 208
 
-<h3>Generic Trainers</h3>
-
-1. Hiker Robert
-	1. Marowak Lv. 28
-1. Hiker Jonathan
-	1. Hippopotas Lv. 26
-	2. Shuckle Lv. 26
-	3. Bronzor Lv. 26
-1. Black Belt Kyle
-	1. Machoke Lv. 29
-1. Aroma Lady Hannah
-	1. Roselia Lv. 27
-	2. Sunflora Lv. 27
-1. Artist William (!)
-	1. Smeargle Lv. 26
-	2. Smeargle Lv. 26
-	3. Smeargle Lv. 26
-1. Fisherman Cody
-	1. Whiscash Lv. 44
-	2. Gyarados Lv. 44
-1. Hiker Alexander
-	1. Graveler Lv. 28
-
 <h3>Rematches</h3>
 
 1. Artist William (5)
@@ -1636,7 +1401,7 @@
 
 ---
 
-## Hearthome Gym
+## Hearthome City (Gym)
 
 <h3>Generic Trainers</h3>
 
@@ -1820,61 +1585,6 @@
 
 ## Route 212 (North)
 
-<h3>Generic Trainers</h3>
-
-1. Galactic Grunt
-	1. Mightyena Lv. 29
-	2. Arbok Lv. 29
-1. Galactic Grunt
-	1. Kricketune Lv. 30
-1. Galactic Grunt
-	1. Glameow Lv. 28
-	2. Koffing Lv. 28
-	3. Dustox Lv. 28
-1. Galactic Grunt
-	1. Lunatone Lv. 29
-	2. Solrock Lv. 29
-1. Galactic Grunt
-	1. Solrock Lv. 29
-	2. Lunatone Lv. 29
-1. Galactic Grunt
-	1. Nincada Lv. 30
-1. Galactic Grunt
-	1. Ninjask Lv. 30
-1. Galactic Grunt
-	1. Shedinja Lv. 30
-1. Galactic Grunt
-	1. Beedrill Lv. 29
-	2. Golbat Lv. 29
-1. Galactic Grunt
-	1. Croagunk Lv. 28
-	2. Seviper Lv. 28
-	3. Butterfree Lv. 28
-1. Galactic Grunt
-	1. Murkrow Lv. 30
-1. Galactic Grunt
-	1. Stunky Lv. 28
-	2. Venonat Lv. 28
-	3. Arbok Lv. 28
-1. Rich Boy Jason
-	1. Prinplup Lv. 30
-	2. Azumarill Lv. 30
-1. Lady Melissa (!)
-	1. Cherrim Lv. 30
-	2. Jumpluff Lv. 30
-1. Gentleman Jeremy (!)
-	1. Chatot Lv. 31
-1. Socialite Reina (!)
-	1. Delcatty Lv. 31
-1. Policeman Bobby
-	1. Noctowl Lv. 31
-1. Policeman Alex
-	1. Machamp Lv. 31
-1. Policeman Dylan
-	1. Arcanine Lv. 31
-1. Policeman Caleb
-	1. Granbull Lv. 31
-
 <h3>Rematches</h3>
 
 1. Lady Melissa (5)
@@ -1956,40 +1666,6 @@
 ---
 
 ## Route 209
-
-<h3>Generic Trainers</h3>
-
-1. PKMN Breeder Albert (!)
-	1. Tyrogue Lv. 26
-	2. Chingling Lv. 26
-	3. Bonsly Lv. 26
-	4. Magby Lv. 26
-	5. Elekid Lv. 26
-	6. Mime Jr. Lv. 26
-1. Twins Emma & Lil
-	1. Vaporeon Lv. 30
-	2. Flareon Lv. 30
-1. Poke Kid Danielle (!)
-	1. Pichu Lv. 28
-	2. Pikachu Lv. 29
-	3. Raichu Lv. 30
-1. PKMN Breeder Jennifer (!)
-	1. Azurill Lv. 26
-	2. Togepi Lv. 26
-	3. Cleffa Lv. 26
-	4. Igglybuff Lv. 26
-	5. Smoochum Lv. 26
-	6. Budew Lv. 26
-1. Cowgirl Shelley
-	1. Ponyta Lv. 30
-	2. Bibarel Lv. 30
-1. Jogger Richard
-	1. Dodrio Lv. 31
-1. Jogger Raul
-	1. Fearow Lv. 31
-1. Young Couple Ty & Sue
-	1. Illumise Lv. 31
-	2. Volbeat Lv. 31
 
 <h3>Rematches</h3>
 
@@ -2094,35 +1770,6 @@
 
 ## Route 210 (South)
 
-<h3>Generic Trainers</h3>
-
-1. Twins Teri & Tia
-	1. Furret Lv. 32
-	2. Linoone Lv. 32
-1. Jogger Wyatt
-	1. Electrode Lv. 33
-1. PKMN Breeder Kahlil
-	1. Riolu Lv. 31
-	2. Chingling Lv. 31
-	3. Munchlax Lv. 31
-1. PKMN Breeder Amber
-	1. Mantyke Lv. 31
-	2. Happiny Lv. 31
-	3. Wynaut Lv. 31
-1. Belle & Pa Ava & Matt
-	1. Tauros Lv. 33
-	2. Miltank Lv. 33
-1. Rancher Marco (!)
-	1. Rapidash Lv. 33
-1. Collector Fernando
-	1. Dratini Lv. 31
-	2. Dragonair Lv. 33
-1. Collector Edwin
-	1. Bagon Lv. 31
-	2. Shelgon Lv. 33
-1. Waitress Kati
-	1. Clefable Lv. 33
-
 <h3>Rematches</h3>
 
 1. Rancher Marco (8)
@@ -2138,33 +1785,6 @@
 ---
 
 ## Route 215
-
-<h3>Generic Trainers</h3>
-
-1. Black Belt Derek
-	1. Combusken Lv. 34
-	2. Hitmonlee Lv. 34
-1. Black Belt Gregory
-	1. Primeape Lv. 34
-	2. Hitmonchan Lv. 34
-1. Black Belt Nathaniel
-	1. Machoke Lv. 34
-	2. Hitmontop Lv. 34
-1. Jogger Scott
-	1. Staraptor Lv. 34
-1. Ruin Maniac Calvin
-	1. Marowak Lv. 33
-	2. Rampardos Lv. 33
-1. Jogger Craig (!)
-	1. Luxray Lv. 34
-1. Ace Trainer Dennis (!)
-	1. Gligar Lv. 35
-	2. Gyarados Lv. 35
-	3. Drifblim Lv. 35
-1. Ace Trainer Maya (!)
-	1. Lickitung Lv. 35
-	2. Gardevoir Lv. 35
-	3. Roserade Lv. 35
 
 <h3>Rematches</h3>
 
@@ -2194,7 +1814,28 @@
 
 ---
 
-## Veilstone Gym
+## Veilstone City (City)
+
+<h3>Generic Trainers</h3>
+
+1. Dragon Tamer Nils
+	1. Dragonair Lv. 35
+	2. Shelgon Lv. 35
+	3. Vibrava Lv. 35
+	4. Kingdra Lv. 36
+1. Team Galactic Grunt
+	1. Weezing Lv. 35
+	2. Golbat Lv. 35
+	3. Venomoth Lv. 35
+1. Team Galactic Grunt
+	1. Skuntank Lv. 35
+	2. Dustox Lv. 35
+	3. Wormadam Lv. 35
+
+
+---
+
+## Veilstone City (Gym)
 
 <h3>Generic Trainers</h3>
 
@@ -2273,61 +1914,7 @@
 
 ---
 
-## Veilstone City
-
-<h3>Generic Trainers</h3>
-
-1. Dragon Tamer Nils
-	1. Dragonair Lv. 35
-	2. Shelgon Lv. 35
-	3. Vibrava Lv. 35
-	4. Kingdra Lv. 36
-1. Team Galactic Grunt
-	1. Weezing Lv. 35
-	2. Golbat Lv. 35
-	3. Venomoth Lv. 35
-1. Team Galactic Grunt
-	1. Skuntank Lv. 35
-	2. Dustox Lv. 35
-	3. Wormadam Lv. 35
-
-
----
-
 ## Route 214
-
-<h3>Generic Trainers</h3>
-
-1. PI Carlos (!)
-	1. Dugtrio Lv. 36
-1. Collector Douglas
-	1. Jolteon Lv. 33
-	2. Vaporeon Lv. 33
-	3. Flareon Lv. 33
-1. Collector Brady
-	1. Kangaskhan Lv. 33
-	2. Tropius Lv. 33
-	3. Swalot Lv. 33
-1. Ruin Maniac Bryan
-	1. Anorith Lv. 33
-	2. Lileep Lv. 33
-	3. Aerodactyl Lv. 33
-1. Ruin Maniac Ronald
-	1. Relicanth Lv. 35
-1. Collector Jamal
-	1. Lapras Lv. 35
-1. Beauty Devon
-	1. Wormadam Lv. 33
-	2. Wormadam Lv. 33
-	3. Wormadam Lv. 33
-1. Psychic Mitchell (!)
-	1. Kadabra Lv. 34
-	2. Grumpig Lv. 34
-	3. Hypno Lv. 34
-1. Psychic Abigail (!)
-	1. Kirlia Lv. 34
-	2. Chimecho Lv. 34
-	3. Girafarig Lv. 34
 
 <h3>Rematches</h3>
 
@@ -2403,38 +1990,6 @@
 
 ## Route 213
 
-<h3>Generic Trainers</h3>
-
-1. Beauty Cyndy (!)
-	1. Delcatty Lv. 37
-	2. Persian Lv. 37
-1. Fisherman Kenneth
-	1. Carvanha Lv. 36
-	2. Remoraid Lv. 36
-	3. Horsea Lv. 36
-1. Tuber Jared (!)
-	1. Gastrodon Lv. 37
-1. Tuber Chelsea (!)
-	1. Azumarill Lv. 37
-1. Swimmer Haley
-	1. Golduck Lv. 43
-	2. Mantine Lv. 43
-	3. Corsola Lv. 43
-1. Swimmer Sheltin
-	1. Gyarados Lv. 43
-	2. Gyarados Lv. 43
-	3. Gyarados Lv. 43
-1. Sailor Paul
-	1. Politoed Lv. 45
-1. Swimmer Evan
-	1. Quagsire Lv. 44
-	2. Sharpedo Lv. 44
-1. Swimmer Mary
-	1. Pelipper Lv. 44
-	2. Lumineon Lv. 44
-1. Galactic Grunt
-	1. Toxicroak Lv. 41
-
 <h3>Rematches</h3>
 
 1. Beauty Cyndy (8)
@@ -2458,52 +2013,6 @@
 ---
 
 ## Route 212 (South)
-
-<h3>Generic Trainers</h3>
-
-1. Parasol Lady Sabrina
-	1. Castform Lv. 39
-1. Scientist Shaun (!)
-	1. Magneton Lv. 37
-	2. Electrode Lv. 37
-	3. Porygon2 Lv. 37
-1. PKMN Ranger Taylor (!)
-	1. Carnivine Lv. 39
-	2. Kecleon Lv. 39
-	3. Electabuzz Lv. 39
-1. Parasol Lady Alexa (!)
-	1. Seadra Lv. 38
-	2. Golduck Lv. 38
-1. Fisherman Juan
-	1. Shellder Lv. 36
-	2. Clamperl Lv. 36
-	3. Cloyster Lv. 39
-1. Fisherman Josh
-	1. Remoraid Lv. 36
-	2. Goldeen Lv. 36
-	3. Octillery Lv. 39
-1. Fisherman Travis
-	1. Barboach Lv. 38
-	2. Qwilfish Lv. 38
-1. Collector Dean
-	1. Espeon Lv. 37
-	2. Umbreon Lv. 37
-	3. Glaceon Lv. 37
-1. Policeman Danny
-	1. Growlithe Lv. 37
-	2. Machoke Lv. 37
-	3. Noctowl Lv. 37
-1. Scientist Stefano
-	1. Weezing Lv. 38
-	2. Muk Lv. 38
-1. PKMN Ranger Allison (!)
-	1. Milotic Lv. 39
-	2. Leafeon Lv. 39
-	3. Jynx Lv. 39
-1. PKMN Ranger Jeffrey
-	1. Magmar Lv. 39
-	2. Manectric Lv. 39
-	3. Nidoking Lv. 39
 
 <h3>Rematches</h3>
 
@@ -2556,7 +2065,7 @@
 
 ---
 
-## Pastoria City
+## Pastoria City (City)
 
 <h3>Important Trainers</h3>
 
@@ -2682,7 +2191,7 @@
 
 ---
 
-## Pastoria Gym
+## Pastoria City (Gym)
 
 <h3>Generic Trainers</h3>
 
@@ -2769,58 +2278,6 @@
 ---
 
 ## Route 210 (North)
-
-<h3>Generic Trainers</h3>
-
-1. Ninja Boy Fabian
-	1. Toxicroak Lv. 41
-1. Ninja Boy Brennan
-	1. Ninjask Lv. 41
-1. Ninja Boy Bruce
-	1. Skuntank Lv. 41
-1. Ninja Boy Joel
-	1. Scyther Lv. 39
-	2. Spinda Lv. 39
-	3. Golbat Lv. 39
-1. Ace Trainer Alyssa
-	1. Ambipom Lv. 42
-	2. Starmie Lv. 42
-	3. Torterra Lv. 42
-1. Double Team Zac & Jen
-	1. Gyarados Lv. 42
-	2. Gliscor Lv. 42
-	3. Victreebel Lv. 42
-	4. Typhlosion Lv. 42
-	5. Ursaring Lv. 42
-	6. Ampharos Lv. 42
-1. Ace Trainer Ernest
-	1. Politoed Lv. 41
-	2. Pinsir Lv. 41
-	3. Probopass Lv. 41
-	4. Xatu Lv. 41
-1. Ninja Boy Davido
-	1. Ninetales Lv. 41
-1. Black Belt Adam
-	1. Machamp Lv. 42
-	2. Blaziken Lv. 42
-	3. Heracross Lv. 42
-1. Ninja Boy Nathan
-	1. Swalot Lv. 39
-	2. Dustox Lv. 39
-	3. Mothim Lv. 39
-1. Bird Keeper Brianna (!)
-	1. Dodrio Lv. 42
-	2. Pidgeot Lv. 42
-	3. Skarmory Lv. 42
-1. Veteran Brian (!)
-	1. Tangrowth Lv. 43
-	2. Rapidash Lv. 43
-	3. Feraligatr Lv. 43
-1. Dragon Tamer Patrick (!)
-	1. Gabite Lv. 41
-	2. Shelgon Lv. 41
-	3. Vibrava Lv. 41
-	4. Dragonair Lv. 41
 
 <h3>Rematches</h3>
 
@@ -3184,21 +2641,6 @@
 
 ## Route 218
 
-<h3>Generic Trainers</h3>
-
-1. Fisherman Miguel (!)
-	1. Huntail Lv. 44
-	2. Gorebyss Lv. 44
-1. Fisherman Luc
-	1. Crawdaunt Lv. 45
-1. Sailor Skyler
-	1. Omastar Lv. 43
-	2. Kabutops Lv. 43
-	3. Relicanth Lv. 43
-1. Guitarist Tony (!)
-	1. Kricketune Lv. 44
-	2. Exploud Lv. 44
-
 <h3>Rematches</h3>
 
 1. Fisherman Miguel (C)
@@ -3280,30 +2722,6 @@
 
 ## Route 221
 
-<h3>Generic Trainers</h3>
-
-1. Swimmer Dillon
-	1. Swampert Lv. 46
-1. Swimmer Vanessa
-	1. Milotic Lv. 46
-1. Fisherman Cory
-	1. Whiscash Lv. 44
-	2. Kingler Lv. 44
-	3. Gyarados Lv. 44
-1. Ace Trainer Shannon (!)
-	1. Vileplume Lv. 45
-	2. Gardevoir Lv. 45
-	3. Lopunny Lv. 45
-	4. Nidoqueen Lv. 45
-1. Ace Trainer Jake (!)
-	1. Claydol Lv. 45
-	2. Charizard Lv. 45
-	3. Exeggutor Lv. 45
-	4. Absol Lv. 45
-1. Collector Ivan (!)
-	1. Togekiss Lv. 45
-	2. Blissey Lv. 45
-
 <h3>Rematches</h3>
 
 1. Ace Trainer Shannon (C)
@@ -3376,7 +2794,7 @@
 
 ---
 
-## Canalave City
+## Canalave City (City)
 
 <h3>Important Trainers</h3>
 
@@ -3605,7 +3023,7 @@
 
 ---
 
-## Canalave Gym
+## Canalave City (Gym)
 
 <h3>Generic Trainers</h3>
 
@@ -3812,40 +3230,6 @@
 
 ## Route 217
 
-<h3>Generic Trainers</h3>
-
-1. Ace Trainer Dalton (!)
-	1. Magmortar Lv. 52
-	2. Venusaur Lv. 52
-	3. Kingdra Lv. 52
-1. Skier Shawn
-	1. Snover Lv. 49
-	2. Snover Lv. 49
-	3. Abomasnow Lv. 52
-1. Ninja Boy Matthew
-	1. Crobat Lv. 51
-1. Skier Madison (!)
-	1. Smoochum Lv. 49
-	2. Snorunt Lv. 49
-	3. Jynx Lv. 52
-1. Ninja Boy Ethan
-	1. Drapion Lv. 51
-1. Skier Bjorn (!)
-	1. Swinub Lv. 49
-	2. Swinub Lv. 49
-	3. Piloswine Lv. 52
-1. Skier Lexie
-	1. Dewgong Lv. 51
-	2. Glaceon Lv. 51
-1. Black Belt Luke
-	1. Machamp Lv. 51
-	2. Toxicroak Lv. 51
-	3. Lucario Lv. 51
-1. Ace Trainer Olivia (!)
-	1. Shiftry Lv. 52
-	2. Altaria Lv. 52
-	3. Blissey Lv. 52
-
 <h3>Rematches</h3>
 
 1. Ace Trainer Dalton (C)
@@ -3876,7 +3260,7 @@
 
 ---
 
-## Snowpoint City
+## Snowpoint City (City)
 
 <h3>Generic Trainers</h3>
 
@@ -3892,7 +3276,7 @@
 
 ---
 
-## Snowpoint Gym
+## Snowpoint City (Gym)
 
 <h3>Generic Trainers</h3>
 
@@ -4361,49 +3745,6 @@
 
 ## Route 222
 
-<h3>Generic Trainers</h3>
-
-1. Rich Boy Trey (!)
-	1. Luxray Lv. 57
-	2. Sceptile Lv. 57
-	3. Linoone Lv. 57
-1. Beauty Nicola
-	1. Lopunny Lv. 57
-	2. Flareon Lv. 57
-	3. Meganium Lv. 57
-1. Policeman Thomas
-	1. Noctowl Lv. 59
-1. Sailor Marc (!)
-	1. Lanturn Lv. 57
-	2. Machamp Lv. 57
-	3. Mantine Lv. 57
-1. Tuber Conner
-	1. Remoraid Lv. 57
-	2. Remoraid Lv. 57
-1. Sailor Luther
-	1. Pelipper Lv. 56
-	2. Gastrodon Lv. 56
-	3. Poliwrath Lv. 56
-	4. Kingler Lv. 56
-1. Fisherman Alec (!)
-	1. Gyarados Lv. 57
-	2. Gyarados Lv. 57
-	3. Gyarados Lv. 57
-1. Fisherman George
-	1. Octillery Lv. 58
-	2. Lumineon Lv. 58
-1. Fisherman Brett
-	1. Qwilfish Lv. 59
-1. Fisherman Cole
-	1. Seaking Lv. 57
-	2. Sharpedo Lv. 57
-	3. Kingdra Lv. 57
-1. Tuber Holly
-	1. Azumarill Lv. 58
-1. Poke Kid Janet
-	1. Pikachu Lv. 57
-	2. Pikachu Lv. 57
-
 <h3>Rematches</h3>
 
 1. Rich Boy Trey (C)
@@ -4430,7 +3771,7 @@
 
 ---
 
-## Sunyshore City
+## Sunyshore City (City)
 
 <h3>Important Trainers</h3>
 
@@ -4483,7 +3824,7 @@
 
 ---
 
-## Sunyshore Gym
+## Sunyshore City (Gym)
 
 <h3>Generic Trainers</h3>
 
@@ -4577,54 +3918,6 @@
 ---
 
 ## Route 223
-
-<h3>Generic Trainers</h3>
-
-1. Swimmer Wesley (!)
-	1. Floatzel Lv. 59
-	2. Sharpedo Lv. 59
-	3. Qwilfish Lv. 59
-1. Swimmer Ricardo
-	1. Tentacruel Lv. 61
-1. Swimmer Francisco (!)
-	1. Ludicolo Lv. 59
-	2. Relicanth Lv. 59
-	3. Poliwrath Lv. 59
-1. Swimmer Colton
-	1. Pelipper Lv. 59
-	2. Octillery Lv. 59
-	3. Feraligatr Lv. 59
-1. Swimmer Troy
-	1. Gyarados Lv. 61
-1. Swimmer Oscar
-	1. Mantine Lv. 59
-	2. Blastoise Lv. 59
-	3. Whiscash Lv. 59
-1. Swimmer Miranda (!)
-	1. Cloyster Lv. 60
-	2. Lumineon Lv. 60
-1. Swimmer Aubree
-	1. Bibarel Lv. 60
-	2. Quagsire Lv. 60
-1. Swimmer Paige
-	1. Azumarill Lv. 59
-	2. Slowbro Lv. 59
-	3. Gorebyss Lv. 59
-1. Swimmer Crystal (!)
-	1. Wailord Lv. 59
-	2. Seaking Lv. 59
-	3. Corsola Lv. 59
-1. Swimmer Cassandra
-	1. Vaporeon Lv. 61
-1. Swimmer Gabrielle
-	1. Golduck Lv. 59
-	2. Lapras Lv. 59
-	3. Starmie Lv. 59
-1. Sailor Zachariah (!)
-	1. Kingler Lv. 58
-	2. Machamp Lv. 58
-	3. Gastrodon Lv. 58
-	4. Slowking Lv. 58
 
 <h3>Rematches</h3>
 
@@ -4850,49 +4143,6 @@
 ---
 
 ## Route 224
-
-<h3>Generic Trainers</h3>
-
-1. Ace Trainer Ruben
-	1. Shiftry Lv. 67
-	2. Gyarados Lv. 67
-	3. Politoed Lv. 67
-	4. Leafeon Lv. 67
-1. Psychic Brittney
-	1. Hypno Lv. 66
-	2. Alakazam Lv. 66
-	3. Medicham Lv. 66
-	4. Lunatone Lv. 66
-1. Psychic Maxwell
-	1. Mismagius Lv. 66
-	2. Gengar Lv. 66
-	3. Slowbro Lv. 66
-	4. Solrock Lv. 66
-1. Veteran Armando (!)
-	1. Muk Lv. 68
-	2. Mightyena Lv. 68
-	3. Lickilicky Lv. 68
-	4. Pelipper Lv. 68
-1. Black Belt Carl
-	1. Hariyama Lv. 66
-	2. Hitmonlee Lv. 66
-	3. Hitmonchan Lv. 66
-	4. Hitmontop Lv. 66
-1. Ruin Maniac Larry
-	1. Aerodactyl Lv. 66
-	2. Armaldo Lv. 66
-	3. Cradily Lv. 66
-	4. Relicanth Lv. 66
-1. Ace Trainer Jamie
-	1. Vaporeon Lv. 67
-	2. Metagross Lv. 67
-	3. Roserade Lv. 67
-	4. Dugtrio Lv. 67
-1. Dragon Tamer Hayden (!)
-	1. Altaria Lv. 67
-	2. Salamence Lv. 67
-	3. Kingdra Lv. 67
-	4. Dragonite Lv. 67
 
 <h3>Rematches</h3>
 
@@ -6641,48 +5891,6 @@
 
 ## Route 225
 
-<h3>Generic Trainers</h3>
-
-1. Ace Trainer Rodolfo (!)
-	1. Starmie Lv. 73
-	2. Scizor Lv. 73
-	3. Sceptile Lv. 73
-	4. Ninetales Lv. 73
-1. PKMN Ranger Ashlee (!)
-	1. Linoone Lv. 73
-	2. Arbok Lv. 73
-	3. Butterfree Lv. 73
-1. Bird Keeper Audrey (!)
-	1. Farfetch'd Lv. 73
-	2. Swellow Lv. 73
-	3. Pidgeot Lv. 73
-1. Psychic Daisy (!)
-	1. Slowbro Lv. 74
-	2. Slowking Lv. 74
-1. Dragon Tamer Geoffrey (!)
-	1. Altaria Lv. 75
-1. Ace Trainer Deanna (!)
-	1. Ampharos Lv. 73
-	2. Tropius Lv. 73
-	3. Lapras Lv. 73
-	4. Miltank Lv. 73
-1. PKMN Ranger Dwayne
-	1. Skarmory Lv. 73
-	2. Golduck Lv. 73
-	3. Donphan Lv. 73
-1. Ace Trainer Quinn
-	1. Pinsir Lv. 73
-	2. Lanturn Lv. 73
-	3. Golem Lv. 73
-	4. Exploud Lv. 73
-1. Ace Trainer Heather *
-	1. Pelipper Lv. 76
-	2. Togekiss Lv. 76
-	3. Aerodactyl Lv. 76
-	4. Pidgeot Lv. 76
-	5. Tropius Lv. 76
-	6. Dragonite Lv. 77
-
 <h3>Rematches</h3>
 
 1. Ace Trainer Rodolfo (S)
@@ -6844,29 +6052,6 @@
 
 ## Route 227
 
-<h3>Generic Trainers</h3>
-
-1. Ace Trainer Saul (!)
-	1. Tauros Lv. 78
-1. PKMN Ranger Felicia
-	1. Jumpluff Lv. 76
-	2. Lopunny Lv. 76
-1. Black Belt Griffin
-	1. Breloom Lv. 75
-	2. Medicham Lv. 75
-	3. Lucario Lv. 75
-1. Ace Trainer Mikayla
-	1. Seviper Lv. 76
-	2. Persian Lv. 76
-	3. Absol Lv. 76
-1. Ace Trainer Slythe *
-	1. Gengar Lv. 76
-	2. Tentacruel Lv. 76
-	3. Nidoqueen Lv. 76
-	4. Crobat Lv. 76
-	5. Toxicroak Lv. 76
-	6. Vileplume Lv. 77
-
 <h3>Rematches</h3>
 
 1. Ace Trainer Saul (S)
@@ -6970,43 +6155,6 @@
 ---
 
 ## Route 228
-
-<h3>Generic Trainers</h3>
-
-1. Ace Trainer Jose
-	1. Floatzel Lv. 76
-	2. Sandslash Lv. 76
-	3. Manectric Lv. 76
-1. Ace Trainer Moira (!)
-	1. Cacturne Lv. 76
-	2. Gastrodon Lv. 76
-	3. Claydol Lv. 76
-1. PKMN Ranger Kyler (!)
-	1. Exeggutor Lv. 75
-	2. Zangoose Lv. 75
-	3. Empoleon Lv. 75
-1. PKMN Ranger Krista
-	1. Marowak Lv. 76
-	2. Aggron Lv. 76
-1. Dragon Tamer Keegan
-	1. Flygon Lv. 76
-1. Psychic Corbin (!)
-	1. Hypno Lv. 76
-	2. Gallade Lv. 76
-1. Ace Trainer Meagan
-	1. Delcatty Lv. 77
-	2. Abomasnow Lv. 77
-1. Black Belt Davon (!)
-	1. Hariyama Lv. 75
-	2. Machamp Lv. 75
-	3. Primeape Lv. 75
-1. Ace Trainer Shade *
-	1. Houndoom Lv. 76
-	2. Weavile Lv. 76
-	3. Shiftry Lv. 76
-	4. Sharpedo Lv. 76
-	5. Spiritomb Lv. 76
-	6. Tyranitar Lv. 77
 
 <h3>Rematches</h3>
 
@@ -7158,38 +6306,6 @@
 ---
 
 ## Route 230
-
-<h3>Generic Trainers</h3>
-
-1. Swimmer Glenn (!)
-	1. Octillery Lv. 73
-	2. Politoed Lv. 73
-1. Swimmer Joanna (!)
-	1. Luvdisc Lv. 72
-	2. Corsola Lv. 72
-	3. Vaporeon Lv. 72
-1. Swimmer Kurt
-	1. Krabby Lv. 70
-	2. Corphish Lv. 70
-	3. Kingler Lv. 72
-	4. Crawdaunt Lv. 72
-1. Swimmer Sophia
-	1. Delibird Lv. 73
-	2. Mantine Lv. 73
-1. Swimmer Sam
-	1. Walrein Lv. 72
-	2. Gastrodon Lv. 72
-	3. Seaking Lv. 72
-1. Swimmer Mallory
-	1. Masquerain Lv. 73
-	2. Ludicolo Lv. 73
-1. Ace Trainer Luna *
-	1. Wigglytuff Lv. 76
-	2. Clefable Lv. 76
-	3. Azumarill Lv. 76
-	4. Granbull Lv. 76
-	5. Mawile Lv. 76
-	6. Gardevoir Lv. 77
 
 <h3>Rematches</h3>
 

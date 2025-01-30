@@ -2,15 +2,7 @@
 
 ---
 
-## Outside)
-
----
-
-## Ace Trainer Luna
-
----
-
-## Interior)
+## Entrance
 
 ---
 

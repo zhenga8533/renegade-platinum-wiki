@@ -19,7 +19,7 @@
 | ![Pelipper](../../assets/sprites/pelipper/front.gif) | Pelipper | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 32 - 34 | 20% |
 | ![Swellow](../../assets/sprites/swellow/front.gif) | Swellow | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 32 - 34 | 20% |
 | ![Shuckle](../../assets/sprites/shuckle/front.gif) | Shuckle | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 32 - 34 | 5% |
-| ![Absol](../../assets/sprites/absol/front.gif) | Absol | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 32 - 34 | 22% |
+| ![Absol](../../assets/sprites/absol/front.gif) | Absol | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 32 - 34 | 22% |
 
 ### Surfing
 

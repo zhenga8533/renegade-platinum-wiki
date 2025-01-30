@@ -2,13 +2,13 @@
 
 ---
 
-## North)
+## North
 
 ---
 
-## Leader Fantina
+## Commander Saturn
 
 ---
 
-## PKMN Trainer Barry
+## Gentleman Backlot
 

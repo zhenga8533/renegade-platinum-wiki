@@ -1,10 +1,10 @@
 # Trainer Rosters
 
----
-
-## Generic Trainers
+### Generic Trainers
 
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![Youngster Jonathon](../../assets/trainers/youngster.png)<br>Youngster Jonathon | ![Rhyhorn](../../assets/sprites/rhyhorn/front.gif)<br>Rhyhorn<br>Lv. 13 | ![Omanyte](../../assets/sprites/omanyte/front.gif)<br>Omanyte<br>Lv. 13 | ![Kabuto](../../assets/sprites/kabuto/front.gif)<br>Kabuto<br>Lv. 13 |
-| ![Youngster Darius](../../assets/trainers/youngster.png)<br>Youngster Darius | ![Aron](../../assets/sprites/aron/front.gif)<br>Aron<br>Lv. 13 | ![Anorith](../../assets/sprites/anorith/front.gif)<br>Anorith<br>Lv. 13 | ![Lileep](../../assets/sprites/lileep/front.gif)<br>Lileep<br>Lv. 13 |
+| ![Reporter Kayla](../../assets/trainers/reporter.png)<br>Reporter Kayla | ![Bulbasaur](../../assets/sprites/bulbasaur/front.gif)<br>Bulbasaur<br>Lv. 5 | ![Charmander](../../assets/sprites/charmander/front.gif)<br>Charmander<br>Lv. 5 | ![Squirtle](../../assets/sprites/squirtle/front.gif)<br>Squirtle<br>Lv. 5 |
+| ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Stunky](../../assets/sprites/stunky/front.gif)<br>Stunky<br>Lv. 13 | ![Silcoon](../../assets/sprites/silcoon/front.gif)<br>Silcoon<br>Lv. 13 |
+| ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Glameow](../../assets/sprites/glameow/front.gif)<br>Glameow<br>Lv. 13 | ![Cascoon](../../assets/sprites/cascoon/front.gif)<br>Cascoon<br>Lv. 13 |
+

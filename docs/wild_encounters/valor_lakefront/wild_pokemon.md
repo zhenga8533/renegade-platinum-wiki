@@ -17,5 +17,5 @@
 | ![Nidorina](../../assets/sprites/nidorina/front.gif) | Nidorina | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 31 - 33 | 20% |
 | ![Nidorino](../../assets/sprites/nidorino/front.gif) | Nidorino | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 31 - 33 | 20% |
 | ![Kricketune](../../assets/sprites/kricketune/front.gif) | Kricketune | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 31 - 33 | 10% |
-| ![Venomoth](../../assets/sprites/venomoth/front.gif) | Venomoth | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 31 - 33 | 22% |
+| ![Venomoth](../../assets/sprites/venomoth/front.gif) | Venomoth | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 31 - 33 | 22% |
 

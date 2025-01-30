@@ -6,12 +6,6 @@
 
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![Cyclist Axel](../../assets/trainers/cyclist.png)<br>Cyclist Axel | ![Pichu](../../assets/sprites/pichu/front.gif)<br>Pichu<br>Lv. 19 | ![Pichu](../../assets/sprites/pichu/front.gif)<br>Pichu<br>Lv. 19 | ![Pikachu](../../assets/sprites/pikachu/front.gif)<br>Pikachu<br>Lv. 19 |
-| ![Cyclist Megan](../../assets/trainers/cyclist.png)<br>Cyclist Megan | ![Pidgeotto](../../assets/sprites/pidgeotto/front.gif)<br>Pidgeotto<br>Lv. 21 |
-| ![Cyclist James](../../assets/trainers/cyclist.png)<br>Cyclist James | ![Ponyta](../../assets/sprites/ponyta/front.gif)<br>Ponyta<br>Lv. 20 | ![Flaaffy](../../assets/sprites/flaaffy/front.gif)<br>Flaaffy<br>Lv. 20 |
-| ![Cyclist Nicole](../../assets/trainers/cyclist.png)<br>Cyclist Nicole | ![Taillow](../../assets/sprites/taillow/front.gif)<br>Taillow<br>Lv. 19 | ![Doduo](../../assets/sprites/doduo/front.gif)<br>Doduo<br>Lv. 19 | ![Wingull](../../assets/sprites/wingull/front.gif)<br>Wingull<br>Lv. 19 |
-| ![Cyclist John (!)](../../assets/trainers/cyclist.png)<br>Cyclist John (!) | ![Farfetch'd](../../assets/sprites/farfetchd/front.gif)<br>Farfetch'd<br>Lv. 21 |
-| ![Cyclist Kayla (!)](../../assets/trainers/cyclist.png)<br>Cyclist Kayla (!) | ![Voltorb](../../assets/sprites/voltorb/front.gif)<br>Voltorb<br>Lv. 19 | ![Magnemite](../../assets/sprites/magnemite/front.gif)<br>Magnemite<br>Lv. 19 | ![Electrike](../../assets/sprites/electrike/front.gif)<br>Electrike<br>Lv. 19 |
-| ![Cyclist Ryan](../../assets/trainers/cyclist.png)<br>Cyclist Ryan | ![Luxio](../../assets/sprites/luxio/front.gif)<br>Luxio<br>Lv. 21 |
-| ![Cyclist Rachel](../../assets/trainers/cyclist.png)<br>Cyclist Rachel | ![Jolteon](../../assets/sprites/jolteon/front.gif)<br>Jolteon<br>Lv. 21 |
-| ![Hiker Theodore](../../assets/trainers/hiker.png)<br>Hiker Theodore | ![Torkoal](../../assets/sprites/torkoal/front.gif)<br>Torkoal<br>Lv. 26 |
+| ![Lass Caroline](../../assets/trainers/lass.png)<br>Lass Caroline | ![Lotad](../../assets/sprites/lotad/front.gif)<br>Lotad<br>Lv. 22 | ![Cacnea](../../assets/sprites/cacnea/front.gif)<br>Cacnea<br>Lv. 22 | ![Exeggcute](../../assets/sprites/exeggcute/front.gif)<br>Exeggcute<br>Lv. 22 | ![Shroomish](../../assets/sprites/shroomish/front.gif)<br>Shroomish<br>Lv. 22 |
+| ![Aroma Lady Jenna](../../assets/trainers/aroma_lady.png)<br>Aroma Lady Jenna | ![Weepinbell](../../assets/sprites/weepinbell/front.gif)<br>Weepinbell<br>Lv. 23 | ![Ivysaur](../../assets/sprites/ivysaur/front.gif)<br>Ivysaur<br>Lv. 23 | ![Gloom](../../assets/sprites/gloom/front.gif)<br>Gloom<br>Lv. 23 |
+| ![Aroma Lady Angela](../../assets/trainers/aroma_lady.png)<br>Aroma Lady Angela | ![Roselia](../../assets/sprites/roselia/front.gif)<br>Roselia<br>Lv. 23 | ![Bayleef](../../assets/sprites/bayleef/front.gif)<br>Bayleef<br>Lv. 23 | ![Skiploom](../../assets/sprites/skiploom/front.gif)<br>Skiploom<br>Lv. 23 |

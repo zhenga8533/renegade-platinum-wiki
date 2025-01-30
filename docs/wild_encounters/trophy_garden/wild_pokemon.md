@@ -26,5 +26,5 @@
 | ![Porygon](../../assets/sprites/porygon/front.gif) | Porygon | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 24 - 26 | 10% |
 | ![Happiny](../../assets/sprites/happiny/front.gif) | Happiny | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 24 - 26 | 10% |
 | ![Eevee](../../assets/sprites/eevee/front.gif) | Eevee | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 24 - 26 | 10% |
-| ![Castform](../../assets/sprites/castform/front.gif) | Castform | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 24 - 26 | 22% |
+| ![Castform](../../assets/sprites/castform/front.gif) | Castform | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 24 - 26 | 22% |
 

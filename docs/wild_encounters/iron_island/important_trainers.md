@@ -1,6 +1,5 @@
 # Important Trainers
-
 ---
 
-## PKMN Trainer Barry
+## PKMN Trainer Riley
 

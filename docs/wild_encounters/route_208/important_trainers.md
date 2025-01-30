@@ -1,6 +1,5 @@
 # Important Trainers
-
 ---
 
-## PKMN Trainer Mira
+## Elite Four Aaron
 

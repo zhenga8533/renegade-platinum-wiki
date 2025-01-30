@@ -310,7 +310,7 @@
 | ![Absol](../../assets/sprites/absol/front.gif) | Absol | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 50 - 52 | 10% |
 | ![Donphan](../../assets/sprites/donphan/front.gif) | Donphan | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 50 - 52 | 10% |
 | ![Ursaring](../../assets/sprites/ursaring/front.gif) | Ursaring | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 50 - 52 | 10% |
-| ![Clefable](../../assets/sprites/clefable/front.gif) | Clefable | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 50 - 52 | 22% |
+| ![Clefable](../../assets/sprites/clefable/front.gif) | Clefable | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 50 - 52 | 22% |
 
 ---
 
@@ -395,7 +395,7 @@
 | ![Absol](../../assets/sprites/absol/front.gif) | Absol | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 51 - 53 | 10% |
 | ![Donphan](../../assets/sprites/donphan/front.gif) | Donphan | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 51 - 53 | 10% |
 | ![Ursaring](../../assets/sprites/ursaring/front.gif) | Ursaring | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 51 - 53 | 10% |
-| ![Clefable](../../assets/sprites/clefable/front.gif) | Clefable | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 51 - 53 | 22% |
+| ![Clefable](../../assets/sprites/clefable/front.gif) | Clefable | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 51 - 53 | 22% |
 
 ---
 

@@ -1,6 +1,9 @@
 # Important Trainers
+---
+
+## Galactic Boss Cyrus
 
 ---
 
-## Leader Candice
+## Commander Saturn
 

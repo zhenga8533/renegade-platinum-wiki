@@ -20,8 +20,8 @@
 | ![Voltorb](../../assets/sprites/voltorb/front.gif) | Voltorb | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 11 - 13 | 20% |
 | ![Drifloon](../../assets/sprites/drifloon/front.gif) | Drifloon | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 11 - 13 | 10% |
 | ![Pachirisu](../../assets/sprites/pachirisu/front.gif) | Pachirisu | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 11 - 13 | 10% |
-| ![Plusle](../../assets/sprites/plusle/front.gif) | Plusle | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 11 - 13 | 11% |
-| ![Minun](../../assets/sprites/minun/front.gif) | Minun | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 11 - 13 | 11% |
+| ![Plusle](../../assets/sprites/plusle/front.gif) | Plusle | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 11 - 13 | 11% |
+| ![Minun](../../assets/sprites/minun/front.gif) | Minun | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 11 - 13 | 11% |
 
 ### Surfing
 

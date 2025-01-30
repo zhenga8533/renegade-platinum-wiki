@@ -1,18 +1,23 @@
 # Trainer Rosters
 
----
-
-## Generic Trainers
+### Generic Trainers
 
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![Hiker Reginald](../../assets/trainers/hiker.png)<br>Hiker Reginald | ![Dugtrio](../../assets/sprites/dugtrio/front.gif)<br>Dugtrio<br>Lv. 26 |
-| ![Hiker Lorenzo](../../assets/trainers/hiker.png)<br>Hiker Lorenzo | ![Rhyhorn](../../assets/sprites/rhyhorn/front.gif)<br>Rhyhorn<br>Lv. 25 | ![Sudowoodo](../../assets/sprites/sudowoodo/front.gif)<br>Sudowoodo<br>Lv. 25 |
-| ![Lass Cassidy](../../assets/trainers/lass.png)<br>Lass Cassidy | ![Skitty](../../assets/sprites/skitty/front.gif)<br>Skitty<br>Lv. 24 | ![Meowth](../../assets/sprites/meowth/front.gif)<br>Meowth<br>Lv. 24 | ![Eevee](../../assets/sprites/eevee/front.gif)<br>Eevee<br>Lv. 24 |
-| ![Youngster Wayne](../../assets/trainers/youngster.png)<br>Youngster Wayne | ![Loudred](../../assets/sprites/loudred/front.gif)<br>Loudred<br>Lv. 25 | ![Raticate](../../assets/sprites/raticate/front.gif)<br>Raticate<br>Lv. 25 |
-| ![Picnicker Tori](../../assets/trainers/picnicker.png)<br>Picnicker Tori | ![Psyduck](../../assets/sprites/psyduck/front.gif)<br>Psyduck<br>Lv. 25 | ![Nidorina](../../assets/sprites/nidorina/front.gif)<br>Nidorina<br>Lv. 25 |
-| ![Camper Diego](../../assets/trainers/camper.png)<br>Camper Diego | ![Aipom](../../assets/sprites/aipom/front.gif)<br>Aipom<br>Lv. 25 | ![Nidorino](../../assets/sprites/nidorino/front.gif)<br>Nidorino<br>Lv. 25 |
-| ![Picnicker Ana](../../assets/trainers/picnicker.png)<br>Picnicker Ana | ![Illumise](../../assets/sprites/illumise/front.gif)<br>Illumise<br>Lv. 25 | ![Furret](../../assets/sprites/furret/front.gif)<br>Furret<br>Lv. 25 |
-| ![Camper Parker](../../assets/trainers/camper.png)<br>Camper Parker | ![Volbeat](../../assets/sprites/volbeat/front.gif)<br>Volbeat<br>Lv. 25 | ![Linoone](../../assets/sprites/linoone/front.gif)<br>Linoone<br>Lv. 25 |
-| ![Collector Terry](../../assets/trainers/collector.png)<br>Collector Terry | ![Gible](../../assets/sprites/gible/front.gif)<br>Gible<br>Lv. 24 | ![Bagon](../../assets/sprites/bagon/front.gif)<br>Bagon<br>Lv. 24 | ![Gabite](../../assets/sprites/gabite/front.gif)<br>Gabite<br>Lv. 24 |
-| ![Ruin Maniac Gerald](../../assets/trainers/ruin_maniac.png)<br>Ruin Maniac Gerald | ![Cubone](../../assets/sprites/cubone/front.gif)<br>Cubone<br>Lv. 25 | ![Probopass](../../assets/sprites/probopass/front.gif)<br>Probopass<br>Lv. 25 |
+| ![Hiker Robert](../../assets/trainers/hiker.png)<br>Hiker Robert | ![Marowak](../../assets/sprites/marowak/front.gif)<br>Marowak<br>Lv. 28 |
+| ![Hiker Jonathan](../../assets/trainers/hiker.png)<br>Hiker Jonathan | ![Hippopotas](../../assets/sprites/hippopotas/front.gif)<br>Hippopotas<br>Lv. 26 | ![Shuckle](../../assets/sprites/shuckle/front.gif)<br>Shuckle<br>Lv. 26 | ![Bronzor](../../assets/sprites/bronzor/front.gif)<br>Bronzor<br>Lv. 26 |
+| ![Black Belt Kyle](../../assets/trainers/black_belt.png)<br>Black Belt Kyle | ![Machoke](../../assets/sprites/machoke/front.gif)<br>Machoke<br>Lv. 29 |
+| ![Aroma Lady Hannah](../../assets/trainers/aroma_lady.png)<br>Aroma Lady Hannah | ![Roselia](../../assets/sprites/roselia/front.gif)<br>Roselia<br>Lv. 27 | ![Sunflora](../../assets/sprites/sunflora/front.gif)<br>Sunflora<br>Lv. 27 |
+| ![Artist William [(!)](#rematches)](../../assets/trainers/artist.png)<br>Artist William [(!)](#rematches) | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 26 | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 26 | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 26 |
+| ![Fisherman Cody](../../assets/trainers/fisherman.png)<br>Fisherman Cody | ![Whiscash](../../assets/sprites/whiscash/front.gif)<br>Whiscash<br>Lv. 44 | ![Gyarados](../../assets/sprites/gyarados/front.gif)<br>Gyarados<br>Lv. 44 |
+| ![Hiker Alexander](../../assets/trainers/hiker.png)<br>Hiker Alexander | ![Graveler](../../assets/sprites/graveler/front.gif)<br>Graveler<br>Lv. 28 |
+
+
+### Rematches
+
+| Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
+|:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
+| ![Artist William (5)](../../assets/trainers/artist.png)<br>Artist William (5) | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 38 | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 38 | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 38 |
+| ![Artist William (8)](../../assets/trainers/artist.png)<br>Artist William (8) | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 53 | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 53 | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 53 |
+| ![Artist William (C)](../../assets/trainers/artist.png)<br>Artist William (C) | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 70 | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 70 | ![Smeargle](../../assets/sprites/smeargle/front.gif)<br>Smeargle<br>Lv. 70 |
+

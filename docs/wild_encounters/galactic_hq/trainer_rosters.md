@@ -1,14 +1,19 @@
 # Trainer Rosters
 
----
-
-## Generic Trainers
+### Generic Trainers
 
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![Ace Trainer Anton](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Anton | ![Snorunt](../../assets/sprites/snorunt/front.gif)<br>Snorunt<br>Lv. 51 | ![Glalie](../../assets/sprites/glalie/front.gif)<br>Glalie<br>Lv. 54 | ![Glalie](../../assets/sprites/glalie/front.gif)<br>Glalie<br>Lv. 54 |
-| ![Ace Trainer Savannah](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Savannah | ![Seel](../../assets/sprites/seel/front.gif)<br>Seel<br>Lv. 51 | ![Jynx](../../assets/sprites/jynx/front.gif)<br>Jynx<br>Lv. 54 | ![Dewgong](../../assets/sprites/dewgong/front.gif)<br>Dewgong<br>Lv. 54 |
-| ![Ace Trainer Alicia](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Alicia | ![Spheal](../../assets/sprites/spheal/front.gif)<br>Spheal<br>Lv. 51 | ![Sealeo](../../assets/sprites/sealeo/front.gif)<br>Sealeo<br>Lv. 53 | ![Walrein](../../assets/sprites/walrein/front.gif)<br>Walrein<br>Lv. 55 |
-| ![Ace Trainer Isaiah](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Isaiah | ![Abomasnow](../../assets/sprites/abomasnow/front.gif)<br>Abomasnow<br>Lv. 54 | ![Delibird](../../assets/sprites/delibird/front.gif)<br>Delibird<br>Lv. 54 |
-| ![Ace Trainer Brenna](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Brenna | ![Dewgong](../../assets/sprites/dewgong/front.gif)<br>Dewgong<br>Lv. 53 | ![Cloyster](../../assets/sprites/cloyster/front.gif)<br>Cloyster<br>Lv. 53 | ![Lapras](../../assets/sprites/lapras/front.gif)<br>Lapras<br>Lv. 53 |
-| ![Ace Trainer Sergio](../../assets/trainers/ace_trainer.png)<br>Ace Trainer Sergio | ![Swinub](../../assets/sprites/swinub/front.gif)<br>Swinub<br>Lv. 51 | ![Piloswine](../../assets/sprites/piloswine/front.gif)<br>Piloswine<br>Lv. 53 | ![Mamoswine](../../assets/sprites/mamoswine/front.gif)<br>Mamoswine<br>Lv. 55 |
+| ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Golbat](../../assets/sprites/golbat/front.gif)<br>Golbat<br>Lv. 53 | ![Dustox](../../assets/sprites/dustox/front.gif)<br>Dustox<br>Lv. 53 | ![Parasect](../../assets/sprites/parasect/front.gif)<br>Parasect<br>Lv. 53 |
+| ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Murkrow](../../assets/sprites/murkrow/front.gif)<br>Murkrow<br>Lv. 54 | ![Houndoom](../../assets/sprites/houndoom/front.gif)<br>Houndoom<br>Lv. 54 |
+| ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Beautifly](../../assets/sprites/beautifly/front.gif)<br>Beautifly<br>Lv. 53 | ![Purugly](../../assets/sprites/purugly/front.gif)<br>Purugly<br>Lv. 53 | ![Vespiquen](../../assets/sprites/vespiquen/front.gif)<br>Vespiquen<br>Lv. 53 |
+| ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Toxicroak](../../assets/sprites/toxicroak/front.gif)<br>Toxicroak<br>Lv. 54 | ![Skuntank](../../assets/sprites/skuntank/front.gif)<br>Skuntank<br>Lv. 54 |
+| ![Scientist Fredrick](../../assets/trainers/scientist.png)<br>Scientist Fredrick | ![Kirlia](../../assets/sprites/kirlia/front.gif)<br>Kirlia<br>Lv. 53 | ![Kadabra](../../assets/sprites/kadabra/front.gif)<br>Kadabra<br>Lv. 53 | ![Magneton](../../assets/sprites/magneton/front.gif)<br>Magneton<br>Lv. 53 |
+| ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Scyther](../../assets/sprites/scyther/front.gif)<br>Scyther<br>Lv. 54 | ![Skuntank](../../assets/sprites/skuntank/front.gif)<br>Skuntank<br>Lv. 54 |
+| ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Pinsir](../../assets/sprites/pinsir/front.gif)<br>Pinsir<br>Lv. 54 | ![Toxicroak](../../assets/sprites/toxicroak/front.gif)<br>Toxicroak<br>Lv. 54 |
+| ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Golbat](../../assets/sprites/golbat/front.gif)<br>Golbat<br>Lv. 53 | ![Mightyena](../../assets/sprites/mightyena/front.gif)<br>Mightyena<br>Lv. 53 | ![Ariados](../../assets/sprites/ariados/front.gif)<br>Ariados<br>Lv. 53 |
+| ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Golbat](../../assets/sprites/golbat/front.gif)<br>Golbat<br>Lv. 53 | ![Venomoth](../../assets/sprites/venomoth/front.gif)<br>Venomoth<br>Lv. 53 | ![Cacturne](../../assets/sprites/cacturne/front.gif)<br>Cacturne<br>Lv. 53 |
+| ![Scientist Darrius](../../assets/trainers/scientist.png)<br>Scientist Darrius | ![Porygon-Z](../../assets/sprites/porygon-z/front.gif)<br>Porygon-Z<br>Lv. 55 |
+| ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Muk](../../assets/sprites/muk/front.gif)<br>Muk<br>Lv. 54 | ![Arbok](../../assets/sprites/arbok/front.gif)<br>Arbok<br>Lv. 54 |
+| ![Galactic Grunt](../../assets/trainers/galactic_grunt.png)<br>Galactic Grunt | ![Forretress](../../assets/sprites/forretress/front.gif)<br>Forretress<br>Lv. 53 | ![Seviper](../../assets/sprites/seviper/front.gif)<br>Seviper<br>Lv. 53 | ![Yanmega](../../assets/sprites/yanmega/front.gif)<br>Yanmega<br>Lv. 53 |
+

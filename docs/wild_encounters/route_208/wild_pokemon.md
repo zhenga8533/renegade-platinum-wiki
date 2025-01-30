@@ -26,7 +26,7 @@
 | ![Zangoose](../../assets/sprites/zangoose/front.gif) | Zangoose | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 23 - 24 | 10% |
 | ![Seviper](../../assets/sprites/seviper/front.gif) | Seviper | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 23 - 24 | 10% |
 | ![Smeargle](../../assets/sprites/smeargle/front.gif) | Smeargle | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 23 - 24 | 10% |
-| ![Dunsparce](../../assets/sprites/dunsparce/front.gif) | Dunsparce | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 23 - 24 | 22% |
+| ![Dunsparce](../../assets/sprites/dunsparce/front.gif) | Dunsparce | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 23 - 24 | 22% |
 
 ### Surfing
 

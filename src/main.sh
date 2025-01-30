@@ -69,7 +69,6 @@ $PYTHON special_events.py
 $PYTHON trainer_pokemon.py
 $PYTHON type_changes.py
 $PYTHON wild_pokemon.py
-$PYTHON nav_merge.py
 echo "Finished running all parsers"
 echo ""
 
@@ -90,7 +89,7 @@ if ! command -v rsync &> /dev/null; then
   cp -r -f -u $OUTPUT_PATH/* ../docs/mechanics
   cp -r -f -u $WILD_ENCOUNTER_PATH/* ../docs/wild_encounters
 else
-  rsync -av --exclude='wild_nav.md' "$OUTPUT_PATH/" ../docs/mechanics
+  rsync -av --update $OUTPUT_PATH/ ../docs/mechanics
   rsync -av --update $WILD_ENCOUNTER_PATH/ ../docs/wild_encounters
 fi
 echo "Markdown files updated"

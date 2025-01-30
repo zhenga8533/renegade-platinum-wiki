@@ -2,5 +2,5 @@
 
 ---
 
-## PKMN Trainer Barry
+## Leader Wake
 

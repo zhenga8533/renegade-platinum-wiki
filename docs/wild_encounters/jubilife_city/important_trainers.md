@@ -1,6 +1,9 @@
 # Important Trainers
+---
+
+## PKMN Trainer Dawn
 
 ---
 
-## Leader Roark
+## PKMN Trainer Lucas
 

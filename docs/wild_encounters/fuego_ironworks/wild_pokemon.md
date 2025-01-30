@@ -17,7 +17,7 @@
 | ![Magneton](../../assets/sprites/magneton/front.gif) | Magneton | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 36 - 40 | 20% |
 | ![Manectric](../../assets/sprites/manectric/front.gif) | Manectric | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 36 - 40 | 15% |
 | ![Forretress](../../assets/sprites/forretress/front.gif) | Forretress | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 36 - 40 | 15% |
-| ![Weezing](../../assets/sprites/weezing/front.gif) | Weezing | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 36 - 40 | 22% |
+| ![Weezing](../../assets/sprites/weezing/front.gif) | Weezing | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 36 - 40 | 22% |
 
 ### Surfing
 

@@ -30,7 +30,7 @@
 | ![Weedle](../../assets/sprites/weedle/front.gif) | Weedle | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 6 - 7 | 10% |
 | ![Oddish](../../assets/sprites/oddish/front.gif) | Oddish | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 6 - 7 | 10% |
 | ![Spinarak](../../assets/sprites/spinarak/front.gif) | Spinarak | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 6 - 7 | 10% |
-| ![Roselia](../../assets/sprites/roselia/front.gif) | Roselia | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 6 - 7 | 22% |
+| ![Roselia](../../assets/sprites/roselia/front.gif) | Roselia | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 6 - 7 | 22% |
 
 ### Surfing
 
@@ -85,5 +85,5 @@
 | ![Weedle](../../assets/sprites/weedle/front.gif) | Weedle | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 11 - 12 | 10% |
 | ![Oddish](../../assets/sprites/oddish/front.gif) | Oddish | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 11 - 12 | 10% |
 | ![Spinarak](../../assets/sprites/spinarak/front.gif) | Spinarak | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 11 - 12 | 10% |
-| ![Roselia](../../assets/sprites/roselia/front.gif) | Roselia | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 11 - 12 | 22% |
+| ![Roselia](../../assets/sprites/roselia/front.gif) | Roselia | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 11 - 12 | 22% |
 

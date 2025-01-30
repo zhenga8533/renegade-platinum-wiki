@@ -23,7 +23,7 @@
 | ![Mightyena](../../assets/sprites/mightyena/front.gif) | Mightyena | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 27 - 30 | 10% |
 | ![Linoone](../../assets/sprites/linoone/front.gif) | Linoone | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 27 - 30 | 10% |
 | ![Hypno](../../assets/sprites/hypno/front.gif) | Hypno | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 27 - 30 | 5% |
-| ![Absol](../../assets/sprites/absol/front.gif) | Absol | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 27 - 30 | 22% |
+| ![Absol](../../assets/sprites/absol/front.gif) | Absol | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 27 - 30 | 22% |
 
 ### Honey Tree
 

@@ -2,9 +2,13 @@
 
 ---
 
-## North)
+## North
 
 ---
 
-## Leader Wake
+## PKMN Trainer Dawn
+
+---
+
+## PKMN Trainer Lucas
 

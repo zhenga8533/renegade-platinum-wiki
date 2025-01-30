@@ -1,6 +1,9 @@
 # Important Trainers
+---
+
+## PKMN Trainer Dawn
 
 ---
 
-## Commander Jupiter
+## PKMN Trainer Lucas
 

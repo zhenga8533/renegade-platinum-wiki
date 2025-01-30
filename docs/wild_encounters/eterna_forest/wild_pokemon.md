@@ -21,8 +21,8 @@
 | ![Slakoth](../../assets/sprites/slakoth/front.gif) | Slakoth | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 14 - 16 | 10% |
 | ![Nincada](../../assets/sprites/nincada/front.gif) | Nincada | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 14 - 16 | 10% |
 | ![Taillow](../../assets/sprites/taillow/front.gif) | Taillow | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 14 - 16 | 10% |
-| ![Beautifly](../../assets/sprites/beautifly/front.gif) | Beautifly | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 14 - 16 | 11% |
-| ![Dustox](../../assets/sprites/dustox/front.gif) | Dustox | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 14 - 16 | 11% |
+| ![Beautifly](../../assets/sprites/beautifly/front.gif) | Beautifly | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 14 - 16 | 11% |
+| ![Dustox](../../assets/sprites/dustox/front.gif) | Dustox | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 14 - 16 | 11% |
 
 ---
 

@@ -24,7 +24,7 @@
 | ![Teddiursa](../../assets/sprites/teddiursa/front.gif) | Teddiursa | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 16 - 18 | 10% |
 | ![Natu](../../assets/sprites/natu/front.gif) | Natu | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 16 - 18 | 10% |
 | ![Chingling](../../assets/sprites/chingling/front.gif) | Chingling | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 16 - 18 | 10% |
-| ![Tyrogue](../../assets/sprites/tyrogue/front.gif) | Tyrogue | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 16 - 18 | 22% |
+| ![Tyrogue](../../assets/sprites/tyrogue/front.gif) | Tyrogue | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 16 - 18 | 22% |
 
 ---
 
@@ -52,7 +52,7 @@
 | ![Teddiursa](../../assets/sprites/teddiursa/front.gif) | Teddiursa | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 18 - 19 | 10% |
 | ![Natu](../../assets/sprites/natu/front.gif) | Natu | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 18 - 19 | 10% |
 | ![Bagon](../../assets/sprites/bagon/front.gif) | Bagon | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 18 - 19 | 10% |
-| ![Tyrogue](../../assets/sprites/tyrogue/front.gif) | Tyrogue | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 18 - 19 | 22% |
+| ![Tyrogue](../../assets/sprites/tyrogue/front.gif) | Tyrogue | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 18 - 19 | 22% |
 
 ### Honey Tree
 

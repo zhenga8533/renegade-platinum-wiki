@@ -30,7 +30,7 @@
 | ![Tauros](../../assets/sprites/tauros/front.gif) | Tauros | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 28 - 30 | 10% |
 | ![Noctowl](../../assets/sprites/noctowl/front.gif) | Noctowl | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 28 - 30 | 10% |
 | ![Rapidash](../../assets/sprites/rapidash/front.gif) | Rapidash | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 28 - 30 | 5% |
-| ![Kecleon](../../assets/sprites/kecleon/front.gif) | Kecleon | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 28 - 30 | 22% |
+| ![Kecleon](../../assets/sprites/kecleon/front.gif) | Kecleon | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 28 - 30 | 22% |
 
 ### Honey Tree
 
@@ -76,7 +76,7 @@
 | ![Seviper](../../assets/sprites/seviper/front.gif) | Seviper | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 34 - 38 | 10% |
 | ![Skarmory](../../assets/sprites/skarmory/front.gif) | Skarmory | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 34 - 38 | 10% |
 | ![Shelgon](../../assets/sprites/shelgon/front.gif) | Shelgon | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 34 - 38 | 10% |
-| ![Altaria](../../assets/sprites/altaria/front.gif) | Altaria | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 34 - 38 | 22% |
+| ![Altaria](../../assets/sprites/altaria/front.gif) | Altaria | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 34 - 38 | 22% |
 
 ### Surfing
 

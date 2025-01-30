@@ -17,5 +17,5 @@
 | ![Smoochum](../../assets/sprites/smoochum/front.gif) | Smoochum | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 18 - 20 | 20% |
 | ![Snorunt](../../assets/sprites/snorunt/front.gif) | Snorunt | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 18 - 20 | 15% |
 | ![Sneasel](../../assets/sprites/sneasel/front.gif) | Sneasel | ![Night](../../assets/encounter_types/night.png "Night"){: style='max-width: 24px;' } | 18 - 20 | 10% |
-| ![Delibird](../../assets/sprites/delibird/front.gif) | Delibird | ![Poké Radar](../../assets/encounter_types/poké_radar.png "Poké Radar"){: style='max-width: 24px;' } | 18 - 20 | 22% |
+| ![Delibird](../../assets/sprites/delibird/front.gif) | Delibird | ![Poké Radar](../../assets/encounter_types/poke_radar.png "Poké Radar"){: style='max-width: 24px;' } | 18 - 20 | 22% |
 

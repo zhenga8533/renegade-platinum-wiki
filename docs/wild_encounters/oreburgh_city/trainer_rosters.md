@@ -2,10 +2,25 @@
 
 ---
 
-## Generic Trainers
+## City
+
+
+### Generic Trainers
 
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![Camper Curtis](../../assets/trainers/camper.png)<br>Camper Curtis | ![Seedot](../../assets/sprites/seedot/front.gif)<br>Seedot<br>Lv. 10 | ![Diglett](../../assets/sprites/diglett/front.gif)<br>Diglett<br>Lv. 10 |
-| ![Picnicker Diana](../../assets/trainers/picnicker.png)<br>Picnicker Diana | ![Whismur](../../assets/sprites/whismur/front.gif)<br>Whismur<br>Lv. 10 | ![Wooper](../../assets/sprites/wooper/front.gif)<br>Wooper<br>Lv. 10 |
-| ![Veteran Grant](../../assets/trainers/veteran.png)<br>Veteran Grant | ![Lucario](../../assets/sprites/lucario/front.gif)<br>Lucario<br>Lv. 45 | ![Golem](../../assets/sprites/golem/front.gif)<br>Golem<br>Lv. 45 | ![Staraptor](../../assets/sprites/staraptor/front.gif)<br>Staraptor<br>Lv. 45 |
+| ![Reporter Helen](../../assets/trainers/reporter.png)<br>Reporter Helen | ![Treecko](../../assets/sprites/treecko/front.gif)<br>Treecko<br>Lv. 10 | ![Torchic](../../assets/sprites/torchic/front.gif)<br>Torchic<br>Lv. 10 | ![Mudkip](../../assets/sprites/mudkip/front.gif)<br>Mudkip<br>Lv. 10 |
+
+
+---
+
+## Gym
+
+
+### Generic Trainers
+
+| Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
+|:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
+| ![Youngster Jonathon](../../assets/trainers/youngster.png)<br>Youngster Jonathon | ![Rhyhorn](../../assets/sprites/rhyhorn/front.gif)<br>Rhyhorn<br>Lv. 13 | ![Omanyte](../../assets/sprites/omanyte/front.gif)<br>Omanyte<br>Lv. 13 | ![Kabuto](../../assets/sprites/kabuto/front.gif)<br>Kabuto<br>Lv. 13 |
+| ![Youngster Darius](../../assets/trainers/youngster.png)<br>Youngster Darius | ![Aron](../../assets/sprites/aron/front.gif)<br>Aron<br>Lv. 13 | ![Anorith](../../assets/sprites/anorith/front.gif)<br>Anorith<br>Lv. 13 | ![Lileep](../../assets/sprites/lileep/front.gif)<br>Lileep<br>Lv. 13 |
+

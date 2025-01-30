@@ -42,6 +42,32 @@ def parse_pokemon_table(line: str) -> str:
     return table
 
 
+def parse_trainer_roster(trainers) -> str:
+    md = ""
+    trainer_rosters = "| Trainer | P1 | P2 | P3 | P4 | P5 | P6 |\n"
+    trainer_rosters += "|:-------:|:--:|:--:|:--:|:--:|:--:|:--:|\n"
+
+    for trainer in trainers:
+        trainer_name, pokemon = re.split(r"\s{2,}", trainer)
+        trainer_name = trainer_name.replace("(!)", "[(!)](#rematches)")
+        trainer_sprite = find_trainer_sprite(trainer_name, "trainers").replace("../", "../../")
+
+        md += f"1. {trainer_name}"
+        trainer_rosters += f"| {trainer_sprite}<br>{trainer_name} "
+
+        for i, p in enumerate(pokemon.split(", "), 1):
+            pokemon_name, level = p.split(" Lv. ")
+            pokemon_sprite = find_pokemon_sprite(pokemon_name, "front").replace("../", "../../")
+
+            md += f"\n\t{i}. {p}"
+            trainer_rosters += f"| {pokemon_sprite}<br>{pokemon_name}<br>Lv. {level} "
+        md += "\n"
+        trainer_rosters += "|\n"
+    md += "\n"
+
+    return md, trainer_rosters
+
+
 def parse_trainers(trainers, rematches, important):
     trainers = [t for t in trainers if re.split(r"\s{2,}", t)[0] not in important]
     md = ""
@@ -49,36 +75,14 @@ def parse_trainers(trainers, rematches, important):
     important_trainers = ""
 
     if len(trainers) > 0:
-        md += "<h3>Generic Trainers</h3>\n\n"
-        trainer_rosters += "---\n\n## Generic Trainers\n\n"
-        trainer_rosters += "| Trainer | P1 | P2 | P3 | P4 | P5 | P6 |\n"
-        trainer_rosters += "|:-------:|:--:|:--:|:--:|:--:|:--:|:--:|\n"
-
-        for trainer in trainers:
-            trainer_name, pokemon = re.split(r"\s{2,}", trainer)
-            trainer_sprite = find_trainer_sprite(trainer_name, "trainers").replace("../", "../../")
-
-            md += f"1. {trainer_name}"
-            trainer_rosters += f"| {trainer_sprite}<br>{trainer_name} "
-
-            for i, p in enumerate(pokemon.split(", "), 1):
-                pokemon_name, level = p.split(" Lv. ")
-                pokemon_sprite = find_pokemon_sprite(pokemon_name, "front").replace("../", "../../")
-
-                md += f"\n\t{i}. {p}"
-                trainer_rosters += f"| {pokemon_sprite}<br>{pokemon_name}<br>Lv. {level} "
-            md += "\n"
-            trainer_rosters += "|\n"
-        md += "\n"
+        md, trainer_rosters = parse_trainer_roster(trainers)
+        md = "<h3>Generic Trainers</h3>\n\n" + md
+        trainer_rosters = "\n### Generic Trainers\n\n" + trainer_rosters + "\n"
 
     if len(rematches) > 0:
-        md += "<h3>Rematches</h3>\n\n"
-        for trainer in rematches:
-            name, pokemon = re.split(r"\s{2,}", trainer)
-            md += f"1. {name}\n\t"
-            md += "\n\t".join([f"{i}. {line}" for i, line in enumerate(pokemon.split(", "), 1)])
-            md += "\n"
-        md += "\n"
+        md, rematch_rosters = parse_trainer_roster(rematches)
+        md = "<h3>Rematches</h3>\n\n" + md
+        trainer_rosters += "\n### Rematches\n\n" + rematch_rosters + "\n"
 
     if len(important) > 0:
         md += "<h3>Important Trainers</h3>\n\n"
@@ -145,6 +149,8 @@ def main():
 
     wild_rosters = {}
     wild_trainers = {}
+    location = None
+    section = None
 
     # Parse data
     logger.log(logging.INFO, "Parsing data...")
@@ -160,14 +166,13 @@ def main():
                 roster_md, trainer_rosters, important_trainers = parse_trainers(trainers, rematches, important)
                 md += roster_md
 
-                location, section = line.split(" (", 1) if "(" in line else (line, None)
                 if trainer_rosters != "":
-                    wild_rosters[location] = wild_rosters.get(location, "# Trainer Rosters\n\n")
-                    wild_rosters[location] += f"---\n\n## {section}\n\n" if section else ""
+                    wild_rosters[location] = wild_rosters.get(location, "# Trainer Rosters\n")
+                    wild_rosters[location] += f"\n---\n\n## {section[:-1]}\n\n" if section else ""
                     wild_rosters[location] += trainer_rosters
                 if important_trainers != "":
-                    wild_trainers[location] = wild_trainers.get(location, "# Important Trainers\n\n")
-                    wild_trainers[location] += f"---\n\n## {section}\n\n" if section else ""
+                    wild_trainers[location] = wild_trainers.get(location, "# Important Trainers\n")
+                    wild_trainers[location] += f"\n---\n\n## {section[:-1]}\n\n" if section else ""
                     wild_trainers[location] += important_trainers
 
                 trainers = []
@@ -175,6 +180,7 @@ def main():
                 important = {}
                 roster = trainers
 
+            location, section = line.split(" (", 1) if "(" in line else (line, None)
             md += f"\n---\n\n## {line}\n\n"
         elif line.startswith("- "):
             md += f"1. {line[2:]}\n"
