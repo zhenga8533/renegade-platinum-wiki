@@ -53,3 +53,132 @@ nav:
       - Trainer Pokemon: mechanics/trainer_pokemon.md
       - Type Changes: mechanics/type_changes.md
       - Wild Pokemon: mechanics/wild_pokemon.md
+  - Wild Encounters:
+      - Twinleaf Town:
+          - Wild Pokémon: wild_encounters/twinleaf_town/wild_pokemon.md
+      - Route 201:
+          - Wild Pokémon: wild_encounters/route_201/wild_pokemon.md
+      - Lake Verity:
+          - Wild Pokémon: wild_encounters/lake_verity/wild_pokemon.md
+      - Route 202:
+          - Wild Pokémon: wild_encounters/route_202/wild_pokemon.md
+      - Route 204:
+          - Wild Pokémon: wild_encounters/route_204/wild_pokemon.md
+      - Ravaged Path:
+          - Wild Pokémon: wild_encounters/ravaged_path/wild_pokemon.md
+      - Route 203:
+          - Wild Pokémon: wild_encounters/route_203/wild_pokemon.md
+      - Oreburgh Gate:
+          - Wild Pokémon: wild_encounters/oreburgh_gate/wild_pokemon.md
+      - Route 207:
+          - Wild Pokémon: wild_encounters/route_207/wild_pokemon.md
+      - Oreburgh Mine:
+          - Wild Pokémon: wild_encounters/oreburgh_mine/wild_pokemon.md
+      - Valley Windworks:
+          - Wild Pokémon: wild_encounters/valley_windworks/wild_pokemon.md
+      - Floaroma Meadow:
+          - Wild Pokémon: wild_encounters/floaroma_meadow/wild_pokemon.md
+      - Route 205:
+          - Wild Pokémon: wild_encounters/route_205/wild_pokemon.md
+      - Eterna Forest:
+          - Wild Pokémon: wild_encounters/eterna_forest/wild_pokemon.md
+      - Old Chateau:
+          - Wild Pokémon: wild_encounters/old_chateau/wild_pokemon.md
+      - Eterna City:
+          - Wild Pokémon: wild_encounters/eterna_city/wild_pokemon.md
+      - Route 211:
+          - Wild Pokémon: wild_encounters/route_211/wild_pokemon.md
+      - Mt. Coronet:
+          - Wild Pokémon: wild_encounters/mt_coronet/wild_pokemon.md
+      - Route 216:
+          - Wild Pokémon: wild_encounters/route_216/wild_pokemon.md
+      - Route 206:
+          - Wild Pokémon: wild_encounters/route_206/wild_pokemon.md
+      - Wayward Cave:
+          - Wild Pokémon: wild_encounters/wayward_cave/wild_pokemon.md
+      - Route 208:
+          - Wild Pokémon: wild_encounters/route_208/wild_pokemon.md
+      - Route 212:
+          - Wild Pokémon: wild_encounters/route_212/wild_pokemon.md
+      - Trophy Garden:
+          - Wild Pokémon: wild_encounters/trophy_garden/wild_pokemon.md
+      - Route 209:
+          - Wild Pokémon: wild_encounters/route_209/wild_pokemon.md
+      - Lost Tower:
+          - Wild Pokémon: wild_encounters/lost_tower/wild_pokemon.md
+      - Solaceon Ruins:
+          - Wild Pokémon: wild_encounters/solaceon_ruins/wild_pokemon.md
+      - Route 210:
+          - Wild Pokémon: wild_encounters/route_210/wild_pokemon.md
+      - Route 215:
+          - Wild Pokémon: wild_encounters/route_215/wild_pokemon.md
+      - Route 214:
+          - Wild Pokémon: wild_encounters/route_214/wild_pokemon.md
+      - Maniac Tunnel:
+          - Wild Pokémon: wild_encounters/maniac_tunnel/wild_pokemon.md
+      - Valor Lakefront:
+          - Wild Pokémon: wild_encounters/valor_lakefront/wild_pokemon.md
+      - Route 213:
+          - Wild Pokémon: wild_encounters/route_213/wild_pokemon.md
+      - Pastoria City:
+          - Wild Pokémon: wild_encounters/pastoria_city/wild_pokemon.md
+      - Great Marsh:
+          - Wild Pokémon: wild_encounters/great_marsh/wild_pokemon.md
+      - Celestic Town:
+          - Wild Pokémon: wild_encounters/celestic_town/wild_pokemon.md
+      - Route 219:
+          - Wild Pokémon: wild_encounters/route_219/wild_pokemon.md
+      - Route 220:
+          - Wild Pokémon: wild_encounters/route_220/wild_pokemon.md
+      - Route 221:
+          - Wild Pokémon: wild_encounters/route_221/wild_pokemon.md
+      - Fuego Ironworks:
+          - Wild Pokémon: wild_encounters/fuego_ironworks/wild_pokemon.md
+      - Route 218:
+          - Wild Pokémon: wild_encounters/route_218/wild_pokemon.md
+      - Canalave City:
+          - Wild Pokémon: wild_encounters/canalave_city/wild_pokemon.md
+      - Iron Island:
+          - Wild Pokémon: wild_encounters/iron_island/wild_pokemon.md
+      - Route 217:
+          - Wild Pokémon: wild_encounters/route_217/wild_pokemon.md
+      - Acuity Lakefron:
+          - Wild Pokémon: wild_encounters/acuity_lakefron/wild_pokemon.md
+      - Snowpoint Templ:
+          - Wild Pokémon: wild_encounters/snowpoint_templ/wild_pokemon.md
+      - Lake Acuity:
+          - Wild Pokémon: wild_encounters/lake_acuity/wild_pokemon.md
+      - Sendoff Spring:
+          - Wild Pokémon: wild_encounters/sendoff_spring/wild_pokemon.md
+      - Lake Valor:
+          - Wild Pokémon: wild_encounters/lake_valor/wild_pokemon.md
+      - Route 222:
+          - Wild Pokémon: wild_encounters/route_222/wild_pokemon.md
+      - Sunyshore City:
+          - Wild Pokémon: wild_encounters/sunyshore_city/wild_pokemon.md
+      - Route 223:
+          - Wild Pokémon: wild_encounters/route_223/wild_pokemon.md
+      - Pokémon League:
+          - Wild Pokémon: wild_encounters/pokmon_league/wild_pokemon.md
+      - Victory Road:
+          - Wild Pokémon: wild_encounters/victory_road/wild_pokemon.md
+      - Route 224:
+          - Wild Pokémon: wild_encounters/route_224/wild_pokemon.md
+      - Turnback Cave:
+          - Wild Pokémon: wild_encounters/turnback_cave/wild_pokemon.md
+      - Route 225:
+          - Wild Pokémon: wild_encounters/route_225/wild_pokemon.md
+      - Route 226:
+          - Wild Pokémon: wild_encounters/route_226/wild_pokemon.md
+      - Route 227:
+          - Wild Pokémon: wild_encounters/route_227/wild_pokemon.md
+      - Route 228:
+          - Wild Pokémon: wild_encounters/route_228/wild_pokemon.md
+      - Route 229:
+          - Wild Pokémon: wild_encounters/route_229/wild_pokemon.md
+      - Resort Area:
+          - Wild Pokémon: wild_encounters/resort_area/wild_pokemon.md
+      - Route 230:
+          - Wild Pokémon: wild_encounters/route_230/wild_pokemon.md
+      - Stark Mountain:
+          - Wild Pokémon: wild_encounters/stark_mountain/wild_pokemon.md

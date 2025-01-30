@@ -17,6 +17,10 @@ echo "Checking for i/o paths"
 OVERWRITE=$(grep "^OVERWRITE" .env | cut -d '=' -f2- | tr -d ' "')
 OUTPUT_PATH=$(grep "^OUTPUT_PATH" .env | cut -d '=' -f2- | tr -d ' "')
 POKEMON_INPUT_PATH=$(grep "^POKEMON_INPUT_PATH" .env | cut -d '=' -f2- | tr -d ' "')
+WILD_ENCOUNTER_PATH=$(grep "^WILD_ENCOUNTER_PATH" .env | cut -d '=' -f2- | tr -d ' "')
+
+rm -rf $OUTPUT_PATH
+rm -rf $WILD_ENCOUNTER_PATH
 if [ -d $POKEMON_INPUT_PATH ]; then
   echo "Pokemon input data found"
 else
@@ -73,13 +77,18 @@ if ! [[ $OVERWRITE == "True" ]]; then
 fi
 
 echo "Updating Markdown files in docs"
+rm $OUTPUT_PATH/wild_nav.md
+
 mkdir -p ../docs/mechanics
 mkdir -p ../docs/pokemon
+mkdir -p ../docs/wild_encounters
 
 # Check for rsync
 if ! command -v rsync &> /dev/null; then
   cp -r -f -u $OUTPUT_PATH/* ../docs/mechanics
+  cp -r -f -u $WILD_ENCOUNTER_PATH/* ../docs/wild_encounters
 else
   rsync -av --update $OUTPUT_PATH/ ../docs/mechanics/
+  rsync -av --update $WILD_ENCOUNTER_PATH/ ../docs/wild_encounters
 fi
 echo "Markdown files updated"

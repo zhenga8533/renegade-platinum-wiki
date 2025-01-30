@@ -1,5 +1,6 @@
 from dotenv import load_dotenv
 from util.file import load, save
+from util.format import find_pokemon_sprite, format_id
 from util.logger import Logger
 import logging
 import os
@@ -21,6 +22,7 @@ def main():
     load_dotenv()
     INPUT_PATH = os.getenv("INPUT_PATH")
     OUTPUT_PATH = os.getenv("OUTPUT_PATH")
+    WILD_ENCOUNTER_PATH = os.getenv("WILD_ENCOUNTER_PATH")
 
     LOG = os.getenv("LOG") == "True"
     LOG_PATH = os.getenv("LOG_PATH")
@@ -39,6 +41,9 @@ def main():
     }
     levels = rod_levels.copy()
 
+    curr_location = None
+    wild_encounters = {}
+
     # Parse data
     logger.log(logging.INFO, "Parsing data...")
     for i in range(n):
@@ -50,6 +55,15 @@ def main():
             pass
         elif next_line.startswith("="):
             md += f"\n---\n\n## {line}\n\n"
+
+            # Set wild encounters for the current location
+            if "(" in line:
+                curr_location, section = line.split(" (", 1)
+                wild_encounters[curr_location] = wild_encounters.get(curr_location, "")
+                wild_encounters[curr_location] += f"---\n\n## {section[:-1]}\n\n"
+            else:
+                curr_location = line
+                wild_encounters[curr_location] = wild_encounters.get(curr_location, "")
         elif line.startswith("- "):
             md += f"1. {line[2:]}\n"
         elif line.startswith("Levels:"):
@@ -60,13 +74,36 @@ def main():
         elif "%" in line:
             encounter, pokemon = re.split(r"\s{2,}", line)
             level = levels.get(get_encounter_class(encounter), levels.get(encounter, "?"))
+            wild_pokemon = pokemon.split(", ")
+
             md += f"{encounter} (Lv. {level})\n\n```\n"
-            md += "\n".join([f"{i}. {p}" for i, p in enumerate(pokemon.split(", "), 1)]) + "\n```\n\n"
+            md += "\n".join([f"{i}. {p}" for i, p in enumerate(wild_pokemon, 1)]) + "\n```\n\n"
+
+            wild_encounters[curr_location] += f"### {encounter}\n\n"
+            wild_encounters[curr_location] += f"| Sprite | Pokémon | Encounter Type | Level | Chance |\n"
+            wild_encounters[curr_location] += f"|:------:|---------|:--------------:|-------|--------|\n"
+            for wild in wild_pokemon:
+                pokemon, chance = wild.split(" (")
+                sprite = find_pokemon_sprite(pokemon, "front", logger).replace("../", "../../")
+                encounter_type = f"![{encounter}](../../assets/encounter_types/{format_id(encounter, symbol="_")}.png)"
+
+                wild_encounters[curr_location] += f"| {sprite} | {pokemon} | "
+                wild_encounters[curr_location] += f"{encounter_type}{{: style='max-width: 24px;' }} | "
+                wild_encounters[curr_location] += f"{level} | {chance[:-1]} |\n"
+            wild_encounters[curr_location] += "\n"
         else:
             md += line + "\n\n"
     logger.log(logging.INFO, "Data parsed successfully!")
 
     save(OUTPUT_PATH + "wild_pokemon.md", md, logger)
+
+    nav = "  - Wild Encounters:\n"
+    for location, encounters in wild_encounters.items():
+        location_id = format_id(location, symbol="_")
+        save(WILD_ENCOUNTER_PATH + location_id + "/wild_pokemon.md", encounters, logger)
+        nav += f"      - {location}:\n"
+        nav += f"          - Wild Pokémon: {WILD_ENCOUNTER_PATH + location_id}/wild_pokemon.md\n"
+    save(OUTPUT_PATH + "wild_nav.md", nav, logger)
 
 
 if __name__ == "__main__":

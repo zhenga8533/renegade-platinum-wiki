@@ -1,6 +1,7 @@
 logs/
 markdown/
 src/pokemon/
+src/wild_encounters/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
