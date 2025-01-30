@@ -1,4 +1,7 @@
+### Walking
 
+| Sprite | Pokémon | Encounter Type | Level | Chance |
+|:------:|---------|:--------------:|-------|--------|
 | ![Starly](../../assets/sprites/starly/front.gif) | Starly | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 4 - 5 | 30% |
 | ![Bidoof](../../assets/sprites/bidoof/front.gif) | Bidoof | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 4 - 5 | 20% |
 | ![Surskit](../../assets/sprites/surskit/front.gif) | Surskit | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 4 - 5 | 20% |

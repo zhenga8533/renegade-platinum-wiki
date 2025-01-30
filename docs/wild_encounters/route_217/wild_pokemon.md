@@ -1,4 +1,7 @@
+### Walking
 
+| Sprite | Pokémon | Encounter Type | Level | Chance |
+|:------:|---------|:--------------:|-------|--------|
 | ![Piloswine](../../assets/sprites/piloswine/front.gif) | Piloswine | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 44 - 48 | 30% |
 | ![Snorunt](../../assets/sprites/snorunt/front.gif) | Snorunt | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 44 - 48 | 20% |
 | ![Sneasel](../../assets/sprites/sneasel/front.gif) | Sneasel | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 44 - 48 | 10% |

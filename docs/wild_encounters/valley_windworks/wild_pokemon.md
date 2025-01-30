@@ -1,4 +1,7 @@
+### Walking
 
+| Sprite | Pokémon | Encounter Type | Level | Chance |
+|:------:|---------|:--------------:|-------|--------|
 | ![Magnemite](../../assets/sprites/magnemite/front.gif) | Magnemite | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 11 - 13 | 20% |
 | ![Elekid](../../assets/sprites/elekid/front.gif) | Elekid | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 11 - 13 | 20% |
 | ![Electrike](../../assets/sprites/electrike/front.gif) | Electrike | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 11 - 13 | 20% |

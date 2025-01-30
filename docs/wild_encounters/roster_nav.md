@@ -1,0 +1,131 @@
+  - Wild Encounters:
+      - Jubilife City Trainer School:
+          - Trainer Rosters: wild_encounters/jubilife_city_trainer_school/trainer_rosters.md
+      - Route 204:
+          - Trainer Rosters: wild_encounters/route_204/trainer_rosters.md
+      - Route 203:
+          - Trainer Rosters: wild_encounters/route_203/trainer_rosters.md
+      - Oreburgh Gate:
+          - Trainer Rosters: wild_encounters/oreburgh_gate/trainer_rosters.md
+      - Oreburgh City:
+          - Trainer Rosters: wild_encounters/oreburgh_city/trainer_rosters.md
+      - Oreburgh Mine:
+          - Trainer Rosters: wild_encounters/oreburgh_mine/trainer_rosters.md
+      - Oreburgh Gym:
+          - Trainer Rosters: wild_encounters/oreburgh_gym/trainer_rosters.md
+      - Jubilife City:
+          - Trainer Rosters: wild_encounters/jubilife_city/trainer_rosters.md
+      - Floaroma Town:
+          - Trainer Rosters: wild_encounters/floaroma_town/trainer_rosters.md
+      - Floaroma Meadow:
+          - Trainer Rosters: wild_encounters/floaroma_meadow/trainer_rosters.md
+      - Valley Windworks:
+          - Trainer Rosters: wild_encounters/valley_windworks/trainer_rosters.md
+      - Route 205:
+          - Trainer Rosters: wild_encounters/route_205/trainer_rosters.md
+      - Eterna Forest:
+          - Trainer Rosters: wild_encounters/eterna_forest/trainer_rosters.md
+      - Route 211:
+          - Trainer Rosters: wild_encounters/route_211/trainer_rosters.md
+      - Route 216:
+          - Trainer Rosters: wild_encounters/route_216/trainer_rosters.md
+      - Route 206:
+          - Trainer Rosters: wild_encounters/route_206/trainer_rosters.md
+      - Eterna Gym:
+          - Trainer Rosters: wild_encounters/eterna_gym/trainer_rosters.md
+      - Team Galactic Eterna Building:
+          - Trainer Rosters: wild_encounters/team_galactic_eterna_building/trainer_rosters.md
+      - Route 207:
+          - Trainer Rosters: wild_encounters/route_207/trainer_rosters.md
+      - Wayward Cave:
+          - Trainer Rosters: wild_encounters/wayward_cave/trainer_rosters.md
+      - Route 208:
+          - Trainer Rosters: wild_encounters/route_208/trainer_rosters.md
+      - Hearthome Gym:
+          - Trainer Rosters: wild_encounters/hearthome_gym/trainer_rosters.md
+      - Route 212:
+          - Trainer Rosters: wild_encounters/route_212/trainer_rosters.md
+      - Route 209:
+          - Trainer Rosters: wild_encounters/route_209/trainer_rosters.md
+      - Lost Tower:
+          - Trainer Rosters: wild_encounters/lost_tower/trainer_rosters.md
+      - Solaceon Ruins:
+          - Trainer Rosters: wild_encounters/solaceon_ruins/trainer_rosters.md
+      - Route 210:
+          - Trainer Rosters: wild_encounters/route_210/trainer_rosters.md
+      - Route 215:
+          - Trainer Rosters: wild_encounters/route_215/trainer_rosters.md
+      - Veilstone Gym:
+          - Trainer Rosters: wild_encounters/veilstone_gym/trainer_rosters.md
+      - Veilstone City:
+          - Trainer Rosters: wild_encounters/veilstone_city/trainer_rosters.md
+      - Route 214:
+          - Trainer Rosters: wild_encounters/route_214/trainer_rosters.md
+      - Seven Stars Restaurant:
+          - Trainer Rosters: wild_encounters/seven_stars_restaurant/trainer_rosters.md
+      - Route 213:
+          - Trainer Rosters: wild_encounters/route_213/trainer_rosters.md
+      - Pastoria City:
+          - Trainer Rosters: wild_encounters/pastoria_city/trainer_rosters.md
+      - Celestic Town:
+          - Trainer Rosters: wild_encounters/celestic_town/trainer_rosters.md
+      - Route 218:
+          - Trainer Rosters: wild_encounters/route_218/trainer_rosters.md
+      - Fuego Ironworks:
+          - Trainer Rosters: wild_encounters/fuego_ironworks/trainer_rosters.md
+      - Route 219:
+          - Trainer Rosters: wild_encounters/route_219/trainer_rosters.md
+      - Route 220:
+          - Trainer Rosters: wild_encounters/route_220/trainer_rosters.md
+      - Route 221:
+          - Trainer Rosters: wild_encounters/route_221/trainer_rosters.md
+      - Pal Park:
+          - Trainer Rosters: wild_encounters/pal_park/trainer_rosters.md
+      - Canalave Gym:
+          - Trainer Rosters: wild_encounters/canalave_gym/trainer_rosters.md
+      - Lake Valor:
+          - Trainer Rosters: wild_encounters/lake_valor/trainer_rosters.md
+      - Lake Verity:
+          - Trainer Rosters: wild_encounters/lake_verity/trainer_rosters.md
+      - Route 217:
+          - Trainer Rosters: wild_encounters/route_217/trainer_rosters.md
+      - Snowpoint City:
+          - Trainer Rosters: wild_encounters/snowpoint_city/trainer_rosters.md
+      - Snowpoint Gym:
+          - Trainer Rosters: wild_encounters/snowpoint_gym/trainer_rosters.md
+      - Galactic HQ:
+          - Trainer Rosters: wild_encounters/galactic_hq/trainer_rosters.md
+      - Mt. Coronet:
+          - Trainer Rosters: wild_encounters/mt_coronet/trainer_rosters.md
+      - Spear Pillar:
+          - Trainer Rosters: wild_encounters/spear_pillar/trainer_rosters.md
+      - Distortion World:
+          - Trainer Rosters: wild_encounters/distortion_world/trainer_rosters.md
+      - Sunyshore City:
+          - Trainer Rosters: wild_encounters/sunyshore_city/trainer_rosters.md
+      - Route 223:
+          - Trainer Rosters: wild_encounters/route_223/trainer_rosters.md
+      - Victory Road:
+          - Trainer Rosters: wild_encounters/victory_road/trainer_rosters.md
+      - Route 224:
+          - Trainer Rosters: wild_encounters/route_224/trainer_rosters.md
+      - Pokémon League:
+          - Trainer Rosters: wild_encounters/pokémon_league/trainer_rosters.md
+      - Route 225:
+          - Trainer Rosters: wild_encounters/route_225/trainer_rosters.md
+      - Route 226:
+          - Trainer Rosters: wild_encounters/route_226/trainer_rosters.md
+      - Route 227:
+          - Trainer Rosters: wild_encounters/route_227/trainer_rosters.md
+      - Route 228:
+          - Trainer Rosters: wild_encounters/route_228/trainer_rosters.md
+      - Route 229:
+          - Trainer Rosters: wild_encounters/route_229/trainer_rosters.md
+      - Route 230:
+          - Trainer Rosters: wild_encounters/route_230/trainer_rosters.md
+      - Stark Mountain:
+          - Trainer Rosters: wild_encounters/stark_mountain/trainer_rosters.md
+      - Battleground:
+          - Trainer Rosters: wild_encounters/battleground/trainer_rosters.md
+      - Pokémon Center:
+          - Trainer Rosters: wild_encounters/pokémon_center/trainer_rosters.md

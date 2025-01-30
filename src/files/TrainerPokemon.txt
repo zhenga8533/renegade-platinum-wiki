@@ -47,8 +47,8 @@ Turtwig (Lv. 9) @ No Item           /   ?           /   Overgrow        /   Tack
 
 Jubilife City Trainer School
 =================================================================================================================================================
-Schoolkid Harrison          Abra Lv. 8, Psyduck Lv. 8
-Schoolkid Christine         Ralts Lv. 8, Staryu Lv. 8
+School Kid Harrison          Abra Lv. 8, Psyduck Lv. 8
+School Kid Christine         Ralts Lv. 8, Staryu Lv. 8
 
 Route 204 (South)
 =================================================================================================================================================
@@ -68,7 +68,7 @@ PKMN Trainer Barry          Starly Lv. 10, Munchlax Lv. 10, Chimchar Lv. 11
 PKMN Trainer Barry          Starly Lv. 10, Munchlax Lv. 10, Piplup Lv. 11
 Youngster Michael           Kricketot Lv. 9, Zubat Lv. 9, Rattata Lv. 9
 Youngster Dallas (!)        Shinx Lv. 10, Sandshrew Lv. 10
-Youngster Sebastian         Nakuhita Lv. 10, Machop Lv. 10
+Youngster Sebastian         Makuhita Lv. 10, Machop Lv. 10
 Lass Kaitlin                Spearow Lv. 9, Cubone Lv. 9, Azurill Lv. 9
 Lass Madeline (!)           Psyduck Lv. 10, Sunkern Lv. 10
 
@@ -1251,7 +1251,7 @@ Round 1
 Round 2
 ---
 (R2) Elite Four Aaron            Yanmega Lv. 83, Scizor Lv. 83, Heracross Lv. 83, Scyther Lv. 83, Armaldo Lv. 83, Drapion Lv. 84
-(R2) Elite Four Bertha           Hippowdown Lv. 84, Swampert Lv. 84, Gliscor Lv. 84, Tyranitar Lv. 84, Dugtrio Lv. 84, Rhyperior Lv. 85
+(R2) Elite Four Bertha           Hippowdon Lv. 84, Swampert Lv. 84, Gliscor Lv. 84, Tyranitar Lv. 84, Dugtrio Lv. 84, Rhyperior Lv. 85
 (R2) Elite Four Flint            Ninetales Lv. 85, Houndoom Lv. 85, Magmortar Lv. 85, Infernape Lv. 85, Rapidash Lv. 85, Moltres Lv. 86
 (R2) Elite Four Lucian           Mr. Mime Lv. 86, Espeon Lv. 86, Gallade Lv. 86, Metagross Lv. 86, Alakazam Lv. 86, Latios Lv. 87
 (R2) Champion Cynthia            Spiritomb Lv. 88, Togekiss Lv. 88, Lucario Lv. 88, Garchomp Lv. 88, Milotic Lv. 88, Rayquaza Lv. 89
@@ -1627,7 +1627,7 @@ Stark Mountain (Interior)
 Ace Trainer Keenan          Primeape Lv. 78, Banette Lv. 78, Electivire Lv. 78
 Ace Trainer Kassandra       Jumpluff Lv. 78, Ampharos Lv. 78, Steelix Lv. 78
 Ace Trainer Stefan          Tyranitar Lv. 78, Torterra Lv. 78, Aggron Lv. 78
-Ace Trainer Jasmin          Drapion Lv. 78, Hippowdown Lv. 78, Magmortar Lv. 78
+Ace Trainer Jasmin          Drapion Lv. 78, Hippowdon Lv. 78, Magmortar Lv. 78
 Bird Keeper Krystal         Staraptor Lv. 78, Fearow Lv. 78, Noctowl Lv. 78
 Black Belt Ray              Breloom Lv. 78, Toxicroak Lv. 78, Hariyama Lv. 78
 Ace Trainer Abel            Glalie Lv. 78, Crobat Lv. 78, Ninetales Lv. 78

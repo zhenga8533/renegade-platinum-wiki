@@ -22,6 +22,7 @@ def main():
     load_dotenv()
     INPUT_PATH = os.getenv("INPUT_PATH")
     OUTPUT_PATH = os.getenv("OUTPUT_PATH")
+    NAV_OUTPUT_PATH = os.getenv("NAV_OUTPUT_PATH")
     WILD_ENCOUNTER_PATH = os.getenv("WILD_ENCOUNTER_PATH")
 
     LOG = os.getenv("LOG") == "True"
@@ -58,14 +59,10 @@ def main():
             md += f"\n---\n\n## {line}\n\n"
 
             # Set wild encounters for the current location
-            if "(" in line:
-                curr_location, section = line.split(" (", 1)
-                curr_encounter = None
-                wild_encounters[curr_location] = wild_encounters.get(curr_location, "")
-                wild_encounters[curr_location] += f"---\n\n## {section[:-1]}\n\n"
-            else:
-                curr_location = line
-                wild_encounters[curr_location] = wild_encounters.get(curr_location, "")
+            curr_location, section = line.split(" (", 1) if "(" in line else (line, None)
+            wild_encounters[curr_location] = wild_encounters.get(curr_location, "")
+            wild_encounters[curr_location] += f"---\n\n## {section[:-1]}\n\n" if section else ""
+            curr_encounter = None
         elif line.startswith("- "):
             md += f"1. {line[2:]}\n"
         elif line.startswith("Levels:"):
@@ -110,7 +107,7 @@ def main():
         save(WILD_ENCOUNTER_PATH + location_id + "/wild_pokemon.md", encounters, logger)
         nav += f"      - {location}:\n"
         nav += f"          - Wild Pokémon: {WILD_ENCOUNTER_PATH + location_id}/wild_pokemon.md\n"
-    save(OUTPUT_PATH + "wild_nav.md", nav, logger)
+    save(NAV_OUTPUT_PATH + "pokemon_nav.yml", nav, logger)
 
 
 if __name__ == "__main__":

@@ -1,4 +1,7 @@
+### Walking
 
+| Sprite | Pokémon | Encounter Type | Level | Chance |
+|:------:|---------|:--------------:|-------|--------|
 | ![Snover](../../assets/sprites/snover/front.gif) | Snover | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 18 - 20 | 30% |
 | ![Swinub](../../assets/sprites/swinub/front.gif) | Swinub | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 18 - 20 | 25% |
 | ![Smoochum](../../assets/sprites/smoochum/front.gif) | Smoochum | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 18 - 20 | 20% |

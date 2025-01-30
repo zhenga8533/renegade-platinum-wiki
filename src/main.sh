@@ -16,10 +16,12 @@ echo ""
 echo "Checking for i/o paths"
 OVERWRITE=$(grep "^OVERWRITE" .env | cut -d '=' -f2- | tr -d ' "')
 OUTPUT_PATH=$(grep "^OUTPUT_PATH" .env | cut -d '=' -f2- | tr -d ' "')
+NAV_OUTPUT_PATH=$(grep "^NAV_OUTPUT_PATH" .env | cut -d '=' -f2- | tr -d ' "')
 POKEMON_INPUT_PATH=$(grep "^POKEMON_INPUT_PATH" .env | cut -d '=' -f2- | tr -d ' "')
 WILD_ENCOUNTER_PATH=$(grep "^WILD_ENCOUNTER_PATH" .env | cut -d '=' -f2- | tr -d ' "')
 
 rm -rf $OUTPUT_PATH
+rm -rf $NAV_OUTPUT_PATH
 rm -rf $WILD_ENCOUNTER_PATH
 if [ -d $POKEMON_INPUT_PATH ]; then
   echo "Pokemon input data found"
@@ -67,6 +69,7 @@ $PYTHON special_events.py
 $PYTHON trainer_pokemon.py
 $PYTHON type_changes.py
 $PYTHON wild_pokemon.py
+$PYTHON nav_merge.py
 echo "Finished running all parsers"
 echo ""
 
@@ -84,7 +87,7 @@ mkdir -p ../docs/wild_encounters
 
 # Check for rsync
 if ! command -v rsync &> /dev/null; then
-  find "$OUTPUT_PATH" -maxdepth 1 -type f ! -name "wild_nav.md" -exec cp -r -f -u {} ../docs/mechanics \;
+  cp -r -f -u $OUTPUT_PATH/* ../docs/mechanics
   cp -r -f -u $WILD_ENCOUNTER_PATH/* ../docs/wild_encounters
 else
   rsync -av --exclude='wild_nav.md' "$OUTPUT_PATH/" ../docs/mechanics

@@ -1,4 +1,7 @@
+### Walking
 
+| Sprite | Pokémon | Encounter Type | Level | Chance |
+|:------:|---------|:--------------:|-------|--------|
 | ![Golbat](../../assets/sprites/golbat/front.gif) | Golbat | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 47 - 50 | 25% |
 | ![Graveler](../../assets/sprites/graveler/front.gif) | Graveler | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 47 - 50 | 20% |
 | ![Sneasel](../../assets/sprites/sneasel/front.gif) | Sneasel | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 47 - 50 | 20% |

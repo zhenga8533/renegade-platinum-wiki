@@ -5,11 +5,34 @@ import re
 import string
 
 
-def find_pokemon_sprite(pokemon: str, view: str, logger: Logger) -> str:
+def find_pokemon_sprite(pokemon: str, view: str, logger: Logger = None) -> str:
     sprite = f"../assets/sprites/{fix_pokemon_form(format_id(pokemon))}/{view}"
     return (
         f"![{pokemon}]({sprite}.gif)" if verify_asset_path(sprite + ".gif", logger) else f"![{pokemon}]({sprite}.png)"
     )
+
+
+def find_trainer_sprite(trainer: str, view: str, logger: Logger = None) -> str:
+    words = trainer.split()
+    n = len(words)
+    subsets = []
+
+    for i in range(1, 1 << n):  # Iterate through all non-empty subsets
+        subset = []
+        for j in range(n):
+            if i & (1 << j):  # Check if the j-th element is in the subset
+                subset.append(words[j])
+        subsets.append(" ".join(subset))
+    subsets.sort(key=len, reverse=True)
+
+    for subset in subsets:
+        sprite = f"../assets/{view}/{format_id(subset, symbol="_")}"
+        if verify_asset_path(sprite + ".png", logger):
+            return f"![{trainer}]({sprite}.png)"
+
+    if view != "important_trainers":
+        return find_trainer_sprite(trainer, "important_trainers", logger)
+    return f"![{trainer}](../assets/{view}/{format_id(trainer, symbol="_")}.png)"
 
 
 def fix_pokemon_form(form: str) -> str:

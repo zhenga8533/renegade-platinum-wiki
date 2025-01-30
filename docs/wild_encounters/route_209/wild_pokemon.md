@@ -1,4 +1,7 @@
+### Walking
 
+| Sprite | Pokémon | Encounter Type | Level | Chance |
+|:------:|---------|:--------------:|-------|--------|
 | ![Staravia](../../assets/sprites/staravia/front.gif) | Staravia | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 24 - 26 | 20% |
 | ![Glameow](../../assets/sprites/glameow/front.gif) | Glameow | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 24 - 26 | 20% |
 | ![Vulpix](../../assets/sprites/vulpix/front.gif) | Vulpix | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 24 - 26 | 10% |

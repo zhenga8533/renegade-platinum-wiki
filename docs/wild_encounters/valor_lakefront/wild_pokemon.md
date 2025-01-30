@@ -1,4 +1,7 @@
+### Walking
 
+| Sprite | Pokémon | Encounter Type | Level | Chance |
+|:------:|---------|:--------------:|-------|--------|
 | ![Girafarig](../../assets/sprites/girafarig/front.gif) | Girafarig | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 31 - 33 | 30% |
 | ![Bibarel](../../assets/sprites/bibarel/front.gif) | Bibarel | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 31 - 33 | 20% |
 | ![Nidorina](../../assets/sprites/nidorina/front.gif) | Nidorina | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 31 - 33 | 20% |

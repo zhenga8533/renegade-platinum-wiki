@@ -1,5 +1,6 @@
 logs/
-markdown/
+src/markdown/
+src/nav/
 src/pokemon/
 src/wild_encounters/
 

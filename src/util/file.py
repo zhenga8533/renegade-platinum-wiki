@@ -60,9 +60,10 @@ def verify_asset_path(asset_path: str, logger: Logger) -> None:
 
     check_path = "../docs/" + asset_path.lstrip("../")
     if os.path.exists(check_path):
-        logger.log(logging.INFO, f"Asset found at {check_path}")
+        if logger:
+            logger.log(logging.INFO, f"Asset found at {check_path}")
         return True
-    else:
+    elif logger:
         logger.log(logging.WARNING, f"Asset does not exist at {check_path}")
 
     return False

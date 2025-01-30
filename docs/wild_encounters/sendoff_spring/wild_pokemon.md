@@ -1,4 +1,7 @@
+### Walking
 
+| Sprite | Pokémon | Encounter Type | Level | Chance |
+|:------:|---------|:--------------:|-------|--------|
 | ![Staravia](../../assets/sprites/staravia/front.gif) | Staravia | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 53 - 54 | 30% |
 | ![Bibarel](../../assets/sprites/bibarel/front.gif) | Bibarel | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 53 - 54 | 20% |
 | ![Chimecho](../../assets/sprites/chimecho/front.gif) | Chimecho | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 53 - 54 | 20% |

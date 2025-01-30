@@ -1,4 +1,7 @@
+### Walking
 
+| Sprite | Pokémon | Encounter Type | Level | Chance |
+|:------:|---------|:--------------:|-------|--------|
 | ![Stunky](../../assets/sprites/stunky/front.gif) | Stunky | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 20 - 22 | 20% |
 | ![Slugma](../../assets/sprites/slugma/front.gif) | Slugma | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 20 - 22 | 20% |
 | ![Mankey](../../assets/sprites/mankey/front.gif) | Mankey | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 20 - 22 | 20% |

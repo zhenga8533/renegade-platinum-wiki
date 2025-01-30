@@ -1,4 +1,7 @@
+### Walking
 
+| Sprite | Pokémon | Encounter Type | Level | Chance |
+|:------:|---------|:--------------:|-------|--------|
 | ![Gastrodon](../../assets/sprites/gastrodon/front.gif) | Gastrodon | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 32 - 34 | 25% |
 | ![Floatzel](../../assets/sprites/floatzel/front.gif) | Floatzel | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 32 - 34 | 20% |
 | ![Pelipper](../../assets/sprites/pelipper/front.gif) | Pelipper | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 32 - 34 | 20% |

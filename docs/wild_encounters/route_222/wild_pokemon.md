@@ -1,4 +1,7 @@
+### Walking
 
+| Sprite | Pokémon | Encounter Type | Level | Chance |
+|:------:|---------|:--------------:|-------|--------|
 | ![Electabuzz](../../assets/sprites/electabuzz/front.gif) | Electabuzz | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 53 - 54 | 20% |
 | ![Floatzel](../../assets/sprites/floatzel/front.gif) | Floatzel | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 53 - 54 | 20% |
 | ![Luxio](../../assets/sprites/luxio/front.gif) | Luxio | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 53 - 54 | 10% |

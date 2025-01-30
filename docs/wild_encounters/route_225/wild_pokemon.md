@@ -1,4 +1,7 @@
+### Walking
 
+| Sprite | Pokémon | Encounter Type | Level | Chance |
+|:------:|---------|:--------------:|-------|--------|
 | ![Fearow](../../assets/sprites/fearow/front.gif) | Fearow | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 65 - 67 | 20% |
 | ![Machoke](../../assets/sprites/machoke/front.gif) | Machoke | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 65 - 67 | 20% |
 | ![Graveler](../../assets/sprites/graveler/front.gif) | Graveler | ![Morning](../../assets/encounter_types/morning.png "Morning"){: style='max-width: 24px;' } | 65 - 67 | 20% |
