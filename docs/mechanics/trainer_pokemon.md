@@ -17,6 +17,8 @@
 
 **PKMN Trainer Barry**
 
+![PKMN Trainer Barry](../assets/important_trainers/barry.png)
+
 === "Turtwig"
 
 	<pre><code><b>Chimchar</b> @ No Item
@@ -72,6 +74,8 @@
 
 **PKMN Trainer Dawn**
 
+![PKMN Trainer Dawn](../assets/important_trainers/dawn.png)
+
 === "Turtwig"
 
 	<pre><code><b>Chimchar</b> @ No Item
@@ -106,6 +110,8 @@
 	4. —</code></pre>
 
 **PKMN Trainer Lucas**
+
+![PKMN Trainer Lucas](../assets/important_trainers/lucas.png)
 
 === "Turtwig"
 
@@ -209,6 +215,8 @@
 <h3>Important Trainers</h3>
 
 **PKMN Trainer Barry**
+
+![PKMN Trainer Barry](../assets/important_trainers/barry.png)
 
 === "Turtwig"
 
@@ -319,6 +327,8 @@
 
 **PKMN Trainer Steven**
 
+![PKMN Trainer Steven](../assets/important_trainers/steven.png)
+
 <pre><code><b>Skarmory</b> @ Occa Berry
 <b>Ability:</b> Keen Eye
 <b>Level:</b> 88
@@ -399,6 +409,8 @@
 
 **Leader Roark**
 
+![Leader Roark](../assets/important_trainers/roark.png)
+
 <pre><code><b>Nosepass</b> @ Smooth Rock
 <b>Ability:</b> Sturdy
 <b>Level:</b> 15
@@ -471,6 +483,8 @@
 
 **PKMN Trainer Dawn**
 
+![PKMN Trainer Dawn](../assets/important_trainers/dawn.png)
+
 === "Turtwig"
 
 	<pre><code><b>Chimchar</b> @ No Item
@@ -526,6 +540,8 @@
 	4. Disarming Voice</code></pre>
 
 **PKMN Trainer Lucas**
+
+![PKMN Trainer Lucas](../assets/important_trainers/lucas.png)
 
 === "Turtwig"
 
@@ -649,6 +665,8 @@
 
 **Commander Mars**
 
+![Commander Mars](../assets/important_trainers/mars.png)
+
 <pre><code><b>Zubat</b> @ None
 <b>Ability:</b> Inner Focus
 <b>Level:</b> 18
@@ -759,6 +777,8 @@
 <h3>Important Trainers</h3>
 
 **PKMN Trainer Cheryl**
+
+![PKMN Trainer Cheryl](../assets/important_trainers/cheryl.png)
 
 <pre><code><b>Drifloon</b> @ Sitrus Berry
 <b>Ability:</b> Unburden
@@ -917,6 +937,8 @@
 
 **Leader Gardenia**
 
+![Leader Gardenia](../assets/important_trainers/gardenia.png)
+
 <pre><code><b>Bellossom</b> @ Wide Lens
 <b>Ability:</b> Chlorophyll
 <b>Level:</b> 25
@@ -1003,6 +1025,8 @@
 
 **Commander Jupiter**
 
+![Commander Jupiter](../assets/important_trainers/jupiter.png)
+
 <pre><code><b>Golbat</b> @ None
 <b>Ability:</b> Inner Focus
 <b>Level:</b> 26
@@ -1060,6 +1084,8 @@
 <h3>Important Trainers</h3>
 
 **PKMN Trainer Dawn**
+
+![PKMN Trainer Dawn](../assets/important_trainers/dawn.png)
 
 === "Turtwig"
 
@@ -1158,6 +1184,8 @@
 	4. Quick Attack</code></pre>
 
 **PKMN Trainer Lucas**
+
+![PKMN Trainer Lucas](../assets/important_trainers/lucas.png)
 
 === "Turtwig"
 
@@ -1298,6 +1326,8 @@
 
 **PKMN Trainer Mira**
 
+![PKMN Trainer Mira](../assets/important_trainers/mira.png)
+
 <pre><code><b>Togetic</b> @ Sitrus Berry
 <b>Ability:</b> Serene Grace
 <b>Level:</b> 27
@@ -1355,6 +1385,8 @@
 <h3>Important Trainers</h3>
 
 **Elite Four Aaron**
+
+![Elite Four Aaron](../assets/important_trainers/aaron.png)
 
 <pre><code><b>Dustox</b> @ Leftovers
 <b>Ability:</b> Shield Dust
@@ -1432,6 +1464,8 @@
 
 **Leader Fantina**
 
+![Leader Fantina](../assets/important_trainers/fantina.png)
+
 <pre><code><b>Drifblim</b> @ Starf Berry
 <b>Ability:</b> Unburden
 <b>Level:</b> 32
@@ -1483,6 +1517,8 @@
 4. Dazzling Gleam</code></pre>
 
 **PKMN Trainer Barry**
+
+![PKMN Trainer Barry](../assets/important_trainers/barry.png)
 
 === "Turtwig"
 
@@ -1614,6 +1650,8 @@
 
 **Commander Saturn**
 
+![Commander Saturn](../assets/important_trainers/saturn.png)
+
 <pre><code><b>Bronzong</b> @ Leftovers
 <b>Ability:</b> Levitate
 <b>Level:</b> 33
@@ -1638,6 +1676,8 @@
 4. Vacuum Wave</code></pre>
 
 **Gentleman Backlot**
+
+![Gentleman Backlot](../assets/trainers/gentleman.png)
 
 <pre><code><b>Wigglytuff</b> @ Zoom Lens
 <b>Ability:</b> Cute Charm
@@ -1861,6 +1901,8 @@
 
 **Leader Maylene**
 
+![Leader Maylene](../assets/important_trainers/maylene.png)
+
 <pre><code><b>Medicham</b> @ Sitrus Berry
 <b>Ability:</b> Pure Power
 <b>Level:</b> 38
@@ -2071,6 +2113,8 @@
 
 **PKMN Trainer Barry**
 
+![PKMN Trainer Barry](../assets/important_trainers/barry.png)
+
 === "Turtwig"
 
 	<pre><code><b>Azumarill</b> @ Life Orb
@@ -2224,6 +2268,8 @@
 
 **Leader Wake**
 
+![Leader Wake](../assets/important_trainers/wake.png)
+
 <pre><code><b>Quagsire</b> @ Rindo Berry
 <b>Ability:</b> Water Absorb
 <b>Level:</b> 43
@@ -2311,6 +2357,8 @@
 <h3>Important Trainers</h3>
 
 **PKMN Trainer Dawn**
+
+![PKMN Trainer Dawn](../assets/important_trainers/dawn.png)
 
 === "Turtwig"
 
@@ -2451,6 +2499,8 @@
 	4. Ice Punch</code></pre>
 
 **PKMN Trainer Lucas**
+
+![PKMN Trainer Lucas](../assets/important_trainers/lucas.png)
 
 === "Turtwig"
 
@@ -2606,6 +2656,8 @@
 
 **Galactic Boss Cyrus**
 
+![Galactic Boss Cyrus](../assets/important_trainers/cyrus.png)
+
 <pre><code><b>Crobat</b> @ Wise Glasses
 <b>Ability:</b> Inner Focus
 <b>Level:</b> 45
@@ -2747,6 +2799,8 @@
 
 **Castle Valet Darach**
 
+![Castle Valet Darach](../assets/important_trainers/darach.png)
+
 <pre><code><b>Gallade</b> @ Scope Lens
 <b>Ability:</b> Steadfast
 <b>Level:</b> 48
@@ -2799,6 +2853,8 @@
 <h3>Important Trainers</h3>
 
 **PKMN Trainer Barry**
+
+![PKMN Trainer Barry](../assets/important_trainers/barry.png)
 
 === "Turtwig"
 
@@ -2976,6 +3032,8 @@
 
 **PKMN Trainer Riley**
 
+![PKMN Trainer Riley](../assets/important_trainers/riley.png)
+
 <pre><code><b>Absol</b> @ Scope Lens
 <b>Ability:</b> Super Luck
 <b>Level:</b> 49
@@ -3057,6 +3115,8 @@
 
 **Leader Byron**
 
+![Leader Byron](../assets/important_trainers/byron.png)
+
 <pre><code><b>Bronzong</b> @ Light Clay
 <b>Ability:</b> Levitate
 <b>Level:</b> 52
@@ -3125,6 +3185,8 @@
 
 **Commander Saturn**
 
+![Commander Saturn](../assets/important_trainers/saturn.png)
+
 <pre><code><b>Alakazam</b> @ Wise Glasses
 <b>Ability:</b> Magic Guard
 <b>Level:</b> 52
@@ -3187,6 +3249,8 @@
 <h3>Important Trainers</h3>
 
 **Commander Mars**
+
+![Commander Mars](../assets/important_trainers/mars.png)
 
 <pre><code><b>Crobat</b> @ Bright Powder
 <b>Ability:</b> Inner Focus
@@ -3308,6 +3372,8 @@
 
 **Leader Candice**
 
+![Leader Candice](../assets/important_trainers/candice.png)
+
 <pre><code><b>Abomasnow</b> @ Expert Belt
 <b>Ability:</b> Snow Warning
 <b>Level:</b> 55
@@ -3411,6 +3477,8 @@
 
 **Galactic Boss Cyrus**
 
+![Galactic Boss Cyrus](../assets/important_trainers/cyrus.png)
+
 <pre><code><b>Crobat</b> @ Choice Band
 <b>Ability:</b> Inner Focus
 <b>Level:</b> 57
@@ -3449,6 +3517,8 @@
 4. X-Scissor</code></pre>
 
 **Commander Saturn**
+
+![Commander Saturn](../assets/important_trainers/saturn.png)
 
 <pre><code><b>Bronzong</b> @ Light Clay
 <b>Ability:</b> Levitate
@@ -3591,6 +3661,8 @@
 
 **Commander Mars**
 
+![Commander Mars](../assets/important_trainers/mars.png)
+
 <pre><code><b>Crobat</b> @ Life Orb
 <b>Ability:</b> Inner Focus
 <b>Level:</b> 57
@@ -3636,6 +3708,8 @@
 4. Hypnosis</code></pre>
 
 **Commander Jupiter**
+
+![Commander Jupiter](../assets/important_trainers/jupiter.png)
 
 <pre><code><b>Crobat</b> @ Bright Powder
 <b>Ability:</b> Inner Focus
@@ -3689,6 +3763,8 @@
 <h3>Important Trainers</h3>
 
 **Galactic Boss Cyrus**
+
+![Galactic Boss Cyrus](../assets/important_trainers/cyrus.png)
 
 <pre><code><b>Crobat</b> @ Choice Band
 <b>Ability:</b> Inner Focus
@@ -3777,6 +3853,8 @@
 
 **Arcade Star Dahlia**
 
+![Arcade Star Dahlia](../assets/important_trainers/dahlia.png)
+
 <pre><code><b>Blaziken</b> @ Focus Sash
 <b>Ability:</b> Speed Boost
 <b>Level:</b> 63
@@ -3863,6 +3941,8 @@
 <h3>Important Trainers</h3>
 
 **Leader Volkner**
+
+![Leader Volkner](../assets/important_trainers/volkner.png)
 
 <pre><code><b>Jolteon</b> @ Focus Sash
 <b>Ability:</b> Static
@@ -4095,6 +4175,8 @@
 
 **PKMN Trainer Marley**
 
+![PKMN Trainer Marley](../assets/important_trainers/marley.png)
+
 <pre><code><b>Starmie</b> @ Expert Belt
 <b>Ability:</b> Illuminate
 <b>Level:</b> 65
@@ -4160,6 +4242,8 @@
 <h3>Important Trainers</h3>
 
 **PKMN Trainer Dawn**
+
+![PKMN Trainer Dawn](../assets/important_trainers/dawn.png)
 
 === "Turtwig"
 
@@ -4300,6 +4384,8 @@
 	4. Agility</code></pre>
 
 **PKMN Trainer Lucas**
+
+![PKMN Trainer Lucas](../assets/important_trainers/lucas.png)
 
 === "Turtwig"
 
@@ -4452,6 +4538,8 @@
 
 **PKMN Trainer Barry**
 
+![PKMN Trainer Barry](../assets/important_trainers/barry.png)
+
 === "Turtwig"
 
 	<pre><code><b>Azumarill</b> @ Life Orb
@@ -4570,6 +4658,8 @@
 	4. Slack Off</code></pre>
 
 **(R1) Elite Four Aaron**
+
+![(R1) Elite Four Aaron](../assets/important_trainers/aaron.png)
 
 === "1"
 
@@ -4781,6 +4871,8 @@
 
 **(R1) Elite Four Bertha**
 
+![(R1) Elite Four Bertha](../assets/important_trainers/bertha.png)
+
 === "1"
 
 	<pre><code><b>Hippowdon</b> @ Leftovers
@@ -4990,6 +5082,8 @@
 	4. Ice Punch</code></pre>
 
 **(R1) Elite Four Flint**
+
+![(R1) Elite Four Flint](../assets/important_trainers/flint.png)
 
 === "1"
 
@@ -5201,6 +5295,8 @@
 
 **(R1) Elite Four Lucian**
 
+![(R1) Elite Four Lucian](../assets/important_trainers/lucian.png)
+
 === "1"
 
 	<pre><code><b>Mr. Mime</b> @ Light Clay
@@ -5410,6 +5506,8 @@
 	4. Night Slash</code></pre>
 
 **(R1) Champion Cynthia**
+
+![(R1) Champion Cynthia](../assets/important_trainers/cynthia.png)
 
 === "1"
 
@@ -5621,6 +5719,8 @@
 
 **(R2) Elite Four Aaron**
 
+![(R2) Elite Four Aaron](../assets/important_trainers/aaron.png)
+
 <pre><code><b>Yanmega</b> @ Wise Glasses
 <b>Ability:</b> Speed Boost
 <b>Level:</b> 83
@@ -5666,6 +5766,8 @@
 4. Earthquake</code></pre>
 
 **(R2) Elite Four Bertha**
+
+![(R2) Elite Four Bertha](../assets/important_trainers/bertha.png)
 
 <pre><code><b>Hippowdon</b> @ Leftovers
 <b>Ability:</b> Sand Stream
@@ -5713,6 +5815,8 @@
 
 **(R2) Elite Four Flint**
 
+![(R2) Elite Four Flint](../assets/important_trainers/flint.png)
+
 <pre><code><b>Ninetales</b> @ Wide Lens
 <b>Ability:</b> Drought
 <b>Level:</b> 85
@@ -5759,6 +5863,8 @@
 
 **(R2) Elite Four Lucian**
 
+![(R2) Elite Four Lucian](../assets/important_trainers/lucian.png)
+
 <pre><code><b>Mr. Mime</b> @ Light Clay
 <b>Ability:</b> Filter
 <b>Level:</b> 86
@@ -5804,6 +5910,8 @@
 4. Thunderbolt</code></pre>
 
 **(R2) Champion Cynthia**
+
+![(R2) Champion Cynthia](../assets/important_trainers/cynthia.png)
 
 <pre><code><b>Spiritomb</b> @ Lum Berry
 <b>Ability:</b> Pressure
@@ -5922,6 +6030,8 @@
 
 **Ace Trainer Heather**
 
+![Ace Trainer Heather](../assets/trainers/ace_trainer.png)
+
 <pre><code><b>Pelipper</b> @ Focus Sash
 <b>Ability:</b> Drizzle
 <b>Level:</b> 76
@@ -6003,6 +6113,8 @@
 
 **Ace Trainer Wyver**
 
+![Ace Trainer Wyver](../assets/trainers/ace_trainer.png)
+
 <pre><code><b>Kingdra</b> @ Haban Berry
 <b>Ability:</b> Swift Swim
 <b>Level:</b> 76
@@ -6061,6 +6173,8 @@
 
 **Ace Trainer Slythe**
 
+![Ace Trainer Slythe](../assets/trainers/ace_trainer.png)
+
 <pre><code><b>Gengar</b> @ Wide Lens
 <b>Ability:</b> Levitate
 <b>Level:</b> 76
@@ -6106,6 +6220,8 @@
 4. Sleep Powder</code></pre>
 
 **PKMN Trainer Buck**
+
+![PKMN Trainer Buck](../assets/important_trainers/buck.png)
 
 <pre><code><b>Torkoal</b> @ Shuca Berry
 <b>Ability:</b> Drought
@@ -6178,6 +6294,8 @@
 <h3>Important Trainers</h3>
 
 **Ace Trainer Shade**
+
+![Ace Trainer Shade](../assets/trainers/ace_trainer.png)
 
 <pre><code><b>Houndoom</b> @ White Herb
 <b>Ability:</b> Intimidate (!)
@@ -6258,6 +6376,8 @@
 
 **Ace Trainer Gene**
 
+![Ace Trainer Gene](../assets/trainers/ace_trainer.png)
+
 <pre><code><b>Stantler</b> @ Choice Scarf
 <b>Ability:</b> Intimidate
 <b>Level:</b> 76
@@ -6320,6 +6440,8 @@
 <h3>Important Trainers</h3>
 
 **Ace Trainer Luna**
+
+![Ace Trainer Luna](../assets/trainers/ace_trainer.png)
 
 <pre><code><b>Wigglytuff</b> @ Expert Belt
 <b>Ability:</b> Cute Charm
@@ -6384,6 +6506,8 @@
 
 **Commander Mars**
 
+![Commander Mars](../assets/important_trainers/mars.png)
+
 <pre><code><b>Crobat</b> @ Life Orb
 <b>Ability:</b> Inner Focus
 <b>Level:</b> 77
@@ -6429,6 +6553,8 @@
 4. Hypnosis</code></pre>
 
 **Commander Jupiter**
+
+![Commander Jupiter](../assets/important_trainers/jupiter.png)
 
 <pre><code><b>Bronzong</b> @ Leftovers
 <b>Ability:</b> Levitate

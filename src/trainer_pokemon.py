@@ -91,12 +91,12 @@ def parse_trainers(trainers, rematches, important):
         curr_trainer = None
 
         for trainer in important:
-            trainer_sprite = find_trainer_sprite(trainer, "trainers").replace("../", "../../")
+            trainer_sprite = find_trainer_sprite(trainer, "trainers")
             pokemon = important[trainer]
 
-            md += f"**{trainer}**\n\n"
+            md += f"**{trainer}**\n\n{trainer_sprite}\n\n"
             trainer_rosters += f"1. [{trainer}](important_trainers.md#{format_id(trainer)})\n"
-            important_trainers += f"### {trainer}\n\n{trainer_sprite}\n\n"
+            important_trainers += f"### {trainer}\n\n{trainer_sprite.replace("../", "../../")}\n\n"
 
             base = ""
             rivals = ["", "", ""]
