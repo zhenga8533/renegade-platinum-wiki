@@ -34,9 +34,9 @@ def parse_pokemon_table(line: str) -> str:
     moves = strs[3].split(", ")
     moves = [moves[i] if len(moves) > i else "—" for i in range(4)]
 
-    sprite = find_pokemon_sprite(name, "front")
+    sprite = find_pokemon_sprite(name, "front").replace("../", "../../")
     table = f"| {sprite} "
-    table = f"| **Lv. {level}** {name}<br>**Ability:** {ability}<br>**Nature:** {nature}<br>**Item:** {item} | "
+    table += f"| **Lv. {level}** {name}<br>**Ability:** {ability}<br>**Nature:** {nature}<br>**Item:** {item} | "
     table += "<br>".join([f"**{i}.** {move}" for i, move in enumerate(moves, 1)]) + " |\n"
 
     return table
@@ -87,12 +87,16 @@ def parse_trainers(trainers, rematches, important):
     if len(important) > 0:
         md += "<h3>Important Trainers</h3>\n\n"
         trainer_rosters += "\n### Important Trainers\n\n"
+        table_head = "| Pokémon | Attributes | Moves |\n|:-------:|------------|-------|\n"
+        curr_trainer = None
 
         for trainer in important:
+            trainer_sprite = find_trainer_sprite(trainer, "trainers").replace("../", "../../")
             pokemon = important[trainer]
+
             md += f"**{trainer}**\n\n"
             trainer_rosters += f"1. [{trainer}](important_trainers.md#{format_id(trainer)})\n"
-            important_trainers += f"### {trainer}\n\n"
+            important_trainers += f"### {trainer}\n\n{trainer_sprite}\n\n"
 
             base = ""
             rivals = ["", "", ""]
@@ -100,28 +104,51 @@ def parse_trainers(trainers, rematches, important):
             elite_four = ["", "", "", ""]
             elite_four_index = 0
 
+            wild = ""
+            important_rivals = ["", "", ""]
+            important_four = ["", "", "", ""]
+
             for line in pokemon:
                 if line.endswith("(!)"):
                     rivals[rival_index] += parse_pokemon_set(line)
+                    important_rivals[rival_index] += parse_pokemon_table(line)
                     rival_index = (rival_index + 1) % 3
                 elif trainer.startswith("(R1)"):
                     elite_four[elite_four_index // 6] += parse_pokemon_set(line)
+                    important_four[elite_four_index // 6] += parse_pokemon_table(line)
                     elite_four_index += 1
                 else:
                     base += parse_pokemon_set(line)
+                    wild += parse_pokemon_table(line)
+
+            important_head = ""
+            if curr_trainer != trainer:
+                important_head = table_head
+                curr_trainer = trainer
 
             if rivals[0] != "":
                 for i, starter in enumerate(["Turtwig", "Chimchar", "Piplup"]):
                     md += f'=== "{starter}"\n\n\t'
                     md += "\n\t".join(f"<pre><code>{(rivals[i] + base)[:-8]}</code></pre>".split("\n"))
                     md += "\n\n"
+
+                    important_trainers += f'=== "{starter}"\n\n\t'
+                    important_trainers += important_head.replace("\n", "\n\t")
+                    important_trainers += "\n\t".join((important_rivals[i] + wild).split("\n"))
+                    important_trainers += "\n"
             elif elite_four[0] != "":
                 for i, num in enumerate(["1", "2", "3", "4"]):
                     md += f'=== "{num}"\n\n\t'
                     md += "\n\t".join(f"<pre><code>{(base + elite_four[i])[:-8]}</code></pre>".split("\n"))
                     md += "\n\n"
+
+                    important_trainers += f'=== "{num}"\n\n\t'
+                    important_trainers += important_head.replace("\n", "\n\t")
+                    important_trainers += "\n\t".join((wild + important_four[i]).split("\n"))
+                    important_trainers += "\n"
             else:
                 md += f"<pre><code>{base[:-8]}</code></pre>\n\n"
+                important_trainers += important_head + wild + "\n\n"
 
     return md, trainer_rosters, important_trainers
 
@@ -165,7 +192,7 @@ def main():
             wild_rosters[location] += f"\n---\n\n## {section[:-1]}\n\n" if section else ""
             wild_rosters[location] += trainer_rosters
         if important_trainers != "":
-            wild_trainers[location] = wild_trainers.get(location, "# Important Trainers\n")
+            wild_trainers[location] = wild_trainers.get(location, "# Important Trainers\n\n")
             wild_trainers[location] += f"\n---\n\n## {section[:-1]}\n\n" if section else ""
             wild_trainers[location] += important_trainers
 

@@ -11,8 +11,8 @@ theme:
     - content.tooltips
     - navigation.footer
     - navigation.instant.progress
-    - navigation.prune
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
   palette:
     # Palette toggle for light mode
