@@ -23,8 +23,6 @@ WILD_ENCOUNTER_PATH=$(grep "^WILD_ENCOUNTER_PATH" .env | cut -d '=' -f2- | tr -d
 rm -rf $OUTPUT_PATH
 rm -rf $NAV_OUTPUT_PATH
 rm -rf $WILD_ENCOUNTER_PATH
-rm -rf ../docs/pokemon
-rm -rf ../docs/wild_encounters
 
 if [ -d $POKEMON_INPUT_PATH ]; then
   echo "Pokemon input data found"
@@ -64,6 +62,7 @@ echo ""
 
 # Run all parsers
 echo "Running all parsers"
+set -e
 $PYTHON evolution_changes.py
 $PYTHON item_changes.py
 $PYTHON move_changes.py
@@ -82,6 +81,8 @@ if ! [[ $OVERWRITE == "True" ]]; then
 fi
 
 echo "Updating Markdown files in docs"
+rm -rf ../docs/pokemon
+rm -rf ../docs/wild_encounters
 
 mkdir -p ../docs/mechanics
 mkdir -p ../docs/pokemon
