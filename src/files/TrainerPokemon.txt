@@ -177,9 +177,9 @@ Galactic Grunt              Kakuna Lv. 14, Pineco Lv. 14, Metapod Lv. 14
 Commander Mars              Zubat Lv. 18, Bronzor Lv. 18, Yanma Lv. 18, Purugly Lv. 19
 
 Commander Mars
-Zubat (Lv. 18) @ None               /   Naive       /   Inner Focus     /   Poison Fang, Wing Attack, Toxic, Confuse Ray
+Zubat (Lv. 18) @ No Item               /   Naive       /   Inner Focus     /   Poison Fang, Wing Attack, Toxic, Confuse Ray
 Bronzor (Lv. 18) @ Sitrus Berry     /   Brave       /   Levitate        /   Hypnosis, Extrasensory, Gyro Ball, Confuse Ray
-Yanma (Lv. 18) @ None               /   Timid       /   Speed Boost     /   Silver Wind, Air Cutter, Detect, Sonic Boom
+Yanma (Lv. 18) @ No Item               /   Timid       /   Speed Boost     /   Silver Wind, Air Cutter, Detect, Sonic Boom
 Purugly (Lv. 19) @ Sitrus Berry     /   Jolly       /   Thick Fat       /   Fake Out, Hypnosis, Facade, Feint Attack
 
 Route 205 (South)
@@ -218,8 +218,8 @@ Psychic Rachael             Chingling Lv. 18, Chimecho Lv. 20
 
 PKMN Trainer Cheryl
 Drifloon (Lv. 19) @ Sitrus Berry    /   Modest      /   Unburden        /   Ominous Wind, Air Cutter, Shock Wave, Swift
-Makuhita (Lv. 19) @ None            /   Relaxed     /   Thick Fat       /   Knock Off, Fake Out, Brick Break, Bullet Punch
-Wailmer (Lv. 19) @ None             /   Relaxed     /   Water Veil      /   Water Pulse, Rock Tomb, Mist, Rollout
+Makuhita (Lv. 19) @ No Item            /   Relaxed     /   Thick Fat       /   Knock Off, Fake Out, Brick Break, Bullet Punch
+Wailmer (Lv. 19) @ No Item             /   Relaxed     /   Water Veil      /   Water Pulse, Rock Tomb, Mist, Rollout
 Chansey (Lv. 20) @ Sitrus Berry     /   Quiet       /   Serene Grace    /   Hyper Voice, Soft-Boiled, Ice Beam, Thunderbolt
 
 Route 205 (North)
@@ -322,9 +322,9 @@ Scientist Travon            Drowzee Lv. 24, Metang Lv. 24, Kadabra Lv. 24
 Commander Jupiter           Golbat Lv. 26, Sableye Lv. 26, Tangela Lv. 26, Skuntank Lv. 27
 
 Commander Jupiter
-Golbat (Lv. 26) @ None              /   Jolly       /   Inner Focus     /   Wing Attack, Giga Drain, Leech Life, Confuse Ray
+Golbat (Lv. 26) @ No Item              /   Jolly       /   Inner Focus     /   Wing Attack, Giga Drain, Leech Life, Confuse Ray
 Sableye (Lv. 26) @ Sitrus Berry     /   Adamant     /   Magic Guard (!) /   Fake Out, Shadow Claw, Knock Off, Shadow Sneak
-Tangela (Lv. 26) @ None             /   Modest      /   Chlorophyll     /   Giga Drain, Shock Wave, Leech Seed, Sleep Powder
+Tangela (Lv. 26) @ No Item             /   Modest      /   Chlorophyll     /   Giga Drain, Shock Wave, Leech Seed, Sleep Powder
 Skuntank (Lv. 27) @ Sitrus Berry    /   Adamant     /   Aftermath       /   Poison Jab, Night Slash, Focus Energy, Torment
 
 Route 207
@@ -1041,8 +1041,8 @@ Galactic Boss Cyrus         Palkia Lv. 70, Dialga Lv. 70
 Galactic Boss Cyrus         Crobat Lv. 59, Honchkrow Lv. 59, Houndoom Lv. 59, Gyarados Lv. 59, Magnezone Lv. 59, Weavile Lv. 60
 
 Galactic Boss Cyrus
-Palkia (Lv. 70) @ None        /   ?           /   Pressure        /   Hydro Pump, Spacial Rend, Earth Power, Aura Sphere
-Dialga (Lv. 70) @ None        /   ?           /   Pressure        /   Flash Cannon, Roar of Time, Earth Power, Aura Sphere
+Palkia (Lv. 70) @ No Item        /   ?           /   Pressure        /   Hydro Pump, Spacial Rend, Earth Power, Aura Sphere
+Dialga (Lv. 70) @ No Item        /   ?           /   Pressure        /   Flash Cannon, Roar of Time, Earth Power, Aura Sphere
 
 Galactic Boss Cyrus
 Crobat (Lv. 59) @ Choice Band       /   Jolly       /   Inner Focus     /   Brave Bird, U-turn, Cross Poison, Zen Headbutt

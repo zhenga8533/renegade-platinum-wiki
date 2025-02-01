@@ -1,7 +1,8 @@
 from dotenv import load_dotenv
-from util.file import load, save
+from util.file import download_file, load, save
 from util.format import find_pokemon_sprite, find_trainer_sprite, format_id
 from util.logger import Logger
+import json
 import logging
 import os
 import re
@@ -26,7 +27,7 @@ def parse_pokemon_set(line: str) -> str:
     return pokemon + "<br><br>"
 
 
-def parse_pokemon_table(line: str) -> str:
+def parse_pokemon_table(line: str, logger: Logger) -> str:
     strs = [s.strip() for s in line.rstrip("(!)").split("/")]
     name, level, item = re.match(r"(.+) \(Lv\. (\d+)\) @ (.+)", strs[0]).groups()
     nature = strs[1]
@@ -34,9 +35,23 @@ def parse_pokemon_table(line: str) -> str:
     moves = strs[3].split(", ")
     moves = [moves[i] if len(moves) > i else "—" for i in range(4)]
 
+    # Load item data
+    if item != "No Item":
+        ITEM_INPUT_PATH = os.getenv("ITEM_INPUT_PATH")
+        item_data = json.loads(load(ITEM_INPUT_PATH + format_id(item) + ".json", logger))
+        effect = item_data["flavor_text_entries"]["platinum"].replace("\n", " ")
+        item_path = f"../docs/assets/items/{format_id(item, symbol="_")}.png"
+        if not os.path.exists(item_path):
+            download_file(item_path, item_data["sprite"], logger)
+
     sprite = find_pokemon_sprite(name, "front").replace("../", "../../")
     table = f"| {sprite} "
-    table += f"| **Lv. {level}** {name}<br>**Ability:** {ability}<br>**Nature:** {nature}<br>**Item:** {item} | "
+    table += f"| **Lv. {level}** {name}<br>**Ability:** {ability}<br>**Nature:** {nature} "
+    table += (
+        f'| ![{item}]({item_path.replace("docs", "..")} "{effect}")<br>{item} | '
+        if item != "No Item"
+        else "| No Item | "
+    )
     table += "<br>".join([f"**{i}.** {move}" for i, move in enumerate(moves, 1)]) + " |\n"
 
     return table
@@ -68,7 +83,7 @@ def parse_trainer_roster(trainers) -> str:
     return md, trainer_rosters
 
 
-def parse_trainers(trainers, rematches, important):
+def parse_trainers(trainers, rematches, important, logger):
     trainers = [t for t in trainers if re.split(r"\s{2,}", t)[0] not in important]
     md = ""
     trainer_rosters = ""
@@ -87,7 +102,7 @@ def parse_trainers(trainers, rematches, important):
     if len(important) > 0:
         md += "<h3>Important Trainers</h3>\n\n"
         trainer_rosters += "\n### Important Trainers\n\n"
-        table_head = "| Pokémon | Attributes | Moves |\n|:-------:|------------|-------|\n"
+        table_head = "| Pokémon | Attributes | Item | Moves |\n|:-------:|------------|:----:|-------|\n"
         curr_trainer = None
 
         for trainer in important:
@@ -111,15 +126,15 @@ def parse_trainers(trainers, rematches, important):
             for line in pokemon:
                 if line.endswith("(!)"):
                     rivals[rival_index] += parse_pokemon_set(line)
-                    important_rivals[rival_index] += parse_pokemon_table(line)
+                    important_rivals[rival_index] += parse_pokemon_table(line, logger)
                     rival_index = (rival_index + 1) % 3
                 elif trainer.startswith("(R1)"):
                     elite_four[elite_four_index // 6] += parse_pokemon_set(line)
-                    important_four[elite_four_index // 6] += parse_pokemon_table(line)
+                    important_four[elite_four_index // 6] += parse_pokemon_table(line, logger)
                     elite_four_index += 1
                 else:
                     base += parse_pokemon_set(line)
-                    wild += parse_pokemon_table(line)
+                    wild += parse_pokemon_table(line, logger)
 
             important_head = ""
             if curr_trainer != trainer:
@@ -184,7 +199,7 @@ def main():
 
     def update_markdown():
         nonlocal location, section, trainers, rematches, important, roster, wild_rosters, wild_trainers, md
-        roster_md, trainer_rosters, important_trainers = parse_trainers(trainers, rematches, important)
+        roster_md, trainer_rosters, important_trainers = parse_trainers(trainers, rematches, important, logger)
         md += roster_md
 
         if trainer_rosters != "":

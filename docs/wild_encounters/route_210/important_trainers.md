@@ -11,36 +11,36 @@
 
 === "Turtwig"
 
-	| Pokémon | Attributes | Moves |
-	|:-------:|------------|-------|
-	| ![Vaporeon](../../assets/sprites/vaporeon/front.gif) | **Lv. 44** Vaporeon<br>**Ability:** Water Absorb<br>**Nature:** ?<br>**Item:** Wise Glasses | **1.** Hydro Pump<br>**2.** Ice Beam<br>**3.** Extrasensory<br>**4.** Aqua Ring |
-	| ![Torterra](../../assets/sprites/torterra/front.gif) | **Lv. 45** Torterra<br>**Ability:** Overgrow<br>**Nature:** ?<br>**Item:** Sitrus Berry | **1.** Wood Hammer<br>**2.** Earthquake<br>**3.** Iron Head<br>**4.** Rock Slide |
-	| ![Alakazam](../../assets/sprites/alakazam/front.gif) | **Lv. 44** Alakazam<br>**Ability:** Magic Guard<br>**Nature:** ?<br>**Item:** Life Orb | **1.** Psychic<br>**2.** Shadow Ball<br>**3.** Energy Ball<br>**4.** Dazzling Gleam |
-	| ![Mamoswine](../../assets/sprites/mamoswine/front.gif) | **Lv. 44** Mamoswine<br>**Ability:** Thick Fat<br>**Nature:** ?<br>**Item:** Passho Berry | **1.** Earthquake<br>**2.** Avalanche<br>**3.** Stone Edge<br>**4.** Ice Shard |
-	| ![Clefable](../../assets/sprites/clefable/front.gif) | **Lv. 44** Clefable<br>**Ability:** Cute Charm<br>**Nature:** ?<br>**Item:** Leftovers | **1.** Moonblast<br>**2.** Moonlight<br>**3.** Psychic<br>**4.** Thunder Wave |
-	| ![Lopunny](../../assets/sprites/lopunny/front.gif) | **Lv. 44** Lopunny<br>**Ability:** Scrappy (!)<br>**Nature:** ?<br>**Item:** Choice Band | **1.** Strength<br>**2.** Jump Kick<br>**3.** Fire Punch<br>**4.** Ice Punch |
+	| Pokémon | Attributes | Item | Moves |
+	|:-------:|------------|:----:|-------|
+	| ![Vaporeon](../../assets/sprites/vaporeon/front.gif) | **Lv. 44** Vaporeon<br>**Ability:** Water Absorb<br>**Nature:** ? | ![Wise Glasses](../../assets/items/wise_glasses.png "An item to be held by a Pokémon. It is a thick pair of glasses that slightly boosts the power of special moves.")<br>Wise Glasses | **1.** Hydro Pump<br>**2.** Ice Beam<br>**3.** Extrasensory<br>**4.** Aqua Ring |
+	| ![Torterra](../../assets/sprites/torterra/front.gif) | **Lv. 45** Torterra<br>**Ability:** Overgrow<br>**Nature:** ? | ![Sitrus Berry](../../assets/items/sitrus_berry.png "A Poffin ingredient. It may be used or held by a Pokémon to heal the user’s HP a little.")<br>Sitrus Berry | **1.** Wood Hammer<br>**2.** Earthquake<br>**3.** Iron Head<br>**4.** Rock Slide |
+	| ![Alakazam](../../assets/sprites/alakazam/front.gif) | **Lv. 44** Alakazam<br>**Ability:** Magic Guard<br>**Nature:** ? | ![Life Orb](../../assets/items/life_orb.png "An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit.")<br>Life Orb | **1.** Psychic<br>**2.** Shadow Ball<br>**3.** Energy Ball<br>**4.** Dazzling Gleam |
+	| ![Mamoswine](../../assets/sprites/mamoswine/front.gif) | **Lv. 44** Mamoswine<br>**Ability:** Thick Fat<br>**Nature:** ? | ![Passho Berry](../../assets/items/passho_berry.png "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Water-type attack.")<br>Passho Berry | **1.** Earthquake<br>**2.** Avalanche<br>**3.** Stone Edge<br>**4.** Ice Shard |
+	| ![Clefable](../../assets/sprites/clefable/front.gif) | **Lv. 44** Clefable<br>**Ability:** Cute Charm<br>**Nature:** ? | ![Leftovers](../../assets/items/leftovers.png "An item to be held by a Pokémon. The holder’s HP is gradually restored during battle.")<br>Leftovers | **1.** Moonblast<br>**2.** Moonlight<br>**3.** Psychic<br>**4.** Thunder Wave |
+	| ![Lopunny](../../assets/sprites/lopunny/front.gif) | **Lv. 44** Lopunny<br>**Ability:** Scrappy (!)<br>**Nature:** ? | ![Choice Band](../../assets/items/choice_band.png "An item to be held by a Pokémon. This headband ups Attack, but allows the use of only one kind of move.")<br>Choice Band | **1.** Strength<br>**2.** Jump Kick<br>**3.** Fire Punch<br>**4.** Ice Punch |
 	
 === "Chimchar"
 
-	| Pokémon | Attributes | Moves |
-	|:-------:|------------|-------|
-	| ![Jolteon](../../assets/sprites/jolteon/front.gif) | **Lv. 44** Jolteon<br>**Ability:** Volt Absorb<br>**Nature:** ?<br>**Item:** Wise Glasses | **1.** Thunder<br>**2.** Shadow Ball<br>**3.** Extrasensory<br>**4.** Thunder Wave |
-	| ![Infernape](../../assets/sprites/infernape/front.gif) | **Lv. 45** Infernape<br>**Ability:** Iron Fist<br>**Nature:** ?<br>**Item:** Sitrus Berry | **1.** Fire Blast<br>**2.** Close Combat<br>**3.** Thunder Punch<br>**4.** Rock Slide |
-	| ![Alakazam](../../assets/sprites/alakazam/front.gif) | **Lv. 44** Alakazam<br>**Ability:** Magic Guard<br>**Nature:** ?<br>**Item:** Life Orb | **1.** Psychic<br>**2.** Shadow Ball<br>**3.** Energy Ball<br>**4.** Dazzling Gleam |
-	| ![Mamoswine](../../assets/sprites/mamoswine/front.gif) | **Lv. 44** Mamoswine<br>**Ability:** Thick Fat<br>**Nature:** ?<br>**Item:** Passho Berry | **1.** Earthquake<br>**2.** Avalanche<br>**3.** Stone Edge<br>**4.** Ice Shard |
-	| ![Clefable](../../assets/sprites/clefable/front.gif) | **Lv. 44** Clefable<br>**Ability:** Cute Charm<br>**Nature:** ?<br>**Item:** Leftovers | **1.** Moonblast<br>**2.** Moonlight<br>**3.** Psychic<br>**4.** Thunder Wave |
-	| ![Lopunny](../../assets/sprites/lopunny/front.gif) | **Lv. 44** Lopunny<br>**Ability:** Scrappy (!)<br>**Nature:** ?<br>**Item:** Choice Band | **1.** Strength<br>**2.** Jump Kick<br>**3.** Fire Punch<br>**4.** Ice Punch |
+	| Pokémon | Attributes | Item | Moves |
+	|:-------:|------------|:----:|-------|
+	| ![Jolteon](../../assets/sprites/jolteon/front.gif) | **Lv. 44** Jolteon<br>**Ability:** Volt Absorb<br>**Nature:** ? | ![Wise Glasses](../../assets/items/wise_glasses.png "An item to be held by a Pokémon. It is a thick pair of glasses that slightly boosts the power of special moves.")<br>Wise Glasses | **1.** Thunder<br>**2.** Shadow Ball<br>**3.** Extrasensory<br>**4.** Thunder Wave |
+	| ![Infernape](../../assets/sprites/infernape/front.gif) | **Lv. 45** Infernape<br>**Ability:** Iron Fist<br>**Nature:** ? | ![Sitrus Berry](../../assets/items/sitrus_berry.png "A Poffin ingredient. It may be used or held by a Pokémon to heal the user’s HP a little.")<br>Sitrus Berry | **1.** Fire Blast<br>**2.** Close Combat<br>**3.** Thunder Punch<br>**4.** Rock Slide |
+	| ![Alakazam](../../assets/sprites/alakazam/front.gif) | **Lv. 44** Alakazam<br>**Ability:** Magic Guard<br>**Nature:** ? | ![Life Orb](../../assets/items/life_orb.png "An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit.")<br>Life Orb | **1.** Psychic<br>**2.** Shadow Ball<br>**3.** Energy Ball<br>**4.** Dazzling Gleam |
+	| ![Mamoswine](../../assets/sprites/mamoswine/front.gif) | **Lv. 44** Mamoswine<br>**Ability:** Thick Fat<br>**Nature:** ? | ![Passho Berry](../../assets/items/passho_berry.png "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Water-type attack.")<br>Passho Berry | **1.** Earthquake<br>**2.** Avalanche<br>**3.** Stone Edge<br>**4.** Ice Shard |
+	| ![Clefable](../../assets/sprites/clefable/front.gif) | **Lv. 44** Clefable<br>**Ability:** Cute Charm<br>**Nature:** ? | ![Leftovers](../../assets/items/leftovers.png "An item to be held by a Pokémon. The holder’s HP is gradually restored during battle.")<br>Leftovers | **1.** Moonblast<br>**2.** Moonlight<br>**3.** Psychic<br>**4.** Thunder Wave |
+	| ![Lopunny](../../assets/sprites/lopunny/front.gif) | **Lv. 44** Lopunny<br>**Ability:** Scrappy (!)<br>**Nature:** ? | ![Choice Band](../../assets/items/choice_band.png "An item to be held by a Pokémon. This headband ups Attack, but allows the use of only one kind of move.")<br>Choice Band | **1.** Strength<br>**2.** Jump Kick<br>**3.** Fire Punch<br>**4.** Ice Punch |
 	
 === "Piplup"
 
-	| Pokémon | Attributes | Moves |
-	|:-------:|------------|-------|
-	| ![Flareon](../../assets/sprites/flareon/front.gif) | **Lv. 44** Flareon<br>**Ability:** Flash Fire<br>**Nature:** ?<br>**Item:** Muscle Band | **1.** Flare Blitz<br>**2.** Play Rough<br>**3.** Close Combat<br>**4.** Will-O-Wisp |
-	| ![Empoleon](../../assets/sprites/empoleon/front.gif) | **Lv. 45** Empoleon<br>**Ability:** Torrent<br>**Nature:** ?<br>**Item:** Sitrus Berry | **1.** Surf<br>**2.** Flash Cannon<br>**3.** Grass Knot<br>**4.** Featherdance |
-	| ![Alakazam](../../assets/sprites/alakazam/front.gif) | **Lv. 44** Alakazam<br>**Ability:** Magic Guard<br>**Nature:** ?<br>**Item:** Life Orb | **1.** Psychic<br>**2.** Shadow Ball<br>**3.** Energy Ball<br>**4.** Dazzling Gleam |
-	| ![Mamoswine](../../assets/sprites/mamoswine/front.gif) | **Lv. 44** Mamoswine<br>**Ability:** Thick Fat<br>**Nature:** ?<br>**Item:** Passho Berry | **1.** Earthquake<br>**2.** Avalanche<br>**3.** Stone Edge<br>**4.** Ice Shard |
-	| ![Clefable](../../assets/sprites/clefable/front.gif) | **Lv. 44** Clefable<br>**Ability:** Cute Charm<br>**Nature:** ?<br>**Item:** Leftovers | **1.** Moonblast<br>**2.** Moonlight<br>**3.** Psychic<br>**4.** Thunder Wave |
-	| ![Lopunny](../../assets/sprites/lopunny/front.gif) | **Lv. 44** Lopunny<br>**Ability:** Scrappy (!)<br>**Nature:** ?<br>**Item:** Choice Band | **1.** Strength<br>**2.** Jump Kick<br>**3.** Fire Punch<br>**4.** Ice Punch |
+	| Pokémon | Attributes | Item | Moves |
+	|:-------:|------------|:----:|-------|
+	| ![Flareon](../../assets/sprites/flareon/front.gif) | **Lv. 44** Flareon<br>**Ability:** Flash Fire<br>**Nature:** ? | ![Muscle Band](../../assets/items/muscle_band.png "An item to be held by a Pokémon. It is a headband that slightly boosts the power of physical moves.")<br>Muscle Band | **1.** Flare Blitz<br>**2.** Play Rough<br>**3.** Close Combat<br>**4.** Will-O-Wisp |
+	| ![Empoleon](../../assets/sprites/empoleon/front.gif) | **Lv. 45** Empoleon<br>**Ability:** Torrent<br>**Nature:** ? | ![Sitrus Berry](../../assets/items/sitrus_berry.png "A Poffin ingredient. It may be used or held by a Pokémon to heal the user’s HP a little.")<br>Sitrus Berry | **1.** Surf<br>**2.** Flash Cannon<br>**3.** Grass Knot<br>**4.** Featherdance |
+	| ![Alakazam](../../assets/sprites/alakazam/front.gif) | **Lv. 44** Alakazam<br>**Ability:** Magic Guard<br>**Nature:** ? | ![Life Orb](../../assets/items/life_orb.png "An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit.")<br>Life Orb | **1.** Psychic<br>**2.** Shadow Ball<br>**3.** Energy Ball<br>**4.** Dazzling Gleam |
+	| ![Mamoswine](../../assets/sprites/mamoswine/front.gif) | **Lv. 44** Mamoswine<br>**Ability:** Thick Fat<br>**Nature:** ? | ![Passho Berry](../../assets/items/passho_berry.png "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Water-type attack.")<br>Passho Berry | **1.** Earthquake<br>**2.** Avalanche<br>**3.** Stone Edge<br>**4.** Ice Shard |
+	| ![Clefable](../../assets/sprites/clefable/front.gif) | **Lv. 44** Clefable<br>**Ability:** Cute Charm<br>**Nature:** ? | ![Leftovers](../../assets/items/leftovers.png "An item to be held by a Pokémon. The holder’s HP is gradually restored during battle.")<br>Leftovers | **1.** Moonblast<br>**2.** Moonlight<br>**3.** Psychic<br>**4.** Thunder Wave |
+	| ![Lopunny](../../assets/sprites/lopunny/front.gif) | **Lv. 44** Lopunny<br>**Ability:** Scrappy (!)<br>**Nature:** ? | ![Choice Band](../../assets/items/choice_band.png "An item to be held by a Pokémon. This headband ups Attack, but allows the use of only one kind of move.")<br>Choice Band | **1.** Strength<br>**2.** Jump Kick<br>**3.** Fire Punch<br>**4.** Ice Punch |
 	
 ### PKMN Trainer Lucas
 
@@ -48,34 +48,34 @@
 
 === "Turtwig"
 
-	| Pokémon | Attributes | Moves |
-	|:-------:|------------|-------|
-	| ![Vaporeon](../../assets/sprites/vaporeon/front.gif) | **Lv. 44** Vaporeon<br>**Ability:** Water Absorb<br>**Nature:** ?<br>**Item:** Wise Glasses | **1.** Hydro Pump<br>**2.** Ice Beam<br>**3.** Extrasensory<br>**4.** Aqua Ring |
-	| ![Torterra](../../assets/sprites/torterra/front.gif) | **Lv. 45** Torterra<br>**Ability:** Overgrow<br>**Nature:** ?<br>**Item:** Sitrus Berry | **1.** Wood Hammer<br>**2.** Earthquake<br>**3.** Iron Head<br>**4.** Rock Slide |
-	| ![Alakazam](../../assets/sprites/alakazam/front.gif) | **Lv. 44** Alakazam<br>**Ability:** Magic Guard<br>**Nature:** ?<br>**Item:** Life Orb | **1.** Psychic<br>**2.** Shadow Ball<br>**3.** Energy Ball<br>**4.** Dazzling Gleam |
-	| ![Mamoswine](../../assets/sprites/mamoswine/front.gif) | **Lv. 44** Mamoswine<br>**Ability:** Thick Fat<br>**Nature:** ?<br>**Item:** Passho Berry | **1.** Earthquake<br>**2.** Avalanche<br>**3.** Stone Edge<br>**4.** Ice Shard |
-	| ![Granbull](../../assets/sprites/granbull/front.gif) | **Lv. 44** Granbull<br>**Ability:** Intimidate<br>**Nature:** ?<br>**Item:** Choice Band | **1.** Play Rough<br>**2.** Close Combat<br>**3.** Crunch<br>**4.** Earthquake |
-	| ![Lickilicky](../../assets/sprites/lickilicky/front.gif) | **Lv. 44** Lickilicky<br>**Ability:** Own Tempo<br>**Nature:** ?<br>**Item:** Leftovers | **1.** Body Slam<br>**2.** Zen Headbutt<br>**3.** Earthquake<br>**4.** Amnesia |
+	| Pokémon | Attributes | Item | Moves |
+	|:-------:|------------|:----:|-------|
+	| ![Vaporeon](../../assets/sprites/vaporeon/front.gif) | **Lv. 44** Vaporeon<br>**Ability:** Water Absorb<br>**Nature:** ? | ![Wise Glasses](../../assets/items/wise_glasses.png "An item to be held by a Pokémon. It is a thick pair of glasses that slightly boosts the power of special moves.")<br>Wise Glasses | **1.** Hydro Pump<br>**2.** Ice Beam<br>**3.** Extrasensory<br>**4.** Aqua Ring |
+	| ![Torterra](../../assets/sprites/torterra/front.gif) | **Lv. 45** Torterra<br>**Ability:** Overgrow<br>**Nature:** ? | ![Sitrus Berry](../../assets/items/sitrus_berry.png "A Poffin ingredient. It may be used or held by a Pokémon to heal the user’s HP a little.")<br>Sitrus Berry | **1.** Wood Hammer<br>**2.** Earthquake<br>**3.** Iron Head<br>**4.** Rock Slide |
+	| ![Alakazam](../../assets/sprites/alakazam/front.gif) | **Lv. 44** Alakazam<br>**Ability:** Magic Guard<br>**Nature:** ? | ![Life Orb](../../assets/items/life_orb.png "An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit.")<br>Life Orb | **1.** Psychic<br>**2.** Shadow Ball<br>**3.** Energy Ball<br>**4.** Dazzling Gleam |
+	| ![Mamoswine](../../assets/sprites/mamoswine/front.gif) | **Lv. 44** Mamoswine<br>**Ability:** Thick Fat<br>**Nature:** ? | ![Passho Berry](../../assets/items/passho_berry.png "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Water-type attack.")<br>Passho Berry | **1.** Earthquake<br>**2.** Avalanche<br>**3.** Stone Edge<br>**4.** Ice Shard |
+	| ![Granbull](../../assets/sprites/granbull/front.gif) | **Lv. 44** Granbull<br>**Ability:** Intimidate<br>**Nature:** ? | ![Choice Band](../../assets/items/choice_band.png "An item to be held by a Pokémon. This headband ups Attack, but allows the use of only one kind of move.")<br>Choice Band | **1.** Play Rough<br>**2.** Close Combat<br>**3.** Crunch<br>**4.** Earthquake |
+	| ![Lickilicky](../../assets/sprites/lickilicky/front.gif) | **Lv. 44** Lickilicky<br>**Ability:** Own Tempo<br>**Nature:** ? | ![Leftovers](../../assets/items/leftovers.png "An item to be held by a Pokémon. The holder’s HP is gradually restored during battle.")<br>Leftovers | **1.** Body Slam<br>**2.** Zen Headbutt<br>**3.** Earthquake<br>**4.** Amnesia |
 	
 === "Chimchar"
 
-	| Pokémon | Attributes | Moves |
-	|:-------:|------------|-------|
-	| ![Jolteon](../../assets/sprites/jolteon/front.gif) | **Lv. 44** Jolteon<br>**Ability:** Volt Absorb<br>**Nature:** ?<br>**Item:** Wise Glasses | **1.** Thunder<br>**2.** Shadow Ball<br>**3.** Extrasensory<br>**4.** Thunder Wave |
-	| ![Infernape](../../assets/sprites/infernape/front.gif) | **Lv. 45** Infernape<br>**Ability:** Iron Fist<br>**Nature:** ?<br>**Item:** Sitrus Berry | **1.** Fire Blast<br>**2.** Close Combat<br>**3.** Thunder Punch<br>**4.** Rock Slide |
-	| ![Alakazam](../../assets/sprites/alakazam/front.gif) | **Lv. 44** Alakazam<br>**Ability:** Magic Guard<br>**Nature:** ?<br>**Item:** Life Orb | **1.** Psychic<br>**2.** Shadow Ball<br>**3.** Energy Ball<br>**4.** Dazzling Gleam |
-	| ![Mamoswine](../../assets/sprites/mamoswine/front.gif) | **Lv. 44** Mamoswine<br>**Ability:** Thick Fat<br>**Nature:** ?<br>**Item:** Passho Berry | **1.** Earthquake<br>**2.** Avalanche<br>**3.** Stone Edge<br>**4.** Ice Shard |
-	| ![Granbull](../../assets/sprites/granbull/front.gif) | **Lv. 44** Granbull<br>**Ability:** Intimidate<br>**Nature:** ?<br>**Item:** Choice Band | **1.** Play Rough<br>**2.** Close Combat<br>**3.** Crunch<br>**4.** Earthquake |
-	| ![Lickilicky](../../assets/sprites/lickilicky/front.gif) | **Lv. 44** Lickilicky<br>**Ability:** Own Tempo<br>**Nature:** ?<br>**Item:** Leftovers | **1.** Body Slam<br>**2.** Zen Headbutt<br>**3.** Earthquake<br>**4.** Amnesia |
+	| Pokémon | Attributes | Item | Moves |
+	|:-------:|------------|:----:|-------|
+	| ![Jolteon](../../assets/sprites/jolteon/front.gif) | **Lv. 44** Jolteon<br>**Ability:** Volt Absorb<br>**Nature:** ? | ![Wise Glasses](../../assets/items/wise_glasses.png "An item to be held by a Pokémon. It is a thick pair of glasses that slightly boosts the power of special moves.")<br>Wise Glasses | **1.** Thunder<br>**2.** Shadow Ball<br>**3.** Extrasensory<br>**4.** Thunder Wave |
+	| ![Infernape](../../assets/sprites/infernape/front.gif) | **Lv. 45** Infernape<br>**Ability:** Iron Fist<br>**Nature:** ? | ![Sitrus Berry](../../assets/items/sitrus_berry.png "A Poffin ingredient. It may be used or held by a Pokémon to heal the user’s HP a little.")<br>Sitrus Berry | **1.** Fire Blast<br>**2.** Close Combat<br>**3.** Thunder Punch<br>**4.** Rock Slide |
+	| ![Alakazam](../../assets/sprites/alakazam/front.gif) | **Lv. 44** Alakazam<br>**Ability:** Magic Guard<br>**Nature:** ? | ![Life Orb](../../assets/items/life_orb.png "An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit.")<br>Life Orb | **1.** Psychic<br>**2.** Shadow Ball<br>**3.** Energy Ball<br>**4.** Dazzling Gleam |
+	| ![Mamoswine](../../assets/sprites/mamoswine/front.gif) | **Lv. 44** Mamoswine<br>**Ability:** Thick Fat<br>**Nature:** ? | ![Passho Berry](../../assets/items/passho_berry.png "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Water-type attack.")<br>Passho Berry | **1.** Earthquake<br>**2.** Avalanche<br>**3.** Stone Edge<br>**4.** Ice Shard |
+	| ![Granbull](../../assets/sprites/granbull/front.gif) | **Lv. 44** Granbull<br>**Ability:** Intimidate<br>**Nature:** ? | ![Choice Band](../../assets/items/choice_band.png "An item to be held by a Pokémon. This headband ups Attack, but allows the use of only one kind of move.")<br>Choice Band | **1.** Play Rough<br>**2.** Close Combat<br>**3.** Crunch<br>**4.** Earthquake |
+	| ![Lickilicky](../../assets/sprites/lickilicky/front.gif) | **Lv. 44** Lickilicky<br>**Ability:** Own Tempo<br>**Nature:** ? | ![Leftovers](../../assets/items/leftovers.png "An item to be held by a Pokémon. The holder’s HP is gradually restored during battle.")<br>Leftovers | **1.** Body Slam<br>**2.** Zen Headbutt<br>**3.** Earthquake<br>**4.** Amnesia |
 	
 === "Piplup"
 
-	| Pokémon | Attributes | Moves |
-	|:-------:|------------|-------|
-	| ![Flareon](../../assets/sprites/flareon/front.gif) | **Lv. 44** Flareon<br>**Ability:** Flash Fire<br>**Nature:** ?<br>**Item:** Muscle Band | **1.** Flare Blitz<br>**2.** Play Rough<br>**3.** Close Combat<br>**4.** Will-O-Wisp |
-	| ![Empoleon](../../assets/sprites/empoleon/front.gif) | **Lv. 45** Empoleon<br>**Ability:** Torrent<br>**Nature:** ?<br>**Item:** Sitrus Berry | **1.** Surf<br>**2.** Flash Cannon<br>**3.** Grass Knot<br>**4.** Featherdance |
-	| ![Alakazam](../../assets/sprites/alakazam/front.gif) | **Lv. 44** Alakazam<br>**Ability:** Magic Guard<br>**Nature:** ?<br>**Item:** Life Orb | **1.** Psychic<br>**2.** Shadow Ball<br>**3.** Energy Ball<br>**4.** Dazzling Gleam |
-	| ![Mamoswine](../../assets/sprites/mamoswine/front.gif) | **Lv. 44** Mamoswine<br>**Ability:** Thick Fat<br>**Nature:** ?<br>**Item:** Passho Berry | **1.** Earthquake<br>**2.** Avalanche<br>**3.** Stone Edge<br>**4.** Ice Shard |
-	| ![Granbull](../../assets/sprites/granbull/front.gif) | **Lv. 44** Granbull<br>**Ability:** Intimidate<br>**Nature:** ?<br>**Item:** Choice Band | **1.** Play Rough<br>**2.** Close Combat<br>**3.** Crunch<br>**4.** Earthquake |
-	| ![Lickilicky](../../assets/sprites/lickilicky/front.gif) | **Lv. 44** Lickilicky<br>**Ability:** Own Tempo<br>**Nature:** ?<br>**Item:** Leftovers | **1.** Body Slam<br>**2.** Zen Headbutt<br>**3.** Earthquake<br>**4.** Amnesia |
+	| Pokémon | Attributes | Item | Moves |
+	|:-------:|------------|:----:|-------|
+	| ![Flareon](../../assets/sprites/flareon/front.gif) | **Lv. 44** Flareon<br>**Ability:** Flash Fire<br>**Nature:** ? | ![Muscle Band](../../assets/items/muscle_band.png "An item to be held by a Pokémon. It is a headband that slightly boosts the power of physical moves.")<br>Muscle Band | **1.** Flare Blitz<br>**2.** Play Rough<br>**3.** Close Combat<br>**4.** Will-O-Wisp |
+	| ![Empoleon](../../assets/sprites/empoleon/front.gif) | **Lv. 45** Empoleon<br>**Ability:** Torrent<br>**Nature:** ? | ![Sitrus Berry](../../assets/items/sitrus_berry.png "A Poffin ingredient. It may be used or held by a Pokémon to heal the user’s HP a little.")<br>Sitrus Berry | **1.** Surf<br>**2.** Flash Cannon<br>**3.** Grass Knot<br>**4.** Featherdance |
+	| ![Alakazam](../../assets/sprites/alakazam/front.gif) | **Lv. 44** Alakazam<br>**Ability:** Magic Guard<br>**Nature:** ? | ![Life Orb](../../assets/items/life_orb.png "An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit.")<br>Life Orb | **1.** Psychic<br>**2.** Shadow Ball<br>**3.** Energy Ball<br>**4.** Dazzling Gleam |
+	| ![Mamoswine](../../assets/sprites/mamoswine/front.gif) | **Lv. 44** Mamoswine<br>**Ability:** Thick Fat<br>**Nature:** ? | ![Passho Berry](../../assets/items/passho_berry.png "A Poffin ingredient. If held by a Pokémon, it weakens a foe’s supereffective Water-type attack.")<br>Passho Berry | **1.** Earthquake<br>**2.** Avalanche<br>**3.** Stone Edge<br>**4.** Ice Shard |
+	| ![Granbull](../../assets/sprites/granbull/front.gif) | **Lv. 44** Granbull<br>**Ability:** Intimidate<br>**Nature:** ? | ![Choice Band](../../assets/items/choice_band.png "An item to be held by a Pokémon. This headband ups Attack, but allows the use of only one kind of move.")<br>Choice Band | **1.** Play Rough<br>**2.** Close Combat<br>**3.** Crunch<br>**4.** Earthquake |
+	| ![Lickilicky](../../assets/sprites/lickilicky/front.gif) | **Lv. 44** Lickilicky<br>**Ability:** Own Tempo<br>**Nature:** ? | ![Leftovers](../../assets/items/leftovers.png "An item to be held by a Pokémon. The holder’s HP is gradually restored during battle.")<br>Leftovers | **1.** Body Slam<br>**2.** Zen Headbutt<br>**3.** Earthquake<br>**4.** Amnesia |
 	

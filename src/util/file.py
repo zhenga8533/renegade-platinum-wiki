@@ -1,6 +1,35 @@
-import logging
-import os
 from util.logger import Logger
+import logging
+import requests
+import os
+
+
+def download_file(file_path: str, url: str, logger: Logger) -> None:
+    """
+    Download a file from a given URL and save it to a specified path.
+
+    :param file_path: The path to the file.
+    :param url: The URL of the file to download.
+    :param logger: The logger object.
+    :return: None
+    """
+    dirs = file_path.rsplit("/", 1)[0]
+    if not os.path.exists(dirs):
+        os.makedirs(dirs)
+        logger.log(logging.INFO, f"Created directory '{dirs}'.")
+
+    try:
+        response = requests.get(url, stream=True)
+        if response.status_code == 200:
+            with open(file_path, "wb") as file:
+                for chunk in response.iter_content(1024):
+                    file.write(chunk)
+            logger.log(logging.INFO, f"Downloaded: {file_path}")
+        else:
+            logger.log(logging.ERROR, f"Failed to download {url} (Status code: {response.status_code})")
+    except Exception as e:
+        logger.log(logging.ERROR, f"An error occurred while downloading {url}: {e}")
+        exit(1)
 
 
 def save(file_path: str, content: str, logger: Logger) -> None:

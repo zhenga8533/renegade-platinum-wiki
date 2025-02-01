@@ -667,7 +667,7 @@
 
 ![Commander Mars](../assets/important_trainers/mars.png)
 
-<pre><code><b>Zubat</b> @ None
+<pre><code><b>Zubat</b> @ No Item
 <b>Ability:</b> Inner Focus
 <b>Level:</b> 18
 <b>Nature:</b> Naive
@@ -683,7 +683,7 @@
 1. Hypnosis
 2. Extrasensory
 3. Gyro Ball
-4. Confuse Ray<br><br><b>Yanma</b> @ None
+4. Confuse Ray<br><br><b>Yanma</b> @ No Item
 <b>Ability:</b> Speed Boost
 <b>Level:</b> 18
 <b>Nature:</b> Timid
@@ -788,7 +788,7 @@
 1. Ominous Wind
 2. Air Cutter
 3. Shock Wave
-4. Swift<br><br><b>Makuhita</b> @ None
+4. Swift<br><br><b>Makuhita</b> @ No Item
 <b>Ability:</b> Thick Fat
 <b>Level:</b> 19
 <b>Nature:</b> Relaxed
@@ -796,7 +796,7 @@
 1. Knock Off
 2. Fake Out
 3. Brick Break
-4. Bullet Punch<br><br><b>Wailmer</b> @ None
+4. Bullet Punch<br><br><b>Wailmer</b> @ No Item
 <b>Ability:</b> Water Veil
 <b>Level:</b> 19
 <b>Nature:</b> Relaxed
@@ -1027,7 +1027,7 @@
 
 ![Commander Jupiter](../assets/important_trainers/jupiter.png)
 
-<pre><code><b>Golbat</b> @ None
+<pre><code><b>Golbat</b> @ No Item
 <b>Ability:</b> Inner Focus
 <b>Level:</b> 26
 <b>Nature:</b> Jolly
@@ -1043,7 +1043,7 @@
 1. Fake Out
 2. Shadow Claw
 3. Knock Off
-4. Shadow Sneak<br><br><b>Tangela</b> @ None
+4. Shadow Sneak<br><br><b>Tangela</b> @ No Item
 <b>Ability:</b> Chlorophyll
 <b>Level:</b> 26
 <b>Nature:</b> Modest
