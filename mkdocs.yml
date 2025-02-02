@@ -4,6 +4,13 @@ site_description: A fanmade wiki for the Pokémon Renegade Platinum ROM hack.
 site_author: Volcaronitee
 repo_url: https://github.com/zhenga8533/renegade-platinum-wiki
 
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
 theme:
   name: material
   favicon: assets/favicon.png
@@ -25,12 +32,9 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
-markdown_extensions:
-  - admonition
-  - attr_list
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
+extra_css:
+  - assets/stylesheets/extra.css
+
 nav:
   - Getting Started:
       - Home: index.md
@@ -128,8 +132,6 @@ nav:
       - Route 206:
           - Trainer Rosters: wild_encounters/route_206/trainer_rosters.md
           - Wild Pokémon: wild_encounters/route_206/wild_pokemon.md
-      - Eterna City:
-          - Trainer Rosters: wild_encounters/eterna_city/trainer_rosters.md
       - Wayward Cave:
           - Important Trainers: wild_encounters/wayward_cave/important_trainers.md
           - Trainer Rosters: wild_encounters/wayward_cave/trainer_rosters.md

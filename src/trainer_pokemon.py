@@ -39,7 +39,7 @@ def parse_pokemon_table(line: str, logger: Logger) -> str:
     if item != "No Item":
         ITEM_INPUT_PATH = os.getenv("ITEM_INPUT_PATH")
         item_data = json.loads(load(ITEM_INPUT_PATH + format_id(item) + ".json", logger))
-        effect = item_data["flavor_text_entries"]["platinum"].replace("\n", " ")
+        item_effect = item_data["flavor_text_entries"]["platinum"].replace("\n", " ")
         item_path = f"../docs/assets/items/{format_id(item, symbol="_")}.png"
         if not os.path.exists(item_path):
             download_file(item_path, item_data["sprite"], logger)
@@ -48,7 +48,7 @@ def parse_pokemon_table(line: str, logger: Logger) -> str:
     table = f"| {sprite} "
     table += f"| **Lv. {level}** {name}<br>**Ability:** {ability}<br>**Nature:** {nature} "
     table += (
-        f'| ![{item}]({item_path.replace("docs", "..")} "{effect}")<br>{item} | '
+        f'| ![{item}]({item_path.replace("docs", "..")} "{item})<br><span class="tooltip" title="{item_effect}">{item}</span> | '
         if item != "No Item"
         else "| No Item | "
     )
