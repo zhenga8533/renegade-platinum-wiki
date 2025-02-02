@@ -58,8 +58,8 @@ def parse_pokemon_table(line: str, logger: Logger) -> str:
     table = f"| {sprite} "
     table += f"| **Lv. {level}** {name}<br>"
     table += f'**Ability:** <span class="tooltip" title="{ability_effect}">{ability}</span><br>'
-    table += (
-        "**Nature:** " + f'<span class="tooltip" title="{nature_effect}">{nature}</span> ' if nature != "?" else "? "
+    table += "**Nature:** " + (
+        f'<span class="tooltip" title="{nature_effect}">{nature}</span> ' if nature != "?" else "? "
     )
     table += (
         f'| ![{item}]({item_path.replace("docs", "..")} "{item}")<br><span class="tooltip" title="{item_effect}">{item}</span> | '
@@ -199,6 +199,7 @@ def main():
     lines = data.split("\n")
     n = len(lines)
     md = "# Trainer Pokémon\n\n"
+    md += "!!! tip\n\n\tFor a more comprehensive list of trainers, please refer to the [Wild Encounters](../wild_encounters/route_201/important_trainers.md) page.\n\n"
 
     trainer = None
     trainers = []

@@ -34,6 +34,7 @@ def main():
     lines = data.split("\n")
     n = len(lines)
     md = "# Wild Pokemon\n\n"
+    md += "!!! tip\n\n\tFor a more comprehensive list of wild Pokémon encounters, please refer to the [Wild Encounters](../wild_encounters/twinleaf_town/wild_pokemon.md) page.\n\n"
 
     rod_levels = {
         "Old Rod": "10",

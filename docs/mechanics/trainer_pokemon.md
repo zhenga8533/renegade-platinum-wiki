@@ -1,5 +1,9 @@
 # Trainer Pokémon
 
+!!! tip
+
+	For a more comprehensive list of trainers, please refer to the [Wild Encounters](../wild_encounters/route_201/important_trainers.md) page.
+
 1. Trainer rosters in every area has been modified. They are all listed below with species and levels.
 1. Important trainers have their entire roster listed including species, levels, items, moves and natures.
 1. Natures have not been set for all Trainers - if a nature is not listed then it hasn't been specifically set.

@@ -1,5 +1,9 @@
 # Wild Pokemon
 
+!!! tip
+
+	For a more comprehensive list of wild Pokémon encounters, please refer to the [Wild Encounters](../wild_encounters/twinleaf_town/wild_pokemon.md) page.
+
 1. The Wild Pokémon in each area have been modified.
 1. The levels listed for an area are the minimum and maximum levels that you may encounter in that area.
 1. Please note that many Pokémon can only be encountered at one specific level. Only some have the range.
