@@ -24,9 +24,9 @@ Level: 1
 
 **#1 Bulbasaur, #4 Charmander, #7 Squirtle**
 
-![Bulbasaur](../assets/sprites/bulbasaur/front.gif)
-![Charmander](../assets/sprites/charmander/front.gif)
-![Squirtle](../assets/sprites/squirtle/front.gif)
+![Bulbasaur](../assets/sprites/bulbasaur/front.gif "Bulbasaur")
+![Charmander](../assets/sprites/charmander/front.gif "Charmander")
+![Squirtle](../assets/sprites/squirtle/front.gif "Squirtle")
 
 ```
 Location: Jubilife City Pokémon Center
@@ -42,7 +42,7 @@ Level: 5
 
 **#131 Lapras**
 
-![Lapras](../assets/sprites/lapras/front.gif)
+![Lapras](../assets/sprites/lapras/front.gif "Lapras")
 
 ```
 Location: Pastoria City
@@ -54,7 +54,7 @@ Level: 35
 
 **#133 Eevee**
 
-![Eevee](../assets/sprites/eevee/front.gif)
+![Eevee](../assets/sprites/eevee/front.gif "Eevee")
 
 ```
 Location: Twinleaf Town
@@ -67,7 +67,7 @@ Level: 5
 
 **#137 Porygon**
 
-![Porygon](../assets/sprites/porygon/front.gif)
+![Porygon](../assets/sprites/porygon/front.gif "Porygon")
 
 ```
 Location: Eterna Galactic Building
@@ -79,13 +79,13 @@ Level: 22
 
 **#138 Omanyte, #140 Kabuto, #142 Aerodactyl, #345 Lileep, #347 Anorith, #408 Cranidos, #410 Shieldon**
 
-![Omanyte](../assets/sprites/omanyte/front.gif)
-![Kabuto](../assets/sprites/kabuto/front.gif)
-![Aerodactyl](../assets/sprites/aerodactyl/front.gif)
-![Lileep](../assets/sprites/lileep/front.gif)
-![Anorith](../assets/sprites/anorith/front.gif)
-![Cranidos](../assets/sprites/cranidos/front.gif)
-![Shieldon](../assets/sprites/shieldon/front.gif)
+![Omanyte](../assets/sprites/omanyte/front.gif "Omanyte")
+![Kabuto](../assets/sprites/kabuto/front.gif "Kabuto")
+![Aerodactyl](../assets/sprites/aerodactyl/front.gif "Aerodactyl")
+![Lileep](../assets/sprites/lileep/front.gif "Lileep")
+![Anorith](../assets/sprites/anorith/front.gif "Anorith")
+![Cranidos](../assets/sprites/cranidos/front.gif "Cranidos")
+![Shieldon](../assets/sprites/shieldon/front.gif "Shieldon")
 
 ```
 Location: Eterna City
@@ -98,9 +98,9 @@ Level: 20
 
 **#152 Chikorita, #155 Cyndaquil, #158 Totodile**
 
-![Chikorita](../assets/sprites/chikorita/front.gif)
-![Cyndaquil](../assets/sprites/cyndaquil/front.gif)
-![Totodile](../assets/sprites/totodile/front.gif)
+![Chikorita](../assets/sprites/chikorita/front.gif "Chikorita")
+![Cyndaquil](../assets/sprites/cyndaquil/front.gif "Cyndaquil")
+![Totodile](../assets/sprites/totodile/front.gif "Totodile")
 
 ```
 Location: Floaroma Town Pokémon Center
@@ -116,9 +116,9 @@ Level: 15
 
 **#252 Treecko, #255 Torchic, #258 Mudkip**
 
-![Treecko](../assets/sprites/treecko/front.gif)
-![Torchic](../assets/sprites/torchic/front.gif)
-![Mudkip](../assets/sprites/mudkip/front.gif)
+![Treecko](../assets/sprites/treecko/front.gif "Treecko")
+![Torchic](../assets/sprites/torchic/front.gif "Torchic")
+![Mudkip](../assets/sprites/mudkip/front.gif "Mudkip")
 
 ```
 Location: Oreburgh City Pokémon Center
@@ -134,7 +134,7 @@ Level: 10
 
 **#374 Beldum**
 
-![Beldum](../assets/sprites/beldum/front.gif)
+![Beldum](../assets/sprites/beldum/front.gif "Beldum")
 
 ```
 Location: Oreburgh City
@@ -146,9 +146,9 @@ Level: 10
 
 **#387 Turtwig, #390 Chimchar, #393 Piplup**
 
-![Turtwig](../assets/sprites/turtwig/front.gif)
-![Chimchar](../assets/sprites/chimchar/front.gif)
-![Piplup](../assets/sprites/piplup/front.gif)
+![Turtwig](../assets/sprites/turtwig/front.gif "Turtwig")
+![Chimchar](../assets/sprites/chimchar/front.gif "Chimchar")
+![Piplup](../assets/sprites/piplup/front.gif "Piplup")
 
 ```
 Location: Sandgem Town
@@ -167,7 +167,7 @@ Level: 5
 
 **#94 Gengar**
 
-![Gengar](../assets/sprites/gengar/front.gif)
+![Gengar](../assets/sprites/gengar/front.gif "Gengar")
 
 ```
 Location: Old Chateau
@@ -180,7 +180,7 @@ Level: 20
 
 **#442 Spiritomb**
 
-![Spiritomb](../assets/sprites/spiritomb/front.gif)
+![Spiritomb](../assets/sprites/spiritomb/front.gif "Spiritomb")
 
 ```
 Location: Route 209
@@ -192,7 +192,7 @@ Level: 30
 
 **#444 Gabite**
 
-![Gabite](../assets/sprites/gabite/front.gif)
+![Gabite](../assets/sprites/gabite/front.gif "Gabite")
 
 ```
 Location: Wayward Cave
@@ -205,7 +205,7 @@ Level: 25
 
 **#479 Rotom**
 
-![Rotom](../assets/sprites/rotom/front.gif)
+![Rotom](../assets/sprites/rotom/front.gif "Rotom")
 
 ```
 Location: Old Chateau
@@ -222,7 +222,7 @@ Level: 20
 
 **#144 Articuno**
 
-![Articuno](../assets/sprites/articuno/front.gif)
+![Articuno](../assets/sprites/articuno/front.gif "Articuno")
 
 ```
 Location: Mt. Coronet (Summit)
@@ -237,7 +237,7 @@ Level: 60
 
 **#145 Zapdos**
 
-![Zapdos](../assets/sprites/zapdos/front.gif)
+![Zapdos](../assets/sprites/zapdos/front.gif "Zapdos")
 
 ```
 Location: Valley Windworks
@@ -252,7 +252,7 @@ Level: 60
 
 **#146 Moltres**
 
-![Moltres](../assets/sprites/moltres/front.gif)
+![Moltres](../assets/sprites/moltres/front.gif "Moltres")
 
 ```
 Location: Victory Road
@@ -267,7 +267,7 @@ Level: 60
 
 **#150 Mewtwo**
 
-![Mewtwo](../assets/sprites/mewtwo/front.gif)
+![Mewtwo](../assets/sprites/mewtwo/front.gif "Mewtwo")
 
 ```
 Location: Oreburgh Gate
@@ -283,7 +283,7 @@ Level: 70
 
 **#151 Mew**
 
-![Mew](../assets/sprites/mew/front.gif)
+![Mew](../assets/sprites/mew/front.gif "Mew")
 
 ```
 Location: Route 201
@@ -303,7 +303,7 @@ Level: 40
 
 **#243 Raikou**
 
-![Raikou](../assets/sprites/raikou/front.gif)
+![Raikou](../assets/sprites/raikou/front.gif "Raikou")
 
 ```
 Location: Route 208
@@ -318,7 +318,7 @@ Level: 60
 
 **#244 Entei**
 
-![Entei](../assets/sprites/entei/front.gif)
+![Entei](../assets/sprites/entei/front.gif "Entei")
 
 ```
 Location: Route 211 (East)
@@ -333,7 +333,7 @@ Level: 60
 
 **#245 Suicune**
 
-![Suicune](../assets/sprites/suicune/front.gif)
+![Suicune](../assets/sprites/suicune/front.gif "Suicune")
 
 ```
 Location: Route 213
@@ -348,7 +348,7 @@ Level: 60
 
 **#249 Lugia**
 
-![Lugia](../assets/sprites/lugia/front.gif)
+![Lugia](../assets/sprites/lugia/front.gif "Lugia")
 
 ```
 Location: Route 220
@@ -365,7 +365,7 @@ Level: 70
 
 **#250 Ho-oh**
 
-![Ho-oh](../assets/sprites/ho-oh/front.gif)
+![Ho-oh](../assets/sprites/ho-oh/front.gif "Ho-oh")
 
 ```
 Location: Lost Tower
@@ -383,7 +383,7 @@ Level: 70
 
 **#251 Celebi**
 
-![Celebi](../assets/sprites/celebi/front.gif)
+![Celebi](../assets/sprites/celebi/front.gif "Celebi")
 
 ```
 Location: Eterna Forest
@@ -401,7 +401,7 @@ Level: 40
 
 **#377 Regirock**
 
-![Regirock](../assets/sprites/regirock/front.gif)
+![Regirock](../assets/sprites/regirock/front.gif "Regirock")
 
 ```
 Location: Route 228
@@ -416,7 +416,7 @@ Level: 60
 
 **#378 Regice**
 
-![Regice](../assets/sprites/regice/front.gif)
+![Regice](../assets/sprites/regice/front.gif "Regice")
 
 ```
 Location: Mt. Coronet (Route 216 Entrance)
@@ -431,7 +431,7 @@ Level: 60
 
 **#379 Registeel**
 
-![Registeel](../assets/sprites/registeel/front.gif)
+![Registeel](../assets/sprites/registeel/front.gif "Registeel")
 
 ```
 Location: Iron Island (B3F)
@@ -446,7 +446,7 @@ Level: 60
 
 **#380 Latias**
 
-![Latias](../assets/sprites/latias/front.gif)
+![Latias](../assets/sprites/latias/front.gif "Latias")
 
 ```
 Location: Fullmoon Island
@@ -461,7 +461,7 @@ Level: 68
 
 **#381 Latios**
 
-![Latios](../assets/sprites/latios/front.gif)
+![Latios](../assets/sprites/latios/front.gif "Latios")
 
 ```
 Location: Fullmoon Island
@@ -476,7 +476,7 @@ Level: 68
 
 **#382 Kyogre**
 
-![Kyogre](../assets/sprites/kyogre/front.gif)
+![Kyogre](../assets/sprites/kyogre/front.gif "Kyogre")
 
 ```
 Location: Mt. Coronet (B1F)
@@ -493,7 +493,7 @@ Level: 70
 
 **#383 Groudon**
 
-![Groudon](../assets/sprites/groudon/front.gif)
+![Groudon](../assets/sprites/groudon/front.gif "Groudon")
 
 ```
 Location: Stark Mountain (Interior)
@@ -510,7 +510,7 @@ Level: 70
 
 **#384 Rayquaza**
 
-![Rayquaza](../assets/sprites/rayquaza/front.gif)
+![Rayquaza](../assets/sprites/rayquaza/front.gif "Rayquaza")
 
 ```
 Location: Pokémon League
@@ -527,7 +527,7 @@ Level: 70
 
 **#385 Jirachi**
 
-![Jirachi](../assets/sprites/jirachi/front.gif)
+![Jirachi](../assets/sprites/jirachi/front.gif "Jirachi")
 
 ```
 Location: Solaceon Ruins
@@ -543,7 +543,7 @@ Level: 40
 
 **#386 Deoxys**
 
-![Deoxys](../assets/sprites/deoxys-normal/front.gif)
+![Deoxys](../assets/sprites/deoxys-normal/front.gif "Deoxys")
 
 ```
 Location: Veilstone City
@@ -558,7 +558,7 @@ Level: 70
 
 **#480 Uxie**
 
-![Uxie](../assets/sprites/uxie/front.gif)
+![Uxie](../assets/sprites/uxie/front.gif "Uxie")
 
 ```
 Location: Acuity Cavern
@@ -573,7 +573,7 @@ Level: 60
 
 **#481 Mesprit**
 
-![Mesprit](../assets/sprites/mesprit/front.gif)
+![Mesprit](../assets/sprites/mesprit/front.gif "Mesprit")
 
 ```
 Location: Verity Cavern
@@ -588,7 +588,7 @@ Level: 60
 
 **#482 Azelf**
 
-![Azelf](../assets/sprites/azelf/front.gif)
+![Azelf](../assets/sprites/azelf/front.gif "Azelf")
 
 ```
 Location: Valor Cavern
@@ -603,7 +603,7 @@ Level: 60
 
 **#483 Dialga**
 
-![Dialga](../assets/sprites/dialga/front.gif)
+![Dialga](../assets/sprites/dialga/front.gif "Dialga")
 
 ```
 Location: Spear Pillar
@@ -618,7 +618,7 @@ Level: 70
 
 **#484 Palkia**
 
-![Palkia](../assets/sprites/palkia/front.gif)
+![Palkia](../assets/sprites/palkia/front.gif "Palkia")
 
 ```
 Location: Spear Pillar
@@ -634,7 +634,7 @@ Level: 70
 
 **#485 Heatran**
 
-![Heatran](../assets/sprites/heatran/front.gif)
+![Heatran](../assets/sprites/heatran/front.gif "Heatran")
 
 ```
 Location: Stark Mountain (Furthest Room - Interior)
@@ -650,7 +650,7 @@ Level: 68
 
 **#486 Regigigas**
 
-![Regigigas](../assets/sprites/regigigas/front.gif)
+![Regigigas](../assets/sprites/regigigas/front.gif "Regigigas")
 
 ```
 Location: Snowpoint Temple (B6F)
@@ -665,7 +665,7 @@ Level: 70
 
 **#487 Giratina**
 
-![Giratina](../assets/sprites/giratina-altered/front.gif)
+![Giratina](../assets/sprites/giratina-altered/front.gif "Giratina")
 
 ```
 Location: Distortion World / Turnback Cave
@@ -678,7 +678,7 @@ Level: 70
 
 **#488 Cresselia**
 
-![Cresselia](../assets/sprites/cresselia/front.gif)
+![Cresselia](../assets/sprites/cresselia/front.gif "Cresselia")
 
 ```
 Location: Fullmoon Island
@@ -692,7 +692,7 @@ Level: 68
 
 **#489 Phione**
 
-![Phione](../assets/sprites/phione/front.gif)
+![Phione](../assets/sprites/phione/front.gif "Phione")
 
 ```
 Location: N/A
@@ -704,7 +704,7 @@ Level: N/A
 
 **#490 Manaphy**
 
-![Manaphy](../assets/sprites/manaphy/front.gif)
+![Manaphy](../assets/sprites/manaphy/front.gif "Manaphy")
 
 ```
 Location: Pokémon Mansion
@@ -716,7 +716,7 @@ Level: N/A
 
 **#491 Darkrai**
 
-![Darkrai](../assets/sprites/darkrai/front.gif)
+![Darkrai](../assets/sprites/darkrai/front.gif "Darkrai")
 
 ```
 Location: Newmoon Island
@@ -732,7 +732,7 @@ Level: 68
 
 **#492 Shaymin**
 
-![Shaymin](../assets/sprites/shaymin-land/front.gif)
+![Shaymin](../assets/sprites/shaymin-land/front.gif "Shaymin")
 
 ```
 Location: Flower Paradise
@@ -750,7 +750,7 @@ Level: 30
 
 **#493 Arceus**
 
-![Arceus](../assets/sprites/arceus/front.gif)
+![Arceus](../assets/sprites/arceus/front.gif "Arceus")
 
 ```
 Location: Hall of Origin

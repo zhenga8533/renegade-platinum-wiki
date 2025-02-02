@@ -8,7 +8,9 @@ import string
 def find_pokemon_sprite(pokemon: str, view: str, logger: Logger = None) -> str:
     sprite = f"../assets/sprites/{fix_pokemon_form(format_id(pokemon))}/{view}"
     return (
-        f"![{pokemon}]({sprite}.gif)" if verify_asset_path(sprite + ".gif", logger) else f"![{pokemon}]({sprite}.png)"
+        f'![{pokemon}]({sprite}.gif "{pokemon}")'
+        if verify_asset_path(sprite + ".gif", logger)
+        else f'![{pokemon}]({sprite}.png "{pokemon}")'
     )
 
 
@@ -28,11 +30,11 @@ def find_trainer_sprite(trainer: str, view: str, logger: Logger = None) -> str:
     for subset in subsets:
         sprite = f"../assets/{view}/{format_id(subset, symbol="_")}"
         if verify_asset_path(sprite + ".png", logger):
-            return f"![{trainer}]({sprite}.png)"
+            return f'![{trainer}]({sprite}.png "{trainer}")'
 
     if view != "important_trainers":
         return find_trainer_sprite(trainer, "important_trainers", logger)
-    return f"![{trainer}](../assets/{view}/{format_id(trainer, symbol="_")}.png)"
+    return f'![{trainer}](../assets/{view}/{format_id(trainer, symbol="_")}.png "{trainer}")'
 
 
 def fix_pokemon_form(form: str) -> str:

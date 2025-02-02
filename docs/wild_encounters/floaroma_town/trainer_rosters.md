@@ -4,5 +4,5 @@
 
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ![Reporter Jenny](../../assets/trainers/reporter.png)<br>Reporter Jenny | ![Chikorita](../../assets/sprites/chikorita/front.gif)<br>Chikorita<br>Lv. 15 | ![Cyndaquil](../../assets/sprites/cyndaquil/front.gif)<br>Cyndaquil<br>Lv. 15 | ![Totodile](../../assets/sprites/totodile/front.gif)<br>Totodile<br>Lv. 15 |
+| ![Reporter Jenny](../../assets/trainers/reporter.png "Reporter Jenny")<br>Reporter Jenny | ![Chikorita](../../assets/sprites/chikorita/front.gif "Chikorita")<br>Chikorita<br>Lv. 15 | ![Cyndaquil](../../assets/sprites/cyndaquil/front.gif "Cyndaquil")<br>Cyndaquil<br>Lv. 15 | ![Totodile](../../assets/sprites/totodile/front.gif "Totodile")<br>Totodile<br>Lv. 15 |
 
