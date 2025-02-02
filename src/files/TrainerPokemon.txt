@@ -738,7 +738,7 @@ Jolteon (Lv. 44) @ Wise Glasses     /   ?           /   Volt Absorb     /   Thun
 Flareon (Lv. 44) @ Muscle Band      /   ?           /   Flash Fire      /   Flare Blitz, Play Rough, Close Combat, Will-O-Wisp      (!)
 Torterra (Lv. 45) @ Sitrus Berry    /   ?           /   Overgrow        /   Wood Hammer, Earthquake, Iron Head, Rock Slide          (!)
 Infernape (Lv. 45) @ Sitrus Berry   /   ?           /   Iron Fist       /   Fire Blast, Close Combat, Thunder Punch, Rock Slide     (!)
-Empoleon (Lv. 45) @ Sitrus Berry    /   ?           /   Torrent         /   Surf, Flash Cannon, Grass Knot, Featherdance            (!)
+Empoleon (Lv. 45) @ Sitrus Berry    /   ?           /   Torrent         /   Surf, Flash Cannon, Grass Knot, Feather Dance           (!)
 
 PKMN Trainer Lucas
 Alakazam (Lv. 44) @ Life Orb        /   ?           /   Magic Guard     /   Psychic, Shadow Ball, Energy Ball, Dazzling Gleam
@@ -750,7 +750,7 @@ Jolteon (Lv. 44) @ Wise Glasses     /   ?           /   Volt Absorb     /   Thun
 Flareon (Lv. 44) @ Muscle Band      /   ?           /   Flash Fire      /   Flare Blitz, Play Rough, Close Combat, Will-O-Wisp      (!)
 Torterra (Lv. 45) @ Sitrus Berry    /   ?           /   Overgrow        /   Wood Hammer, Earthquake, Iron Head, Rock Slide          (!)
 Infernape (Lv. 45) @ Sitrus Berry   /   ?           /   Iron Fist       /   Fire Blast, Close Combat, Thunder Punch, Rock Slide     (!)
-Empoleon (Lv. 45) @ Sitrus Berry    /   ?           /   Torrent         /   Surf, Flash Cannon, Grass Knot, Featherdance            (!)
+Empoleon (Lv. 45) @ Sitrus Berry    /   ?           /   Torrent         /   Surf, Flash Cannon, Grass Knot, Feather Dance           (!)
 
 Celestic Town
 =================================================================================================================================================

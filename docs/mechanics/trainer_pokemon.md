@@ -2472,7 +2472,7 @@
 	1. Surf
 	2. Flash Cannon
 	3. Grass Knot
-	4. Featherdance<br><br><b>Alakazam</b> @ Life Orb
+	4. Feather Dance<br><br><b>Alakazam</b> @ Life Orb
 	<b>Ability:</b> Magic Guard
 	<b>Level:</b> 44
 	<b>Moves:</b>
@@ -2614,7 +2614,7 @@
 	1. Surf
 	2. Flash Cannon
 	3. Grass Knot
-	4. Featherdance<br><br><b>Alakazam</b> @ Life Orb
+	4. Feather Dance<br><br><b>Alakazam</b> @ Life Orb
 	<b>Ability:</b> Magic Guard
 	<b>Level:</b> 44
 	<b>Moves:</b>

@@ -66,7 +66,20 @@ def parse_pokemon_table(line: str, logger: Logger) -> str:
         if item != "No Item"
         else "| No Item | "
     )
-    table += "<br>".join([f"**{i}.** {move}" for i, move in enumerate(moves, 1)]) + " |\n"
+
+    # Load move data
+    MOVES_INPUT_PATH = os.getenv("MOVES_INPUT_PATH")
+    for i, move in enumerate(moves, 1):
+        move_id = format_id(move)
+        if move_id == "":
+            table += f"{i}. {move}<br>"
+            continue
+
+        move_data = json.loads(load(MOVES_INPUT_PATH + move_id + ".json", logger))
+        move_effect = move_data["effect"]
+        move_text = move_data["flavor_text_entries"].get("platinum", move_effect).replace("\n", " ")
+        table += f'{i}. <span class="tooltip" title="{move_text}">{move}</span><br>'
+    table = table[:-4] + " |\n"
 
     return table
 
