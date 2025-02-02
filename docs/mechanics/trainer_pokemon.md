@@ -3508,7 +3508,7 @@
 2. Flash Cannon
 3. Signal Beam
 4. Mirror Coat<br><br><b>Weavile</b> @ Expert Belt
-<b>Ability:</b> Technican (!)
+<b>Ability:</b> Technician (!)
 <b>Level:</b> 58
 <b>Moves:</b>
 1. Crunch

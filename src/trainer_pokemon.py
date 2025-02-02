@@ -44,11 +44,25 @@ def parse_pokemon_table(line: str, logger: Logger) -> str:
         if not os.path.exists(item_path):
             download_file(item_path, item_data["sprite"], logger)
 
+    # Load ability data
+    ABILITY_INPUT_PATH = os.getenv("ABILITY_INPUT_PATH")
+    ability_data = json.loads(load(ABILITY_INPUT_PATH + format_id(ability) + ".json", logger))
+    ability_effect = ability_data["flavor_text_entries"]["platinum"].replace("\n", " ")
+
+    # Load nature data
+    NATURE_INPUT_PATH = os.getenv("NATURE_INPUT_PATH")
+    nature_data = json.loads(load(NATURE_INPUT_PATH, logger))
+    nature_effect = nature_data.get(nature, "?")
+
     sprite = find_pokemon_sprite(name, "front").replace("../", "../../")
     table = f"| {sprite} "
-    table += f"| **Lv. {level}** {name}<br>**Ability:** {ability}<br>**Nature:** {nature} "
+    table += f"| **Lv. {level}** {name}<br>"
+    table += f'**Ability:** <span class="tooltip" title="{ability_effect}">{ability}</span><br>'
     table += (
-        f'| ![{item}]({item_path.replace("docs", "..")} "{item})<br><span class="tooltip" title="{item_effect}">{item}</span> | '
+        "**Nature:** " + f'<span class="tooltip" title="{nature_effect}">{nature}</span> ' if nature != "?" else "? "
+    )
+    table += (
+        f'| ![{item}]({item_path.replace("docs", "..")} "{item}")<br><span class="tooltip" title="{item_effect}">{item}</span> | '
         if item != "No Item"
         else "| No Item | "
     )

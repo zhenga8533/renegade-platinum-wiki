@@ -977,7 +977,7 @@ Crobat (Lv. 57) @ Choice Band       /   ?           /   Inner Focus     /   Brav
 Honchkrow (Lv. 57) @ Scope Lens     /   ?           /   Super Luck      /   Brave Bird, Night Slash, Thunder Wave, Heat Wave
 Houndoom (Lv. 57) @ Life Orb        /   ?           /   Intimidate (!)  /   Dark Pulse, Flamethrower, Sludge Bomb, Nasty Plot
 Magnezone (Lv. 57) @ Wise Glasses   /   ?           /   Magnet Pull     /   Thunderbolt, Flash Cannon, Signal Beam, Mirror Coat
-Weavile (Lv. 58) @ Expert Belt      /   ?           /   Technican (!)   /   Crunch, Icicle Crash, Aerial Ace, X-Scissor
+Weavile (Lv. 58) @ Expert Belt      /   ?           /   Technician (!)   /   Crunch, Icicle Crash, Aerial Ace, X-Scissor
 
 Commander Saturn
 Bronzong (Lv. 56) @ Light Clay      /   ?           /   Levitate        /   Zen Headbutt, Gyro Ball, Reflect, Light Screen
