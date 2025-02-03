@@ -9,22 +9,22 @@ import requests
 import threading
 
 
-def save_sprite(sprite_path: str, sprite: str, logger: Logger) -> None:
-    dirs = sprite_path.rsplit("/", 1)[0]
+def save_media(media_path: str, media: str, logger: Logger) -> None:
+    dirs = media_path.rsplit("/", 1)[0]
     if not os.path.exists(dirs):
         os.makedirs(dirs)
         logger.log(logging.INFO, f"Created directory '{dirs}'.")
 
     try:
-        with open(sprite_path, "wb") as file:
-            file.write(sprite)
-            logger.log(logging.INFO, f"The content was saved to '{sprite_path}'.")
+        with open(media_path, "wb") as file:
+            file.write(media)
+            logger.log(logging.INFO, f"The content was saved to '{media_path}'.")
     except Exception as e:
-        logger.log(logging.ERROR, f"An error occurred while saving to {sprite_path}:\n{e}")
+        logger.log(logging.ERROR, f"An error occurred while saving to {media_path}:\n{e}")
         exit(1)
 
 
-def fetch_and_save_sprites(pokemon, POKEMON_INPUT_PATH, logger):
+def fetch_media(pokemon, POKEMON_INPUT_PATH, logger):
     name = pokemon["name"]
     data = json.loads(load(POKEMON_INPUT_PATH + name + ".json", logger))
     species = data["species"]
@@ -50,15 +50,27 @@ def fetch_and_save_sprites(pokemon, POKEMON_INPUT_PATH, logger):
             if sprite:
                 sprite_data[sprite_name] = sprite
 
-        # Fetch all sprites
+        # Save all sprites
         for key in sprite_data:
             sprite = sprite_data[key]
             sprite = sprite.replace(id, id + form.replace(species, ""))
             response = requests.get(sprite)
-            save_sprite(f"../docs/assets/sprites/{form}/{key}.png", response.content, logger)
+            save_media(f"../docs/assets/sprites/{form}/{key}.png", response.content, logger)
+
+        # Save cries
+        cries = {
+            "latest": data["cry_latest"],
+            "legacy": data["cry_legacy"],
+        }
+        for key in cries:
+            cry = cries[key]
+            if cry is None:
+                continue
+            response = requests.get(cry)
+            save_media(f"../docs/assets/cries/{form}/{key}.ogg", response.content, logger)
 
 
-def fetch_sprites_for_range(start_index: int, end_index: int, pokedex, POKEMON_INPUT_PATH, logger):
+def fetch_media_range(start_index: int, end_index: int, pokedex, POKEMON_INPUT_PATH, logger):
     """
     Fetch and save sprites for a range of Pokémon.
 
@@ -71,7 +83,7 @@ def fetch_sprites_for_range(start_index: int, end_index: int, pokedex, POKEMON_I
 
     for i in range(start_index, end_index + 1):
         pokemon = pokedex[i]
-        fetch_and_save_sprites(pokemon, POKEMON_INPUT_PATH, logger)
+        fetch_media(pokemon, POKEMON_INPUT_PATH, logger)
 
 
 def main():
@@ -104,7 +116,7 @@ def main():
 
         # Start each thread to handle a specific range of Pokémon
         thread = threading.Thread(
-            target=fetch_sprites_for_range,
+            target=fetch_media_range,
             args=(start_index, end_index, pokedex, POKEMON_INPUT_PATH, logger),
         )
         threads.append(thread)
