@@ -108,7 +108,7 @@ def main():
         save(WILD_ENCOUNTER_PATH + location_id + "/wild_pokemon.md", encounters, logger)
         nav += f"      - {location}:\n"
         nav += f"          - Wild Pokémon: {WILD_ENCOUNTER_PATH + location_id}/wild_pokemon.md\n"
-    save(NAV_OUTPUT_PATH + "pokemon_nav.yml", nav, logger)
+    save(NAV_OUTPUT_PATH + "wild_nav.yml", nav, logger)
 
 
 if __name__ == "__main__":

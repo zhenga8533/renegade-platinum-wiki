@@ -2,6 +2,7 @@ logs/
 src/data/
 src/markdown/
 src/nav/
+src/pokemon/
 src/wild_encounters/
 
 # Byte-compiled / optimized / DLL files

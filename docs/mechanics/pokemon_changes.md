@@ -589,7 +589,7 @@ Level Up:
 
 ```
 1 - Fury Attack
-10 - Twinneedle
+10 - Twineedle
 11 - Fury Attack
 13 - Rage
 15 - Toxic Spikes
@@ -3130,7 +3130,7 @@ Level Up:
 1 - Aurora Beam
 19 - Spike Cannon
 25 - Spikes
-31 - Twinneedle
+31 - Twineedle
 37 - Rock Blast
 43 - Icicle Crash
 ```

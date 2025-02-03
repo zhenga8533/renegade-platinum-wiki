@@ -17,11 +17,13 @@ echo "Checking for i/o paths"
 OVERWRITE=$(grep "^OVERWRITE" .env | cut -d '=' -f2- | tr -d ' "')
 OUTPUT_PATH=$(grep "^OUTPUT_PATH" .env | cut -d '=' -f2- | tr -d ' "')
 NAV_OUTPUT_PATH=$(grep "^NAV_OUTPUT_PATH" .env | cut -d '=' -f2- | tr -d ' "')
+POKEMON_PATH=$(grep "^POKEMON_PATH" .env | cut -d '=' -f2- | tr -d ' "')
 POKEMON_INPUT_PATH=$(grep "^POKEMON_INPUT_PATH" .env | cut -d '=' -f2- | tr -d ' "')
 WILD_ENCOUNTER_PATH=$(grep "^WILD_ENCOUNTER_PATH" .env | cut -d '=' -f2- | tr -d ' "')
 
 rm -rf $OUTPUT_PATH
 rm -rf $NAV_OUTPUT_PATH
+rm -rf $POKEMON_PATH
 rm -rf $WILD_ENCOUNTER_PATH
 
 if [ -d $POKEMON_INPUT_PATH ]; then
@@ -71,6 +73,7 @@ $PYTHON special_events.py
 $PYTHON trainer_pokemon.py
 $PYTHON type_changes.py
 $PYTHON wild_pokemon.py
+$PYTHON pokemon.py
 echo "Finished running all parsers"
 echo ""
 
@@ -91,9 +94,11 @@ mkdir -p ../docs/wild_encounters
 # Check for rsync
 if ! command -v rsync &> /dev/null; then
   cp -r -f -u $OUTPUT_PATH/* ../docs/mechanics
+  cp -r -f -u $POKEMON_PATH/* ../docs/pokemon
   cp -r -f -u $WILD_ENCOUNTER_PATH/* ../docs/wild_encounters
 else
   rsync -av --update $OUTPUT_PATH/ ../docs/mechanics
+  rsync -av --update $POKEMON_PATH/ ../docs/pokemon
   rsync -av --update $WILD_ENCOUNTER_PATH/ ../docs/wild_encounters
 fi
 echo "Markdown files updated"
