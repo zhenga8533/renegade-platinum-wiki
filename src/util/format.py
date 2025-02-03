@@ -86,7 +86,7 @@ def fix_pokemon_form(form: str) -> str:
 
 def format_id(id: str, symbol: str = "-") -> str:
     """
-    Format the ID of a Pokémon.
+    Format the ID of any string.
 
     :param id: ID to be formatted.
     :return: Formatted ID.
@@ -95,7 +95,8 @@ def format_id(id: str, symbol: str = "-") -> str:
     id = id.replace("é", "e")
     id = re.sub(r"[^a-zA-Z0-9é\s-]", "", id)
     id = re.sub(r"\s+", " ", id).strip()
-    return id.lower().replace(" ", symbol)
+    id = id.lower().replace(" ", symbol)
+    return fix_pokemon_form(id)
 
 
 def revert_id(id: str, symbol: str = "-") -> str:

@@ -107,8 +107,9 @@ def main():
                 parse_change = False
         elif next_line.startswith("="):
             if " - " in line:
-                md += f"**#{line}**\n\n"
                 pokemon = line.split(" - ")[1]
+                pokemon_id = format_id(pokemon)
+                md += f"**[#{line}](../pokemon/{pokemon_id}.md)**\n\n"
                 md += find_pokemon_sprite(pokemon, "front", logger) + "\n\n"
 
                 if curr_pokemon is not None:

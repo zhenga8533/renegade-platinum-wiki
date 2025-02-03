@@ -16,7 +16,7 @@ def parse_pokemon_set(line: str) -> str:
     moves = strs[3].split(", ")
     moves = [moves[i] if len(moves) > i else "—" for i in range(4)]
 
-    pokemon = f"<b>{name}</b> @ {item}\n"
+    pokemon = f"<b><a href='/renegade-platinum-wiki/pokemon/{format_id(name)}/'>{name}</a></b> @ {item}\n"
     pokemon += f"<b>Ability:</b> {ability}\n"
     pokemon += f"<b>Level:</b> {level}\n"
     if nature != "?":
@@ -54,9 +54,10 @@ def parse_pokemon_table(line: str, logger: Logger) -> str:
     nature_data = json.loads(load(NATURE_INPUT_PATH, logger))
     nature_effect = nature_data.get(nature, "?")
 
+    pokemon_id = format_id(name)
     sprite = find_pokemon_sprite(name, "front").replace("../", "../../")
     table = f"| {sprite} "
-    table += f"| **Lv. {level}** {name}<br>"
+    table += f"| **Lv. {level}** [{name}](../../pokemon/{pokemon_id}.md/)<br>"
     table += f'**Ability:** <span class="tooltip" title="{ability_effect}">{ability}</span><br>'
     table += "**Nature:** " + (
         f'<span class="tooltip" title="{nature_effect}">{nature}</span> ' if nature != "?" else "? "
@@ -99,10 +100,13 @@ def parse_trainer_roster(trainers) -> str:
 
         for i, p in enumerate(pokemon.split(", "), 1):
             pokemon_name, level = p.split(" Lv. ")
+            pokemon_id = format_id(pokemon_name)
             pokemon_sprite = find_pokemon_sprite(pokemon_name, "front").replace("../", "../../")
 
-            md += f"\n\t{i}. {p}"
-            trainer_rosters += f"| {pokemon_sprite}<br>{pokemon_name}<br>Lv. {level} "
+            md += f"\n\t{i}. Lv. {level} [{pokemon_name}](../pokemon/{pokemon_id}.md/)"
+            trainer_rosters += (
+                f"| {pokemon_sprite}<br>[{pokemon_name}](../../pokemon/{pokemon_id}.md/)<br>Lv. {level} "
+            )
         md += "\n"
         trainer_rosters += "|\n"
     md += "\n"

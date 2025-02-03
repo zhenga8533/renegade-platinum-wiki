@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 from util.file import load, save
-from util.format import find_pokemon_sprite
+from util.format import find_pokemon_sprite, format_id
 from util.logger import Logger
 import logging
 import os
@@ -46,13 +46,14 @@ def main():
             md += f"| {' | '.join(seperators)} |\n"
         else:
             cells = re.split(r"\s{3,}", line)
-            pokemon = " ".join(cells[0].split(" ")[1:])
-            cells[0] = "<br>".join(cells[0].split(" "))
+            num, pokemon = cells.pop(0).split(" ")
+            pokemon_id = format_id(pokemon)
+            cells[0] = "<br>".join(cells[0].split(" / "))
             cells[1] = "<br>".join(cells[1].split(" / "))
-            cells[2] = "<br>".join(cells[2].split(" / "))
             cells[-1] = "<br>".join([c[0].upper() + c[1:] for c in cells[-1].split("; ")]).rstrip(".")
 
-            md += f"| {find_pokemon_sprite(pokemon, 'front', logger)} | "
+            md += f"| {find_pokemon_sprite(pokemon, 'front', logger)} "
+            md += f"| {num}<br>[{pokemon}](../pokemon/{pokemon_id}.md) | "
             md += " | ".join(cells) + " |\n"
     logger.log(logging.INFO, "Data parsed successfully!")
 

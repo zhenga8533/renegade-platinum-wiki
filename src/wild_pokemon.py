@@ -77,8 +77,11 @@ def main():
             level = levels.get(encounter_class, levels.get(encounter, "?"))
             wild_pokemon = pokemon.split(", ")
 
-            md += f"{encounter} (Lv. {level})\n\n```\n"
-            md += "\n".join([f"{i}. {p}" for i, p in enumerate(wild_pokemon, 1)]) + "\n```\n\n"
+            md += f"{encounter} (Lv. {level})\n\n<pre><code>"
+            for i, p in enumerate(wild_pokemon, 1):
+                p, chance = p.split(" (")
+                md += f"{i}. <a href='/renegade-platinum-wiki/pokemon/{format_id(p)}/'>{p}</a> ({chance[:-1]})\n"
+            md += "</code></pre>\n\n"
 
             if curr_encounter != encounter_class:
                 wild_encounters[curr_location] += f"### {encounter_class}\n\n"
@@ -88,11 +91,12 @@ def main():
 
             for wild in wild_pokemon:
                 pokemon, chance = wild.split(" (")
+                pokemon_id = format_id(pokemon)
                 sprite = find_pokemon_sprite(pokemon, "front", logger).replace("../", "../../")
                 encounter_type = f'![{encounter}](../../assets/encounter_types/{format_id(encounter, symbol="_")}.png "{encounter}")'
 
                 wild_encounters[curr_location] = wild_encounters[curr_location].rstrip() + "\n"
-                wild_encounters[curr_location] += f"| {sprite} | {pokemon} | "
+                wild_encounters[curr_location] += f"| {sprite} | [{pokemon}](../../pokemon/{pokemon_id}.md/) | "
                 wild_encounters[curr_location] += f"{encounter_type}{{: style='max-width: 24px;' }} | "
                 wild_encounters[curr_location] += f"{level} | {chance[:-1]} |\n"
             wild_encounters[curr_location] += "\n"

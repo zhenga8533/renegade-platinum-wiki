@@ -12,7 +12,7 @@ MOVES_INPUT_PATH = os.getenv("MOVES_INPUT_PATH")
 
 LOG = os.getenv("LOG") == "True"
 LOG_PATH = os.getenv("LOG_PATH")
-logger = Logger("Pokemon Changes Parser", LOG_PATH + "pokemon_changes.log", LOG)
+logger = Logger("Move Loader", LOG_PATH + "moves.log", LOG)
 
 moves = {}
 

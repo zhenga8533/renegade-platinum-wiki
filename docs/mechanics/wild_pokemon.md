@@ -19,31 +19,27 @@
 
 Surf (Lv. 20 - 40)
 
-```
-1. Psyduck (90%)
-2. Golduck (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/psyduck/'>Psyduck</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/golduck/'>Golduck</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (65%)
-2. Poliwag (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/poliwag/'>Poliwag</a> (35%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (65%)
-2. Poliwag (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/poliwag/'>Poliwag</a> (35%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (65%)
-2. Poliwhirl (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/poliwhirl/'>Poliwhirl</a> (35%)
+</code></pre>
 
 
 ---
@@ -52,41 +48,37 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 4 - 5)
 
-```
-1. Starly (30%)
-2. Bidoof (30%)
-3. Pidgey (10%)
-4. Kricketot (10%)
-5. Nidoran M (10%)
-6. Nidoran F (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/starly/'>Starly</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/bidoof/'>Bidoof</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/pidgey/'>Pidgey</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/kricketot/'>Kricketot</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/nidoran-m/'>Nidoran M</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/nidoran-f/'>Nidoran F</a> (10%)
+</code></pre>
 
 Day (Lv. 4 - 5)
 
-```
-1. Starly (30%)
-2. Bidoof (30%)
-3. Pidgey (20%)
-4. Nidoran M (10%)
-5. Nidoran F (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/starly/'>Starly</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/bidoof/'>Bidoof</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/pidgey/'>Pidgey</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/nidoran-m/'>Nidoran M</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/nidoran-f/'>Nidoran F</a> (10%)
+</code></pre>
 
 Night (Lv. 4 - 5)
 
-```
-1. Starly (30%)
-2. Bidoof (30%)
-3. Hoothoot (10%)
-4. Kricketot (10%)
-5. Nidoran M (10%)
-6. Nidoran F (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/starly/'>Starly</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/bidoof/'>Bidoof</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/hoothoot/'>Hoothoot</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/kricketot/'>Kricketot</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/nidoran-m/'>Nidoran M</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/nidoran-f/'>Nidoran F</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 4 - 5)
 
-```
-1. Doduo (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/doduo/'>Doduo</a> (22%)
+</code></pre>
 
 
 ---
@@ -95,67 +87,59 @@ Poké Radar (Lv. 4 - 5)
 
 Morning (Lv. 4 - 5)
 
-```
-1. Starly (30%)
-2. Bidoof (20%)
-3. Surskit (20%)
-4. Azurill (10%)
-5. Psyduck (10%)
-6. Wingull (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/starly/'>Starly</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/bidoof/'>Bidoof</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/surskit/'>Surskit</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/azurill/'>Azurill</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/psyduck/'>Psyduck</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/wingull/'>Wingull</a> (10%)
+</code></pre>
 
 Day (Lv. 4 - 5)
 
-```
-1. Starly (30%)
-2. Bidoof (20%)
-3. Surskit (20%)
-4. Azurill (10%)
-5. Psyduck (10%)
-6. Wingull (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/starly/'>Starly</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/bidoof/'>Bidoof</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/surskit/'>Surskit</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/azurill/'>Azurill</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/psyduck/'>Psyduck</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/wingull/'>Wingull</a> (10%)
+</code></pre>
 
 Night (Lv. 4 - 5)
 
-```
-1. Starly (30%)
-2. Bidoof (20%)
-3. Surskit (20%)
-4. Azurill (10%)
-5. Psyduck (10%)
-6. Wingull (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/starly/'>Starly</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/bidoof/'>Bidoof</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/surskit/'>Surskit</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/azurill/'>Azurill</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/psyduck/'>Psyduck</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/wingull/'>Wingull</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 4 - 5)
 
-```
-1. Wynaut (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/wynaut/'>Wynaut</a> (22%)
+</code></pre>
 
 Surf (Lv. 20 - 40)
 
-```
-1. Surskit (90%)
-2. Masquerain (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/surskit/'>Surskit</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/masquerain/'>Masquerain</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (100%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (100%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (100%)
+</code></pre>
 
 
 ---
@@ -164,45 +148,41 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 5 - 6)
 
-```
-1. Shinx (20%)
-2. Zigzagoon (20%)
-3. Sentret (20%)
-4. Rattata (10%)
-5. Poochyena (10%)
-6. Growlithe (10%)
-7. Burmy (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/shinx/'>Shinx</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/zigzagoon/'>Zigzagoon</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/sentret/'>Sentret</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/rattata/'>Rattata</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/poochyena/'>Poochyena</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/growlithe/'>Growlithe</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/burmy/'>Burmy</a> (10%)
+</code></pre>
 
 Day (Lv. 5 - 6)
 
-```
-1. Shinx (20%)
-2. Zigzagoon (20%)
-3. Sentret (20%)
-4. Rattata (10%)
-5. Poochyena (10%)
-6. Growlithe (10%)
-7. Burmy (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/shinx/'>Shinx</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/zigzagoon/'>Zigzagoon</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/sentret/'>Sentret</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/rattata/'>Rattata</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/poochyena/'>Poochyena</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/growlithe/'>Growlithe</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/burmy/'>Burmy</a> (10%)
+</code></pre>
 
 Night (Lv. 5 - 6)
 
-```
-1. Shinx (20%)
-2. Zigzagoon (20%)
-3. Hoothoot (20%)
-4. Rattata (10%)
-5. Poochyena (10%)
-6. Growlithe (10%)
-7. Burmy (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/shinx/'>Shinx</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/zigzagoon/'>Zigzagoon</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/hoothoot/'>Hoothoot</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/rattata/'>Rattata</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/poochyena/'>Poochyena</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/growlithe/'>Growlithe</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/burmy/'>Burmy</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 5 - 6)
 
-```
-1. Houndour (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/houndour/'>Houndour</a> (22%)
+</code></pre>
 
 
 ---
@@ -211,79 +191,71 @@ Poké Radar (Lv. 5 - 6)
 
 Morning (Lv. 6 - 7)
 
-```
-1. Starly (20%)
-2. Budew (20%)
-3. Bellsprout (10%)
-4. Ralts (10%)
-5. Caterpie (10%)
-6. Weedle (10%)
-7. Wurmple (10%)
-8. Ledyba (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/starly/'>Starly</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/budew/'>Budew</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/bellsprout/'>Bellsprout</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/ralts/'>Ralts</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/caterpie/'>Caterpie</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/weedle/'>Weedle</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/wurmple/'>Wurmple</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/ledyba/'>Ledyba</a> (10%)
+</code></pre>
 
 Day (Lv. 6 - 7)
 
-```
-1. Starly (20%)
-2. Budew (20%)
-3. Bellsprout (10%)
-4. Ralts (10%)
-5. Caterpie (10%)
-6. Weedle (10%)
-7. Wurmple (10%)
-8. Sunkern (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/starly/'>Starly</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/budew/'>Budew</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/bellsprout/'>Bellsprout</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/ralts/'>Ralts</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/caterpie/'>Caterpie</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/weedle/'>Weedle</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/wurmple/'>Wurmple</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/sunkern/'>Sunkern</a> (10%)
+</code></pre>
 
 Night (Lv. 6 - 7)
 
-```
-1. Starly (20%)
-2. Budew (20%)
-3. Bellsprout (10%)
-4. Ralts (10%)
-5. Caterpie (10%)
-6. Weedle (10%)
-7. Oddish (10%)
-8. Spinarak (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/starly/'>Starly</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/budew/'>Budew</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/bellsprout/'>Bellsprout</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/ralts/'>Ralts</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/caterpie/'>Caterpie</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/weedle/'>Weedle</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/oddish/'>Oddish</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/spinarak/'>Spinarak</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 6 - 7)
 
-```
-1. Roselia (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/roselia/'>Roselia</a> (22%)
+</code></pre>
 
 Surf (Lv. 20 - 40)
 
-```
-1. Marill (90%)
-2. Azumarill (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/marill/'>Marill</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/azumarill/'>Azumarill</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Goldeen (30%)
-3. Corphish (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/goldeen/'>Goldeen</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/corphish/'>Corphish</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Goldeen (30%)
-3. Corphish (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/goldeen/'>Goldeen</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/corphish/'>Corphish</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Seaking (30%)
-3. Crawdaunt (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/seaking/'>Seaking</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/crawdaunt/'>Crawdaunt</a> (10%)
+</code></pre>
 
 
 ---
@@ -292,64 +264,57 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 6 - 8)
 
-```
-1. Zubat (30%)
-2. Geodude (20%)
-3. Wooper (20%)
-4. Psyduck (10%)
-5. Sandshrew (10%)
-6. Makuhita (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/wooper/'>Wooper</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/psyduck/'>Psyduck</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/sandshrew/'>Sandshrew</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/makuhita/'>Makuhita</a> (10%)
+</code></pre>
 
 Day (Lv. 6 - 8)
 
-```
-1. Zubat (30%)
-2. Geodude (20%)
-3. Wooper (20%)
-4. Psyduck (10%)
-5. Sandshrew (10%)
-6. Makuhita (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/wooper/'>Wooper</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/psyduck/'>Psyduck</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/sandshrew/'>Sandshrew</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/makuhita/'>Makuhita</a> (10%)
+</code></pre>
 
 Night (Lv. 6 - 8)
 
-```
-1. Zubat (30%)
-2. Geodude (20%)
-3. Wooper (20%)
-4. Psyduck (10%)
-5. Sandshrew (10%)
-6. Makuhita (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/wooper/'>Wooper</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/psyduck/'>Psyduck</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/sandshrew/'>Sandshrew</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/makuhita/'>Makuhita</a> (10%)
+</code></pre>
 
 Surf (Lv. 20 - 40)
 
-```
-1. Wooper (90%)
-2. Quagsire (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/wooper/'>Wooper</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/quagsire/'>Quagsire</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (65%)
-2. Barboach (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/barboach/'>Barboach</a> (35%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (65%)
-2. Barboach (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/barboach/'>Barboach</a> (35%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (65%)
-2. Whiscash (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/whiscash/'>Whiscash</a> (35%)
+</code></pre>
 
 
 ---
@@ -358,73 +323,65 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 7 - 8)
 
-```
-1. Starly (25%)
-2. Bidoof (20%)
-3. Spearow (15%)
-4. Seedot (10%)
-5. Lotad (10%)
-6. Cubone (10%)
-7. Abra (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/starly/'>Starly</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/bidoof/'>Bidoof</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/spearow/'>Spearow</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/seedot/'>Seedot</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/lotad/'>Lotad</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/cubone/'>Cubone</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/abra/'>Abra</a> (10%)
+</code></pre>
 
 Day (Lv. 7 - 8)
 
-```
-1. Starly (25%)
-2. Bidoof (20%)
-3. Spearow (15%)
-4. Seedot (10%)
-5. Lotad (10%)
-6. Cubone (10%)
-7. Abra (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/starly/'>Starly</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/bidoof/'>Bidoof</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/spearow/'>Spearow</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/seedot/'>Seedot</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/lotad/'>Lotad</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/cubone/'>Cubone</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/abra/'>Abra</a> (10%)
+</code></pre>
 
 Night (Lv. 7 - 8)
 
-```
-1. Starly (25%)
-2. Bidoof (20%)
-3. Spearow (15%)
-4. Seedot (10%)
-5. Lotad (10%)
-6. Cubone (10%)
-7. Abra (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/starly/'>Starly</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/bidoof/'>Bidoof</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/spearow/'>Spearow</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/seedot/'>Seedot</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/lotad/'>Lotad</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/cubone/'>Cubone</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/abra/'>Abra</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 7 - 8)
 
-```
-1. Pineco (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/pineco/'>Pineco</a> (22%)
+</code></pre>
 
 Surf (Lv. 20 - 40)
 
-```
-1. Psyduck (90%)
-2. Golduck (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/psyduck/'>Psyduck</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/golduck/'>Golduck</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (65%)
-2. Corphish (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/corphish/'>Corphish</a> (35%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Corphish (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/corphish/'>Corphish</a> (35%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Crawdaunt (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/crawdaunt/'>Crawdaunt</a> (35%)
+</code></pre>
 
 
 ---
@@ -433,30 +390,27 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 7 - 9)
 
-```
-1. Zubat (35%)
-2. Geodude (35%)
-3. Diglett (20%)
-4. Riolu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (35%)
+2. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (35%)
+3. <a href='/renegade-platinum-wiki/pokemon/diglett/'>Diglett</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/riolu/'>Riolu</a> (10%)
+</code></pre>
 
 Day (Lv. 7 - 9)
 
-```
-1. Zubat (35%)
-2. Geodude (35%)
-3. Diglett (20%)
-4. Riolu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (35%)
+2. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (35%)
+3. <a href='/renegade-platinum-wiki/pokemon/diglett/'>Diglett</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/riolu/'>Riolu</a> (10%)
+</code></pre>
 
 Night (Lv. 7 - 9)
 
-```
-1. Zubat (35%)
-2. Geodude (35%)
-3. Diglett (20%)
-4. Riolu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (35%)
+2. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (35%)
+3. <a href='/renegade-platinum-wiki/pokemon/diglett/'>Diglett</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/riolu/'>Riolu</a> (10%)
+</code></pre>
 
 
 ---
@@ -465,58 +419,51 @@ Night (Lv. 7 - 9)
 
 Morning (Lv. 8 - 10)
 
-```
-1. Zubat (35%)
-2. Geodude (35%)
-3. Diglett (20%)
-4. Riolu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (35%)
+2. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (35%)
+3. <a href='/renegade-platinum-wiki/pokemon/diglett/'>Diglett</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/riolu/'>Riolu</a> (10%)
+</code></pre>
 
 Day (Lv. 8 - 10)
 
-```
-1. Zubat (35%)
-2. Geodude (35%)
-3. Diglett (20%)
-4. Riolu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (35%)
+2. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (35%)
+3. <a href='/renegade-platinum-wiki/pokemon/diglett/'>Diglett</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/riolu/'>Riolu</a> (10%)
+</code></pre>
 
 Night (Lv. 8 - 10)
 
-```
-1. Zubat (35%)
-2. Geodude (35%)
-3. Diglett (20%)
-4. Riolu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (35%)
+2. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (35%)
+3. <a href='/renegade-platinum-wiki/pokemon/diglett/'>Diglett</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/riolu/'>Riolu</a> (10%)
+</code></pre>
 
 Surf (Lv. 20 - 40)
 
-```
-1. Zubat (90%)
-2. Golbat (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (65%)
-2. Barboach (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/barboach/'>Barboach</a> (35%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (65%)
-2. Barboach (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/barboach/'>Barboach</a> (35%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (65%)
-2. Whiscash (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/whiscash/'>Whiscash</a> (35%)
+</code></pre>
 
 
 ---
@@ -525,49 +472,44 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 9 - 10)
 
-```
-1. Machop (30%)
-2. Rhyhorn (20%)
-3. Ponyta (20%)
-4. Phanpy (20%)
-5. Larvitar (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/machop/'>Machop</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/rhyhorn/'>Rhyhorn</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/ponyta/'>Ponyta</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/phanpy/'>Phanpy</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/larvitar/'>Larvitar</a> (10%)
+</code></pre>
 
 Day (Lv. 9 - 10)
 
-```
-1. Machop (30%)
-2. Rhyhorn (20%)
-3. Ponyta (20%)
-4. Phanpy (20%)
-5. Larvitar (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/machop/'>Machop</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/rhyhorn/'>Rhyhorn</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/ponyta/'>Ponyta</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/phanpy/'>Phanpy</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/larvitar/'>Larvitar</a> (10%)
+</code></pre>
 
 Night (Lv. 9 - 10)
 
-```
-1. Machop (30%)
-2. Rhyhorn (20%)
-3. Ponyta (20%)
-4. Phanpy (20%)
-5. Larvitar (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/machop/'>Machop</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/rhyhorn/'>Rhyhorn</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/ponyta/'>Ponyta</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/phanpy/'>Phanpy</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/larvitar/'>Larvitar</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 9 - 10)
 
-```
-1. Stantler (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/stantler/'>Stantler</a> (22%)
+</code></pre>
 
 Honey Tree (Lv. 21)
 
-```
-1. Aipom (30%)
-2. Slakoth (20%)
-3. Metapod (20%)
-4. Kakuna (20%)
-5. Munchlax (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/aipom/'>Aipom</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/slakoth/'>Slakoth</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/metapod/'>Metapod</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/kakuna/'>Kakuna</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/munchlax/'>Munchlax</a> (10%)
+</code></pre>
 
 
 ---
@@ -576,36 +518,33 @@ Honey Tree (Lv. 21)
 
 Morning (Lv. 9 - 10)
 
-```
-1. Geodude (25%)
-2. Zubat (25%)
-3. Whismur (20%)
-4. Aron (10%)
-5. Onix (10%)
-6. Trapinch (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (25%)
+3. <a href='/renegade-platinum-wiki/pokemon/whismur/'>Whismur</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/aron/'>Aron</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/onix/'>Onix</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/trapinch/'>Trapinch</a> (10%)
+</code></pre>
 
 Day (Lv. 9 - 10)
 
-```
-1. Geodude (25%)
-2. Zubat (25%)
-3. Whismur (20%)
-4. Aron (10%)
-5. Onix (10%)
-6. Trapinch (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (25%)
+3. <a href='/renegade-platinum-wiki/pokemon/whismur/'>Whismur</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/aron/'>Aron</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/onix/'>Onix</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/trapinch/'>Trapinch</a> (10%)
+</code></pre>
 
 Night (Lv. 9 - 10)
 
-```
-1. Geodude (25%)
-2. Zubat (25%)
-3. Whismur (20%)
-4. Aron (10%)
-5. Onix (10%)
-6. Trapinch (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (25%)
+3. <a href='/renegade-platinum-wiki/pokemon/whismur/'>Whismur</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/aron/'>Aron</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/onix/'>Onix</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/trapinch/'>Trapinch</a> (10%)
+</code></pre>
 
 
 ---
@@ -614,36 +553,33 @@ Night (Lv. 9 - 10)
 
 Morning (Lv. 10 - 11)
 
-```
-1. Geodude (25%)
-2. Zubat (25%)
-3. Whismur (20%)
-4. Aron (10%)
-5. Onix (10%)
-6. Trapinch (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (25%)
+3. <a href='/renegade-platinum-wiki/pokemon/whismur/'>Whismur</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/aron/'>Aron</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/onix/'>Onix</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/trapinch/'>Trapinch</a> (10%)
+</code></pre>
 
 Day (Lv. 10 - 11)
 
-```
-1. Geodude (25%)
-2. Zubat (25%)
-3. Whismur (20%)
-4. Aron (10%)
-5. Onix (10%)
-6. Trapinch (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (25%)
+3. <a href='/renegade-platinum-wiki/pokemon/whismur/'>Whismur</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/aron/'>Aron</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/onix/'>Onix</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/trapinch/'>Trapinch</a> (10%)
+</code></pre>
 
 Night (Lv. 10 - 11)
 
-```
-1. Geodude (25%)
-2. Zubat (25%)
-3. Whismur (20%)
-4. Aron (10%)
-5. Onix (10%)
-6. Trapinch (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (25%)
+3. <a href='/renegade-platinum-wiki/pokemon/whismur/'>Whismur</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/aron/'>Aron</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/onix/'>Onix</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/trapinch/'>Trapinch</a> (10%)
+</code></pre>
 
 
 ---
@@ -652,48 +588,44 @@ Night (Lv. 10 - 11)
 
 Morning (Lv. 11 - 12)
 
-```
-1. Starly (20%)
-2. Budew (20%)
-3. Bellsprout (10%)
-4. Ralts (10%)
-5. Caterpie (10%)
-6. Weedle (10%)
-7. Wurmple (10%)
-8. Ledyba (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/starly/'>Starly</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/budew/'>Budew</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/bellsprout/'>Bellsprout</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/ralts/'>Ralts</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/caterpie/'>Caterpie</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/weedle/'>Weedle</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/wurmple/'>Wurmple</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/ledyba/'>Ledyba</a> (10%)
+</code></pre>
 
 Day (Lv. 11 - 12)
 
-```
-1. Starly (20%)
-2. Budew (20%)
-3. Bellsprout (10%)
-4. Ralts (10%)
-5. Caterpie (10%)
-6. Weedle (10%)
-7. Wurmple (10%)
-8. Sunkern (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/starly/'>Starly</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/budew/'>Budew</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/bellsprout/'>Bellsprout</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/ralts/'>Ralts</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/caterpie/'>Caterpie</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/weedle/'>Weedle</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/wurmple/'>Wurmple</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/sunkern/'>Sunkern</a> (10%)
+</code></pre>
 
 Night (Lv. 11 - 12)
 
-```
-1. Starly (20%)
-2. Budew (20%)
-3. Bellsprout (10%)
-4. Ralts (10%)
-5. Caterpie (10%)
-6. Weedle (10%)
-7. Oddish (10%)
-8. Spinarak (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/starly/'>Starly</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/budew/'>Budew</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/bellsprout/'>Bellsprout</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/ralts/'>Ralts</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/caterpie/'>Caterpie</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/weedle/'>Weedle</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/oddish/'>Oddish</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/spinarak/'>Spinarak</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 11 - 12)
 
-```
-1. Roselia (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/roselia/'>Roselia</a> (22%)
+</code></pre>
 
 
 ---
@@ -702,86 +634,77 @@ Poké Radar (Lv. 11 - 12)
 
 Morning (Lv. 11 - 13)
 
-```
-1. Magnemite (20%)
-2. Elekid (20%)
-3. Electrike (20%)
-4. Voltorb (20%)
-5. Drifloon (10%)
-6. Pachirisu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magnemite/'>Magnemite</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/elekid/'>Elekid</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/electrike/'>Electrike</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/voltorb/'>Voltorb</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/drifloon/'>Drifloon</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/pachirisu/'>Pachirisu</a> (10%)
+</code></pre>
 
 Day (Lv. 11 - 13)
 
-```
-1. Magnemite (20%)
-2. Elekid (20%)
-3. Electrike (20%)
-4. Voltorb (20%)
-5. Drifloon (10%)
-6. Pachirisu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magnemite/'>Magnemite</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/elekid/'>Elekid</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/electrike/'>Electrike</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/voltorb/'>Voltorb</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/drifloon/'>Drifloon</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/pachirisu/'>Pachirisu</a> (10%)
+</code></pre>
 
 Night (Lv. 11 - 13)
 
-```
-1. Magnemite (20%)
-2. Elekid (20%)
-3. Electrike (20%)
-4. Voltorb (20%)
-5. Drifloon (10%)
-6. Pachirisu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magnemite/'>Magnemite</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/elekid/'>Elekid</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/electrike/'>Electrike</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/voltorb/'>Voltorb</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/drifloon/'>Drifloon</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/pachirisu/'>Pachirisu</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 11 - 13)
 
-```
-1. Plusle (11%)
-2. Minun (11%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/plusle/'>Plusle</a> (11%)
+2. <a href='/renegade-platinum-wiki/pokemon/minun/'>Minun</a> (11%)
+</code></pre>
 
 Surf (Lv. 20 - 40)
 
-```
-1. Shellos (60%)
-2. Tentacool (30%)
-3. Gastrodon (5%)
-4. Tentacruel (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/shellos/'>Shellos</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/tentacool/'>Tentacool</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/gastrodon/'>Gastrodon</a> (5%)
+4. <a href='/renegade-platinum-wiki/pokemon/tentacruel/'>Tentacruel</a> (5%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Shellder (30%)
-3. Chinchou (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/shellder/'>Shellder</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/chinchou/'>Chinchou</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Shellder (30%)
-3. Chinchou (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/shellder/'>Shellder</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/chinchou/'>Chinchou</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Cloyster (30%)
-3. Lanturn (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/cloyster/'>Cloyster</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/lanturn/'>Lanturn</a> (10%)
+</code></pre>
 
 Honey Tree (Lv. 12)
 
-```
-1. Aipom (30%)
-2. Slakoth (20%)
-3. Caterpie (20%)
-4. Weedle (20%)
-5. Munchlax (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/aipom/'>Aipom</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/slakoth/'>Slakoth</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/caterpie/'>Caterpie</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/weedle/'>Weedle</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/munchlax/'>Munchlax</a> (10%)
+</code></pre>
 
 
 ---
@@ -790,13 +713,12 @@ Honey Tree (Lv. 12)
 
 Honey Tree (Lv. 12)
 
-```
-1. Cherubi (30%)
-2. Shroomish (20%)
-3. Exeggcute (20%)
-4. Seedot (20%)
-5. Tangela (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/cherubi/'>Cherubi</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/shroomish/'>Shroomish</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/exeggcute/'>Exeggcute</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/seedot/'>Seedot</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/tangela/'>Tangela</a> (10%)
+</code></pre>
 
 
 ---
@@ -805,83 +727,74 @@ Honey Tree (Lv. 12)
 
 Morning (Lv. 11 - 13)
 
-```
-1. Shellos (30%)
-2. Mareep (20%)
-3. Buizel (20%)
-4. Hoppip (20%)
-5. Pachirisu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/shellos/'>Shellos</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/mareep/'>Mareep</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/buizel/'>Buizel</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/hoppip/'>Hoppip</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/pachirisu/'>Pachirisu</a> (10%)
+</code></pre>
 
 Day (Lv. 11 - 13)
 
-```
-1. Shellos (30%)
-2. Mareep (20%)
-3. Buizel (20%)
-4. Hoppip (20%)
-5. Pachirisu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/shellos/'>Shellos</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/mareep/'>Mareep</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/buizel/'>Buizel</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/hoppip/'>Hoppip</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/pachirisu/'>Pachirisu</a> (10%)
+</code></pre>
 
 Night (Lv. 11 - 13)
 
-```
-1. Shellos (30%)
-2. Mareep (20%)
-3. Buizel (20%)
-4. Venonat (20%)
-5. Pachirisu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/shellos/'>Shellos</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/mareep/'>Mareep</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/buizel/'>Buizel</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/venonat/'>Venonat</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/pachirisu/'>Pachirisu</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 11 - 13)
 
-```
-1. Plusle (11%)
-2. Minun (11%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/plusle/'>Plusle</a> (11%)
+2. <a href='/renegade-platinum-wiki/pokemon/minun/'>Minun</a> (11%)
+</code></pre>
 
 Surf (Lv. 20 - 40)
 
-```
-1. Shellos (60%)
-2. Tentacool (30%)
-3. Gastrodon (5%)
-4. Tentacruel (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/shellos/'>Shellos</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/tentacool/'>Tentacool</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/gastrodon/'>Gastrodon</a> (5%)
+4. <a href='/renegade-platinum-wiki/pokemon/tentacruel/'>Tentacruel</a> (5%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Shellder (30%)
-3. Chinchou (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/shellder/'>Shellder</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/chinchou/'>Chinchou</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Shellder (30%)
-3. Chinchou (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/shellder/'>Shellder</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/chinchou/'>Chinchou</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Cloyster (30%)
-3. Lanturn (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/cloyster/'>Cloyster</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/lanturn/'>Lanturn</a> (10%)
+</code></pre>
 
 Honey Tree (Lv. 12)
 
-```
-1. Combee (30%)
-2. Burmy (20%)
-3. Pineco (20%)
-4. Wurmple (20%)
-5. Heracross (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/combee/'>Combee</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/burmy/'>Burmy</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/pineco/'>Pineco</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/wurmple/'>Wurmple</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/heracross/'>Heracross</a> (10%)
+</code></pre>
 
 
 ---
@@ -890,44 +803,40 @@ Honey Tree (Lv. 12)
 
 Morning (Lv. 14 - 16)
 
-```
-1. Buneary (30%)
-2. Shroomish (20%)
-3. Paras (20%)
-4. Slakoth (10%)
-5. Nincada (10%)
-6. Taillow (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/buneary/'>Buneary</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/shroomish/'>Shroomish</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/paras/'>Paras</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/slakoth/'>Slakoth</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/nincada/'>Nincada</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/taillow/'>Taillow</a> (10%)
+</code></pre>
 
 Day (Lv. 14 - 16)
 
-```
-1. Buneary (30%)
-2. Shroomish (20%)
-3. Paras (20%)
-4. Slakoth (10%)
-5. Nincada (10%)
-6. Taillow (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/buneary/'>Buneary</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/shroomish/'>Shroomish</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/paras/'>Paras</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/slakoth/'>Slakoth</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/nincada/'>Nincada</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/taillow/'>Taillow</a> (10%)
+</code></pre>
 
 Night (Lv. 14 - 16)
 
-```
-1. Buneary (30%)
-2. Shroomish (20%)
-3. Murkrow (10%)
-4. Misdreavus (10%)
-5. Slakoth (10%)
-6. Nincada (10%)
-7. Taillow (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/buneary/'>Buneary</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/shroomish/'>Shroomish</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/murkrow/'>Murkrow</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/misdreavus/'>Misdreavus</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/slakoth/'>Slakoth</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/nincada/'>Nincada</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/taillow/'>Taillow</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 14 - 16)
 
-```
-1. Beautifly (11%)
-2. Dustox (11%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/beautifly/'>Beautifly</a> (11%)
+2. <a href='/renegade-platinum-wiki/pokemon/dustox/'>Dustox</a> (11%)
+</code></pre>
 
 
 ---
@@ -936,9 +845,8 @@ Poké Radar (Lv. 14 - 16)
 
 Honey Tree (Lv. 15)
 
-```
-1. Beedrill (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/beedrill/'>Beedrill</a> (100%)
+</code></pre>
 
 
 ---
@@ -947,36 +855,33 @@ Honey Tree (Lv. 15)
 
 Morning (Lv. 15 - 18)
 
-```
-1. Gastly (40%)
-2. Rattata (30%)
-3. Duskull (10%)
-4. Shuppet (10%)
-5. Raticate (5%)
-6. Haunter (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gastly/'>Gastly</a> (40%)
+2. <a href='/renegade-platinum-wiki/pokemon/rattata/'>Rattata</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/duskull/'>Duskull</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/shuppet/'>Shuppet</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/raticate/'>Raticate</a> (5%)
+6. <a href='/renegade-platinum-wiki/pokemon/haunter/'>Haunter</a> (5%)
+</code></pre>
 
 Day (Lv. 15 - 18)
 
-```
-1. Gastly (40%)
-2. Rattata (30%)
-3. Duskull (10%)
-4. Shuppet (10%)
-5. Raticate (5%)
-6. Haunter (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gastly/'>Gastly</a> (40%)
+2. <a href='/renegade-platinum-wiki/pokemon/rattata/'>Rattata</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/duskull/'>Duskull</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/shuppet/'>Shuppet</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/raticate/'>Raticate</a> (5%)
+6. <a href='/renegade-platinum-wiki/pokemon/haunter/'>Haunter</a> (5%)
+</code></pre>
 
 Night (Lv. 15 - 18)
 
-```
-1. Gastly (40%)
-2. Rattata (30%)
-3. Duskull (10%)
-4. Shuppet (10%)
-5. Raticate (5%)
-6. Haunter (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gastly/'>Gastly</a> (40%)
+2. <a href='/renegade-platinum-wiki/pokemon/rattata/'>Rattata</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/duskull/'>Duskull</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/shuppet/'>Shuppet</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/raticate/'>Raticate</a> (5%)
+6. <a href='/renegade-platinum-wiki/pokemon/haunter/'>Haunter</a> (5%)
+</code></pre>
 
 
 ---
@@ -985,83 +890,74 @@ Night (Lv. 15 - 18)
 
 Morning (Lv. 15 - 17)
 
-```
-1. Bidoof (20%)
-2. Slowpoke (20%)
-3. Marill (20%)
-4. Croagunk (10%)
-5. Exeggcute (10%)
-6. Volbeat (10%)
-7. Illumise (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/bidoof/'>Bidoof</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/slowpoke/'>Slowpoke</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/marill/'>Marill</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/croagunk/'>Croagunk</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/exeggcute/'>Exeggcute</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/volbeat/'>Volbeat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/illumise/'>Illumise</a> (10%)
+</code></pre>
 
 Day (Lv. 15 - 17)
 
-```
-1. Bidoof (20%)
-2. Slowpoke (20%)
-3. Marill (20%)
-4. Croagunk (10%)
-5. Exeggcute (10%)
-6. Volbeat (10%)
-7. Illumise (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/bidoof/'>Bidoof</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/slowpoke/'>Slowpoke</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/marill/'>Marill</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/croagunk/'>Croagunk</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/exeggcute/'>Exeggcute</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/volbeat/'>Volbeat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/illumise/'>Illumise</a> (10%)
+</code></pre>
 
 Night (Lv. 15 - 17)
 
-```
-1. Bidoof (20%)
-2. Slowpoke (20%)
-3. Marill (20%)
-4. Croagunk (10%)
-5. Exeggcute (10%)
-6. Volbeat (10%)
-7. Illumise (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/bidoof/'>Bidoof</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/slowpoke/'>Slowpoke</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/marill/'>Marill</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/croagunk/'>Croagunk</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/exeggcute/'>Exeggcute</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/volbeat/'>Volbeat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/illumise/'>Illumise</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 15 - 17)
 
-```
-1. Yanma (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/yanma/'>Yanma</a> (22%)
+</code></pre>
 
 Surf (Lv. 20 - 40)
 
-```
-1. Marill (90%)
-2. Azumarill (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/marill/'>Marill</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/azumarill/'>Azumarill</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (65%)
-2. Corphish (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/corphish/'>Corphish</a> (35%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (65%)
-2. Corphish (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/corphish/'>Corphish</a> (35%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (65%)
-2. Crawdaunt (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/crawdaunt/'>Crawdaunt</a> (35%)
+</code></pre>
 
 Honey Tree (Lv. 16)
 
-```
-1. Starly (30%)
-2. Pidgey (20%)
-3. Hoothoot (20%)
-4. Taillow (20%)
-5. Farfetch'd (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/starly/'>Starly</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/pidgey/'>Pidgey</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/hoothoot/'>Hoothoot</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/taillow/'>Taillow</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/farfetchd/'>Farfetch'd</a> (10%)
+</code></pre>
 
 
 ---
@@ -1070,34 +966,30 @@ Honey Tree (Lv. 16)
 
 Surf (Lv. 20 - 40)
 
-```
-1. Psyduck (90%)
-2. Golduck (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/psyduck/'>Psyduck</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/golduck/'>Golduck</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Poliwag (30%)
-3. Dratini (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/poliwag/'>Poliwag</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/dratini/'>Dratini</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Poliwag (30%)
-3. Dratini (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/poliwag/'>Poliwag</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/dratini/'>Dratini</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Poliwhirl (30%)
-3. Dragonair (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/poliwhirl/'>Poliwhirl</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/dragonair/'>Dragonair</a> (10%)
+</code></pre>
 
 
 ---
@@ -1106,42 +998,38 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 16 - 18)
 
-```
-1. Meditite (30%)
-2. Machop (20%)
-3. Swablu (20%)
-4. Teddiursa (10%)
-5. Natu (10%)
-6. Chingling (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/meditite/'>Meditite</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/machop/'>Machop</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/swablu/'>Swablu</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/teddiursa/'>Teddiursa</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/natu/'>Natu</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/chingling/'>Chingling</a> (10%)
+</code></pre>
 
 Day (Lv. 16 - 18)
 
-```
-1. Meditite (30%)
-2. Machop (20%)
-3. Swablu (20%)
-4. Teddiursa (10%)
-5. Natu (10%)
-6. Chingling (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/meditite/'>Meditite</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/machop/'>Machop</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/swablu/'>Swablu</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/teddiursa/'>Teddiursa</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/natu/'>Natu</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/chingling/'>Chingling</a> (10%)
+</code></pre>
 
 Night (Lv. 16 - 18)
 
-```
-1. Meditite (30%)
-2. Machop (20%)
-3. Swablu (20%)
-4. Teddiursa (10%)
-5. Natu (10%)
-6. Chingling (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/meditite/'>Meditite</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/machop/'>Machop</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/swablu/'>Swablu</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/teddiursa/'>Teddiursa</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/natu/'>Natu</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/chingling/'>Chingling</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 16 - 18)
 
-```
-1. Tyrogue (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/tyrogue/'>Tyrogue</a> (22%)
+</code></pre>
 
 
 ---
@@ -1150,45 +1038,42 @@ Poké Radar (Lv. 16 - 18)
 
 Morning (Lv. 16 - 18)
 
-```
-1. Geodude (20%)
-2. Bronzor (20%)
-3. Cleffa (10%)
-4. Nosepass (10%)
-5. Chingling (10%)
-6. Zubat (10%)
-7. Beldum (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzor/'>Bronzor</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/cleffa/'>Cleffa</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chingling/'>Chingling</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/beldum/'>Beldum</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Day (Lv. 16 - 18)
 
-```
-1. Geodude (20%)
-2. Bronzor (20%)
-3. Cleffa (10%)
-4. Nosepass (10%)
-5. Chingling (10%)
-6. Zubat (10%)
-7. Beldum (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzor/'>Bronzor</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/cleffa/'>Cleffa</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chingling/'>Chingling</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/beldum/'>Beldum</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Night (Lv. 16 - 18)
 
-```
-1. Geodude (20%)
-2. Bronzor (20%)
-3. Cleffa (10%)
-4. Nosepass (10%)
-5. Chingling (10%)
-6. Zubat (10%)
-7. Beldum (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzor/'>Bronzor</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/cleffa/'>Cleffa</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chingling/'>Chingling</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/beldum/'>Beldum</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 
 ---
@@ -1197,52 +1082,47 @@ Night (Lv. 16 - 18)
 
 Morning (Lv. 18 - 19)
 
-```
-1. Meditite (30%)
-2. Machop (20%)
-3. Swablu (20%)
-4. Teddiursa (10%)
-5. Natu (10%)
-6. Bagon (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/meditite/'>Meditite</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/machop/'>Machop</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/swablu/'>Swablu</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/teddiursa/'>Teddiursa</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/natu/'>Natu</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/bagon/'>Bagon</a> (10%)
+</code></pre>
 
 Day (Lv. 18 - 19)
 
-```
-1. Meditite (30%)
-2. Machop (20%)
-3. Swablu (20%)
-4. Teddiursa (10%)
-5. Natu (10%)
-6. Bagon (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/meditite/'>Meditite</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/machop/'>Machop</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/swablu/'>Swablu</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/teddiursa/'>Teddiursa</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/natu/'>Natu</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/bagon/'>Bagon</a> (10%)
+</code></pre>
 
 Night (Lv. 18 - 19)
 
-```
-1. Meditite (30%)
-2. Machop (20%)
-3. Swablu (20%)
-4. Teddiursa (10%)
-5. Natu (10%)
-6. Bagon (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/meditite/'>Meditite</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/machop/'>Machop</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/swablu/'>Swablu</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/teddiursa/'>Teddiursa</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/natu/'>Natu</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/bagon/'>Bagon</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 18 - 19)
 
-```
-1. Tyrogue (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/tyrogue/'>Tyrogue</a> (22%)
+</code></pre>
 
 Honey Tree (Lv. 18)
 
-```
-1. Aipom (30%)
-2. Slakoth (20%)
-3. Metapod (20%)
-4. Kakuna (20%)
-5. Munchlax (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/aipom/'>Aipom</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/slakoth/'>Slakoth</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/metapod/'>Metapod</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/kakuna/'>Kakuna</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/munchlax/'>Munchlax</a> (10%)
+</code></pre>
 
 
 ---
@@ -1251,45 +1131,42 @@ Honey Tree (Lv. 18)
 
 Morning (Lv. 18 - 19)
 
-```
-1. Geodude (20%)
-2. Bronzor (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Zubat (10%)
-7. Beldum (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzor/'>Bronzor</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/beldum/'>Beldum</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Day (Lv. 18 - 19)
 
-```
-1. Geodude (20%)
-2. Bronzor (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Zubat (10%)
-7. Beldum (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzor/'>Bronzor</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/beldum/'>Beldum</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Night (Lv. 18 - 19)
 
-```
-1. Geodude (20%)
-2. Bronzor (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Zubat (10%)
-7. Beldum (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzor/'>Bronzor</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/beldum/'>Beldum</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 
 ---
@@ -1298,71 +1175,64 @@ Night (Lv. 18 - 19)
 
 Morning (Lv. 18 - 20)
 
-```
-1. Geodude (20%)
-2. Bronzor (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Zubat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzor/'>Bronzor</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Day (Lv. 18 - 20)
 
-```
-1. Geodude (20%)
-2. Bronzor (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Zubat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzor/'>Bronzor</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Night (Lv. 18 - 20)
 
-```
-1. Geodude (20%)
-2. Bronzor (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Zubat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzor/'>Bronzor</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Surf (Lv. 30 - 45)
 
-```
-1. Spheal (60%)
-2. Seel (30%)
-3. Sealeo (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/spheal/'>Spheal</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/seel/'>Seel</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/sealeo/'>Sealeo</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Feebas (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/feebas/'>Feebas</a> (100%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Feebas (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/feebas/'>Feebas</a> (100%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Feebas (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/feebas/'>Feebas</a> (100%)
+</code></pre>
 
 
 ---
@@ -1371,45 +1241,42 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 18 - 19)
 
-```
-1. Geodude (20%)
-2. Bronzor (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Zubat (10%)
-7. Beldum (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzor/'>Bronzor</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/beldum/'>Beldum</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Day (Lv. 18 - 19)
 
-```
-1. Geodude (20%)
-2. Bronzor (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Zubat (10%)
-7. Beldum (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzor/'>Bronzor</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/beldum/'>Beldum</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Night (Lv. 18 - 19)
 
-```
-1. Geodude (20%)
-2. Bronzor (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Zubat (10%)
-7. Beldum (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzor/'>Bronzor</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/beldum/'>Beldum</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 
 ---
@@ -1418,39 +1285,35 @@ Night (Lv. 18 - 19)
 
 Morning (Lv. 18 - 20)
 
-```
-1. Snover (30%)
-2. Swinub (25%)
-3. Smoochum (20%)
-4. Snorunt (15%)
-5. Sneasel (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/snover/'>Snover</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/swinub/'>Swinub</a> (25%)
+3. <a href='/renegade-platinum-wiki/pokemon/smoochum/'>Smoochum</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/snorunt/'>Snorunt</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/sneasel/'>Sneasel</a> (10%)
+</code></pre>
 
 Day (Lv. 18 - 20)
 
-```
-1. Snover (30%)
-2. Swinub (25%)
-3. Smoochum (20%)
-4. Snorunt (15%)
-5. Sneasel (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/snover/'>Snover</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/swinub/'>Swinub</a> (25%)
+3. <a href='/renegade-platinum-wiki/pokemon/smoochum/'>Smoochum</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/snorunt/'>Snorunt</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/sneasel/'>Sneasel</a> (10%)
+</code></pre>
 
 Night (Lv. 18 - 20)
 
-```
-1. Snover (30%)
-2. Swinub (25%)
-3. Smoochum (20%)
-4. Snorunt (15%)
-5. Sneasel (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/snover/'>Snover</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/swinub/'>Swinub</a> (25%)
+3. <a href='/renegade-platinum-wiki/pokemon/smoochum/'>Smoochum</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/snorunt/'>Snorunt</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/sneasel/'>Sneasel</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 18 - 20)
 
-```
-1. Delibird (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/delibird/'>Delibird</a> (22%)
+</code></pre>
 
 
 ---
@@ -1459,56 +1322,51 @@ Poké Radar (Lv. 18 - 20)
 
 Morning (Lv. 20 - 22)
 
-```
-1. Stunky (20%)
-2. Slugma (20%)
-3. Mankey (20%)
-4. Magby (10%)
-5. Spoink (10%)
-6. Numel (10%)
-7. Gligar (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/stunky/'>Stunky</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/slugma/'>Slugma</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/mankey/'>Mankey</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/magby/'>Magby</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/spoink/'>Spoink</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/numel/'>Numel</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/gligar/'>Gligar</a> (10%)
+</code></pre>
 
 Day (Lv. 20 - 22)
 
-```
-1. Stunky (20%)
-2. Slugma (20%)
-3. Mankey (20%)
-4. Magby (10%)
-5. Spoink (10%)
-6. Numel (10%)
-7. Gligar (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/stunky/'>Stunky</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/slugma/'>Slugma</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/mankey/'>Mankey</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/magby/'>Magby</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/spoink/'>Spoink</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/numel/'>Numel</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/gligar/'>Gligar</a> (10%)
+</code></pre>
 
 Night (Lv. 20 - 22)
 
-```
-1. Stunky (20%)
-2. Slugma (20%)
-3. Mankey (20%)
-4. Magby (10%)
-5. Spoink (10%)
-6. Numel (10%)
-7. Gligar (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/stunky/'>Stunky</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/slugma/'>Slugma</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/mankey/'>Mankey</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/magby/'>Magby</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/spoink/'>Spoink</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/numel/'>Numel</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/gligar/'>Gligar</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 20 - 22)
 
-```
-1. Torkoal (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/torkoal/'>Torkoal</a> (22%)
+</code></pre>
 
 Honey Tree (Lv. 21)
 
-```
-1. Combee (30%)
-2. Burmy (20%)
-3. Pineco (20%)
-4. Silcoon (10%)
-5. Cascoon (10%)
-6. Heracross (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/combee/'>Combee</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/burmy/'>Burmy</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/pineco/'>Pineco</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/silcoon/'>Silcoon</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/cascoon/'>Cascoon</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/heracross/'>Heracross</a> (10%)
+</code></pre>
 
 
 ---
@@ -1517,42 +1375,39 @@ Honey Tree (Lv. 21)
 
 Morning (Lv. 20 - 22)
 
-```
-1. Zubat (20%)
-2. Geodude (20%)
-3. Gible (20%)
-4. Baltoy (10%)
-5. Sandshrew (10%)
-6. Onix (10%)
-7. Sableye (5%)
-8. Mawile (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/gible/'>Gible</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/baltoy/'>Baltoy</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/sandshrew/'>Sandshrew</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/onix/'>Onix</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/sableye/'>Sableye</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/mawile/'>Mawile</a> (5%)
+</code></pre>
 
 Day (Lv. 20 - 22)
 
-```
-1. Zubat (20%)
-2. Geodude (20%)
-3. Gible (20%)
-4. Baltoy (10%)
-5. Sandshrew (10%)
-6. Onix (10%)
-7. Sableye (5%)
-8. Mawile (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/gible/'>Gible</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/baltoy/'>Baltoy</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/sandshrew/'>Sandshrew</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/onix/'>Onix</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/sableye/'>Sableye</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/mawile/'>Mawile</a> (5%)
+</code></pre>
 
 Night (Lv. 20 - 22)
 
-```
-1. Zubat (20%)
-2. Geodude (20%)
-3. Gible (20%)
-4. Baltoy (10%)
-5. Sandshrew (10%)
-6. Onix (10%)
-7. Sableye (5%)
-8. Mawile (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/gible/'>Gible</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/baltoy/'>Baltoy</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/sandshrew/'>Sandshrew</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/onix/'>Onix</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/sableye/'>Sableye</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/mawile/'>Mawile</a> (5%)
+</code></pre>
 
 
 ---
@@ -1561,73 +1416,66 @@ Night (Lv. 20 - 22)
 
 Morning (Lv. 22 - 23)
 
-```
-1. Geodude (20%)
-2. Bronzor (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzor/'>Bronzor</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Day (Lv. 22 - 23)
 
-```
-1. Geodude (20%)
-2. Bronzor (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzor/'>Bronzor</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Night (Lv. 22 - 23)
 
-```
-1. Geodude (20%)
-2. Bronzor (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/geodude/'>Geodude</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzor/'>Bronzor</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Surf (Lv. 20 - 40)
 
-```
-1. Zubat (90%)
-2. Golbat (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (65%)
-2. Barboach (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/barboach/'>Barboach</a> (35%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (65%)
-2. Barboach (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/barboach/'>Barboach</a> (35%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (65%)
-2. Whiscash (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/whiscash/'>Whiscash</a> (35%)
+</code></pre>
 
 
 ---
@@ -1636,89 +1484,80 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 23 - 24)
 
-```
-1. Bibarel (20%)
-2. Roselia (20%)
-3. Skitty (10%)
-4. Jigglypuff (10%)
-5. Kirlia (10%)
-6. Zangoose (10%)
-7. Seviper (10%)
-8. Smeargle (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/bibarel/'>Bibarel</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/roselia/'>Roselia</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/skitty/'>Skitty</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/jigglypuff/'>Jigglypuff</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/kirlia/'>Kirlia</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/zangoose/'>Zangoose</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/seviper/'>Seviper</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/smeargle/'>Smeargle</a> (10%)
+</code></pre>
 
 Day (Lv. 23 - 24)
 
-```
-1. Bibarel (20%)
-2. Roselia (20%)
-3. Skitty (10%)
-4. Jigglypuff (10%)
-5. Kirlia (10%)
-6. Zangoose (10%)
-7. Seviper (10%)
-8. Smeargle (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/bibarel/'>Bibarel</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/roselia/'>Roselia</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/skitty/'>Skitty</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/jigglypuff/'>Jigglypuff</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/kirlia/'>Kirlia</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/zangoose/'>Zangoose</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/seviper/'>Seviper</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/smeargle/'>Smeargle</a> (10%)
+</code></pre>
 
 Night (Lv. 23 - 24)
 
-```
-1. Bibarel (20%)
-2. Roselia (20%)
-3. Skitty (10%)
-4. Jigglypuff (10%)
-5. Kirlia (10%)
-6. Zangoose (10%)
-7. Seviper (10%)
-8. Smeargle (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/bibarel/'>Bibarel</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/roselia/'>Roselia</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/skitty/'>Skitty</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/jigglypuff/'>Jigglypuff</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/kirlia/'>Kirlia</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/zangoose/'>Zangoose</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/seviper/'>Seviper</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/smeargle/'>Smeargle</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 23 - 24)
 
-```
-1. Dunsparce (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/dunsparce/'>Dunsparce</a> (22%)
+</code></pre>
 
 Surf (Lv. 20 - 40)
 
-```
-1. Psyduck (90%)
-2. Golduck (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/psyduck/'>Psyduck</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/golduck/'>Golduck</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Goldeen (30%)
-3. Remoraid (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/goldeen/'>Goldeen</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/remoraid/'>Remoraid</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Goldeen (30%)
-3. Remoraid (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/goldeen/'>Goldeen</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/remoraid/'>Remoraid</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Seaking (30%)
-3. Octillery (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/seaking/'>Seaking</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/octillery/'>Octillery</a> (10%)
+</code></pre>
 
 Honey Tree (Lv. 23)
 
-```
-1. Cherubi (30%)
-2. Shroomish (20%)
-3. Exeggcute (20%)
-4. Seedot (20%)
-5. Tangela (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/cherubi/'>Cherubi</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/shroomish/'>Shroomish</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/exeggcute/'>Exeggcute</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/seedot/'>Seedot</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/tangela/'>Tangela</a> (10%)
+</code></pre>
 
 
 ---
@@ -1727,83 +1566,74 @@ Honey Tree (Lv. 23)
 
 Morning (Lv. 24 - 26)
 
-```
-1. Staravia (30%)
-2. Marill (20%)
-3. Roselia (10%)
-4. Weepinbell (10%)
-5. Gloom (10%)
-6. Kirlia (10%)
-7. Smeargle (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/staravia/'>Staravia</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/marill/'>Marill</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/roselia/'>Roselia</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/weepinbell/'>Weepinbell</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/gloom/'>Gloom</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/kirlia/'>Kirlia</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/smeargle/'>Smeargle</a> (10%)
+</code></pre>
 
 Day (Lv. 24 - 26)
 
-```
-1. Staravia (30%)
-2. Marill (20%)
-3. Roselia (10%)
-4. Weepinbell (10%)
-5. Gloom (10%)
-6. Kirlia (10%)
-7. Smeargle (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/staravia/'>Staravia</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/marill/'>Marill</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/roselia/'>Roselia</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/weepinbell/'>Weepinbell</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/gloom/'>Gloom</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/kirlia/'>Kirlia</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/smeargle/'>Smeargle</a> (10%)
+</code></pre>
 
 Night (Lv. 24 - 26)
 
-```
-1. Staravia (30%)
-2. Marill (20%)
-3. Roselia (10%)
-4. Weepinbell (10%)
-5. Gloom (10%)
-6. Kirlia (10%)
-7. Smeargle (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/staravia/'>Staravia</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/marill/'>Marill</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/roselia/'>Roselia</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/weepinbell/'>Weepinbell</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/gloom/'>Gloom</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/kirlia/'>Kirlia</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/smeargle/'>Smeargle</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 24 - 26)
 
-```
-1. Farfetch'd (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/farfetchd/'>Farfetch'd</a> (22%)
+</code></pre>
 
 Surf (Lv. 20 - 40)
 
-```
-1. Marill (90%)
-2. Azumarill (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/marill/'>Marill</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/azumarill/'>Azumarill</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (65%)
-2. Goldeen (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/goldeen/'>Goldeen</a> (35%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (65%)
-2. Goldeen (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/goldeen/'>Goldeen</a> (35%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (65%)
-2. Seaking (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/seaking/'>Seaking</a> (35%)
+</code></pre>
 
 Honey Tree (Lv. 25)
 
-```
-1. Cherubi (30%)
-2. Shroomish (20%)
-3. Exeggcute (20%)
-4. Nuzleaf (20%)
-5. Tangela (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/cherubi/'>Cherubi</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/shroomish/'>Shroomish</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/exeggcute/'>Exeggcute</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/nuzleaf/'>Nuzleaf</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/tangela/'>Tangela</a> (10%)
+</code></pre>
 
 
 ---
@@ -1812,48 +1642,44 @@ Honey Tree (Lv. 25)
 
 Morning (Lv. 24 - 26)
 
-```
-1. Pichu (20%)
-2. Pikachu (20%)
-3. Cleffa (10%)
-4. Igglybuff (10%)
-5. Togepi (10%)
-6. Porygon (10%)
-7. Happiny (10%)
-8. Eevee (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/pichu/'>Pichu</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/pikachu/'>Pikachu</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/cleffa/'>Cleffa</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/igglybuff/'>Igglybuff</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/togepi/'>Togepi</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/porygon/'>Porygon</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/happiny/'>Happiny</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/eevee/'>Eevee</a> (10%)
+</code></pre>
 
 Day (Lv. 24 - 26)
 
-```
-1. Pichu (20%)
-2. Pikachu (20%)
-3. Cleffa (10%)
-4. Igglybuff (10%)
-5. Togepi (10%)
-6. Porygon (10%)
-7. Happiny (10%)
-8. Eevee (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/pichu/'>Pichu</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/pikachu/'>Pikachu</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/cleffa/'>Cleffa</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/igglybuff/'>Igglybuff</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/togepi/'>Togepi</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/porygon/'>Porygon</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/happiny/'>Happiny</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/eevee/'>Eevee</a> (10%)
+</code></pre>
 
 Night (Lv. 24 - 26)
 
-```
-1. Pichu (20%)
-2. Pikachu (20%)
-3. Cleffa (10%)
-4. Igglybuff (10%)
-5. Togepi (10%)
-6. Porygon (10%)
-7. Happiny (10%)
-8. Eevee (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/pichu/'>Pichu</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/pikachu/'>Pikachu</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/cleffa/'>Cleffa</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/igglybuff/'>Igglybuff</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/togepi/'>Togepi</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/porygon/'>Porygon</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/happiny/'>Happiny</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/eevee/'>Eevee</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 24 - 26)
 
-```
-1. Castform (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/castform/'>Castform</a> (22%)
+</code></pre>
 
 
 ---
@@ -1862,86 +1688,77 @@ Poké Radar (Lv. 24 - 26)
 
 Morning (Lv. 24 - 26)
 
-```
-1. Staravia (20%)
-2. Glameow (20%)
-3. Vulpix (10%)
-4. Bonsly (10%)
-5. Mime Jr. (10%)
-6. Snubbull (10%)
-7. Meowth (10%)
-8. Chansey (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/staravia/'>Staravia</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/glameow/'>Glameow</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/vulpix/'>Vulpix</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/bonsly/'>Bonsly</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/mime-jr/'>Mime Jr.</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/snubbull/'>Snubbull</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/meowth/'>Meowth</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/chansey/'>Chansey</a> (10%)
+</code></pre>
 
 Day (Lv. 24 - 26)
 
-```
-1. Staravia (20%)
-2. Glameow (20%)
-3. Vulpix (10%)
-4. Bonsly (10%)
-5. Mime Jr. (10%)
-6. Snubbull (10%)
-7. Meowth (10%)
-8. Chansey (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/staravia/'>Staravia</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/glameow/'>Glameow</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/vulpix/'>Vulpix</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/bonsly/'>Bonsly</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/mime-jr/'>Mime Jr.</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/snubbull/'>Snubbull</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/meowth/'>Meowth</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/chansey/'>Chansey</a> (10%)
+</code></pre>
 
 Night (Lv. 24 - 26)
 
-```
-1. Staravia (20%)
-2. Glameow (20%)
-3. Vulpix (10%)
-4. Bonsly (10%)
-5. Mime Jr. (10%)
-6. Snubbull (10%)
-7. Meowth (10%)
-8. Chansey (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/staravia/'>Staravia</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/glameow/'>Glameow</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/vulpix/'>Vulpix</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/bonsly/'>Bonsly</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/mime-jr/'>Mime Jr.</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/snubbull/'>Snubbull</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/meowth/'>Meowth</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/chansey/'>Chansey</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 24 - 26)
 
-```
-1. Purugly (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/purugly/'>Purugly</a> (22%)
+</code></pre>
 
 Surf (Lv. 20 - 40)
 
-```
-1. Psyduck (90%)
-2. Golduck (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/psyduck/'>Psyduck</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/golduck/'>Golduck</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (65%)
-2. Goldeen (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/goldeen/'>Goldeen</a> (35%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (65%)
-2. Goldeen (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/goldeen/'>Goldeen</a> (35%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (65%)
-2. Seaking (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/seaking/'>Seaking</a> (35%)
+</code></pre>
 
 Honey Tree (Lv. 27)
 
-```
-1. Staravia (30%)
-2. Pidgeotto (20%)
-3. Noctowl (20%)
-4. Swellow (20%)
-5. Farfetch'd (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/staravia/'>Staravia</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/pidgeotto/'>Pidgeotto</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/noctowl/'>Noctowl</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/swellow/'>Swellow</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/farfetchd/'>Farfetch'd</a> (10%)
+</code></pre>
 
 
 ---
@@ -1950,42 +1767,39 @@ Honey Tree (Lv. 27)
 
 Morning (Lv. 26 - 30)
 
-```
-1. Shuppet (20%)
-2. Duskull (20%)
-3. Golbat (15%)
-4. Haunter (15%)
-5. Murkrow (10%)
-6. Misdreavus (10%)
-7. Dusclops (5%)
-8. Banette (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/shuppet/'>Shuppet</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/duskull/'>Duskull</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/haunter/'>Haunter</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/murkrow/'>Murkrow</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/misdreavus/'>Misdreavus</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/dusclops/'>Dusclops</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/banette/'>Banette</a> (5%)
+</code></pre>
 
 Day (Lv. 26 - 30)
 
-```
-1. Shuppet (20%)
-2. Duskull (20%)
-3. Golbat (15%)
-4. Haunter (15%)
-5. Murkrow (10%)
-6. Misdreavus (10%)
-7. Dusclops (5%)
-8. Banette (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/shuppet/'>Shuppet</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/duskull/'>Duskull</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/haunter/'>Haunter</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/murkrow/'>Murkrow</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/misdreavus/'>Misdreavus</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/dusclops/'>Dusclops</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/banette/'>Banette</a> (5%)
+</code></pre>
 
 Night (Lv. 26 - 30)
 
-```
-1. Shuppet (20%)
-2. Duskull (20%)
-3. Golbat (15%)
-4. Haunter (15%)
-5. Murkrow (10%)
-6. Misdreavus (10%)
-7. Dusclops (5%)
-8. Banette (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/shuppet/'>Shuppet</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/duskull/'>Duskull</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/haunter/'>Haunter</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/murkrow/'>Murkrow</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/misdreavus/'>Misdreavus</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/dusclops/'>Dusclops</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/banette/'>Banette</a> (5%)
+</code></pre>
 
 
 ---
@@ -1994,21 +1808,18 @@ Night (Lv. 26 - 30)
 
 Morning (Lv. 20 - 30)
 
-```
-1. Unown (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/unown/'>Unown</a> (100%)
+</code></pre>
 
 Day (Lv. 20 - 30)
 
-```
-1. Unown (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/unown/'>Unown</a> (100%)
+</code></pre>
 
 Night (Lv. 20 - 30)
 
-```
-1. Unown (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/unown/'>Unown</a> (100%)
+</code></pre>
 
 
 ---
@@ -2017,60 +1828,55 @@ Night (Lv. 20 - 30)
 
 Morning (Lv. 28 - 30)
 
-```
-1. Kricketune (20%)
-2. Nuzleaf (20%)
-3. Scyther (15%)
-4. Pinsir (10%)
-5. Miltank (10%)
-6. Tauros (10%)
-7. Pidgeotto (10%)
-8. Rapidash (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/kricketune/'>Kricketune</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/nuzleaf/'>Nuzleaf</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/scyther/'>Scyther</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/pinsir/'>Pinsir</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/miltank/'>Miltank</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/tauros/'>Tauros</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/pidgeotto/'>Pidgeotto</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/rapidash/'>Rapidash</a> (5%)
+</code></pre>
 
 Day (Lv. 28 - 30)
 
-```
-1. Kricketune (20%)
-2. Nuzleaf (20%)
-3. Scyther (15%)
-4. Pinsir (10%)
-5. Miltank (10%)
-6. Tauros (10%)
-7. Pidgeotto (10%)
-8. Rapidash (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/kricketune/'>Kricketune</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/nuzleaf/'>Nuzleaf</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/scyther/'>Scyther</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/pinsir/'>Pinsir</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/miltank/'>Miltank</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/tauros/'>Tauros</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/pidgeotto/'>Pidgeotto</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/rapidash/'>Rapidash</a> (5%)
+</code></pre>
 
 Night (Lv. 28 - 30)
 
-```
-1. Kricketune (20%)
-2. Nuzleaf (20%)
-3. Scyther (15%)
-4. Pinsir (10%)
-5. Miltank (10%)
-6. Tauros (10%)
-7. Noctowl (10%)
-8. Rapidash (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/kricketune/'>Kricketune</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/nuzleaf/'>Nuzleaf</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/scyther/'>Scyther</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/pinsir/'>Pinsir</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/miltank/'>Miltank</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/tauros/'>Tauros</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/noctowl/'>Noctowl</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/rapidash/'>Rapidash</a> (5%)
+</code></pre>
 
 Poké Radar (Lv. 28 - 30)
 
-```
-1. Kecleon (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/kecleon/'>Kecleon</a> (22%)
+</code></pre>
 
 Honey Tree (Lv. 29)
 
-```
-1. Combee (30%)
-2. Pineco (20%)
-3. Silcoon (10%)
-4. Cascoon (10%)
-5. Wormadam (10%)
-6. Mothim (10%)
-7. Heracross (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/combee/'>Combee</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/pineco/'>Pineco</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/silcoon/'>Silcoon</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/cascoon/'>Cascoon</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/wormadam-plant/'>Wormadam</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/mothim/'>Mothim</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/heracross/'>Heracross</a> (10%)
+</code></pre>
 
 
 ---
@@ -2079,55 +1885,50 @@ Honey Tree (Lv. 29)
 
 Morning (Lv. 27 - 30)
 
-```
-1. Marill (25%)
-2. Drowzee (20%)
-3. Lickitung (15%)
-4. Kadabra (15%)
-5. Mightyena (10%)
-6. Linoone (10%)
-7. Hypno (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/marill/'>Marill</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/drowzee/'>Drowzee</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/lickitung/'>Lickitung</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/kadabra/'>Kadabra</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/mightyena/'>Mightyena</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/linoone/'>Linoone</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/hypno/'>Hypno</a> (5%)
+</code></pre>
 
 Day (Lv. 27 - 30)
 
-```
-1. Marill (25%)
-2. Drowzee (20%)
-3. Lickitung (15%)
-4. Kadabra (15%)
-5. Mightyena (10%)
-6. Linoone (10%)
-7. Hypno (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/marill/'>Marill</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/drowzee/'>Drowzee</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/lickitung/'>Lickitung</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/kadabra/'>Kadabra</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/mightyena/'>Mightyena</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/linoone/'>Linoone</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/hypno/'>Hypno</a> (5%)
+</code></pre>
 
 Night (Lv. 27 - 30)
 
-```
-1. Marill (25%)
-2. Drowzee (20%)
-3. Lickitung (15%)
-4. Kadabra (15%)
-5. Mightyena (10%)
-6. Linoone (10%)
-7. Hypno (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/marill/'>Marill</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/drowzee/'>Drowzee</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/lickitung/'>Lickitung</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/kadabra/'>Kadabra</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/mightyena/'>Mightyena</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/linoone/'>Linoone</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/hypno/'>Hypno</a> (5%)
+</code></pre>
 
 Poké Radar (Lv. 27 - 30)
 
-```
-1. Absol (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/absol/'>Absol</a> (22%)
+</code></pre>
 
 Honey Tree (Lv. 28)
 
-```
-1. Aipom (30%)
-2. Vigoroth (20%)
-3. Metapod (20%)
-4. Kakuna (20%)
-5. Munchlax (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/aipom/'>Aipom</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/vigoroth/'>Vigoroth</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/metapod/'>Metapod</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/kakuna/'>Kakuna</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/munchlax/'>Munchlax</a> (10%)
+</code></pre>
 
 
 ---
@@ -2136,80 +1937,71 @@ Honey Tree (Lv. 28)
 
 Morning (Lv. 28 - 32)
 
-```
-1. Graveler (30%)
-2. Houndour (20%)
-3. Rhyhorn (15%)
-4. Numel (15%)
-5. Spoink (10%)
-6. Cacnea (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/houndour/'>Houndour</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/rhyhorn/'>Rhyhorn</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/numel/'>Numel</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/spoink/'>Spoink</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/cacnea/'>Cacnea</a> (10%)
+</code></pre>
 
 Day (Lv. 28 - 32)
 
-```
-1. Graveler (30%)
-2. Houndour (20%)
-3. Rhyhorn (15%)
-4. Numel (15%)
-5. Spoink (10%)
-6. Cacnea (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/houndour/'>Houndour</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/rhyhorn/'>Rhyhorn</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/numel/'>Numel</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/spoink/'>Spoink</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/cacnea/'>Cacnea</a> (10%)
+</code></pre>
 
 Night (Lv. 28 - 32)
 
-```
-1. Graveler (30%)
-2. Houndour (20%)
-3. Rhyhorn (15%)
-4. Numel (15%)
-5. Spoink (10%)
-6. Cacnea (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/houndour/'>Houndour</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/rhyhorn/'>Rhyhorn</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/numel/'>Numel</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/spoink/'>Spoink</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/cacnea/'>Cacnea</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 28 - 32)
 
-```
-1. Spinda (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/spinda/'>Spinda</a> (22%)
+</code></pre>
 
 Surf (Lv. 20 - 40)
 
-```
-1. Psyduck (90%)
-2. Golduck (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/psyduck/'>Psyduck</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/golduck/'>Golduck</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (65%)
-2. Goldeen (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/goldeen/'>Goldeen</a> (35%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (65%)
-2. Goldeen (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/goldeen/'>Goldeen</a> (35%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (65%)
-2. Seaking (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/seaking/'>Seaking</a> (35%)
+</code></pre>
 
 Honey Tree (Lv. 30)
 
-```
-1. Aipom (30%)
-2. Vigoroth (20%)
-3. Butterfree (20%)
-4. Beedrill (20%)
-5. Munchlax (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/aipom/'>Aipom</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/vigoroth/'>Vigoroth</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/butterfree/'>Butterfree</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/beedrill/'>Beedrill</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/munchlax/'>Munchlax</a> (10%)
+</code></pre>
 
 
 ---
@@ -2218,39 +2010,36 @@ Honey Tree (Lv. 30)
 
 Morning (Lv. 28 - 32)
 
-```
-1. Diglett (25%)
-2. Whismur (20%)
-3. Hippopotas (15%)
-4. Trapinch (15%)
-5. Loudred (10%)
-6. Ditto (10%)
-7. Dugtrio (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/diglett/'>Diglett</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/whismur/'>Whismur</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/hippopotas/'>Hippopotas</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/trapinch/'>Trapinch</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/loudred/'>Loudred</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/ditto/'>Ditto</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/dugtrio/'>Dugtrio</a> (5%)
+</code></pre>
 
 Day (Lv. 28 - 32)
 
-```
-1. Diglett (25%)
-2. Whismur (20%)
-3. Hippopotas (15%)
-4. Trapinch (15%)
-5. Loudred (10%)
-6. Ditto (10%)
-7. Dugtrio (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/diglett/'>Diglett</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/whismur/'>Whismur</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/hippopotas/'>Hippopotas</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/trapinch/'>Trapinch</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/loudred/'>Loudred</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/ditto/'>Ditto</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/dugtrio/'>Dugtrio</a> (5%)
+</code></pre>
 
 Night (Lv. 28 - 32)
 
-```
-1. Diglett (25%)
-2. Whismur (20%)
-3. Hippopotas (15%)
-4. Trapinch (15%)
-5. Loudred (10%)
-6. Ditto (10%)
-7. Dugtrio (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/diglett/'>Diglett</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/whismur/'>Whismur</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/hippopotas/'>Hippopotas</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/trapinch/'>Trapinch</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/loudred/'>Loudred</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/ditto/'>Ditto</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/dugtrio/'>Dugtrio</a> (5%)
+</code></pre>
 
 
 ---
@@ -2259,39 +2048,35 @@ Night (Lv. 28 - 32)
 
 Morning (Lv. 31 - 33)
 
-```
-1. Girafarig (30%)
-2. Bibarel (20%)
-3. Nidorina (20%)
-4. Nidorino (20%)
-5. Kricketune (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/girafarig/'>Girafarig</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/bibarel/'>Bibarel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/nidorina/'>Nidorina</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/nidorino/'>Nidorino</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/kricketune/'>Kricketune</a> (10%)
+</code></pre>
 
 Day (Lv. 31 - 33)
 
-```
-1. Girafarig (30%)
-2. Bibarel (20%)
-3. Nidorina (20%)
-4. Nidorino (20%)
-5. Kricketune (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/girafarig/'>Girafarig</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/bibarel/'>Bibarel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/nidorina/'>Nidorina</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/nidorino/'>Nidorino</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/kricketune/'>Kricketune</a> (10%)
+</code></pre>
 
 Night (Lv. 31 - 33)
 
-```
-1. Girafarig (30%)
-2. Bibarel (20%)
-3. Nidorina (20%)
-4. Nidorino (20%)
-5. Kricketune (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/girafarig/'>Girafarig</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/bibarel/'>Bibarel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/nidorina/'>Nidorina</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/nidorino/'>Nidorino</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/kricketune/'>Kricketune</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 31 - 33)
 
-```
-1. Venomoth (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/venomoth/'>Venomoth</a> (22%)
+</code></pre>
 
 
 ---
@@ -2300,84 +2085,75 @@ Poké Radar (Lv. 31 - 33)
 
 Morning (Lv. 32 - 34)
 
-```
-1. Gastrodon (25%)
-2. Floatzel (20%)
-3. Pelipper (20%)
-4. Swellow (20%)
-5. Chatot (10%)
-6. Shuckle (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gastrodon/'>Gastrodon</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/pelipper/'>Pelipper</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/swellow/'>Swellow</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/chatot/'>Chatot</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/shuckle/'>Shuckle</a> (5%)
+</code></pre>
 
 Day (Lv. 32 - 34)
 
-```
-1. Gastrodon (25%)
-2. Floatzel (20%)
-3. Pelipper (20%)
-4. Swellow (20%)
-5. Chatot (10%)
-6. Shuckle (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gastrodon/'>Gastrodon</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/pelipper/'>Pelipper</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/swellow/'>Swellow</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/chatot/'>Chatot</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/shuckle/'>Shuckle</a> (5%)
+</code></pre>
 
 Night (Lv. 32 - 34)
 
-```
-1. Gastrodon (35%)
-2. Floatzel (20%)
-3. Pelipper (20%)
-4. Swellow (20%)
-5. Shuckle (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gastrodon/'>Gastrodon</a> (35%)
+2. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/pelipper/'>Pelipper</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/swellow/'>Swellow</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/shuckle/'>Shuckle</a> (5%)
+</code></pre>
 
 Poké Radar (Lv. 32 - 34)
 
-```
-1. Absol (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/absol/'>Absol</a> (22%)
+</code></pre>
 
 Surf (Lv. 20 - 40)
 
-```
-1. Tentacool (60%)
-2. Wingull (30%)
-3. Tentacruel (5%)
-4. Pelipper (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/tentacool/'>Tentacool</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/wingull/'>Wingull</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/tentacruel/'>Tentacruel</a> (5%)
+4. <a href='/renegade-platinum-wiki/pokemon/pelipper/'>Pelipper</a> (5%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Remoraid (30%)
-3. Wailmer (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/remoraid/'>Remoraid</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/wailmer/'>Wailmer</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Remoraid (30%)
-3. Wailmer (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/remoraid/'>Remoraid</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/wailmer/'>Wailmer</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Octillery (30%)
-3. Wailord (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/octillery/'>Octillery</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/wailord/'>Wailord</a> (10%)
+</code></pre>
 
 Honey Tree (Lv. 33)
 
-```
-1. Staravia (30%)
-2. Pidgeotto (20%)
-3. Noctowl (20%)
-4. Swellow (20%)
-5. Farfetch'd (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/staravia/'>Staravia</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/pidgeotto/'>Pidgeotto</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/noctowl/'>Noctowl</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/swellow/'>Swellow</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/farfetchd/'>Farfetch'd</a> (10%)
+</code></pre>
 
 
 ---
@@ -2386,36 +2162,32 @@ Honey Tree (Lv. 33)
 
 Surf (Lv. 20 - 40)
 
-```
-1. Tentacool (60%)
-2. Shellos (30%)
-3. Tentacruel (5%)
-4. Gastrodon (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/tentacool/'>Tentacool</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/shellos/'>Shellos</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/tentacruel/'>Tentacruel</a> (5%)
+4. <a href='/renegade-platinum-wiki/pokemon/gastrodon/'>Gastrodon</a> (5%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Poliwag (30%)
-3. Carvanha (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/poliwag/'>Poliwag</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/carvanha/'>Carvanha</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Poliwag (30%)
-3. Carvanha (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/poliwag/'>Poliwag</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/carvanha/'>Carvanha</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Poliwhirl (30%)
-3. Sharpedo (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/poliwhirl/'>Poliwhirl</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/sharpedo/'>Sharpedo</a> (10%)
+</code></pre>
 
 
 ---
@@ -2424,64 +2196,57 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 33 - 36)
 
-```
-1. Bibarel (30%)
-2. Quagsire (20%)
-3. Tropius (20%)
-4. Tangela (20%)
-5. Carnivine (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/bibarel/'>Bibarel</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/quagsire/'>Quagsire</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/tropius/'>Tropius</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/tangela/'>Tangela</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/carnivine/'>Carnivine</a> (10%)
+</code></pre>
 
 Day (Lv. 33 - 36)
 
-```
-1. Bibarel (30%)
-2. Quagsire (20%)
-3. Tropius (20%)
-4. Tangela (20%)
-5. Carnivine (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/bibarel/'>Bibarel</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/quagsire/'>Quagsire</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/tropius/'>Tropius</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/tangela/'>Tangela</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/carnivine/'>Carnivine</a> (10%)
+</code></pre>
 
 Night (Lv. 33 - 36)
 
-```
-1. Bibarel (30%)
-2. Quagsire (20%)
-3. Tropius (20%)
-4. Tangela (20%)
-5. Carnivine (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/bibarel/'>Bibarel</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/quagsire/'>Quagsire</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/tropius/'>Tropius</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/tangela/'>Tangela</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/carnivine/'>Carnivine</a> (10%)
+</code></pre>
 
 Surf (Lv. 20 - 40)
 
-```
-1. Wooper (90%)
-2. Quagsire (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/wooper/'>Wooper</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/quagsire/'>Quagsire</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Barboach (30%)
-3. Carvanha (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/barboach/'>Barboach</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/carvanha/'>Carvanha</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Barboach (30%)
-3. Carvanha (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/barboach/'>Barboach</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/carvanha/'>Carvanha</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Whiscash (30%)
-3. Sharpedo (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/whiscash/'>Whiscash</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/sharpedo/'>Sharpedo</a> (10%)
+</code></pre>
 
 
 ---
@@ -2490,67 +2255,60 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 33 - 36)
 
-```
-1. Parasect (30%)
-2. Exeggcute (20%)
-3. Croagunk (20%)
-4. Toxicroak (10%)
-5. Kangaskhan (10%)
-6. Yanma (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/parasect/'>Parasect</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/exeggcute/'>Exeggcute</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/croagunk/'>Croagunk</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/toxicroak/'>Toxicroak</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/kangaskhan/'>Kangaskhan</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/yanma/'>Yanma</a> (10%)
+</code></pre>
 
 Day (Lv. 33 - 36)
 
-```
-1. Parasect (30%)
-2. Exeggcute (20%)
-3. Croagunk (20%)
-4. Toxicroak (10%)
-5. Kangaskhan (10%)
-6. Yanma (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/parasect/'>Parasect</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/exeggcute/'>Exeggcute</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/croagunk/'>Croagunk</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/toxicroak/'>Toxicroak</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/kangaskhan/'>Kangaskhan</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/yanma/'>Yanma</a> (10%)
+</code></pre>
 
 Night (Lv. 33 - 36)
 
-```
-1. Parasect (30%)
-2. Exeggcute (20%)
-3. Croagunk (20%)
-4. Toxicroak (10%)
-5. Kangaskhan (10%)
-6. Yanma (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/parasect/'>Parasect</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/exeggcute/'>Exeggcute</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/croagunk/'>Croagunk</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/toxicroak/'>Toxicroak</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/kangaskhan/'>Kangaskhan</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/yanma/'>Yanma</a> (10%)
+</code></pre>
 
 Surf (Lv. 20 - 40)
 
-```
-1. Wooper (90%)
-2. Quagsire (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/wooper/'>Wooper</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/quagsire/'>Quagsire</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Barboach (30%)
-3. Carvanha (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/barboach/'>Barboach</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/carvanha/'>Carvanha</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Barboach (30%)
-3. Carvanha (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/barboach/'>Barboach</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/carvanha/'>Carvanha</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Whiscash (30%)
-3. Sharpedo (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/whiscash/'>Whiscash</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/sharpedo/'>Sharpedo</a> (10%)
+</code></pre>
 
 
 ---
@@ -2559,67 +2317,60 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 33 - 36)
 
-```
-1. Skorupi (30%)
-2. Gulpin (20%)
-3. Shroomish (20%)
-4. Swalot (10%)
-5. Breloom (10%)
-6. Drapion (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/skorupi/'>Skorupi</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/gulpin/'>Gulpin</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/shroomish/'>Shroomish</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/swalot/'>Swalot</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/breloom/'>Breloom</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/drapion/'>Drapion</a> (10%)
+</code></pre>
 
 Day (Lv. 33 - 36)
 
-```
-1. Skorupi (30%)
-2. Gulpin (20%)
-3. Shroomish (20%)
-4. Swalot (10%)
-5. Breloom (10%)
-6. Drapion (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/skorupi/'>Skorupi</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/gulpin/'>Gulpin</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/shroomish/'>Shroomish</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/swalot/'>Swalot</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/breloom/'>Breloom</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/drapion/'>Drapion</a> (10%)
+</code></pre>
 
 Night (Lv. 33 - 36)
 
-```
-1. Skorupi (30%)
-2. Gulpin (20%)
-3. Shroomish (20%)
-4. Swalot (10%)
-5. Breloom (10%)
-6. Drapion (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/skorupi/'>Skorupi</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/gulpin/'>Gulpin</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/shroomish/'>Shroomish</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/swalot/'>Swalot</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/breloom/'>Breloom</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/drapion/'>Drapion</a> (10%)
+</code></pre>
 
 Surf (Lv. 20 - 40)
 
-```
-1. Wooper (90%)
-2. Quagsire (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/wooper/'>Wooper</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/quagsire/'>Quagsire</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Barboach (30%)
-3. Carvanha (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/barboach/'>Barboach</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/carvanha/'>Carvanha</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Barboach (30%)
-3. Carvanha (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/barboach/'>Barboach</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/carvanha/'>Carvanha</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Whiscash (30%)
-3. Sharpedo (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/whiscash/'>Whiscash</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/sharpedo/'>Sharpedo</a> (10%)
+</code></pre>
 
 
 ---
@@ -2628,92 +2379,83 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 33 - 36)
 
-```
-1. Croagunk (20%)
-2. Grimer (20%)
-3. Koffing (15%)
-4. Ekans (15%)
-5. Weepinbell (10%)
-6. Lombre (10%)
-7. Arbok (5%)
-8. Toxicroak (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/croagunk/'>Croagunk</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/grimer/'>Grimer</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/koffing/'>Koffing</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/ekans/'>Ekans</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/weepinbell/'>Weepinbell</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/lombre/'>Lombre</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/arbok/'>Arbok</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/toxicroak/'>Toxicroak</a> (5%)
+</code></pre>
 
 Day (Lv. 33 - 36)
 
-```
-1. Croagunk (20%)
-2. Grimer (20%)
-3. Koffing (15%)
-4. Ekans (15%)
-5. Weepinbell (10%)
-6. Lombre (10%)
-7. Arbok (5%)
-8. Toxicroak (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/croagunk/'>Croagunk</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/grimer/'>Grimer</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/koffing/'>Koffing</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/ekans/'>Ekans</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/weepinbell/'>Weepinbell</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/lombre/'>Lombre</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/arbok/'>Arbok</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/toxicroak/'>Toxicroak</a> (5%)
+</code></pre>
 
 Night (Lv. 33 - 36)
 
-```
-1. Croagunk (20%)
-2. Grimer (20%)
-3. Koffing (15%)
-4. Ekans (15%)
-5. Weepinbell (10%)
-6. Lombre (10%)
-7. Arbok (5%)
-8. Toxicroak (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/croagunk/'>Croagunk</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/grimer/'>Grimer</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/koffing/'>Koffing</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/ekans/'>Ekans</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/weepinbell/'>Weepinbell</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/lombre/'>Lombre</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/arbok/'>Arbok</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/toxicroak/'>Toxicroak</a> (5%)
+</code></pre>
 
 Poké Radar (Lv. 33 - 36)
 
-```
-1. Muk (11%)
-2. Weezing (11%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/muk/'>Muk</a> (11%)
+2. <a href='/renegade-platinum-wiki/pokemon/weezing/'>Weezing</a> (11%)
+</code></pre>
 
 Surf (Lv. 20 - 40)
 
-```
-1. Shellos (60%)
-2. Wooper (30%)
-3. Gastrodon (5%)
-4. Quagsire (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/shellos/'>Shellos</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/wooper/'>Wooper</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/gastrodon/'>Gastrodon</a> (5%)
+4. <a href='/renegade-platinum-wiki/pokemon/quagsire/'>Quagsire</a> (5%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Barboach (30%)
-3. Remoraid (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/barboach/'>Barboach</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/remoraid/'>Remoraid</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Barboach (30%)
-3. Remoraid (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/barboach/'>Barboach</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/remoraid/'>Remoraid</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Whiscash (30%)
-3. Octillery (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/whiscash/'>Whiscash</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/octillery/'>Octillery</a> (10%)
+</code></pre>
 
 Honey Tree (Lv. 34)
 
-```
-1. Cherrim (30%)
-2. Shroomish (20%)
-3. Exeggcute (20%)
-4. Nuzleaf (20%)
-5. Tangela (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/cherrim/'>Cherrim</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/shroomish/'>Shroomish</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/exeggcute/'>Exeggcute</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/nuzleaf/'>Nuzleaf</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/tangela/'>Tangela</a> (10%)
+</code></pre>
 
 
 ---
@@ -2722,89 +2464,80 @@ Honey Tree (Lv. 34)
 
 Morning (Lv. 34 - 38)
 
-```
-1. Swablu (20%)
-2. Fearow (20%)
-3. Machoke (10%)
-4. Drifblim (10%)
-5. Zangoose (10%)
-6. Seviper (10%)
-7. Skarmory (10%)
-8. Shelgon (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/swablu/'>Swablu</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/fearow/'>Fearow</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/drifblim/'>Drifblim</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/zangoose/'>Zangoose</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/seviper/'>Seviper</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/skarmory/'>Skarmory</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/shelgon/'>Shelgon</a> (10%)
+</code></pre>
 
 Day (Lv. 34 - 38)
 
-```
-1. Swablu (20%)
-2. Fearow (20%)
-3. Machoke (10%)
-4. Drifblim (10%)
-5. Zangoose (10%)
-6. Seviper (10%)
-7. Skarmory (10%)
-8. Shelgon (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/swablu/'>Swablu</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/fearow/'>Fearow</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/drifblim/'>Drifblim</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/zangoose/'>Zangoose</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/seviper/'>Seviper</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/skarmory/'>Skarmory</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/shelgon/'>Shelgon</a> (10%)
+</code></pre>
 
 Night (Lv. 34 - 38)
 
-```
-1. Swablu (20%)
-2. Fearow (20%)
-3. Machoke (10%)
-4. Drifblim (10%)
-5. Zangoose (10%)
-6. Seviper (10%)
-7. Skarmory (10%)
-8. Shelgon (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/swablu/'>Swablu</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/fearow/'>Fearow</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/drifblim/'>Drifblim</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/zangoose/'>Zangoose</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/seviper/'>Seviper</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/skarmory/'>Skarmory</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/shelgon/'>Shelgon</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 34 - 38)
 
-```
-1. Altaria (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/altaria/'>Altaria</a> (22%)
+</code></pre>
 
 Surf (Lv. 20 - 40)
 
-```
-1. Psyduck (90%)
-2. Golduck (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/psyduck/'>Psyduck</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/golduck/'>Golduck</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Horsea (30%)
-3. Dratini (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/horsea/'>Horsea</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/dratini/'>Dratini</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Horsea (30%)
-3. Dratini (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/horsea/'>Horsea</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/dratini/'>Dratini</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Seadra (30%)
-3. Dragonair (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/seadra/'>Seadra</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/dragonair/'>Dragonair</a> (10%)
+</code></pre>
 
 Honey Tree (Lv. 37)
 
-```
-1. Staravia (30%)
-2. Pidgeotto (20%)
-3. Noctowl (20%)
-4. Swellow (20%)
-5. Farfetch'd (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/staravia/'>Staravia</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/pidgeotto/'>Pidgeotto</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/noctowl/'>Noctowl</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/swellow/'>Swellow</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/farfetchd/'>Farfetch'd</a> (10%)
+</code></pre>
 
 
 ---
@@ -2813,31 +2546,27 @@ Honey Tree (Lv. 37)
 
 Surf (Lv. 20 - 40)
 
-```
-1. Psyduck (90%)
-2. Golduck (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/psyduck/'>Psyduck</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/golduck/'>Golduck</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (90%)
-2. Relicanth (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/relicanth/'>Relicanth</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (90%)
-2. Relicanth (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/relicanth/'>Relicanth</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (90%)
-2. Relicanth (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/relicanth/'>Relicanth</a> (10%)
+</code></pre>
 
 
 ---
@@ -2848,37 +2577,33 @@ Wild Levels: 30 - 45 (Surfing)
 
 Surf (Lv. 20 - 40)
 
-```
-1. Wingull (60%)
-2. Tentacool (30%)
-3. Pelipper (5%)
-4. Tentacruel (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/wingull/'>Wingull</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/tentacool/'>Tentacool</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/pelipper/'>Pelipper</a> (5%)
+4. <a href='/renegade-platinum-wiki/pokemon/tentacruel/'>Tentacruel</a> (5%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Krabby (60%)
-2. Horsea (30%)
-3. Clamperl (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/krabby/'>Krabby</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/horsea/'>Horsea</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/clamperl/'>Clamperl</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Krabby (60%)
-2. Horsea (30%)
-3. Clamperl (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/krabby/'>Krabby</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/horsea/'>Horsea</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/clamperl/'>Clamperl</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Kingler (60%)
-2. Horsea (30%)
-3. Huntail (5%)
-4. Gorebyss (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/kingler/'>Kingler</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/horsea/'>Horsea</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/huntail/'>Huntail</a> (5%)
+4. <a href='/renegade-platinum-wiki/pokemon/gorebyss/'>Gorebyss</a> (5%)
+</code></pre>
 
 
 ---
@@ -2889,36 +2614,32 @@ Wild Levels: 30 - 45 (Surfing)
 
 Surf (Lv. 20 - 40)
 
-```
-1. Wingull (60%)
-2. Mantyke (30%)
-3. Pelipper (5%)
-4. Mantine (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/wingull/'>Wingull</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/mantyke/'>Mantyke</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/pelipper/'>Pelipper</a> (5%)
+4. <a href='/renegade-platinum-wiki/pokemon/mantine/'>Mantine</a> (5%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Luvdisc (60%)
-2. Horsea (30%)
-3. Corsola (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/luvdisc/'>Luvdisc</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/horsea/'>Horsea</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/corsola/'>Corsola</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Luvdisc (60%)
-2. Horsea (30%)
-3. Corsola (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/luvdisc/'>Luvdisc</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/horsea/'>Horsea</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/corsola/'>Corsola</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Luvdisc (60%)
-2. Seadra (30%)
-3. Corsola (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/luvdisc/'>Luvdisc</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/seadra/'>Seadra</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/corsola/'>Corsola</a> (10%)
+</code></pre>
 
 
 ---
@@ -2927,85 +2648,77 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 38 - 40)
 
-```
-1. Sudowoodo (20%)
-2. Skuntank (20%)
-3. Nidorina (15%)
-4. Nidorino (15%)
-5. Farfetch'd (10%)
-6. Girafarig (10%)
-7. Dodrio (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/sudowoodo/'>Sudowoodo</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/skuntank/'>Skuntank</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/nidorina/'>Nidorina</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/nidorino/'>Nidorino</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/farfetchd/'>Farfetch'd</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/girafarig/'>Girafarig</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/dodrio/'>Dodrio</a> (10%)
+</code></pre>
 
 Day (Lv. 38 - 40)
 
-```
-1. Sudowoodo (20%)
-2. Skuntank (20%)
-3. Nidorina (15%)
-4. Nidorino (15%)
-5. Farfetch'd (10%)
-6. Girafarig (10%)
-7. Dodrio (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/sudowoodo/'>Sudowoodo</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/skuntank/'>Skuntank</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/nidorina/'>Nidorina</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/nidorino/'>Nidorino</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/farfetchd/'>Farfetch'd</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/girafarig/'>Girafarig</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/dodrio/'>Dodrio</a> (10%)
+</code></pre>
 
 Night (Lv. 38 - 40)
 
-```
-1. Sudowoodo (20%)
-2. Skuntank (20%)
-3. Nidorina (15%)
-4. Nidorino (15%)
-5. Farfetch'd (10%)
-6. Girafarig (10%)
-7. Dodrio (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/sudowoodo/'>Sudowoodo</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/skuntank/'>Skuntank</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/nidorina/'>Nidorina</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/nidorino/'>Nidorino</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/farfetchd/'>Farfetch'd</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/girafarig/'>Girafarig</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/dodrio/'>Dodrio</a> (10%)
+</code></pre>
 
 Poké Radar  -
 
 Surf (Lv. 30 - 45)
 
-```
-1. Wingull (60%)
-2. Tentacool (30%)
-3. Pelipper (5%)
-4. Tentacruel (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/wingull/'>Wingull</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/tentacool/'>Tentacool</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/pelipper/'>Pelipper</a> (5%)
+4. <a href='/renegade-platinum-wiki/pokemon/tentacruel/'>Tentacruel</a> (5%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Krabby (60%)
-2. Horsea (30%)
-3. Clamperl (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/krabby/'>Krabby</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/horsea/'>Horsea</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/clamperl/'>Clamperl</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Krabby (60%)
-2. Horsea (30%)
-3. Clamperl (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/krabby/'>Krabby</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/horsea/'>Horsea</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/clamperl/'>Clamperl</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Kingler (60%)
-2. Horsea (30%)
-3. Huntail (5%)
-4. Gorebyss (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/kingler/'>Kingler</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/horsea/'>Horsea</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/huntail/'>Huntail</a> (5%)
+4. <a href='/renegade-platinum-wiki/pokemon/gorebyss/'>Gorebyss</a> (5%)
+</code></pre>
 
 Honey Tree (Lv. 39)
 
-```
-1. Cherrim (30%)
-2. Shroomish (20%)
-3. Exeggcute (20%)
-4. Nuzleaf (20%)
-5. Tangela (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/cherrim/'>Cherrim</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/shroomish/'>Shroomish</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/exeggcute/'>Exeggcute</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/nuzleaf/'>Nuzleaf</a> (20%)
+5. <a href='/renegade-platinum-wiki/pokemon/tangela/'>Tangela</a> (10%)
+</code></pre>
 
 
 ---
@@ -3014,82 +2727,73 @@ Honey Tree (Lv. 39)
 
 Morning (Lv. 36 - 40)
 
-```
-1. Magnemite (30%)
-2. Magmar (20%)
-3. Magneton (20%)
-4. Manectric (15%)
-5. Forretress (15%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magnemite/'>Magnemite</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/magmar/'>Magmar</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/magneton/'>Magneton</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/manectric/'>Manectric</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/forretress/'>Forretress</a> (15%)
+</code></pre>
 
 Day (Lv. 36 - 40)
 
-```
-1. Magnemite (30%)
-2. Magmar (20%)
-3. Magneton (20%)
-4. Manectric (15%)
-5. Forretress (15%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magnemite/'>Magnemite</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/magmar/'>Magmar</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/magneton/'>Magneton</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/manectric/'>Manectric</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/forretress/'>Forretress</a> (15%)
+</code></pre>
 
 Night (Lv. 36 - 40)
 
-```
-1. Magnemite (30%)
-2. Magmar (20%)
-3. Magneton (20%)
-4. Manectric (15%)
-5. Forretress (15%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magnemite/'>Magnemite</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/magmar/'>Magmar</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/magneton/'>Magneton</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/manectric/'>Manectric</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/forretress/'>Forretress</a> (15%)
+</code></pre>
 
 Poké Radar (Lv. 36 - 40)
 
-```
-1. Weezing (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/weezing/'>Weezing</a> (22%)
+</code></pre>
 
 Surf (Lv. 30 - 45)
 
-```
-1. Shellos (60%)
-2. Tentacool (30%)
-3. Gastrodon (5%)
-4. Tentacruel (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/shellos/'>Shellos</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/tentacool/'>Tentacool</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/gastrodon/'>Gastrodon</a> (5%)
+4. <a href='/renegade-platinum-wiki/pokemon/tentacruel/'>Tentacruel</a> (5%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (100%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (65%)
-2. Finneon (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/finneon/'>Finneon</a> (35%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Lumineon (35%)
-3. Shellder (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/lumineon/'>Lumineon</a> (35%)
+3. <a href='/renegade-platinum-wiki/pokemon/shellder/'>Shellder</a> (5%)
+</code></pre>
 
 Honey Tree (Lv. 40)
 
-```
-1. Combee (30%)
-2. Forretress (10%)
-3. Wormadam (10%)
-4. Mothim (10%)
-5. Beautifly (10%)
-6. Dustox (10%)
-7. Heracross (10%)
-8. Vespiquen (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/combee/'>Combee</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/forretress/'>Forretress</a> (10%)
+3. <a href='/renegade-platinum-wiki/pokemon/wormadam-plant/'>Wormadam</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/mothim/'>Mothim</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/beautifly/'>Beautifly</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/dustox/'>Dustox</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/heracross/'>Heracross</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/vespiquen/'>Vespiquen</a> (10%)
+</code></pre>
 
 
 ---
@@ -3098,87 +2802,79 @@ Honey Tree (Lv. 40)
 
 Morning (Lv. 38 - 39)
 
-```
-1. Floatzel (20%)
-2. Gastrodon (20%)
-3. Purugly (10%)
-4. Mr. Mime (10%)
-5. Electrode (10%)
-6. Ditto (10%)
-7. Electabuzz (10%)
-8. Chatot (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/gastrodon/'>Gastrodon</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/purugly/'>Purugly</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/mr-mime/'>Mr. Mime</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/electrode/'>Electrode</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/ditto/'>Ditto</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/electabuzz/'>Electabuzz</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/chatot/'>Chatot</a> (10%)
+</code></pre>
 
 Day (Lv. 38 - 39)
 
-```
-1. Floatzel (20%)
-2. Gastrodon (20%)
-3. Purugly (10%)
-4. Mr. Mime (10%)
-5. Electrode (10%)
-6. Ditto (10%)
-7. Electabuzz (10%)
-8. Chatot (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/gastrodon/'>Gastrodon</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/purugly/'>Purugly</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/mr-mime/'>Mr. Mime</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/electrode/'>Electrode</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/ditto/'>Ditto</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/electabuzz/'>Electabuzz</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/chatot/'>Chatot</a> (10%)
+</code></pre>
 
 Night (Lv. 38 - 39)
 
-```
-1. Floatzel (20%)
-2. Gastrodon (20%)
-3. Purugly (20%)
-4. Mr. Mime (10%)
-5. Electrode (10%)
-6. Ditto (10%)
-7. Electabuzz (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/gastrodon/'>Gastrodon</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/purugly/'>Purugly</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/mr-mime/'>Mr. Mime</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/electrode/'>Electrode</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/ditto/'>Ditto</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/electabuzz/'>Electabuzz</a> (10%)
+</code></pre>
 
 Surf (Lv. 20 - 45)
 
-```
-1. Tentacool (60%)
-2. Shellos (30%)
-3. Tentacruel (5%)
-4. Gastrodon (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/tentacool/'>Tentacool</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/shellos/'>Shellos</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/tentacruel/'>Tentacruel</a> (5%)
+4. <a href='/renegade-platinum-wiki/pokemon/gastrodon/'>Gastrodon</a> (5%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Finneon (30%)
-3. Staryu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/finneon/'>Finneon</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/staryu/'>Staryu</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Finneon (30%)
-3. Staryu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/finneon/'>Finneon</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/staryu/'>Staryu</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Lumineon (30%)
-3. Starmie (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/lumineon/'>Lumineon</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/starmie/'>Starmie</a> (10%)
+</code></pre>
 
 Honey Tree (Lv. 39)
 
-```
-1. Combee (30%)
-2. Forretress (10%)
-3. Wormadam (10%)
-4. Mothim (10%)
-5. Beautifly (10%)
-6. Dustox (10%)
-7. Heracross (10%)
-8. Vespiquen (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/combee/'>Combee</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/forretress/'>Forretress</a> (10%)
+3. <a href='/renegade-platinum-wiki/pokemon/wormadam-plant/'>Wormadam</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/mothim/'>Mothim</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/beautifly/'>Beautifly</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/dustox/'>Dustox</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/heracross/'>Heracross</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/vespiquen/'>Vespiquen</a> (10%)
+</code></pre>
 
 
 ---
@@ -3187,36 +2883,32 @@ Honey Tree (Lv. 39)
 
 Surf (Lv. 30 - 45)
 
-```
-1. Tentacool (60%)
-2. Shellos (30%)
-3. Tentacruel (5%)
-4. Gastrodon (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/tentacool/'>Tentacool</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/shellos/'>Shellos</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/tentacruel/'>Tentacruel</a> (5%)
+4. <a href='/renegade-platinum-wiki/pokemon/gastrodon/'>Gastrodon</a> (5%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Finneon (30%)
-3. Staryu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/finneon/'>Finneon</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/staryu/'>Staryu</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Finneon (30%)
-3. Staryu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/finneon/'>Finneon</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/staryu/'>Staryu</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Lumineon (30%)
-3. Starmie (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/lumineon/'>Lumineon</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/starmie/'>Starmie</a> (10%)
+</code></pre>
 
 
 ---
@@ -3225,36 +2917,32 @@ Super Rod (Lv. 50)
 
 Surf (Lv. 30 - 45)
 
-```
-1. Wingull (60%)
-2. Tentacool (30%)
-3. Pelipper (5%)
-4. Tentacruel (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/wingull/'>Wingull</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/tentacool/'>Tentacool</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/pelipper/'>Pelipper</a> (5%)
+4. <a href='/renegade-platinum-wiki/pokemon/tentacruel/'>Tentacruel</a> (5%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Finneon (30%)
-3. Qwilfish (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/finneon/'>Finneon</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/qwilfish/'>Qwilfish</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Finneon (30%)
-3. Qwilfish (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/finneon/'>Finneon</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/qwilfish/'>Qwilfish</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Lumineon (30%)
-3. Qwilfish (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/lumineon/'>Lumineon</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/qwilfish/'>Qwilfish</a> (10%)
+</code></pre>
 
 
 ---
@@ -3263,42 +2951,39 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 41 - 43)
 
-```
-1. Graveler (25%)
-2. Golbat (20%)
-3. Lairon (15%)
-4. Mawile (10%)
-5. Sableye (10%)
-6. Nosepass (10%)
-7. Rhydon (5%)
-8. Steelix (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/lairon/'>Lairon</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/mawile/'>Mawile</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/sableye/'>Sableye</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/steelix/'>Steelix</a> (5%)
+</code></pre>
 
 Day (Lv. 41 - 43)
 
-```
-1. Graveler (25%)
-2. Golbat (20%)
-3. Lairon (15%)
-4. Mawile (10%)
-5. Sableye (10%)
-6. Nosepass (10%)
-7. Rhydon (5%)
-8. Steelix (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/lairon/'>Lairon</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/mawile/'>Mawile</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/sableye/'>Sableye</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/steelix/'>Steelix</a> (5%)
+</code></pre>
 
 Night (Lv. 41 - 43)
 
-```
-1. Graveler (25%)
-2. Golbat (20%)
-3. Lairon (15%)
-4. Mawile (10%)
-5. Sableye (10%)
-6. Nosepass (10%)
-7. Rhydon (5%)
-8. Steelix (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/lairon/'>Lairon</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/mawile/'>Mawile</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/sableye/'>Sableye</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/steelix/'>Steelix</a> (5%)
+</code></pre>
 
 
 ---
@@ -3307,42 +2992,39 @@ Night (Lv. 41 - 43)
 
 Morning (Lv. 43 - 45)
 
-```
-1. Graveler (25%)
-2. Golbat (20%)
-3. Lairon (15%)
-4. Mawile (10%)
-5. Sableye (10%)
-6. Nosepass (10%)
-7. Rhydon (5%)
-8. Steelix (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/lairon/'>Lairon</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/mawile/'>Mawile</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/sableye/'>Sableye</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/steelix/'>Steelix</a> (5%)
+</code></pre>
 
 Day (Lv. 43 - 45)
 
-```
-1. Graveler (25%)
-2. Golbat (20%)
-3. Lairon (15%)
-4. Mawile (10%)
-5. Sableye (10%)
-6. Nosepass (10%)
-7. Rhydon (5%)
-8. Steelix (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/lairon/'>Lairon</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/mawile/'>Mawile</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/sableye/'>Sableye</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/steelix/'>Steelix</a> (5%)
+</code></pre>
 
 Night (Lv. 43 - 45)
 
-```
-1. Graveler (25%)
-2. Golbat (20%)
-3. Lairon (15%)
-4. Mawile (10%)
-5. Sableye (10%)
-6. Nosepass (10%)
-7. Rhydon (5%)
-8. Steelix (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/lairon/'>Lairon</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/mawile/'>Mawile</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/sableye/'>Sableye</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/steelix/'>Steelix</a> (5%)
+</code></pre>
 
 
 ---
@@ -3351,45 +3033,41 @@ Night (Lv. 43 - 45)
 
 Morning (Lv. 44 - 48)
 
-```
-1. Piloswine (30%)
-2. Snorunt (20%)
-3. Sneasel (10%)
-4. Jynx (10%)
-5. Abomasnow (10%)
-6. Glalie (10%)
-7. Delibird (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/piloswine/'>Piloswine</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/snorunt/'>Snorunt</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/sneasel/'>Sneasel</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/jynx/'>Jynx</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/abomasnow/'>Abomasnow</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/glalie/'>Glalie</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/delibird/'>Delibird</a> (10%)
+</code></pre>
 
 Day (Lv. 44 - 48)
 
-```
-1. Piloswine (30%)
-2. Snorunt (20%)
-3. Sneasel (10%)
-4. Jynx (10%)
-5. Abomasnow (10%)
-6. Glalie (10%)
-7. Delibird (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/piloswine/'>Piloswine</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/snorunt/'>Snorunt</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/sneasel/'>Sneasel</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/jynx/'>Jynx</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/abomasnow/'>Abomasnow</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/glalie/'>Glalie</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/delibird/'>Delibird</a> (10%)
+</code></pre>
 
 Night (Lv. 44 - 48)
 
-```
-1. Piloswine (30%)
-2. Snorunt (20%)
-3. Sneasel (10%)
-4. Jynx (10%)
-5. Abomasnow (10%)
-6. Glalie (10%)
-7. Delibird (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/piloswine/'>Piloswine</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/snorunt/'>Snorunt</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/sneasel/'>Sneasel</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/jynx/'>Jynx</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/abomasnow/'>Abomasnow</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/glalie/'>Glalie</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/delibird/'>Delibird</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 44 - 48)
 
-```
-1. Froslass (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/froslass/'>Froslass</a> (22%)
+</code></pre>
 
 
 ---
@@ -3398,45 +3076,41 @@ Poké Radar (Lv. 44 - 48)
 
 Morning (Lv. 45 - 49)
 
-```
-1. Piloswine (30%)
-2. Snorunt (20%)
-3. Sneasel (10%)
-4. Jynx (10%)
-5. Abomasnow (10%)
-6. Glalie (10%)
-7. Delibird (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/piloswine/'>Piloswine</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/snorunt/'>Snorunt</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/sneasel/'>Sneasel</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/jynx/'>Jynx</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/abomasnow/'>Abomasnow</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/glalie/'>Glalie</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/delibird/'>Delibird</a> (10%)
+</code></pre>
 
 Day (Lv. 45 - 49)
 
-```
-1. Piloswine (30%)
-2. Snorunt (20%)
-3. Sneasel (10%)
-4. Jynx (10%)
-5. Abomasnow (10%)
-6. Glalie (10%)
-7. Delibird (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/piloswine/'>Piloswine</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/snorunt/'>Snorunt</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/sneasel/'>Sneasel</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/jynx/'>Jynx</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/abomasnow/'>Abomasnow</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/glalie/'>Glalie</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/delibird/'>Delibird</a> (10%)
+</code></pre>
 
 Night (Lv. 45 - 49)
 
-```
-1. Piloswine (30%)
-2. Snorunt (20%)
-3. Sneasel (10%)
-4. Jynx (10%)
-5. Abomasnow (10%)
-6. Glalie (10%)
-7. Delibird (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/piloswine/'>Piloswine</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/snorunt/'>Snorunt</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/sneasel/'>Sneasel</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/jynx/'>Jynx</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/abomasnow/'>Abomasnow</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/glalie/'>Glalie</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/delibird/'>Delibird</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 45 - 49)
 
-```
-1. Froslass (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/froslass/'>Froslass</a> (22%)
+</code></pre>
 
 
 ---
@@ -3445,42 +3119,39 @@ Poké Radar (Lv. 45 - 49)
 
 Morning (Lv. 47 - 50)
 
-```
-1. Golbat (25%)
-2. Graveler (20%)
-3. Sneasel (20%)
-4. Steelix (10%)
-5. Jynx (10%)
-6. Glalie (5%)
-7. Froslass (5%)
-8. Weavile (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/sneasel/'>Sneasel</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/steelix/'>Steelix</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/jynx/'>Jynx</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/glalie/'>Glalie</a> (5%)
+7. <a href='/renegade-platinum-wiki/pokemon/froslass/'>Froslass</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/weavile/'>Weavile</a> (5%)
+</code></pre>
 
 Day (Lv. 47 - 50)
 
-```
-1. Golbat (25%)
-2. Graveler (20%)
-3. Sneasel (20%)
-4. Steelix (10%)
-5. Jynx (10%)
-6. Glalie (5%)
-7. Froslass (5%)
-8. Weavile (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/sneasel/'>Sneasel</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/steelix/'>Steelix</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/jynx/'>Jynx</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/glalie/'>Glalie</a> (5%)
+7. <a href='/renegade-platinum-wiki/pokemon/froslass/'>Froslass</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/weavile/'>Weavile</a> (5%)
+</code></pre>
 
 Night (Lv. 47 - 50)
 
-```
-1. Golbat (25%)
-2. Graveler (20%)
-3. Sneasel (20%)
-4. Steelix (10%)
-5. Jynx (10%)
-6. Glalie (5%)
-7. Froslass (5%)
-8. Weavile (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (25%)
+2. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/sneasel/'>Sneasel</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/steelix/'>Steelix</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/jynx/'>Jynx</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/glalie/'>Glalie</a> (5%)
+7. <a href='/renegade-platinum-wiki/pokemon/froslass/'>Froslass</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/weavile/'>Weavile</a> (5%)
+</code></pre>
 
 
 ---
@@ -3489,65 +3160,57 @@ Night (Lv. 47 - 50)
 
 Morning (Lv. 49 - 51)
 
-```
-1. Sneasel (30%)
-2. Abomasnow (25%)
-3. Piloswine (20%)
-4. Jynx (15%)
-5. Glalie (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/sneasel/'>Sneasel</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/abomasnow/'>Abomasnow</a> (25%)
+3. <a href='/renegade-platinum-wiki/pokemon/piloswine/'>Piloswine</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/jynx/'>Jynx</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/glalie/'>Glalie</a> (10%)
+</code></pre>
 
 Day (Lv. 49 - 51)
 
-```
-1. Sneasel (30%)
-2. Abomasnow (25%)
-3. Piloswine (20%)
-4. Jynx (15%)
-5. Glalie (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/sneasel/'>Sneasel</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/abomasnow/'>Abomasnow</a> (25%)
+3. <a href='/renegade-platinum-wiki/pokemon/piloswine/'>Piloswine</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/jynx/'>Jynx</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/glalie/'>Glalie</a> (10%)
+</code></pre>
 
 Night (Lv. 49 - 51)
 
-```
-1. Sneasel (30%)
-2. Abomasnow (25%)
-3. Piloswine (20%)
-4. Jynx (15%)
-5. Glalie (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/sneasel/'>Sneasel</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/abomasnow/'>Abomasnow</a> (25%)
+3. <a href='/renegade-platinum-wiki/pokemon/piloswine/'>Piloswine</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/jynx/'>Jynx</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/glalie/'>Glalie</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 49 - 51)
 
-```
-1. Wobbuffet (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/wobbuffet/'>Wobbuffet</a> (22%)
+</code></pre>
 
 Surf (Lv. 45 - 50)
 
-```
-1. Sealeo (60%)
-2. Dewgong (35%)
-3. Lapras (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/sealeo/'>Sealeo</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/dewgong/'>Dewgong</a> (35%)
+3. <a href='/renegade-platinum-wiki/pokemon/lapras/'>Lapras</a> (5%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (100%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (100%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (100%)
+</code></pre>
 
 
 ---
@@ -3556,45 +3219,42 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 49 - 51)
 
-```
-1. Graveler (20%)
-2. Bronzong (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Day (Lv. 49 - 51)
 
-```
-1. Graveler (20%)
-2. Bronzong (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Night (Lv. 49 - 51)
 
-```
-1. Graveler (20%)
-2. Bronzong (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 
 ---
@@ -3603,45 +3263,42 @@ Night (Lv. 49 - 51)
 
 Morning (Lv. 49 - 51)
 
-```
-1. Graveler (20%)
-2. Bronzong (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Day (Lv. 49 - 51)
 
-```
-1. Graveler (20%)
-2. Bronzong (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Night (Lv. 49 - 51)
 
-```
-1. Graveler (20%)
-2. Bronzong (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 
 ---
@@ -3650,42 +3307,38 @@ Night (Lv. 49 - 51)
 
 Morning (Lv. 50 - 52)
 
-```
-1. Abomasnow (30%)
-2. Medicham (20%)
-3. Loudred (20%)
-4. Absol (10%)
-5. Donphan (10%)
-6. Ursaring (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/abomasnow/'>Abomasnow</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/medicham/'>Medicham</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/loudred/'>Loudred</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/absol/'>Absol</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/donphan/'>Donphan</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/ursaring/'>Ursaring</a> (10%)
+</code></pre>
 
 Day (Lv. 50 - 52)
 
-```
-1. Abomasnow (30%)
-2. Medicham (20%)
-3. Loudred (20%)
-4. Absol (10%)
-5. Donphan (10%)
-6. Ursaring (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/abomasnow/'>Abomasnow</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/medicham/'>Medicham</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/loudred/'>Loudred</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/absol/'>Absol</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/donphan/'>Donphan</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/ursaring/'>Ursaring</a> (10%)
+</code></pre>
 
 Night (Lv. 50 - 52)
 
-```
-1. Abomasnow (30%)
-2. Medicham (20%)
-3. Loudred (20%)
-4. Absol (10%)
-5. Donphan (10%)
-6. Ursaring (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/abomasnow/'>Abomasnow</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/medicham/'>Medicham</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/loudred/'>Loudred</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/absol/'>Absol</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/donphan/'>Donphan</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/ursaring/'>Ursaring</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 50 - 52)
 
-```
-1. Clefable (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/clefable/'>Clefable</a> (22%)
+</code></pre>
 
 
 ---
@@ -3694,76 +3347,69 @@ Poké Radar (Lv. 50 - 52)
 
 Morning (Lv. 50 - 52)
 
-```
-1. Graveler (20%)
-2. Bronzong (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Day (Lv. 50 - 52)
 
-```
-1. Graveler (20%)
-2. Bronzong (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Night (Lv. 50 - 52)
 
-```
-1. Graveler (20%)
-2. Bronzong (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Surf (Lv. 35 - 55)
 
-```
-1. Zubat (90%)
-2. Golbat (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/zubat/'>Zubat</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Horsea (30%)
-3. Dratini (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/horsea/'>Horsea</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/dratini/'>Dratini</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Horsea (30%)
-3. Dratini (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/horsea/'>Horsea</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/dratini/'>Dratini</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Seadra (30%)
-3. Dragonair (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/seadra/'>Seadra</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/dragonair/'>Dragonair</a> (10%)
+</code></pre>
 
 
 ---
@@ -3772,42 +3418,38 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 51 - 53)
 
-```
-1. Abomasnow (30%)
-2. Medicham (20%)
-3. Loudred (20%)
-4. Absol (10%)
-5. Donphan (10%)
-6. Ursaring (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/abomasnow/'>Abomasnow</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/medicham/'>Medicham</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/loudred/'>Loudred</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/absol/'>Absol</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/donphan/'>Donphan</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/ursaring/'>Ursaring</a> (10%)
+</code></pre>
 
 Day (Lv. 51 - 53)
 
-```
-1. Abomasnow (30%)
-2. Medicham (20%)
-3. Loudred (20%)
-4. Absol (10%)
-5. Donphan (10%)
-6. Ursaring (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/abomasnow/'>Abomasnow</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/medicham/'>Medicham</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/loudred/'>Loudred</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/absol/'>Absol</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/donphan/'>Donphan</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/ursaring/'>Ursaring</a> (10%)
+</code></pre>
 
 Night (Lv. 51 - 53)
 
-```
-1. Abomasnow (30%)
-2. Medicham (20%)
-3. Loudred (20%)
-4. Absol (10%)
-5. Donphan (10%)
-6. Ursaring (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/abomasnow/'>Abomasnow</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/medicham/'>Medicham</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/loudred/'>Loudred</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/absol/'>Absol</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/donphan/'>Donphan</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/ursaring/'>Ursaring</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 51 - 53)
 
-```
-1. Clefable (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/clefable/'>Clefable</a> (22%)
+</code></pre>
 
 
 ---
@@ -3816,45 +3458,42 @@ Poké Radar (Lv. 51 - 53)
 
 Morning (Lv. 51 - 53)
 
-```
-1. Graveler (20%)
-2. Bronzong (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Day (Lv. 51 - 53)
 
-```
-1. Graveler (20%)
-2. Bronzong (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Night (Lv. 51 - 53)
 
-```
-1. Graveler (20%)
-2. Bronzong (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 
 ---
@@ -3863,45 +3502,42 @@ Night (Lv. 51 - 53)
 
 Morning (Lv. 51 - 53)
 
-```
-1. Graveler (20%)
-2. Bronzong (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Day (Lv. 51 - 53)
 
-```
-1. Graveler (20%)
-2. Bronzong (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Night (Lv. 51 - 53)
 
-```
-1. Graveler (20%)
-2. Bronzong (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 
 ---
@@ -3910,45 +3546,42 @@ Night (Lv. 51 - 53)
 
 Morning (Lv. 51 - 53)
 
-```
-1. Graveler (20%)
-2. Bronzong (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Day (Lv. 51 - 53)
 
-```
-1. Graveler (20%)
-2. Bronzong (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 Night (Lv. 51 - 53)
 
-```
-1. Graveler (20%)
-2. Bronzong (20%)
-3. Clefairy (10%)
-4. Nosepass (10%)
-5. Chimecho (10%)
-6. Golbat (10%)
-7. Metang (10%)
-8. Solrock (5%)
-9. Lunatone (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/clefairy/'>Clefairy</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/nosepass/'>Nosepass</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (5%)
+9. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (5%)
+</code></pre>
 
 
 ---
@@ -3957,66 +3590,58 @@ Night (Lv. 51 - 53)
 
 Morning (Lv. 53 - 54)
 
-```
-1. Staravia (30%)
-2. Bibarel (20%)
-3. Chimecho (20%)
-4. Solrock (10%)
-5. Lunatone (10%)
-6. Dusclops (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/staravia/'>Staravia</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/bibarel/'>Bibarel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/dusclops/'>Dusclops</a> (10%)
+</code></pre>
 
 Day (Lv. 53 - 54)
 
-```
-1. Staravia (30%)
-2. Bibarel (20%)
-3. Chimecho (20%)
-4. Solrock (10%)
-5. Lunatone (10%)
-6. Dusclops (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/staravia/'>Staravia</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/bibarel/'>Bibarel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/dusclops/'>Dusclops</a> (10%)
+</code></pre>
 
 Night (Lv. 53 - 54)
 
-```
-1. Staravia (30%)
-2. Bibarel (20%)
-3. Chimecho (20%)
-4. Solrock (10%)
-5. Lunatone (10%)
-6. Dusclops (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/staravia/'>Staravia</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/bibarel/'>Bibarel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/dusclops/'>Dusclops</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 53 - 54)
 
-```
-1. Wobbuffet (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/wobbuffet/'>Wobbuffet</a> (22%)
+</code></pre>
 
 Surf (Lv. 45 - 55)
 
-```
-1. Golduck (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/golduck/'>Golduck</a> (100%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (100%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (100%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (100%)
+</code></pre>
 
 
 ---
@@ -4025,99 +3650,88 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 53 - 54)
 
-```
-1. Staravia (30%)
-2. Bibarel (30%)
-3. Masquerain (20%)
-4. Lickitung (10%)
-5. Golduck (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/staravia/'>Staravia</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/bibarel/'>Bibarel</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/masquerain/'>Masquerain</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/lickitung/'>Lickitung</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/golduck/'>Golduck</a> (10%)
+</code></pre>
 
 Day (Lv. 53 - 54)
 
-```
-1. Staravia (30%)
-2. Bibarel (30%)
-3. Masquerain (20%)
-4. Lickitung (10%)
-5. Golduck (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/staravia/'>Staravia</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/bibarel/'>Bibarel</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/masquerain/'>Masquerain</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/lickitung/'>Lickitung</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/golduck/'>Golduck</a> (10%)
+</code></pre>
 
 Night (Lv. 53 - 54)
 
-```
-1. Staravia (30%)
-2. Bibarel (30%)
-3. Masquerain (20%)
-4. Lickitung (10%)
-5. Golduck (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/staravia/'>Staravia</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/bibarel/'>Bibarel</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/masquerain/'>Masquerain</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/lickitung/'>Lickitung</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/golduck/'>Golduck</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 53 - 54)
 
-```
-1. Wobbuffet (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/wobbuffet/'>Wobbuffet</a> (22%)
+</code></pre>
 
 Surf (Lv. 35 - 55)
 
-```
-1. Surskit (90%)
-2. Masquerain (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/surskit/'>Surskit</a> (90%)
+2. <a href='/renegade-platinum-wiki/pokemon/masquerain/'>Masquerain</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (100%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (100%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (100%)
+</code></pre>
 
 Turnback Cave
 
 Morning (Lv. 53 - 54)
 
-```
-1. Haunter (30%)
-2. Golbat (25%)
-3. Bronzong (15%)
-4. Chimecho (10%)
-5. Dusclops (10%)
-6. Banette (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/haunter/'>Haunter</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (25%)
+3. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/dusclops/'>Dusclops</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/banette/'>Banette</a> (10%)
+</code></pre>
 
 Day (Lv. 53 - 54)
 
-```
-1. Haunter (30%)
-2. Golbat (25%)
-3. Bronzong (15%)
-4. Chimecho (10%)
-5. Dusclops (10%)
-6. Banette (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/haunter/'>Haunter</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (25%)
+3. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/dusclops/'>Dusclops</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/banette/'>Banette</a> (10%)
+</code></pre>
 
 Night (Lv. 53 - 54)
 
-```
-1. Haunter (30%)
-2. Golbat (25%)
-3. Bronzong (15%)
-4. Chimecho (10%)
-5. Dusclops (10%)
-6. Banette (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/haunter/'>Haunter</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (25%)
+3. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/dusclops/'>Dusclops</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/banette/'>Banette</a> (10%)
+</code></pre>
 
 
 ---
@@ -4126,90 +3740,81 @@ Night (Lv. 53 - 54)
 
 Morning (Lv. 53 - 54)
 
-```
-1. Electabuzz (20%)
-2. Floatzel (20%)
-3. Luxio (10%)
-4. Purugly (10%)
-5. Pelipper (10%)
-6. Flaaffy (10%)
-7. Mr. Mime (10%)
-8. Chatot (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/electabuzz/'>Electabuzz</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/luxio/'>Luxio</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/purugly/'>Purugly</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/pelipper/'>Pelipper</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/flaaffy/'>Flaaffy</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/mr-mime/'>Mr. Mime</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/chatot/'>Chatot</a> (10%)
+</code></pre>
 
 Day (Lv. 53 - 54)
 
-```
-1. Electabuzz (20%)
-2. Floatzel (20%)
-3. Luxio (10%)
-4. Purugly (10%)
-5. Pelipper (10%)
-6. Flaaffy (10%)
-7. Mr. Mime (10%)
-8. Chatot (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/electabuzz/'>Electabuzz</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/luxio/'>Luxio</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/purugly/'>Purugly</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/pelipper/'>Pelipper</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/flaaffy/'>Flaaffy</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/mr-mime/'>Mr. Mime</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/chatot/'>Chatot</a> (10%)
+</code></pre>
 
 Night (Lv. 53 - 54)
 
-```
-1. Electabuzz (20%)
-2. Floatzel (20%)
-3. Luxio (20%)
-4. Purugly (10%)
-5. Pelipper (10%)
-6. Flaaffy (10%)
-7. Mr. Mime (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/electabuzz/'>Electabuzz</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/luxio/'>Luxio</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/purugly/'>Purugly</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/pelipper/'>Pelipper</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/flaaffy/'>Flaaffy</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/mr-mime/'>Mr. Mime</a> (10%)
+</code></pre>
 
 Poké Radar (Lv. 53 - 54)
 
-```
-1. Delcatty (22%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/delcatty/'>Delcatty</a> (22%)
+</code></pre>
 
 Surf (Lv. 35 - 55)
 
-```
-1. Tentacool (60%)
-2. Wingull (30%)
-3. Tentacruel (5%)
-4. Pelipper (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/tentacool/'>Tentacool</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/wingull/'>Wingull</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/tentacruel/'>Tentacruel</a> (5%)
+4. <a href='/renegade-platinum-wiki/pokemon/pelipper/'>Pelipper</a> (5%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Remoraid (30%)
-3. Wailmer (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/remoraid/'>Remoraid</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/wailmer/'>Wailmer</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Remoraid (30%)
-3. Wailmer (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/remoraid/'>Remoraid</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/wailmer/'>Wailmer</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Wailmer (30%)
-3. Octillery (5%)
-4. Wailord (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/wailmer/'>Wailmer</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/octillery/'>Octillery</a> (5%)
+4. <a href='/renegade-platinum-wiki/pokemon/wailord/'>Wailord</a> (5%)
+</code></pre>
 
 Honey Tree (Lv. 54)
 
-```
-1. Tangela (30%)
-2. Heracross (30%)
-3. Farfetch'd (30%)
-4. Snorlax (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/tangela/'>Tangela</a> (30%)
+2. <a href='/renegade-platinum-wiki/pokemon/heracross/'>Heracross</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/farfetchd/'>Farfetch'd</a> (30%)
+4. <a href='/renegade-platinum-wiki/pokemon/snorlax/'>Snorlax</a> (10%)
+</code></pre>
 
 
 ---
@@ -4218,35 +3823,31 @@ Honey Tree (Lv. 54)
 
 Surf (Lv. 50 - 60)
 
-```
-1. Tentacruel (60%)
-2. Pelipper (30%)
-3. Mantine (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/tentacruel/'>Tentacruel</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/pelipper/'>Pelipper</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/mantine/'>Mantine</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Krabby (30%)
-3. Staryu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/krabby/'>Krabby</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/staryu/'>Staryu</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Krabby (30%)
-3. Staryu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/krabby/'>Krabby</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/staryu/'>Staryu</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Kingler (30%)
-3. Starmie (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/kingler/'>Kingler</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/starmie/'>Starmie</a> (10%)
+</code></pre>
 
 
 ---
@@ -4255,36 +3856,32 @@ Super Rod (Lv. 50)
 
 Surf (Lv. 50 - 60)
 
-```
-1. Tentacruel (60%)
-2. Pelipper (30%)
-3. Mantine (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/tentacruel/'>Tentacruel</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/pelipper/'>Pelipper</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/mantine/'>Mantine</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Remoraid (30%)
-3. Wailmer (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/remoraid/'>Remoraid</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/wailmer/'>Wailmer</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Remoraid (30%)
-3. Wailmer (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/remoraid/'>Remoraid</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/wailmer/'>Wailmer</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Wailmer (30%)
-3. Octillery (5%)
-4. Wailord (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/wailmer/'>Wailmer</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/octillery/'>Octillery</a> (5%)
+4. <a href='/renegade-platinum-wiki/pokemon/wailord/'>Wailord</a> (5%)
+</code></pre>
 
 
 ---
@@ -4293,35 +3890,31 @@ Super Rod (Lv. 50)
 
 Surf (Lv. 50 - 60)
 
-```
-1. Tentacruel (60%)
-2. Pelipper (30%)
-3. Mantine (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/tentacruel/'>Tentacruel</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/pelipper/'>Pelipper</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/mantine/'>Mantine</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Luvdisc (30%)
-3. Corsola (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/luvdisc/'>Luvdisc</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/corsola/'>Corsola</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Luvdisc (30%)
-3. Corsola (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/luvdisc/'>Luvdisc</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/corsola/'>Corsola</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Luvdisc (30%)
-3. Corsola (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/luvdisc/'>Luvdisc</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/corsola/'>Corsola</a> (10%)
+</code></pre>
 
 
 ---
@@ -4330,42 +3923,39 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 59)
 
-```
-1. Machoke (20%)
-2. Golbat (20%)
-3. Graveler (10%)
-4. Medicham (10%)
-5. Hariyama (10%)
-6. Gabite (10%)
-7. Rhydon (10%)
-8. Steelix (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/medicham/'>Medicham</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/hariyama/'>Hariyama</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/gabite/'>Gabite</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/steelix/'>Steelix</a> (10%)
+</code></pre>
 
 Day (Lv. 59)
 
-```
-1. Machoke (20%)
-2. Golbat (20%)
-3. Graveler (10%)
-4. Medicham (10%)
-5. Hariyama (10%)
-6. Gabite (10%)
-7. Rhydon (10%)
-8. Steelix (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/medicham/'>Medicham</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/hariyama/'>Hariyama</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/gabite/'>Gabite</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/steelix/'>Steelix</a> (10%)
+</code></pre>
 
 Night (Lv. 59)
 
-```
-1. Machoke (20%)
-2. Golbat (20%)
-3. Graveler (10%)
-4. Medicham (10%)
-5. Hariyama (10%)
-6. Gabite (10%)
-7. Rhydon (10%)
-8. Steelix (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/medicham/'>Medicham</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/hariyama/'>Hariyama</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/gabite/'>Gabite</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/steelix/'>Steelix</a> (10%)
+</code></pre>
 
 
 ---
@@ -4374,42 +3964,39 @@ Night (Lv. 59)
 
 Morning (Lv. 59)
 
-```
-1. Steelix (20%)
-2. Magneton (20%)
-3. Graveler (10%)
-4. Kadabra (10%)
-5. Lickitung (10%)
-6. Golbat (10%)
-7. Marowak (10%)
-8. Gabite (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/steelix/'>Steelix</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/magneton/'>Magneton</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/kadabra/'>Kadabra</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/lickitung/'>Lickitung</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/marowak/'>Marowak</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/gabite/'>Gabite</a> (10%)
+</code></pre>
 
 Day (Lv. 59)
 
-```
-1. Steelix (20%)
-2. Magneton (20%)
-3. Graveler (10%)
-4. Kadabra (10%)
-5. Lickitung (10%)
-6. Golbat (10%)
-7. Marowak (10%)
-8. Gabite (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/steelix/'>Steelix</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/magneton/'>Magneton</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/kadabra/'>Kadabra</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/lickitung/'>Lickitung</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/marowak/'>Marowak</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/gabite/'>Gabite</a> (10%)
+</code></pre>
 
 Night (Lv. 59)
 
-```
-1. Steelix (20%)
-2. Magneton (20%)
-3. Graveler (10%)
-4. Kadabra (10%)
-5. Lickitung (10%)
-6. Golbat (10%)
-7. Marowak (10%)
-8. Gabite (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/steelix/'>Steelix</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/magneton/'>Magneton</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/kadabra/'>Kadabra</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/lickitung/'>Lickitung</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/marowak/'>Marowak</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/gabite/'>Gabite</a> (10%)
+</code></pre>
 
 
 ---
@@ -4418,67 +4005,60 @@ Night (Lv. 59)
 
 Morning (Lv. 59)
 
-```
-1. Azumarill (20%)
-2. Floatzel (20%)
-3. Graveler (10%)
-4. Mawile (10%)
-5. Sableye (10%)
-6. Dewgong (10%)
-7. Golbat (10%)
-8. Gabite (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/azumarill/'>Azumarill</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/mawile/'>Mawile</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/sableye/'>Sableye</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/dewgong/'>Dewgong</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/gabite/'>Gabite</a> (10%)
+</code></pre>
 
 Day (Lv. 59)
 
-```
-1. Azumarill (20%)
-2. Floatzel (20%)
-3. Graveler (10%)
-4. Mawile (10%)
-5. Sableye (10%)
-6. Dewgong (10%)
-7. Golbat (10%)
-8. Gabite (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/azumarill/'>Azumarill</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/mawile/'>Mawile</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/sableye/'>Sableye</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/dewgong/'>Dewgong</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/gabite/'>Gabite</a> (10%)
+</code></pre>
 
 Night (Lv. 59)
 
-```
-1. Azumarill (20%)
-2. Floatzel (20%)
-3. Graveler (10%)
-4. Mawile (10%)
-5. Sableye (10%)
-6. Dewgong (10%)
-7. Golbat (10%)
-8. Gabite (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/azumarill/'>Azumarill</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/mawile/'>Mawile</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/sableye/'>Sableye</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/dewgong/'>Dewgong</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/gabite/'>Gabite</a> (10%)
+</code></pre>
 
 Surf (Lv. 50 - 60)
 
-```
-1. Floatzel (65%)
-2. Golbat (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (35%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (100%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (100%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (100%)
+</code></pre>
 
 
 ---
@@ -4487,42 +4067,39 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 59)
 
-```
-1. Azumarill (20%)
-2. Floatzel (20%)
-3. Graveler (10%)
-4. Machoke (10%)
-5. Medicham (10%)
-6. Steelix (10%)
-7. Golbat (10%)
-8. Gabite (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/azumarill/'>Azumarill</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/medicham/'>Medicham</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/steelix/'>Steelix</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/gabite/'>Gabite</a> (10%)
+</code></pre>
 
 Day (Lv. 59)
 
-```
-1. Azumarill (20%)
-2. Floatzel (20%)
-3. Graveler (10%)
-4. Machoke (10%)
-5. Medicham (10%)
-6. Steelix (10%)
-7. Golbat (10%)
-8. Gabite (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/azumarill/'>Azumarill</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/medicham/'>Medicham</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/steelix/'>Steelix</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/gabite/'>Gabite</a> (10%)
+</code></pre>
 
 Night (Lv. 59)
 
-```
-1. Azumarill (20%)
-2. Floatzel (20%)
-3. Graveler (10%)
-4. Machoke (10%)
-5. Medicham (10%)
-6. Steelix (10%)
-7. Golbat (10%)
-8. Gabite (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/azumarill/'>Azumarill</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/medicham/'>Medicham</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/steelix/'>Steelix</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/gabite/'>Gabite</a> (10%)
+</code></pre>
 
 
 ---
@@ -4531,68 +4108,61 @@ Night (Lv. 59)
 
 Morning (Lv. 59)
 
-```
-1. Azumarill (20%)
-2. Floatzel (20%)
-3. Graveler (10%)
-4. Machoke (10%)
-5. Medicham (10%)
-6. Dewgong (10%)
-7. Golbat (10%)
-8. Gabite (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/azumarill/'>Azumarill</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/medicham/'>Medicham</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/dewgong/'>Dewgong</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/gabite/'>Gabite</a> (10%)
+</code></pre>
 
 Day (Lv. 59)
 
-```
-1. Azumarill (20%)
-2. Floatzel (20%)
-3. Graveler (10%)
-4. Machoke (10%)
-5. Medicham (10%)
-6. Dewgong (10%)
-7. Golbat (10%)
-8. Gabite (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/azumarill/'>Azumarill</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/medicham/'>Medicham</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/dewgong/'>Dewgong</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/gabite/'>Gabite</a> (10%)
+</code></pre>
 
 Night (Lv. 59)
 
-```
-1. Azumarill (20%)
-2. Floatzel (20%)
-3. Graveler (10%)
-4. Machoke (10%)
-5. Medicham (10%)
-6. Dewgong (10%)
-7. Golbat (10%)
-8. Gabite (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/azumarill/'>Azumarill</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/medicham/'>Medicham</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/dewgong/'>Dewgong</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/gabite/'>Gabite</a> (10%)
+</code></pre>
 
 Surf (Lv. 50 - 60)
 
-```
-1. Sealeo (60%)
-2. Dewgong (30%)
-3. Lapras (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/sealeo/'>Sealeo</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/dewgong/'>Dewgong</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/lapras/'>Lapras</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (100%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (100%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (100%)
+</code></pre>
 
 
 ---
@@ -4601,76 +4171,69 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 59)
 
-```
-1. Beautifly (20%)
-2. Dustox (20%)
-3. Weepinbell (10%)
-4. Chatot (10%)
-5. Roselia (10%)
-6. Gastrodon (10%)
-7. Shuckle (10%)
-8. Xatu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/beautifly/'>Beautifly</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/dustox/'>Dustox</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/weepinbell/'>Weepinbell</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/chatot/'>Chatot</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/roselia/'>Roselia</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/gastrodon/'>Gastrodon</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/shuckle/'>Shuckle</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/xatu/'>Xatu</a> (10%)
+</code></pre>
 
 Day (Lv. 59)
 
-```
-1. Beautifly (20%)
-2. Dustox (20%)
-3. Weepinbell (10%)
-4. Chatot (10%)
-5. Roselia (10%)
-6. Gastrodon (10%)
-7. Shuckle (10%)
-8. Xatu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/beautifly/'>Beautifly</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/dustox/'>Dustox</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/weepinbell/'>Weepinbell</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/chatot/'>Chatot</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/roselia/'>Roselia</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/gastrodon/'>Gastrodon</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/shuckle/'>Shuckle</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/xatu/'>Xatu</a> (10%)
+</code></pre>
 
 Night (Lv. 59)
 
-```
-1. Beautifly (20%)
-2. Dustox (20%)
-3. Weepinbell (10%)
-4. Gloom (10%)
-5. Roselia (10%)
-6. Gastrodon (10%)
-7. Shuckle (10%)
-8. Xatu (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/beautifly/'>Beautifly</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/dustox/'>Dustox</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/weepinbell/'>Weepinbell</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/gloom/'>Gloom</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/roselia/'>Roselia</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/gastrodon/'>Gastrodon</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/shuckle/'>Shuckle</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/xatu/'>Xatu</a> (10%)
+</code></pre>
 
 Poké Radar  -
 
 Surf (Lv. 50 - 60)
 
-```
-1. Tentacruel (60%)
-2. Pelipper (30%)
-3. Gastrodon (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/tentacruel/'>Tentacruel</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/pelipper/'>Pelipper</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/gastrodon/'>Gastrodon</a> (10%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Luvdisc (30%)
-3. Corsola (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/luvdisc/'>Luvdisc</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/corsola/'>Corsola</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Luvdisc (30%)
-3. Corsola (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/luvdisc/'>Luvdisc</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/corsola/'>Corsola</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Luvdisc (30%)
-3. Corsola (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/luvdisc/'>Luvdisc</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/corsola/'>Corsola</a> (10%)
+</code></pre>
 
 
 ---
@@ -4679,42 +4242,39 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 65 - 66)
 
-```
-1. Golbat (20%)
-2. Haunter (20%)
-3. Dusclops (10%)
-4. Banette (10%)
-5. Bronzong (10%)
-6. Chimecho (10%)
-7. Lunatone (10%)
-8. Solrock (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/haunter/'>Haunter</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/dusclops/'>Dusclops</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/banette/'>Banette</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (10%)
+</code></pre>
 
 Day (Lv. 65 - 66)
 
-```
-1. Golbat (20%)
-2. Haunter (20%)
-3. Dusclops (10%)
-4. Banette (10%)
-5. Bronzong (10%)
-6. Chimecho (10%)
-7. Lunatone (10%)
-8. Solrock (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/haunter/'>Haunter</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/dusclops/'>Dusclops</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/banette/'>Banette</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (10%)
+</code></pre>
 
 Night (Lv. 65 - 66)
 
-```
-1. Golbat (20%)
-2. Haunter (20%)
-3. Dusclops (10%)
-4. Banette (10%)
-5. Bronzong (10%)
-6. Chimecho (10%)
-7. Lunatone (10%)
-8. Solrock (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/haunter/'>Haunter</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/dusclops/'>Dusclops</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/banette/'>Banette</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/bronzong/'>Bronzong</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/chimecho/'>Chimecho</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/lunatone/'>Lunatone</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/solrock/'>Solrock</a> (10%)
+</code></pre>
 
 
 ---
@@ -4723,67 +4283,60 @@ Night (Lv. 65 - 66)
 
 Morning (Lv. 65 - 67)
 
-```
-1. Fearow (20%)
-2. Machoke (20%)
-3. Graveler (20%)
-4. Raticate (15%)
-5. Primeape (15%)
-6. Hariyama (5%)
-7. Grumpig (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/fearow/'>Fearow</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/raticate/'>Raticate</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/primeape/'>Primeape</a> (15%)
+6. <a href='/renegade-platinum-wiki/pokemon/hariyama/'>Hariyama</a> (5%)
+7. <a href='/renegade-platinum-wiki/pokemon/grumpig/'>Grumpig</a> (5%)
+</code></pre>
 
 Day (Lv. 65 - 67)
 
-```
-1. Fearow (20%)
-2. Machoke (20%)
-3. Graveler (20%)
-4. Raticate (15%)
-5. Primeape (15%)
-6. Hariyama (5%)
-7. Grumpig (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/fearow/'>Fearow</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/raticate/'>Raticate</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/primeape/'>Primeape</a> (15%)
+6. <a href='/renegade-platinum-wiki/pokemon/hariyama/'>Hariyama</a> (5%)
+7. <a href='/renegade-platinum-wiki/pokemon/grumpig/'>Grumpig</a> (5%)
+</code></pre>
 
 Night (Lv. 65 - 67)
 
-```
-1. Fearow (20%)
-2. Machoke (20%)
-3. Graveler (20%)
-4. Raticate (15%)
-5. Primeape (15%)
-6. Hariyama (5%)
-7. Grumpig (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/fearow/'>Fearow</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/raticate/'>Raticate</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/primeape/'>Primeape</a> (15%)
+6. <a href='/renegade-platinum-wiki/pokemon/hariyama/'>Hariyama</a> (5%)
+7. <a href='/renegade-platinum-wiki/pokemon/grumpig/'>Grumpig</a> (5%)
+</code></pre>
 
 Surf (Lv. 65 - 67)
 
-```
-1. Poliwhirl (60%)
-2. Golduck (40%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/poliwhirl/'>Poliwhirl</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/golduck/'>Golduck</a> (40%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (65%)
-2. Barboach (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/barboach/'>Barboach</a> (35%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (65%)
-2. Barboach (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/barboach/'>Barboach</a> (35%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (65%)
-2. Whiscash (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/whiscash/'>Whiscash</a> (35%)
+</code></pre>
 
 
 ---
@@ -4792,70 +4345,63 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 65 - 67)
 
-```
-1. Raticate (20%)
-2. Fearow (20%)
-3. Arbok (15%)
-4. Sandslash (15%)
-5. Rapidash (10%)
-6. Dodrio (10%)
-7. Kingler (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/raticate/'>Raticate</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/fearow/'>Fearow</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/arbok/'>Arbok</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/sandslash/'>Sandslash</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/rapidash/'>Rapidash</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/dodrio/'>Dodrio</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/kingler/'>Kingler</a> (10%)
+</code></pre>
 
 Day (Lv. 65 - 67)
 
-```
-1. Raticate (20%)
-2. Fearow (20%)
-3. Arbok (15%)
-4. Sandslash (15%)
-5. Rapidash (10%)
-6. Dodrio (10%)
-7. Kingler (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/raticate/'>Raticate</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/fearow/'>Fearow</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/arbok/'>Arbok</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/sandslash/'>Sandslash</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/rapidash/'>Rapidash</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/dodrio/'>Dodrio</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/kingler/'>Kingler</a> (10%)
+</code></pre>
 
 Night (Lv. 65 - 67)
 
-```
-1. Raticate (20%)
-2. Fearow (20%)
-3. Arbok (15%)
-4. Sandslash (15%)
-5. Rapidash (10%)
-6. Dodrio (10%)
-7. Kingler (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/raticate/'>Raticate</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/fearow/'>Fearow</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/arbok/'>Arbok</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/sandslash/'>Sandslash</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/rapidash/'>Rapidash</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/dodrio/'>Dodrio</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/kingler/'>Kingler</a> (10%)
+</code></pre>
 
 Surf (Lv. 65 - 67)
 
-```
-1. Pelipper (60%)
-2. Tentacruel (40%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/pelipper/'>Pelipper</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/tentacruel/'>Tentacruel</a> (40%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Horsea (30%)
-3. Relicanth (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/horsea/'>Horsea</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/relicanth/'>Relicanth</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (60%)
-2. Horsea (30%)
-3. Relicanth (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/horsea/'>Horsea</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/relicanth/'>Relicanth</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (60%)
-2. Seadra (30%)
-3. Relicanth (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/seadra/'>Seadra</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/relicanth/'>Relicanth</a> (10%)
+</code></pre>
 
 
 ---
@@ -4864,66 +4410,59 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 65 - 67)
 
-```
-1. Rhydon (20%)
-2. Camerupt (20%)
-3. Skarmory (15%)
-4. Gligar (15%)
-5. Weezing (10%)
-6. Torkoal (10%)
-7. Spinda (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/camerupt/'>Camerupt</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/skarmory/'>Skarmory</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/gligar/'>Gligar</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/weezing/'>Weezing</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/torkoal/'>Torkoal</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/spinda/'>Spinda</a> (10%)
+</code></pre>
 
 Day (Lv. 65 - 67)
 
-```
-1. Rhydon (20%)
-2. Camerupt (20%)
-3. Skarmory (15%)
-4. Gligar (15%)
-5. Weezing (10%)
-6. Torkoal (10%)
-7. Spinda (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/camerupt/'>Camerupt</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/skarmory/'>Skarmory</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/gligar/'>Gligar</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/weezing/'>Weezing</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/torkoal/'>Torkoal</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/spinda/'>Spinda</a> (10%)
+</code></pre>
 
 Night (Lv. 65 - 67)
 
-```
-1. Rhydon (20%)
-2. Camerupt (20%)
-3. Skarmory (15%)
-4. Gligar (15%)
-5. Weezing (10%)
-6. Torkoal (10%)
-7. Spinda (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/camerupt/'>Camerupt</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/skarmory/'>Skarmory</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/gligar/'>Gligar</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/weezing/'>Weezing</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/torkoal/'>Torkoal</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/spinda/'>Spinda</a> (10%)
+</code></pre>
 
 Surf (Lv. 65 - 67)
 
-```
-1. Poliwhirl (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/poliwhirl/'>Poliwhirl</a> (100%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (65%)
-2. Barboach (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/barboach/'>Barboach</a> (35%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (65%)
-2. Barboach (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/barboach/'>Barboach</a> (35%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (65%)
-2. Whiscash (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/whiscash/'>Whiscash</a> (35%)
+</code></pre>
 
 
 ---
@@ -4932,69 +4471,62 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 65 - 67)
 
-```
-1. Cacturne (20%)
-2. Sandslash (20%)
-3. Dugtrio (20%)
-4. Vibrava (10%)
-5. Claydol (10%)
-6. Hippowdon (10%)
-7. Metang (5%)
-8. Gabite (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/cacturne/'>Cacturne</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/sandslash/'>Sandslash</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/dugtrio/'>Dugtrio</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/vibrava/'>Vibrava</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/claydol/'>Claydol</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/hippowdon/'>Hippowdon</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/gabite/'>Gabite</a> (5%)
+</code></pre>
 
 Day (Lv. 65 - 67)
 
-```
-1. Cacturne (20%)
-2. Sandslash (20%)
-3. Dugtrio (20%)
-4. Vibrava (10%)
-5. Claydol (10%)
-6. Hippowdon (10%)
-7. Metang (5%)
-8. Gabite (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/cacturne/'>Cacturne</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/sandslash/'>Sandslash</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/dugtrio/'>Dugtrio</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/vibrava/'>Vibrava</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/claydol/'>Claydol</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/hippowdon/'>Hippowdon</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/gabite/'>Gabite</a> (5%)
+</code></pre>
 
 Night (Lv. 65 - 67)
 
-```
-1. Cacturne (20%)
-2. Sandslash (20%)
-3. Dugtrio (20%)
-4. Vibrava (10%)
-5. Claydol (10%)
-6. Hippowdon (10%)
-7. Metang (5%)
-8. Gabite (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/cacturne/'>Cacturne</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/sandslash/'>Sandslash</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/dugtrio/'>Dugtrio</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/vibrava/'>Vibrava</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/claydol/'>Claydol</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/hippowdon/'>Hippowdon</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/metang/'>Metang</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/gabite/'>Gabite</a> (5%)
+</code></pre>
 
 Surf (Lv. 65 - 67)
 
-```
-1. Poliwhirl (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/poliwhirl/'>Poliwhirl</a> (100%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (65%)
-2. Barboach (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/barboach/'>Barboach</a> (35%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (65%)
-2. Barboach (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/barboach/'>Barboach</a> (35%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (65%)
-2. Whiscash (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/whiscash/'>Whiscash</a> (35%)
+</code></pre>
 
 
 ---
@@ -5003,69 +4535,62 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 65 - 67)
 
-```
-1. Scyther (20%)
-2. Pinsir (20%)
-3. Ledian (20%)
-4. Roselia (15%)
-5. Venomoth (10%)
-6. Illumise (5%)
-7. Volbeat (5%)
-8. Weepinbell (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/scyther/'>Scyther</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/pinsir/'>Pinsir</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/ledian/'>Ledian</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/roselia/'>Roselia</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/venomoth/'>Venomoth</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/illumise/'>Illumise</a> (5%)
+7. <a href='/renegade-platinum-wiki/pokemon/volbeat/'>Volbeat</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/weepinbell/'>Weepinbell</a> (5%)
+</code></pre>
 
 Day (Lv. 65 - 67)
 
-```
-1. Scyther (20%)
-2. Pinsir (20%)
-3. Sunkern (20%)
-4. Roselia (15%)
-5. Venomoth (10%)
-6. Illumise (5%)
-7. Volbeat (5%)
-8. Weepinbell (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/scyther/'>Scyther</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/pinsir/'>Pinsir</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/sunkern/'>Sunkern</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/roselia/'>Roselia</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/venomoth/'>Venomoth</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/illumise/'>Illumise</a> (5%)
+7. <a href='/renegade-platinum-wiki/pokemon/volbeat/'>Volbeat</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/weepinbell/'>Weepinbell</a> (5%)
+</code></pre>
 
 Night (Lv. 65 - 67)
 
-```
-1. Scyther (20%)
-2. Pinsir (20%)
-3. Ariados (20%)
-4. Roselia (15%)
-5. Venomoth (10%)
-6. Illumise (5%)
-7. Volbeat (5%)
-8. Weepinbell (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/scyther/'>Scyther</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/pinsir/'>Pinsir</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/ariados/'>Ariados</a> (20%)
+4. <a href='/renegade-platinum-wiki/pokemon/roselia/'>Roselia</a> (15%)
+5. <a href='/renegade-platinum-wiki/pokemon/venomoth/'>Venomoth</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/illumise/'>Illumise</a> (5%)
+7. <a href='/renegade-platinum-wiki/pokemon/volbeat/'>Volbeat</a> (5%)
+8. <a href='/renegade-platinum-wiki/pokemon/weepinbell/'>Weepinbell</a> (5%)
+</code></pre>
 
 Surf (Lv. 65 - 67)
 
-```
-1. Masquerain (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/masquerain/'>Masquerain</a> (100%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (65%)
-2. Goldeen (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/goldeen/'>Goldeen</a> (35%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (65%)
-2. Goldeen (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/goldeen/'>Goldeen</a> (35%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (65%)
-2. Seaking (35%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/seaking/'>Seaking</a> (35%)
+</code></pre>
 
 
 ---
@@ -5074,27 +4599,23 @@ Super Rod (Lv. 50)
 
 Surf (Lv. 1 - 100)
 
-```
-1. Magikarp (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (100%)
+</code></pre>
 
 Old Rod (Lv. 1 - 100)
 
-```
-1. Magikarp (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (100%)
+</code></pre>
 
 Good Rod (Lv. 1 - 100)
 
-```
-1. Magikarp (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (100%)
+</code></pre>
 
 Super Rod (Lv. 1 - 100)
 
-```
-1. Magikarp (100%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (100%)
+</code></pre>
 
 
 ---
@@ -5103,73 +4624,66 @@ Super Rod (Lv. 1 - 100)
 
 Morning (Lv. 65 - 67)
 
-```
-1. Pelipper (20%)
-2. Floatzel (20%)
-3. Gastrodon (15%)
-4. Golduck (10%)
-5. Tropius (10%)
-6. Zangoose (10%)
-7. Seviper (10%)
-8. Togetic (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/pelipper/'>Pelipper</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/gastrodon/'>Gastrodon</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/golduck/'>Golduck</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/tropius/'>Tropius</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/zangoose/'>Zangoose</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/seviper/'>Seviper</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/togetic/'>Togetic</a> (5%)
+</code></pre>
 
 Day (Lv. 65 - 67)
 
-```
-1. Pelipper (20%)
-2. Floatzel (20%)
-3. Gastrodon (15%)
-4. Golduck (10%)
-5. Tropius (10%)
-6. Zangoose (10%)
-7. Seviper (10%)
-8. Togetic (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/pelipper/'>Pelipper</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/gastrodon/'>Gastrodon</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/golduck/'>Golduck</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/tropius/'>Tropius</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/zangoose/'>Zangoose</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/seviper/'>Seviper</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/togetic/'>Togetic</a> (5%)
+</code></pre>
 
 Night (Lv. 65 - 67)
 
-```
-1. Pelipper (20%)
-2. Floatzel (20%)
-3. Gastrodon (15%)
-4. Golduck (10%)
-5. Tropius (10%)
-6. Zangoose (10%)
-7. Seviper (10%)
-8. Togetic (5%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/pelipper/'>Pelipper</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/floatzel/'>Floatzel</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/gastrodon/'>Gastrodon</a> (15%)
+4. <a href='/renegade-platinum-wiki/pokemon/golduck/'>Golduck</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/tropius/'>Tropius</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/zangoose/'>Zangoose</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/seviper/'>Seviper</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/togetic/'>Togetic</a> (5%)
+</code></pre>
 
 Surf (Lv. 65 - 67)
 
-```
-1. Sealeo (60%)
-2. Tentacruel (40%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/sealeo/'>Sealeo</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/tentacruel/'>Tentacruel</a> (40%)
+</code></pre>
 
 Old Rod (Lv. 10)
 
-```
-1. Magikarp (60%)
-2. Corsola (30%)
-3. Wailmer (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (60%)
+2. <a href='/renegade-platinum-wiki/pokemon/corsola/'>Corsola</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/wailmer/'>Wailmer</a> (10%)
+</code></pre>
 
 Good Rod (Lv. 25)
 
-```
-1. Magikarp (65%)
-2. Corsola (30%)
-3. Wailmer (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magikarp/'>Magikarp</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/corsola/'>Corsola</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/wailmer/'>Wailmer</a> (10%)
+</code></pre>
 
 Super Rod (Lv. 50)
 
-```
-1. Gyarados (65%)
-2. Corsola (30%)
-3. Wailord (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/gyarados/'>Gyarados</a> (65%)
+2. <a href='/renegade-platinum-wiki/pokemon/corsola/'>Corsola</a> (30%)
+3. <a href='/renegade-platinum-wiki/pokemon/wailord/'>Wailord</a> (10%)
+</code></pre>
 
 
 ---
@@ -5178,42 +4692,39 @@ Super Rod (Lv. 50)
 
 Morning (Lv. 66 - 68)
 
-```
-1. Fearow (20%)
-2. Rhydon (20%)
-3. Camerupt (10%)
-4. Machoke (10%)
-5. Skarmory (10%)
-6. Gligar (10%)
-7. Magmar (10%)
-8. Torkoal (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/fearow/'>Fearow</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/camerupt/'>Camerupt</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/skarmory/'>Skarmory</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/gligar/'>Gligar</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/magmar/'>Magmar</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/torkoal/'>Torkoal</a> (10%)
+</code></pre>
 
 Day (Lv. 66 - 68)
 
-```
-1. Fearow (20%)
-2. Rhydon (20%)
-3. Camerupt (10%)
-4. Machoke (10%)
-5. Skarmory (10%)
-6. Gligar (10%)
-7. Magmar (10%)
-8. Torkoal (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/fearow/'>Fearow</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/camerupt/'>Camerupt</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/skarmory/'>Skarmory</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/gligar/'>Gligar</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/magmar/'>Magmar</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/torkoal/'>Torkoal</a> (10%)
+</code></pre>
 
 Night (Lv. 66 - 68)
 
-```
-1. Fearow (20%)
-2. Rhydon (20%)
-3. Camerupt (10%)
-4. Machoke (10%)
-5. Skarmory (10%)
-6. Gligar (10%)
-7. Magmar (10%)
-8. Torkoal (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/fearow/'>Fearow</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/camerupt/'>Camerupt</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/skarmory/'>Skarmory</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/gligar/'>Gligar</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/magmar/'>Magmar</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/torkoal/'>Torkoal</a> (10%)
+</code></pre>
 
 
 ---
@@ -5222,42 +4733,39 @@ Night (Lv. 66 - 68)
 
 Morning (Lv. 67 - 69)
 
-```
-1. Golbat (20%)
-2. Rhydon (20%)
-3. Magcargo (10%)
-4. Graveler (10%)
-5. Machoke (10%)
-6. Weezing (10%)
-7. Muk (10%)
-8. Torkoal (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/magcargo/'>Magcargo</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/weezing/'>Weezing</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/muk/'>Muk</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/torkoal/'>Torkoal</a> (10%)
+</code></pre>
 
 Day (Lv. 67 - 69)
 
-```
-1. Golbat (20%)
-2. Rhydon (20%)
-3. Magcargo (10%)
-4. Graveler (10%)
-5. Machoke (10%)
-6. Weezing (10%)
-7. Muk (10%)
-8. Torkoal (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/magcargo/'>Magcargo</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/weezing/'>Weezing</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/muk/'>Muk</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/torkoal/'>Torkoal</a> (10%)
+</code></pre>
 
 Night (Lv. 67 - 69)
 
-```
-1. Golbat (20%)
-2. Rhydon (20%)
-3. Magcargo (10%)
-4. Graveler (10%)
-5. Machoke (10%)
-6. Weezing (10%)
-7. Muk (10%)
-8. Torkoal (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/magcargo/'>Magcargo</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/weezing/'>Weezing</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/muk/'>Muk</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/torkoal/'>Torkoal</a> (10%)
+</code></pre>
 
 
 ---
@@ -5266,40 +4774,37 @@ Night (Lv. 67 - 69)
 
 Morning (Lv. 67 - 69)
 
-```
-1. Magcargo (20%)
-2. Rhydon (20%)
-3. Golbat (10%)
-4. Graveler (10%)
-5. Machoke (10%)
-6. Weezing (10%)
-7. Muk (10%)
-8. Torkoal (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magcargo/'>Magcargo</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/weezing/'>Weezing</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/muk/'>Muk</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/torkoal/'>Torkoal</a> (10%)
+</code></pre>
 
 Day (Lv. 67 - 69)
 
-```
-1. Magcargo (20%)
-2. Rhydon (20%)
-3. Golbat (10%)
-4. Graveler (10%)
-5. Machoke (10%)
-6. Weezing (10%)
-7. Muk (10%)
-8. Torkoal (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magcargo/'>Magcargo</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/weezing/'>Weezing</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/muk/'>Muk</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/torkoal/'>Torkoal</a> (10%)
+</code></pre>
 
 Night (Lv. 67 - 69)
 
-```
-1. Magcargo (20%)
-2. Rhydon (20%)
-3. Golbat (10%)
-4. Graveler (10%)
-5. Machoke (10%)
-6. Weezing (10%)
-7. Muk (10%)
-8. Torkoal (10%)
-```
+<pre><code>1. <a href='/renegade-platinum-wiki/pokemon/magcargo/'>Magcargo</a> (20%)
+2. <a href='/renegade-platinum-wiki/pokemon/rhydon/'>Rhydon</a> (20%)
+3. <a href='/renegade-platinum-wiki/pokemon/golbat/'>Golbat</a> (10%)
+4. <a href='/renegade-platinum-wiki/pokemon/graveler/'>Graveler</a> (10%)
+5. <a href='/renegade-platinum-wiki/pokemon/machoke/'>Machoke</a> (10%)
+6. <a href='/renegade-platinum-wiki/pokemon/weezing/'>Weezing</a> (10%)
+7. <a href='/renegade-platinum-wiki/pokemon/muk/'>Muk</a> (10%)
+8. <a href='/renegade-platinum-wiki/pokemon/torkoal/'>Torkoal</a> (10%)
+</code></pre>
 

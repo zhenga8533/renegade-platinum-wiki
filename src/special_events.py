@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 from util.file import load, save
-from util.format import find_pokemon_sprite
+from util.format import find_pokemon_sprite, format_id
 from util.logger import Logger
 import logging
 import os
@@ -38,14 +38,22 @@ def main():
         elif next_line.startswith("="):
             md += f"\n---\n\n## {line}\n\n"
         elif next_line.startswith("---"):
-            md += f"\n**{line}**\n\n"
-
             # Add Pokémon sprites
+            md += "\n"
             if line.startswith("#"):
                 pokemon = line.split(", ")
+                links = []
+                sprites = []
+
                 for p in pokemon:
-                    md += find_pokemon_sprite(" ".join(p.split(" ")[1:]), "front", logger) + "\n"
-                md += "\n"
+                    pokemon_id = format_id(" ".join(p.split(" ")[1:]))
+                    links.append(f"[{p}](../pokemon/{pokemon_id}.md)")
+                    sprites.append(find_pokemon_sprite(pokemon_id, "front", logger))
+
+                md += f"**{', '.join(links)}**\n\n"
+                md += "\n".join(sprites) + "\n\n"
+            else:
+                md += f"**{line}**\n\n"
 
             md += "```\n"
             parse_encounter = True

@@ -22,11 +22,11 @@ Level: 1
 1. The Egg will hatch into one of the following Pokémon at random: Pichu, Cleffa, Igglybuff, Togepi, Tyrogue, Smoochum, Elekid, Magby, Azurill, Wynaut, Budew, Chingling, Bonsly, Mime Jr., Happiny, Munchlax, Riolu, Mantyke.
 1. You can save before collecting the Egg and soft reset if you don't like the result.
 
-**#1 Bulbasaur, #4 Charmander, #7 Squirtle**
+**[#1 Bulbasaur](../pokemon/bulbasaur.md), [#4 Charmander](../pokemon/charmander.md), [#7 Squirtle](../pokemon/squirtle.md)**
 
-![Bulbasaur](../assets/sprites/bulbasaur/front.gif "Bulbasaur")
-![Charmander](../assets/sprites/charmander/front.gif "Charmander")
-![Squirtle](../assets/sprites/squirtle/front.gif "Squirtle")
+![bulbasaur](../assets/sprites/bulbasaur/front.gif "bulbasaur")
+![charmander](../assets/sprites/charmander/front.gif "charmander")
+![squirtle](../assets/sprites/squirtle/front.gif "squirtle")
 
 ```
 Location: Jubilife City Pokémon Center
@@ -40,9 +40,9 @@ Level: 5
 1. Squirtle will be the third Pokémon she gives you.
 1. If your party gets full before all three are given, she'll stop and you can talk again to receive the rest.
 
-**#131 Lapras**
+**[#131 Lapras](../pokemon/lapras.md)**
 
-![Lapras](../assets/sprites/lapras/front.gif "Lapras")
+![lapras](../assets/sprites/lapras/front.gif "lapras")
 
 ```
 Location: Pastoria City
@@ -52,9 +52,9 @@ Level: 35
 1. In one of the houses is an old lady. Agree to listen to her story.
 1. She'll give you a Lapras after she finishes.
 
-**#133 Eevee**
+**[#133 Eevee](../pokemon/eevee.md)**
 
-![Eevee](../assets/sprites/eevee/front.gif "Eevee")
+![eevee](../assets/sprites/eevee/front.gif "eevee")
 
 ```
 Location: Twinleaf Town
@@ -65,9 +65,9 @@ Level: 5
 1. Speak to your mother and she'll suggest taking Eevee.
 1. Interact with the Poké Ball to get Eevee.
 
-**#137 Porygon**
+**[#137 Porygon](../pokemon/porygon.md)**
 
-![Porygon](../assets/sprites/porygon/front.gif "Porygon")
+![porygon](../assets/sprites/porygon/front.gif "porygon")
 
 ```
 Location: Eterna Galactic Building
@@ -77,15 +77,15 @@ Level: 22
 1. Defeat Jupiter at the Eterna Galactic Building.
 1. Interact with the Poké Ball behind her to get Porygon.
 
-**#138 Omanyte, #140 Kabuto, #142 Aerodactyl, #345 Lileep, #347 Anorith, #408 Cranidos, #410 Shieldon**
+**[#138 Omanyte](../pokemon/omanyte.md), [#140 Kabuto](../pokemon/kabuto.md), [#142 Aerodactyl](../pokemon/aerodactyl.md), [#345 Lileep](../pokemon/lileep.md), [#347 Anorith](../pokemon/anorith.md), [#408 Cranidos](../pokemon/cranidos.md), [#410 Shieldon](../pokemon/shieldon.md)**
 
-![Omanyte](../assets/sprites/omanyte/front.gif "Omanyte")
-![Kabuto](../assets/sprites/kabuto/front.gif "Kabuto")
-![Aerodactyl](../assets/sprites/aerodactyl/front.gif "Aerodactyl")
-![Lileep](../assets/sprites/lileep/front.gif "Lileep")
-![Anorith](../assets/sprites/anorith/front.gif "Anorith")
-![Cranidos](../assets/sprites/cranidos/front.gif "Cranidos")
-![Shieldon](../assets/sprites/shieldon/front.gif "Shieldon")
+![omanyte](../assets/sprites/omanyte/front.gif "omanyte")
+![kabuto](../assets/sprites/kabuto/front.gif "kabuto")
+![aerodactyl](../assets/sprites/aerodactyl/front.gif "aerodactyl")
+![lileep](../assets/sprites/lileep/front.gif "lileep")
+![anorith](../assets/sprites/anorith/front.gif "anorith")
+![cranidos](../assets/sprites/cranidos/front.gif "cranidos")
+![shieldon](../assets/sprites/shieldon/front.gif "shieldon")
 
 ```
 Location: Eterna City
@@ -96,11 +96,11 @@ Level: 20
 1. Talk to the female scientist to receive fossils for all of these Pokémon.
 1. Take the fossils to the museum in Oreburgh City to revive them.
 
-**#152 Chikorita, #155 Cyndaquil, #158 Totodile**
+**[#152 Chikorita](../pokemon/chikorita.md), [#155 Cyndaquil](../pokemon/cyndaquil.md), [#158 Totodile](../pokemon/totodile.md)**
 
-![Chikorita](../assets/sprites/chikorita/front.gif "Chikorita")
-![Cyndaquil](../assets/sprites/cyndaquil/front.gif "Cyndaquil")
-![Totodile](../assets/sprites/totodile/front.gif "Totodile")
+![chikorita](../assets/sprites/chikorita/front.gif "chikorita")
+![cyndaquil](../assets/sprites/cyndaquil/front.gif "cyndaquil")
+![totodile](../assets/sprites/totodile/front.gif "totodile")
 
 ```
 Location: Floaroma Town Pokémon Center
@@ -114,11 +114,11 @@ Level: 15
 1. Totodile will be the third Pokémon she gives you.
 1. If your party gets full before all three are given, she'll stop and you can talk again to receive the rest.
 
-**#252 Treecko, #255 Torchic, #258 Mudkip**
+**[#252 Treecko](../pokemon/treecko.md), [#255 Torchic](../pokemon/torchic.md), [#258 Mudkip](../pokemon/mudkip.md)**
 
-![Treecko](../assets/sprites/treecko/front.gif "Treecko")
-![Torchic](../assets/sprites/torchic/front.gif "Torchic")
-![Mudkip](../assets/sprites/mudkip/front.gif "Mudkip")
+![treecko](../assets/sprites/treecko/front.gif "treecko")
+![torchic](../assets/sprites/torchic/front.gif "torchic")
+![mudkip](../assets/sprites/mudkip/front.gif "mudkip")
 
 ```
 Location: Oreburgh City Pokémon Center
@@ -132,9 +132,9 @@ Level: 10
 1. Mudkip will be the third Pokémon she gives you.
 1. If your party gets full before all three are given, she'll stop and you can talk again to receive the rest.
 
-**#374 Beldum**
+**[#374 Beldum](../pokemon/beldum.md)**
 
-![Beldum](../assets/sprites/beldum/front.gif "Beldum")
+![beldum](../assets/sprites/beldum/front.gif "beldum")
 
 ```
 Location: Oreburgh City
@@ -144,11 +144,11 @@ Level: 10
 1. Go inside the house near Oreburgh Mine.
 1. Talk to Steven and he'll offer you a Beldum.
 
-**#387 Turtwig, #390 Chimchar, #393 Piplup**
+**[#387 Turtwig](../pokemon/turtwig.md), [#390 Chimchar](../pokemon/chimchar.md), [#393 Piplup](../pokemon/piplup.md)**
 
-![Turtwig](../assets/sprites/turtwig/front.gif "Turtwig")
-![Chimchar](../assets/sprites/chimchar/front.gif "Chimchar")
-![Piplup](../assets/sprites/piplup/front.gif "Piplup")
+![turtwig](../assets/sprites/turtwig/front.gif "turtwig")
+![chimchar](../assets/sprites/chimchar/front.gif "chimchar")
+![piplup](../assets/sprites/piplup/front.gif "piplup")
 
 ```
 Location: Sandgem Town
@@ -165,9 +165,9 @@ Level: 5
 ## Special Encounters
 
 
-**#94 Gengar**
+**[#94 Gengar](../pokemon/gengar.md)**
 
-![Gengar](../assets/sprites/gengar/front.gif "Gengar")
+![gengar](../assets/sprites/gengar/front.gif "gengar")
 
 ```
 Location: Old Chateau
@@ -178,9 +178,9 @@ Level: 20
 1. Attempt to leave the room and you'll encounter Gengar.
 1. This event can only be performed once.
 
-**#442 Spiritomb**
+**[#442 Spiritomb](../pokemon/spiritomb.md)**
 
-![Spiritomb](../assets/sprites/spiritomb/front.gif "Spiritomb")
+![spiritomb](../assets/sprites/spiritomb/front.gif "spiritomb")
 
 ```
 Location: Route 209
@@ -190,9 +190,9 @@ Level: 30
 1. Get the Odd Keystone from a man on Route 208, hidden in Twinleaf Town or from the Underground.
 1. Talk to the broken stone tower to encounter Spiritomb.
 
-**#444 Gabite**
+**[#444 Gabite](../pokemon/gabite.md)**
 
-![Gabite](../assets/sprites/gabite/front.gif "Gabite")
+![gabite](../assets/sprites/gabite/front.gif "gabite")
 
 ```
 Location: Wayward Cave
@@ -203,9 +203,9 @@ Level: 25
 1. Walk forward and you'll encounter Gabite.
 1. This event can only be performed once.
 
-**#479 Rotom**
+**[#479 Rotom](../pokemon/rotom.md)**
 
-![Rotom](../assets/sprites/rotom/front.gif "Rotom")
+![rotom](../assets/sprites/rotom/front.gif "rotom")
 
 ```
 Location: Old Chateau
@@ -220,9 +220,9 @@ Level: 20
 ## Legendary Encounters
 
 
-**#144 Articuno**
+**[#144 Articuno](../pokemon/articuno.md)**
 
-![Articuno](../assets/sprites/articuno/front.gif "Articuno")
+![articuno](../assets/sprites/articuno/front.gif "articuno")
 
 ```
 Location: Mt. Coronet (Summit)
@@ -235,9 +235,9 @@ Level: 60
 1. Talk to the portal to encounter Articuno.
 1. You can keep battling Articuno until you catch it.
 
-**#145 Zapdos**
+**[#145 Zapdos](../pokemon/zapdos.md)**
 
-![Zapdos](../assets/sprites/zapdos/front.gif "Zapdos")
+![zapdos](../assets/sprites/zapdos/front.gif "zapdos")
 
 ```
 Location: Valley Windworks
@@ -250,9 +250,9 @@ Level: 60
 1. Talk to the portal to encounter Zapdos.
 1. You can keep battling Zapdos until you catch it.
 
-**#146 Moltres**
+**[#146 Moltres](../pokemon/moltres.md)**
 
-![Moltres](../assets/sprites/moltres/front.gif "Moltres")
+![moltres](../assets/sprites/moltres/front.gif "moltres")
 
 ```
 Location: Victory Road
@@ -265,9 +265,9 @@ Level: 60
 1. Talk to the portal to encounter Moltres.
 1. You can keep battling Moltres until you catch it.
 
-**#150 Mewtwo**
+**[#150 Mewtwo](../pokemon/mewtwo.md)**
 
-![Mewtwo](../assets/sprites/mewtwo/front.gif "Mewtwo")
+![mewtwo](../assets/sprites/mewtwo/front.gif "mewtwo")
 
 ```
 Location: Oreburgh Gate
@@ -281,9 +281,9 @@ Level: 70
 1. Talk to the portal with the Odd Invitation in your inventory to encounter Mewtwo.
 1. You can keep battling Mewtwo until you catch it.
 
-**#151 Mew**
+**[#151 Mew](../pokemon/mew.md)**
 
-![Mew](../assets/sprites/mew/front.gif "Mew")
+![mew](../assets/sprites/mew/front.gif "mew")
 
 ```
 Location: Route 201
@@ -301,9 +301,9 @@ Level: 40
 1. Talk to Mew to encounter it.
 1. You can keep battling Mew until you catch it.
 
-**#243 Raikou**
+**[#243 Raikou](../pokemon/raikou.md)**
 
-![Raikou](../assets/sprites/raikou/front.gif "Raikou")
+![raikou](../assets/sprites/raikou/front.gif "raikou")
 
 ```
 Location: Route 208
@@ -316,9 +316,9 @@ Level: 60
 1. Talk to the portal to encounter Raikou.
 1. You can keep battling Raikou until you catch it.
 
-**#244 Entei**
+**[#244 Entei](../pokemon/entei.md)**
 
-![Entei](../assets/sprites/entei/front.gif "Entei")
+![entei](../assets/sprites/entei/front.gif "entei")
 
 ```
 Location: Route 211 (East)
@@ -331,9 +331,9 @@ Level: 60
 1. Talk to the portal to encounter Entei.
 1. You can keep battling Entei until you catch it.
 
-**#245 Suicune**
+**[#245 Suicune](../pokemon/suicune.md)**
 
-![Suicune](../assets/sprites/suicune/front.gif "Suicune")
+![suicune](../assets/sprites/suicune/front.gif "suicune")
 
 ```
 Location: Route 213
@@ -346,9 +346,9 @@ Level: 60
 1. Talk to the portal to encounter Suicune.
 1. You can keep battling Suicune until you catch it.
 
-**#249 Lugia**
+**[#249 Lugia](../pokemon/lugia.md)**
 
-![Lugia](../assets/sprites/lugia/front.gif "Lugia")
+![lugia](../assets/sprites/lugia/front.gif "lugia")
 
 ```
 Location: Route 220
@@ -363,9 +363,9 @@ Level: 70
 1. Talk to the portal with the Silver Wing in your inventory to encounter Lugia.
 1. You can keep battling Lugia until you catch it.
 
-**#250 Ho-oh**
+**[#250 Ho-oh](../pokemon/ho-oh.md)**
 
-![Ho-oh](../assets/sprites/ho-oh/front.gif "Ho-oh")
+![ho-oh](../assets/sprites/ho-oh/front.gif "ho-oh")
 
 ```
 Location: Lost Tower
@@ -381,9 +381,9 @@ Level: 70
 1. Talk to the portal with the Rainbow Wing in your inventory to encounter Ho-oh.
 1. You can keep battling Ho-oh until you catch it.
 
-**#251 Celebi**
+**[#251 Celebi](../pokemon/celebi.md)**
 
-![Celebi](../assets/sprites/celebi/front.gif "Celebi")
+![celebi](../assets/sprites/celebi/front.gif "celebi")
 
 ```
 Location: Eterna Forest
@@ -399,9 +399,9 @@ Level: 40
 1. Talk to this red portal to encounter Celebi.
 1. You can keep battling Celebi until you catch it.
 
-**#377 Regirock**
+**[#377 Regirock](../pokemon/regirock.md)**
 
-![Regirock](../assets/sprites/regirock/front.gif "Regirock")
+![regirock](../assets/sprites/regirock/front.gif "regirock")
 
 ```
 Location: Route 228
@@ -414,9 +414,9 @@ Level: 60
 1. Walk over each glowing tile and talk to the statue to encounter Regirock.
 1. You can exit and enter the room to encounter Regirock again until you catch it.
 
-**#378 Regice**
+**[#378 Regice](../pokemon/regice.md)**
 
-![Regice](../assets/sprites/regice/front.gif "Regice")
+![regice](../assets/sprites/regice/front.gif "regice")
 
 ```
 Location: Mt. Coronet (Route 216 Entrance)
@@ -429,9 +429,9 @@ Level: 60
 1. Walk over each glowing tile and talk to the statue to encounter Regice.
 1. You can exit and enter the room to encounter Regice again until you catch it.
 
-**#379 Registeel**
+**[#379 Registeel](../pokemon/registeel.md)**
 
-![Registeel](../assets/sprites/registeel/front.gif "Registeel")
+![registeel](../assets/sprites/registeel/front.gif "registeel")
 
 ```
 Location: Iron Island (B3F)
@@ -444,9 +444,9 @@ Level: 60
 1. Walk over each glowing tile and talk to the statue to encounter Registeel.
 1. You can exit and enter the room to encounter Registeel again until you catch it.
 
-**#380 Latias**
+**[#380 Latias](../pokemon/latias.md)**
 
-![Latias](../assets/sprites/latias/front.gif "Latias")
+![latias](../assets/sprites/latias/front.gif "latias")
 
 ```
 Location: Fullmoon Island
@@ -459,9 +459,9 @@ Level: 68
 1. Choose "Red" to encounter Latias.
 1. You can pick "Red" to battle Latias repeatedly until you catch it.
 
-**#381 Latios**
+**[#381 Latios](../pokemon/latios.md)**
 
-![Latios](../assets/sprites/latios/front.gif "Latios")
+![latios](../assets/sprites/latios/front.gif "latios")
 
 ```
 Location: Fullmoon Island
@@ -474,9 +474,9 @@ Level: 68
 1. Choose "Blue" to encounter Latios.
 1. You can pick "Blue" to battle Latios repeatedly until you catch it.
 
-**#382 Kyogre**
+**[#382 Kyogre](../pokemon/kyogre.md)**
 
-![Kyogre](../assets/sprites/kyogre/front.gif "Kyogre")
+![kyogre](../assets/sprites/kyogre/front.gif "kyogre")
 
 ```
 Location: Mt. Coronet (B1F)
@@ -491,9 +491,9 @@ Level: 70
 1. Talk to the portal with the Blue Orb in your inventory to encounter Kyogre.
 1. You can keep battling Kyogre until you catch it.
 
-**#383 Groudon**
+**[#383 Groudon](../pokemon/groudon.md)**
 
-![Groudon](../assets/sprites/groudon/front.gif "Groudon")
+![groudon](../assets/sprites/groudon/front.gif "groudon")
 
 ```
 Location: Stark Mountain (Interior)
@@ -508,9 +508,9 @@ Level: 70
 1. Talk to the portal with the Red Orb in your inventory to encounter Groudon.
 1. You can keep battling Groudon until you catch it.
 
-**#384 Rayquaza**
+**[#384 Rayquaza](../pokemon/rayquaza.md)**
 
-![Rayquaza](../assets/sprites/rayquaza/front.gif "Rayquaza")
+![rayquaza](../assets/sprites/rayquaza/front.gif "rayquaza")
 
 ```
 Location: Pokémon League
@@ -525,9 +525,9 @@ Level: 70
 1. Talk to the portal with the Jade Orb in your inventory to encounter Rayquaza.
 1. You can keep battling Rayquaza until you catch it.
 
-**#385 Jirachi**
+**[#385 Jirachi](../pokemon/jirachi.md)**
 
-![Jirachi](../assets/sprites/jirachi/front.gif "Jirachi")
+![jirachi](../assets/sprites/jirachi/front.gif "jirachi")
 
 ```
 Location: Solaceon Ruins
@@ -541,9 +541,9 @@ Level: 40
 1. Talk to Jirachi wth a Jigglypuff in your party and select 'Yes' to singing to it to encounter Jirachi.
 1. You can keep battling Jirachi until you catch it.
 
-**#386 Deoxys**
+**[#386 Deoxys](../pokemon/deoxys-normal.md)**
 
-![Deoxys](../assets/sprites/deoxys-normal/front.gif "Deoxys")
+![deoxys-normal](../assets/sprites/deoxys-normal/front.gif "deoxys-normal")
 
 ```
 Location: Veilstone City
@@ -556,9 +556,9 @@ Level: 70
 1. Go up the steps and exit the pit. A portal will appear behind you and Deoxys will rush out and battle you.
 1. You can exit from the meteor pit to encounter Deoxys repeatedly until you catch it.
 
-**#480 Uxie**
+**[#480 Uxie](../pokemon/uxie.md)**
 
-![Uxie](../assets/sprites/uxie/front.gif "Uxie")
+![uxie](../assets/sprites/uxie/front.gif "uxie")
 
 ```
 Location: Acuity Cavern
@@ -571,9 +571,9 @@ Level: 60
 1. Talk to Uxie to encounter it.
 1. You can keep battling Uxie until you catch it.
 
-**#481 Mesprit**
+**[#481 Mesprit](../pokemon/mesprit.md)**
 
-![Mesprit](../assets/sprites/mesprit/front.gif "Mesprit")
+![mesprit](../assets/sprites/mesprit/front.gif "mesprit")
 
 ```
 Location: Verity Cavern
@@ -586,9 +586,9 @@ Level: 60
 1. Talk to Mesprit to encounter it.
 1. You can keep battling Mesprit until you catch it.
 
-**#482 Azelf**
+**[#482 Azelf](../pokemon/azelf.md)**
 
-![Azelf](../assets/sprites/azelf/front.gif "Azelf")
+![azelf](../assets/sprites/azelf/front.gif "azelf")
 
 ```
 Location: Valor Cavern
@@ -601,9 +601,9 @@ Level: 60
 1. Talk to Azelf to encounter it.
 1. You can keep battling Azelf until you catch it.
 
-**#483 Dialga**
+**[#483 Dialga](../pokemon/dialga.md)**
 
-![Dialga](../assets/sprites/dialga/front.gif "Dialga")
+![dialga](../assets/sprites/dialga/front.gif "dialga")
 
 ```
 Location: Spear Pillar
@@ -616,9 +616,9 @@ Level: 70
 1. Go to Spear Pillar with the Adamant Orb in your inventory and talk to the blue portal to encounter Dialga.
 1. If you defeat or run from Dialga, you will need to defeat the Elite Four to get it to appear again.
 
-**#484 Palkia**
+**[#484 Palkia](../pokemon/palkia.md)**
 
-![Palkia](../assets/sprites/palkia/front.gif "Palkia")
+![palkia](../assets/sprites/palkia/front.gif "palkia")
 
 ```
 Location: Spear Pillar
@@ -632,9 +632,9 @@ Level: 70
 1. Go to Spear Pillar with the Lustrous Orb in your inventory and talk to the pink portal to encounter Palkia.
 1. If you defeat or run from Palkia, you will need to defeat the Elite Four to get it to appear again.
 
-**#485 Heatran**
+**[#485 Heatran](../pokemon/heatran.md)**
 
-![Heatran](../assets/sprites/heatran/front.gif "Heatran")
+![heatran](../assets/sprites/heatran/front.gif "heatran")
 
 ```
 Location: Stark Mountain (Furthest Room - Interior)
@@ -648,9 +648,9 @@ Level: 68
 1. If you defeat or run from Heatran, you will need to defeat the Elite Four to get it to appear again.
 1. After you catch Heatran, you will receive the Magma Stone.
 
-**#486 Regigigas**
+**[#486 Regigigas](../pokemon/regigigas.md)**
 
-![Regigigas](../assets/sprites/regigigas/front.gif "Regigigas")
+![regigigas](../assets/sprites/regigigas/front.gif "regigigas")
 
 ```
 Location: Snowpoint Temple (B6F)
@@ -663,9 +663,9 @@ Level: 70
 1. Talk to Regigigas with Regirock, Regice and Registeel in your party to encounter it.
 1. If you defeat or run from Regigigas, you will need to defeat the Elite Four to get it to appear again.
 
-**#487 Giratina**
+**[#487 Giratina](../pokemon/giratina-altered.md)**
 
-![Giratina](../assets/sprites/giratina-altered/front.gif "Giratina")
+![giratina-altered](../assets/sprites/giratina-altered/front.gif "giratina-altered")
 
 ```
 Location: Distortion World / Turnback Cave
@@ -676,9 +676,9 @@ Level: 70
 1. If you defeat or run from Giratina in the Distortion World, you can find it in the final room of Turnback Cave after the credits at Level 70.
 1. If you defeat or run from Giratina in Turnback Cave, you will need to defeat the Elite Four to get it to appear again.
 
-**#488 Cresselia**
+**[#488 Cresselia](../pokemon/cresselia.md)**
 
-![Cresselia](../assets/sprites/cresselia/front.gif "Cresselia")
+![cresselia](../assets/sprites/cresselia/front.gif "cresselia")
 
 ```
 Location: Fullmoon Island
@@ -690,9 +690,9 @@ Level: 68
 1. Talk to the sailor outside to go to Fullmoon Island.
 1. Talk to Cresselia in the grove further in the island to encounter it.
 
-**#489 Phione**
+**[#489 Phione](../pokemon/phione.md)**
 
-![Phione](../assets/sprites/phione/front.gif "Phione")
+![phione](../assets/sprites/phione/front.gif "phione")
 
 ```
 Location: N/A
@@ -702,9 +702,9 @@ Level: N/A
 1. Place Manaphy in the Daycare in Solaceon Town with a Ditto as a partner.
 1. Once an Egg is found, take it and hatch it to get Phione.
 
-**#490 Manaphy**
+**[#490 Manaphy](../pokemon/manaphy.md)**
 
-![Manaphy](../assets/sprites/manaphy/front.gif "Manaphy")
+![manaphy](../assets/sprites/manaphy/front.gif "manaphy")
 
 ```
 Location: Pokémon Mansion
@@ -714,9 +714,9 @@ Level: N/A
 1. After the story events at the Pokémon Mansion, you will be offered an Egg.
 1. Accept the Egg, then hatch it to get Manaphy.
 
-**#491 Darkrai**
+**[#491 Darkrai](../pokemon/darkrai.md)**
 
-![Darkrai](../assets/sprites/darkrai/front.gif "Darkrai")
+![darkrai](../assets/sprites/darkrai/front.gif "darkrai")
 
 ```
 Location: Newmoon Island
@@ -730,9 +730,9 @@ Level: 68
 1. Talk to Darkrai in the grove further in the island to encounter it.
 1. You can fight Darkrai repeatedly by re-entering the house until you catch it.
 
-**#492 Shaymin**
+**[#492 Shaymin](../pokemon/shaymin-land.md)**
 
-![Shaymin](../assets/sprites/shaymin-land/front.gif "Shaymin")
+![shaymin-land](../assets/sprites/shaymin-land/front.gif "shaymin-land")
 
 ```
 Location: Flower Paradise
@@ -748,9 +748,9 @@ Level: 30
 1. Talk to Shaymin in the center of the Flower Paradise to encounter it.
 1. You can fight Shaymin repeatedly by exiting and entering Flower Paradise until you catch it.
 
-**#493 Arceus**
+**[#493 Arceus](../pokemon/arceus.md)**
 
-![Arceus](../assets/sprites/arceus/front.gif "Arceus")
+![arceus](../assets/sprites/arceus/front.gif "arceus")
 
 ```
 Location: Hall of Origin

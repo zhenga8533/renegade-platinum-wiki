@@ -82,9 +82,10 @@ def main():
         elif next_line.startswith("="):
             md += f"\n---\n\n## {line}\n\n"
         elif line.startswith("- "):
-            md += f"1. {line[2:]}\n"
-
             pokemon, change = line[2:].split(": ")
+            pokemon_id = format_id(pokemon)
+            md += f"1. [{pokemon}](../pokemon/{pokemon_id}.md): {change}\n"
+
             p = json.loads(load(POKEMON_INPUT_PATH + format_id(pokemon) + ".json", logger))
             evolutions = fix_evolutions(p["evolutions"], format_id(pokemon), change)
             fix_pokemon(evolutions, p["evolutions"], POKEMON_INPUT_PATH, logger)

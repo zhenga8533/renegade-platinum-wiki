@@ -8,7 +8,7 @@
 
 ## Oreburgh City
 
-You will be asked for a Ponyta in exchange for a Spheal.
+You will be asked for a [Ponyta](../pokemon/ponyta.md) in exchange for a [Spheal](../pokemon/spheal.md).
 
 <pre><code><b>Gaia the Spheal</b>
 <img src="../../assets/sprites/spheal/front.gif" title="Spheal" alt="Spheal">
@@ -21,7 +21,7 @@ You will be asked for a Ponyta in exchange for a Spheal.
 
 ## Floaroma Town
 
-You will be asked for a Cherubi in exchange for a Skorupi.
+You will be asked for a [Cherubi](../pokemon/cherubi.md) in exchange for a [Skorupi](../pokemon/skorupi.md).
 
 <pre><code><b>Spike the Skorupi</b>
 <img src="../../assets/sprites/skorupi/front.gif" title="Skorupi" alt="Skorupi">
@@ -34,7 +34,7 @@ You will be asked for a Cherubi in exchange for a Skorupi.
 
 ## Eterna City
 
-You will be asked for a Snorunt in exchange for a Chatot.
+You will be asked for a [Snorunt](../pokemon/snorunt.md) in exchange for a [Chatot](../pokemon/chatot.md).
 
 <pre><code><b>Macaw the Chatot</b>
 <img src="../../assets/sprites/chatot/front.gif" title="Chatot" alt="Chatot">
@@ -47,7 +47,7 @@ You will be asked for a Snorunt in exchange for a Chatot.
 
 ## Route 226
 
-You will be asked for a Magikarp in exchange for a (German) Magikarp.
+You will be asked for a [Magikarp](../pokemon/magikarp.md) in exchange for a (German) [Magikarp](../pokemon/magikarp.md).
 
 <pre><code><b>Foppa the Magikarp</b>
 <img src="../../assets/sprites/magikarp/front.gif" title="Magikarp" alt="Magikarp">

@@ -44,7 +44,7 @@
 
 ## Specific Changes
 
-**#001 - Bulbasaur**
+**[#001 - Bulbasaur](../pokemon/bulbasaur.md)**
 
 ![Bulbasaur](../assets/sprites/bulbasaur/front.gif "Bulbasaur")
 
@@ -77,7 +77,7 @@ Level Up:
 44 - Leaf Storm
 ```
 
-**#002 - Ivysaur**
+**[#002 - Ivysaur](../pokemon/ivysaur.md)**
 
 ![Ivysaur](../assets/sprites/ivysaur/front.gif "Ivysaur")
 
@@ -111,7 +111,7 @@ Level Up:
 54 - Leaf Storm
 ```
 
-**#003 - Venusaur**
+**[#003 - Venusaur](../pokemon/venusaur.md)**
 
 ![Venusaur](../assets/sprites/venusaur/front.gif "Venusaur")
 
@@ -162,7 +162,7 @@ Level Up:
 60 - Leaf Storm
 ```
 
-**#004 - Charmander**
+**[#004 - Charmander](../pokemon/charmander.md)**
 
 ![Charmander](../assets/sprites/charmander/front.gif "Charmander")
 
@@ -200,7 +200,7 @@ Level Up:
 44 - Flare Blitz
 ```
 
-**#005 - Charmeleon**
+**[#005 - Charmeleon](../pokemon/charmeleon.md)**
 
 ![Charmeleon](../assets/sprites/charmeleon/front.gif "Charmeleon")
 
@@ -239,7 +239,7 @@ Level Up:
 54 - Flare Blitz
 ```
 
-**#006 - Charizard**
+**[#006 - Charizard](../pokemon/charizard.md)**
 
 ![Charizard](../assets/sprites/charizard/front.gif "Charizard")
 
@@ -304,7 +304,7 @@ Level Up:
 59 - Flare Blitz
 ```
 
-**#007 - Squirtle**
+**[#007 - Squirtle](../pokemon/squirtle.md)**
 
 ![Squirtle](../assets/sprites/squirtle/front.gif "Squirtle")
 
@@ -336,7 +336,7 @@ Level Up:
 44 - Water Spout
 ```
 
-**#008 - Wartortle**
+**[#008 - Wartortle](../pokemon/wartortle.md)**
 
 ![Wartortle](../assets/sprites/wartortle/front.gif "Wartortle")
 
@@ -369,7 +369,7 @@ Level Up:
 54 - Water Spout
 ```
 
-**#009 - Blastoise**
+**[#009 - Blastoise](../pokemon/blastoise.md)**
 
 ![Blastoise](../assets/sprites/blastoise/front.gif "Blastoise")
 
@@ -427,7 +427,7 @@ Level Up:
 59 - Water Spout
 ```
 
-**#010 - Caterpie**
+**[#010 - Caterpie](../pokemon/caterpie.md)**
 
 ![Caterpie](../assets/sprites/caterpie/front.gif "Caterpie")
 
@@ -446,7 +446,7 @@ Level Up:
 1 - Bug Bite
 ```
 
-**#011 - Metapod**
+**[#011 - Metapod](../pokemon/metapod.md)**
 
 ![Metapod](../assets/sprites/metapod/front.gif "Metapod")
 
@@ -465,7 +465,7 @@ Level Up:
 7 - Iron Defense
 ```
 
-**#012 - Butterfree**
+**[#012 - Butterfree](../pokemon/butterfree.md)**
 
 ![Butterfree](../assets/sprites/butterfree/front.gif "Butterfree")
 
@@ -515,7 +515,7 @@ Level Up:
 45 - Hurricane (!!)
 ```
 
-**#013 - Weedle**
+**[#013 - Weedle](../pokemon/weedle.md)**
 
 ![Weedle](../assets/sprites/weedle/front.gif "Weedle")
 
@@ -534,7 +534,7 @@ Level Up:
 1 - Bug Bite
 ```
 
-**#014 - Kakuna**
+**[#014 - Kakuna](../pokemon/kakuna.md)**
 
 ![Kakuna](../assets/sprites/kakuna/front.gif "Kakuna")
 
@@ -553,7 +553,7 @@ Level Up:
 7 - Iron Defense
 ```
 
-**#015 - Beedrill**
+**[#015 - Beedrill](../pokemon/beedrill.md)**
 
 ![Beedrill](../assets/sprites/beedrill/front.gif "Beedrill")
 
@@ -608,7 +608,7 @@ Level Up:
 45 - Megahorn (!!)
 ```
 
-**#016 - Pidgey**
+**[#016 - Pidgey](../pokemon/pidgey.md)**
 
 ![Pidgey](../assets/sprites/pidgey/front.gif "Pidgey")
 
@@ -648,7 +648,7 @@ Level Up:
 45 - Brave Bird
 ```
 
-**#017 - Pidgeotto**
+**[#017 - Pidgeotto](../pokemon/pidgeotto.md)**
 
 ![Pidgeotto](../assets/sprites/pidgeotto/front.gif "Pidgeotto")
 
@@ -688,7 +688,7 @@ Level Up:
 55 - Brave Bird
 ```
 
-**#018 - Pidgeot**
+**[#018 - Pidgeot](../pokemon/pidgeot.md)**
 
 ![Pidgeot](../assets/sprites/pidgeot/front.gif "Pidgeot")
 
@@ -739,7 +739,7 @@ Level Up:
 60 - Brave Bird
 ```
 
-**#019 - Rattata**
+**[#019 - Rattata](../pokemon/rattata.md)**
 
 ![Rattata](../assets/sprites/rattata/front.gif "Rattata")
 
@@ -771,7 +771,7 @@ Level Up:
 43 - Last Resort
 ```
 
-**#020 - Raticate**
+**[#020 - Raticate](../pokemon/raticate.md)**
 
 ![Raticate](../assets/sprites/raticate/front.gif "Raticate")
 
@@ -813,7 +813,7 @@ Level Up:
 51 - Last Resort
 ```
 
-**#021 - Spearow**
+**[#021 - Spearow](../pokemon/spearow.md)**
 
 ![Spearow](../assets/sprites/spearow/front.gif "Spearow")
 
@@ -852,7 +852,7 @@ Level Up:
 46 - Brave Bird (!!)
 ```
 
-**#022 - Fearow**
+**[#022 - Fearow](../pokemon/fearow.md)**
 
 ![Fearow](../assets/sprites/fearow/front.gif "Fearow")
 
@@ -901,7 +901,7 @@ Level Up:
 55 - Brave Bird (!!)
 ```
 
-**#023 - Ekans**
+**[#023 - Ekans](../pokemon/ekans.md)**
 
 ![Ekans](../assets/sprites/ekans/front.gif "Ekans")
 
@@ -927,7 +927,7 @@ Level Up:
 40 - Gunk Shot
 ```
 
-**#024 - Arbok**
+**[#024 - Arbok](../pokemon/arbok.md)**
 
 ![Arbok](../assets/sprites/arbok/front.gif "Arbok")
 
@@ -964,7 +964,7 @@ Level Up:
 47 - Gunk Shot
 ```
 
-**#025 - Pikachu**
+**[#025 - Pikachu](../pokemon/pikachu.md)**
 
 ![Pikachu](../assets/sprites/pikachu/front.gif "Pikachu")
 
@@ -1003,7 +1003,7 @@ Level Up:
 39 - Thunder
 ```
 
-**#026 - Raichu**
+**[#026 - Raichu](../pokemon/raichu.md)**
 
 ![Raichu](../assets/sprites/raichu/front.gif "Raichu")
 
@@ -1041,7 +1041,7 @@ Level Up:
 1 - Thunderbolt
 ```
 
-**#027 - Sandshrew**
+**[#027 - Sandshrew](../pokemon/sandshrew.md)**
 
 ![Sandshrew](../assets/sprites/sandshrew/front.gif "Sandshrew")
 
@@ -1070,7 +1070,7 @@ Level Up:
 45 - Fissure
 ```
 
-**#028 - Sandslash**
+**[#028 - Sandslash](../pokemon/sandslash.md)**
 
 ![Sandslash](../assets/sprites/sandslash/front.gif "Sandslash")
 
@@ -1100,7 +1100,7 @@ Level Up:
 53 - Fissure
 ```
 
-**#029 - Nidoran F**
+**[#029 - Nidoran F](../pokemon/nidoran-f.md)**
 
 ![Nidoran F](../assets/sprites/nidoran-f/front.gif "Nidoran F")
 
@@ -1125,7 +1125,7 @@ Level Up:
 39 - Super Fang
 ```
 
-**#030 - Nidorina**
+**[#030 - Nidorina](../pokemon/nidorina.md)**
 
 ![Nidorina](../assets/sprites/nidorina/front.gif "Nidorina")
 
@@ -1150,7 +1150,7 @@ Level Up:
 47 - Super Fang
 ```
 
-**#031 - Nidoqueen**
+**[#031 - Nidoqueen](../pokemon/nidoqueen.md)**
 
 ![Nidoqueen](../assets/sprites/nidoqueen/front.gif "Nidoqueen")
 
@@ -1169,7 +1169,7 @@ Level Up:
 55 - Superpower
 ```
 
-**#032 - Nidoran M**
+**[#032 - Nidoran M](../pokemon/nidoran-m.md)**
 
 ![Nidoran M](../assets/sprites/nidoran-m/front.gif "Nidoran M")
 
@@ -1194,7 +1194,7 @@ Level Up:
 39 - Head Smash
 ```
 
-**#033 - Nidorino**
+**[#033 - Nidorino](../pokemon/nidorino.md)**
 
 ![Nidorino](../assets/sprites/nidorino/front.gif "Nidorino")
 
@@ -1219,7 +1219,7 @@ Level Up:
 47 - Head Smash
 ```
 
-**#034 - Nidoking**
+**[#034 - Nidoking](../pokemon/nidoking.md)**
 
 ![Nidoking](../assets/sprites/nidoking/front.gif "Nidoking")
 
@@ -1238,7 +1238,7 @@ Level Up:
 55 - Megahorn
 ```
 
-**#035 - Clefairy**
+**[#035 - Clefairy](../pokemon/clefairy.md)**
 
 ![Clefairy](../assets/sprites/clefairy/front.gif "Clefairy")
 
@@ -1268,7 +1268,7 @@ Level Up:
 39 - Healing Wish
 ```
 
-**#036 - Clefable**
+**[#036 - Clefable](../pokemon/clefable.md)**
 
 ![Clefable](../assets/sprites/clefable/front.gif "Clefable")
 
@@ -1284,7 +1284,7 @@ Level Up:
 37 - Moonblast
 ```
 
-**#037 - Vulpix**
+**[#037 - Vulpix](../pokemon/vulpix.md)**
 
 ![Vulpix](../assets/sprites/vulpix/front.gif "Vulpix")
 
@@ -1325,7 +1325,7 @@ Level Up:
 45 - Fire Blast
 ```
 
-**#038 - Ninetales**
+**[#038 - Ninetales](../pokemon/ninetales.md)**
 
 ![Ninetales](../assets/sprites/ninetales/front.gif "Ninetales")
 
@@ -1371,7 +1371,7 @@ Level Up:
 1 - Safeguard
 ```
 
-**#039 - Jigglypuff**
+**[#039 - Jigglypuff](../pokemon/jigglypuff.md)**
 
 ![Jigglypuff](../assets/sprites/jigglypuff/front.gif "Jigglypuff")
 
@@ -1415,7 +1415,7 @@ Level Up:
 37 - Last Resort
 ```
 
-**#040 - Wigglytuff**
+**[#040 - Wigglytuff](../pokemon/wigglytuff.md)**
 
 ![Wigglytuff](../assets/sprites/wigglytuff/front.gif "Wigglytuff")
 
@@ -1447,7 +1447,7 @@ Level Up:
 43 - Moonblast (!!)
 ```
 
-**#041 - Zubat**
+**[#041 - Zubat](../pokemon/zubat.md)**
 
 ![Zubat](../assets/sprites/zubat/front.gif "Zubat")
 
@@ -1479,7 +1479,7 @@ Level Up:
 43 - Brave Bird
 ```
 
-**#042 - Golbat**
+**[#042 - Golbat](../pokemon/golbat.md)**
 
 ![Golbat](../assets/sprites/golbat/front.gif "Golbat")
 
@@ -1513,7 +1513,7 @@ Level Up:
 51 - Brave Bird
 ```
 
-**#043 - Oddish**
+**[#043 - Oddish](../pokemon/oddish.md)**
 
 ![Oddish](../assets/sprites/oddish/front.gif "Oddish")
 
@@ -1546,7 +1546,7 @@ Level Up:
 40 - Petal Dance
 ```
 
-**#044 - Gloom**
+**[#044 - Gloom](../pokemon/gloom.md)**
 
 ![Gloom](../assets/sprites/gloom/front.gif "Gloom")
 
@@ -1579,7 +1579,7 @@ Level Up:
 47 - Petal Dance
 ```
 
-**#045 - Vileplume**
+**[#045 - Vileplume](../pokemon/vileplume.md)**
 
 ![Vileplume](../assets/sprites/vileplume/front.gif "Vileplume")
 
@@ -1605,7 +1605,7 @@ Level Up:
 57 - Solar Beam
 ```
 
-**#046 - Paras**
+**[#046 - Paras](../pokemon/paras.md)**
 
 ![Paras](../assets/sprites/paras/front.gif "Paras")
 
@@ -1637,7 +1637,7 @@ Level Up:
 46 - X-Scissor
 ```
 
-**#047 - Parasect**
+**[#047 - Parasect](../pokemon/parasect.md)**
 
 ![Parasect](../assets/sprites/parasect/front.gif "Parasect")
 
@@ -1677,7 +1677,7 @@ Level Up:
 54 - X-Scissor
 ```
 
-**#048 - Venonat**
+**[#048 - Venonat](../pokemon/venonat.md)**
 
 ![Venonat](../assets/sprites/venonat/front.gif "Venonat")
 
@@ -1716,7 +1716,7 @@ Level Up:
 39 - Morning Sun
 ```
 
-**#049 - Venomoth**
+**[#049 - Venomoth](../pokemon/venomoth.md)**
 
 ![Venomoth](../assets/sprites/venomoth/front.gif "Venomoth")
 
@@ -1767,7 +1767,7 @@ Level Up:
 46 - Bug Buzz
 ```
 
-**#050 - Diglett**
+**[#050 - Diglett](../pokemon/diglett.md)**
 
 ![Diglett](../assets/sprites/diglett/front.gif "Diglett")
 
@@ -1793,7 +1793,7 @@ Level Up:
 43 - Fissure
 ```
 
-**#051 - Dugtrio**
+**[#051 - Dugtrio](../pokemon/dugtrio.md)**
 
 ![Dugtrio](../assets/sprites/dugtrio/front.gif "Dugtrio")
 
@@ -1821,7 +1821,7 @@ Level Up:
 49 - Fissure
 ```
 
-**#052 - Meowth**
+**[#052 - Meowth](../pokemon/meowth.md)**
 
 ![Meowth](../assets/sprites/meowth/front.gif "Meowth")
 
@@ -1856,7 +1856,7 @@ Level Up:
 48 - Double-Edge
 ```
 
-**#053 - Persian**
+**[#053 - Persian](../pokemon/persian.md)**
 
 ![Persian](../assets/sprites/persian/front.gif "Persian")
 
@@ -1900,7 +1900,7 @@ Level Up:
 54 - Double-Edge
 ```
 
-**#054 - Psyduck**
+**[#054 - Psyduck](../pokemon/psyduck.md)**
 
 ![Psyduck](../assets/sprites/psyduck/front.gif "Psyduck")
 
@@ -1927,7 +1927,7 @@ Level Up:
 48 - Hydro Pump
 ```
 
-**#055 - Golduck**
+**[#055 - Golduck](../pokemon/golduck.md)**
 
 ![Golduck](../assets/sprites/golduck/front.gif "Golduck")
 
@@ -1964,7 +1964,7 @@ Level Up:
 54 - Hydro Pump
 ```
 
-**#056 - Mankey**
+**[#056 - Mankey](../pokemon/mankey.md)**
 
 ![Mankey](../assets/sprites/mankey/front.gif "Mankey")
 
@@ -1993,7 +1993,7 @@ Level Up:
 50 - Close Combat
 ```
 
-**#057 - Primeape**
+**[#057 - Primeape](../pokemon/primeape.md)**
 
 ![Primeape](../assets/sprites/primeape/front.gif "Primeape")
 
@@ -2023,7 +2023,7 @@ Level Up:
 58 - Close Combat
 ```
 
-**#058 - Growlithe**
+**[#058 - Growlithe](../pokemon/growlithe.md)**
 
 ![Growlithe](../assets/sprites/growlithe/front.gif "Growlithe")
 
@@ -2050,7 +2050,7 @@ Level Up:
 41 - Flare Blitz
 ```
 
-**#059 - Arcanine**
+**[#059 - Arcanine](../pokemon/arcanine.md)**
 
 ![Arcanine](../assets/sprites/arcanine/front.gif "Arcanine")
 
@@ -2069,7 +2069,7 @@ Level Up:
 54 - Flare Blitz
 ```
 
-**#060 - Poliwag**
+**[#060 - Poliwag](../pokemon/poliwag.md)**
 
 ![Poliwag](../assets/sprites/poliwag/front.gif "Poliwag")
 
@@ -2105,7 +2105,7 @@ Level Up
 
 39 - Hydro Pump
 
-**#061 - Poliwhirl**
+**[#061 - Poliwhirl](../pokemon/poliwhirl.md)**
 
 ![Poliwhirl](../assets/sprites/poliwhirl/front.gif "Poliwhirl")
 
@@ -2135,7 +2135,7 @@ Level Up:
 44 - Hydro Pump
 ```
 
-**#062 - Poliwrath**
+**[#062 - Poliwrath](../pokemon/poliwrath.md)**
 
 ![Poliwrath](../assets/sprites/poliwrath/front.gif "Poliwrath")
 
@@ -2162,7 +2162,7 @@ Level Up:
 53 - Close Combat (!!)
 ```
 
-**#063 - Abra**
+**[#063 - Abra](../pokemon/abra.md)**
 
 ![Abra](../assets/sprites/abra/front.gif "Abra")
 
@@ -2179,7 +2179,7 @@ Level Up:
 1 - Teleport
 ```
 
-**#064 - Kadabra**
+**[#064 - Kadabra](../pokemon/kadabra.md)**
 
 ![Kadabra](../assets/sprites/kadabra/front.gif "Kadabra")
 
@@ -2218,7 +2218,7 @@ Level Up:
 49 - Trick
 ```
 
-**#065 - Alakazam**
+**[#065 - Alakazam](../pokemon/alakazam.md)**
 
 ![Alakazam](../assets/sprites/alakazam/front.gif "Alakazam")
 
@@ -2254,7 +2254,7 @@ Level Up:
 52 - Aura Sphere (!!)
 ```
 
-**#066 - Machop**
+**[#066 - Machop](../pokemon/machop.md)**
 
 ![Machop](../assets/sprites/machop/front.gif "Machop")
 
@@ -2282,7 +2282,7 @@ Level Up:
 50 - Superpower
 ```
 
-**#067 - Machoke**
+**[#067 - Machoke](../pokemon/machoke.md)**
 
 ![Machoke](../assets/sprites/machoke/front.gif "Machoke")
 
@@ -2316,7 +2316,7 @@ Level Up:
 58 - Superpower
 ```
 
-**#068 - Machamp**
+**[#068 - Machamp](../pokemon/machamp.md)**
 
 ![Machamp](../assets/sprites/machamp/front.gif "Machamp")
 
@@ -2346,7 +2346,7 @@ Level Up:
 58 - Superpower
 ```
 
-**#069 - Bellsprout**
+**[#069 - Bellsprout](../pokemon/bellsprout.md)**
 
 ![Bellsprout](../assets/sprites/bellsprout/front.gif "Bellsprout")
 
@@ -2379,7 +2379,7 @@ Level Up:
 40 - Power Whip
 ```
 
-**#070 - Weepinbell**
+**[#070 - Weepinbell](../pokemon/weepinbell.md)**
 
 ![Weepinbell](../assets/sprites/weepinbell/front.gif "Weepinbell")
 
@@ -2412,7 +2412,7 @@ Level Up:
 47 - Power Whip
 ```
 
-**#071 - Victreebel**
+**[#071 - Victreebel](../pokemon/victreebel.md)**
 
 ![Victreebel](../assets/sprites/victreebel/front.gif "Victreebel")
 
@@ -2441,7 +2441,7 @@ Level Up:
 53 - Leaf Storm
 ```
 
-**#072 - Tentacool**
+**[#072 - Tentacool](../pokemon/tentacool.md)**
 
 ![Tentacool](../assets/sprites/tentacool/front.gif "Tentacool")
 
@@ -2466,7 +2466,7 @@ Level Up:
 46 - Wring Out
 ```
 
-**#073 - Tentacruel**
+**[#073 - Tentacruel](../pokemon/tentacruel.md)**
 
 ![Tentacruel](../assets/sprites/tentacruel/front.gif "Tentacruel")
 
@@ -2491,7 +2491,7 @@ Level Up:
 52 - Wring Out
 ```
 
-**#074 - Geodude**
+**[#074 - Geodude](../pokemon/geodude.md)**
 
 ![Geodude](../assets/sprites/geodude/front.gif "Geodude")
 
@@ -2517,7 +2517,7 @@ Level Up:
 46 - Hammer Arm
 ```
 
-**#075 - Graveler**
+**[#075 - Graveler](../pokemon/graveler.md)**
 
 ![Graveler](../assets/sprites/graveler/front.gif "Graveler")
 
@@ -2550,7 +2550,7 @@ Level Up:
 54 - Hammer Arm
 ```
 
-**#076 - Golem**
+**[#076 - Golem](../pokemon/golem.md)**
 
 ![Golem](../assets/sprites/golem/front.gif "Golem")
 
@@ -2580,7 +2580,7 @@ Level Up:
 54 - Hammer Arm
 ```
 
-**#077 - Ponyta**
+**[#077 - Ponyta](../pokemon/ponyta.md)**
 
 ![Ponyta](../assets/sprites/ponyta/front.gif "Ponyta")
 
@@ -2619,7 +2619,7 @@ Level Up:
 46 - Fire Blast
 ```
 
-**#078 - Rapidash**
+**[#078 - Rapidash](../pokemon/rapidash.md)**
 
 ![Rapidash](../assets/sprites/rapidash/front.gif "Rapidash")
 
@@ -2656,7 +2656,7 @@ Level Up:
 50 - Fire Blast
 ```
 
-**#079 - Slowpoke**
+**[#079 - Slowpoke](../pokemon/slowpoke.md)**
 
 ![Slowpoke](../assets/sprites/slowpoke/front.gif "Slowpoke")
 
@@ -2696,7 +2696,7 @@ Level Up:
 46 - Trick Room
 ```
 
-**#080 - Slowbro**
+**[#080 - Slowbro](../pokemon/slowbro.md)**
 
 ![Slowbro](../assets/sprites/slowbro/front.gif "Slowbro")
 
@@ -2730,7 +2730,7 @@ Level Up:
 51 - Trick Room
 ```
 
-**#081 - Magnemite**
+**[#081 - Magnemite](../pokemon/magnemite.md)**
 
 ![Magnemite](../assets/sprites/magnemite/front.gif "Magnemite")
 
@@ -2764,7 +2764,7 @@ Level Up:
 49 - Zap Cannon
 ```
 
-**#082 - Magneton**
+**[#082 - Magneton](../pokemon/magneton.md)**
 
 ![Magneton](../assets/sprites/magneton/front.gif "Magneton")
 
@@ -2799,7 +2799,7 @@ Level Up:
 57 - Zap Cannon
 ```
 
-**#083 - Farfetch'd**
+**[#083 - Farfetch'd](../pokemon/farfetchd.md)**
 
 ![Farfetch'd](../assets/sprites/farfetchd/front.gif "Farfetch'd")
 
@@ -2865,7 +2865,7 @@ Level Up:
 49 - Close Combat (!!)
 ```
 
-**#084 - Doduo**
+**[#084 - Doduo](../pokemon/doduo.md)**
 
 ![Doduo](../assets/sprites/doduo/front.gif "Doduo")
 
@@ -2899,7 +2899,7 @@ Level Up:
 48 - Brave Bird
 ```
 
-**#085 - Dodrio**
+**[#085 - Dodrio](../pokemon/dodrio.md)**
 
 ![Dodrio](../assets/sprites/dodrio/front.gif "Dodrio")
 
@@ -2936,7 +2936,7 @@ Level Up:
 54 - Brave Bird
 ```
 
-**#086 - Seel**
+**[#086 - Seel](../pokemon/seel.md)**
 
 ![Seel](../assets/sprites/seel/front.gif "Seel")
 
@@ -2965,7 +2965,7 @@ Level Up:
 43 - Megahorn
 ```
 
-**#087 - Dewgong**
+**[#087 - Dewgong](../pokemon/dewgong.md)**
 
 ![Dewgong](../assets/sprites/dewgong/front.gif "Dewgong")
 
@@ -3002,7 +3002,7 @@ Level Up:
 49 - Megahorn
 ```
 
-**#088 - Grimer**
+**[#088 - Grimer](../pokemon/grimer.md)**
 
 ![Grimer](../assets/sprites/grimer/front.gif "Grimer")
 
@@ -3035,7 +3035,7 @@ Level Up:
 46 - Memento
 ```
 
-**#089 - Muk**
+**[#089 - Muk](../pokemon/muk.md)**
 
 ![Muk](../assets/sprites/muk/front.gif "Muk")
 
@@ -3064,7 +3064,7 @@ Level Up:
 50 - Memento
 ```
 
-**#090 - Shellder**
+**[#090 - Shellder](../pokemon/shellder.md)**
 
 ![Shellder](../assets/sprites/shellder/front.gif "Shellder")
 
@@ -3102,7 +3102,7 @@ Level Up:
 37 - Hydro Pump
 ```
 
-**#091 - Cloyster**
+**[#091 - Cloyster](../pokemon/cloyster.md)**
 
 ![Cloyster](../assets/sprites/cloyster/front.gif "Cloyster")
 
@@ -3135,7 +3135,7 @@ Level Up:
 43 - Icicle Crash
 ```
 
-**#092 - Gastly**
+**[#092 - Gastly](../pokemon/gastly.md)**
 
 ![Gastly](../assets/sprites/gastly/front.gif "Gastly")
 
@@ -3162,7 +3162,7 @@ Level Up:
 43 - Destiny Bond
 ```
 
-**#093 - Haunter**
+**[#093 - Haunter](../pokemon/haunter.md)**
 
 ![Haunter](../assets/sprites/haunter/front.gif "Haunter")
 
@@ -3196,7 +3196,7 @@ Level Up:
 50 - Destiny Bond
 ```
 
-**#094 - Gengar**
+**[#094 - Gengar](../pokemon/gengar.md)**
 
 ![Gengar](../assets/sprites/gengar/front.gif "Gengar")
 
@@ -3225,7 +3225,7 @@ Level Up:
 54 - Aura Sphere (!!)
 ```
 
-**#095 - Onix**
+**[#095 - Onix](../pokemon/onix.md)**
 
 ![Onix](../assets/sprites/onix/front.gif "Onix")
 
@@ -3265,7 +3265,7 @@ Level Up:
 43 - Sandstorm
 ```
 
-**#096 - Drowzee**
+**[#096 - Drowzee](../pokemon/drowzee.md)**
 
 ![Drowzee](../assets/sprites/drowzee/front.gif "Drowzee")
 
@@ -3293,7 +3293,7 @@ Level Up:
 51 - Future Sight
 ```
 
-**#097 - Hypno**
+**[#097 - Hypno](../pokemon/hypno.md)**
 
 ![Hypno](../assets/sprites/hypno/front.gif "Hypno")
 
@@ -3323,7 +3323,7 @@ Level Up:
 51 - Future Sight
 ```
 
-**#098 - Krabby**
+**[#098 - Krabby](../pokemon/krabby.md)**
 
 ![Krabby](../assets/sprites/krabby/front.gif "Krabby")
 
@@ -3356,7 +3356,7 @@ Level Up:
 44 - Flail
 ```
 
-**#099 - Kingler**
+**[#099 - Kingler](../pokemon/kingler.md)**
 
 ![Kingler](../assets/sprites/kingler/front.gif "Kingler")
 
@@ -3393,7 +3393,7 @@ Level Up:
 50 - Flail
 ```
 
-**#100 - Voltorb**
+**[#100 - Voltorb](../pokemon/voltorb.md)**
 
 ![Voltorb](../assets/sprites/voltorb/front.gif "Voltorb")
 
@@ -3426,7 +3426,7 @@ Level Up:
 48 - Thunder
 ```
 
-**#101 - Electrode**
+**[#101 - Electrode](../pokemon/electrode.md)**
 
 ![Electrode](../assets/sprites/electrode/front.gif "Electrode")
 
@@ -3460,7 +3460,7 @@ Level Up:
 55 - Thunder
 ```
 
-**#102 - Exeggcute**
+**[#102 - Exeggcute](../pokemon/exeggcute.md)**
 
 ![Exeggcute](../assets/sprites/exeggcute/front.gif "Exeggcute")
 
@@ -3487,7 +3487,7 @@ Level Up:
 39 - Leaf Storm
 ```
 
-**#103 - Exeggutor**
+**[#103 - Exeggutor](../pokemon/exeggutor.md)**
 
 ![Exeggutor](../assets/sprites/exeggutor/front.gif "Exeggutor")
 
@@ -3505,7 +3505,7 @@ Level Up:
 53 - Leaf Storm
 ```
 
-**#104 - Cubone**
+**[#104 - Cubone](../pokemon/cubone.md)**
 
 ![Cubone](../assets/sprites/cubone/front.gif "Cubone")
 
@@ -3533,7 +3533,7 @@ Level Up:
 49 - Earthquake
 ```
 
-**#105 - Marowak**
+**[#105 - Marowak](../pokemon/marowak.md)**
 
 ![Marowak](../assets/sprites/marowak/front.gif "Marowak")
 
@@ -3562,7 +3562,7 @@ Level Up:
 57 - Earthquake
 ```
 
-**#106 - Hitmonlee**
+**[#106 - Hitmonlee](../pokemon/hitmonlee.md)**
 
 ![Hitmonlee](../assets/sprites/hitmonlee/front.gif "Hitmonlee")
 
@@ -3595,7 +3595,7 @@ Level Up:
 45 - Reversal
 ```
 
-**#107 - Hitmonchan**
+**[#107 - Hitmonchan](../pokemon/hitmonchan.md)**
 
 ![Hitmonchan](../assets/sprites/hitmonchan/front.gif "Hitmonchan")
 
@@ -3629,7 +3629,7 @@ Level Up:
 45 - Focus Punch
 ```
 
-**#108 - Lickitung**
+**[#108 - Lickitung](../pokemon/lickitung.md)**
 
 ![Lickitung](../assets/sprites/lickitung/front.gif "Lickitung")
 
@@ -3658,7 +3658,7 @@ Level Up:
 55 - Wring Out
 ```
 
-**#109 - Koffing**
+**[#109 - Koffing](../pokemon/koffing.md)**
 
 ![Koffing](../assets/sprites/koffing/front.gif "Koffing")
 
@@ -3684,7 +3684,7 @@ Level Up:
 46 - Memento
 ```
 
-**#110 - Weezing**
+**[#110 - Weezing](../pokemon/weezing.md)**
 
 ![Weezing](../assets/sprites/weezing/front.gif "Weezing")
 
@@ -3712,7 +3712,7 @@ Level Up:
 50 - Memento
 ```
 
-**#111 - Rhyhorn**
+**[#111 - Rhyhorn](../pokemon/rhyhorn.md)**
 
 ![Rhyhorn](../assets/sprites/rhyhorn/front.gif "Rhyhorn")
 
@@ -3752,7 +3752,7 @@ Level Up:
 49 - Superpower
 ```
 
-**#112 - Rhydon**
+**[#112 - Rhydon](../pokemon/rhydon.md)**
 
 ![Rhydon](../assets/sprites/rhydon/front.gif "Rhydon")
 
@@ -3794,7 +3794,7 @@ Level Up:
 54 - Superpower
 ```
 
-**#113 - Chansey**
+**[#113 - Chansey](../pokemon/chansey.md)**
 
 ![Chansey](../assets/sprites/chansey/front.gif "Chansey")
 
@@ -3831,7 +3831,7 @@ Level Up:
 46 - Double-Edge
 ```
 
-**#114 - Tangela**
+**[#114 - Tangela](../pokemon/tangela.md)**
 
 ![Tangela](../assets/sprites/tangela/front.gif "Tangela")
 
@@ -3859,7 +3859,7 @@ Level Up:
 49 - Leaf Storm
 ```
 
-**#115 - Kangaskhan**
+**[#115 - Kangaskhan](../pokemon/kangaskhan.md)**
 
 ![Kangaskhan](../assets/sprites/kangaskhan/front.gif "Kangaskhan")
 
@@ -3893,7 +3893,7 @@ Level Up:
 49 - Reversal
 ```
 
-**#116 - Horsea**
+**[#116 - Horsea](../pokemon/horsea.md)**
 
 ![Horsea](../assets/sprites/horsea/front.gif "Horsea")
 
@@ -3919,7 +3919,7 @@ Level Up:
 46 - Hydro Pump
 ```
 
-**#117 - Seadra**
+**[#117 - Seadra](../pokemon/seadra.md)**
 
 ![Seadra](../assets/sprites/seadra/front.gif "Seadra")
 
@@ -3952,7 +3952,7 @@ Level Up:
 51 - Hydro Pump
 ```
 
-**#118 - Goldeen**
+**[#118 - Goldeen](../pokemon/goldeen.md)**
 
 ![Goldeen](../assets/sprites/goldeen/front.gif "Goldeen")
 
@@ -3987,7 +3987,7 @@ Level Up:
 46 - Hydro Pump
 ```
 
-**#119 - Seaking**
+**[#119 - Seaking](../pokemon/seaking.md)**
 
 ![Seaking](../assets/sprites/seaking/front.gif "Seaking")
 
@@ -4023,7 +4023,7 @@ Level Up:
 51 - Hydro Pump
 ```
 
-**#120 - Staryu**
+**[#120 - Staryu](../pokemon/staryu.md)**
 
 ![Staryu](../assets/sprites/staryu/front.gif "Staryu")
 
@@ -4050,7 +4050,7 @@ Level Up:
 41 - Hydro Pump
 ```
 
-**#121 - Starmie**
+**[#121 - Starmie](../pokemon/starmie.md)**
 
 ![Starmie](../assets/sprites/starmie/front.gif "Starmie")
 
@@ -4066,7 +4066,7 @@ Level Up:
 43 - Confuse Ray
 ```
 
-**#122 - Mr. Mime**
+**[#122 - Mr. Mime](../pokemon/mr-mime.md)**
 
 ![Mr. Mime](../assets/sprites/mr-mime/front.gif "Mr. Mime")
 
@@ -4110,7 +4110,7 @@ Level Up:
 48 - Safeguard
 ```
 
-**#123 - Scyther**
+**[#123 - Scyther](../pokemon/scyther.md)**
 
 ![Scyther](../assets/sprites/scyther/front.gif "Scyther")
 
@@ -4159,7 +4159,7 @@ Level Up:
 52 - Feint
 ```
 
-**#124 - Jynx**
+**[#124 - Jynx](../pokemon/jynx.md)**
 
 ![Jynx](../assets/sprites/jynx/front.gif "Jynx")
 
@@ -4203,7 +4203,7 @@ Level Up:
 59 - Psycho Boost (!!)
 ```
 
-**#125 - Electabuzz**
+**[#125 - Electabuzz](../pokemon/electabuzz.md)**
 
 ![Electabuzz](../assets/sprites/electabuzz/front.gif "Electabuzz")
 
@@ -4242,7 +4242,7 @@ Level Up:
 53 - Thunder
 ```
 
-**#126 - Magmar**
+**[#126 - Magmar](../pokemon/magmar.md)**
 
 ![Magmar](../assets/sprites/magmar/front.gif "Magmar")
 
@@ -4281,7 +4281,7 @@ Level Up:
 53 - Fire Blast
 ```
 
-**#127 - Pinsir**
+**[#127 - Pinsir](../pokemon/pinsir.md)**
 
 ![Pinsir](../assets/sprites/pinsir/front.gif "Pinsir")
 
@@ -4315,7 +4315,7 @@ Level Up:
 49 - Guillotine
 ```
 
-**#128 - Tauros**
+**[#128 - Tauros](../pokemon/tauros.md)**
 
 ![Tauros](../assets/sprites/tauros/front.gif "Tauros")
 
@@ -4344,7 +4344,7 @@ Level Up:
 52 - Giga Impact
 ```
 
-**#129 - Magikarp**
+**[#129 - Magikarp](../pokemon/magikarp.md)**
 
 ![Magikarp](../assets/sprites/magikarp/front.gif "Magikarp")
 
@@ -4357,7 +4357,7 @@ Level Up:
 15 - Bounce
 ```
 
-**#130 - Gyarados**
+**[#130 - Gyarados](../pokemon/gyarados.md)**
 
 ![Gyarados](../assets/sprites/gyarados/front.gif "Gyarados")
 
@@ -4388,7 +4388,7 @@ Level Up:
 53 - Hyper Beam
 ```
 
-**#131 - Lapras**
+**[#131 - Lapras](../pokemon/lapras.md)**
 
 ![Lapras](../assets/sprites/lapras/front.gif "Lapras")
 
@@ -4418,7 +4418,7 @@ Level Up:
 55 - Sheer Cold
 ```
 
-**#132 - Ditto**
+**[#132 - Ditto](../pokemon/ditto.md)**
 
 ![Ditto](../assets/sprites/ditto/front.gif "Ditto")
 
@@ -4428,7 +4428,7 @@ Level Up:
 1 - Transform
 ```
 
-**#133 - Eevee**
+**[#133 - Eevee](../pokemon/eevee.md)**
 
 ![Eevee](../assets/sprites/eevee/front.gif "Eevee")
 
@@ -4471,7 +4471,7 @@ Level Up:
 43 - Trump Card
 ```
 
-**#134 - Vaporeon**
+**[#134 - Vaporeon](../pokemon/vaporeon.md)**
 
 ![Vaporeon](../assets/sprites/vaporeon/front.gif "Vaporeon")
 
@@ -4505,7 +4505,7 @@ Level Up:
 43 - Hydro Pump
 ```
 
-**#135 - Jolteon**
+**[#135 - Jolteon](../pokemon/jolteon.md)**
 
 ![Jolteon](../assets/sprites/jolteon/front.gif "Jolteon")
 
@@ -4539,7 +4539,7 @@ Level Up:
 43 - Thunder
 ```
 
-**#136 - Flareon**
+**[#136 - Flareon](../pokemon/flareon.md)**
 
 ![Flareon](../assets/sprites/flareon/front.gif "Flareon")
 
@@ -4582,7 +4582,7 @@ Level Up:
 43 - Flare Blitz
 ```
 
-**#137 - Porygon**
+**[#137 - Porygon](../pokemon/porygon.md)**
 
 ![Porygon](../assets/sprites/porygon/front.gif "Porygon")
 
@@ -4617,7 +4617,7 @@ Level Up:
 49 - Hyper Beam
 ```
 
-**#138 - Omanyte**
+**[#138 - Omanyte](../pokemon/omanyte.md)**
 
 ![Omanyte](../assets/sprites/omanyte/front.gif "Omanyte")
 
@@ -4649,7 +4649,7 @@ Level Up:
 49 - Wring Out
 ```
 
-**#139 - Omastar**
+**[#139 - Omastar](../pokemon/omastar.md)**
 
 ![Omastar](../assets/sprites/omastar/front.gif "Omastar")
 
@@ -4678,7 +4678,7 @@ Level Up:
 56 - Wring Out
 ```
 
-**#140 - Kabuto**
+**[#140 - Kabuto](../pokemon/kabuto.md)**
 
 ![Kabuto](../assets/sprites/kabuto/front.gif "Kabuto")
 
@@ -4710,7 +4710,7 @@ Level Up:
 46 - Leech Life
 ```
 
-**#141 - Kabutops**
+**[#141 - Kabutops](../pokemon/kabutops.md)**
 
 ![Kabutops](../assets/sprites/kabutops/front.gif "Kabutops")
 
@@ -4740,7 +4740,7 @@ Level Up:
 56 - Stone Edge
 ```
 
-**#142 - Aerodactyl**
+**[#142 - Aerodactyl](../pokemon/aerodactyl.md)**
 
 ![Aerodactyl](../assets/sprites/aerodactyl/front.gif "Aerodactyl")
 
@@ -4776,7 +4776,7 @@ Level Up:
 65 - Sky Attack
 ```
 
-**#143 - Snorlax**
+**[#143 - Snorlax](../pokemon/snorlax.md)**
 
 ![Snorlax](../assets/sprites/snorlax/front.gif "Snorlax")
 
@@ -4812,7 +4812,7 @@ Level Up:
 51 - Giga Impact
 ```
 
-**#144 - Articuno**
+**[#144 - Articuno](../pokemon/articuno.md)**
 
 ![Articuno](../assets/sprites/articuno/front.gif "Articuno")
 
@@ -4850,7 +4850,7 @@ Level Up:
 50 - Sheer Cold
 ```
 
-**#145 - Zapdos**
+**[#145 - Zapdos](../pokemon/zapdos.md)**
 
 ![Zapdos](../assets/sprites/zapdos/front.gif "Zapdos")
 
@@ -4888,7 +4888,7 @@ Level Up:
 50 - Zap Cannon
 ```
 
-**#146 - Moltres**
+**[#146 - Moltres](../pokemon/moltres.md)**
 
 ![Moltres](../assets/sprites/moltres/front.gif "Moltres")
 
@@ -4926,7 +4926,7 @@ Level Up:
 50 - Overheat
 ```
 
-**#147 - Dratini**
+**[#147 - Dratini](../pokemon/dratini.md)**
 
 ![Dratini](../assets/sprites/dratini/front.gif "Dratini")
 
@@ -4958,7 +4958,7 @@ Level Up:
 46 - Hyper Beam
 ```
 
-**#148 - Dragonair**
+**[#148 - Dragonair](../pokemon/dragonair.md)**
 
 ![Dragonair](../assets/sprites/dragonair/front.gif "Dragonair")
 
@@ -4996,7 +4996,7 @@ Level Up:
 52 - Hyper Beam
 ```
 
-**#149 - Dragonite**
+**[#149 - Dragonite](../pokemon/dragonite.md)**
 
 ![Dragonite](../assets/sprites/dragonite/front.gif "Dragonite")
 
@@ -5046,7 +5046,7 @@ Level Up:
 60 - Hurricane
 ```
 
-**#150 - Mewtwo**
+**[#150 - Mewtwo](../pokemon/mewtwo.md)**
 
 ![Mewtwo](../assets/sprites/mewtwo/front.gif "Mewtwo")
 
@@ -5074,7 +5074,7 @@ Level Up:
 50 - Aura Sphere
 ```
 
-**#151 - Mew**
+**[#151 - Mew](../pokemon/mew.md)**
 
 ![Mew](../assets/sprites/mew/front.gif "Mew")
 
@@ -5104,7 +5104,7 @@ Level Up:
 50 - Aura Sphere
 ```
 
-**#152 - Chikorita**
+**[#152 - Chikorita](../pokemon/chikorita.md)**
 
 ![Chikorita](../assets/sprites/chikorita/front.gif "Chikorita")
 
@@ -5150,7 +5150,7 @@ Level Up:
 44 - Leaf Storm
 ```
 
-**#153 - Bayleef**
+**[#153 - Bayleef](../pokemon/bayleef.md)**
 
 ![Bayleef](../assets/sprites/bayleef/front.gif "Bayleef")
 
@@ -5197,7 +5197,7 @@ Level Up:
 54 - Leaf Storm
 ```
 
-**#154 - Meganium**
+**[#154 - Meganium](../pokemon/meganium.md)**
 
 ![Meganium](../assets/sprites/meganium/front.gif "Meganium")
 
@@ -5261,7 +5261,7 @@ Level Up:
 60 - Leaf Storm
 ```
 
-**#155 - Cyndaquil**
+**[#155 - Cyndaquil](../pokemon/cyndaquil.md)**
 
 ![Cyndaquil](../assets/sprites/cyndaquil/front.gif "Cyndaquil")
 
@@ -5300,7 +5300,7 @@ Level Up:
 44 - Eruption
 ```
 
-**#156 - Quilava**
+**[#156 - Quilava](../pokemon/quilava.md)**
 
 ![Quilava](../assets/sprites/quilava/front.gif "Quilava")
 
@@ -5340,7 +5340,7 @@ Level Up:
 55 - Eruption
 ```
 
-**#157 - Typhlosion**
+**[#157 - Typhlosion](../pokemon/typhlosion.md)**
 
 ![Typhlosion](../assets/sprites/typhlosion/front.gif "Typhlosion")
 
@@ -5391,7 +5391,7 @@ Level Up:
 60 - Eruption
 ```
 
-**#158 - Totodile**
+**[#158 - Totodile](../pokemon/totodile.md)**
 
 ![Totodile](../assets/sprites/totodile/front.gif "Totodile")
 
@@ -5430,7 +5430,7 @@ Level Up:
 44 - Hydro Pump
 ```
 
-**#159 - Croconaw**
+**[#159 - Croconaw](../pokemon/croconaw.md)**
 
 ![Croconaw](../assets/sprites/croconaw/front.gif "Croconaw")
 
@@ -5470,7 +5470,7 @@ Level Up:
 53 - Hydro Pump
 ```
 
-**#160 - Feraligatr**
+**[#160 - Feraligatr](../pokemon/feraligatr.md)**
 
 ![Feraligatr](../assets/sprites/feraligatr/front.gif "Feraligatr")
 
@@ -5521,7 +5521,7 @@ Level Up:
 59 - Hydro Pump
 ```
 
-**#161 - Sentret**
+**[#161 - Sentret](../pokemon/sentret.md)**
 
 ![Sentret](../assets/sprites/sentret/front.gif "Sentret")
 
@@ -5555,7 +5555,7 @@ Level Up:
 44 - Double-Edge
 ```
 
-**#162 - Furret**
+**[#162 - Furret](../pokemon/furret.md)**
 
 ![Furret](../assets/sprites/furret/front.gif "Furret")
 
@@ -5598,7 +5598,7 @@ Level Up:
 54 - Double-Edge
 ```
 
-**#163 - Hoothoot**
+**[#163 - Hoothoot](../pokemon/hoothoot.md)**
 
 ![Hoothoot](../assets/sprites/hoothoot/front.gif "Hoothoot")
 
@@ -5639,7 +5639,7 @@ Level Up:
 45 - Hurricane
 ```
 
-**#164 - Noctowl**
+**[#164 - Noctowl](../pokemon/noctowl.md)**
 
 ![Noctowl](../assets/sprites/noctowl/front.gif "Noctowl")
 
@@ -5697,7 +5697,7 @@ Level Up:
 54 - Hurricane
 ```
 
-**#165 - Ledyba**
+**[#165 - Ledyba](../pokemon/ledyba.md)**
 
 ![Ledyba](../assets/sprites/ledyba/front.gif "Ledyba")
 
@@ -5745,7 +5745,7 @@ Level Up:
 42 - Meteor Mash (!!)
 ```
 
-**#166 - Ledian**
+**[#166 - Ledian](../pokemon/ledian.md)**
 
 ![Ledian](../assets/sprites/ledian/front.gif "Ledian")
 
@@ -5796,7 +5796,7 @@ Level Up:
 51 - Meteor Mash (!!)
 ```
 
-**#167 - Spinarak**
+**[#167 - Spinarak](../pokemon/spinarak.md)**
 
 ![Spinarak](../assets/sprites/spinarak/front.gif "Spinarak")
 
@@ -5837,7 +5837,7 @@ Level Up:
 45 - Megahorn
 ```
 
-**#168 - Ariados**
+**[#168 - Ariados](../pokemon/ariados.md)**
 
 ![Ariados](../assets/sprites/ariados/front.gif "Ariados")
 
@@ -5880,7 +5880,7 @@ Level Up:
 55 - Megahorn
 ```
 
-**#169 - Crobat**
+**[#169 - Crobat](../pokemon/crobat.md)**
 
 ![Crobat](../assets/sprites/crobat/front.gif "Crobat")
 
@@ -5915,7 +5915,7 @@ Level Up:
 51 - Brave Bird
 ```
 
-**#170 - Chinchou**
+**[#170 - Chinchou](../pokemon/chinchou.md)**
 
 ![Chinchou](../assets/sprites/chinchou/front.gif "Chinchou")
 
@@ -5948,7 +5948,7 @@ Level Up:
 45 - Charge
 ```
 
-**#171 - Lanturn**
+**[#171 - Lanturn](../pokemon/lanturn.md)**
 
 ![Lanturn](../assets/sprites/lanturn/front.gif "Lanturn")
 
@@ -5981,7 +5981,7 @@ Level Up:
 53 - Charge
 ```
 
-**#172 - Pichu**
+**[#172 - Pichu](../pokemon/pichu.md)**
 
 ![Pichu](../assets/sprites/pichu/front.gif "Pichu")
 
@@ -6018,7 +6018,7 @@ Level Up:
 15 - Disarming Voice
 ```
 
-**#173 - Cleffa**
+**[#173 - Cleffa](../pokemon/cleffa.md)**
 
 ![Cleffa](../assets/sprites/cleffa/front.gif "Cleffa")
 
@@ -6043,7 +6043,7 @@ Level Up:
 15 - Draining Kiss (!!)
 ```
 
-**#174 - Igglybuff**
+**[#174 - Igglybuff](../pokemon/igglybuff.md)**
 
 ![Igglybuff](../assets/sprites/igglybuff/front.gif "Igglybuff")
 
@@ -6074,7 +6074,7 @@ Level Up:
 15 - Draining Kiss (!!)
 ```
 
-**#175 - Togepi**
+**[#175 - Togepi](../pokemon/togepi.md)**
 
 ![Togepi](../assets/sprites/togepi/front.gif "Togepi")
 
@@ -6116,7 +6116,7 @@ Level Up:
 35 - Last Resort
 ```
 
-**#176 - Togetic**
+**[#176 - Togetic](../pokemon/togetic.md)**
 
 ![Togetic](../assets/sprites/togetic/front.gif "Togetic")
 
@@ -6159,7 +6159,7 @@ Level Up:
 35 - Last Resort
 ```
 
-**#177 - Natu**
+**[#177 - Natu](../pokemon/natu.md)**
 
 ![Natu](../assets/sprites/natu/front.gif "Natu")
 
@@ -6185,7 +6185,7 @@ Level Up:
 43 - Me First
 ```
 
-**#178 - Xatu**
+**[#178 - Xatu](../pokemon/xatu.md)**
 
 ![Xatu](../assets/sprites/xatu/front.gif "Xatu")
 
@@ -6220,7 +6220,7 @@ Level Up:
 54 - Hurricane (!!)
 ```
 
-**#179 - Mareep**
+**[#179 - Mareep](../pokemon/mareep.md)**
 
 ![Mareep](../assets/sprites/mareep/front.gif "Mareep")
 
@@ -6245,7 +6245,7 @@ Level Up:
 43 - Thunder
 ```
 
-**#180 - Flaaffy**
+**[#180 - Flaaffy](../pokemon/flaaffy.md)**
 
 ![Flaaffy](../assets/sprites/flaaffy/front.gif "Flaaffy")
 
@@ -6270,7 +6270,7 @@ Level Up:
 53 - Thunder
 ```
 
-**#181 - Ampharos**
+**[#181 - Ampharos](../pokemon/ampharos.md)**
 
 ![Ampharos](../assets/sprites/ampharos/front.gif "Ampharos")
 
@@ -6316,7 +6316,7 @@ Level Up:
 59 - Thunder
 ```
 
-**#182 - Bellossom**
+**[#182 - Bellossom](../pokemon/bellossom.md)**
 
 ![Bellossom](../assets/sprites/bellossom/front.gif "Bellossom")
 
@@ -6352,7 +6352,7 @@ Level Up:
 57 - Leaf Storm
 ```
 
-**#183 - Marill**
+**[#183 - Marill](../pokemon/marill.md)**
 
 ![Marill](../assets/sprites/marill/front.gif "Marill")
 
@@ -6393,7 +6393,7 @@ Level Up:
 42 - Hydro Pump
 ```
 
-**#184 - Azumarill**
+**[#184 - Azumarill](../pokemon/azumarill.md)**
 
 ![Azumarill](../assets/sprites/azumarill/front.gif "Azumarill")
 
@@ -6443,7 +6443,7 @@ Level Up:
 51 - Hydro Pump
 ```
 
-**#185 - Sudowoodo**
+**[#185 - Sudowoodo](../pokemon/sudowoodo.md)**
 
 ![Sudowoodo](../assets/sprites/sudowoodo/front.gif "Sudowoodo")
 
@@ -6486,7 +6486,7 @@ Level Up:
 48 - Head Smash
 ```
 
-**#186 - Politoed**
+**[#186 - Politoed](../pokemon/politoed.md)**
 
 ![Politoed](../assets/sprites/politoed/front.gif "Politoed")
 
@@ -6511,7 +6511,7 @@ Level Up:
 53 - Hyper Voice
 ```
 
-**#187 - Hoppip**
+**[#187 - Hoppip](../pokemon/hoppip.md)**
 
 ![Hoppip](../assets/sprites/hoppip/front.gif "Hoppip")
 
@@ -6548,7 +6548,7 @@ Level Up:
 35 - Memento
 ```
 
-**#188 - Skiploom**
+**[#188 - Skiploom](../pokemon/skiploom.md)**
 
 ![Skiploom](../assets/sprites/skiploom/front.gif "Skiploom")
 
@@ -6585,7 +6585,7 @@ Level Up:
 44 - Memento
 ```
 
-**#189 - Jumpluff**
+**[#189 - Jumpluff](../pokemon/jumpluff.md)**
 
 ![Jumpluff](../assets/sprites/jumpluff/front.gif "Jumpluff")
 
@@ -6629,7 +6629,7 @@ Level Up:
 50 - Memento
 ```
 
-**#190 - Aipom**
+**[#190 - Aipom](../pokemon/aipom.md)**
 
 ![Aipom](../assets/sprites/aipom/front.gif "Aipom")
 
@@ -6657,7 +6657,7 @@ Level Up:
 50 - Last Resort
 ```
 
-**#191 - Sunkern**
+**[#191 - Sunkern](../pokemon/sunkern.md)**
 
 ![Sunkern](../assets/sprites/sunkern/front.gif "Sunkern")
 
@@ -6686,7 +6686,7 @@ Level Up:
 45 - Seed Bomb
 ```
 
-**#192 - Sunflora**
+**[#192 - Sunflora](../pokemon/sunflora.md)**
 
 ![Sunflora](../assets/sprites/sunflora/front.gif "Sunflora")
 
@@ -6723,7 +6723,7 @@ Level Up:
 45 - Leaf Storm
 ```
 
-**#193 - Yanma**
+**[#193 - Yanma](../pokemon/yanma.md)**
 
 ![Yanma](../assets/sprites/yanma/front.gif "Yanma")
 
@@ -6758,7 +6758,7 @@ Level Up:
 45 - Bug Buzz
 ```
 
-**#194 - Wooper**
+**[#194 - Wooper](../pokemon/wooper.md)**
 
 ![Wooper](../assets/sprites/wooper/front.gif "Wooper")
 
@@ -6800,7 +6800,7 @@ Level Up:
 46 - Recover
 ```
 
-**#195 - Quagsire**
+**[#195 - Quagsire](../pokemon/quagsire.md)**
 
 ![Quagsire](../assets/sprites/quagsire/front.gif "Quagsire")
 
@@ -6842,7 +6842,7 @@ Level Up:
 55 - Recover
 ```
 
-**#196 - Espeon**
+**[#196 - Espeon](../pokemon/espeon.md)**
 
 ![Espeon](../assets/sprites/espeon/front.gif "Espeon")
 
@@ -6870,7 +6870,7 @@ Level Up:
 43 - Power Swap
 ```
 
-**#197 - Umbreon**
+**[#197 - Umbreon](../pokemon/umbreon.md)**
 
 ![Umbreon](../assets/sprites/umbreon/front.gif "Umbreon")
 
@@ -6904,7 +6904,7 @@ Level Up:
 43 - Guard Swap
 ```
 
-**#198 - Murkrow**
+**[#198 - Murkrow](../pokemon/murkrow.md)**
 
 ![Murkrow](../assets/sprites/murkrow/front.gif "Murkrow")
 
@@ -6942,7 +6942,7 @@ Level Up:
 39 - Brave Bird
 ```
 
-**#199 - Slowking**
+**[#199 - Slowking](../pokemon/slowking.md)**
 
 ![Slowking](../assets/sprites/slowking/front.gif "Slowking")
 
@@ -6978,7 +6978,7 @@ Level Up:
 49 - Aura Sphere (!!)
 ```
 
-**#200 - Misdreavus**
+**[#200 - Misdreavus](../pokemon/misdreavus.md)**
 
 ![Misdreavus](../assets/sprites/misdreavus/front.gif "Misdreavus")
 
@@ -7014,7 +7014,7 @@ Level Up:
 41 - Destiny Bond
 ```
 
-**#201 - Unown**
+**[#201 - Unown](../pokemon/unown.md)**
 
 ![Unown](../assets/sprites/unown/front.gif "Unown")
 
@@ -7044,7 +7044,7 @@ Level Up:
 1 - Ancient Power (!!)
 ```
 
-**#202 - Wobbuffet**
+**[#202 - Wobbuffet](../pokemon/wobbuffet.md)**
 
 ![Wobbuffet](../assets/sprites/wobbuffet/front.gif "Wobbuffet")
 
@@ -7060,7 +7060,7 @@ Level Up:
 1 - Destiny Bond
 ```
 
-**#203 - Girafarig**
+**[#203 - Girafarig](../pokemon/girafarig.md)**
 
 ![Girafarig](../assets/sprites/girafarig/front.gif "Girafarig")
 
@@ -7089,7 +7089,7 @@ Level Up:
 45 - Nasty Plot
 ```
 
-**#204 - Pineco**
+**[#204 - Pineco](../pokemon/pineco.md)**
 
 ![Pineco](../assets/sprites/pineco/front.gif "Pineco")
 
@@ -7122,7 +7122,7 @@ Level Up:
 45 - Double-Edge
 ```
 
-**#205 - Forretress**
+**[#205 - Forretress](../pokemon/forretress.md)**
 
 ![Forretress](../assets/sprites/forretress/front.gif "Forretress")
 
@@ -7158,7 +7158,7 @@ Level Up:
 58 - Zap Cannon
 ```
 
-**#206 - Dunsparce**
+**[#206 - Dunsparce](../pokemon/dunsparce.md)**
 
 ![Dunsparce](../assets/sprites/dunsparce/front.gif "Dunsparce")
 
@@ -7195,7 +7195,7 @@ Level Up:
 43 - Flail
 ```
 
-**#207 - Gligar**
+**[#207 - Gligar](../pokemon/gligar.md)**
 
 ![Gligar](../assets/sprites/gligar/front.gif "Gligar")
 
@@ -7236,7 +7236,7 @@ Level Up:
 46 - Guillotine
 ```
 
-**#208 - Steelix**
+**[#208 - Steelix](../pokemon/steelix.md)**
 
 ![Steelix](../assets/sprites/steelix/front.gif "Steelix")
 
@@ -7273,7 +7273,7 @@ Level Up:
 43 - Sandstorm
 ```
 
-**#209 - Snubbull**
+**[#209 - Snubbull](../pokemon/snubbull.md)**
 
 ![Snubbull](../assets/sprites/snubbull/front.gif "Snubbull")
 
@@ -7302,7 +7302,7 @@ Level Up:
 43 - Double-Edge
 ```
 
-**#210 - Granbull**
+**[#210 - Granbull](../pokemon/granbull.md)**
 
 ![Granbull](../assets/sprites/granbull/front.gif "Granbull")
 
@@ -7332,7 +7332,7 @@ Level Up:
 54 - Outrage
 ```
 
-**#211 - Qwilfish**
+**[#211 - Qwilfish](../pokemon/qwilfish.md)**
 
 ![Qwilfish](../assets/sprites/qwilfish/front.gif "Qwilfish")
 
@@ -7375,7 +7375,7 @@ Level Up:
 48 - Hydro Pump
 ```
 
-**#212 - Scizor**
+**[#212 - Scizor](../pokemon/scizor.md)**
 
 ![Scizor](../assets/sprites/scizor/front.gif "Scizor")
 
@@ -7418,7 +7418,7 @@ Level Up:
 52 - Feint
 ```
 
-**#213 - Shuckle**
+**[#213 - Shuckle](../pokemon/shuckle.md)**
 
 ![Shuckle](../assets/sprites/shuckle/front.gif "Shuckle")
 
@@ -7451,7 +7451,7 @@ Level Up:
 48 - Stone Edge
 ```
 
-**#214 - Heracross**
+**[#214 - Heracross](../pokemon/heracross.md)**
 
 ![Heracross](../assets/sprites/heracross/front.gif "Heracross")
 
@@ -7501,7 +7501,7 @@ Level Up:
 51 - Reversal
 ```
 
-**#215 - Sneasel**
+**[#215 - Sneasel](../pokemon/sneasel.md)**
 
 ![Sneasel](../assets/sprites/sneasel/front.gif "Sneasel")
 
@@ -7534,7 +7534,7 @@ Level Up:
 46 - Dark Pulse
 ```
 
-**#216 - Teddiursa**
+**[#216 - Teddiursa](../pokemon/teddiursa.md)**
 
 ![Teddiursa](../assets/sprites/teddiursa/front.gif "Teddiursa")
 
@@ -7564,7 +7564,7 @@ Level Up:
 51 - Double-Edge
 ```
 
-**#217 - Ursaring**
+**[#217 - Ursaring](../pokemon/ursaring.md)**
 
 ![Ursaring](../assets/sprites/ursaring/front.gif "Ursaring")
 
@@ -7594,7 +7594,7 @@ Level Up:
 59 - Double-Edge
 ```
 
-**#218 - Slugma**
+**[#218 - Slugma](../pokemon/slugma.md)**
 
 ![Slugma](../assets/sprites/slugma/front.gif "Slugma")
 
@@ -7634,7 +7634,7 @@ Level Up:
 51 - Overheat
 ```
 
-**#219 - Magcargo**
+**[#219 - Magcargo](../pokemon/magcargo.md)**
 
 ![Magcargo](../assets/sprites/magcargo/front.gif "Magcargo")
 
@@ -7675,7 +7675,7 @@ Level Up:
 58 - Overheat
 ```
 
-**#220 - Swinub**
+**[#220 - Swinub](../pokemon/swinub.md)**
 
 ![Swinub](../assets/sprites/swinub/front.gif "Swinub")
 
@@ -7709,7 +7709,7 @@ Level Up:
 46 - Blizzard
 ```
 
-**#221 - Piloswine**
+**[#221 - Piloswine](../pokemon/piloswine.md)**
 
 ![Piloswine](../assets/sprites/piloswine/front.gif "Piloswine")
 
@@ -7745,7 +7745,7 @@ Level Up:
 51 - Blizzard
 ```
 
-**#222 - Corsola**
+**[#222 - Corsola](../pokemon/corsola.md)**
 
 ![Corsola](../assets/sprites/corsola/front.gif "Corsola")
 
@@ -7781,7 +7781,7 @@ Level Up:
 49 - Flail
 ```
 
-**#223 - Remoraid**
+**[#223 - Remoraid](../pokemon/remoraid.md)**
 
 ![Remoraid](../assets/sprites/remoraid/front.gif "Remoraid")
 
@@ -7807,7 +7807,7 @@ Level Up:
 48 - Water Spout
 ```
 
-**#224 - Octillery**
+**[#224 - Octillery](../pokemon/octillery.md)**
 
 ![Octillery](../assets/sprites/octillery/front.gif "Octillery")
 
@@ -7837,7 +7837,7 @@ Level Up:
 56 - Water Spout
 ```
 
-**#225 - Delibird**
+**[#225 - Delibird](../pokemon/delibird.md)**
 
 ![Delibird](../assets/sprites/delibird/front.gif "Delibird")
 
@@ -7892,7 +7892,7 @@ Level Up:
 48 - Destiny Bond
 ```
 
-**#226 - Mantine**
+**[#226 - Mantine](../pokemon/mantine.md)**
 
 ![Mantine](../assets/sprites/mantine/front.gif "Mantine")
 
@@ -7929,7 +7929,7 @@ Level Up:
 46 - Hydro Pump
 ```
 
-**#227 - Skarmory**
+**[#227 - Skarmory](../pokemon/skarmory.md)**
 
 ![Skarmory](../assets/sprites/skarmory/front.gif "Skarmory")
 
@@ -7965,7 +7965,7 @@ Level Up:
 52 - Brave Bird
 ```
 
-**#228 - Houndour**
+**[#228 - Houndour](../pokemon/houndour.md)**
 
 ![Houndour](../assets/sprites/houndour/front.gif "Houndour")
 
@@ -7997,7 +7997,7 @@ Level Up:
 40 - Nasty Plot
 ```
 
-**#229 - Houndoom**
+**[#229 - Houndoom](../pokemon/houndoom.md)**
 
 ![Houndoom](../assets/sprites/houndoom/front.gif "Houndoom")
 
@@ -8030,7 +8030,7 @@ Level Up:
 46 - Nasty Plot
 ```
 
-**#230 - Kingdra**
+**[#230 - Kingdra](../pokemon/kingdra.md)**
 
 ![Kingdra](../assets/sprites/kingdra/front.gif "Kingdra")
 
@@ -8059,7 +8059,7 @@ Level Up:
 55 - Hyper Beam
 ```
 
-**#231 - Phanpy**
+**[#231 - Phanpy](../pokemon/phanpy.md)**
 
 ![Phanpy](../assets/sprites/phanpy/front.gif "Phanpy")
 
@@ -8094,7 +8094,7 @@ Level Up:
 46 - Head Smash
 ```
 
-**#232 - Donphan**
+**[#232 - Donphan](../pokemon/donphan.md)**
 
 ![Donphan](../assets/sprites/donphan/front.gif "Donphan")
 
@@ -8131,7 +8131,7 @@ Level Up:
 54 - Head Smash
 ```
 
-**#233 - Porygon2**
+**[#233 - Porygon2](../pokemon/porygon2.md)**
 
 ![Porygon2](../assets/sprites/porygon2/front.gif "Porygon2")
 
@@ -8166,7 +8166,7 @@ Level Up:
 49 - Hyper Beam
 ```
 
-**#234 - Stantler**
+**[#234 - Stantler](../pokemon/stantler.md)**
 
 ![Stantler](../assets/sprites/stantler/front.gif "Stantler")
 
@@ -8195,7 +8195,7 @@ Level Up:
 54 - Me First
 ```
 
-**#235 - Smeargle**
+**[#235 - Smeargle](../pokemon/smeargle.md)**
 
 ![Smeargle](../assets/sprites/smeargle/front.gif "Smeargle")
 
@@ -8231,7 +8231,7 @@ Level Up:
 96 - Sketch
 ```
 
-**#236 - Tyrogue**
+**[#236 - Tyrogue](../pokemon/tyrogue.md)**
 
 ![Tyrogue](../assets/sprites/tyrogue/front.gif "Tyrogue")
 
@@ -8254,7 +8254,7 @@ Level Up:
 1 - Rapid Spin
 ```
 
-**#237 - Hitmontop**
+**[#237 - Hitmontop](../pokemon/hitmontop.md)**
 
 ![Hitmontop](../assets/sprites/hitmontop/front.gif "Hitmontop")
 
@@ -8287,7 +8287,7 @@ Level Up:
 45 - High Jump Kick
 ```
 
-**#238 - Smoochum**
+**[#238 - Smoochum](../pokemon/smoochum.md)**
 
 ![Smoochum](../assets/sprites/smoochum/front.gif "Smoochum")
 
@@ -8329,7 +8329,7 @@ Level Up:
 48 - Nasty Plot
 ```
 
-**#239 - Elekid**
+**[#239 - Elekid](../pokemon/elekid.md)**
 
 ![Elekid](../assets/sprites/elekid/front.gif "Elekid")
 
@@ -8362,7 +8362,7 @@ Level Up:
 46 - Thunder
 ```
 
-**#240 - Magby**
+**[#240 - Magby](../pokemon/magby.md)**
 
 ![Magby](../assets/sprites/magby/front.gif "Magby")
 
@@ -8395,7 +8395,7 @@ Level Up:
 46 - Fire Blast
 ```
 
-**#241 - Miltank**
+**[#241 - Miltank](../pokemon/miltank.md)**
 
 ![Miltank](../assets/sprites/miltank/front.gif "Miltank")
 
@@ -8419,7 +8419,7 @@ Level Up:
 53 - Double-Edge
 ```
 
-**#242 - Blissey**
+**[#242 - Blissey](../pokemon/blissey.md)**
 
 ![Blissey](../assets/sprites/blissey/front.gif "Blissey")
 
@@ -8456,7 +8456,7 @@ Level Up:
 46 - Double-Edge
 ```
 
-**#243 - Raikou**
+**[#243 - Raikou](../pokemon/raikou.md)**
 
 ![Raikou](../assets/sprites/raikou/front.gif "Raikou")
 
@@ -8489,7 +8489,7 @@ Level Up:
 50 - Aura Sphere
 ```
 
-**#244 - Entei**
+**[#244 - Entei](../pokemon/entei.md)**
 
 ![Entei](../assets/sprites/entei/front.gif "Entei")
 
@@ -8522,7 +8522,7 @@ Level Up:
 50 - Flare Blitz
 ```
 
-**#245 - Suicune**
+**[#245 - Suicune](../pokemon/suicune.md)**
 
 ![Suicune](../assets/sprites/suicune/front.gif "Suicune")
 
@@ -8561,7 +8561,7 @@ Level Up:
 50 - Air Slash
 ```
 
-**#246 - Larvitar**
+**[#246 - Larvitar](../pokemon/larvitar.md)**
 
 ![Larvitar](../assets/sprites/larvitar/front.gif "Larvitar")
 
@@ -8587,7 +8587,7 @@ Level Up:
 43 - Hyper Beam
 ```
 
-**#247 - Pupitar**
+**[#247 - Pupitar](../pokemon/pupitar.md)**
 
 ![Pupitar](../assets/sprites/pupitar/front.gif "Pupitar")
 
@@ -8613,7 +8613,7 @@ Level Up:
 53 - Hyper Beam
 ```
 
-**#248 - Tyranitar**
+**[#248 - Tyranitar](../pokemon/tyranitar.md)**
 
 ![Tyranitar](../assets/sprites/tyranitar/front.gif "Tyranitar")
 
@@ -8643,7 +8643,7 @@ Level Up:
 60 - Giga Impact
 ```
 
-**#249 - Lugia**
+**[#249 - Lugia](../pokemon/lugia.md)**
 
 ![Lugia](../assets/sprites/lugia/front.gif "Lugia")
 
@@ -8674,7 +8674,7 @@ Level Up:
 50 - Sky Attack
 ```
 
-**#250 - Ho-oh**
+**[#250 - Ho-oh](../pokemon/ho-oh.md)**
 
 ![Ho-oh](../assets/sprites/ho-oh/front.gif "Ho-oh")
 
@@ -8705,7 +8705,7 @@ Level Up:
 50 - Sky Attack
 ```
 
-**#251 - Celebi**
+**[#251 - Celebi](../pokemon/celebi.md)**
 
 ![Celebi](../assets/sprites/celebi/front.gif "Celebi")
 
@@ -8730,7 +8730,7 @@ Level Up:
 50 - Leaf Storm
 ```
 
-**#252 - Treecko**
+**[#252 - Treecko](../pokemon/treecko.md)**
 
 ![Treecko](../assets/sprites/treecko/front.gif "Treecko")
 
@@ -8762,7 +8762,7 @@ Level Up:
 44 - Leaf Storm
 ```
 
-**#253 - Grovyle**
+**[#253 - Grovyle](../pokemon/grovyle.md)**
 
 ![Grovyle](../assets/sprites/grovyle/front.gif "Grovyle")
 
@@ -8795,7 +8795,7 @@ Level Up:
 54 - Leaf Storm
 ```
 
-**#254 - Sceptile**
+**[#254 - Sceptile](../pokemon/sceptile.md)**
 
 ![Sceptile](../assets/sprites/sceptile/front.gif "Sceptile")
 
@@ -8852,7 +8852,7 @@ Level Up:
 59 - Leaf Storm
 ```
 
-**#255 - Torchic**
+**[#255 - Torchic](../pokemon/torchic.md)**
 
 ![Torchic](../assets/sprites/torchic/front.gif "Torchic")
 
@@ -8885,7 +8885,7 @@ Level Up:
 44 - Fire Blast
 ```
 
-**#256 - Combusken**
+**[#256 - Combusken](../pokemon/combusken.md)**
 
 ![Combusken](../assets/sprites/combusken/front.gif "Combusken")
 
@@ -8919,7 +8919,7 @@ Level Up:
 54 - Flare Blitz
 ```
 
-**#257 - Blaziken**
+**[#257 - Blaziken](../pokemon/blaziken.md)**
 
 ![Blaziken](../assets/sprites/blaziken/front.gif "Blaziken")
 
@@ -8963,7 +8963,7 @@ Level Up:
 59 - Flare Blitz
 ```
 
-**#258 - Mudkip**
+**[#258 - Mudkip](../pokemon/mudkip.md)**
 
 ![Mudkip](../assets/sprites/mudkip/front.gif "Mudkip")
 
@@ -8995,7 +8995,7 @@ Level Up:
 44 - Endeavor
 ```
 
-**#259 - Marshtomp**
+**[#259 - Marshtomp](../pokemon/marshtomp.md)**
 
 ![Marshtomp](../assets/sprites/marshtomp/front.gif "Marshtomp")
 
@@ -9029,7 +9029,7 @@ Level Up:
 54 - Endeavor
 ```
 
-**#260 - Swampert**
+**[#260 - Swampert](../pokemon/swampert.md)**
 
 ![Swampert](../assets/sprites/swampert/front.gif "Swampert")
 
@@ -9066,7 +9066,7 @@ Level Up:
 59 - Endeavor
 ```
 
-**#261 - Poochyena**
+**[#261 - Poochyena](../pokemon/poochyena.md)**
 
 ![Poochyena](../assets/sprites/poochyena/front.gif "Poochyena")
 
@@ -9098,7 +9098,7 @@ Level Up:
 43 - Sucker Punch
 ```
 
-**#262 - Mightyena**
+**[#262 - Mightyena](../pokemon/mightyena.md)**
 
 ![Mightyena](../assets/sprites/mightyena/front.gif "Mightyena")
 
@@ -9135,7 +9135,7 @@ Level Up:
 51 - Sucker Punch
 ```
 
-**#263 - Zigzagoon**
+**[#263 - Zigzagoon](../pokemon/zigzagoon.md)**
 
 ![Zigzagoon](../assets/sprites/zigzagoon/front.gif "Zigzagoon")
 
@@ -9173,7 +9173,7 @@ Level Up:
 40 - Super Fang
 ```
 
-**#264 - Linoone**
+**[#264 - Linoone](../pokemon/linoone.md)**
 
 ![Linoone](../assets/sprites/linoone/front.gif "Linoone")
 
@@ -9215,7 +9215,7 @@ Level Up:
 51 - Extreme Speed
 ```
 
-**#265 - Wurmple**
+**[#265 - Wurmple](../pokemon/wurmple.md)**
 
 ![Wurmple](../assets/sprites/wurmple/front.gif "Wurmple")
 
@@ -9235,7 +9235,7 @@ Level Up:
 1 - Bug Bite
 ```
 
-**#266 - Silcoon**
+**[#266 - Silcoon](../pokemon/silcoon.md)**
 
 ![Silcoon](../assets/sprites/silcoon/front.gif "Silcoon")
 
@@ -9254,7 +9254,7 @@ Level Up:
 7 - Iron Defense
 ```
 
-**#267 - Beautifly**
+**[#267 - Beautifly](../pokemon/beautifly.md)**
 
 ![Beautifly](../assets/sprites/beautifly/front.gif "Beautifly")
 
@@ -9301,7 +9301,7 @@ Level Up:
 45 - Hurricane (!!)
 ```
 
-**#268 - Cascoon**
+**[#268 - Cascoon](../pokemon/cascoon.md)**
 
 ![Cascoon](../assets/sprites/cascoon/front.gif "Cascoon")
 
@@ -9320,7 +9320,7 @@ Level Up:
 7 - Iron Defense
 ```
 
-**#269 - Dustox**
+**[#269 - Dustox](../pokemon/dustox.md)**
 
 ![Dustox](../assets/sprites/dustox/front.gif "Dustox")
 
@@ -9367,7 +9367,7 @@ Level Up:
 45 - Hurricane (!!)
 ```
 
-**#270 - Lotad**
+**[#270 - Lotad](../pokemon/lotad.md)**
 
 ![Lotad](../assets/sprites/lotad/front.gif "Lotad")
 
@@ -9389,7 +9389,7 @@ Level Up:
 34 - Energy Ball
 ```
 
-**#271 - Lombre**
+**[#271 - Lombre](../pokemon/lombre.md)**
 
 ![Lombre](../assets/sprites/lombre/front.gif "Lombre")
 
@@ -9414,7 +9414,7 @@ Level Up:
 44 - Hydro Pump
 ```
 
-**#272 - Ludicolo**
+**[#272 - Ludicolo](../pokemon/ludicolo.md)**
 
 ![Ludicolo](../assets/sprites/ludicolo/front.gif "Ludicolo")
 
@@ -9429,7 +9429,7 @@ Level Up:
 44 - Hydro Pump
 ```
 
-**#273 - Seedot**
+**[#273 - Seedot](../pokemon/seedot.md)**
 
 ![Seedot](../assets/sprites/seedot/front.gif "Seedot")
 
@@ -9447,7 +9447,7 @@ Level Up:
 30 - Explosion
 ```
 
-**#274 - Nuzleaf**
+**[#274 - Nuzleaf](../pokemon/nuzleaf.md)**
 
 ![Nuzleaf](../assets/sprites/nuzleaf/front.gif "Nuzleaf")
 
@@ -9469,7 +9469,7 @@ Level Up:
 35 - Extrasensory
 ```
 
-**#275 - Shiftry**
+**[#275 - Shiftry](../pokemon/shiftry.md)**
 
 ![Shiftry](../assets/sprites/shiftry/front.gif "Shiftry")
 
@@ -9492,7 +9492,7 @@ Level Up:
 44 - Leaf Storm
 ```
 
-**#276 - Taillow**
+**[#276 - Taillow](../pokemon/taillow.md)**
 
 ![Taillow](../assets/sprites/taillow/front.gif "Taillow")
 
@@ -9528,7 +9528,7 @@ Level Up:
 40 - Hurricane
 ```
 
-**#277 - Swellow**
+**[#277 - Swellow](../pokemon/swellow.md)**
 
 ![Swellow](../assets/sprites/swellow/front.gif "Swellow")
 
@@ -9573,7 +9573,7 @@ Level Up:
 47 - Hurricane
 ```
 
-**#278 - Wingull**
+**[#278 - Wingull](../pokemon/wingull.md)**
 
 ![Wingull](../assets/sprites/wingull/front.gif "Wingull")
 
@@ -9611,7 +9611,7 @@ Level Up:
 43 - Hurricane
 ```
 
-**#279 - Pelipper**
+**[#279 - Pelipper](../pokemon/pelipper.md)**
 
 ![Pelipper](../assets/sprites/pelipper/front.gif "Pelipper")
 
@@ -9661,7 +9661,7 @@ Level Up:
 50 - Hurricane
 ```
 
-**#280 - Ralts**
+**[#280 - Ralts](../pokemon/ralts.md)**
 
 ![Ralts](../assets/sprites/ralts/front.gif "Ralts")
 
@@ -9694,7 +9694,7 @@ Level Up:
 43 - Future Sight
 ```
 
-**#281 - Kirlia**
+**[#281 - Kirlia](../pokemon/kirlia.md)**
 
 ![Kirlia](../assets/sprites/kirlia/front.gif "Kirlia")
 
@@ -9727,7 +9727,7 @@ Level Up:
 51 - Future Sight
 ```
 
-**#282 - Gardevoir**
+**[#282 - Gardevoir](../pokemon/gardevoir.md)**
 
 ![Gardevoir](../assets/sprites/gardevoir/front.gif "Gardevoir")
 
@@ -9755,7 +9755,7 @@ Level Up:
 57 - Dream Eater
 ```
 
-**#283 - Surskit**
+**[#283 - Surskit](../pokemon/surskit.md)**
 
 ![Surskit](../assets/sprites/surskit/front.gif "Surskit")
 
@@ -9794,7 +9794,7 @@ Level Up:
 36 - Hydro Pump
 ```
 
-**#284 - Masquerain**
+**[#284 - Masquerain](../pokemon/masquerain.md)**
 
 ![Masquerain](../assets/sprites/masquerain/front.gif "Masquerain")
 
@@ -9847,7 +9847,7 @@ Level Up:
 45 - Bug Buzz
 ```
 
-**#285 - Shroomish**
+**[#285 - Shroomish](../pokemon/shroomish.md)**
 
 ![Shroomish](../assets/sprites/shroomish/front.gif "Shroomish")
 
@@ -9880,7 +9880,7 @@ Level Up:
 43 - Solar Beam
 ```
 
-**#286 - Breloom**
+**[#286 - Breloom](../pokemon/breloom.md)**
 
 ![Breloom](../assets/sprites/breloom/front.gif "Breloom")
 
@@ -9921,7 +9921,7 @@ Level Up:
 50 - Superpower
 ```
 
-**#287 - Slakoth**
+**[#287 - Slakoth](../pokemon/slakoth.md)**
 
 ![Slakoth](../assets/sprites/slakoth/front.gif "Slakoth")
 
@@ -9943,7 +9943,7 @@ Level Up:
 47 - Play Rough
 ```
 
-**#288 - Vigoroth**
+**[#288 - Vigoroth](../pokemon/vigoroth.md)**
 
 ![Vigoroth](../assets/sprites/vigoroth/front.gif "Vigoroth")
 
@@ -9966,7 +9966,7 @@ Level Up:
 51 - Focus Punch
 ```
 
-**#289 - Slaking**
+**[#289 - Slaking](../pokemon/slaking.md)**
 
 ![Slaking](../assets/sprites/slaking/front.gif "Slaking")
 
@@ -9992,7 +9992,7 @@ Level Up:
 59 - Hammer Arm
 ```
 
-**#290 - Nincada**
+**[#290 - Nincada](../pokemon/nincada.md)**
 
 ![Nincada](../assets/sprites/nincada/front.gif "Nincada")
 
@@ -10021,7 +10021,7 @@ Level Up:
 39 - False Swipe
 ```
 
-**#291 - Ninjask**
+**[#291 - Ninjask](../pokemon/ninjask.md)**
 
 ![Ninjask](../assets/sprites/ninjask/front.gif "Ninjask")
 
@@ -10057,7 +10057,7 @@ Level Up:
 51 - Extreme Speed (!!)
 ```
 
-**#292 - Shedinja**
+**[#292 - Shedinja](../pokemon/shedinja.md)**
 
 ![Shedinja](../assets/sprites/shedinja/front.gif "Shedinja")
 
@@ -10088,7 +10088,7 @@ Level Up:
 43 - Grudge
 ```
 
-**#293 - Whismur**
+**[#293 - Whismur](../pokemon/whismur.md)**
 
 ![Whismur](../assets/sprites/whismur/front.gif "Whismur")
 
@@ -10126,7 +10126,7 @@ Level Up:
 40 - Endeavor
 ```
 
-**#294 - Loudred**
+**[#294 - Loudred](../pokemon/loudred.md)**
 
 ![Loudred](../assets/sprites/loudred/front.gif "Loudred")
 
@@ -10164,7 +10164,7 @@ Level Up:
 47 - Endeavor
 ```
 
-**#295 - Exploud**
+**[#295 - Exploud](../pokemon/exploud.md)**
 
 ![Exploud](../assets/sprites/exploud/front.gif "Exploud")
 
@@ -10207,7 +10207,7 @@ Level Up:
 54 - Hyper Beam
 ```
 
-**#296 - Makuhita**
+**[#296 - Makuhita](../pokemon/makuhita.md)**
 
 ![Makuhita](../assets/sprites/makuhita/front.gif "Makuhita")
 
@@ -10235,7 +10235,7 @@ Level Up:
 45 - Counter
 ```
 
-**#297 - Hariyama**
+**[#297 - Hariyama](../pokemon/hariyama.md)**
 
 ![Hariyama](../assets/sprites/hariyama/front.gif "Hariyama")
 
@@ -10264,7 +10264,7 @@ Level Up:
 53 - Counter
 ```
 
-**#298 - Azurill**
+**[#298 - Azurill](../pokemon/azurill.md)**
 
 ![Azurill](../assets/sprites/azurill/front.gif "Azurill")
 
@@ -10305,7 +10305,7 @@ Level Up:
 18 - Bounce
 ```
 
-**#299 - Nosepass**
+**[#299 - Nosepass](../pokemon/nosepass.md)**
 
 ![Nosepass](../assets/sprites/nosepass/front.gif "Nosepass")
 
@@ -10339,7 +10339,7 @@ Level Up:
 46 - Head Smash (!!)
 ```
 
-**#300 - Skitty**
+**[#300 - Skitty](../pokemon/skitty.md)**
 
 ![Skitty](../assets/sprites/skitty/front.gif "Skitty")
 
@@ -10376,7 +10376,7 @@ Level Up:
 37 - Double-Edge
 ```
 
-**#301 - Delcatty**
+**[#301 - Delcatty](../pokemon/delcatty.md)**
 
 ![Delcatty](../assets/sprites/delcatty/front.gif "Delcatty")
 
@@ -10400,7 +10400,7 @@ Level Up:
 1 - Double Slap
 ```
 
-**#302 - Sableye**
+**[#302 - Sableye](../pokemon/sableye.md)**
 
 ![Sableye](../assets/sprites/sableye/front.gif "Sableye")
 
@@ -10444,7 +10444,7 @@ Level Up:
 47 - Recover
 ```
 
-**#303 - Mawile**
+**[#303 - Mawile](../pokemon/mawile.md)**
 
 ![Mawile](../assets/sprites/mawile/front.gif "Mawile")
 
@@ -10495,7 +10495,7 @@ Level Up:
 43 - Metal Burst
 ```
 
-**#304 - Aron**
+**[#304 - Aron](../pokemon/aron.md)**
 
 ![Aron](../assets/sprites/aron/front.gif "Aron")
 
@@ -10535,7 +10535,7 @@ Level Up:
 49 - Metal Burst
 ```
 
-**#305 - Lairon**
+**[#305 - Lairon](../pokemon/lairon.md)**
 
 ![Lairon](../assets/sprites/lairon/front.gif "Lairon")
 
@@ -10575,7 +10575,7 @@ Level Up:
 58 - Metal Burst
 ```
 
-**#306 - Aggron**
+**[#306 - Aggron](../pokemon/aggron.md)**
 
 ![Aggron](../assets/sprites/aggron/front.gif "Aggron")
 
@@ -10612,7 +10612,7 @@ Level Up:
 63 - Metal Burst
 ```
 
-**#307 - Meditite**
+**[#307 - Meditite](../pokemon/meditite.md)**
 
 ![Meditite](../assets/sprites/meditite/front.gif "Meditite")
 
@@ -10652,7 +10652,7 @@ Level Up:
 49 - Recover
 ```
 
-**#308 - Medicham**
+**[#308 - Medicham](../pokemon/medicham.md)**
 
 ![Medicham](../assets/sprites/medicham/front.gif "Medicham")
 
@@ -10689,7 +10689,7 @@ Level Up:
 55 - Recover
 ```
 
-**#309 - Electrike**
+**[#309 - Electrike](../pokemon/electrike.md)**
 
 ![Electrike](../assets/sprites/electrike/front.gif "Electrike")
 
@@ -10717,7 +10717,7 @@ Level Up:
 43 - Thunder
 ```
 
-**#310 - Manectric**
+**[#310 - Manectric](../pokemon/manectric.md)**
 
 ![Manectric](../assets/sprites/manectric/front.gif "Manectric")
 
@@ -10745,7 +10745,7 @@ Level Up:
 49 - Thunder
 ```
 
-**#311 - Plusle**
+**[#311 - Plusle](../pokemon/plusle.md)**
 
 ![Plusle](../assets/sprites/plusle/front.gif "Plusle")
 
@@ -10787,7 +10787,7 @@ Level Up:
 49 - Nasty Plot
 ```
 
-**#312 - Minun**
+**[#312 - Minun](../pokemon/minun.md)**
 
 ![Minun](../assets/sprites/minun/front.gif "Minun")
 
@@ -10829,7 +10829,7 @@ Level Up:
 49 - Nasty Plot
 ```
 
-**#313 - Volbeat**
+**[#313 - Volbeat](../pokemon/volbeat.md)**
 
 ![Volbeat](../assets/sprites/volbeat/front.gif "Volbeat")
 
@@ -10884,7 +10884,7 @@ Level Up:
 54 - Thunder
 ```
 
-**#314 - Illumise**
+**[#314 - Illumise](../pokemon/illumise.md)**
 
 ![Illumise](../assets/sprites/illumise/front.gif "Illumise")
 
@@ -10939,7 +10939,7 @@ Level Up:
 54 - Thunder
 ```
 
-**#315 - Roselia**
+**[#315 - Roselia](../pokemon/roselia.md)**
 
 ![Roselia](../assets/sprites/roselia/front.gif "Roselia")
 
@@ -10976,7 +10976,7 @@ Level Up:
 51 - Power Whip
 ```
 
-**#316 - Gulpin**
+**[#316 - Gulpin](../pokemon/gulpin.md)**
 
 ![Gulpin](../assets/sprites/gulpin/front.gif "Gulpin")
 
@@ -11002,7 +11002,7 @@ Level Up:
 44 - Gunk Shot
 ```
 
-**#317 - Swalot**
+**[#317 - Swalot](../pokemon/swalot.md)**
 
 ![Swalot](../assets/sprites/swalot/front.gif "Swalot")
 
@@ -11031,7 +11031,7 @@ Level Up:
 51 - Gunk Shot
 ```
 
-**#318 - Carvanha**
+**[#318 - Carvanha](../pokemon/carvanha.md)**
 
 ![Carvanha](../assets/sprites/carvanha/front.gif "Carvanha")
 
@@ -11064,7 +11064,7 @@ Level Up:
 46 - Hydro Pump
 ```
 
-**#319 - Sharpedo**
+**[#319 - Sharpedo](../pokemon/sharpedo.md)**
 
 ![Sharpedo](../assets/sprites/sharpedo/front.gif "Sharpedo")
 
@@ -11101,7 +11101,7 @@ Level Up:
 53 - Hydro Pump
 ```
 
-**#320 - Wailmer**
+**[#320 - Wailmer](../pokemon/wailmer.md)**
 
 ![Wailmer](../assets/sprites/wailmer/front.gif "Wailmer")
 
@@ -11136,7 +11136,7 @@ Level Up:
 52 - Fissure
 ```
 
-**#321 - Wailord**
+**[#321 - Wailord](../pokemon/wailord.md)**
 
 ![Wailord](../assets/sprites/wailord/front.gif "Wailord")
 
@@ -11165,7 +11165,7 @@ Level Up:
 58 - Fissure
 ```
 
-**#322 - Numel**
+**[#322 - Numel](../pokemon/numel.md)**
 
 ![Numel](../assets/sprites/numel/front.gif "Numel")
 
@@ -11196,7 +11196,7 @@ Level Up:
 43 - Double-Edge
 ```
 
-**#323 - Camerupt**
+**[#323 - Camerupt](../pokemon/camerupt.md)**
 
 ![Camerupt](../assets/sprites/camerupt/front.gif "Camerupt")
 
@@ -11230,7 +11230,7 @@ Level Up:
 55 - Fissure
 ```
 
-**#324 - Torkoal**
+**[#324 - Torkoal](../pokemon/torkoal.md)**
 
 ![Torkoal](../assets/sprites/torkoal/front.gif "Torkoal")
 
@@ -11265,7 +11265,7 @@ Level Up:
 49 - Eruption
 ```
 
-**#325 - Spoink**
+**[#325 - Spoink](../pokemon/spoink.md)**
 
 ![Spoink](../assets/sprites/spoink/front.gif "Spoink")
 
@@ -11293,7 +11293,7 @@ Level Up:
 46 - Trick
 ```
 
-**#326 - Grumpig**
+**[#326 - Grumpig](../pokemon/grumpig.md)**
 
 ![Grumpig](../assets/sprites/grumpig/front.gif "Grumpig")
 
@@ -11322,7 +11322,7 @@ Level Up:
 51 - Trick
 ```
 
-**#327 - Spinda**
+**[#327 - Spinda](../pokemon/spinda.md)**
 
 ![Spinda](../assets/sprites/spinda/front.gif "Spinda")
 
@@ -11359,7 +11359,7 @@ Level Up:
 52 - Hyper Voice
 ```
 
-**#328 - Trapinch**
+**[#328 - Trapinch](../pokemon/trapinch.md)**
 
 ![Trapinch](../assets/sprites/trapinch/front.gif "Trapinch")
 
@@ -11415,7 +11415,7 @@ Level Up:
 55 - Hyper Beam
 ```
 
-**#329 - Vibrava**
+**[#329 - Vibrava](../pokemon/vibrava.md)**
 
 ![Vibrava](../assets/sprites/vibrava/front.gif "Vibrava")
 
@@ -11477,7 +11477,7 @@ Level Up:
 55 - Hyper Beam
 ```
 
-**#330 - Flygon**
+**[#330 - Flygon](../pokemon/flygon.md)**
 
 ![Flygon](../assets/sprites/flygon/front.gif "Flygon")
 
@@ -11542,7 +11542,7 @@ Level Up:
 59 - Dragon Rush
 ```
 
-**#331 - Cacnea**
+**[#331 - Cacnea](../pokemon/cacnea.md)**
 
 ![Cacnea](../assets/sprites/cacnea/front.gif "Cacnea")
 
@@ -11578,7 +11578,7 @@ Level Up:
 55 - Destiny Bond
 ```
 
-**#332 - Cacturne**
+**[#332 - Cacturne](../pokemon/cacturne.md)**
 
 ![Cacturne](../assets/sprites/cacturne/front.gif "Cacturne")
 
@@ -11615,7 +11615,7 @@ Level Up:
 63 - Destiny Bond
 ```
 
-**#333 - Swablu**
+**[#333 - Swablu](../pokemon/swablu.md)**
 
 ![Swablu](../assets/sprites/swablu/front.gif "Swablu")
 
@@ -11669,7 +11669,7 @@ Level Up:
 46 - Brave Bird (!!)
 ```
 
-**#334 - Altaria**
+**[#334 - Altaria](../pokemon/altaria.md)**
 
 ![Altaria](../assets/sprites/altaria/front.gif "Altaria")
 
@@ -11726,7 +11726,7 @@ Level Up:
 54 - Sky Attack
 ```
 
-**#335 - Zangoose**
+**[#335 - Zangoose](../pokemon/zangoose.md)**
 
 ![Zangoose](../assets/sprites/zangoose/front.gif "Zangoose")
 
@@ -11761,7 +11761,7 @@ Level Up:
 49 - Double-Edge
 ```
 
-**#336 - Seviper**
+**[#336 - Seviper](../pokemon/seviper.md)**
 
 ![Seviper](../assets/sprites/seviper/front.gif "Seviper")
 
@@ -11802,7 +11802,7 @@ Level Up:
 49 - Wring Out
 ```
 
-**#337 - Lunatone**
+**[#337 - Lunatone](../pokemon/lunatone.md)**
 
 ![Lunatone](../assets/sprites/lunatone/front.gif "Lunatone")
 
@@ -11836,7 +11836,7 @@ Level Up:
 53 - Explosion
 ```
 
-**#338 - Solrock**
+**[#338 - Solrock](../pokemon/solrock.md)**
 
 ![Solrock](../assets/sprites/solrock/front.gif "Solrock")
 
@@ -11869,7 +11869,7 @@ Level Up:
 53 - Explosion
 ```
 
-**#339 - Barboach**
+**[#339 - Barboach](../pokemon/barboach.md)**
 
 ![Barboach](../assets/sprites/barboach/front.gif "Barboach")
 
@@ -11896,7 +11896,7 @@ Level Up:
 46 - Fissure
 ```
 
-**#340 - Whiscash**
+**[#340 - Whiscash](../pokemon/whiscash.md)**
 
 ![Whiscash](../assets/sprites/whiscash/front.gif "Whiscash")
 
@@ -11926,7 +11926,7 @@ Level Up:
 53 - Fissure
 ```
 
-**#341 - Corphish**
+**[#341 - Corphish](../pokemon/corphish.md)**
 
 ![Corphish](../assets/sprites/corphish/front.gif "Corphish")
 
@@ -11961,7 +11961,7 @@ Level Up:
 50 - Guillotine
 ```
 
-**#342 - Crawdaunt**
+**[#342 - Crawdaunt](../pokemon/crawdaunt.md)**
 
 ![Crawdaunt](../assets/sprites/crawdaunt/front.gif "Crawdaunt")
 
@@ -11997,7 +11997,7 @@ Level Up:
 57 - Guillotine
 ```
 
-**#343 - Baltoy**
+**[#343 - Baltoy](../pokemon/baltoy.md)**
 
 ![Baltoy](../assets/sprites/baltoy/front.gif "Baltoy")
 
@@ -12030,7 +12030,7 @@ Level Up:
 49 - Explosion
 ```
 
-**#344 - Claydol**
+**[#344 - Claydol](../pokemon/claydol.md)**
 
 ![Claydol](../assets/sprites/claydol/front.gif "Claydol")
 
@@ -12066,7 +12066,7 @@ Level Up:
 55 - Explosion
 ```
 
-**#345 - Lileep**
+**[#345 - Lileep](../pokemon/lileep.md)**
 
 ![Lileep](../assets/sprites/lileep/front.gif "Lileep")
 
@@ -12106,7 +12106,7 @@ Level Up:
 48 - Wring Out
 ```
 
-**#346 - Cradily**
+**[#346 - Cradily](../pokemon/cradily.md)**
 
 ![Cradily](../assets/sprites/cradily/front.gif "Cradily")
 
@@ -12141,7 +12141,7 @@ Level Up:
 55 - Wring Out
 ```
 
-**#347 - Anorith**
+**[#347 - Anorith](../pokemon/anorith.md)**
 
 ![Anorith](../assets/sprites/anorith/front.gif "Anorith")
 
@@ -12186,7 +12186,7 @@ Level Up:
 45 - Rock Blast
 ```
 
-**#348 - Armaldo**
+**[#348 - Armaldo](../pokemon/armaldo.md)**
 
 ![Armaldo](../assets/sprites/armaldo/front.gif "Armaldo")
 
@@ -12227,7 +12227,7 @@ Level Up:
 55 - Stone Edge
 ```
 
-**#349 - Feebas**
+**[#349 - Feebas](../pokemon/feebas.md)**
 
 ![Feebas](../assets/sprites/feebas/front.gif "Feebas")
 
@@ -12253,7 +12253,7 @@ Level Up:
 15 - Water Pulse
 ```
 
-**#350 - Milotic**
+**[#350 - Milotic](../pokemon/milotic.md)**
 
 ![Milotic](../assets/sprites/milotic/front.gif "Milotic")
 
@@ -12303,7 +12303,7 @@ Level Up:
 51 - Hydro Pump
 ```
 
-**#351 - Castform**
+**[#351 - Castform](../pokemon/castform.md)**
 
 ![Castform](../assets/sprites/castform/front.gif "Castform")
 
@@ -12338,7 +12338,7 @@ Level Up:
 45 - Hurricane
 ```
 
-**#352 - Kecleon**
+**[#352 - Kecleon](../pokemon/kecleon.md)**
 
 ![Kecleon](../assets/sprites/kecleon/front.gif "Kecleon")
 
@@ -12375,7 +12375,7 @@ Level Up:
 49 - Double-Edge
 ```
 
-**#353 - Shuppet**
+**[#353 - Shuppet](../pokemon/shuppet.md)**
 
 ![Shuppet](../assets/sprites/shuppet/front.gif "Shuppet")
 
@@ -12408,7 +12408,7 @@ Level Up:
 49 - Destiny Bond
 ```
 
-**#354 - Banette**
+**[#354 - Banette](../pokemon/banette.md)**
 
 ![Banette](../assets/sprites/banette/front.gif "Banette")
 
@@ -12443,7 +12443,7 @@ Level Up:
 55 - Destiny Bond
 ```
 
-**#355 - Duskull**
+**[#355 - Duskull](../pokemon/duskull.md)**
 
 ![Duskull](../assets/sprites/duskull/front.gif "Duskull")
 
@@ -12487,7 +12487,7 @@ Level Up:
 43 - Destiny Bond
 ```
 
-**#356 - Dusclops**
+**[#356 - Dusclops](../pokemon/dusclops.md)**
 
 ![Dusclops](../assets/sprites/dusclops/front.gif "Dusclops")
 
@@ -12537,7 +12537,7 @@ Level Up:
 47 - Destiny Bond
 ```
 
-**#357 - Tropius**
+**[#357 - Tropius](../pokemon/tropius.md)**
 
 ![Tropius](../assets/sprites/tropius/front.gif "Tropius")
 
@@ -12588,7 +12588,7 @@ Level Up:
 54 - Leaf Storm
 ```
 
-**#358 - Chimecho**
+**[#358 - Chimecho](../pokemon/chimecho.md)**
 
 ![Chimecho](../assets/sprites/chimecho/front.gif "Chimecho")
 
@@ -12623,7 +12623,7 @@ Level Up:
 49 - Healing Wish
 ```
 
-**#359 - Absol**
+**[#359 - Absol](../pokemon/absol.md)**
 
 ![Absol](../assets/sprites/absol/front.gif "Absol")
 
@@ -12667,7 +12667,7 @@ Level Up:
 52 - Perish Song
 ```
 
-**#360 - Wynaut**
+**[#360 - Wynaut](../pokemon/wynaut.md)**
 
 ![Wynaut](../assets/sprites/wynaut/front.gif "Wynaut")
 
@@ -12683,7 +12683,7 @@ Level Up:
 15 - Destiny Bond
 ```
 
-**#361 - Snorunt**
+**[#361 - Snorunt](../pokemon/snorunt.md)**
 
 ![Snorunt](../assets/sprites/snorunt/front.gif "Snorunt")
 
@@ -12714,7 +12714,7 @@ Level Up:
 45 - Blizzard
 ```
 
-**#362 - Glalie**
+**[#362 - Glalie](../pokemon/glalie.md)**
 
 ![Glalie](../assets/sprites/glalie/front.gif "Glalie")
 
@@ -12776,7 +12776,7 @@ Level Up:
 54 - Sheer Cold
 ```
 
-**#363 - Spheal**
+**[#363 - Spheal](../pokemon/spheal.md)**
 
 ![Spheal](../assets/sprites/spheal/front.gif "Spheal")
 
@@ -12809,7 +12809,7 @@ Level Up:
 43 - Sheer Cold
 ```
 
-**#364 - Sealeo**
+**[#364 - Sealeo](../pokemon/sealeo.md)**
 
 ![Sealeo](../assets/sprites/sealeo/front.gif "Sealeo")
 
@@ -12843,7 +12843,7 @@ Level Up:
 50 - Sheer Cold
 ```
 
-**#365 - Walrein**
+**[#365 - Walrein](../pokemon/walrein.md)**
 
 ![Walrein](../assets/sprites/walrein/front.gif "Walrein")
 
@@ -12873,7 +12873,7 @@ Level Up:
 56 - Sheer Cold
 ```
 
-**#366 - Clamperl**
+**[#366 - Clamperl](../pokemon/clamperl.md)**
 
 ![Clamperl](../assets/sprites/clamperl/front.gif "Clamperl")
 
@@ -12909,7 +12909,7 @@ Level Up:
 25 - Muddy Water
 ```
 
-**#367 - Huntail**
+**[#367 - Huntail](../pokemon/huntail.md)**
 
 ![Huntail](../assets/sprites/huntail/front.gif "Huntail")
 
@@ -12941,7 +12941,7 @@ Level Up:
 51 - Hydro Pump
 ```
 
-**#368 - Gorebyss**
+**[#368 - Gorebyss](../pokemon/gorebyss.md)**
 
 ![Gorebyss](../assets/sprites/gorebyss/front.gif "Gorebyss")
 
@@ -12973,7 +12973,7 @@ Level Up:
 51 - Hydro Pump
 ```
 
-**#369 - Relicanth**
+**[#369 - Relicanth](../pokemon/relicanth.md)**
 
 ![Relicanth](../assets/sprites/relicanth/front.gif "Relicanth")
 
@@ -13010,7 +13010,7 @@ Level Up:
 55 - Head Smash
 ```
 
-**#370 - Luvdisc**
+**[#370 - Luvdisc](../pokemon/luvdisc.md)**
 
 ![Luvdisc](../assets/sprites/luvdisc/front.gif "Luvdisc")
 
@@ -13064,7 +13064,7 @@ Level Up:
 49 - Hydro Pump
 ```
 
-**#371 - Bagon**
+**[#371 - Bagon](../pokemon/bagon.md)**
 
 ![Bagon](../assets/sprites/bagon/front.gif "Bagon")
 
@@ -13091,7 +13091,7 @@ Level Up:
 49 - Outrage
 ```
 
-**#372 - Shelgon**
+**[#372 - Shelgon](../pokemon/shelgon.md)**
 
 ![Shelgon](../assets/sprites/shelgon/front.gif "Shelgon")
 
@@ -13118,7 +13118,7 @@ Level Up:
 56 - Outrage
 ```
 
-**#373 - Salamence**
+**[#373 - Salamence](../pokemon/salamence.md)**
 
 ![Salamence](../assets/sprites/salamence/front.gif "Salamence")
 
@@ -13154,7 +13154,7 @@ Level Up:
 60 - Outrage
 ```
 
-**#374 - Beldum**
+**[#374 - Beldum](../pokemon/beldum.md)**
 
 ![Beldum](../assets/sprites/beldum/front.gif "Beldum")
 
@@ -13182,7 +13182,7 @@ Level Up:
 1 - Iron Defense
 ```
 
-**#375 - Metang**
+**[#375 - Metang](../pokemon/metang.md)**
 
 ![Metang](../assets/sprites/metang/front.gif "Metang")
 
@@ -13229,7 +13229,7 @@ Level Up:
 50 - Hyper Beam
 ```
 
-**#376 - Metagross**
+**[#376 - Metagross](../pokemon/metagross.md)**
 
 ![Metagross](../assets/sprites/metagross/front.gif "Metagross")
 
@@ -13279,7 +13279,7 @@ Level Up:
 59 - Hyper Beam
 ```
 
-**#377 - Regirock**
+**[#377 - Regirock](../pokemon/regirock.md)**
 
 ![Regirock](../assets/sprites/regirock/front.gif "Regirock")
 
@@ -13304,7 +13304,7 @@ Level Up:
 50 - Hyper Beam
 ```
 
-**#378 - Regice**
+**[#378 - Regice](../pokemon/regice.md)**
 
 ![Regice](../assets/sprites/regice/front.gif "Regice")
 
@@ -13329,7 +13329,7 @@ Level Up:
 50 - Hyper Beam
 ```
 
-**#379 - Registeel**
+**[#379 - Registeel](../pokemon/registeel.md)**
 
 ![Registeel](../assets/sprites/registeel/front.gif "Registeel")
 
@@ -13356,7 +13356,7 @@ Level Up:
 50 - Hyper Beam
 ```
 
-**#380 - Latias**
+**[#380 - Latias](../pokemon/latias.md)**
 
 ![Latias](../assets/sprites/latias/front.gif "Latias")
 
@@ -13381,7 +13381,7 @@ Level Up:
 50 - Last Resort
 ```
 
-**#381 - Latios**
+**[#381 - Latios](../pokemon/latios.md)**
 
 ![Latios](../assets/sprites/latios/front.gif "Latios")
 
@@ -13406,7 +13406,7 @@ Level Up:
 50 - Last Resort
 ```
 
-**#382 - Kyogre**
+**[#382 - Kyogre](../pokemon/kyogre.md)**
 
 ![Kyogre](../assets/sprites/kyogre/front.gif "Kyogre")
 
@@ -13429,7 +13429,7 @@ Level Up:
 50 - Water Spout
 ```
 
-**#383 - Groudon**
+**[#383 - Groudon](../pokemon/groudon.md)**
 
 ![Groudon](../assets/sprites/groudon/front.gif "Groudon")
 
@@ -13452,7 +13452,7 @@ Level Up:
 50 - Eruption
 ```
 
-**#384 - Rayquaza**
+**[#384 - Rayquaza](../pokemon/rayquaza.md)**
 
 ![Rayquaza](../assets/sprites/rayquaza/front.gif "Rayquaza")
 
@@ -13474,7 +13474,7 @@ Level Up:
 50 - Hyper Beam
 ```
 
-**#385 - Jirachi**
+**[#385 - Jirachi](../pokemon/jirachi.md)**
 
 ![Jirachi](../assets/sprites/jirachi/front.gif "Jirachi")
 
@@ -13501,7 +13501,7 @@ Level Up:
 50 - Doom Desire
 ```
 
-**#386 - Deoxys**
+**[#386 - Deoxys](../pokemon/deoxys-normal.md)**
 
 ![Deoxys](../assets/sprites/deoxys-normal/front.gif "Deoxys")
 
@@ -13583,7 +13583,7 @@ Level Up (Speed Forme):
 50 - Extreme Speed
 ```
 
-**#387 - Turtwig**
+**[#387 - Turtwig](../pokemon/turtwig.md)**
 
 ![Turtwig](../assets/sprites/turtwig/front.gif "Turtwig")
 
@@ -13614,7 +13614,7 @@ Level Up:
 41 - Leaf Storm
 ```
 
-**#388 - Grotle**
+**[#388 - Grotle](../pokemon/grotle.md)**
 
 ![Grotle](../assets/sprites/grotle/front.gif "Grotle")
 
@@ -13646,7 +13646,7 @@ Level Up:
 49 - Leaf Storm
 ```
 
-**#389 - Torterra**
+**[#389 - Torterra](../pokemon/torterra.md)**
 
 ![Torterra](../assets/sprites/torterra/front.gif "Torterra")
 
@@ -13689,7 +13689,7 @@ Level Up:
 54 - Leaf Storm
 ```
 
-**#390 - Chimchar**
+**[#390 - Chimchar](../pokemon/chimchar.md)**
 
 ![Chimchar](../assets/sprites/chimchar/front.gif "Chimchar")
 
@@ -13720,7 +13720,7 @@ Level Up:
 41 - Fire Blast
 ```
 
-**#391 - Monferno**
+**[#391 - Monferno](../pokemon/monferno.md)**
 
 ![Monferno](../assets/sprites/monferno/front.gif "Monferno")
 
@@ -13758,7 +13758,7 @@ Level Up:
 51 - Flare Blitz
 ```
 
-**#392 - Infernape**
+**[#392 - Infernape](../pokemon/infernape.md)**
 
 ![Infernape](../assets/sprites/infernape/front.gif "Infernape")
 
@@ -13806,7 +13806,7 @@ Level Up:
 56 - Flare Blitz
 ```
 
-**#393 - Piplup**
+**[#393 - Piplup](../pokemon/piplup.md)**
 
 ![Piplup](../assets/sprites/piplup/front.gif "Piplup")
 
@@ -13837,7 +13837,7 @@ Level Up:
 41 - Hydro Pump
 ```
 
-**#394 - Prinplup**
+**[#394 - Prinplup](../pokemon/prinplup.md)**
 
 ![Prinplup](../assets/sprites/prinplup/front.gif "Prinplup")
 
@@ -13869,7 +13869,7 @@ Level Up:
 50 - Hydro Pump
 ```
 
-**#395 - Empoleon**
+**[#395 - Empoleon](../pokemon/empoleon.md)**
 
 ![Empoleon](../assets/sprites/empoleon/front.gif "Empoleon")
 
@@ -13912,7 +13912,7 @@ Level Up:
 54 - Hydro Pump
 ```
 
-**#396 - Starly**
+**[#396 - Starly](../pokemon/starly.md)**
 
 ![Starly](../assets/sprites/starly/front.gif "Starly")
 
@@ -13949,7 +13949,7 @@ Level Up:
 41 - Double-Edge
 ```
 
-**#397 - Staravia**
+**[#397 - Staravia](../pokemon/staravia.md)**
 
 ![Staravia](../assets/sprites/staravia/front.gif "Staravia")
 
@@ -13986,7 +13986,7 @@ Level Up:
 50 - Double-Edge
 ```
 
-**#398 - Staraptor**
+**[#398 - Staraptor](../pokemon/staraptor.md)**
 
 ![Staraptor](../assets/sprites/staraptor/front.gif "Staraptor")
 
@@ -14026,7 +14026,7 @@ Level Up:
 55 - Double-Edge
 ```
 
-**#399 - Bidoof**
+**[#399 - Bidoof](../pokemon/bidoof.md)**
 
 ![Bidoof](../assets/sprites/bidoof/front.gif "Bidoof")
 
@@ -14057,7 +14057,7 @@ Level Up:
 41 - Double-Edge
 ```
 
-**#400 - Bibarel**
+**[#400 - Bibarel](../pokemon/bibarel.md)**
 
 ![Bibarel](../assets/sprites/bibarel/front.gif "Bibarel")
 
@@ -14097,7 +14097,7 @@ Level Up:
 50 - Double-Edge
 ```
 
-**#401 - Kricketot**
+**[#401 - Kricketot](../pokemon/kricketot.md)**
 
 ![Kricketot](../assets/sprites/kricketot/front.gif "Kricketot")
 
@@ -14124,7 +14124,7 @@ Level Up:
 1 - String Shot
 ```
 
-**#402 - Kricketune**
+**[#402 - Kricketune](../pokemon/kricketune.md)**
 
 ![Kricketune](../assets/sprites/kricketune/front.gif "Kricketune")
 
@@ -14174,7 +14174,7 @@ Level Up:
 49 - Perish Song
 ```
 
-**#403 - Shinx**
+**[#403 - Shinx](../pokemon/shinx.md)**
 
 ![Shinx](../assets/sprites/shinx/front.gif "Shinx")
 
@@ -14208,7 +14208,7 @@ Level Up:
 42 - Sucker Punch (!!)
 ```
 
-**#404 - Luxio**
+**[#404 - Luxio](../pokemon/luxio.md)**
 
 ![Luxio](../assets/sprites/luxio/front.gif "Luxio")
 
@@ -14242,7 +14242,7 @@ Level Up:
 52 - Sucker Punch (!!)
 ```
 
-**#405 - Luxray**
+**[#405 - Luxray](../pokemon/luxray.md)**
 
 ![Luxray](../assets/sprites/luxray/front.gif "Luxray")
 
@@ -14290,7 +14290,7 @@ Level Up:
 58 - Sucker Punch (!!)
 ```
 
-**#406 - Budew**
+**[#406 - Budew](../pokemon/budew.md)**
 
 ![Budew](../assets/sprites/budew/front.gif "Budew")
 
@@ -14327,7 +14327,7 @@ Level Up:
 18 - Extrasensory
 ```
 
-**#407 - Roserade**
+**[#407 - Roserade](../pokemon/roserade.md)**
 
 ![Roserade](../assets/sprites/roserade/front.gif "Roserade")
 
@@ -14349,7 +14349,7 @@ Level Up:
 53 - Leaf Storm
 ```
 
-**#408 - Cranidos**
+**[#408 - Cranidos](../pokemon/cranidos.md)**
 
 ![Cranidos](../assets/sprites/cranidos/front.gif "Cranidos")
 
@@ -14382,7 +14382,7 @@ Level Up:
 48 - Head Smash
 ```
 
-**#409 - Rampardos**
+**[#409 - Rampardos](../pokemon/rampardos.md)**
 
 ![Rampardos](../assets/sprites/rampardos/front.gif "Rampardos")
 
@@ -14417,7 +14417,7 @@ Level Up:
 55 - Head Smash
 ```
 
-**#410 - Shieldon**
+**[#410 - Shieldon](../pokemon/shieldon.md)**
 
 ![Shieldon](../assets/sprites/shieldon/front.gif "Shieldon")
 
@@ -14457,7 +14457,7 @@ Level Up:
 48 - Head Smash (!!)
 ```
 
-**#411 - Bastiodon**
+**[#411 - Bastiodon](../pokemon/bastiodon.md)**
 
 ![Bastiodon](../assets/sprites/bastiodon/front.gif "Bastiodon")
 
@@ -14499,7 +14499,7 @@ Level Up:
 55 - Head Smash (!!)
 ```
 
-**#412 - Burmy**
+**[#412 - Burmy](../pokemon/burmy.md)**
 
 ![Burmy](../assets/sprites/burmy/front.gif "Burmy")
 
@@ -14533,7 +14533,7 @@ Level Up:
 1 - Hidden Power
 ```
 
-**#413 - Wormadam**
+**[#413 - Wormadam](../pokemon/wormadam-plant.md)**
 
 ![Wormadam](../assets/sprites/wormadam-plant/front.gif "Wormadam")
 
@@ -14645,7 +14645,7 @@ Level Up (Trash Cloak):
 50 - Iron Head
 ```
 
-**#414 - Mothim**
+**[#414 - Mothim](../pokemon/mothim.md)**
 
 ![Mothim](../assets/sprites/mothim/front.gif "Mothim")
 
@@ -14691,7 +14691,7 @@ Level Up:
 50 - Hurricane (!!)
 ```
 
-**#415 - Combee**
+**[#415 - Combee](../pokemon/combee.md)**
 
 ![Combee](../assets/sprites/combee/front.gif "Combee")
 
@@ -14717,7 +14717,7 @@ Level Up:
 1 - Bug Buzz
 ```
 
-**#416 - Vespiquen**
+**[#416 - Vespiquen](../pokemon/vespiquen.md)**
 
 ![Vespiquen](../assets/sprites/vespiquen/front.gif "Vespiquen")
 
@@ -14761,7 +14761,7 @@ Level Up:
 49 - Destiny Bond
 ```
 
-**#417 - Pachirisu**
+**[#417 - Pachirisu](../pokemon/pachirisu.md)**
 
 ![Pachirisu](../assets/sprites/pachirisu/front.gif "Pachirisu")
 
@@ -14802,7 +14802,7 @@ Level Up:
 45 - Last Resort
 ```
 
-**#418 - Buizel**
+**[#418 - Buizel](../pokemon/buizel.md)**
 
 ![Buizel](../assets/sprites/buizel/front.gif "Buizel")
 
@@ -14833,7 +14833,7 @@ Level Up:
 43 - Hydro Pump
 ```
 
-**#419 - Floatzel**
+**[#419 - Floatzel](../pokemon/floatzel.md)**
 
 ![Floatzel](../assets/sprites/floatzel/front.gif "Floatzel")
 
@@ -14865,7 +14865,7 @@ Level Up:
 49 - Hydro Pump
 ```
 
-**#420 - Cherubi**
+**[#420 - Cherubi](../pokemon/cherubi.md)**
 
 ![Cherubi](../assets/sprites/cherubi/front.gif "Cherubi")
 
@@ -14889,7 +14889,7 @@ Level Up:
 43 - Solar Beam
 ```
 
-**#421 - Cherrim**
+**[#421 - Cherrim](../pokemon/cherrim.md)**
 
 ![Cherrim](../assets/sprites/cherrim/front.gif "Cherrim")
 
@@ -14922,7 +14922,7 @@ Level Up:
 50 - Solar Beam
 ```
 
-**#422 - Shellos**
+**[#422 - Shellos](../pokemon/shellos.md)**
 
 ![Shellos](../assets/sprites/shellos/front.gif "Shellos")
 
@@ -14948,7 +14948,7 @@ Level Up:
 43 - Recover
 ```
 
-**#423 - Gastrodon**
+**[#423 - Gastrodon](../pokemon/gastrodon.md)**
 
 ![Gastrodon](../assets/sprites/gastrodon/front.gif "Gastrodon")
 
@@ -14975,7 +14975,7 @@ Level Up:
 48 - Recover
 ```
 
-**#424 - Ambipom**
+**[#424 - Ambipom](../pokemon/ambipom.md)**
 
 ![Ambipom](../assets/sprites/ambipom/front.gif "Ambipom")
 
@@ -15003,7 +15003,7 @@ Level Up:
 50 - Last Resort
 ```
 
-**#425 - Drifloon**
+**[#425 - Drifloon](../pokemon/drifloon.md)**
 
 ![Drifloon](../assets/sprites/drifloon/front.gif "Drifloon")
 
@@ -15043,7 +15043,7 @@ Level Up:
 46 - Explosion
 ```
 
-**#426 - Drifblim**
+**[#426 - Drifblim](../pokemon/drifblim.md)**
 
 ![Drifblim](../assets/sprites/drifblim/front.gif "Drifblim")
 
@@ -15085,7 +15085,7 @@ Level Up:
 53 - Explosion
 ```
 
-**#427 - Buneary**
+**[#427 - Buneary](../pokemon/buneary.md)**
 
 ![Buneary](../assets/sprites/buneary/front.gif "Buneary")
 
@@ -15119,7 +15119,7 @@ Level Up:
 46 - Healing Wish
 ```
 
-**#428 - Lopunny**
+**[#428 - Lopunny](../pokemon/lopunny.md)**
 
 ![Lopunny](../assets/sprites/lopunny/front.gif "Lopunny")
 
@@ -15177,7 +15177,7 @@ Level Up:
 49 - High Jump Kick
 ```
 
-**#429 - Mismagius**
+**[#429 - Mismagius](../pokemon/mismagius.md)**
 
 ![Mismagius](../assets/sprites/mismagius/front.gif "Mismagius")
 
@@ -15203,7 +15203,7 @@ Level Up:
 43 - Moonblast (!!)
 ```
 
-**#430 - Honchkrow**
+**[#430 - Honchkrow](../pokemon/honchkrow.md)**
 
 ![Honchkrow](../assets/sprites/honchkrow/front.gif "Honchkrow")
 
@@ -15235,7 +15235,7 @@ Level Up:
 55 - Brave Bird
 ```
 
-**#431 - Glameow**
+**[#431 - Glameow](../pokemon/glameow.md)**
 
 ![Glameow](../assets/sprites/glameow/front.gif "Glameow")
 
@@ -15276,7 +15276,7 @@ Level Up:
 49 - Last Resort
 ```
 
-**#432 - Purugly**
+**[#432 - Purugly](../pokemon/purugly.md)**
 
 ![Purugly](../assets/sprites/purugly/front.gif "Purugly")
 
@@ -15312,7 +15312,7 @@ Level Up:
 55 - Last Resort
 ```
 
-**#433 - Chingling**
+**[#433 - Chingling](../pokemon/chingling.md)**
 
 ![Chingling](../assets/sprites/chingling/front.gif "Chingling")
 
@@ -15350,7 +15350,7 @@ Level Up:
 22 - Uproar
 ```
 
-**#434 - Stunky**
+**[#434 - Stunky](../pokemon/stunky.md)**
 
 ![Stunky](../assets/sprites/stunky/front.gif "Stunky")
 
@@ -15399,7 +15399,7 @@ Level Up:
 52 - Explosion
 ```
 
-**#435 - Skuntank**
+**[#435 - Skuntank](../pokemon/skuntank.md)**
 
 ![Skuntank](../assets/sprites/skuntank/front.gif "Skuntank")
 
@@ -15443,7 +15443,7 @@ Level Up:
 59 - Explosion
 ```
 
-**#436 - Bronzor**
+**[#436 - Bronzor](../pokemon/bronzor.md)**
 
 ![Bronzor](../assets/sprites/bronzor/front.gif "Bronzor")
 
@@ -15469,7 +15469,7 @@ Level Up:
 45 - Heal Block
 ```
 
-**#437 - Bronzong**
+**[#437 - Bronzong](../pokemon/bronzong.md)**
 
 ![Bronzong](../assets/sprites/bronzong/front.gif "Bronzong")
 
@@ -15504,7 +15504,7 @@ Level Up:
 50 - Heal Block
 ```
 
-**#438 - Bonsly**
+**[#438 - Bonsly](../pokemon/bonsly.md)**
 
 ![Bonsly](../assets/sprites/bonsly/front.gif "Bonsly")
 
@@ -15543,7 +15543,7 @@ Level Up:
 39 - Double-Edge
 ```
 
-**#439 - Mime Jr.**
+**[#439 - Mime Jr.](../pokemon/mime-jr.md)**
 
 ![Mime Jr.](../assets/sprites/mime-jr/front.gif "Mime Jr.")
 
@@ -15586,7 +15586,7 @@ Level Up:
 48 - Safeguard
 ```
 
-**#440 - Happiny**
+**[#440 - Happiny](../pokemon/happiny.md)**
 
 ![Happiny](../assets/sprites/happiny/front.gif "Happiny")
 
@@ -15615,7 +15615,7 @@ Level Up:
 10 - Sweet Kiss
 ```
 
-**#441 - Chatot**
+**[#441 - Chatot](../pokemon/chatot.md)**
 
 ![Chatot](../assets/sprites/chatot/front.gif "Chatot")
 
@@ -15663,7 +15663,7 @@ Level Up:
 48 - Hurricane (!!)
 ```
 
-**#442 - Spiritomb**
+**[#442 - Spiritomb](../pokemon/spiritomb.md)**
 
 ![Spiritomb](../assets/sprites/spiritomb/front.gif "Spiritomb")
 
@@ -15690,7 +15690,7 @@ Level Up:
 46 - Destiny Bond
 ```
 
-**#443 - Gible**
+**[#443 - Gible](../pokemon/gible.md)**
 
 ![Gible](../assets/sprites/gible/front.gif "Gible")
 
@@ -15724,7 +15724,7 @@ Level Up:
 49 - Outrage
 ```
 
-**#444 - Gabite**
+**[#444 - Gabite](../pokemon/gabite.md)**
 
 ![Gabite](../assets/sprites/gabite/front.gif "Gabite")
 
@@ -15757,7 +15757,7 @@ Level Up:
 58 - Outrage
 ```
 
-**#445 - Garchomp**
+**[#445 - Garchomp](../pokemon/garchomp.md)**
 
 ![Garchomp](../assets/sprites/garchomp/front.gif "Garchomp")
 
@@ -15799,7 +15799,7 @@ Level Up:
 70 - Extreme Speed (!!)
 ```
 
-**#446 - Munchlax**
+**[#446 - Munchlax](../pokemon/munchlax.md)**
 
 ![Munchlax](../assets/sprites/munchlax/front.gif "Munchlax")
 
@@ -15834,7 +15834,7 @@ Level Up:
 51 - Last Resort
 ```
 
-**#447 - Riolu**
+**[#447 - Riolu](../pokemon/riolu.md)**
 
 ![Riolu](../assets/sprites/riolu/front.gif "Riolu")
 
@@ -15863,7 +15863,7 @@ Level Up:
 31 - Cross Chop
 ```
 
-**#448 - Lucario**
+**[#448 - Lucario](../pokemon/lucario.md)**
 
 ![Lucario](../assets/sprites/lucario/front.gif "Lucario")
 
@@ -15900,7 +15900,7 @@ Level Up:
 57 - Extreme Speed
 ```
 
-**#449 - Hippopotas**
+**[#449 - Hippopotas](../pokemon/hippopotas.md)**
 
 ![Hippopotas](../assets/sprites/hippopotas/front.gif "Hippopotas")
 
@@ -15925,7 +15925,7 @@ Level Up:
 55 - Superpower
 ```
 
-**#450 - Hippowdon**
+**[#450 - Hippowdon](../pokemon/hippowdon.md)**
 
 ![Hippowdon](../assets/sprites/hippowdon/front.gif "Hippowdon")
 
@@ -15953,7 +15953,7 @@ Level Up:
 61 - Superpower
 ```
 
-**#451 - Skorupi**
+**[#451 - Skorupi](../pokemon/skorupi.md)**
 
 ![Skorupi](../assets/sprites/skorupi/front.gif "Skorupi")
 
@@ -15998,7 +15998,7 @@ Level Up:
 45 - Cross Poison
 ```
 
-**#452 - Drapion**
+**[#452 - Drapion](../pokemon/drapion.md)**
 
 ![Drapion](../assets/sprites/drapion/front.gif "Drapion")
 
@@ -16040,7 +16040,7 @@ Level Up:
 51 - Cross Poison
 ```
 
-**#453 - Croagunk**
+**[#453 - Croagunk](../pokemon/croagunk.md)**
 
 ![Croagunk](../assets/sprites/croagunk/front.gif "Croagunk")
 
@@ -16087,7 +16087,7 @@ Level Up:
 49 - Gunk Shot
 ```
 
-**#454 - Toxicroak**
+**[#454 - Toxicroak](../pokemon/toxicroak.md)**
 
 ![Toxicroak](../assets/sprites/toxicroak/front.gif "Toxicroak")
 
@@ -16129,7 +16129,7 @@ Level Up:
 55 - Gunk Shot
 ```
 
-**#455 - Carnivine**
+**[#455 - Carnivine](../pokemon/carnivine.md)**
 
 ![Carnivine](../assets/sprites/carnivine/front.gif "Carnivine")
 
@@ -16171,7 +16171,7 @@ Level Up:
 45 - Power Whip
 ```
 
-**#456 - Finneon**
+**[#456 - Finneon](../pokemon/finneon.md)**
 
 ![Finneon](../assets/sprites/finneon/front.gif "Finneon")
 
@@ -16210,7 +16210,7 @@ Level Up:
 48 - Hydro Pump (!!)
 ```
 
-**#457 - Lumineon**
+**[#457 - Lumineon](../pokemon/lumineon.md)**
 
 ![Lumineon](../assets/sprites/lumineon/front.gif "Lumineon")
 
@@ -16252,7 +16252,7 @@ Level Up:
 54 - Hydro Pump (!!)
 ```
 
-**#458 - Mantyke**
+**[#458 - Mantyke](../pokemon/mantyke.md)**
 
 ![Mantyke](../assets/sprites/mantyke/front.gif "Mantyke")
 
@@ -16279,7 +16279,7 @@ Level Up:
 46 - Hydro Pump
 ```
 
-**#459 - Snover**
+**[#459 - Snover](../pokemon/snover.md)**
 
 ![Snover](../assets/sprites/snover/front.gif "Snover")
 
@@ -16312,7 +16312,7 @@ Level Up:
 46 - Sheer Cold
 ```
 
-**#460 - Abomasnow**
+**[#460 - Abomasnow](../pokemon/abomasnow.md)**
 
 ![Abomasnow](../assets/sprites/abomasnow/front.gif "Abomasnow")
 
@@ -16346,7 +16346,7 @@ Level Up:
 49 - Sheer Cold
 ```
 
-**#461 - Weavile**
+**[#461 - Weavile](../pokemon/weavile.md)**
 
 ![Weavile](../assets/sprites/weavile/front.gif "Weavile")
 
@@ -16383,7 +16383,7 @@ Level Up:
 46 - Dark Pulse
 ```
 
-**#462 - Magnezone**
+**[#462 - Magnezone](../pokemon/magnezone.md)**
 
 ![Magnezone](../assets/sprites/magnezone/front.gif "Magnezone")
 
@@ -16419,7 +16419,7 @@ Level Up:
 57 - Zap Cannon
 ```
 
-**#463 - Lickilicky**
+**[#463 - Lickilicky](../pokemon/lickilicky.md)**
 
 ![Lickilicky](../assets/sprites/lickilicky/front.gif "Lickilicky")
 
@@ -16449,7 +16449,7 @@ Level Up:
 58 - Gyro Ball
 ```
 
-**#464 - Rhyperior**
+**[#464 - Rhyperior](../pokemon/rhyperior.md)**
 
 ![Rhyperior](../assets/sprites/rhyperior/front.gif "Rhyperior")
 
@@ -16486,7 +16486,7 @@ Level Up:
 58 - Rock Wrecker
 ```
 
-**#465 - Tangrowth**
+**[#465 - Tangrowth](../pokemon/tangrowth.md)**
 
 ![Tangrowth](../assets/sprites/tangrowth/front.gif "Tangrowth")
 
@@ -16515,7 +16515,7 @@ Level Up:
 49 - Leaf Storm
 ```
 
-**#466 - Electivire**
+**[#466 - Electivire](../pokemon/electivire.md)**
 
 ![Electivire](../assets/sprites/electivire/front.gif "Electivire")
 
@@ -16565,7 +16565,7 @@ Level Up:
 57 - Giga Impact
 ```
 
-**#467 - Magmortar**
+**[#467 - Magmortar](../pokemon/magmortar.md)**
 
 ![Magmortar](../assets/sprites/magmortar/front.gif "Magmortar")
 
@@ -16601,7 +16601,7 @@ Level Up:
 61 - Magma Storm (!!)
 ```
 
-**#468 - Togekiss**
+**[#468 - Togekiss](../pokemon/togekiss.md)**
 
 ![Togekiss](../assets/sprites/togekiss/front.gif "Togekiss")
 
@@ -16629,7 +16629,7 @@ Level Up:
 1 - Air Slash
 ```
 
-**#469 - Yanmega**
+**[#469 - Yanmega](../pokemon/yanmega.md)**
 
 ![Yanmega](../assets/sprites/yanmega/front.gif "Yanmega")
 
@@ -16667,7 +16667,7 @@ Level Up:
 45 - Bug Buzz
 ```
 
-**#470 - Leafeon**
+**[#470 - Leafeon](../pokemon/leafeon.md)**
 
 ![Leafeon](../assets/sprites/leafeon/front.gif "Leafeon")
 
@@ -16702,7 +16702,7 @@ Level Up:
 43 - Power Whip (!!)
 ```
 
-**#471 - Glaceon**
+**[#471 - Glaceon](../pokemon/glaceon.md)**
 
 ![Glaceon](../assets/sprites/glaceon/front.gif "Glaceon")
 
@@ -16745,7 +16745,7 @@ Level Up:
 43 - Blizzard
 ```
 
-**#472 - Gliscor**
+**[#472 - Gliscor](../pokemon/gliscor.md)**
 
 ![Gliscor](../assets/sprites/gliscor/front.gif "Gliscor")
 
@@ -16790,7 +16790,7 @@ Level Up:
 46 - Guillotine
 ```
 
-**#473 - Mamoswine**
+**[#473 - Mamoswine](../pokemon/mamoswine.md)**
 
 ![Mamoswine](../assets/sprites/mamoswine/front.gif "Mamoswine")
 
@@ -16827,7 +16827,7 @@ Level Up:
 51 - Blizzard
 ```
 
-**#474 - Porygon-Z**
+**[#474 - Porygon-Z](../pokemon/porygon-z.md)**
 
 ![Porygon-Z](../assets/sprites/porygon-z/front.gif "Porygon-Z")
 
@@ -16857,7 +16857,7 @@ Level Up:
 49 - Hyper Beam
 ```
 
-**#475 - Gallade**
+**[#475 - Gallade](../pokemon/gallade.md)**
 
 ![Gallade](../assets/sprites/gallade/front.gif "Gallade")
 
@@ -16884,7 +16884,7 @@ Level Up:
 57 - Memento
 ```
 
-**#476 - Probopass**
+**[#476 - Probopass](../pokemon/probopass.md)**
 
 ![Probopass](../assets/sprites/probopass/front.gif "Probopass")
 
@@ -16921,7 +16921,7 @@ Level Up:
 46 - Head Smash (!!)
 ```
 
-**#477 - Dusknoir**
+**[#477 - Dusknoir](../pokemon/dusknoir.md)**
 
 ![Dusknoir](../assets/sprites/dusknoir/front.gif "Dusknoir")
 
@@ -16971,7 +16971,7 @@ Level Up:
 47 - Destiny Bond
 ```
 
-**#478 - Froslass**
+**[#478 - Froslass](../pokemon/froslass.md)**
 
 ![Froslass](../assets/sprites/froslass/front.gif "Froslass")
 
@@ -17014,7 +17014,7 @@ Level Up:
 54 - Destiny Bond
 ```
 
-**#479 - Rotom**
+**[#479 - Rotom](../pokemon/rotom.md)**
 
 ![Rotom](../assets/sprites/rotom/front.gif "Rotom")
 
@@ -17063,7 +17063,7 @@ Level Up:
 49 - Thunder
 ```
 
-**#480 - Uxie**
+**[#480 - Uxie](../pokemon/uxie.md)**
 
 ![Uxie](../assets/sprites/uxie/front.gif "Uxie")
 
@@ -17094,7 +17094,7 @@ Level Up:
 50 - Psychic
 ```
 
-**#481 - Mesprit**
+**[#481 - Mesprit](../pokemon/mesprit.md)**
 
 ![Mesprit](../assets/sprites/mesprit/front.gif "Mesprit")
 
@@ -17125,7 +17125,7 @@ Level Up:
 50 - Psychic
 ```
 
-**#482 - Azelf**
+**[#482 - Azelf](../pokemon/azelf.md)**
 
 ![Azelf](../assets/sprites/azelf/front.gif "Azelf")
 
@@ -17156,7 +17156,7 @@ Level Up:
 50 - Psychic
 ```
 
-**#483 - Dialga**
+**[#483 - Dialga](../pokemon/dialga.md)**
 
 ![Dialga](../assets/sprites/dialga/front.gif "Dialga")
 
@@ -17179,7 +17179,7 @@ Level Up:
 50 - Roar of Time
 ```
 
-**#484 - Palkia**
+**[#484 - Palkia](../pokemon/palkia.md)**
 
 ![Palkia](../assets/sprites/palkia/front.gif "Palkia")
 
@@ -17202,7 +17202,7 @@ Level Up:
 50 - Spacial Rend
 ```
 
-**#485 - Heatran**
+**[#485 - Heatran](../pokemon/heatran.md)**
 
 ![Heatran](../assets/sprites/heatran/front.gif "Heatran")
 
@@ -17232,7 +17232,7 @@ Level Up:
 50 - Magma Storm
 ```
 
-**#486 - Regigigas**
+**[#486 - Regigigas](../pokemon/regigigas.md)**
 
 ![Regigigas](../assets/sprites/regigigas/front.gif "Regigigas")
 
@@ -17257,7 +17257,7 @@ Level Up:
 50 - Giga Impact
 ```
 
-**#487 - Giratina**
+**[#487 - Giratina](../pokemon/giratina-altered.md)**
 
 ![Giratina](../assets/sprites/giratina-altered/front.gif "Giratina")
 
@@ -17286,7 +17286,7 @@ Level Up:
 50 - Shadow Force
 ```
 
-**#488 - Cresselia**
+**[#488 - Cresselia](../pokemon/cresselia.md)**
 
 ![Cresselia](../assets/sprites/cresselia/front.gif "Cresselia")
 
@@ -17310,7 +17310,7 @@ Level Up:
 50 - Moonblast
 ```
 
-**#489 - Phione**
+**[#489 - Phione](../pokemon/phione.md)**
 
 ![Phione](../assets/sprites/phione/front.gif "Phione")
 
@@ -17333,7 +17333,7 @@ Level Up:
 50 - Hydro Pump (!!)
 ```
 
-**#490 - Manaphy**
+**[#490 - Manaphy](../pokemon/manaphy.md)**
 
 ![Manaphy](../assets/sprites/manaphy/front.gif "Manaphy")
 
@@ -17358,7 +17358,7 @@ Level Up:
 50 - Hydro Pump (!!)
 ```
 
-**#491 - Darkrai**
+**[#491 - Darkrai](../pokemon/darkrai.md)**
 
 ![Darkrai](../assets/sprites/darkrai/front.gif "Darkrai")
 
@@ -17384,7 +17384,7 @@ Level Up:
 50 - Dark Pulse
 ```
 
-**#492 - Shaymin**
+**[#492 - Shaymin](../pokemon/shaymin-land.md)**
 
 ![Shaymin](../assets/sprites/shaymin-land/front.gif "Shaymin")
 
@@ -17426,7 +17426,7 @@ Level Up (Sky Forme):
 50 - Seed Flare
 ```
 
-**#493 - Arceus**
+**[#493 - Arceus](../pokemon/arceus.md)**
 
 ![Arceus](../assets/sprites/arceus/front.gif "Arceus")
 
