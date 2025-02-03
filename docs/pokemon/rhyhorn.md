@@ -12,7 +12,19 @@ Its powerful tackles can destroy anything. However, it is too slow witted to hel
 
 ### Cries
 
-No cries available.
+Latest (Gen VI+):
+
+<audio controls>
+<source src='../../assets/cries/rhyhorn/latest.ogg' type='audio/ogg'>
+  Your browser does not support the audio element.
+</audio>
+
+Legacy:
+
+<audio controls>
+<source src='../../assets/cries/rhyhorn/legacy.ogg' type='audio/ogg'>
+  Your browser does not support the audio element.
+</audio>
 
 ---
 

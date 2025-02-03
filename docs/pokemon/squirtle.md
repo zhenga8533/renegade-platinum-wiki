@@ -12,7 +12,19 @@ It shelters itself in its shell, then strikes back with spouts of water at every
 
 ### Cries
 
-No cries available.
+Latest (Gen VI+):
+
+<audio controls>
+<source src='../../assets/cries/squirtle/latest.ogg' type='audio/ogg'>
+  Your browser does not support the audio element.
+</audio>
+
+Legacy:
+
+<audio controls>
+<source src='../../assets/cries/squirtle/legacy.ogg' type='audio/ogg'>
+  Your browser does not support the audio element.
+</audio>
 
 ---
 

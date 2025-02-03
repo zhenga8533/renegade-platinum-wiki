@@ -12,7 +12,19 @@ If its horns capture the warm feelings of people or Pokémon, its body warms up 
 
 ### Cries
 
-No cries available.
+Latest (Gen VI+):
+
+<audio controls>
+<source src='../../assets/cries/ralts/latest.ogg' type='audio/ogg'>
+  Your browser does not support the audio element.
+</audio>
+
+Legacy:
+
+<audio controls>
+<source src='../../assets/cries/ralts/legacy.ogg' type='audio/ogg'>
+  Your browser does not support the audio element.
+</audio>
 
 ---
 

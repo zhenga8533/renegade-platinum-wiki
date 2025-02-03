@@ -12,7 +12,19 @@ When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful ap
 
 ### Cries
 
-No cries available.
+Latest (Gen VI+):
+
+<audio controls>
+<source src='../../assets/cries/rapidash/latest.ogg' type='audio/ogg'>
+  Your browser does not support the audio element.
+</audio>
+
+Legacy:
+
+<audio controls>
+<source src='../../assets/cries/rapidash/legacy.ogg' type='audio/ogg'>
+  Your browser does not support the audio element.
+</audio>
 
 ---
 
