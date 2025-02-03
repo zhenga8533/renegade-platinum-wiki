@@ -43,7 +43,7 @@ def fix_pokemon(pokemon: list, evolutions: list, POKEMON_INPUT_PATH: str, logger
     """
 
     for p in pokemon:
-        file_pattern = f"{POKEMON_INPUT_PATH + p}*.json"
+        file_pattern = POKEMON_INPUT_PATH + p + "*.json"
         files = glob.glob(file_pattern)
 
         # Loop through each Pokémon file
