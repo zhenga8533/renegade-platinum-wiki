@@ -222,7 +222,7 @@ def parse_trainers(trainers: list, rematches: list, important: dict, logger: Log
 
                     important_trainers += f'=== "{starter}"\n\n\t'
                     important_trainers += important_head.replace("\n", "\n\t")
-                    important_trainers += "\n\t".join((important_rivals[i] + wild).split("\n"))
+                    important_trainers += "\n\t".join((wild + important_rivals[i]).split("\n"))
                     important_trainers += "\n"
             elif elite_four[0] != "":
                 for i, num in enumerate(["1", "2", "3", "4"]):
