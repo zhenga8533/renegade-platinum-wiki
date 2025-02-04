@@ -123,7 +123,6 @@ Aerodactyl has no alternate forms.
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| TBD | <span class="tooltip" title="Inflicts regular damage.">Hurricane</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 110 | 70 | 10 |
 | HM02 | <span class="tooltip" title="The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.">Fly</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 100 | 100% | 15 |
 | HM04 | <span class="tooltip" title="The foe is slugged with a punch thrown at maximum power. It can also be used to move boulders.">Strength</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 100 | 100 | 15 |
 | HM05 | <span class="tooltip" title="Obstacles are moved, reducing the foe’s evasion stat. It can also be used to clear deep fog, etc.">Defog</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 15 |
@@ -167,6 +166,7 @@ Aerodactyl has no alternate forms.
 | TM82 | <span class="tooltip" title="While it is asleep, the user randomly uses one of the moves it knows. ">Sleep Talk</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 | TM83 | <span class="tooltip" title="The user draws power to attack by using its held Berry. The Berry determines its type and power.">Natural Gift</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 15 |
 | TM87 | <span class="tooltip" title="The user enrages the foe into confusion. However, it also sharply raises the foe’s Attack stat.">Swagger</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 85 | 15 |
+| TM88 | <span class="tooltip" title="Inflicts regular damage.">Hurricane</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 110 | 70 | 10 |
 | TM90 | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 
 ### Egg Moves

@@ -123,7 +123,6 @@ Skarmory has no alternate forms.
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| TBD | <span class="tooltip" title="Inflicts regular damage.">Hurricane</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 110 | 70 | 10 |
 | HM01 | <span class="tooltip" title="The foe is cut with a scythe or a claw. It can also be used to cut down thin trees.">Cut</span> | ![Grass](../assets/types/grass.png "Grass"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100% | 25 |
 | HM02 | <span class="tooltip" title="The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.">Fly</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 100 | 100% | 15 |
 | HM05 | <span class="tooltip" title="Obstacles are moved, reducing the foe’s evasion stat. It can also be used to clear deep fog, etc.">Defog</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 15 |
@@ -161,6 +160,7 @@ Skarmory has no alternate forms.
 | TM83 | <span class="tooltip" title="The user draws power to attack by using its held Berry. The Berry determines its type and power.">Natural Gift</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 15 |
 | TM87 | <span class="tooltip" title="The user enrages the foe into confusion. However, it also sharply raises the foe’s Attack stat.">Swagger</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 85 | 15 |
 | TM88 | <span class="tooltip" title="The user pecks the foe. If the foe is holding a Berry, the user plucks it and gains its effect.">Pluck</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
+| TM88 | <span class="tooltip" title="Inflicts regular damage.">Hurricane</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 110 | 70 | 10 |
 | TM90 | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 | TM91 | <span class="tooltip" title="The user gathers all its light energy and releases it at once. It may also lower the foe’s Sp. Def stat.">Flash Cannon</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 80 | 100 | 10 |
 

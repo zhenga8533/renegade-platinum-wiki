@@ -127,7 +127,6 @@ Jumpluff has no alternate forms.
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| TBD | <span class="tooltip" title="Inflicts regular damage.">Hurricane</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 110 | 70 | 10 |
 | HM02 | <span class="tooltip" title="The user soars, then strikes on the second turn. It can also be used for flying to any familiar town.">Fly</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 100 | 100% | 15 |
 | TM06 | <span class="tooltip" title="A move that leaves the target badly poisoned. Its poison damage worsens every turn.">Toxic</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 90 | 10 |
 | TM09 | <span class="tooltip" title="The user forcefully shoots seeds at the foe. Two to five seeds are shot in rapid succession.">Bullet Seed</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 25 | 100 | 30 |
@@ -156,6 +155,7 @@ Jumpluff has no alternate forms.
 | TM83 | <span class="tooltip" title="The user draws power to attack by using its held Berry. The Berry determines its type and power.">Natural Gift</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 15 |
 | TM86 | <span class="tooltip" title="The user snares the foe with grass and trips it. The heavier the foe, the greater the damage.">Grass Knot</span> | ![grass](../assets/types/grass.png "Grass"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | — | 100 | 20 |
 | TM87 | <span class="tooltip" title="The user enrages the foe into confusion. However, it also sharply raises the foe’s Attack stat.">Swagger</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 85 | 15 |
+| TM88 | <span class="tooltip" title="Inflicts regular damage.">Hurricane</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 110 | 70 | 10 |
 | TM89 | <span class="tooltip" title="After making its attack, the user rushes back to switch places with a party Pokémon in waiting.">U Turn</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 70 | 100 | 20 |
 | TM90 | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 

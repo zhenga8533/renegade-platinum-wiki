@@ -111,7 +111,6 @@ Ninetales has no alternate forms.
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| TBD | <span class="tooltip" title="Inflicts regular damage.">Dazzling Gleam</span> | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 80 | 100 | 10 |
 | TM04 | <span class="tooltip" title="The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.">Calm Mind</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 | TM05 | <span class="tooltip" title="The foe is scared off, to be replaced by another Pokémon in its party. In the wild, the battle ends.">Roar</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 20 |
 | TM06 | <span class="tooltip" title="A move that leaves the target badly poisoned. Its poison damage worsens every turn.">Toxic</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 90 | 10 |
@@ -146,6 +145,7 @@ Ninetales has no alternate forms.
 | TM82 | <span class="tooltip" title="While it is asleep, the user randomly uses one of the moves it knows. ">Sleep Talk</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 | TM83 | <span class="tooltip" title="The user draws power to attack by using its held Berry. The Berry determines its type and power.">Natural Gift</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 15 |
 | TM85 | <span class="tooltip" title="An attack that works only on a sleeping foe. It absorbs half the damage caused to heal the user’s HP.">Dream Eater</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 100 | 100 | 15 |
+| TM85 | <span class="tooltip" title="Inflicts regular damage.">Dazzling Gleam</span> | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 80 | 100 | 10 |
 | TM87 | <span class="tooltip" title="The user enrages the foe into confusion. However, it also sharply raises the foe’s Attack stat.">Swagger</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 85 | 15 |
 | TM90 | <span class="tooltip" title="The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.">Substitute</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 

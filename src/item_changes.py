@@ -1,9 +1,25 @@
 from dotenv import load_dotenv
 from util.file import load, save
+from util.format import format_id
 from util.logger import Logger
+import json
 import logging
 import os
 import re
+
+
+def update_tm(tm, old_move, new_move, MOVE_INPUT_PATH, logger):
+    old_path = MOVE_INPUT_PATH + format_id(old_move) + ".json"
+    new_path = MOVE_INPUT_PATH + format_id(new_move) + ".json"
+
+    old_data = json.loads(load(old_path, logger))
+    new_data = json.loads(load(new_path, logger))
+
+    old_data["machines"]["platinum"] = tm.lower()
+    new_data["machines"]["platinum"] = tm.lower()
+
+    save(old_path, json.dumps(old_data, indent=4), logger)
+    save(new_path, json.dumps(new_data, indent=4), logger)
 
 
 def main():
@@ -11,6 +27,7 @@ def main():
     load_dotenv()
     INPUT_PATH = os.getenv("INPUT_PATH")
     OUTPUT_PATH = os.getenv("OUTPUT_PATH")
+    MOVE_INPUT_PATH = os.getenv("MOVE_INPUT_PATH")
 
     LOG = os.getenv("LOG") == "True"
     LOG_PATH = os.getenv("LOG_PATH")
@@ -44,6 +61,11 @@ def main():
         elif line.startswith("- "):
             md += f"1. {line[2:]}\n"
             listing = True
+
+            if "TM" in line and ">>" in line:
+                tm, moves = line[2:].split(": ")
+                old_move, new_move = moves.split(" >> ")
+                update_tm(tm, old_move, new_move, MOVE_INPUT_PATH, logger)
         elif next_line.startswith("---"):
             headers = re.split(r"\s{3,}", line)
             md += f"| {' | '.join(headers)} |\n"

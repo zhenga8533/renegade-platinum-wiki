@@ -114,7 +114,7 @@ Combee has no alternate forms.
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| TBD | <span class="tooltip" title="The user vibrates its wings to generate a damaging sound wave. It may also lower the foe’s Sp. Def stat.">Bug Buzz</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
+| TM62 | <span class="tooltip" title="The user vibrates its wings to generate a damaging sound wave. It may also lower the foe’s Sp. Def stat.">Bug Buzz</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
 
 ### Egg Moves
 
