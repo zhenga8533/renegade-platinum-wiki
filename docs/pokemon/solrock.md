@@ -75,7 +75,7 @@ Solrock has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 45 | 50 | 161 | Fast | sun-stone (5%) |
+| 2 Attack | 45 | 50 | 161 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as red as the sun.">Sun Stone</span> (5%)<br><span class="tooltip" title="Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops.">Stardust</span> (50%) |
 
 ---
 

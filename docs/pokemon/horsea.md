@@ -79,7 +79,7 @@ Horsea has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 225 | 50 | 59 | Medium | dragon-scale (5%) |
+| 1 Special Attack | 225 | 50 | 59 | Medium | <span class="tooltip" title="A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.">Dragon Scale</span> (5%) |
 
 ---
 

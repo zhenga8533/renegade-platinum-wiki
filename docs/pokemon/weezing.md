@@ -77,7 +77,7 @@ Weezing has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 60 | 50 | 172 | Medium | smoke-ball (5%) |
+| 2 Defense | 60 | 50 | 172 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail.">Smoke Ball</span> (5%) |
 
 ---
 

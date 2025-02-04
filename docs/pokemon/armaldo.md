@@ -77,7 +77,7 @@ Armaldo has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 45 | 50 | 173 | Slow-Then-Very-Fast | N/A |
+| 2 Attack | 45 | 50 | 173 | Slow Then Very Fast | N/A |
 
 ---
 

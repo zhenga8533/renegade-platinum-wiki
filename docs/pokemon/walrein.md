@@ -79,7 +79,7 @@ Walrein has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 45 | 50 | 265 | Medium-Slow | N/A |
+| 3 Hp | 45 | 50 | 265 | Medium Slow | N/A |
 
 ---
 

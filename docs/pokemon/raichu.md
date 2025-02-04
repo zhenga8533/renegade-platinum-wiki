@@ -85,7 +85,7 @@ Raichu has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Speed | 75 | 50 | 243 | Medium | oran-berry (5%) |
+| 3 Speed | 75 | 50 | 243 | Mediu |
 
 ---
 

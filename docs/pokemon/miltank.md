@@ -75,7 +75,7 @@ Miltank has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 45 | 50 | 172 | Slow | moomoo-milk (100%) |
+| 2 Defense | 45 | 50 | 172 | Slow | <span class="tooltip" title="Milk with a very high nutrition content. It restores the HP of one Pokémon by 100 points.">Moomoo Milk</span> (5%) |
 
 ---
 

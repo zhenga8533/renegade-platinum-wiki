@@ -77,7 +77,7 @@ Cranidos has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 45 | 70 | 70 | Slow-Then-Very-Fast | N/A |
+| 1 Attack | 45 | 70 | 70 | Slow Then Very Fast | N/A |
 
 ---
 

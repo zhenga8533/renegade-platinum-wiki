@@ -77,7 +77,7 @@ Exeggcute has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 90 | 50 | 65 | Slow |  |
+| 1 Defense | 90 | 50 | 65 | Slo |
 
 ---
 

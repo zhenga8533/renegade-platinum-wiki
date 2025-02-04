@@ -79,7 +79,7 @@ Ninjask has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 120 | 50 | 160 | Slow-Then-Very-Fast | N/A |
+| 2 Speed | 120 | 50 | 160 | Slow Then Very Fast | N/A |
 
 ---
 

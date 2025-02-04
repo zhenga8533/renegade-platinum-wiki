@@ -85,7 +85,7 @@ Nuzleaf has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 120 | 50 | 119 | Medium-Slow |  |
+| 2 Attack | 120 | 50 | 119 | Medium Slow | <span class="tooltip" title="A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges on the first turn.">Power Herb</span> (5%) |
 
 ---
 

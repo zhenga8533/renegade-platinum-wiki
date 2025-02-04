@@ -77,7 +77,7 @@ Arcanine has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 75 | 50 | 194 | Slow | rawst-berry (100%) |
+| 2 Attack | 75 | 50 | 194 | Slo |
 
 ---
 

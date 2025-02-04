@@ -83,7 +83,7 @@ Sneasel has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 60 | 35 | 86 | Medium-Slow | quick-claw (5%)<br>grip-claw (50%) |
+| 1 Speed | 60 | 35 | 86 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. A light, sharp claw that lets the bearer move first occasionally.">Quick Claw</span> (5%) |
 
 ---
 

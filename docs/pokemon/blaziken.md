@@ -85,7 +85,7 @@ Blaziken has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 50 | 265 | Medium-Slow | N/A |
+| 3 Attack | 45 | 50 | 265 | Medium Slow | N/A |
 
 ---
 

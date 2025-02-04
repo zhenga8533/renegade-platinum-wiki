@@ -75,7 +75,7 @@ Farfetchd has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 45 | 50 | 132 | Medium | stick (5%) |
+| 1 Attack | 45 | 50 | 132 | Medium | <span class="tooltip" title="An item to be held by FARFETCH’D. It is a very long and stiff stalk of leek that boosts the critical-hit ratio.">Stick</span> (5%) |
 
 ---
 

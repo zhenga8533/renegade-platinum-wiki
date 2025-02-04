@@ -83,7 +83,7 @@ Swalot has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 75 | 70 | 163 | Fast-Then-Very-Slow | big-pearl (5%) |
+| 2 Hp | 75 | 70 | 163 | Fast Then Very Slow | <span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to heal the user by just 10 HP.">Oran Berry</span> (50%)<br><span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to heal the user’s HP a little.">Sitrus Berry</span> (5%) |
 
 ---
 

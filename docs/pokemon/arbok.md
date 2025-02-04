@@ -77,7 +77,7 @@ Arbok has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 90 | 70 | 157 | Medium |  |
+| 2 Attack | 90 | 70 | 157 | Mediu |
 
 ---
 

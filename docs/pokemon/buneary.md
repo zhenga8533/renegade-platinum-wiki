@@ -77,7 +77,7 @@ Buneary has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 0 | 70 | Medium | chople-berry (5%) |
+| 1 Speed | 190 | 0 | 70 | Mediu |
 
 ---
 

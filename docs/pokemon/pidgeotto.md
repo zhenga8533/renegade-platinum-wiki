@@ -79,7 +79,7 @@ Pidgeotto has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 120 | 70 | 122 | Medium-Slow | N/A |
+| 2 Speed | 120 | 70 | 122 | Medium Slow | N/A |
 
 ---
 

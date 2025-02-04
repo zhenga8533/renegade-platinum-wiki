@@ -85,7 +85,7 @@ Staraptor has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 70 | 218 | Medium-Slow | yache-berry (5%) |
+| 3 Attack | 45 | 70 | 218 | Medium Slo |
 
 ---
 

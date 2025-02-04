@@ -83,7 +83,7 @@ Kricketot has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 255 | 70 | 39 | Medium-Slow | metronome (5%) |
+| 1 Defense | 255 | 70 | 39 | Medium Slow | <span class="tooltip" title="A Pokémon hold item that boosts a move used consecutively. Its effect is reset if another move is used.">Metronome</span> (5%) |
 
 ---
 

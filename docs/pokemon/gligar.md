@@ -83,7 +83,7 @@ Gligar has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 60 | 70 | 86 | Medium-Slow | N/A |
+| 1 Defense | 60 | 70 | 86 | Medium Slow | N/A |
 
 ---
 

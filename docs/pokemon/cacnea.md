@@ -77,7 +77,7 @@ Cacnea has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 190 | 35 | 67 | Medium-Slow | sticky-barb (5%) |
+| 1 Special Attack | 190 | 35 | 67 | Medium Slow | <span class="tooltip" title="A hold item that damages the holder on every turn. It may latch on to foes that touch the holder.">Sticky Barb</span> (5%) |
 
 ---
 

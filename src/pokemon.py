@@ -2,6 +2,7 @@ from dotenv import load_dotenv
 from util.ability import get_ability
 from util.file import load, save, verify_asset_path
 from util.format import find_pokemon_sprite, format_id, revert_id, verify_pokemon_form
+from util.item import get_item
 from util.logger import Logger
 from util.move import get_move
 import glob
@@ -346,15 +347,22 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     md += " | " + str(pokemon["capture_rate"])
     md += " | " + str(pokemon["base_happiness"])
     md += " | " + str(pokemon["base_experience"])
-    md += " | " + pokemon["growth_rate"].title()
+    md += " | " + revert_id(pokemon["growth_rate"]) + " | "
+
     held_items = pokemon["held_items"]
     if len(held_items) == 0:
-        md += f" | N/A |\n\n"
+        md += f"N/A |\n\n"
     else:
-        items = [
-            f"{item['name']} ({item['rarity']['platinum']}%)" for item in held_items if "platinum" in item["rarity"]
-        ]
-        md += f" | {'<br>'.join(items)} |\n\n"
+        for item in held_items:
+            item_rarity = item["rarity"]
+            item_name = item["name"]
+            item_data = get_item(item_name)
+            if "generation-iv" not in item_data["games"] or "ultra-sun" not in item_rarity:
+                continue
+
+            item_effect = item_data["flavor_text_entries"].get("platinum", item_data["effect"]).replace("\n", " ")
+            md += f'<span class="tooltip" title="{item_effect}">{revert_id(item_name)}</span> ({item_rarity["ultra-sun"]}%)<br>'
+        md = md[:-4] + " |\n\n"
 
     # Breeding
     md += "---\n\n## Breeding\n\n"

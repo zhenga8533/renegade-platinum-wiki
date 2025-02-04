@@ -77,7 +77,7 @@ Zigzagoon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 255 | 50 | 56 | Medium | oran-berry (5%) |
+| 1 Speed | 255 | 50 | 56 | Medium | <span class="tooltip" title="A spray-type medicine for wounds. It restores the HP of one Pokémon by just 20 points.">Potion</span> (50%)<br><span class="tooltip" title="A medicine that revives a fainted Pokémon. It restores half the Pokémon’s maximum HP.">Revive</span> (5%) |
 
 ---
 

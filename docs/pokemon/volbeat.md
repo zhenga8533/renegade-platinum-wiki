@@ -75,7 +75,7 @@ Volbeat has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 150 | 70 | 151 | Slow-Then-Very-Fast |  |
+| 1 Speed | 150 | 70 | 151 | Slow Then Very Fast | <span class="tooltip" title="An item to be held by a Pokémon. It casts a tricky glare that lowers the opponent’s accuracy.">Bright Powder</span> (5%) |
 
 ---
 

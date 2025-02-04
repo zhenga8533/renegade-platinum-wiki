@@ -79,7 +79,7 @@ Porygon2 has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 45 | 50 | 180 | Medium |  |
+| 2 Special Attack | 45 | 50 | 180 | Mediu |
 
 ---
 

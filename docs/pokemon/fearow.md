@@ -77,7 +77,7 @@ Fearow has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 90 | 70 | 155 | Medium | sharp-beak (5%) |
+| 2 Speed | 90 | 70 | 155 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a long, sharp beak that boosts the power of Flying-type moves.">Sharp Beak</span> (5%) |
 
 ---
 

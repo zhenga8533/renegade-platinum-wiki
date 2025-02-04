@@ -85,7 +85,7 @@ Venusaur has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack<br>1 Special Defense | 45 | 50 | 263 | Medium-Slow | N/A |
+| 2 Special Attack<br>1 Special Defense | 45 | 50 | 263 | Medium Slow | N/A |
 
 ---
 

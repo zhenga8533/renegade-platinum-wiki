@@ -79,7 +79,7 @@ Haunter has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 90 | 50 | 142 | Medium-Slow |  |
+| 2 Special Attack | 90 | 50 | 142 | Medium Slo |
 
 ---
 

@@ -85,7 +85,7 @@ Shinx has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 235 | 50 | 53 | Medium-Slow | N/A |
+| 1 Attack | 235 | 50 | 53 | Medium Slow | N/A |
 
 ---
 

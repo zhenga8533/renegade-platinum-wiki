@@ -79,7 +79,7 @@ Machoke has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 90 | 50 | 142 | Medium-Slow |  |
+| 2 Attack | 90 | 50 | 142 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP.">Focus Band</span> (5%) |
 
 ---
 

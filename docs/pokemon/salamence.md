@@ -79,7 +79,7 @@ Salamence has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 35 | 300 | Slow | dragon-fang (5%) |
+| 3 Attack | 45 | 35 | 300 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a hard and sharp fang that ups the power of Dragon-type moves.">Dragon Fang</span> (5%) |
 
 ---
 

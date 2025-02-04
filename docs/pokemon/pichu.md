@@ -79,7 +79,7 @@ Pichu has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 180 | 41 | Medium | oran-berry (5%) |
+| 1 Speed | 190 | 180 | 41 | Mediu |
 
 ---
 

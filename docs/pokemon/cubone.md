@@ -77,7 +77,7 @@ Cubone has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 190 | 50 | 64 | Medium | thick-club (5%) |
+| 1 Defense | 190 | 50 | 64 | Medium | <span class="tooltip" title="An item to be held by CUBONE or MAROWAK. It is a hard bone of some sort that boosts the Attack stat.">Thick Club</span> (5%) |
 
 ---
 

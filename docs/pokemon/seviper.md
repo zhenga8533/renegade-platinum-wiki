@@ -75,7 +75,7 @@ Seviper has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack | 90 | 70 | 160 | Fast-Then-Very-Slow |  |
+| 1 Attack<br>1 Special Attack | 90 | 70 | 160 | Fast Then Very Slow | <span class="tooltip" title="A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle.">Shed Shell</span> (5%) |
 
 ---
 

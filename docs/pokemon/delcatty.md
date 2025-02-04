@@ -77,7 +77,7 @@ Delcatty has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp<br>1 Speed | 60 | 70 | 140 | Fast | leppa-berry (5%) |
+| 1 Hp<br>1 Speed | 60 | 70 | 140 | Fas |
 
 ---
 

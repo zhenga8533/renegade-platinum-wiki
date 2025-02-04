@@ -83,7 +83,7 @@ Abomasnow has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack | 60 | 50 | 173 | Slow | never-melt-ice (5%) |
+| 1 Attack<br>1 Special Attack | 60 | 50 | 173 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a piece of ice that repels heat and boosts Ice-type moves.">Never Melt Ice</span> (5%) |
 
 ---
 

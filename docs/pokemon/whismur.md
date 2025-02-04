@@ -79,7 +79,7 @@ Whismur has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 190 | 50 | 48 | Medium-Slow | chesto-berry (5%) |
+| 1 Hp | 190 | 50 | 48 | Medium Slo |
 
 ---
 

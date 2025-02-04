@@ -83,7 +83,7 @@ Cherrim has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 75 | 50 | 158 | Medium | miracle-seed (5%) |
+| 2 Special Attack | 75 | 50 | 158 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.">Miracle Seed</span> (5%) |
 
 ---
 

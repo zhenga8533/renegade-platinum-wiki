@@ -77,7 +77,7 @@ Sandslash has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 90 | 50 | 158 | Medium | quick-claw (5%) |
+| 2 Defense | 90 | 50 | 158 | Medium | <span class="tooltip" title="A Pokémon hold item that extends the duration of multiturn attacks like Bind and Wrap.">Grip Claw</span> (5%) |
 
 ---
 

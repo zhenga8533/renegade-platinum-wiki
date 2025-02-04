@@ -77,7 +77,7 @@ Seel has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 190 | 70 | 65 | Medium |  |
+| 1 Special Defense | 190 | 70 | 65 | Mediu |
 
 ---
 

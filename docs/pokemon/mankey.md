@@ -77,7 +77,7 @@ Mankey has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 190 | 70 | 61 | Medium | payapa-berry (5%) |
+| 1 Attack | 190 | 70 | 61 | Mediu |
 
 ---
 

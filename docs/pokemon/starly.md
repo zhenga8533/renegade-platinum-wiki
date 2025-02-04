@@ -85,7 +85,7 @@ Starly has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 255 | 70 | 49 | Medium-Slow | yache-berry (5%) |
+| 1 Speed | 255 | 70 | 49 | Medium Slo |
 
 ---
 

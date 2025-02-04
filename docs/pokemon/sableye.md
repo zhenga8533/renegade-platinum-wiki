@@ -75,7 +75,7 @@ Sableye has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Defense | 45 | 35 | 133 | Medium-Slow |  |
+| 1 Attack<br>1 Defense | 45 | 35 | 133 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a magnifying lens that slightly boosts the accuracy of moves.">Wide Lens</span> (5%) |
 
 ---
 

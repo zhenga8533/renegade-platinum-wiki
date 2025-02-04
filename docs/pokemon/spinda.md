@@ -75,7 +75,7 @@ Spinda has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 255 | 70 | 126 | Fast | chesto-berry (5%) |
+| 1 Special Attack | 255 | 70 | 126 | Fas |
 
 ---
 

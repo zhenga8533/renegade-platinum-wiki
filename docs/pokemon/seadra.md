@@ -79,7 +79,7 @@ Seadra has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>1 Special Attack | 75 | 50 | 154 | Medium | dragon-scale (5%) |
+| 1 Defense<br>1 Special Attack | 75 | 50 | 154 | Medium | <span class="tooltip" title="A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.">Dragon Scale</span> (5%) |
 
 ---
 

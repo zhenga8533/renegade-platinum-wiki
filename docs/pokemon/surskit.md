@@ -77,7 +77,7 @@ Surskit has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 200 | 70 | 54 | Medium |  |
+| 1 Speed | 200 | 70 | 54 | Medium | <span class="tooltip" title="A sweet honey with a lush aroma that attracts wild Pokémon when it is used in grass, caves, or on special trees.">Honey</span> (50%) |
 
 ---
 

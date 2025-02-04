@@ -77,7 +77,7 @@ Linoone has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 90 | 50 | 147 | Medium | oran-berry (50%)<br>sitrus-berry (5%) |
+| 2 Speed | 90 | 50 | 147 | Medium | <span class="tooltip" title="A spray-type medicine for wounds. It restores the HP of one Pokémon by just 20 points.">Potion</span> (50%)<br><span class="tooltip" title="A medicine that revives a fainted Pokémon. It fully restores the Pokémon’s HP.">Max Revive</span> (5%) |
 
 ---
 

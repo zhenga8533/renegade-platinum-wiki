@@ -77,7 +77,7 @@ Rapidash has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 60 | 50 | 175 | Medium | shuca-berry (5%) |
+| 2 Speed | 60 | 50 | 175 | Mediu |
 
 ---
 

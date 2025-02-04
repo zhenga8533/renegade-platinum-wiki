@@ -79,7 +79,7 @@ Huntail has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Defense | 60 | 70 | 170 | Slow-Then-Very-Fast | deep-sea-tooth (5%) |
+| 1 Attack<br>1 Defense | 60 | 70 | 170 | Slow Then Very Fast | <span class="tooltip" title="An item to be held by CLAMPERL. A fang that gleams a sharp silver, it raises the Sp. Atk stat.">Deep Sea Tooth</span> (5%) |
 
 ---
 

@@ -79,7 +79,7 @@ Seedot has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 255 | 50 | 44 | Medium-Slow |  |
+| 1 Defense | 255 | 50 | 44 | Medium Slow | <span class="tooltip" title="A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges on the first turn.">Power Herb</span> (5%) |
 
 ---
 

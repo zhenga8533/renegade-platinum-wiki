@@ -79,7 +79,7 @@ Slowking has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 70 | 50 | 172 | Medium | kings-rock (5%) |
+| 2 Special Defense | 70 | 50 | 172 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It may cause the foe to flinch when the holder inflicts damage.">Kings Rock</span> (5%) |
 
 ---
 

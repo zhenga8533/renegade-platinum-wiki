@@ -77,7 +77,7 @@ Lileep has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 45 | 50 | 71 | Slow-Then-Very-Fast | big-root (5%) |
+| 1 Special Defense | 45 | 50 | 71 | Slow Then Very Fast | <span class="tooltip" title="A Pokémon hold item that boosts the power of HP-stealing moves to let the holder recover more HP.">Big Root</span> (5%) |
 
 ---
 

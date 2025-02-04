@@ -75,7 +75,7 @@ Ditto has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 35 | 50 | 101 | Medium | metal-powder (5%)<br>quick-powder (50%) |
+| 1 Hp | 35 | 50 | 101 | Medium | <span class="tooltip" title="An item to be held by DITTO. Extremely fine yet hard, this odd powder boosts the Defense stat.">Metal Powder</span> (5%)<br><span class="tooltip" title="An item to be held by DITTO. Extremely fine yet hard, this odd powder boosts the Speed stat.">Quick Powder</span> (50%) |
 
 ---
 

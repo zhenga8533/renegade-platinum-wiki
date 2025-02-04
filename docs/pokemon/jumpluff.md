@@ -79,7 +79,7 @@ Jumpluff has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Speed | 45 | 70 | 207 | Medium-Slow | N/A |
+| 3 Speed | 45 | 70 | 207 | Medium Slow | N/A |
 
 ---
 

@@ -77,7 +77,7 @@ Lanturn has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 75 | 50 | 161 | Slow | deep-sea-scale (5%) |
+| 2 Hp | 75 | 50 | 161 | Slow | <span class="tooltip" title="An item to be held by CLAMPERL. A scale that shines a faint pink, it raises the Sp. Def stat.">Deep Sea Scale</span> (5%) |
 
 ---
 

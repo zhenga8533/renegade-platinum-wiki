@@ -83,7 +83,7 @@ Bibarel has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 127 | 70 | 144 | Medium | oran-berry (50%)<br>sitrus-berry (5%) |
+| 2 Attack | 127 | 70 | 144 | Mediu |
 
 ---
 

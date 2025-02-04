@@ -77,7 +77,7 @@ Sandshrew has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 255 | 50 | 60 | Medium | quick-claw (5%) |
+| 1 Defense | 255 | 50 | 60 | Medium | <span class="tooltip" title="A Pokémon hold item that extends the duration of multiturn attacks like Bind and Wrap.">Grip Claw</span> (5%) |
 
 ---
 

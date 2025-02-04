@@ -79,7 +79,7 @@ Exploud has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 45 | 50 | 245 | Medium-Slow | chesto-berry (5%) |
+| 3 Hp | 45 | 50 | 245 | Medium Slo |
 
 ---
 

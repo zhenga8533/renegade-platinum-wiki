@@ -79,7 +79,7 @@ Magmar has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 45 | 50 | 173 | Medium | magmarizer (50%) |
+| 2 Special Attack | 45 | 50 | 173 | Medium | <span class="tooltip" title="A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon.">Magmarizer</span> (5%) |
 
 ---
 

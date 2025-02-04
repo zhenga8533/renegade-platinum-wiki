@@ -75,7 +75,7 @@ Shuckle has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>1 Special Defense | 190 | 50 | 177 | Medium-Slow | oran-berry (100%) |
+| 1 Defense<br>1 Special Defense | 190 | 50 | 177 | Medium Slow | <span class="tooltip" title="A 100% pure juice made of Berries. It restores the HP of one Pokémon by just 20 points.">Berry Juice</span> (5%) |
 
 ---
 

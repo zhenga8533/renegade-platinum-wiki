@@ -79,7 +79,7 @@ Swinub has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 225 | 50 | 50 | Slow |  |
+| 1 Attack | 225 | 50 | 50 | Slo |
 
 ---
 

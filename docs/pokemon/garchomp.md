@@ -85,7 +85,7 @@ Garchomp has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 50 | 300 | Slow | haban-berry (5%) |
+| 3 Attack | 45 | 50 | 300 | Slo |
 
 ---
 

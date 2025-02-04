@@ -77,7 +77,7 @@ Probopass has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>2 Special Defense | 60 | 70 | 184 | Medium | hard-stone (5%) |
+| 1 Defense<br>2 Special Defense | 60 | 70 | 184 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a powerful magnet that boosts the power of Electric-type moves.">Magnet</span> (5%) |
 
 ---
 

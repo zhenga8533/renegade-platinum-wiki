@@ -79,7 +79,7 @@ Nidorina has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 120 | 50 | 128 | Medium-Slow | N/A |
+| 2 Hp | 120 | 50 | 128 | Medium Slow | N/A |
 
 ---
 

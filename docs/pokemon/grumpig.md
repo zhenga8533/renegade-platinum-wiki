@@ -77,7 +77,7 @@ Grumpig has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 60 | 70 | 165 | Fast | tanga-berry (5%) |
+| 2 Special Defense | 60 | 70 | 165 | Fas |
 
 ---
 

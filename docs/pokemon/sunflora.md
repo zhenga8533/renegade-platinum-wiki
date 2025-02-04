@@ -77,7 +77,7 @@ Sunflora has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 120 | 70 | 149 | Medium-Slow | N/A |
+| 2 Special Attack | 120 | 70 | 149 | Medium Slow | N/A |
 
 ---
 

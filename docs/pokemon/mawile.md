@@ -75,7 +75,7 @@ Mawile has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Defense | 45 | 50 | 133 | Fast | occa-berry (5%) |
+| 1 Attack<br>1 Defense | 45 | 50 | 133 | Fast | <span class="tooltip" title="A Pokémon hold item that cuts Speed. It makes Flying-type and levitating holders susceptible to Ground moves.">Iron Ball</span> (5%) |
 
 ---
 

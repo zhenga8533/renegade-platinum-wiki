@@ -77,7 +77,7 @@ Sunkern has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 235 | 70 | 36 | Medium-Slow | coba-berry (5%) |
+| 1 Special Attack | 235 | 70 | 36 | Medium Slo |
 
 ---
 

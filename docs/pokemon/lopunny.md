@@ -77,7 +77,7 @@ Lopunny has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 60 | 140 | 168 | Medium | chople-berry (5%) |
+| 2 Speed | 60 | 140 | 168 | Mediu |
 
 ---
 

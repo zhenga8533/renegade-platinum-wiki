@@ -79,7 +79,7 @@ Magmortar has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 30 | 50 | 270 | Medium | magmarizer (50%) |
+| 3 Special Attack | 30 | 50 | 270 | Medium | <span class="tooltip" title="A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon.">Magmarizer</span> (5%) |
 
 ---
 

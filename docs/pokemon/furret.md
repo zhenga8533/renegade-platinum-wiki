@@ -77,7 +77,7 @@ Furret has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 90 | 70 | 145 | Medium | oran-berry (50%)<br>sitrus-berry (5%) |
+| 2 Speed | 90 | 70 | 145 | Mediu |
 
 ---
 

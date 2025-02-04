@@ -77,7 +77,7 @@ Crawdaunt has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 155 | 50 | 164 | Fast-Then-Very-Slow | N/A |
+| 2 Attack | 155 | 50 | 164 | Fast Then Very Slow | N/A |
 
 ---
 

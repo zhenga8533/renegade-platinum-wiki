@@ -79,7 +79,7 @@ Magby has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 45 | 50 | 73 | Medium | magmarizer (50%) |
+| 1 Speed | 45 | 50 | 73 | Medium | <span class="tooltip" title="A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon.">Magmarizer</span> (5%) |
 
 ---
 

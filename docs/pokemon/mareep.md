@@ -79,7 +79,7 @@ Mareep has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 235 | 70 | 56 | Medium-Slow | N/A |
+| 1 Special Attack | 235 | 70 | 56 | Medium Slow | N/A |
 
 ---
 

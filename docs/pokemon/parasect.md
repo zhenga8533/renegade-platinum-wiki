@@ -77,7 +77,7 @@ Parasect has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack<br>1 Defense | 75 | 70 | 142 | Medium | tiny-mushroom (50%)<br>big-mushroom (5%) |
+| 2 Attack<br>1 Defense | 75 | 70 | 142 | Medium | <span class="tooltip" title="A small and rare mushroom. It is quite popular among certain maniacal fan segments.">Tiny Mushroom</span> (50%)<br><span class="tooltip" title="A large and rare mushroom. It is very popular among certain maniacal fan segments.">Big Mushroom</span> (5%) |
 
 ---
 

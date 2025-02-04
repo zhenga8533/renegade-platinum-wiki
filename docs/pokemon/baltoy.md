@@ -77,7 +77,7 @@ Baltoy has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 255 | 50 | 60 | Medium |  |
+| 1 Special Defense | 255 | 50 | 60 | Medium | <span class="tooltip" title="A Pokémon hold item that extends the duration of barrier moves like Light Screen and Reflect used by the holder.">Light Clay</span> (5%) |
 
 ---
 

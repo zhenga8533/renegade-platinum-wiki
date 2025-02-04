@@ -79,7 +79,7 @@ Chansey has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 30 | 140 | 395 | Fast | oval-stone (50%)<br>lucky-egg (5%) |
+| 2 Hp | 30 | 140 | 395 | Fast | <span class="tooltip" title="An item to be held by CHANSEY. It is a pair of gloves that boosts CHANSEY’s critical-hit ratio.">Lucky Punch</span> (50%) |
 
 ---
 

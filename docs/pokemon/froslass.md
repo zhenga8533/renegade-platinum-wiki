@@ -79,7 +79,7 @@ Froslass has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 75 | 50 | 168 | Medium | babiri-berry (5%) |
+| 2 Speed | 75 | 50 | 168 | Mediu |
 
 ---
 

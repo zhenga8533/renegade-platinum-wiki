@@ -83,7 +83,7 @@ Toxicroak has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 75 | 50 | 172 | Medium | black-sludge (5%) |
+| 2 Attack | 75 | 50 | 172 | Medium | <span class="tooltip" title="A hold item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types.">Black Sludge</span> (5%) |
 
 ---
 

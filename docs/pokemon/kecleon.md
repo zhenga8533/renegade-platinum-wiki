@@ -75,7 +75,7 @@ Kecleon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 200 | 70 | 154 | Medium-Slow | persim-berry (5%) |
+| 1 Special Defense | 200 | 70 | 154 | Medium Slo |
 
 ---
 

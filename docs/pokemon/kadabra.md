@@ -85,7 +85,7 @@ Kadabra has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 100 | 50 | 140 | Medium-Slow | twisted-spoon (5%) |
+| 2 Special Attack | 100 | 50 | 140 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a spoon imbued with telekinetic power that boosts Psychic-type moves.">Twisted Spoon</span> (5%) |
 
 ---
 

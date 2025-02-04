@@ -77,7 +77,7 @@ Ninetales has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense<br>1 Speed | 75 | 50 | 177 | Medium | rawst-berry (100%) |
+| 1 Special Defense<br>1 Speed | 75 | 50 | 177 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.">Charcoal</span> (5%) |
 
 ---
 

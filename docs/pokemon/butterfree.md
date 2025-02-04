@@ -85,7 +85,7 @@ Butterfree has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack<br>1 Special Defense | 45 | 50 | 198 | Medium | silver-powder (5%) |
+| 2 Special Attack<br>1 Special Defense | 45 | 50 | 198 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.">Silver Powder</span> (5%) |
 
 ---
 

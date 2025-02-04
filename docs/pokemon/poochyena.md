@@ -77,7 +77,7 @@ Poochyena has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 255 | 70 | 56 | Medium | pecha-berry (5%) |
+| 1 Attack | 255 | 70 | 56 | Mediu |
 
 ---
 

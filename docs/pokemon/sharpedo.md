@@ -77,7 +77,7 @@ Sharpedo has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 60 | 35 | 161 | Slow | deep-sea-tooth (5%) |
+| 2 Attack | 60 | 35 | 161 | Slow | <span class="tooltip" title="An item to be held by CLAMPERL. A fang that gleams a sharp silver, it raises the Sp. Atk stat.">Deep Sea Tooth</span> (5%) |
 
 ---
 
