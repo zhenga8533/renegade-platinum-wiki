@@ -30,20 +30,26 @@ def main():
         next_line = lines[i + 1] if i + 1 < n else ""
         logger.log(logging.DEBUG, f"Parsing line {i + 1}: {line}")
 
+        # Skip empty lines
         if line.startswith("=") or line == "":
             pass
+        # Section headers
         elif next_line.startswith("="):
             md += f"\n---\n\n## {line}\n\n"
+        # List changes
         elif line.startswith("- "):
             md += f"1. {line[2:]}\n"
+        # Table headers
         elif next_line.startswith("---"):
             headers = re.split(r"\s{3,}", line)
             headers.insert(1, "ID")
             md += f"| {' | '.join(headers)} |\n"
+        # Table seperators
         elif line.startswith("---"):
             seperators = re.split(r"\s{3,}", line)
             seperators.insert(1, "---")
             md += f"| {' | '.join(seperators)} |\n"
+        # Table cells
         else:
             cells = re.split(r"\s{3,}", line)
             num, pokemon = cells.pop(0).split(" ")

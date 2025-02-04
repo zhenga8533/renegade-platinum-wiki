@@ -8,6 +8,7 @@ import logging
 import os
 
 
+# Load the environment variables and logger.
 load_dotenv()
 MOVE_INPUT_PATH = os.getenv("MOVE_INPUT_PATH")
 
@@ -15,6 +16,7 @@ LOG = os.getenv("LOG") == "True"
 LOG_PATH = os.getenv("LOG_PATH")
 logger = Logger("Move Loader", LOG_PATH + "move.log", LOG)
 
+# Load all the move data.
 moves = {}
 
 files = glob.glob(f"{MOVE_INPUT_PATH}*.json")

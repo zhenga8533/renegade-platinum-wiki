@@ -458,7 +458,6 @@ def main():
     LOG = os.getenv("LOG")
     TIMEOUT = int(os.getenv("TIMEOUT"))
     LOG_PATH = os.getenv("LOG_PATH")
-    OUTPUT_PATH = os.getenv("OUTPUT_PATH")
     NAV_OUTPUT_PATH = os.getenv("NAV_OUTPUT_PATH")
     POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
     POKEMON_PATH = os.getenv("POKEMON_PATH")

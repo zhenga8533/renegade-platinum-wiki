@@ -8,6 +8,7 @@ import logging
 import os
 
 
+# Load the environment variables and logger.
 load_dotenv()
 ITEM_INPUT_PATH = os.getenv("ITEM_INPUT_PATH")
 
@@ -15,6 +16,7 @@ LOG = os.getenv("LOG") == "True"
 LOG_PATH = os.getenv("LOG_PATH")
 logger = Logger("Item Loader", LOG_PATH + "item.log", LOG)
 
+# Load all the item data.
 items = {}
 
 files = glob.glob(f"{ITEM_INPUT_PATH}*.json")

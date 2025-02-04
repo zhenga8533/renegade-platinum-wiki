@@ -10,11 +10,22 @@ import threading
 
 
 def save_media(media_path: str, media: str, logger: Logger) -> None:
+    """
+    Save the media content to the specified path.
+
+    :param media_path: The path to save the media content.
+    :param media: The media content to save.
+    :param logger: The logger to use.
+    :return: None
+    """
+
+    # Create the directory if it does not exist
     dirs = media_path.rsplit("/", 1)[0]
     if not os.path.exists(dirs):
         os.makedirs(dirs)
         logger.log(logging.INFO, f"Created directory '{dirs}'.")
 
+    # Save the media content to the specified path
     try:
         with open(media_path, "wb") as file:
             file.write(media)
@@ -24,16 +35,27 @@ def save_media(media_path: str, media: str, logger: Logger) -> None:
         exit(1)
 
 
-def fetch_media(pokemon, POKEMON_INPUT_PATH, logger):
+def fetch_media(pokemon: dict, pokemon_path: str, logger: Logger) -> None:
+    """
+    Fetch and save media for the specified Pokémon.
+
+    :param pokemon: The Pokémon to fetch media for.
+    :param pokemon_path: The path to the Pokémon data files.
+    :param logger: The logger to use.
+    :return: None
+    """
+
+    # Load the Pokémon data
     name = pokemon["name"]
-    data = json.loads(load(POKEMON_INPUT_PATH + name + ".json", logger))
+    data = json.loads(load(pokemon_path + name + ".json", logger))
     forms = data.get("forms")
 
+    # Fetch media for each form
     for form in forms:
         if form != name and not verify_pokemon_form(form, logger):
             continue
 
-        form_data = load(POKEMON_INPUT_PATH + form + ".json", logger)
+        form_data = load(pokemon_path + form + ".json", logger)
         form_data = json.loads(form_data) if form_data != "" else data
 
         # Official artwork
@@ -73,23 +95,29 @@ def fetch_media(pokemon, POKEMON_INPUT_PATH, logger):
             save_media(f"../docs/assets/cries/{form}/{key}.ogg", response.content, logger)
 
 
-def fetch_media_range(start_index: int, end_index: int, pokedex, POKEMON_INPUT_PATH, logger):
+def fetch_media_range(start_index: int, end_index: int, pokedex: list, pokemon_path: str, logger: Logger) -> None:
     """
     Fetch and save media for a range of Pokémon.
 
     :param start_index: The starting index for the Pokémon range.
     :param end_index: The ending index for the Pokémon range.
     :param pokedex: The list of Pokémon to process.
-    :param POKEMON_INPUT_PATH: Path where Pokémon data is stored.
+    :param pokemon_path: Path where Pokémon data is stored.
     :param logger: Logger instance for logging.
     """
 
     for i in range(start_index, end_index + 1):
         pokemon = pokedex[i]
-        fetch_media(pokemon, POKEMON_INPUT_PATH, logger)
+        fetch_media(pokemon, pokemon_path, logger)
 
 
 def main():
+    """
+    Main function for the media fetcher.
+
+    :return: None
+    """
+
     # Load environment variables and logger
     load_dotenv()
     POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")

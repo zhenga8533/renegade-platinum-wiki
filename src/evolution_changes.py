@@ -54,6 +54,12 @@ def fix_pokemon(pokemon: list, evolutions: list, POKEMON_INPUT_PATH: str, logger
 
 
 def main():
+    """
+    Main function for the evolution changes parser.
+
+    :return: None
+    """
+
     # Load environment variables and logger
     load_dotenv()
     INPUT_PATH = os.getenv("INPUT_PATH")
@@ -70,17 +76,20 @@ def main():
     n = len(lines)
     md = "# Evolution Changes\n"
 
-    # Parse data
+    # Parse all lines in the input data file
     logger.log(logging.INFO, "Parsing data...")
     for i in range(n):
         line = lines[i]
         next_line = lines[i + 1] if i + 1 < n else ""
         logger.log(logging.DEBUG, f"Parsing line {i + 1}: {line}")
 
+        # Skip empty lines
         if line.startswith("=") or line == "":
             pass
+        # Section headers
         elif next_line.startswith("="):
             md += f"\n---\n\n## {line}\n\n"
+        # List changes
         elif line.startswith("- "):
             pokemon, change = line[2:].split(": ")
             pokemon_id = format_id(pokemon)
@@ -89,6 +98,7 @@ def main():
             p = json.loads(load(POKEMON_INPUT_PATH + format_id(pokemon) + ".json", logger))
             evolutions = fix_evolutions(p["evolutions"], format_id(pokemon), change)
             fix_pokemon(evolutions, p["evolutions"], POKEMON_INPUT_PATH, logger)
+        # Miscellaneous lines
         else:
             md += line + "\n\n"
     logger.log(logging.INFO, "Data parsed successfully!")

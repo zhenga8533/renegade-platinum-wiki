@@ -13,6 +13,7 @@ def download_file(file_path: str, url: str, logger: Logger) -> None:
     :param logger: The logger object.
     :return: None
     """
+
     dirs = file_path.rsplit("/", 1)[0]
     if not os.path.exists(dirs):
         os.makedirs(dirs)

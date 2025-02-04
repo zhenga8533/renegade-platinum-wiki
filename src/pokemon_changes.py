@@ -8,21 +8,36 @@ import logging
 import os
 
 
-def update_pokemon(pokemon_id, changes, POKEMON_INPUT_PATH, logger):
-    file_pattern = POKEMON_INPUT_PATH + pokemon_id + "*.json"
+def update_pokemon(pokemon_id: str, changes: dict, pokemon_path: str, logger: Logger) -> None:
+    """
+    Update the Pokémon data for the specified changes.
+
+    :param pokemon_id: The Pokémon to update.
+    :param changes: The changes to apply to the Pokémon.
+    :param pokemon_path: The path to the Pokémon data files.
+    :param logger: The logger to use.
+    :return: None
+    """
+
+    # Find all Pokémon files that match the specified Pokémon
+    file_pattern = pokemon_path + pokemon_id + "*.json"
     files = glob.glob(file_pattern)
 
+    # Loop through each Pokémon file
     for file_path in files:
         data = json.loads(load(file_path, logger))
         if "platinum" not in data["moves"]:
             continue
 
+        # Loop through each change
         for key, value in changes.items():
+            # Ability changes
             if key == "abil":
                 data["abilities"] = [
                     {"name": format_id(ability), "is_hidden": False, "slot": i}
                     for i, ability in enumerate(value.split(" / "))
                 ]
+            # Base stat changes
             elif key == "base":
                 stats = [int(stat.split(" ")[0]) for stat in value.split(" / ")]
                 data["stats"] = {
@@ -33,10 +48,13 @@ def update_pokemon(pokemon_id, changes, POKEMON_INPUT_PATH, logger):
                     "special-defense": stats[4],
                     "speed": stats[5],
                 }
+            # Base happiness changes
             elif key == "happ":
                 data["base_happiness"] = int(value)
+            # Pokemon type changes
             elif key == "type" and type(value) == str:
                 data["types"] = [t.lower() for t in value.split(" / ")]
+            # Machine move changes
             elif key == "move":
                 for move in value:
                     machine = "TM" in move or "HM" in move
@@ -56,6 +74,7 @@ def update_pokemon(pokemon_id, changes, POKEMON_INPUT_PATH, logger):
                     data["moves"]["platinum"].append(
                         {"name": move_id, "level_learned_at": 0, "learn_method": learn_method}
                     )
+            # Level up move changes
             elif key == "leve":
                 # Remove all past level up moves
                 data["moves"]["platinum"] = [m for m in data["moves"]["platinum"] if m["learn_method"] != "level-up"]
@@ -73,6 +92,12 @@ def update_pokemon(pokemon_id, changes, POKEMON_INPUT_PATH, logger):
 
 
 def main():
+    """
+    Main function for the Pokémon changes parser.
+
+    :return: None
+    """
+
     # Load environment variables and logger
     load_dotenv()
     INPUT_PATH = os.getenv("INPUT_PATH")
@@ -101,10 +126,12 @@ def main():
         next_line = lines[i + 1] if i + 1 < n else ""
         logger.log(logging.DEBUG, f"Parsing line {i + 1}: {line}")
 
+        # Skip empty lines
         if line.startswith("=") or line == "":
             if parse_change:
                 md += "```\n\n"
                 parse_change = False
+        # Section headers
         elif next_line.startswith("="):
             if " - " in line:
                 pokemon = line.split(" - ")[1]
@@ -118,8 +145,10 @@ def main():
                 changes = {}
             else:
                 md += f"\n---\n\n## {line}\n\n"
+        # List changes
         elif line.startswith("- "):
             md += f"1. {line[2:]}\n"
+        # Code block changes
         elif parse_change:
             md += line + "\n"
 
@@ -131,6 +160,7 @@ def main():
             md += line + "\n\n```\n"
             parse_change = True
             curr_change = line[0:4].lower() if "Happiness" not in line else "happ"
+        # Miscellaneous lines
         else:
             md += line + "\n\n"
     logger.log(logging.INFO, "Data parsed successfully!")

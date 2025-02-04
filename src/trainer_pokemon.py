@@ -12,6 +12,14 @@ import re
 
 
 def parse_pokemon_set(line: str) -> str:
+    """
+    Parse a Pokémon set from the specified line.
+
+    :param line: The line to parse.
+    :return: The parsed Pokémon set.
+    """
+
+    # Parse the line data
     strs = [s.strip() for s in line.rstrip("(!)").split("/")]
     name, level, item = re.match(r"(.+) \(Lv\. (\d+)\) @ (.+)", strs[0]).groups()
     nature = strs[1]
@@ -19,6 +27,7 @@ def parse_pokemon_set(line: str) -> str:
     moves = strs[3].split(", ")
     moves = [moves[i] if len(moves) > i else "—" for i in range(4)]
 
+    # Generate the Pokemon set
     pokemon = f"<b><a href='/renegade-platinum-wiki/pokemon/{format_id(name)}/'>{name}</a></b> @ {item}\n"
     pokemon += f"<b>Ability:</b> {ability}\n"
     pokemon += f"<b>Level:</b> {level}\n"
@@ -31,6 +40,15 @@ def parse_pokemon_set(line: str) -> str:
 
 
 def parse_pokemon_table(line: str, logger: Logger) -> str:
+    """
+    Parse a Pokémon table from the specified line.
+
+    :param line: The line to parse.
+    :param logger: The logger to use.
+    :return: The parsed Pokémon table.
+    """
+
+    # Parse the line data
     strs = [s.strip() for s in line.rstrip("(!)").split("/")]
     name, level, item = re.match(r"(.+) \(Lv\. (\d+)\) @ (.+)", strs[0]).groups()
     nature = strs[1]
@@ -84,11 +102,19 @@ def parse_pokemon_table(line: str, logger: Logger) -> str:
     return table
 
 
-def parse_trainer_roster(trainers) -> str:
+def parse_trainer_roster(trainers: list) -> tuple:
+    """
+    Parse the trainer roster from the specified list of trainers.
+
+    :param trainers: The list of trainers to parse.
+    :return: The parsed markdown and roster.
+    """
+
     md = ""
     trainer_rosters = "| Trainer | P1 | P2 | P3 | P4 | P5 | P6 |\n"
     trainer_rosters += "|:-------:|:--:|:--:|:--:|:--:|:--:|:--:|\n"
 
+    # Parse each trainer
     for trainer in trainers:
         trainer_name, pokemon = re.split(r"\s{2,}", trainer)
         trainer_name = trainer_name.replace("(!)", "[(!)](#rematches)")
@@ -97,6 +123,7 @@ def parse_trainer_roster(trainers) -> str:
         md += f"1. {trainer_name}"
         trainer_rosters += f"| {trainer_sprite}<br>{trainer_name} "
 
+        # Parse each Pokemon in team
         for i, p in enumerate(pokemon.split(", "), 1):
             pokemon_name, level = p.split(" Lv. ")
             pokemon_id = format_id(pokemon_name)
@@ -113,12 +140,23 @@ def parse_trainer_roster(trainers) -> str:
     return md, trainer_rosters
 
 
-def parse_trainers(trainers, rematches, important, logger):
+def parse_trainers(trainers: list, rematches: list, important: dict, logger: Logger) -> tuple:
+    """
+    Parse the trainers from the specified data.
+
+    :param trainers: The list of trainers to parse.
+    :param rematches: The list of rematch trainers to parse.
+    :param important: The list of important trainers to parse.
+    :param logger: The logger to use.
+    :return: The parsed markdown and roster.
+    """
+
     trainers = [t for t in trainers if re.split(r"\s{2,}", t)[0] not in important]
     md = ""
     trainer_rosters = ""
     important_trainers = ""
 
+    # Parse each trainer type
     if len(trainers) > 0:
         md, trainer_rosters = parse_trainer_roster(trainers)
         md = "<h3>Generic Trainers</h3>\n\n" + md
@@ -135,14 +173,17 @@ def parse_trainers(trainers, rematches, important, logger):
         table_head = "| Pokémon | Attributes | Item | Moves |\n|:-------:|------------|:----:|-------|\n"
         curr_trainer = None
 
+        # Seperate important trainers with different rosters
         for trainer in important:
             trainer_sprite = find_trainer_sprite(trainer, "trainers")
             pokemon = important[trainer]
 
+            # Generate trainer markdown
             md += f"**{trainer}**\n\n{trainer_sprite}\n\n"
             trainer_rosters += f"1. [{trainer}](important_trainers.md#{format_id(trainer)})\n"
             important_trainers += f"### {trainer}\n\n{trainer_sprite.replace("../", "../../")}\n\n"
 
+            # Initialize variables
             base = ""
             rivals = ["", "", ""]
             rival_index = 0
@@ -153,6 +194,7 @@ def parse_trainers(trainers, rematches, important, logger):
             important_rivals = ["", "", ""]
             important_four = ["", "", "", ""]
 
+            # Parse each roster into corresponding category
             for line in pokemon:
                 if line.endswith("(!)"):
                     rivals[rival_index] += parse_pokemon_set(line)
@@ -166,6 +208,7 @@ def parse_trainers(trainers, rematches, important, logger):
                     base += parse_pokemon_set(line)
                     wild += parse_pokemon_table(line, logger)
 
+            # Generate markdown for each roster
             important_head = ""
             if curr_trainer != trainer:
                 important_head = table_head
@@ -199,6 +242,12 @@ def parse_trainers(trainers, rematches, important, logger):
 
 
 def main():
+    """
+    Main function for parsing the trainer Pokémon data.
+
+    :return: None
+    """
+
     # Load environment variables and logger
     load_dotenv()
     INPUT_PATH = os.getenv("INPUT_PATH")
@@ -229,6 +278,12 @@ def main():
     section = None
 
     def update_markdown():
+        """
+        Update the markdown with the current data.
+
+        :return: None
+        """
+
         nonlocal location, section, trainers, rematches, important, roster, wild_rosters, wild_trainers, md
         roster_md, trainer_rosters, important_trainers = parse_trainers(trainers, rematches, important, logger)
         md += roster_md
@@ -254,24 +309,32 @@ def main():
         next_line = lines[i + 1] if i + 1 < n else ""
         logger.log(logging.DEBUG, f"Parsing line {i + 1}: {line}")
 
+        # Skip empty lines
         if line.startswith("=") or line == "":
             pass
+        # Section headers
         elif next_line.startswith("="):
             if len(trainers) > 0:
                 update_markdown()
             location, section = line.split(" (", 1) if "(" in line else (line, None)
             md += f"\n---\n\n## {line}\n\n"
+        # List trainers
         elif line.startswith("- "):
             md += f"1. {line[2:]}\n"
+        # Trainer rematches
         elif line == "Rematches":
             roster = rematches
+        # Important trainer pokemon
         elif "@" in line:
             important[trainer].append(line)
+        # Important trainer header
         elif "@" in next_line:
             trainer = line
             important[trainer] = []
+        # Generic trainer pokemon
         elif "Lv." in line:
             roster.append(line)
+        # Note
         elif line.startswith("Note:"):
             md += f"!!! note\n\n\t{line[6:]}\n\n"
     update_markdown()
@@ -279,6 +342,7 @@ def main():
 
     save(OUTPUT_PATH + "trainer_pokemon.md", md, logger)
 
+    # Save wild encounter navigation
     roster_nav = "  - Wild Encounters:\n"
     trainer_nav = "  - Wild Encounters:\n"
     for location, trainers in wild_rosters.items():

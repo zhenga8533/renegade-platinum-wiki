@@ -8,6 +8,7 @@ import logging
 import os
 
 
+# Load the environment variables and logger.
 load_dotenv()
 ABILITY_INPUT_PATH = os.getenv("ABILITY_INPUT_PATH")
 
@@ -15,6 +16,7 @@ LOG = os.getenv("LOG") == "True"
 LOG_PATH = os.getenv("LOG_PATH")
 logger = Logger("Ability Loader", LOG_PATH + "ability.log", LOG)
 
+# Load all the ability data.
 abilities = {}
 
 files = glob.glob(f"{ABILITY_INPUT_PATH}*.json")
@@ -27,7 +29,7 @@ for file in files:
 
 def get_ability(name: str) -> dict:
     """
-    Get the Ability data for an ability.
+    Get the loaded data for an ability.
 
     :param name: The name of the ability.
     :return: The ability data.

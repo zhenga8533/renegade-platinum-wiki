@@ -7,6 +7,12 @@ import os
 
 
 def main():
+    """
+    Main function for the special events parser.
+
+    :return: None
+    """
+
     # Load environment variables and logger
     load_dotenv()
     INPUT_PATH = os.getenv("INPUT_PATH")
@@ -31,14 +37,16 @@ def main():
         next_line = lines[i + 1] if i + 1 < n else ""
         logger.log(logging.DEBUG, f"Parsing line {i + 1}: {line}")
 
+        # Skip empty lines
         if line.startswith("=") or line == "" or line == "---":
             if parse_encounter and line != "---":
                 md += "```\n\n"
                 parse_encounter = False
+        # Section headers
         elif next_line.startswith("="):
             md += f"\n---\n\n## {line}\n\n"
+        # Pokemon headers
         elif next_line.startswith("---"):
-            # Add Pokémon sprites
             md += "\n"
             if line.startswith("#"):
                 pokemon = line.split(", ")
@@ -57,10 +65,13 @@ def main():
 
             md += "```\n"
             parse_encounter = True
+        # List changes
         elif line.startswith("- "):
             md += f"1. {line[2:]}\n"
+        # Code block changes
         elif parse_encounter:
             md += line + "\n"
+        # Miscellaneous lines
         else:
             md += line + "\n\n"
     logger.log(logging.INFO, "Data parsed successfully!")

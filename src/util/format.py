@@ -6,6 +6,15 @@ import string
 
 
 def find_pokemon_sprite(pokemon: str, view: str, logger: Logger = None) -> str:
+    """
+    Find the sprite of a Pokémon.
+
+    :param pokemon: Pokémon to find the sprite.
+    :param view: View of the sprite.
+    :param logger: Logger to log the verification.
+    :return: The sprite of the Pokémon.
+    """
+
     sprite = f"../assets/sprites/{fix_pokemon_form(format_id(pokemon))}/{view}"
     return (
         f'![{pokemon}]({sprite}.gif "{pokemon}")'
@@ -15,23 +24,36 @@ def find_pokemon_sprite(pokemon: str, view: str, logger: Logger = None) -> str:
 
 
 def find_trainer_sprite(trainer: str, view: str, logger: Logger = None) -> str:
+    """
+    Find the sprite of a trainer.
+
+    :param trainer: Trainer to find the sprite.
+    :param view: View of the sprite.
+    :param logger: Logger to log the verification.
+    :return: The sprite of the trainer.
+    """
+
     words = trainer.split()
     n = len(words)
     subsets = []
 
-    for i in range(1, 1 << n):  # Iterate through all non-empty subsets
+    # Iterate through all non-empty subsets
+    for i in range(1, 1 << n):
         subset = []
         for j in range(n):
-            if i & (1 << j):  # Check if the j-th element is in the subset
+            # Check if the j-th element is in the subset
+            if i & (1 << j):
                 subset.append(words[j])
         subsets.append(" ".join(subset))
     subsets.sort(key=len, reverse=True)
 
+    # Check if the sprite exists for any subset
     for subset in subsets:
         sprite = f"../assets/{view}/{format_id(subset, symbol="_")}"
         if verify_asset_path(sprite + ".png", logger):
             return f'![{trainer}]({sprite}.png "{trainer}")'
 
+    # Check if the sprite exists for the full name
     if view != "important_trainers":
         return find_trainer_sprite(trainer, "important_trainers", logger)
     return f'![{trainer}](../assets/{view}/{format_id(trainer, symbol="_")}.png "{trainer}")'
