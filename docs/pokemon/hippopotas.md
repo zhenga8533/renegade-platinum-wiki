@@ -164,7 +164,7 @@ Hippopotas has no alternate forms.
 | <span class="tooltip" title="The power stored using the move Stockpile is released at once in an attack. ">Spit Up</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | — | 100 | 10 |
 | <span class="tooltip" title="The power stored using the move Stockpile is absorbed by the user to heal its HP.">Swallow</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 | <span class="tooltip" title="The user slacks off, restoring its own HP by up to half of its maximum HP. ">Slack Off</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
-| <span class="tooltip" title="The user traps the foe inside a harshly raging sandstorm for two to five turns. ">Sand Tomb</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 35 | 85 | 15 |
+| <span class="tooltip" title="Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.">Bulldoze</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
 
 ### Tutor Moves
 

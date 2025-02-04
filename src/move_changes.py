@@ -40,6 +40,11 @@ def update_move(move, changes, MOVE_INPUT_PATH, logger):
     save(MOVE_INPUT_PATH + move + ".json", json.dumps(data, indent=4), logger)
 
 
+def replace_move(old_move, new_move, MOVE_INPUT_PATH, logger):
+    new_data = json.loads(load(MOVE_INPUT_PATH + format_id(new_move) + ".json", logger))
+    save(MOVE_INPUT_PATH + format_id(old_move) + ".json", json.dumps(new_data, indent=4), logger)
+
+
 def main():
     # Load environment variables and logger
     load_dotenv()
@@ -90,6 +95,8 @@ def main():
         elif parse_table:
             cells = re.split(r"\s{3,}", line)
             md += f"| {' | '.join(cells)} |\n"
+            if not cells[0].startswith("---"):
+                replace_move(cells[0], cells[1], MOVE_INPUT_PATH, logger)
         elif ">>" in line:
             if not parse_change:
                 md += "| Attribute | Old | New |\n"

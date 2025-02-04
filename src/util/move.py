@@ -20,8 +20,9 @@ moves = {}
 files = glob.glob(f"{MOVE_INPUT_PATH}*.json")
 for file in files:
     data = json.loads(load(file, logger))
-    name = data["name"]
+    name = format_id(file.split("\\")[-1].split(".")[0])
     moves[name] = data
+    logger.log(logging.INFO, f"Loaded move {name}")
 
 
 def get_move(name: str) -> dict:
@@ -36,5 +37,5 @@ def get_move(name: str) -> dict:
     if id in moves:
         return moves[id]
     else:
-        logger.log(logging.ERROR, f"Move {name} not found")
+        logger.log(logging.ERROR, f"Move {id} not found")
         return None

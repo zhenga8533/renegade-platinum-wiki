@@ -20,8 +20,9 @@ abilities = {}
 files = glob.glob(f"{ABILITY_INPUT_PATH}*.json")
 for file in files:
     data = json.loads(load(file, logger))
-    name = data["name"]
+    name = format_id(file.split("\\")[-1].split(".")[0])
     abilities[name] = data
+    logger.log(logging.INFO, f"Loaded ability {name}")
 
 
 def get_ability(name: str) -> dict:
@@ -36,5 +37,5 @@ def get_ability(name: str) -> dict:
     if id in abilities:
         return abilities[id]
     else:
-        logger.log(logging.ERROR, f"Ability {name} not found")
+        logger.log(logging.ERROR, f"Ability {id} not found")
         return None

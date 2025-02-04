@@ -20,8 +20,9 @@ items = {}
 files = glob.glob(f"{ITEM_INPUT_PATH}*.json")
 for file in files:
     data = json.loads(load(file, logger))
-    name = data["name"]
+    name = format_id(file.split("\\")[-1].split(".")[0])
     items[name] = data
+    logger.log(logging.INFO, f"Loaded item {name}")
 
 
 def get_item(name: str) -> dict:
@@ -36,5 +37,5 @@ def get_item(name: str) -> dict:
     if id in items:
         return items[id]
     else:
-        logger.log(logging.ERROR, f"Item {name} not found")
+        logger.log(logging.ERROR, f"Item {id} not found")
         return None
