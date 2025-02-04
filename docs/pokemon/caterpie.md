@@ -1,14 +1,20 @@
-# Caterpie (Worm Pokémon)
+# #010 Caterpie (Worm Pokémon)
 
 | Official Artwork | Shiny Artwork |
-| --- | --- |
-| ![Official Artwork](../assets/sprites/caterpie/official.png) | ![Shiny Artwork](../assets/sprites/caterpie/official_shiny.png) |
+|------------------|---------------|
+| ![Official Artwork](../assets/sprites/caterpie/official.png "Caterpie") | ![Shiny Artwork](../assets/sprites/caterpie/official_shiny.png "Caterpie") |
 
 It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.
 
 ---
 
 ## Media
+
+### Default Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ![Caterpie](../assets/sprites/caterpie/front.gif "Caterpie") | ![Caterpie](../assets/sprites/caterpie/front_shiny.png "Caterpie") | ![Caterpie](../assets/sprites/caterpie/back.png "Caterpie") | ![Caterpie](../assets/sprites/caterpie/back_shiny.png "Caterpie") |
 
 ### Cries
 
@@ -32,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10 | ![bug](../assets/types/bug.png){: width='48'} | 0.3 m | 2.9 kg | 1. Run-Away<br>2. Shield-Dust | N/A |
+| #10 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.3 m /<br>1.0 ft | 2.9 kg /<br>6.4 lbs | 1. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>2. <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span> | N/A |
 
 ---
 
@@ -95,9 +101,9 @@ Caterpie has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Bug Bite | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
-| 1 | String Shot | ![bug](../assets/types/bug.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 95 | 40 |
-| 1 | Tackle | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
+| 1 | <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
+| 1 | <span class="tooltip" title="The foe is bound with silk blown from the user’s mouth. It reduces the target’s Speed stat.">String Shot</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 95 | 40 |
+| 1 | <span class="tooltip" title="A physical attack in which the user charges and slams into the foe with its whole body.">Tackle</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 35 |
 
 ### TM Moves
 
@@ -109,5 +115,5 @@ Caterpie cannot learn any moves by breeding.
 
 | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- |
-| Snore | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 15 |
+| <span class="tooltip" title="An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.">Snore</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 50 | 100 | 15 |
 

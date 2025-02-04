@@ -1,14 +1,20 @@
-# Ditto (Transform Pokémon)
+# #132 Ditto (Transform Pokémon)
 
 | Official Artwork | Shiny Artwork |
-| --- | --- |
-| ![Official Artwork](../assets/sprites/ditto/official.png) | ![Shiny Artwork](../assets/sprites/ditto/official_shiny.png) |
+|------------------|---------------|
+| ![Official Artwork](../assets/sprites/ditto/official.png "Ditto") | ![Shiny Artwork](../assets/sprites/ditto/official_shiny.png "Ditto") |
 
 It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.
 
 ---
 
 ## Media
+
+### Default Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ![Ditto](../assets/sprites/ditto/front.gif "Ditto") | ![Ditto](../assets/sprites/ditto/front_shiny.png "Ditto") | ![Ditto](../assets/sprites/ditto/back.png "Ditto") | ![Ditto](../assets/sprites/ditto/back_shiny.png "Ditto") |
 
 ### Cries
 
@@ -32,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #132 | ![normal](../assets/types/normal.png){: width='48'} | 0.3 m | 4.0 kg | 1. Limber<br>2. Imposter | N/A |
+| #132 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.3 m /<br>1.0 ft | 4.0 kg /<br>8.8 lbs | 1. <span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span><br>2. <span class="tooltip" title="This Pokémon transforms into a random opponent upon entering battle.  This effect is identical to the move transform.">Imposter</span> | N/A |
 
 ---
 
@@ -91,7 +97,7 @@ Ditto has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Transform | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 10 |
+| 1 | <span class="tooltip" title="The user transforms into a copy of the foe right down to having the same move set.">Transform</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 10 |
 
 ### TM Moves
 

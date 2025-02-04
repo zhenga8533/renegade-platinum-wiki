@@ -1,6 +1,7 @@
 from dotenv import load_dotenv
+from util.ability import get_ability
 from util.file import load, save, verify_asset_path
-from util.format import create_image_table, find_pokemon_sprite, format_id, revert_id, verify_pokemon_form
+from util.format import find_pokemon_sprite, format_id, revert_id, verify_pokemon_form
 from util.logger import Logger
 from util.moves import get_move
 import glob
@@ -26,22 +27,30 @@ def parse_sprite_tables(
     :return: The parsed sprite tables.
     """
 
-    image_headers = ["Front", "Back", "Front Shiny", "Back Shiny"]
-    md = ""
+    md = "### " + title + "\n\n"
+    md += "| Front | Shiny | Back | Shiny |\n"
+    md += "|-------|-------|------|-------|\n|"
 
-    image_table = create_image_table(
-        image_headers,
-        [
-            find_pokemon_sprite(name, f"front{extension}", logger),
-            find_pokemon_sprite(name, f"back{extension}", logger),
-            find_pokemon_sprite(name, f"front_shiny{extension}", logger),
-            find_pokemon_sprite(name, f"back_shiny{extension}", logger),
-        ],
-        logger,
-    )
-    if image_table != "":
-        md += "### " + title + "\n\n"
-        md += image_table
+    pokemon = revert_id(name)
+    sprites = [
+        find_pokemon_sprite(pokemon, f"front{extension}", logger),
+        find_pokemon_sprite(pokemon, f"front_shiny{extension}", logger),
+        find_pokemon_sprite(pokemon, f"back{extension}", logger),
+        find_pokemon_sprite(pokemon, f"back_shiny{extension}", logger),
+    ]
+    valid = False
+
+    for sprite in sprites:
+        if sprite == "":
+            md += " N/A |"
+            continue
+        valid = True
+        md += f" {sprite} |"
+
+    if not valid:
+        return ""
+    else:
+        md += "\n\n"
 
     return md
 
@@ -186,13 +195,18 @@ def parse_moves(moves: list, headers: list, move_key: str, input_path: str, logg
             elif category == "TM":
                 md_body += f"| {move_data['machines'].get(move_key, "tbd").upper()} "
             elif category == "Move":
-                md_body += f"| {revert_id(move_data['name'])} "
+                move_id = move_data["name"]
+                move_data = get_move(move_id)
+                move_effect = move_data["flavor_text_entries"].get("platinum", move_data["effect"]).replace("\n", " ")
+                md_body += f'| <span class="tooltip" title="{move_effect}">{revert_id(move_id)}</span> '
             elif category == "Type":
+                move_type = move_data["type"]
                 md_body += (
-                    f"| ![{move_data['type']}](../assets/types/{move_data['type'].lower()}.png){{: width='48'}} "
+                    f'| ![{move_type}](../assets/types/{move_type.lower()}.png "{move_type.title()}"){{: width="48"}} '
                 )
             elif category == "Cat.":
-                md_body += f"| ![{move_data['damage_class']}](../assets/move_category/{move_data['damage_class']}.png){{: width='36'}} "
+                damage_class = move_data["damage_class"]
+                md_body += f'| ![{move_data["damage_class"]}](../assets/move_category/{damage_class}.png "{damage_class.title()}"){{: width="36"}} '
             elif category == "Power":
                 md_body += f"| {move_data['power'] or dash} "
             elif category == "Acc.":
@@ -220,19 +234,15 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     pokemon_id = pokemon["id"]
     md = (
         f"# {pokemon_name} ({pokemon['genus']})\n\n"
-        if pokemon_id < 10000
+        if pokemon_id > 10000
         else f"# #{pokemon_id:03} {pokemon_name} ({pokemon['genus']})\n\n"
     )
 
     # Add official artwork
-    md += create_image_table(
-        ["Official Artwork", "Shiny Artwork"],
-        [
-            f"../assets/sprites/{name_id}/official.png",
-            f"../assets/sprites/{name_id}/official_shiny.png",
-        ],
-        logger,
-    )
+    md += "| Official Artwork | Shiny Artwork |\n"
+    md += "|------------------|---------------|\n"
+    md += f'| ![Official Artwork](../assets/sprites/{name_id}/official.png "{revert_id(name_id)}") | '
+    md += f'![Shiny Artwork](../assets/sprites/{name_id}/official_shiny.png "{revert_id(name_id)}") |\n\n'
 
     # Add flavor text
     flavor_text = pokemon["flavor_text_entries"]["platinum"]
@@ -272,11 +282,23 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     md += f"| National № | Type(s) | Height | Weight | Abilities | Local № |\n"
     md += f"|------------|---------|--------|--------|-----------|---------|\n"
     md += f"| #{pokemon_id}"
-    md += f" | " + " ".join([f"![{t}](../assets/types/{t.lower()}.png){{: width='48'}}" for t in pokemon["types"]])
-    md += f" | {pokemon['height']} m"
-    md += f" | {pokemon['weight']} kg"
-    abilities = [f"{i + 1}. {ability['name'].title()}" for i, ability in enumerate(pokemon["abilities"])]
+    md += f" | " + " ".join(
+        [f'![{t}](../assets/types/{t.lower()}.png "{t.title()}"){{: width="48"}}' for t in pokemon["types"]]
+    )
+    md += f" | {pokemon['height']} m /<br>{pokemon['height'] * 3.28084:.1f} ft"
+    md += f" | {pokemon['weight']} kg /<br>{pokemon['weight'] * 2.20462:.1f} lbs"
+
+    abilities = []
+    for i, ability in enumerate(pokemon["abilities"], 1):
+        ability_id = ability["name"]
+        if ability_id == "none":
+            continue
+
+        ability_data = get_ability(ability_id)
+        ability_effect = ability_data["flavor_text_entries"].get("platinum", ability_data["effect"]).replace("\n", " ")
+        abilities.append(f'{i}. <span class="tooltip" title="{ability_effect}">{revert_id(ability_id)}</span>')
     md += f" | " + "<br>".join(abilities)
+
     local_no = pokemon["pokedex_numbers"].get("original-sinnoh", None)
     md += f" | {'#' + str(local_no) if local_no else 'N/A'} |\n\n"
 

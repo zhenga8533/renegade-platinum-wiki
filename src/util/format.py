@@ -5,40 +5,12 @@ import re
 import string
 
 
-def create_image_table(headings: list[str], images: list[str], logger: Logger) -> str:
-    """
-    Create a markdown table with images.
-
-    :param headings: The headings for the table.
-    :param images: The images to add to the table.
-    :param logger: The logger to use.
-    :return: The markdown table.
-    """
-
-    table_header = "|"
-    table_divider = "|"
-    table_body = "|"
-
-    for i, image in enumerate(images):
-        if not verify_asset_path(image, logger):
-            continue
-
-        # Add image to table
-        table_header += f" {headings[i]} |"
-        table_divider += " --- |"
-        table_body += f" ![{headings[i]}]({image}) |"
-    if table_header + table_divider + table_body == "|||":
-        return ""
-
-    return f"{table_header}\n{table_divider}\n{table_body}\n\n"
-
-
 def find_pokemon_sprite(pokemon: str, view: str, logger: Logger = None) -> str:
     sprite = f"../assets/sprites/{fix_pokemon_form(format_id(pokemon))}/{view}"
     return (
         f'![{pokemon}]({sprite}.gif "{pokemon}")'
         if verify_asset_path(sprite + ".gif", logger)
-        else f'![{pokemon}]({sprite}.png "{pokemon}")'
+        else (f'![{pokemon}]({sprite}.png "{pokemon}")' if verify_asset_path(sprite + ".png", logger) else "")
     )
 
 
@@ -108,39 +80,6 @@ def revert_id(id: str, symbol: str = "-") -> str:
     """
 
     return string.capwords(id.replace(symbol, " "))
-
-
-def validate_pokemon_form(form: str, logger: Logger) -> bool:
-    """
-    Verify if a Pokémon form is from this generation.
-
-    :param form: Pokémon form to be validated.
-    :return: True if the form is from this generation, False otherwise.
-    """
-
-    pokemon_with_forms = [
-        "unown",
-        "deoxys",
-        "castform",
-        "burmy",
-        "wormadam",
-        "cherrim",
-        "shellos",
-        "gastrodon",
-        "rotom",
-        "giratina",
-        "shaymin",
-        "arceus",
-    ]
-
-    # Validate if the Pokemon has a form
-    for pokemon in pokemon_with_forms:
-        if pokemon in form:
-            logger.log(logging.DEBUG, f"Valid form {form} for {pokemon}")
-            return True
-
-    logger.log(logging.DEBUG, f"Invalid form {form}")
-    return False
 
 
 def verify_pokemon_form(id: str, logger: Logger) -> bool:

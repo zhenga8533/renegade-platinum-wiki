@@ -1,14 +1,20 @@
-# Metapod (Cocoon Pokémon)
+# #011 Metapod (Cocoon Pokémon)
 
 | Official Artwork | Shiny Artwork |
-| --- | --- |
-| ![Official Artwork](../assets/sprites/metapod/official.png) | ![Shiny Artwork](../assets/sprites/metapod/official_shiny.png) |
+|------------------|---------------|
+| ![Official Artwork](../assets/sprites/metapod/official.png "Metapod") | ![Shiny Artwork](../assets/sprites/metapod/official_shiny.png "Metapod") |
 
 A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.
 
 ---
 
 ## Media
+
+### Default Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ![Metapod](../assets/sprites/metapod/front.gif "Metapod") | ![Metapod](../assets/sprites/metapod/front_shiny.png "Metapod") | ![Metapod](../assets/sprites/metapod/back.png "Metapod") | ![Metapod](../assets/sprites/metapod/back_shiny.png "Metapod") |
 
 ### Cries
 
@@ -32,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #11 | ![bug](../assets/types/bug.png){: width='48'} | 0.7 m | 9.9 kg | 1. Shed-Skin<br>2. Shed-Skin | N/A |
+| #11 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.7 m /<br>2.3 ft | 9.9 kg /<br>21.8 lbs | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br>2. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span> | N/A |
 
 ---
 
@@ -95,9 +101,9 @@ Metapod has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Harden | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
-| 7 | Harden | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
-| 7 | Iron Defense | ![steel](../assets/types/steel.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| 1 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
+| 7 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
+| 7 | <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 15 |
 
 ### TM Moves
 
@@ -109,5 +115,5 @@ Metapod cannot learn any moves by breeding.
 
 | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- |
-| Iron Defense | ![steel](../assets/types/steel.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 15 |
 

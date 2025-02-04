@@ -1,14 +1,20 @@
-# Smeargle (Painter Pokémon)
+# #235 Smeargle (Painter Pokémon)
 
 | Official Artwork | Shiny Artwork |
-| --- | --- |
-| ![Official Artwork](../assets/sprites/smeargle/official.png) | ![Shiny Artwork](../assets/sprites/smeargle/official_shiny.png) |
+|------------------|---------------|
+| ![Official Artwork](../assets/sprites/smeargle/official.png "Smeargle") | ![Shiny Artwork](../assets/sprites/smeargle/official_shiny.png "Smeargle") |
 
 It marks its territory by using its tail like a paintbrush. There are more than 5,000 different marks.
 
 ---
 
 ## Media
+
+### Default Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ![Smeargle](../assets/sprites/smeargle/front.gif "Smeargle") | ![Smeargle](../assets/sprites/smeargle/front_shiny.png "Smeargle") | ![Smeargle](../assets/sprites/smeargle/back.png "Smeargle") | ![Smeargle](../assets/sprites/smeargle/back_shiny.png "Smeargle") |
 
 ### Cries
 
@@ -32,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #235 | ![normal](../assets/types/normal.png){: width='48'} | 1.2 m | 58.0 kg | 1. Technician<br>2. Own-Tempo | N/A |
+| #235 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.2 m /<br>3.9 ft | 58.0 kg /<br>127.9 lbs | 1. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span> | N/A |
 
 ---
 
@@ -91,26 +97,26 @@ Smeargle has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Sketch | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 1 |
-| 6 | Sketch | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 1 |
-| 11 | Sketch | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 1 |
-| 16 | Sketch | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 1 |
-| 21 | Sketch | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 1 |
-| 26 | Sketch | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 1 |
-| 31 | Sketch | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 1 |
-| 36 | Sketch | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 1 |
-| 41 | Sketch | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 1 |
-| 46 | Sketch | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 1 |
-| 51 | Sketch | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 1 |
-| 56 | Sketch | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 1 |
-| 61 | Sketch | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 1 |
-| 66 | Sketch | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 1 |
-| 71 | Sketch | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 1 |
-| 76 | Sketch | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 1 |
-| 81 | Sketch | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 1 |
-| 86 | Sketch | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 1 |
-| 91 | Sketch | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 1 |
-| 96 | Sketch | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 1 |
+| 1 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 6 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 11 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 16 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 21 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 26 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 31 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 36 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 41 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 46 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 51 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 56 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 61 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 66 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 71 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 76 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 81 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 86 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 91 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
+| 96 | <span class="tooltip" title="It enables the user to learn a move used by the foe. Once used, the move Sketch disappears.">Sketch</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 1 |
 
 ### TM Moves
 

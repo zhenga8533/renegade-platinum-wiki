@@ -1,14 +1,20 @@
-# Cascoon (Cocoon Pokémon)
+# #268 Cascoon (Cocoon Pokémon)
 
 | Official Artwork | Shiny Artwork |
-| --- | --- |
-| ![Official Artwork](../assets/sprites/cascoon/official.png) | ![Shiny Artwork](../assets/sprites/cascoon/official_shiny.png) |
+|------------------|---------------|
+| ![Official Artwork](../assets/sprites/cascoon/official.png "Cascoon") | ![Shiny Artwork](../assets/sprites/cascoon/official_shiny.png "Cascoon") |
 
 It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.
 
 ---
 
 ## Media
+
+### Default Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ![Cascoon](../assets/sprites/cascoon/front.gif "Cascoon") | ![Cascoon](../assets/sprites/cascoon/front_shiny.png "Cascoon") | ![Cascoon](../assets/sprites/cascoon/back.png "Cascoon") | ![Cascoon](../assets/sprites/cascoon/back_shiny.png "Cascoon") |
 
 ### Cries
 
@@ -32,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #268 | ![bug](../assets/types/bug.png){: width='48'} | 0.7 m | 11.5 kg | 1. Shed-Skin<br>2. Shed-Skin | #51 |
+| #268 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.7 m /<br>2.3 ft | 11.5 kg /<br>25.4 lbs | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br>2. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span> | #51 |
 
 ---
 
@@ -99,9 +105,9 @@ Cascoon has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Harden | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
-| 7 | Harden | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
-| 7 | Iron Defense | ![steel](../assets/types/steel.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| 1 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
+| 7 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
+| 7 | <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 15 |
 
 ### TM Moves
 
@@ -113,5 +119,5 @@ Cascoon cannot learn any moves by breeding.
 
 | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- |
-| Iron Defense | ![steel](../assets/types/steel.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 15 |
 

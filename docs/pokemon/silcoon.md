@@ -1,14 +1,20 @@
-# Silcoon (Cocoon Pokémon)
+# #266 Silcoon (Cocoon Pokémon)
 
 | Official Artwork | Shiny Artwork |
-| --- | --- |
-| ![Official Artwork](../assets/sprites/silcoon/official.png) | ![Shiny Artwork](../assets/sprites/silcoon/official_shiny.png) |
+|------------------|---------------|
+| ![Official Artwork](../assets/sprites/silcoon/official.png "Silcoon") | ![Shiny Artwork](../assets/sprites/silcoon/official_shiny.png "Silcoon") |
 
 It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.
 
 ---
 
 ## Media
+
+### Default Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ![Silcoon](../assets/sprites/silcoon/front.gif "Silcoon") | ![Silcoon](../assets/sprites/silcoon/front_shiny.png "Silcoon") | ![Silcoon](../assets/sprites/silcoon/back.png "Silcoon") | ![Silcoon](../assets/sprites/silcoon/back_shiny.png "Silcoon") |
 
 ### Cries
 
@@ -32,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #266 | ![bug](../assets/types/bug.png){: width='48'} | 0.6 m | 10.0 kg | 1. Shed-Skin<br>2. Shed-Skin | #49 |
+| #266 | ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.6 m /<br>2.0 ft | 10.0 kg /<br>22.0 lbs | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br>2. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span> | #49 |
 
 ---
 
@@ -99,9 +105,9 @@ Silcoon has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Harden | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
-| 7 | Harden | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 30 |
-| 7 | Iron Defense | ![steel](../assets/types/steel.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| 1 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
+| 7 | <span class="tooltip" title="The user stiffens all the muscles in its body to raise its Defense stat. ">Harden</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 30 |
+| 7 | <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 15 |
 
 ### TM Moves
 
@@ -113,5 +119,5 @@ Silcoon cannot learn any moves by breeding.
 
 | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- |
-| Iron Defense | ![steel](../assets/types/steel.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 15 |
+| <span class="tooltip" title="The user hardens its body’s surface like iron, sharply raising its Defense stat.">Iron Defense</span> | ![steel](../assets/types/steel.png "Steel"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 15 |
 

@@ -1,14 +1,26 @@
-# Magikarp (Fish Pokémon)
+# #129 Magikarp (Fish Pokémon)
 
 | Official Artwork | Shiny Artwork |
-| --- | --- |
-| ![Official Artwork](../assets/sprites/magikarp/official.png) | ![Shiny Artwork](../assets/sprites/magikarp/official_shiny.png) |
+|------------------|---------------|
+| ![Official Artwork](../assets/sprites/magikarp/official.png "Magikarp") | ![Shiny Artwork](../assets/sprites/magikarp/official_shiny.png "Magikarp") |
 
 A MAGIKARP living for many years can leap a mountain using Splash. The move remains useless, though.
 
 ---
 
 ## Media
+
+### Default Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ![Magikarp](../assets/sprites/magikarp/front.gif "Magikarp") | ![Magikarp](../assets/sprites/magikarp/front_shiny.png "Magikarp") | ![Magikarp](../assets/sprites/magikarp/back.png "Magikarp") | ![Magikarp](../assets/sprites/magikarp/back_shiny.png "Magikarp") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ![Magikarp](../assets/sprites/magikarp/front_female.gif "Magikarp") | ![Magikarp](../assets/sprites/magikarp/front_shiny_female.png "Magikarp") | ![Magikarp](../assets/sprites/magikarp/back_female.png "Magikarp") | ![Magikarp](../assets/sprites/magikarp/back_shiny_female.png "Magikarp") |
 
 ### Cries
 
@@ -32,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #129 | ![water](../assets/types/water.png){: width='48'} | 0.9 m | 10.0 kg | 1. Swift-Swim<br>2. Rattled | #23 |
+| #129 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.9 m /<br>3.0 ft | 10.0 kg /<br>22.0 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="This Pokémon's Speed rises one stage with each hit from a damaging dark-, ghost-, or bug-type move.">Rattled</span> | #23 |
 
 ---
 
@@ -93,10 +105,10 @@ Magikarp has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Flail | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 15 |
-| 1 | Splash | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | — | 40 |
-| 1 | Tackle | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 40 | 100 | 35 |
-| 15 | Bounce | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 85 | 5 |
+| 1 | <span class="tooltip" title="The user flails about aimlessly to attack. It becomes more powerful the less HP the user has.">Flail</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 15 |
+| 1 | <span class="tooltip" title="The user just flops and splashes around to no effect at all...  ">Splash</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 40 |
+| 1 | <span class="tooltip" title="A physical attack in which the user charges and slams into the foe with its whole body.">Tackle</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 35 |
+| 15 | <span class="tooltip" title="The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.">Bounce</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 85 | 85 | 5 |
 
 ### TM Moves
 
@@ -108,5 +120,5 @@ Magikarp cannot learn any moves by breeding.
 
 | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- |
-| Bounce | ![flying](../assets/types/flying.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 85 | 85 | 5 |
+| <span class="tooltip" title="The user bounces up high, then drops on the foe on the second turn. It may also paralyze the foe.">Bounce</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 85 | 85 | 5 |
 

@@ -1,14 +1,20 @@
-# Weedle (Hairy Bug Pokémon)
+# #013 Weedle (Hairy Bug Pokémon)
 
 | Official Artwork | Shiny Artwork |
-| --- | --- |
-| ![Official Artwork](../assets/sprites/weedle/official.png) | ![Shiny Artwork](../assets/sprites/weedle/official_shiny.png) |
+|------------------|---------------|
+| ![Official Artwork](../assets/sprites/weedle/official.png "Weedle") | ![Shiny Artwork](../assets/sprites/weedle/official_shiny.png "Weedle") |
 
 It eats its weight in leaves every day. It fends off attackers with the needle on its head.
 
 ---
 
 ## Media
+
+### Default Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ![Weedle](../assets/sprites/weedle/front.gif "Weedle") | ![Weedle](../assets/sprites/weedle/front_shiny.png "Weedle") | ![Weedle](../assets/sprites/weedle/back.png "Weedle") | ![Weedle](../assets/sprites/weedle/back_shiny.png "Weedle") |
 
 ### Cries
 
@@ -32,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #13 | ![bug](../assets/types/bug.png){: width='48'} ![poison](../assets/types/poison.png){: width='48'} | 0.3 m | 3.2 kg | 1. Run-Away<br>2. Shield-Dust | N/A |
+| #13 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.3 m /<br>1.0 ft | 3.2 kg /<br>7.1 lbs | 1. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>2. <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span> | N/A |
 
 ---
 
@@ -95,9 +101,9 @@ Weedle has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Bug Bite | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
-| 1 | Poison Sting | ![poison](../assets/types/poison.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 15 | 100 | 35 |
-| 1 | String Shot | ![bug](../assets/types/bug.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 95 | 40 |
+| 1 | <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
+| 1 | <span class="tooltip" title="The foe is stabbed with a poisonous barb of some sort. It may also poison the target.">Poison Sting</span> | ![poison](../assets/types/poison.png "Poison"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 15 | 100 | 35 |
+| 1 | <span class="tooltip" title="The foe is bound with silk blown from the user’s mouth. It reduces the target’s Speed stat.">String Shot</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 95 | 40 |
 
 ### TM Moves
 

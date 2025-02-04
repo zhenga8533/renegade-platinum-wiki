@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 from util.file import load
-from util.format import validate_pokemon_form
+from util.format import verify_pokemon_form
 from util.logger import Logger
 import json
 import logging
@@ -27,16 +27,17 @@ def save_media(media_path: str, media: str, logger: Logger) -> None:
 def fetch_media(pokemon, POKEMON_INPUT_PATH, logger):
     name = pokemon["name"]
     data = json.loads(load(POKEMON_INPUT_PATH + name + ".json", logger))
-    species = data["species"]
-    id = str(data["id"])
     forms = data.get("forms")
 
     for form in forms:
-        if form != name and not validate_pokemon_form(form, logger):
+        if form != name and not verify_pokemon_form(form, logger):
             continue
 
+        form_data = load(POKEMON_INPUT_PATH + form + ".json", logger)
+        form_data = json.loads(form_data) if form_data != "" else data
+
         # Official artwork
-        sprites = data["sprites"]
+        sprites = form_data["sprites"]
         official_artwork = sprites["other"]["official-artwork"]
         official = official_artwork["front_default"]
         official_shiny = official_artwork["front_shiny"]
@@ -53,26 +54,28 @@ def fetch_media(pokemon, POKEMON_INPUT_PATH, logger):
         # Save all sprites
         for key in sprite_data:
             sprite = sprite_data[key]
-            sprite = sprite.replace(id, id + form.replace(species, ""))
+            logger.log(logging.INFO, f"Fetching sprite for {form} from {sprite}.")
             response = requests.get(sprite)
             save_media(f"../docs/assets/sprites/{form}/{key}.png", response.content, logger)
 
         # Save cries
         cries = {
-            "latest": data["cry_latest"],
-            "legacy": data["cry_legacy"],
+            "latest": form_data["cry_latest"] or form_data["cry_legacy"],
+            "legacy": form_data["cry_legacy"] or form_data["cry_latest"],
         }
         for key in cries:
             cry = cries[key]
             if cry is None:
                 continue
+
+            logger.log(logging.INFO, f"Fetching cry for {form} from {cry}.")
             response = requests.get(cry)
             save_media(f"../docs/assets/cries/{form}/{key}.ogg", response.content, logger)
 
 
 def fetch_media_range(start_index: int, end_index: int, pokedex, POKEMON_INPUT_PATH, logger):
     """
-    Fetch and save sprites for a range of Pokémon.
+    Fetch and save media for a range of Pokémon.
 
     :param start_index: The starting index for the Pokémon range.
     :param end_index: The ending index for the Pokémon range.
@@ -93,10 +96,11 @@ def main():
 
     LOG = os.getenv("LOG") == "True"
     LOG_PATH = os.getenv("LOG_PATH")
-    logger = Logger("Sprite Fetcher", LOG_PATH + "sprite_fetcher.log", LOG)
+    logger = Logger("Media Fetcher", LOG_PATH + "media_fetcher.log", LOG)
 
     # Fetch pokedex
     pokedex = requests.get("https://pokeapi.co/api/v2/pokemon/?offset=0&limit=493").json().get("results")
+    logger.log(logging.INFO, pokedex)
 
     # Determine the range for each thread
     THREADS = int(os.getenv("THREADS"))

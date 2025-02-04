@@ -1,14 +1,26 @@
-# Combee (Tiny Bee Pokémon)
+# #415 Combee (Tiny Bee Pokémon)
 
 | Official Artwork | Shiny Artwork |
-| --- | --- |
-| ![Official Artwork](../assets/sprites/combee/official.png) | ![Shiny Artwork](../assets/sprites/combee/official_shiny.png) |
+|------------------|---------------|
+| ![Official Artwork](../assets/sprites/combee/official.png "Combee") | ![Shiny Artwork](../assets/sprites/combee/official_shiny.png "Combee") |
 
 The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.
 
 ---
 
 ## Media
+
+### Default Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ![Combee](../assets/sprites/combee/front.gif "Combee") | ![Combee](../assets/sprites/combee/front_shiny.png "Combee") | ![Combee](../assets/sprites/combee/back.png "Combee") | ![Combee](../assets/sprites/combee/back_shiny.png "Combee") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ![Combee](../assets/sprites/combee/front_female.gif "Combee") | ![Combee](../assets/sprites/combee/front_shiny_female.png "Combee") | N/A | N/A |
 
 ### Cries
 
@@ -32,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #415 | ![bug](../assets/types/bug.png){: width='48'} ![flying](../assets/types/flying.png){: width='48'} | 0.3 m | 5.5 kg | 1. Hustle<br>2. Honey-Gather | #53 |
+| #415 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.3 m /<br>1.0 ft | 5.5 kg /<br>12.1 lbs | 1. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span><br>2. <span class="tooltip" title="The Pokémon may gather Honey from somewhere.">Honey Gather</span> | #53 |
 
 ---
 
@@ -93,16 +105,16 @@ Combee has no alternate forms.
 
 | Lv. | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Bug Bite | ![bug](../assets/types/bug.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | 60 | 100 | 20 |
-| 1 | Bug Buzz | ![bug](../assets/types/bug.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
-| 1 | Gust | ![flying](../assets/types/flying.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 40 | 100 | 35 |
-| 1 | Sweet Scent | ![normal](../assets/types/normal.png){: width='48'} | ![status](../assets/move_category/status.png){: width='36'} | — | 100 | 20 |
+| 1 | <span class="tooltip" title="The user bites the foe. If the foe is holding a Berry, the user eats it and gains its effect.">Bug Bite</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 60 | 100 | 20 |
+| 1 | <span class="tooltip" title="The user vibrates its wings to generate a damaging sound wave. It may also lower the foe’s Sp. Def stat.">Bug Buzz</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
+| 1 | <span class="tooltip" title="A gust of wind is whipped up by wings and launched at the foe to inflict damage. ">Gust</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 40 | 100 | 35 |
+| 1 | <span class="tooltip" title="A sweet scent that lowers the foe’s evasiveness. It also lures wild Pokémon if used in grass, etc.">Sweet Scent</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 20 |
 
 ### TM Moves
 
 | TM | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- | --- |
-| TBD | Bug Buzz | ![bug](../assets/types/bug.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 90 | 100 | 10 |
+| TBD | <span class="tooltip" title="The user vibrates its wings to generate a damaging sound wave. It may also lower the foe’s Sp. Def stat.">Bug Buzz</span> | ![bug](../assets/types/bug.png "Bug"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
 
 ### Egg Moves
 
@@ -111,10 +123,10 @@ Combee cannot learn any moves by breeding.
 
 | Move | Type | Cat. | Power | Acc. | PP |
 | --- | --- | --- | --- | --- | --- |
-| Swift | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | — | 20 |
-| Snore | ![normal](../assets/types/normal.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 50 | 100 | 15 |
-| Mud Slap | ![ground](../assets/types/ground.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 20 | 100 | 10 |
-| Endeavor | ![normal](../assets/types/normal.png){: width='48'} | ![physical](../assets/move_category/physical.png){: width='36'} | — | 100 | 5 |
-| Air Cutter | ![flying](../assets/types/flying.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 95 | 25 |
-| Ominous Wind | ![ghost](../assets/types/ghost.png){: width='48'} | ![special](../assets/move_category/special.png){: width='36'} | 60 | 100 | 5 |
+| <span class="tooltip" title="Star-shaped rays are shot at the foe. This attack never misses. ">Swift</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | — | 20 |
+| <span class="tooltip" title="An attack that can be used only if the user is asleep. The harsh noise may also make the foe flinch.">Snore</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 50 | 100 | 15 |
+| <span class="tooltip" title="The user hurls mud in the foe’s face to inflict damage and lower its accuracy. ">Mud Slap</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 20 | 100 | 10 |
+| <span class="tooltip" title="An attack move that cuts down the foe’s HP to equal the user’s HP. ">Endeavor</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | — | 100 | 5 |
+| <span class="tooltip" title="The user launches razorlike wind to slash the foe. It has a high critical-hit ratio.">Air Cutter</span> | ![flying](../assets/types/flying.png "Flying"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | 95 | 25 |
+| <span class="tooltip" title="The user creates a gust of repulsive wind. It may also raise all the user’s stats at once.">Ominous Wind</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | 100 | 5 |
 
