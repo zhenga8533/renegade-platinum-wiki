@@ -1,5 +1,6 @@
 from dotenv import load_dotenv
 from util.file import load
+from util.format import format_id
 from util.logger import Logger
 import glob
 import json
@@ -8,15 +9,15 @@ import os
 
 
 load_dotenv()
-MOVES_INPUT_PATH = os.getenv("MOVES_INPUT_PATH")
+MOVE_INPUT_PATH = os.getenv("MOVE_INPUT_PATH")
 
 LOG = os.getenv("LOG") == "True"
 LOG_PATH = os.getenv("LOG_PATH")
-logger = Logger("Move Loader", LOG_PATH + "moves.log", LOG)
+logger = Logger("Move Loader", LOG_PATH + "move.log", LOG)
 
 moves = {}
 
-files = glob.glob(f"{MOVES_INPUT_PATH}*.json")
+files = glob.glob(f"{MOVE_INPUT_PATH}*.json")
 for file in files:
     data = json.loads(load(file, logger))
     name = data["name"]
@@ -31,8 +32,9 @@ def get_move(name: str) -> dict:
     :return: The move data.
     """
 
-    if name in moves:
-        return moves[name]
+    id = format_id(name)
+    if id in moves:
+        return moves[id]
     else:
         logger.log(logging.ERROR, f"Move {name} not found")
         return None

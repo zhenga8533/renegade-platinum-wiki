@@ -8,8 +8,8 @@ import os
 import re
 
 
-def update_move(move, changes, MOVES_INPUT_PATH, logger):
-    data = json.loads(load(MOVES_INPUT_PATH + move + ".json", logger))
+def update_move(move, changes, MOVE_INPUT_PATH, logger):
+    data = json.loads(load(MOVE_INPUT_PATH + move + ".json", logger))
 
     for key, value in changes.items():
         if key == "effect":
@@ -37,7 +37,7 @@ def update_move(move, changes, MOVES_INPUT_PATH, logger):
         else:
             logger.log(logging.WARNING, f"Attribute {key} not found in move {move}!")
 
-    save(MOVES_INPUT_PATH + move + ".json", json.dumps(data, indent=4), logger)
+    save(MOVE_INPUT_PATH + move + ".json", json.dumps(data, indent=4), logger)
 
 
 def main():
@@ -45,7 +45,7 @@ def main():
     load_dotenv()
     INPUT_PATH = os.getenv("INPUT_PATH")
     OUTPUT_PATH = os.getenv("OUTPUT_PATH")
-    MOVES_INPUT_PATH = os.getenv("MOVES_INPUT_PATH")
+    MOVE_INPUT_PATH = os.getenv("MOVE_INPUT_PATH")
 
     LOG = os.getenv("LOG") == "True"
     LOG_PATH = os.getenv("LOG_PATH")
@@ -75,7 +75,7 @@ def main():
                 md += "\n"
                 parse_change = False
             if curr_move:
-                update_move(curr_move, changes, MOVES_INPUT_PATH, logger)
+                update_move(curr_move, changes, MOVE_INPUT_PATH, logger)
                 curr_move = None
                 changes = {}
         elif next_line.startswith("="):

@@ -1,7 +1,10 @@
 from dotenv import load_dotenv
+from util.ability import get_ability
 from util.file import download_file, load, save
 from util.format import find_pokemon_sprite, find_trainer_sprite, format_id
+from util.item import get_item
 from util.logger import Logger
+from util.move import get_move
 import json
 import logging
 import os
@@ -37,17 +40,15 @@ def parse_pokemon_table(line: str, logger: Logger) -> str:
 
     # Load item data
     if item != "No Item":
-        ITEM_INPUT_PATH = os.getenv("ITEM_INPUT_PATH")
-        item_data = json.loads(load(ITEM_INPUT_PATH + format_id(item) + ".json", logger))
-        item_effect = item_data["flavor_text_entries"]["platinum"].replace("\n", " ")
+        item_data = get_item(item)
+        item_effect = item_data["flavor_text_entries"].get("platinum", item_data["effect"]).replace("\n", " ")
         item_path = f"../docs/assets/items/{format_id(item, symbol="_")}.png"
         if not os.path.exists(item_path):
             download_file(item_path, item_data["sprite"], logger)
 
     # Load ability data
-    ABILITY_INPUT_PATH = os.getenv("ABILITY_INPUT_PATH")
-    ability_data = json.loads(load(ABILITY_INPUT_PATH + format_id(ability) + ".json", logger))
-    ability_effect = ability_data["flavor_text_entries"]["platinum"].replace("\n", " ")
+    ability_data = get_ability(ability)
+    ability_effect = ability_data["flavor_text_entries"].get("platinum", ability_data["effect"]).replace("\n", " ")
 
     # Load nature data
     NATURE_INPUT_PATH = os.getenv("NATURE_INPUT_PATH")
@@ -69,14 +70,12 @@ def parse_pokemon_table(line: str, logger: Logger) -> str:
     )
 
     # Load move data
-    MOVES_INPUT_PATH = os.getenv("MOVES_INPUT_PATH")
     for i, move in enumerate(moves, 1):
-        move_id = format_id(move)
-        if move_id == "":
+        if move == "—":
             table += f"{i}. {move}<br>"
             continue
 
-        move_data = json.loads(load(MOVES_INPUT_PATH + move_id + ".json", logger))
+        move_data = get_move(move)
         move_effect = move_data["effect"]
         move_text = move_data["flavor_text_entries"].get("platinum", move_effect).replace("\n", " ")
         table += f'{i}. <span class="tooltip" title="{move_text}">{move}</span><br>'

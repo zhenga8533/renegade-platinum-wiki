@@ -1,5 +1,6 @@
 from dotenv import load_dotenv
 from util.file import load
+from util.format import format_id
 from util.logger import Logger
 import glob
 import json
@@ -31,8 +32,9 @@ def get_ability(name: str) -> dict:
     :return: The ability data.
     """
 
-    if name in abilities:
-        return abilities[name]
+    id = format_id(name)
+    if id in abilities:
+        return abilities[id]
     else:
         logger.log(logging.ERROR, f"Ability {name} not found")
         return None

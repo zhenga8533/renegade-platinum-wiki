@@ -3,7 +3,7 @@ from util.ability import get_ability
 from util.file import load, save, verify_asset_path
 from util.format import find_pokemon_sprite, format_id, revert_id, verify_pokemon_form
 from util.logger import Logger
-from util.moves import get_move
+from util.move import get_move
 import glob
 import json
 import logging
@@ -399,7 +399,7 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     md += '!!! warning "WARNING"\n\n'
     md += "    Specific move information may be incorrect. "
     md += "However, the general movepool should be accurate; this includes changes made in Renegade Platinum.\n\n"
-    MOVES_INPUT_PATH = os.getenv("MOVES_INPUT_PATH")
+    MOVE_INPUT_PATH = os.getenv("MOVE_INPUT_PATH")
 
     # Level Up Moves
     md += "### Level Up Moves\n\n"
@@ -408,7 +408,7 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
     else:
         level_up_moves.sort(key=lambda x: (x["level_learned_at"], x["name"]))
         md += parse_moves(
-            level_up_moves, ["Lv.", "Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key, MOVES_INPUT_PATH, logger
+            level_up_moves, ["Lv.", "Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key, MOVE_INPUT_PATH, logger
         )
 
     # TM Moves
@@ -422,7 +422,7 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
             tm_moves_data.append(move_data)
         tm_moves_data.sort(key=lambda x: x["machines"].get(move_key, "ZZZ"))
         md += parse_moves(
-            tm_moves_data, ["TM", "Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key, MOVES_INPUT_PATH, logger
+            tm_moves_data, ["TM", "Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key, MOVE_INPUT_PATH, logger
         )
 
     # Egg Moves
@@ -431,7 +431,7 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
         md += f"{pokemon_name} cannot learn any moves by breeding.\n"
     else:
         md += parse_moves(
-            egg_moves, ["Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key, MOVES_INPUT_PATH, logger
+            egg_moves, ["Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key, MOVE_INPUT_PATH, logger
         )
 
     # Tutor Moves
@@ -440,7 +440,7 @@ def to_md(pokemon: dict, pokemon_set: dict, logger: Logger) -> str:
         md += f"{pokemon_name} cannot learn any moves from tutors.\n"
     else:
         md += parse_moves(
-            tutor_moves, ["Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key, MOVES_INPUT_PATH, logger
+            tutor_moves, ["Move", "Type", "Cat.", "Power", "Acc.", "PP"], move_key, MOVE_INPUT_PATH, logger
         )
 
     return md
