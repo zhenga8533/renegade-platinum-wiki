@@ -5,7 +5,7 @@
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
 | ![Lass Natalie](../../assets/trainers/lass.png "Lass Natalie")<br>Lass Natalie | ![Sentret](../../assets/sprites/sentret/front.gif "Sentret")<br>[Sentret](../../pokemon/sentret.md/)<br>Lv. 7 | ![Bidoof](../../assets/sprites/bidoof/front.gif "Bidoof")<br>[Bidoof](../../pokemon/bidoof.md/)<br>Lv. 7 |
-| ![Youngster Tristan [(!)](#rematches)](../../assets/trainers/youngster.png "Youngster Tristan [(!)](#rematches)")<br>Youngster Tristan [(!)](#rematches) | ![Hoothoot](../../assets/sprites/hoothoot/front.gif "Hoothoot")<br>[Hoothoot](../../pokemon/hoothoot.md/)<br>Lv. 7 | ![Starly](../../assets/sprites/starly/front.gif "Starly")<br>[Starly](../../pokemon/starly.md/)<br>Lv. 7 |
+| ![Youngster Tristan (!)](../../assets/trainers/youngster.png "Youngster Tristan (!)")<br>Youngster Tristan [(!)](#rematches) | ![Hoothoot](../../assets/sprites/hoothoot/front.gif "Hoothoot")<br>[Hoothoot](../../pokemon/hoothoot.md/)<br>Lv. 7 | ![Starly](../../assets/sprites/starly/front.gif "Starly")<br>[Starly](../../pokemon/starly.md/)<br>Lv. 7 |
 | ![Youngster Logan](../../assets/trainers/youngster.png "Youngster Logan")<br>Youngster Logan | ![Growlithe](../../assets/sprites/growlithe/front.gif "Growlithe")<br>[Growlithe](../../pokemon/growlithe.md/)<br>Lv. 7 | ![Burmy](../../assets/sprites/burmy/front.gif "Burmy")<br>[Burmy](../../pokemon/burmy.md/)<br>Lv. 7 | ![Zigzagoon](../../assets/sprites/zigzagoon/front.gif "Zigzagoon")<br>[Zigzagoon](../../pokemon/zigzagoon.md/)<br>Lv. 7 |
 
 

@@ -10,7 +10,7 @@
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
 | ![Lass Sarah](../../assets/trainers/lass.png "Lass Sarah")<br>Lass Sarah | ![Shinx](../../assets/sprites/shinx/front.gif "Shinx")<br>[Shinx](../../pokemon/shinx.md/)<br>Lv. 8 | ![Nidoran F](../../assets/sprites/nidoran-f/front.gif "Nidoran F")<br>[Nidoran F](../../pokemon/nidoran-f.md/)<br>Lv. 8 | ![Pidgey](../../assets/sprites/pidgey/front.gif "Pidgey")<br>[Pidgey](../../pokemon/pidgey.md/)<br>Lv. 8 |
-| ![Lass Samantha [(!)](#rematches)](../../assets/trainers/lass.png "Lass Samantha [(!)](#rematches)")<br>Lass Samantha [(!)](#rematches) | ![Oddish](../../assets/sprites/oddish/front.gif "Oddish")<br>[Oddish](../../pokemon/oddish.md/)<br>Lv. 8 | ![Budew](../../assets/sprites/budew/front.gif "Budew")<br>[Budew](../../pokemon/budew.md/)<br>Lv. 8 | ![Bellsprout](../../assets/sprites/bellsprout/front.gif "Bellsprout")<br>[Bellsprout](../../pokemon/bellsprout.md/)<br>Lv. 8 |
+| ![Lass Samantha (!)](../../assets/trainers/lass.png "Lass Samantha (!)")<br>Lass Samantha [(!)](#rematches) | ![Oddish](../../assets/sprites/oddish/front.gif "Oddish")<br>[Oddish](../../pokemon/oddish.md/)<br>Lv. 8 | ![Budew](../../assets/sprites/budew/front.gif "Budew")<br>[Budew](../../pokemon/budew.md/)<br>Lv. 8 | ![Bellsprout](../../assets/sprites/bellsprout/front.gif "Bellsprout")<br>[Bellsprout](../../pokemon/bellsprout.md/)<br>Lv. 8 |
 | ![Youngster Tyler](../../assets/trainers/youngster.png "Youngster Tyler")<br>Youngster Tyler | ![Magikarp](../../assets/sprites/magikarp/front.gif "Magikarp")<br>[Magikarp](../../pokemon/magikarp.md/)<br>Lv. 11 |
 
 
@@ -33,7 +33,7 @@
 | Trainer | P1 | P2 | P3 | P4 | P5 | P6 |
 |:-------:|:--:|:--:|:--:|:--:|:--:|:--:|
 | ![Aroma Lady Taylor](../../assets/trainers/aroma_lady.png "Aroma Lady Taylor")<br>Aroma Lady Taylor | ![Cherubi](../../assets/sprites/cherubi/front.gif "Cherubi")<br>[Cherubi](../../pokemon/cherubi.md/)<br>Lv. 13 | ![Hoppip](../../assets/sprites/hoppip/front.gif "Hoppip")<br>[Hoppip](../../pokemon/hoppip.md/)<br>Lv. 13 | ![Shroomish](../../assets/sprites/shroomish/front.gif "Shroomish")<br>[Shroomish](../../pokemon/shroomish.md/)<br>Lv. 13 |
-| ![Bug Catcher Brandon [(!)](#rematches)](../../assets/trainers/bug_catcher.png "Bug Catcher Brandon [(!)](#rematches)")<br>Bug Catcher Brandon [(!)](#rematches) | ![Wurmple](../../assets/sprites/wurmple/front.gif "Wurmple")<br>[Wurmple](../../pokemon/wurmple.md/)<br>Lv. 14 | ![Kricketune](../../assets/sprites/kricketune/front.gif "Kricketune")<br>[Kricketune](../../pokemon/kricketune.md/)<br>Lv. 14 |
+| ![Bug Catcher Brandon (!)](../../assets/trainers/bug_catcher.png "Bug Catcher Brandon (!)")<br>Bug Catcher Brandon [(!)](#rematches) | ![Wurmple](../../assets/sprites/wurmple/front.gif "Wurmple")<br>[Wurmple](../../pokemon/wurmple.md/)<br>Lv. 14 | ![Kricketune](../../assets/sprites/kricketune/front.gif "Kricketune")<br>[Kricketune](../../pokemon/kricketune.md/)<br>Lv. 14 |
 | ![Twins Liv & Liz](../../assets/trainers/twins.png "Twins Liv & Liz")<br>Twins Liv & Liz | ![Plusle](../../assets/sprites/plusle/front.gif "Plusle")<br>[Plusle](../../pokemon/plusle.md/)<br>Lv. 15 | ![Minun](../../assets/sprites/minun/front.gif "Minun")<br>[Minun](../../pokemon/minun.md/)<br>Lv. 15 |
 
 

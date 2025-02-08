@@ -61,6 +61,19 @@
 
 ## Route 202
 
+<h3>Generic Trainers</h3>
+
+1. Lass Natalie
+	1. Lv. 7 [Sentret](../pokemon/sentret.md/)
+	2. Lv. 7 [Bidoof](../pokemon/bidoof.md/)
+1. Youngster Tristan (!)
+	1. Lv. 7 [Hoothoot](../pokemon/hoothoot.md/)
+	2. Lv. 7 [Starly](../pokemon/starly.md/)
+1. Youngster Logan
+	1. Lv. 7 [Growlithe](../pokemon/growlithe.md/)
+	2. Lv. 7 [Burmy](../pokemon/burmy.md/)
+	3. Lv. 7 [Zigzagoon](../pokemon/zigzagoon.md/)
+
 <h3>Rematches</h3>
 
 1. Youngster Tristan (3)
@@ -169,6 +182,19 @@
 
 ## Route 204 (South)
 
+<h3>Generic Trainers</h3>
+
+1. Lass Sarah
+	1. Lv. 8 [Shinx](../pokemon/shinx.md/)
+	2. Lv. 8 [Nidoran F](../pokemon/nidoran-f.md/)
+	3. Lv. 8 [Pidgey](../pokemon/pidgey.md/)
+1. Lass Samantha (!)
+	1. Lv. 8 [Oddish](../pokemon/oddish.md/)
+	2. Lv. 8 [Budew](../pokemon/budew.md/)
+	3. Lv. 8 [Bellsprout](../pokemon/bellsprout.md/)
+1. Youngster Tyler
+	1. Lv. 11 [Magikarp](../pokemon/magikarp.md/)
+
 <h3>Rematches</h3>
 
 1. Lass Samantha (3)
@@ -188,6 +214,26 @@
 ---
 
 ## Route 203
+
+<h3>Generic Trainers</h3>
+
+1. Youngster Michael
+	1. Lv. 9 [Kricketot](../pokemon/kricketot.md/)
+	2. Lv. 9 [Zubat](../pokemon/zubat.md/)
+	3. Lv. 9 [Rattata](../pokemon/rattata.md/)
+1. Youngster Dallas (!)
+	1. Lv. 10 [Shinx](../pokemon/shinx.md/)
+	2. Lv. 10 [Sandshrew](../pokemon/sandshrew.md/)
+1. Youngster Sebastian
+	1. Lv. 10 [Makuhita](../pokemon/makuhita.md/)
+	2. Lv. 10 [Machop](../pokemon/machop.md/)
+1. Lass Kaitlin
+	1. Lv. 9 [Spearow](../pokemon/spearow.md/)
+	2. Lv. 9 [Cubone](../pokemon/cubone.md/)
+	3. Lv. 9 [Azurill](../pokemon/azurill.md/)
+1. Lass Madeline (!)
+	1. Lv. 10 [Psyduck](../pokemon/psyduck.md/)
+	2. Lv. 10 [Sunkern](../pokemon/sunkern.md/)
 
 <h3>Rematches</h3>
 
@@ -606,6 +652,19 @@
 
 ## Route 204 (North)
 
+<h3>Generic Trainers</h3>
+
+1. Aroma Lady Taylor
+	1. Lv. 13 [Cherubi](../pokemon/cherubi.md/)
+	2. Lv. 13 [Hoppip](../pokemon/hoppip.md/)
+	3. Lv. 13 [Shroomish](../pokemon/shroomish.md/)
+1. Bug Catcher Brandon (!)
+	1. Lv. 14 [Wurmple](../pokemon/wurmple.md/)
+	2. Lv. 14 [Kricketune](../pokemon/kricketune.md/)
+1. Twins Liv & Liz
+	1. Lv. 15 [Plusle](../pokemon/plusle.md/)
+	2. Lv. 15 [Minun](../pokemon/minun.md/)
+
 <h3>Rematches</h3>
 
 1. Bug Catcher Brandon (3)
@@ -709,6 +768,36 @@
 ---
 
 ## Route 205 (South)
+
+<h3>Generic Trainers</h3>
+
+1. Hiker Daniel
+	1. Lv. 15 [Diglett](../pokemon/diglett.md/)
+	2. Lv. 15 [Shieldon](../pokemon/shieldon.md/)
+	3. Lv. 15 [Numel](../pokemon/numel.md/)
+1. Aroma Lady Elizabeth (!)
+	1. Lv. 16 [Chikorita](../pokemon/chikorita.md/)
+	2. Lv. 16 [Bulbasaur](../pokemon/bulbasaur.md/)
+1. Camper Jacob
+	1. Lv. 15 [Ponyta](../pokemon/ponyta.md/)
+	2. Lv. 15 [Mareep](../pokemon/mareep.md/)
+	3. Lv. 15 [Buizel](../pokemon/buizel.md/)
+1. Picnicker Siena
+	1. Lv. 17 [Pachirisu](../pokemon/pachirisu.md/)
+1. Hiker Nicholas
+	1. Lv. 16 [Shellos](../pokemon/shellos.md/)
+	2. Lv. 16 [Onix](../pokemon/onix.md/)
+1. Battle Girl Kelsey
+	1. Lv. 16 [Machop](../pokemon/machop.md/)
+	2. Lv. 16 [Mankey](../pokemon/mankey.md/)
+	3. Lv. 16 [Meditite](../pokemon/meditite.md/)
+1. Picnicker Karina (!)
+	1. Lv. 16 [Piplup](../pokemon/piplup.md/)
+	2. Lv. 16 [Chimchar](../pokemon/chimchar.md/)
+1. Camper Zackary (!)
+	1. Lv. 15 [Aipom](../pokemon/aipom.md/)
+	2. Lv. 15 [Slakoth](../pokemon/slakoth.md/)
+	3. Lv. 15 [Taillow](../pokemon/taillow.md/)
 
 <h3>Rematches</h3>
 
@@ -823,6 +912,20 @@
 
 ## Route 205 (North)
 
+<h3>Generic Trainers</h3>
+
+1. Fisherman Joseph (!)
+	1. Lv. 18 [Goldeen](../pokemon/goldeen.md/)
+	2. Lv. 18 [Poliwag](../pokemon/poliwag.md/)
+	3. Lv. 18 [Corphish](../pokemon/corphish.md/)
+1. Fisherman Andrew
+	1. Lv. 18 [Magikarp](../pokemon/magikarp.md/)
+	2. Lv. 18 [Feebas](../pokemon/feebas.md/)
+	3. Lv. 18 [Magikarp](../pokemon/magikarp.md/)
+1. Fisherman Zachary
+	1. Lv. 19 [Krabby](../pokemon/krabby.md/)
+	2. Lv. 19 [Finneon](../pokemon/finneon.md/)
+
 <h3>Rematches</h3>
 
 1. Fisherman Joseph (5)
@@ -838,6 +941,21 @@
 ---
 
 ## Route 211 (West)
+
+<h3>Generic Trainers</h3>
+
+1. Ninja Boy Zach (!)
+	1. Lv. 19 [Zubat](../pokemon/zubat.md/)
+	2. Lv. 19 [Skorupi](../pokemon/skorupi.md/)
+	3. Lv. 19 [Zubat](../pokemon/zubat.md/)
+1. Hiker Louis
+	1. Lv. 19 [Geodude](../pokemon/geodude.md/)
+	2. Lv. 19 [Slugma](../pokemon/slugma.md/)
+	3. Lv. 19 [Beldum](../pokemon/beldum.md/)
+1. Bird Keeper Alexandra
+	1. Lv. 20 [Natu](../pokemon/natu.md/)
+	2. Lv. 20 [Swablu](../pokemon/swablu.md/)
+	3. Lv. 20 [Staravia](../pokemon/staravia.md/)
 
 <h3>Rematches</h3>
 
@@ -859,6 +977,17 @@
 
 ## Route 211 (East)
 
+<h3>Generic Trainers</h3>
+
+1. Bird Keeper Katherine
+	1. Lv. 22 [Noctowl](../pokemon/noctowl.md/)
+1. Ninja Boy Nick
+	1. Lv. 20 [Ninjask](../pokemon/ninjask.md/)
+1. Black Belt Sean
+	1. Lv. 22 [Heracross](../pokemon/heracross.md/)
+1. Ruin Maniac Harry (!)
+	1. Lv. 21 [Aerodactyl](../pokemon/aerodactyl.md/)
+
 <h3>Rematches</h3>
 
 1. Ruin Maniac Harry (8)
@@ -870,6 +999,37 @@
 ---
 
 ## Route 216
+
+<h3>Generic Trainers</h3>
+
+1. Ace Trainer Blake
+	1. Lv. 23 [Porygon](../pokemon/porygon.md/)
+	2. Lv. 23 [Vigoroth](../pokemon/vigoroth.md/)
+1. Ace Trainer Maria
+	1. Lv. 22 [Quagsire](../pokemon/quagsire.md/)
+	2. Lv. 22 [Quilava](../pokemon/quilava.md/)
+	3. Lv. 22 [Sudowoodo](../pokemon/sudowoodo.md/)
+1. Ace Trainer Laura
+	1. Lv. 23 [Togetic](../pokemon/togetic.md/)
+	2. Lv. 23 [Swellow](../pokemon/swellow.md/)
+1. Skier Edward (!)
+	1. Lv. 20 [Snover](../pokemon/snover.md/)
+	2. Lv. 20 [Snorunt](../pokemon/snorunt.md/)
+	3. Lv. 20 [Swinub](../pokemon/swinub.md/)
+1. Ace Trainer Garrett
+	1. Lv. 22 [Mr. Mime](../pokemon/mr-mime.md/)
+	2. Lv. 22 [Nuzleaf](../pokemon/nuzleaf.md/)
+	3. Lv. 22 [Scyther](../pokemon/scyther.md/)
+1. Black Belt Philip (!)
+	1. Lv. 56 [Hariyama](../pokemon/hariyama.md/)
+	2. Lv. 56 [Machamp](../pokemon/machamp.md/)
+1. Skier Bradley
+	1. Lv. 54 [Piloswine](../pokemon/piloswine.md/)
+	2. Lv. 54 [Glalie](../pokemon/glalie.md/)
+1. Skier Kaitlyn
+	1. Lv. 55 [Lapras](../pokemon/lapras.md/)
+1. Skier Andrea (!)
+	1. Lv. 55 [Abomasnow](../pokemon/abomasnow.md/)
 
 <h3>Rematches</h3>
 
@@ -894,6 +1054,34 @@
 ---
 
 ## Route 206
+
+<h3>Generic Trainers</h3>
+
+1. Cyclist Axel
+	1. Lv. 19 [Pichu](../pokemon/pichu.md/)
+	2. Lv. 19 [Pichu](../pokemon/pichu.md/)
+	3. Lv. 19 [Pikachu](../pokemon/pikachu.md/)
+1. Cyclist Megan
+	1. Lv. 21 [Pidgeotto](../pokemon/pidgeotto.md/)
+1. Cyclist James
+	1. Lv. 20 [Ponyta](../pokemon/ponyta.md/)
+	2. Lv. 20 [Flaaffy](../pokemon/flaaffy.md/)
+1. Cyclist Nicole
+	1. Lv. 19 [Taillow](../pokemon/taillow.md/)
+	2. Lv. 19 [Doduo](../pokemon/doduo.md/)
+	3. Lv. 19 [Wingull](../pokemon/wingull.md/)
+1. Cyclist John (!)
+	1. Lv. 21 [Farfetch'd](../pokemon/farfetchd.md/)
+1. Cyclist Kayla (!)
+	1. Lv. 19 [Voltorb](../pokemon/voltorb.md/)
+	2. Lv. 19 [Magnemite](../pokemon/magnemite.md/)
+	3. Lv. 19 [Electrike](../pokemon/electrike.md/)
+1. Cyclist Ryan
+	1. Lv. 21 [Luxio](../pokemon/luxio.md/)
+1. Cyclist Rachel
+	1. Lv. 21 [Jolteon](../pokemon/jolteon.md/)
+1. Hiker Theodore
+	1. Lv. 26 [Torkoal](../pokemon/torkoal.md/)
 
 <h3>Rematches</h3>
 
@@ -1069,6 +1257,30 @@
 ---
 
 ## Route 207
+
+<h3>Generic Trainers</h3>
+
+1. Camper Anthony
+	1. Lv. 24 [Magby](../pokemon/magby.md/)
+	2. Lv. 24 [Trapinch](../pokemon/trapinch.md/)
+	3. Lv. 24 [Charmander](../pokemon/charmander.md/)
+1. Picnicker Lauren
+	1. Lv. 24 [Smoochum](../pokemon/smoochum.md/)
+	2. Lv. 24 [Snubbull](../pokemon/snubbull.md/)
+	3. Lv. 24 [Treecko](../pokemon/treecko.md/)
+1. Youngster Austin
+	1. Lv. 25 [Lombre](../pokemon/lombre.md/)
+	2. Lv. 25 [Gligar](../pokemon/gligar.md/)
+1. Hiker Justin
+	1. Lv. 25 [Graveler](../pokemon/graveler.md/)
+	2. Lv. 25 [Sandslash](../pokemon/sandslash.md/)
+1. Hiker Kevin
+	1. Lv. 25 [Dunsparce](../pokemon/dunsparce.md/)
+	2. Lv. 25 [Dunsparce](../pokemon/dunsparce.md/)
+1. Battle Girl Helen (!)
+	1. Lv. 26 [Tyrogue](../pokemon/tyrogue.md/)
+	2. Lv. 26 [Meditite](../pokemon/meditite.md/)
+	3. Lv. 26 [Hariyama](../pokemon/hariyama.md/)
 
 <h3>Rematches</h3>
 
@@ -1371,6 +1583,29 @@
 
 ## Route 208
 
+<h3>Generic Trainers</h3>
+
+1. Hiker Robert
+	1. Lv. 28 [Marowak](../pokemon/marowak.md/)
+1. Hiker Jonathan
+	1. Lv. 26 [Hippopotas](../pokemon/hippopotas.md/)
+	2. Lv. 26 [Shuckle](../pokemon/shuckle.md/)
+	3. Lv. 26 [Bronzor](../pokemon/bronzor.md/)
+1. Black Belt Kyle
+	1. Lv. 29 [Machoke](../pokemon/machoke.md/)
+1. Aroma Lady Hannah
+	1. Lv. 27 [Roselia](../pokemon/roselia.md/)
+	2. Lv. 27 [Sunflora](../pokemon/sunflora.md/)
+1. Artist William (!)
+	1. Lv. 26 [Smeargle](../pokemon/smeargle.md/)
+	2. Lv. 26 [Smeargle](../pokemon/smeargle.md/)
+	3. Lv. 26 [Smeargle](../pokemon/smeargle.md/)
+1. Fisherman Cody
+	1. Lv. 44 [Whiscash](../pokemon/whiscash.md/)
+	2. Lv. 44 [Gyarados](../pokemon/gyarados.md/)
+1. Hiker Alexander
+	1. Lv. 28 [Graveler](../pokemon/graveler.md/)
+
 <h3>Rematches</h3>
 
 1. Artist William (5)
@@ -1625,6 +1860,61 @@
 
 ## Route 212 (North)
 
+<h3>Generic Trainers</h3>
+
+1. Galactic Grunt
+	1. Lv. 29 [Mightyena](../pokemon/mightyena.md/)
+	2. Lv. 29 [Arbok](../pokemon/arbok.md/)
+1. Galactic Grunt
+	1. Lv. 30 [Kricketune](../pokemon/kricketune.md/)
+1. Galactic Grunt
+	1. Lv. 28 [Glameow](../pokemon/glameow.md/)
+	2. Lv. 28 [Koffing](../pokemon/koffing.md/)
+	3. Lv. 28 [Dustox](../pokemon/dustox.md/)
+1. Galactic Grunt
+	1. Lv. 29 [Lunatone](../pokemon/lunatone.md/)
+	2. Lv. 29 [Solrock](../pokemon/solrock.md/)
+1. Galactic Grunt
+	1. Lv. 29 [Solrock](../pokemon/solrock.md/)
+	2. Lv. 29 [Lunatone](../pokemon/lunatone.md/)
+1. Galactic Grunt
+	1. Lv. 30 [Nincada](../pokemon/nincada.md/)
+1. Galactic Grunt
+	1. Lv. 30 [Ninjask](../pokemon/ninjask.md/)
+1. Galactic Grunt
+	1. Lv. 30 [Shedinja](../pokemon/shedinja.md/)
+1. Galactic Grunt
+	1. Lv. 29 [Beedrill](../pokemon/beedrill.md/)
+	2. Lv. 29 [Golbat](../pokemon/golbat.md/)
+1. Galactic Grunt
+	1. Lv. 28 [Croagunk](../pokemon/croagunk.md/)
+	2. Lv. 28 [Seviper](../pokemon/seviper.md/)
+	3. Lv. 28 [Butterfree](../pokemon/butterfree.md/)
+1. Galactic Grunt
+	1. Lv. 30 [Murkrow](../pokemon/murkrow.md/)
+1. Galactic Grunt
+	1. Lv. 28 [Stunky](../pokemon/stunky.md/)
+	2. Lv. 28 [Venonat](../pokemon/venonat.md/)
+	3. Lv. 28 [Arbok](../pokemon/arbok.md/)
+1. Rich Boy Jason
+	1. Lv. 30 [Prinplup](../pokemon/prinplup.md/)
+	2. Lv. 30 [Azumarill](../pokemon/azumarill.md/)
+1. Lady Melissa (!)
+	1. Lv. 30 [Cherrim](../pokemon/cherrim.md/)
+	2. Lv. 30 [Jumpluff](../pokemon/jumpluff.md/)
+1. Gentleman Jeremy (!)
+	1. Lv. 31 [Chatot](../pokemon/chatot.md/)
+1. Socialite Reina (!)
+	1. Lv. 31 [Delcatty](../pokemon/delcatty.md/)
+1. Policeman Bobby
+	1. Lv. 31 [Noctowl](../pokemon/noctowl.md/)
+1. Policeman Alex
+	1. Lv. 31 [Machamp](../pokemon/machamp.md/)
+1. Policeman Dylan
+	1. Lv. 31 [Arcanine](../pokemon/arcanine.md/)
+1. Policeman Caleb
+	1. Lv. 31 [Granbull](../pokemon/granbull.md/)
+
 <h3>Rematches</h3>
 
 1. Lady Melissa (5)
@@ -1710,6 +2000,40 @@
 ---
 
 ## Route 209
+
+<h3>Generic Trainers</h3>
+
+1. PKMN Breeder Albert (!)
+	1. Lv. 26 [Tyrogue](../pokemon/tyrogue.md/)
+	2. Lv. 26 [Chingling](../pokemon/chingling.md/)
+	3. Lv. 26 [Bonsly](../pokemon/bonsly.md/)
+	4. Lv. 26 [Magby](../pokemon/magby.md/)
+	5. Lv. 26 [Elekid](../pokemon/elekid.md/)
+	6. Lv. 26 [Mime Jr.](../pokemon/mime-jr.md/)
+1. Twins Emma & Lil
+	1. Lv. 30 [Vaporeon](../pokemon/vaporeon.md/)
+	2. Lv. 30 [Flareon](../pokemon/flareon.md/)
+1. Poke Kid Danielle (!)
+	1. Lv. 28 [Pichu](../pokemon/pichu.md/)
+	2. Lv. 29 [Pikachu](../pokemon/pikachu.md/)
+	3. Lv. 30 [Raichu](../pokemon/raichu.md/)
+1. PKMN Breeder Jennifer (!)
+	1. Lv. 26 [Azurill](../pokemon/azurill.md/)
+	2. Lv. 26 [Togepi](../pokemon/togepi.md/)
+	3. Lv. 26 [Cleffa](../pokemon/cleffa.md/)
+	4. Lv. 26 [Igglybuff](../pokemon/igglybuff.md/)
+	5. Lv. 26 [Smoochum](../pokemon/smoochum.md/)
+	6. Lv. 26 [Budew](../pokemon/budew.md/)
+1. Cowgirl Shelley
+	1. Lv. 30 [Ponyta](../pokemon/ponyta.md/)
+	2. Lv. 30 [Bibarel](../pokemon/bibarel.md/)
+1. Jogger Richard
+	1. Lv. 31 [Dodrio](../pokemon/dodrio.md/)
+1. Jogger Raul
+	1. Lv. 31 [Fearow](../pokemon/fearow.md/)
+1. Young Couple Ty & Sue
+	1. Lv. 31 [Illumise](../pokemon/illumise.md/)
+	2. Lv. 31 [Volbeat](../pokemon/volbeat.md/)
 
 <h3>Rematches</h3>
 
@@ -1814,6 +2138,35 @@
 
 ## Route 210 (South)
 
+<h3>Generic Trainers</h3>
+
+1. Twins Teri & Tia
+	1. Lv. 32 [Furret](../pokemon/furret.md/)
+	2. Lv. 32 [Linoone](../pokemon/linoone.md/)
+1. Jogger Wyatt
+	1. Lv. 33 [Electrode](../pokemon/electrode.md/)
+1. PKMN Breeder Kahlil
+	1. Lv. 31 [Riolu](../pokemon/riolu.md/)
+	2. Lv. 31 [Chingling](../pokemon/chingling.md/)
+	3. Lv. 31 [Munchlax](../pokemon/munchlax.md/)
+1. PKMN Breeder Amber
+	1. Lv. 31 [Mantyke](../pokemon/mantyke.md/)
+	2. Lv. 31 [Happiny](../pokemon/happiny.md/)
+	3. Lv. 31 [Wynaut](../pokemon/wynaut.md/)
+1. Belle & Pa Ava & Matt
+	1. Lv. 33 [Tauros](../pokemon/tauros.md/)
+	2. Lv. 33 [Miltank](../pokemon/miltank.md/)
+1. Rancher Marco (!)
+	1. Lv. 33 [Rapidash](../pokemon/rapidash.md/)
+1. Collector Fernando
+	1. Lv. 31 [Dratini](../pokemon/dratini.md/)
+	2. Lv. 33 [Dragonair](../pokemon/dragonair.md/)
+1. Collector Edwin
+	1. Lv. 31 [Bagon](../pokemon/bagon.md/)
+	2. Lv. 33 [Shelgon](../pokemon/shelgon.md/)
+1. Waitress Kati
+	1. Lv. 33 [Clefable](../pokemon/clefable.md/)
+
 <h3>Rematches</h3>
 
 1. Rancher Marco (8)
@@ -1829,6 +2182,33 @@
 ---
 
 ## Route 215
+
+<h3>Generic Trainers</h3>
+
+1. Black Belt Derek
+	1. Lv. 34 [Combusken](../pokemon/combusken.md/)
+	2. Lv. 34 [Hitmonlee](../pokemon/hitmonlee.md/)
+1. Black Belt Gregory
+	1. Lv. 34 [Primeape](../pokemon/primeape.md/)
+	2. Lv. 34 [Hitmonchan](../pokemon/hitmonchan.md/)
+1. Black Belt Nathaniel
+	1. Lv. 34 [Machoke](../pokemon/machoke.md/)
+	2. Lv. 34 [Hitmontop](../pokemon/hitmontop.md/)
+1. Jogger Scott
+	1. Lv. 34 [Staraptor](../pokemon/staraptor.md/)
+1. Ruin Maniac Calvin
+	1. Lv. 33 [Marowak](../pokemon/marowak.md/)
+	2. Lv. 33 [Rampardos](../pokemon/rampardos.md/)
+1. Jogger Craig (!)
+	1. Lv. 34 [Luxray](../pokemon/luxray.md/)
+1. Ace Trainer Dennis (!)
+	1. Lv. 35 [Gligar](../pokemon/gligar.md/)
+	2. Lv. 35 [Gyarados](../pokemon/gyarados.md/)
+	3. Lv. 35 [Drifblim](../pokemon/drifblim.md/)
+1. Ace Trainer Maya (!)
+	1. Lv. 35 [Lickitung](../pokemon/lickitung.md/)
+	2. Lv. 35 [Gardevoir](../pokemon/gardevoir.md/)
+	3. Lv. 35 [Roserade](../pokemon/roserade.md/)
 
 <h3>Rematches</h3>
 
@@ -1962,6 +2342,39 @@
 
 ## Route 214
 
+<h3>Generic Trainers</h3>
+
+1. PI Carlos (!)
+	1. Lv. 36 [Dugtrio](../pokemon/dugtrio.md/)
+1. Collector Douglas
+	1. Lv. 33 [Jolteon](../pokemon/jolteon.md/)
+	2. Lv. 33 [Vaporeon](../pokemon/vaporeon.md/)
+	3. Lv. 33 [Flareon](../pokemon/flareon.md/)
+1. Collector Brady
+	1. Lv. 33 [Kangaskhan](../pokemon/kangaskhan.md/)
+	2. Lv. 33 [Tropius](../pokemon/tropius.md/)
+	3. Lv. 33 [Swalot](../pokemon/swalot.md/)
+1. Ruin Maniac Bryan
+	1. Lv. 33 [Anorith](../pokemon/anorith.md/)
+	2. Lv. 33 [Lileep](../pokemon/lileep.md/)
+	3. Lv. 33 [Aerodactyl](../pokemon/aerodactyl.md/)
+1. Ruin Maniac Ronald
+	1. Lv. 35 [Relicanth](../pokemon/relicanth.md/)
+1. Collector Jamal
+	1. Lv. 35 [Lapras](../pokemon/lapras.md/)
+1. Beauty Devon
+	1. Lv. 33 [Wormadam](../pokemon/wormadam-plant.md/)
+	2. Lv. 33 [Wormadam](../pokemon/wormadam-plant.md/)
+	3. Lv. 33 [Wormadam](../pokemon/wormadam-plant.md/)
+1. Psychic Mitchell (!)
+	1. Lv. 34 [Kadabra](../pokemon/kadabra.md/)
+	2. Lv. 34 [Grumpig](../pokemon/grumpig.md/)
+	3. Lv. 34 [Hypno](../pokemon/hypno.md/)
+1. Psychic Abigail (!)
+	1. Lv. 34 [Kirlia](../pokemon/kirlia.md/)
+	2. Lv. 34 [Chimecho](../pokemon/chimecho.md/)
+	3. Lv. 34 [Girafarig](../pokemon/girafarig.md/)
+
 <h3>Rematches</h3>
 
 1. PI Carlos (8)
@@ -2036,6 +2449,38 @@
 
 ## Route 213
 
+<h3>Generic Trainers</h3>
+
+1. Beauty Cyndy (!)
+	1. Lv. 37 [Delcatty](../pokemon/delcatty.md/)
+	2. Lv. 37 [Persian](../pokemon/persian.md/)
+1. Fisherman Kenneth
+	1. Lv. 36 [Carvanha](../pokemon/carvanha.md/)
+	2. Lv. 36 [Remoraid](../pokemon/remoraid.md/)
+	3. Lv. 36 [Horsea](../pokemon/horsea.md/)
+1. Tuber Jared (!)
+	1. Lv. 37 [Gastrodon](../pokemon/gastrodon.md/)
+1. Tuber Chelsea (!)
+	1. Lv. 37 [Azumarill](../pokemon/azumarill.md/)
+1. Swimmer Haley
+	1. Lv. 43 [Golduck](../pokemon/golduck.md/)
+	2. Lv. 43 [Mantine](../pokemon/mantine.md/)
+	3. Lv. 43 [Corsola](../pokemon/corsola.md/)
+1. Swimmer Sheltin
+	1. Lv. 43 [Gyarados](../pokemon/gyarados.md/)
+	2. Lv. 43 [Gyarados](../pokemon/gyarados.md/)
+	3. Lv. 43 [Gyarados](../pokemon/gyarados.md/)
+1. Sailor Paul
+	1. Lv. 45 [Politoed](../pokemon/politoed.md/)
+1. Swimmer Evan
+	1. Lv. 44 [Quagsire](../pokemon/quagsire.md/)
+	2. Lv. 44 [Sharpedo](../pokemon/sharpedo.md/)
+1. Swimmer Mary
+	1. Lv. 44 [Pelipper](../pokemon/pelipper.md/)
+	2. Lv. 44 [Lumineon](../pokemon/lumineon.md/)
+1. Galactic Grunt
+	1. Lv. 41 [Toxicroak](../pokemon/toxicroak.md/)
+
 <h3>Rematches</h3>
 
 1. Beauty Cyndy (8)
@@ -2059,6 +2504,52 @@
 ---
 
 ## Route 212 (South)
+
+<h3>Generic Trainers</h3>
+
+1. Parasol Lady Sabrina
+	1. Lv. 39 [Castform](../pokemon/castform.md/)
+1. Scientist Shaun (!)
+	1. Lv. 37 [Magneton](../pokemon/magneton.md/)
+	2. Lv. 37 [Electrode](../pokemon/electrode.md/)
+	3. Lv. 37 [Porygon2](../pokemon/porygon2.md/)
+1. PKMN Ranger Taylor (!)
+	1. Lv. 39 [Carnivine](../pokemon/carnivine.md/)
+	2. Lv. 39 [Kecleon](../pokemon/kecleon.md/)
+	3. Lv. 39 [Electabuzz](../pokemon/electabuzz.md/)
+1. Parasol Lady Alexa (!)
+	1. Lv. 38 [Seadra](../pokemon/seadra.md/)
+	2. Lv. 38 [Golduck](../pokemon/golduck.md/)
+1. Fisherman Juan
+	1. Lv. 36 [Shellder](../pokemon/shellder.md/)
+	2. Lv. 36 [Clamperl](../pokemon/clamperl.md/)
+	3. Lv. 39 [Cloyster](../pokemon/cloyster.md/)
+1. Fisherman Josh
+	1. Lv. 36 [Remoraid](../pokemon/remoraid.md/)
+	2. Lv. 36 [Goldeen](../pokemon/goldeen.md/)
+	3. Lv. 39 [Octillery](../pokemon/octillery.md/)
+1. Fisherman Travis
+	1. Lv. 38 [Barboach](../pokemon/barboach.md/)
+	2. Lv. 38 [Qwilfish](../pokemon/qwilfish.md/)
+1. Collector Dean
+	1. Lv. 37 [Espeon](../pokemon/espeon.md/)
+	2. Lv. 37 [Umbreon](../pokemon/umbreon.md/)
+	3. Lv. 37 [Glaceon](../pokemon/glaceon.md/)
+1. Policeman Danny
+	1. Lv. 37 [Growlithe](../pokemon/growlithe.md/)
+	2. Lv. 37 [Machoke](../pokemon/machoke.md/)
+	3. Lv. 37 [Noctowl](../pokemon/noctowl.md/)
+1. Scientist Stefano
+	1. Lv. 38 [Weezing](../pokemon/weezing.md/)
+	2. Lv. 38 [Muk](../pokemon/muk.md/)
+1. PKMN Ranger Allison (!)
+	1. Lv. 39 [Milotic](../pokemon/milotic.md/)
+	2. Lv. 39 [Leafeon](../pokemon/leafeon.md/)
+	3. Lv. 39 [Jynx](../pokemon/jynx.md/)
+1. PKMN Ranger Jeffrey
+	1. Lv. 39 [Magmar](../pokemon/magmar.md/)
+	2. Lv. 39 [Manectric](../pokemon/manectric.md/)
+	3. Lv. 39 [Nidoking](../pokemon/nidoking.md/)
 
 <h3>Rematches</h3>
 
@@ -2328,6 +2819,58 @@
 ---
 
 ## Route 210 (North)
+
+<h3>Generic Trainers</h3>
+
+1. Ninja Boy Fabian
+	1. Lv. 41 [Toxicroak](../pokemon/toxicroak.md/)
+1. Ninja Boy Brennan
+	1. Lv. 41 [Ninjask](../pokemon/ninjask.md/)
+1. Ninja Boy Bruce
+	1. Lv. 41 [Skuntank](../pokemon/skuntank.md/)
+1. Ninja Boy Joel
+	1. Lv. 39 [Scyther](../pokemon/scyther.md/)
+	2. Lv. 39 [Spinda](../pokemon/spinda.md/)
+	3. Lv. 39 [Golbat](../pokemon/golbat.md/)
+1. Ace Trainer Alyssa
+	1. Lv. 42 [Ambipom](../pokemon/ambipom.md/)
+	2. Lv. 42 [Starmie](../pokemon/starmie.md/)
+	3. Lv. 42 [Torterra](../pokemon/torterra.md/)
+1. Double Team Zac & Jen
+	1. Lv. 42 [Gyarados](../pokemon/gyarados.md/)
+	2. Lv. 42 [Gliscor](../pokemon/gliscor.md/)
+	3. Lv. 42 [Victreebel](../pokemon/victreebel.md/)
+	4. Lv. 42 [Typhlosion](../pokemon/typhlosion.md/)
+	5. Lv. 42 [Ursaring](../pokemon/ursaring.md/)
+	6. Lv. 42 [Ampharos](../pokemon/ampharos.md/)
+1. Ace Trainer Ernest
+	1. Lv. 41 [Politoed](../pokemon/politoed.md/)
+	2. Lv. 41 [Pinsir](../pokemon/pinsir.md/)
+	3. Lv. 41 [Probopass](../pokemon/probopass.md/)
+	4. Lv. 41 [Xatu](../pokemon/xatu.md/)
+1. Ninja Boy Davido
+	1. Lv. 41 [Ninetales](../pokemon/ninetales.md/)
+1. Black Belt Adam
+	1. Lv. 42 [Machamp](../pokemon/machamp.md/)
+	2. Lv. 42 [Blaziken](../pokemon/blaziken.md/)
+	3. Lv. 42 [Heracross](../pokemon/heracross.md/)
+1. Ninja Boy Nathan
+	1. Lv. 39 [Swalot](../pokemon/swalot.md/)
+	2. Lv. 39 [Dustox](../pokemon/dustox.md/)
+	3. Lv. 39 [Mothim](../pokemon/mothim.md/)
+1. Bird Keeper Brianna (!)
+	1. Lv. 42 [Dodrio](../pokemon/dodrio.md/)
+	2. Lv. 42 [Pidgeot](../pokemon/pidgeot.md/)
+	3. Lv. 42 [Skarmory](../pokemon/skarmory.md/)
+1. Veteran Brian (!)
+	1. Lv. 43 [Tangrowth](../pokemon/tangrowth.md/)
+	2. Lv. 43 [Rapidash](../pokemon/rapidash.md/)
+	3. Lv. 43 [Feraligatr](../pokemon/feraligatr.md/)
+1. Dragon Tamer Patrick (!)
+	1. Lv. 41 [Gabite](../pokemon/gabite.md/)
+	2. Lv. 41 [Shelgon](../pokemon/shelgon.md/)
+	3. Lv. 41 [Vibrava](../pokemon/vibrava.md/)
+	4. Lv. 41 [Dragonair](../pokemon/dragonair.md/)
 
 <h3>Rematches</h3>
 
@@ -2697,6 +3240,21 @@
 
 ## Route 218
 
+<h3>Generic Trainers</h3>
+
+1. Fisherman Miguel (!)
+	1. Lv. 44 [Huntail](../pokemon/huntail.md/)
+	2. Lv. 44 [Gorebyss](../pokemon/gorebyss.md/)
+1. Fisherman Luc
+	1. Lv. 45 [Crawdaunt](../pokemon/crawdaunt.md/)
+1. Sailor Skyler
+	1. Lv. 43 [Omastar](../pokemon/omastar.md/)
+	2. Lv. 43 [Kabutops](../pokemon/kabutops.md/)
+	3. Lv. 43 [Relicanth](../pokemon/relicanth.md/)
+1. Guitarist Tony (!)
+	1. Lv. 44 [Kricketune](../pokemon/kricketune.md/)
+	2. Lv. 44 [Exploud](../pokemon/exploud.md/)
+
 <h3>Rematches</h3>
 
 1. Fisherman Miguel (C)
@@ -2777,6 +3335,30 @@
 ---
 
 ## Route 221
+
+<h3>Generic Trainers</h3>
+
+1. Swimmer Dillon
+	1. Lv. 46 [Swampert](../pokemon/swampert.md/)
+1. Swimmer Vanessa
+	1. Lv. 46 [Milotic](../pokemon/milotic.md/)
+1. Fisherman Cory
+	1. Lv. 44 [Whiscash](../pokemon/whiscash.md/)
+	2. Lv. 44 [Kingler](../pokemon/kingler.md/)
+	3. Lv. 44 [Gyarados](../pokemon/gyarados.md/)
+1. Ace Trainer Shannon (!)
+	1. Lv. 45 [Vileplume](../pokemon/vileplume.md/)
+	2. Lv. 45 [Gardevoir](../pokemon/gardevoir.md/)
+	3. Lv. 45 [Lopunny](../pokemon/lopunny.md/)
+	4. Lv. 45 [Nidoqueen](../pokemon/nidoqueen.md/)
+1. Ace Trainer Jake (!)
+	1. Lv. 45 [Claydol](../pokemon/claydol.md/)
+	2. Lv. 45 [Charizard](../pokemon/charizard.md/)
+	3. Lv. 45 [Exeggutor](../pokemon/exeggutor.md/)
+	4. Lv. 45 [Absol](../pokemon/absol.md/)
+1. Collector Ivan (!)
+	1. Lv. 45 [Togekiss](../pokemon/togekiss.md/)
+	2. Lv. 45 [Blissey](../pokemon/blissey.md/)
 
 <h3>Rematches</h3>
 
@@ -3297,6 +3879,40 @@
 ---
 
 ## Route 217
+
+<h3>Generic Trainers</h3>
+
+1. Ace Trainer Dalton (!)
+	1. Lv. 52 [Magmortar](../pokemon/magmortar.md/)
+	2. Lv. 52 [Venusaur](../pokemon/venusaur.md/)
+	3. Lv. 52 [Kingdra](../pokemon/kingdra.md/)
+1. Skier Shawn
+	1. Lv. 49 [Snover](../pokemon/snover.md/)
+	2. Lv. 49 [Snover](../pokemon/snover.md/)
+	3. Lv. 52 [Abomasnow](../pokemon/abomasnow.md/)
+1. Ninja Boy Matthew
+	1. Lv. 51 [Crobat](../pokemon/crobat.md/)
+1. Skier Madison (!)
+	1. Lv. 49 [Smoochum](../pokemon/smoochum.md/)
+	2. Lv. 49 [Snorunt](../pokemon/snorunt.md/)
+	3. Lv. 52 [Jynx](../pokemon/jynx.md/)
+1. Ninja Boy Ethan
+	1. Lv. 51 [Drapion](../pokemon/drapion.md/)
+1. Skier Bjorn (!)
+	1. Lv. 49 [Swinub](../pokemon/swinub.md/)
+	2. Lv. 49 [Swinub](../pokemon/swinub.md/)
+	3. Lv. 52 [Piloswine](../pokemon/piloswine.md/)
+1. Skier Lexie
+	1. Lv. 51 [Dewgong](../pokemon/dewgong.md/)
+	2. Lv. 51 [Glaceon](../pokemon/glaceon.md/)
+1. Black Belt Luke
+	1. Lv. 51 [Machamp](../pokemon/machamp.md/)
+	2. Lv. 51 [Toxicroak](../pokemon/toxicroak.md/)
+	3. Lv. 51 [Lucario](../pokemon/lucario.md/)
+1. Ace Trainer Olivia (!)
+	1. Lv. 52 [Shiftry](../pokemon/shiftry.md/)
+	2. Lv. 52 [Altaria](../pokemon/altaria.md/)
+	3. Lv. 52 [Blissey](../pokemon/blissey.md/)
 
 <h3>Rematches</h3>
 
@@ -3825,6 +4441,49 @@
 
 ## Route 222
 
+<h3>Generic Trainers</h3>
+
+1. Rich Boy Trey (!)
+	1. Lv. 57 [Luxray](../pokemon/luxray.md/)
+	2. Lv. 57 [Sceptile](../pokemon/sceptile.md/)
+	3. Lv. 57 [Linoone](../pokemon/linoone.md/)
+1. Beauty Nicola
+	1. Lv. 57 [Lopunny](../pokemon/lopunny.md/)
+	2. Lv. 57 [Flareon](../pokemon/flareon.md/)
+	3. Lv. 57 [Meganium](../pokemon/meganium.md/)
+1. Policeman Thomas
+	1. Lv. 59 [Noctowl](../pokemon/noctowl.md/)
+1. Sailor Marc (!)
+	1. Lv. 57 [Lanturn](../pokemon/lanturn.md/)
+	2. Lv. 57 [Machamp](../pokemon/machamp.md/)
+	3. Lv. 57 [Mantine](../pokemon/mantine.md/)
+1. Tuber Conner
+	1. Lv. 57 [Remoraid](../pokemon/remoraid.md/)
+	2. Lv. 57 [Remoraid](../pokemon/remoraid.md/)
+1. Sailor Luther
+	1. Lv. 56 [Pelipper](../pokemon/pelipper.md/)
+	2. Lv. 56 [Gastrodon](../pokemon/gastrodon.md/)
+	3. Lv. 56 [Poliwrath](../pokemon/poliwrath.md/)
+	4. Lv. 56 [Kingler](../pokemon/kingler.md/)
+1. Fisherman Alec (!)
+	1. Lv. 57 [Gyarados](../pokemon/gyarados.md/)
+	2. Lv. 57 [Gyarados](../pokemon/gyarados.md/)
+	3. Lv. 57 [Gyarados](../pokemon/gyarados.md/)
+1. Fisherman George
+	1. Lv. 58 [Octillery](../pokemon/octillery.md/)
+	2. Lv. 58 [Lumineon](../pokemon/lumineon.md/)
+1. Fisherman Brett
+	1. Lv. 59 [Qwilfish](../pokemon/qwilfish.md/)
+1. Fisherman Cole
+	1. Lv. 57 [Seaking](../pokemon/seaking.md/)
+	2. Lv. 57 [Sharpedo](../pokemon/sharpedo.md/)
+	3. Lv. 57 [Kingdra](../pokemon/kingdra.md/)
+1. Tuber Holly
+	1. Lv. 58 [Azumarill](../pokemon/azumarill.md/)
+1. Poke Kid Janet
+	1. Lv. 57 [Pikachu](../pokemon/pikachu.md/)
+	2. Lv. 57 [Pikachu](../pokemon/pikachu.md/)
+
 <h3>Rematches</h3>
 
 1. Rich Boy Trey (C)
@@ -4002,6 +4661,54 @@
 ---
 
 ## Route 223
+
+<h3>Generic Trainers</h3>
+
+1. Swimmer Wesley (!)
+	1. Lv. 59 [Floatzel](../pokemon/floatzel.md/)
+	2. Lv. 59 [Sharpedo](../pokemon/sharpedo.md/)
+	3. Lv. 59 [Qwilfish](../pokemon/qwilfish.md/)
+1. Swimmer Ricardo
+	1. Lv. 61 [Tentacruel](../pokemon/tentacruel.md/)
+1. Swimmer Francisco (!)
+	1. Lv. 59 [Ludicolo](../pokemon/ludicolo.md/)
+	2. Lv. 59 [Relicanth](../pokemon/relicanth.md/)
+	3. Lv. 59 [Poliwrath](../pokemon/poliwrath.md/)
+1. Swimmer Colton
+	1. Lv. 59 [Pelipper](../pokemon/pelipper.md/)
+	2. Lv. 59 [Octillery](../pokemon/octillery.md/)
+	3. Lv. 59 [Feraligatr](../pokemon/feraligatr.md/)
+1. Swimmer Troy
+	1. Lv. 61 [Gyarados](../pokemon/gyarados.md/)
+1. Swimmer Oscar
+	1. Lv. 59 [Mantine](../pokemon/mantine.md/)
+	2. Lv. 59 [Blastoise](../pokemon/blastoise.md/)
+	3. Lv. 59 [Whiscash](../pokemon/whiscash.md/)
+1. Swimmer Miranda (!)
+	1. Lv. 60 [Cloyster](../pokemon/cloyster.md/)
+	2. Lv. 60 [Lumineon](../pokemon/lumineon.md/)
+1. Swimmer Aubree
+	1. Lv. 60 [Bibarel](../pokemon/bibarel.md/)
+	2. Lv. 60 [Quagsire](../pokemon/quagsire.md/)
+1. Swimmer Paige
+	1. Lv. 59 [Azumarill](../pokemon/azumarill.md/)
+	2. Lv. 59 [Slowbro](../pokemon/slowbro.md/)
+	3. Lv. 59 [Gorebyss](../pokemon/gorebyss.md/)
+1. Swimmer Crystal (!)
+	1. Lv. 59 [Wailord](../pokemon/wailord.md/)
+	2. Lv. 59 [Seaking](../pokemon/seaking.md/)
+	3. Lv. 59 [Corsola](../pokemon/corsola.md/)
+1. Swimmer Cassandra
+	1. Lv. 61 [Vaporeon](../pokemon/vaporeon.md/)
+1. Swimmer Gabrielle
+	1. Lv. 59 [Golduck](../pokemon/golduck.md/)
+	2. Lv. 59 [Lapras](../pokemon/lapras.md/)
+	3. Lv. 59 [Starmie](../pokemon/starmie.md/)
+1. Sailor Zachariah (!)
+	1. Lv. 58 [Kingler](../pokemon/kingler.md/)
+	2. Lv. 58 [Machamp](../pokemon/machamp.md/)
+	3. Lv. 58 [Gastrodon](../pokemon/gastrodon.md/)
+	4. Lv. 58 [Slowking](../pokemon/slowking.md/)
 
 <h3>Rematches</h3>
 
@@ -4229,6 +4936,49 @@
 ---
 
 ## Route 224
+
+<h3>Generic Trainers</h3>
+
+1. Ace Trainer Ruben
+	1. Lv. 67 [Shiftry](../pokemon/shiftry.md/)
+	2. Lv. 67 [Gyarados](../pokemon/gyarados.md/)
+	3. Lv. 67 [Politoed](../pokemon/politoed.md/)
+	4. Lv. 67 [Leafeon](../pokemon/leafeon.md/)
+1. Psychic Brittney
+	1. Lv. 66 [Hypno](../pokemon/hypno.md/)
+	2. Lv. 66 [Alakazam](../pokemon/alakazam.md/)
+	3. Lv. 66 [Medicham](../pokemon/medicham.md/)
+	4. Lv. 66 [Lunatone](../pokemon/lunatone.md/)
+1. Psychic Maxwell
+	1. Lv. 66 [Mismagius](../pokemon/mismagius.md/)
+	2. Lv. 66 [Gengar](../pokemon/gengar.md/)
+	3. Lv. 66 [Slowbro](../pokemon/slowbro.md/)
+	4. Lv. 66 [Solrock](../pokemon/solrock.md/)
+1. Veteran Armando (!)
+	1. Lv. 68 [Muk](../pokemon/muk.md/)
+	2. Lv. 68 [Mightyena](../pokemon/mightyena.md/)
+	3. Lv. 68 [Lickilicky](../pokemon/lickilicky.md/)
+	4. Lv. 68 [Pelipper](../pokemon/pelipper.md/)
+1. Black Belt Carl
+	1. Lv. 66 [Hariyama](../pokemon/hariyama.md/)
+	2. Lv. 66 [Hitmonlee](../pokemon/hitmonlee.md/)
+	3. Lv. 66 [Hitmonchan](../pokemon/hitmonchan.md/)
+	4. Lv. 66 [Hitmontop](../pokemon/hitmontop.md/)
+1. Ruin Maniac Larry
+	1. Lv. 66 [Aerodactyl](../pokemon/aerodactyl.md/)
+	2. Lv. 66 [Armaldo](../pokemon/armaldo.md/)
+	3. Lv. 66 [Cradily](../pokemon/cradily.md/)
+	4. Lv. 66 [Relicanth](../pokemon/relicanth.md/)
+1. Ace Trainer Jamie
+	1. Lv. 67 [Vaporeon](../pokemon/vaporeon.md/)
+	2. Lv. 67 [Metagross](../pokemon/metagross.md/)
+	3. Lv. 67 [Roserade](../pokemon/roserade.md/)
+	4. Lv. 67 [Dugtrio](../pokemon/dugtrio.md/)
+1. Dragon Tamer Hayden (!)
+	1. Lv. 67 [Altaria](../pokemon/altaria.md/)
+	2. Lv. 67 [Salamence](../pokemon/salamence.md/)
+	3. Lv. 67 [Kingdra](../pokemon/kingdra.md/)
+	4. Lv. 67 [Dragonite](../pokemon/dragonite.md/)
 
 <h3>Rematches</h3>
 
@@ -6003,6 +6753,48 @@
 
 ## Route 225
 
+<h3>Generic Trainers</h3>
+
+1. Ace Trainer Rodolfo (!)
+	1. Lv. 73 [Starmie](../pokemon/starmie.md/)
+	2. Lv. 73 [Scizor](../pokemon/scizor.md/)
+	3. Lv. 73 [Sceptile](../pokemon/sceptile.md/)
+	4. Lv. 73 [Ninetales](../pokemon/ninetales.md/)
+1. PKMN Ranger Ashlee (!)
+	1. Lv. 73 [Linoone](../pokemon/linoone.md/)
+	2. Lv. 73 [Arbok](../pokemon/arbok.md/)
+	3. Lv. 73 [Butterfree](../pokemon/butterfree.md/)
+1. Bird Keeper Audrey (!)
+	1. Lv. 73 [Farfetch'd](../pokemon/farfetchd.md/)
+	2. Lv. 73 [Swellow](../pokemon/swellow.md/)
+	3. Lv. 73 [Pidgeot](../pokemon/pidgeot.md/)
+1. Psychic Daisy (!)
+	1. Lv. 74 [Slowbro](../pokemon/slowbro.md/)
+	2. Lv. 74 [Slowking](../pokemon/slowking.md/)
+1. Dragon Tamer Geoffrey (!)
+	1. Lv. 75 [Altaria](../pokemon/altaria.md/)
+1. Ace Trainer Deanna (!)
+	1. Lv. 73 [Ampharos](../pokemon/ampharos.md/)
+	2. Lv. 73 [Tropius](../pokemon/tropius.md/)
+	3. Lv. 73 [Lapras](../pokemon/lapras.md/)
+	4. Lv. 73 [Miltank](../pokemon/miltank.md/)
+1. PKMN Ranger Dwayne
+	1. Lv. 73 [Skarmory](../pokemon/skarmory.md/)
+	2. Lv. 73 [Golduck](../pokemon/golduck.md/)
+	3. Lv. 73 [Donphan](../pokemon/donphan.md/)
+1. Ace Trainer Quinn
+	1. Lv. 73 [Pinsir](../pokemon/pinsir.md/)
+	2. Lv. 73 [Lanturn](../pokemon/lanturn.md/)
+	3. Lv. 73 [Golem](../pokemon/golem.md/)
+	4. Lv. 73 [Exploud](../pokemon/exploud.md/)
+1. Ace Trainer Heather *
+	1. Lv. 76 [Pelipper](../pokemon/pelipper.md/)
+	2. Lv. 76 [Togekiss](../pokemon/togekiss.md/)
+	3. Lv. 76 [Aerodactyl](../pokemon/aerodactyl.md/)
+	4. Lv. 76 [Pidgeot](../pokemon/pidgeot.md/)
+	5. Lv. 76 [Tropius](../pokemon/tropius.md/)
+	6. Lv. 77 [Dragonite](../pokemon/dragonite.md/)
+
 <h3>Rematches</h3>
 
 1. Ace Trainer Rodolfo (S)
@@ -6168,6 +6960,29 @@
 
 ## Route 227
 
+<h3>Generic Trainers</h3>
+
+1. Ace Trainer Saul (!)
+	1. Lv. 78 [Tauros](../pokemon/tauros.md/)
+1. PKMN Ranger Felicia
+	1. Lv. 76 [Jumpluff](../pokemon/jumpluff.md/)
+	2. Lv. 76 [Lopunny](../pokemon/lopunny.md/)
+1. Black Belt Griffin
+	1. Lv. 75 [Breloom](../pokemon/breloom.md/)
+	2. Lv. 75 [Medicham](../pokemon/medicham.md/)
+	3. Lv. 75 [Lucario](../pokemon/lucario.md/)
+1. Ace Trainer Mikayla
+	1. Lv. 76 [Seviper](../pokemon/seviper.md/)
+	2. Lv. 76 [Persian](../pokemon/persian.md/)
+	3. Lv. 76 [Absol](../pokemon/absol.md/)
+1. Ace Trainer Slythe *
+	1. Lv. 76 [Gengar](../pokemon/gengar.md/)
+	2. Lv. 76 [Tentacruel](../pokemon/tentacruel.md/)
+	3. Lv. 76 [Nidoqueen](../pokemon/nidoqueen.md/)
+	4. Lv. 76 [Crobat](../pokemon/crobat.md/)
+	5. Lv. 76 [Toxicroak](../pokemon/toxicroak.md/)
+	6. Lv. 77 [Vileplume](../pokemon/vileplume.md/)
+
 <h3>Rematches</h3>
 
 1. Ace Trainer Saul (S)
@@ -6275,6 +7090,43 @@
 ---
 
 ## Route 228
+
+<h3>Generic Trainers</h3>
+
+1. Ace Trainer Jose
+	1. Lv. 76 [Floatzel](../pokemon/floatzel.md/)
+	2. Lv. 76 [Sandslash](../pokemon/sandslash.md/)
+	3. Lv. 76 [Manectric](../pokemon/manectric.md/)
+1. Ace Trainer Moira (!)
+	1. Lv. 76 [Cacturne](../pokemon/cacturne.md/)
+	2. Lv. 76 [Gastrodon](../pokemon/gastrodon.md/)
+	3. Lv. 76 [Claydol](../pokemon/claydol.md/)
+1. PKMN Ranger Kyler (!)
+	1. Lv. 75 [Exeggutor](../pokemon/exeggutor.md/)
+	2. Lv. 75 [Zangoose](../pokemon/zangoose.md/)
+	3. Lv. 75 [Empoleon](../pokemon/empoleon.md/)
+1. PKMN Ranger Krista
+	1. Lv. 76 [Marowak](../pokemon/marowak.md/)
+	2. Lv. 76 [Aggron](../pokemon/aggron.md/)
+1. Dragon Tamer Keegan
+	1. Lv. 76 [Flygon](../pokemon/flygon.md/)
+1. Psychic Corbin (!)
+	1. Lv. 76 [Hypno](../pokemon/hypno.md/)
+	2. Lv. 76 [Gallade](../pokemon/gallade.md/)
+1. Ace Trainer Meagan
+	1. Lv. 77 [Delcatty](../pokemon/delcatty.md/)
+	2. Lv. 77 [Abomasnow](../pokemon/abomasnow.md/)
+1. Black Belt Davon (!)
+	1. Lv. 75 [Hariyama](../pokemon/hariyama.md/)
+	2. Lv. 75 [Machamp](../pokemon/machamp.md/)
+	3. Lv. 75 [Primeape](../pokemon/primeape.md/)
+1. Ace Trainer Shade *
+	1. Lv. 76 [Houndoom](../pokemon/houndoom.md/)
+	2. Lv. 76 [Weavile](../pokemon/weavile.md/)
+	3. Lv. 76 [Shiftry](../pokemon/shiftry.md/)
+	4. Lv. 76 [Sharpedo](../pokemon/sharpedo.md/)
+	5. Lv. 76 [Spiritomb](../pokemon/spiritomb.md/)
+	6. Lv. 77 [Tyranitar](../pokemon/tyranitar.md/)
 
 <h3>Rematches</h3>
 
@@ -6430,6 +7282,38 @@
 ---
 
 ## Route 230
+
+<h3>Generic Trainers</h3>
+
+1. Swimmer Glenn (!)
+	1. Lv. 73 [Octillery](../pokemon/octillery.md/)
+	2. Lv. 73 [Politoed](../pokemon/politoed.md/)
+1. Swimmer Joanna (!)
+	1. Lv. 72 [Luvdisc](../pokemon/luvdisc.md/)
+	2. Lv. 72 [Corsola](../pokemon/corsola.md/)
+	3. Lv. 72 [Vaporeon](../pokemon/vaporeon.md/)
+1. Swimmer Kurt
+	1. Lv. 70 [Krabby](../pokemon/krabby.md/)
+	2. Lv. 70 [Corphish](../pokemon/corphish.md/)
+	3. Lv. 72 [Kingler](../pokemon/kingler.md/)
+	4. Lv. 72 [Crawdaunt](../pokemon/crawdaunt.md/)
+1. Swimmer Sophia
+	1. Lv. 73 [Delibird](../pokemon/delibird.md/)
+	2. Lv. 73 [Mantine](../pokemon/mantine.md/)
+1. Swimmer Sam
+	1. Lv. 72 [Walrein](../pokemon/walrein.md/)
+	2. Lv. 72 [Gastrodon](../pokemon/gastrodon.md/)
+	3. Lv. 72 [Seaking](../pokemon/seaking.md/)
+1. Swimmer Mallory
+	1. Lv. 73 [Masquerain](../pokemon/masquerain.md/)
+	2. Lv. 73 [Ludicolo](../pokemon/ludicolo.md/)
+1. Ace Trainer Luna *
+	1. Lv. 76 [Wigglytuff](../pokemon/wigglytuff.md/)
+	2. Lv. 76 [Clefable](../pokemon/clefable.md/)
+	3. Lv. 76 [Azumarill](../pokemon/azumarill.md/)
+	4. Lv. 76 [Granbull](../pokemon/granbull.md/)
+	5. Lv. 76 [Mawile](../pokemon/mawile.md/)
+	6. Lv. 77 [Gardevoir](../pokemon/gardevoir.md/)
 
 <h3>Rematches</h3>
 

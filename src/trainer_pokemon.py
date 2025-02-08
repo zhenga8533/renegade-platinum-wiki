@@ -117,10 +117,10 @@ def parse_trainer_roster(trainers: list) -> tuple:
     # Parse each trainer
     for trainer in trainers:
         trainer_name, pokemon = re.split(r"\s{2,}", trainer)
-        trainer_name = trainer_name.replace("(!)", "[(!)](#rematches)")
         trainer_sprite = find_trainer_sprite(trainer_name, "trainers").replace("../", "../../")
 
         md += f"1. {trainer_name}"
+        trainer_name = trainer_name.replace("(!)", "[(!)](#rematches)")
         trainer_rosters += f"| {trainer_sprite}<br>{trainer_name} "
 
         # Parse each Pokemon in team
@@ -158,13 +158,13 @@ def parse_trainers(trainers: list, rematches: list, important: dict, logger: Log
 
     # Parse each trainer type
     if len(trainers) > 0:
-        md, trainer_rosters = parse_trainer_roster(trainers)
-        md = "<h3>Generic Trainers</h3>\n\n" + md
+        trainer_md, trainer_rosters = parse_trainer_roster(trainers)
+        md += "<h3>Generic Trainers</h3>\n\n" + trainer_md
         trainer_rosters = "\n### Generic Trainers\n\n" + trainer_rosters + "\n"
 
     if len(rematches) > 0:
-        md, rematch_rosters = parse_trainer_roster(rematches)
-        md = "<h3>Rematches</h3>\n\n" + md
+        trainer_md, rematch_rosters = parse_trainer_roster(rematches)
+        md += "<h3>Rematches</h3>\n\n" + trainer_md
         trainer_rosters += "\n### Rematches\n\n" + rematch_rosters + "\n"
 
     if len(important) > 0:
