@@ -44,6 +44,7 @@ nav:
       - Changelog: getting_started/changelog.md
       - Download Links: getting_started/download_links.md
       - FAQ: getting_started/frequently_asked_questions.md
+      - Known Bugs: getting_started/known_bugs.md
       - Patching Guide: getting_started/patching_guide.md
       - Randomize: getting_started/randomize_instructions.md
   - Mechanics:

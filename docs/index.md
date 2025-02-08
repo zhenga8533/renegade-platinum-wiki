@@ -146,56 +146,46 @@ As you may have seen at the end of each section, there is documentation availabl
 
 ## Tools Used
 
-BTX Editor: Made by KazoWAR, this tool was helpful for getting some new overworlds into the game, such as Steven, a few of the legendaries and more.
+**BTX Editor:** Made by KazoWAR, this tool was helpful for getting some new overworlds into the game, such as Steven, a few of the legendaries and more.
 
-crystaltile2: An invaluable tool for importing/exporting/locating particular files from NARCs, as well as being very helpful when implementing the Fairy-type.
+**crystaltile2:** An invaluable tool for importing/exporting/locating particular files from NARCs, as well as being very helpful when implementing the Fairy-type.
 
-Hex Workshop: Helpful for those times where I needed to do things via hex editing.
+**Hex Workshop:** Helpful for those times where I needed to do things via hex editing.
 
-JackHack Tools: A number of tools from his site were used, including a Pokémon Editor, Attack Editor and Trade Editor.
+**JackHack Tools:** A number of tools from his site were used, including a Pokémon Editor, Attack Editor and Trade Editor.
 
-kiwiDS: Helpful for some cases where I needed to get the individual files for a NARC.
+**kiwiDS:** Helpful for some cases where I needed to get the individual files for a NARC.
 
-Lua Scripts: A Lua script by Kaphotics that displayed the X/Y coordinate of the player on the map, allowing me to position overworlds correctly.
+**Lua Scripts:** A Lua script by Kaphotics that displayed the X/Y coordinate of the player on the map, allowing me to position overworlds correctly.
 
-PKHeX: While not used for actual development, it came in useful a few times to figure out how things worked.
+**PKHeX:** While not used for actual development, it came in useful a few times to figure out how things worked.
 
-PokeDSPic Platinum: Used in a few cases where sprites had to be modified from their standard HG/SS versions.
+**PokeDSPic Platinum:** Used in a few cases where sprites had to be modified from their standard HG/SS versions.
 
-PPRE: Used primarily for scripting and placing overworlds on the map, as well as some text editing. Both 0.14b and 0.12 were used to get around the issues related to freezes caused when saving the script in 0.14b.
+**PPRE:** Used primarily for scripting and placing overworlds on the map, as well as some text editing. Both 0.14b and 0.12 were used to get around the issues related to freezes caused when saving the script in 0.14b.
 
-SDSME: Used for editing text that wasn't tied to a map, as well as configuring the "weather" for places like Twinleaf Town and Wayward Cave.
+**SDSME:** Used for editing text that wasn't tied to a map, as well as configuring the "weather" for places like Twinleaf Town and Wayward Cave.
 
-Tinke: Extremely helpful for some graphical changes, including the Steven trainer sprite and adding the Renegade Platinum logo to the title screen.
+**Tinke:** Extremely helpful for some graphical changes, including the Steven trainer sprite and adding the Renegade Platinum logo to the title screen.
 
 ## Credits
 
-Alpha, SCV: The creators of PPRE, which was incredibly useful.
+**Alpha, SCV:** The creators of PPRE, which was incredibly useful.
 
-JackHack96: I used a number of his tools when building the hack.
+**JackHack96:** I used a number of his tools when building the hack.
 
-JimB16: For his Platinum disassembly on GitHub. While it wasn't used to actually develop with, it came in useful quite a few times to locate certain bits of data (including the solution for dealing with the traded Pokémon obedience issue).
+**JimB16:** For his Platinum disassembly on GitHub. While it wasn't used to actually develop with, it came in useful quite a few times to locate certain bits of data (including the solution for dealing with the traded Pokémon obedience issue).
 
-Kaphotics: A very talented hacker in the data mining sense, Kaphotics' wealth of NDS knowledge helped me to avoid one or two potential issues as I was building the game; his advice was incredibly helpful. The Lua scripts for the player's position and the Instant Text code that is implemented into the "SpeedUpPatch" were both made by him, too.
+**Kaphotics:** A very talented hacker in the data mining sense, Kaphotics' wealth of NDS knowledge helped me to avoid one or two potential issues as I was building the game; his advice was incredibly helpful. The Lua scripts for the player's position and the Instant Text code that is implemented into the "SpeedUpPatch" were both made by him, too.
 
-KazoWAR: For his BTX editor tool as well as his YouTube tutorial on adding Trainer sprites to Pt/HG/SS via Tinke.
+**KazoWAR:** For his BTX editor tool as well as his YouTube tutorial on adding Trainer sprites to Pt/HG/SS via Tinke.
 
-Markitus95: The creator of SDSME, which was also useful.
+**Markitus95:** The creator of SDSME, which was also useful.
 
-MeroMero: Another extremely talented NDS hacker, MeroMero posted a lot of tutorials on Project Pokémon that were directly relevant to things I wanted to do, such as changing the shiny rate or finding out how to adjust the position of Pokémon sprites in battle. His tutorial for adding Fairy-type to HG/SS was also what I adapted to get it working in Platinum. Finally, the Gen 6 mini Pokémon icons were also completely thanks to him (as seen [here](https://projectpokemon.org/home/forums/topic/36081-gen-6-pokémon-icons-for-gen-4-and-5/){:target="\_blank"}).
+**MeroMero:** Another extremely talented NDS hacker, MeroMero posted a lot of tutorials on Project Pokémon that were directly relevant to things I wanted to do, such as changing the shiny rate or finding out how to adjust the position of Pokémon sprites in battle. His tutorial for adding Fairy-type to HG/SS was also what I adapted to get it working in Platinum. Finally, the Gen 6 mini Pokémon icons were also completely thanks to him (as seen [here](https://projectpokemon.org/home/forums/topic/36081-gen-6-pokémon-icons-for-gen-4-and-5/){:target="\_blank"}).
 
-mikelan98: An extremely talented NDS hacker, he produced lots of helpful tutorials for NDS hacking, and it was also him who provided files allowing me to show Pokémon locations in the Pokédex and for the Fairy-type icon to display correctly in the Pokédex. Both of these would have been impossible without him!
+**mikelan98:** An extremely talented NDS hacker, he produced lots of helpful tutorials for NDS hacking, and it was also him who provided files allowing me to show Pokémon locations in the Pokédex and for the Fairy-type icon to display correctly in the Pokédex. Both of these would have been impossible without him!
 
-sylphate: A talented graphics artist who made the logo for Renegade Platinum. He's also the artist for the logo for my Rising Ruby and Sinking Sapphire hacks!
+**sylphate:** A talented graphics artist who made the logo for Renegade Platinum. He's also the artist for the logo for my Rising Ruby and Sinking Sapphire hacks!
 
 I'd also like to thank my fanbase in general, who are always very encouraging and excitable. It wouldn't be half as fun to make these without you guys around!
-
-## Known Bugs
-
-- The Union Room lady in the top floor of the Pokémon Center has no text.
-- Moonblast will not be usable if the user gets hit by Heal Block.
-- Evolving a Wailmer into Wailord while in an area connecting to a Regi room will disable the warp into the Regi room until the map reloads.
-- Gengar's mini sprite looks a bit strange on the Pokétch.
-- Some Trainer names may appear a little odd (double battles or the actual Frontier Brain battles in the Battle Frontier).
-- Some trainers in the game (notably Dawn/Lucas) give you $0 upon victory.
-- The event with Rowan's briefcase in his lab might act a bit strangely if you do it just after the Distortion World is completed.
