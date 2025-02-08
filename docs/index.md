@@ -16,6 +16,8 @@
 
 Pokémon Renegade Platinum is an enhancement hack of Pokémon Platinum Version, similar to [@Drayano60](https://x.com/drayano60){:target="\_blank"}'s other hacks such as Sacred Gold & Storm Silver and Blaze Black & Volt White. In a nutshell, this hack generally keeps the same story flow as the original Pokémon Platinum but adds in a significant number of gameplay differences, including but not limited to access to all 493 Pokémon in the game, revamped Trainers including tougher boss fights, lots of (optional) changes to weaker Pokémon to make them easier to use, the removal of trade only evolutions and a number of other quality of life changes. The specifics of what parts have been changed are explained in the paragraphs below.
 
+---
+
 ## Features
 
 ### All 493 Pokémon Available
@@ -140,9 +142,13 @@ The in-game trades found in Platinum have been adjusted to give you new Pokémon
 
 The details for these modifications can be found in the Trade Changes file in the documentation.
 
+---
+
 ## Documentation
 
 As you may have seen at the end of each section, there is documentation available in the form of text files for mostly every change that has been made in the game. The files are included in the download for the hack, but can also be viewed online on [Pastebin](https://pastebin.com/u/RenegadePlatinum){:target="\_blank"}.
+
+---
 
 ## Tools Used
 
@@ -167,6 +173,8 @@ As you may have seen at the end of each section, there is documentation availabl
 **SDSME:** Used for editing text that wasn't tied to a map, as well as configuring the "weather" for places like Twinleaf Town and Wayward Cave.
 
 **Tinke:** Extremely helpful for some graphical changes, including the Steven trainer sprite and adding the Renegade Platinum logo to the title screen.
+
+---
 
 ## Credits
 
