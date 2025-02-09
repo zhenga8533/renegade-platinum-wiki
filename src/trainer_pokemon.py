@@ -56,6 +56,13 @@ def parse_pokemon_table(line: str, logger: Logger) -> str:
     moves = strs[3].split(", ")
     moves = [moves[i] if len(moves) > i else "—" for i in range(4)]
 
+    # Load pokemon data
+    POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
+    pokemon_id = format_id(name)
+    pokemon_data = json.loads(load(POKEMON_INPUT_PATH + pokemon_id + ".json", logger))
+    pokemon_types = pokemon_data["types"]
+    pokemon_text = pokemon_data["flavor_text_entries"].get("platinum", name).replace("\n", " ")
+
     # Load item data
     if item != "No Item":
         item_data = get_item(item)
@@ -73,16 +80,21 @@ def parse_pokemon_table(line: str, logger: Logger) -> str:
     nature_data = json.loads(load(NATURE_INPUT_PATH, logger))
     nature_effect = nature_data.get(nature, "?")
 
-    pokemon_id = format_id(name)
-    sprite = find_pokemon_sprite(name, "front").replace("../", "../../")
+    # Generate the Pokemon table
+    sprite = (
+        find_pokemon_sprite(name, "front").replace(f'"{name}"', f'"{name}: {pokemon_text}"').replace("../", "../../")
+    )
     table = f"| {sprite} "
     table += f"| **Lv. {level}** [{name}](../../pokemon/{pokemon_id}.md/)<br>"
     table += f'**Ability:** <span class="tooltip" title="{ability_effect}">{ability}</span><br>'
-    table += "**Nature:** " + (
-        f'<span class="tooltip" title="{nature_effect}">{nature}</span> ' if nature != "?" else "? "
-    )
     table += (
-        f'| ![{item}]({item_path.replace("docs", "..")} "{item}")<br><span class="tooltip" title="{item_effect}">{item}</span> | '
+        "**Nature:** "
+        + (f'<span class="tooltip" title="{nature_effect}">{nature}</span>' if nature != "?" else "?")
+        + "<br>"
+    )
+    table += " ".join(f'![{t}](../../assets/types/{t}.png "{t.title()}")' for t in pokemon_types)
+    table += (
+        f' | ![{item}]({item_path.replace("docs", "..")} "{item}")<br><span class="tooltip" title="{item_effect}">{item}</span> | '
         if item != "No Item"
         else "| No Item | "
     )
@@ -170,7 +182,8 @@ def parse_trainers(trainers: list, rematches: list, important: dict, logger: Log
     if len(important) > 0:
         md += "<h3>Important Trainers</h3>\n\n"
         trainer_rosters += "\n### Important Trainers\n\n"
-        table_head = "| Pokémon | Attributes | Item | Moves |\n|:-------:|------------|:----:|-------|\n"
+        table_head = f"| Pokémon | Attributes | Item | Moves |\n"
+        table_head += "|:-------:|------------|:----:|-------|\n"
         curr_trainer = None
 
         # Seperate important trainers with different rosters
