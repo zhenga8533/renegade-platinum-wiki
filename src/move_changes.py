@@ -149,6 +149,7 @@ def main():
             md += f"| {attribute} | {old} | {new} |\n"
         # Move change data
         elif ">>" in next_line:
+            md += f"**{line}**\n\n"
             curr_move = format_id(line)
         # Miscellaneous lines
         else:
