@@ -16,12 +16,6 @@ Mushrooms named tochukaso grow on its back. They grow along with the host PARAS.
 |-------|-------|------|-------|
 | ![Paras](../assets/sprites/paras/front.gif "Paras: Mushrooms named tochukaso grow on its back. They grow along with the host PARAS.") | ![Paras](../assets/sprites/paras/front_shiny.png "Paras: Mushrooms named tochukaso grow on its back. They grow along with the host PARAS.") | ![Paras](../assets/sprites/paras/back.png "Paras: Mushrooms named tochukaso grow on its back. They grow along with the host PARAS.") | ![Paras](../assets/sprites/paras/back_shiny.png "Paras: Mushrooms named tochukaso grow on its back. They grow along with the host PARAS.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #46 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.3 m /<br>1.0 ft | 5.4 kg /<br>11.9 lbs | 1. <span class="tooltip" title="Contact may paralyze, poison, or cause sleep.">Effect Spore</span><br>2. <span class="tooltip" title="Reduces HP if it is hot. Water restores HP.">Dry Skin</span><br>3. <span class="tooltip" title="Prevents combatants from self destructing.">Damp</span> | N/A |
+| #46 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.3 m /<br>1.0 ft | 5.4 kg /<br>11.9 lbs | 1. <span class="tooltip" title="Contact may paralyze, poison, or cause sleep.">Effect Spore</span><br>2. <span class="tooltip" title="Reduces HP if it is hot. Water restores HP.">Dry Skin</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Paras has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 190 | 70 | 57 | Medium | <span class="tooltip" title="A small and rare mushroom. It is quite popular among certain maniacal fan segments.">Tiny Mushroom</span> (50%)<br><span class="tooltip" title="A large and rare mushroom. It is very popular among certain maniacal fan segments.">Big Mushroom</span> (5%) |
+| 1 Atk | 190 | 70 | 57 | Medium | <span class="tooltip" title="A small and rare mushroom. It is quite popular among certain maniacal fan segments.">Tiny Mushroom</span> (50%)<br><span class="tooltip" title="A large and rare mushroom. It is very popular among certain maniacal fan segments.">Big Mushroom</span> (5%) |
 
 ---
 

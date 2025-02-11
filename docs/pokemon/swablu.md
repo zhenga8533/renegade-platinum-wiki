@@ -16,12 +16,6 @@ It can’t relax if it or its surroundings are not clean. It wipes off dirt with
 |-------|-------|------|-------|
 | ![Swablu](../assets/sprites/swablu/front.gif "Swablu: It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.") | ![Swablu](../assets/sprites/swablu/front_shiny.png "Swablu: It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.") | ![Swablu](../assets/sprites/swablu/back.png "Swablu: It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.") | ![Swablu](../assets/sprites/swablu/back_shiny.png "Swablu: It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #333 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.4 m /<br>1.3 ft | 1.2 kg /<br>2.6 lbs | 1. <span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span><br>2. <span class="tooltip" title="All status problems are healed upon switching out.">Natural Cure</span> | N/A |
+| #333 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.4 m /<br>1.3 ft | 1.2 kg /<br>2.6 lbs | 1. <span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span><br>2. <span class="tooltip" title="All status problems are healed upon switching out.">Natural Cure</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Swablu has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 255 | 50 | 62 | Slow Then Very Fast | N/A |
+| 1 Sp. Def | 255 | 50 | 62 | Slow Then Very Fast | N/A |
 
 ---
 

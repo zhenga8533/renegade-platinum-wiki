@@ -16,12 +16,6 @@ It is said to have the ability to grant any wish for just one week every thousan
 |-------|-------|------|-------|
 | ![Jirachi](../assets/sprites/jirachi/front.gif "Jirachi: It is said to have the ability to grant any wish for just one week every thousand years.") | ![Jirachi](../assets/sprites/jirachi/front_shiny.png "Jirachi: It is said to have the ability to grant any wish for just one week every thousand years.") | ![Jirachi](../assets/sprites/jirachi/back.png "Jirachi: It is said to have the ability to grant any wish for just one week every thousand years.") | ![Jirachi](../assets/sprites/jirachi/back_shiny.png "Jirachi: It is said to have the ability to grant any wish for just one week every thousand years.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #385 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.3 m /<br>1.0 ft | 1.1 kg /<br>2.4 lbs | 1. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span> | N/A |
+| #385 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.3 m /<br>1.0 ft | 1.1 kg /<br>2.4 lbs | 1. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Jirachi has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 3 | 100 | 300 | Slow | <span class="tooltip" title="A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.">Star Piece</span> (5%) |
+| 3 None | 3 | 100 | 300 | Slow | <span class="tooltip" title="A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.">Star Piece</span> (5%) |
 
 ---
 

@@ -16,12 +16,6 @@ In the rocky mountains where CHARMELEON live, their fiery tails shine at night l
 |-------|-------|------|-------|
 | ![Charmeleon](../assets/sprites/charmeleon/front.gif "Charmeleon: In the rocky mountains where CHARMELEON live, their fiery tails shine at night like stars.") | ![Charmeleon](../assets/sprites/charmeleon/front_shiny.png "Charmeleon: In the rocky mountains where CHARMELEON live, their fiery tails shine at night like stars.") | ![Charmeleon](../assets/sprites/charmeleon/back.png "Charmeleon: In the rocky mountains where CHARMELEON live, their fiery tails shine at night like stars.") | ![Charmeleon](../assets/sprites/charmeleon/back_shiny.png "Charmeleon: In the rocky mountains where CHARMELEON live, their fiery tails shine at night like stars.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Charmeleon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>1 Speed | 45 | 50 | 142 | Medium Slow | N/A |
+| 1 Sp. Atk<br>1 Spd | 45 | 50 | 142 | Medium Slow | N/A |
 
 ---
 

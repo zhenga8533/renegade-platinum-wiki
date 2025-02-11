@@ -16,12 +16,6 @@ It is a messenger of the skies, carrying small Pokémon and eggs to safety in it
 |-------|-------|------|-------|
 | ![Pelipper](../assets/sprites/pelipper/front.gif "Pelipper: It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.") | ![Pelipper](../assets/sprites/pelipper/front_shiny.png "Pelipper: It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.") | ![Pelipper](../assets/sprites/pelipper/back.png "Pelipper: It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.") | ![Pelipper](../assets/sprites/pelipper/back_shiny.png "Pelipper: It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #279 | ![water](../assets/types/water.png "Water"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 28.0 kg /<br>61.7 lbs | 1. <span class="tooltip" title="The Pokémon makes it rain if it appears in battle.">Drizzle</span><br>2. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span> | #120 |
+| #279 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 28.0 kg /<br>61.7 lbs | 1. <span class="tooltip" title="The Pokémon makes it rain if it appears in battle.">Drizzle</span><br>2. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span> | #120 |
 
 ---
 
@@ -83,7 +77,7 @@ Pelipper has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 45 | 50 | 154 | Mediu |
+| 2 Def | 45 | 50 | 154 | Mediu |
 
 ---
 

@@ -16,12 +16,6 @@ It hides its spiteful tendency of hooking its claws into the nose of its Trainer
 |-------|-------|------|-------|
 | ![Glameow](../assets/sprites/glameow/front.gif "Glameow: It hides its spiteful tendency of hooking its claws into the nose of its Trainer if it isn’t fed.") | ![Glameow](../assets/sprites/glameow/front_shiny.png "Glameow: It hides its spiteful tendency of hooking its claws into the nose of its Trainer if it isn’t fed.") | ![Glameow](../assets/sprites/glameow/back.png "Glameow: It hides its spiteful tendency of hooking its claws into the nose of its Trainer if it isn’t fed.") | ![Glameow](../assets/sprites/glameow/back_shiny.png "Glameow: It hides its spiteful tendency of hooking its claws into the nose of its Trainer if it isn’t fed.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #431 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.5 m /<br>1.6 ft | 3.9 kg /<br>8.6 lbs | 1. <span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>3. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span> | #76 |
+| #431 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.5 m /<br>1.6 ft | 3.9 kg /<br>8.6 lbs | 1. <span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span> | #76 |
 
 ---
 
@@ -83,7 +77,7 @@ Glameow has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 70 | 62 | Fas |
+| 1 Spd | 190 | 70 | 62 | Fas |
 
 ---
 

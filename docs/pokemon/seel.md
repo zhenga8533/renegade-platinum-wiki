@@ -16,12 +16,6 @@ A Pokémon that lives on icebergs. It swims in the sea using the point on its he
 |-------|-------|------|-------|
 | ![Seel](../assets/sprites/seel/front.gif "Seel: A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.") | ![Seel](../assets/sprites/seel/front_shiny.png "Seel: A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.") | ![Seel](../assets/sprites/seel/back.png "Seel: A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.") | ![Seel](../assets/sprites/seel/back_shiny.png "Seel: A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #86 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.1 m /<br>3.6 ft | 90.0 kg /<br>198.4 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span><br>3. <span class="tooltip" title="The Pokémon regains HP in a hailstorm.">Ice Body</span> | N/A |
+| #86 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.1 m /<br>3.6 ft | 90.0 kg /<br>198.4 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Seel has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 190 | 70 | 65 | Mediu |
+| 1 Sp. Def | 190 | 70 | 65 | Mediu |
 
 ---
 

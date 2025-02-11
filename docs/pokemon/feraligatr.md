@@ -16,12 +16,6 @@ It usually moves slowly, but it goes at blinding speed when it attacks and bites
 |-------|-------|------|-------|
 | ![Feraligatr](../assets/sprites/feraligatr/front.gif "Feraligatr: It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.") | ![Feraligatr](../assets/sprites/feraligatr/front_shiny.png "Feraligatr: It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.") | ![Feraligatr](../assets/sprites/feraligatr/back.png "Feraligatr: It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.") | ![Feraligatr](../assets/sprites/feraligatr/back_shiny.png "Feraligatr: It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #160 | ![water](../assets/types/water.png "Water"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 2.3 m /<br>7.5 ft | 88.8 kg /<br>195.8 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span> | N/A |
+| #160 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 2.3 m /<br>7.5 ft | 88.8 kg /<br>195.8 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Feraligatr has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack<br>1 Defense | 45 | 70 | 239 | Medium Slow | N/A |
+| 2 Atk<br>1 Def | 45 | 70 | 239 | Medium Slow | N/A |
 
 ---
 

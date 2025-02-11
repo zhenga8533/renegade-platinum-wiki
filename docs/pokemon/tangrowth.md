@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #465 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 2.0 m /<br>6.6 ft | 128.6 kg /<br>283.5 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Prevents status problems in sunny weather.">Leaf Guard</span><br>3. <span class="tooltip" title="This Pokémon regains 1/3 of its maximum HP when it is switched out for another Pokémon under any circumstances other than having fainted.  This ability does not take effect when a battle ends.">Regenerator</span> | N/A |
+| #465 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 2.0 m /<br>6.6 ft | 128.6 kg /<br>283.5 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Prevents status problems in sunny weather.">Leaf Guard</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Tangrowth has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 30 | 50 | 187 | Medium | N/A |
+| 2 Def | 30 | 50 | 187 | Medium | N/A |
 
 ---
 

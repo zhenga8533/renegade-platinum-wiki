@@ -16,12 +16,6 @@ When it senses danger, it raises all the barbs on its body. These barbs grow slo
 |-------|-------|------|-------|
 | ![Nidorina](../assets/sprites/nidorina/front.gif "Nidorina: When it senses danger, it raises all the barbs on its body. These barbs grow slower than NIDORINO’s.") | ![Nidorina](../assets/sprites/nidorina/front_shiny.png "Nidorina: When it senses danger, it raises all the barbs on its body. These barbs grow slower than NIDORINO’s.") | ![Nidorina](../assets/sprites/nidorina/back.png "Nidorina: When it senses danger, it raises all the barbs on its body. These barbs grow slower than NIDORINO’s.") | ![Nidorina](../assets/sprites/nidorina/back_shiny.png "Nidorina: When it senses danger, it raises all the barbs on its body. These barbs grow slower than NIDORINO’s.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #30 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.8 m /<br>2.6 ft | 20.0 kg /<br>44.1 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may poison the foe.">Poison Point</span><br>2. <span class="tooltip" title="Raises Attack if the foe is of the same gender.">Rivalry</span><br>3. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span> | N/A |
+| #30 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.8 m /<br>2.6 ft | 20.0 kg /<br>44.1 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may poison the foe.">Poison Point</span><br>2. <span class="tooltip" title="Raises Attack if the foe is of the same gender.">Rivalry</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Nidorina has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 120 | 50 | 128 | Medium Slow | N/A |
+| 2 None | 120 | 50 | 128 | Medium Slow | N/A |
 
 ---
 

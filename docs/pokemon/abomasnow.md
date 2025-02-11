@@ -20,7 +20,7 @@ They appear when the snow flowers bloom. When the petals fall, they retreat to p
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Abomasnow](../assets/sprites/abomasnow/front_female.gif "Abomasnow: They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.") | ![Abomasnow](../assets/sprites/abomasnow/front_shiny_female.png "Abomasnow: They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.") | ? | ? |
+| ![Abomasnow](../assets/sprites/abomasnow/front_female.gif "Abomasnow: They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.") | ![Abomasnow](../assets/sprites/abomasnow/front_shiny_female.png "Abomasnow: They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.") | N/A | N/A |
 
 ### Cries
 
@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #460 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![ice](../assets/types/ice.png "Ice"){: width="48"} | 2.2 m /<br>7.2 ft | 135.5 kg /<br>298.7 lbs | 1. <span class="tooltip" title="The Pokémon summons a hailstorm in battle.">Snow Warning</span><br>2. <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span> | #143 |
+| #460 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 2.2 m /<br>7.2 ft | 135.5 kg /<br>298.7 lbs | 1. <span class="tooltip" title="The Pokémon summons a hailstorm in battle.">Snow Warning</span><br>2. <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span> | #143 |
 
 ---
 
@@ -83,7 +83,7 @@ Abomasnow has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack | 60 | 50 | 173 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a piece of ice that repels heat and boosts Ice-type moves.">Never Melt Ice</span> (5%) |
+| 1 Atk<br>1 Sp. Atk | 60 | 50 | 173 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a piece of ice that repels heat and boosts Ice-type moves.">Never Melt Ice</span> (5%) |
 
 ---
 

@@ -16,12 +16,6 @@ When evolving, its body takes in surrounding materials. As a result, there are m
 |-------|-------|------|-------|
 | ![Wormadam Trash](../assets/sprites/wormadam-trash/front.png "Wormadam Trash: When evolving, its body takes in surrounding materials. As a result, there are many body variations.") | ![Wormadam Trash](../assets/sprites/wormadam-trash/front_shiny.png "Wormadam Trash: When evolving, its body takes in surrounding materials. As a result, there are many body variations.") | ![Wormadam Trash](../assets/sprites/wormadam-trash/back.png "Wormadam Trash: When evolving, its body takes in surrounding materials. As a result, there are many body variations.") | ![Wormadam Trash](../assets/sprites/wormadam-trash/back_shiny.png "Wormadam Trash: When evolving, its body takes in surrounding materials. As a result, there are many body variations.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10005 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.5 m /<br>1.6 ft | 6.5 kg /<br>14.3 lbs | 1. <span class="tooltip" title="Senses the foe’s dangerous moves.">Anticipation</span><br>2. <span class="tooltip" title="This Pokémon does not take damage from weather.">Overcoat</span> | #46 |
+| #10005 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.5 m /<br>1.6 ft | 6.5 kg /<br>14.3 lbs | 1. <span class="tooltip" title="Senses the foe’s dangerous moves.">Anticipation</span><br>2. <span class="tooltip" title="This Pokémon does not take damage from weather.">Overcoat</span> | #46 |
 
 ---
 
@@ -94,7 +88,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>1 Special Defense | 45 | 70 | 148 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.">Silver Powder</span> (5%) |
+| 1 Def<br>1 Sp. Def | 45 | 70 | 148 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.">Silver Powder</span> (5%) |
 
 ---
 

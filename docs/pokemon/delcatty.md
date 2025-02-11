@@ -16,12 +16,6 @@ It is highly popular among female Trainers for its sublime fur. It does not keep
 |-------|-------|------|-------|
 | ![Delcatty](../assets/sprites/delcatty/front.gif "Delcatty: It is highly popular among female Trainers for its sublime fur. It does not keep a nest.") | ![Delcatty](../assets/sprites/delcatty/front_shiny.png "Delcatty: It is highly popular among female Trainers for its sublime fur. It does not keep a nest.") | ![Delcatty](../assets/sprites/delcatty/back.png "Delcatty: It is highly popular among female Trainers for its sublime fur. It does not keep a nest.") | ![Delcatty](../assets/sprites/delcatty/back_shiny.png "Delcatty: It is highly popular among female Trainers for its sublime fur. It does not keep a nest.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #301 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.1 m /<br>3.6 ft | 32.6 kg /<br>71.9 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="All the Pokémon’s moves become the Normal type.">Normalize</span><br>3. <span class="tooltip" title="Non-damaging moves have exactly 50% base accuracy against this Pokémon.">Wonder Skin</span> | N/A |
+| #301 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.1 m /<br>3.6 ft | 32.6 kg /<br>71.9 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="All the Pokémon’s moves become the Normal type.">Normalize</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Delcatty has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp<br>1 Speed | 60 | 70 | 140 | Fas |
+| 1 None<br>1 Spd | 60 | 70 | 140 | Fas |
 
 ---
 

@@ -16,12 +16,6 @@ It is strong despite its compact size. It can easily pick up and carry an adult 
 |-------|-------|------|-------|
 | ![Phanpy](../assets/sprites/phanpy/front.gif "Phanpy: It is strong despite its compact size. It can easily pick up and carry an adult human on its back.") | ![Phanpy](../assets/sprites/phanpy/front_shiny.png "Phanpy: It is strong despite its compact size. It can easily pick up and carry an adult human on its back.") | ![Phanpy](../assets/sprites/phanpy/back.png "Phanpy: It is strong despite its compact size. It can easily pick up and carry an adult human on its back.") | ![Phanpy](../assets/sprites/phanpy/back_shiny.png "Phanpy: It is strong despite its compact size. It can easily pick up and carry an adult human on its back.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Phanpy has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 120 | 70 | 66 | Mediu |
+| 1 None | 120 | 70 | 66 | Mediu |
 
 ---
 

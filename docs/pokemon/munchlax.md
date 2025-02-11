@@ -16,12 +16,6 @@ In its desperation to gulp down food, it forgets about the food it has hidden un
 |-------|-------|------|-------|
 | ![Munchlax](../assets/sprites/munchlax/front.gif "Munchlax: In its desperation to gulp down food, it forgets about the food it has hidden under its fur.") | ![Munchlax](../assets/sprites/munchlax/front_shiny.png "Munchlax: In its desperation to gulp down food, it forgets about the food it has hidden under its fur.") | ![Munchlax](../assets/sprites/munchlax/back.png "Munchlax: In its desperation to gulp down food, it forgets about the food it has hidden under its fur.") | ![Munchlax](../assets/sprites/munchlax/back_shiny.png "Munchlax: In its desperation to gulp down food, it forgets about the food it has hidden under its fur.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Munchlax has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 50 | 50 | 78 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. The holder’s HP is gradually restored during battle.">Leftovers</span> (5%) |
+| 1 None | 50 | 50 | 78 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. The holder’s HP is gradually restored during battle.">Leftovers</span> (5%) |
 
 ---
 

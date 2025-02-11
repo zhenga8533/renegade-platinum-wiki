@@ -16,12 +16,6 @@ It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch ca
 |-------|-------|------|-------|
 | ![Haunter](../assets/sprites/haunter/front.gif "Haunter: It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.") | ![Haunter](../assets/sprites/haunter/front_shiny.png "Haunter: It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.") | ![Haunter](../assets/sprites/haunter/back.png "Haunter: It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.") | ![Haunter](../assets/sprites/haunter/back_shiny.png "Haunter: It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #93 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.6 m /<br>5.2 ft | 0.1 kg /<br>0.2 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | #70 |
+| #93 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.6 m /<br>5.2 ft | 0.1 kg /<br>0.2 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | #70 |
 
 ---
 
@@ -85,7 +79,7 @@ Haunter has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 90 | 50 | 142 | Medium Slo |
+| 2 Sp. Atk | 90 | 50 | 142 | Medium Slo |
 
 ---
 

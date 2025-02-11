@@ -16,12 +16,6 @@ It raises its offspring in its belly pouch. It lets the baby out to play only wh
 |-------|-------|------|-------|
 | ![Kangaskhan](../assets/sprites/kangaskhan/front.gif "Kangaskhan: It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.") | ![Kangaskhan](../assets/sprites/kangaskhan/front_shiny.png "Kangaskhan: It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.") | ![Kangaskhan](../assets/sprites/kangaskhan/back.png "Kangaskhan: It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.") | ![Kangaskhan](../assets/sprites/kangaskhan/back_shiny.png "Kangaskhan: It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -81,7 +75,7 @@ Kangaskhan has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 45 | 50 | 172 | Medium | N/A |
+| 2 None | 45 | 50 | 172 | Medium | N/A |
 
 ---
 

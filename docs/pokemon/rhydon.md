@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #112 | ![ground](../assets/types/ground.png "Ground"){: width="48"} ![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.9 m /<br>6.2 ft | 120.0 kg /<br>264.6 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="Powers up moves that have recoil damage.">Reckless</span> | N/A |
+| #112 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.9 m /<br>6.2 ft | 120.0 kg /<br>264.6 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="Powers up moves that have recoil damage.">Reckless</span> | N/A |
 
 ---
 
@@ -85,7 +85,7 @@ Rhydon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 60 | 50 | 170 | Slow | N/A |
+| 2 Atk | 60 | 50 | 170 | Slow | N/A |
 
 ---
 

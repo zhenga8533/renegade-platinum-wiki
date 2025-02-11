@@ -16,12 +16,6 @@ If its coat becomes fully charged with electricity, its tail lights up. It fires
 |-------|-------|------|-------|
 | ![Flaaffy](../assets/sprites/flaaffy/front.gif "Flaaffy: If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact.") | ![Flaaffy](../assets/sprites/flaaffy/front_shiny.png "Flaaffy: If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact.") | ![Flaaffy](../assets/sprites/flaaffy/back.png "Flaaffy: If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact.") | ![Flaaffy](../assets/sprites/flaaffy/back_shiny.png "Flaaffy: If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Flaaffy has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 120 | 70 | 128 | Medium Slow | N/A |
+| 2 Sp. Atk | 120 | 70 | 128 | Medium Slow | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ On nights around the quarter moon, the aurora from its tail extends and undulate
 |-------|-------|------|-------|
 | ![Cresselia](../assets/sprites/cresselia/front.gif "Cresselia: On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.") | ![Cresselia](../assets/sprites/cresselia/front_shiny.png "Cresselia: On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.") | ![Cresselia](../assets/sprites/cresselia/back.png "Cresselia: On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.") | ![Cresselia](../assets/sprites/cresselia/back_shiny.png "Cresselia: On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -81,7 +75,7 @@ Cresselia has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 3 | 100 | 300 | Slow | N/A |
+| 3 Sp. Def | 3 | 100 | 300 | Slow | N/A |
 
 ---
 

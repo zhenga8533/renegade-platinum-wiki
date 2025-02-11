@@ -16,12 +16,6 @@ When it extends its over-six-foot- long tongue, its tail quivers. There is a pos
 |-------|-------|------|-------|
 | ![Lickitung](../assets/sprites/lickitung/front.gif "Lickitung: When it extends its over-six-foot- long tongue, its tail quivers. There is a possibility they are connected.") | ![Lickitung](../assets/sprites/lickitung/front_shiny.png "Lickitung: When it extends its over-six-foot- long tongue, its tail quivers. There is a possibility they are connected.") | ![Lickitung](../assets/sprites/lickitung/back.png "Lickitung: When it extends its over-six-foot- long tongue, its tail quivers. There is a possibility they are connected.") | ![Lickitung](../assets/sprites/lickitung/back_shiny.png "Lickitung: When it extends its over-six-foot- long tongue, its tail quivers. There is a possibility they are connected.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #108 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.2 m /<br>3.9 ft | 65.5 kg /<br>144.4 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span><br>3. <span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span> | N/A |
+| #108 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.2 m /<br>3.9 ft | 65.5 kg /<br>144.4 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Lickitung has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 45 | 50 | 77 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.">Lagging Tail</span> (5%) |
+| 2 None | 45 | 50 | 77 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.">Lagging Tail</span> (5%) |
 
 ---
 

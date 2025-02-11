@@ -16,12 +16,6 @@ Its proud and regal appearance has captured the hearts of people since long ago.
 |-------|-------|------|-------|
 | ![Arcanine](../assets/sprites/arcanine/front.gif "Arcanine: Its proud and regal appearance has captured the hearts of people since long ago.") | ![Arcanine](../assets/sprites/arcanine/front_shiny.png "Arcanine: Its proud and regal appearance has captured the hearts of people since long ago.") | ![Arcanine](../assets/sprites/arcanine/back.png "Arcanine: Its proud and regal appearance has captured the hearts of people since long ago.") | ![Arcanine](../assets/sprites/arcanine/back_shiny.png "Arcanine: Its proud and regal appearance has captured the hearts of people since long ago.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #59 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.9 m /<br>6.2 ft | 155.0 kg /<br>341.7 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Powers up Fire-type moves if hit by a fire move.">Flash Fire</span><br>3. <span class="tooltip" title="Whenever a dark-type move hits this Pokémon, its Attack rises one stage.  The move is not negated in any way.">Justified</span> | N/A |
+| #59 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 1.9 m /<br>6.2 ft | 155.0 kg /<br>341.7 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Powers up Fire-type moves if hit by a fire move.">Flash Fire</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Arcanine has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 75 | 50 | 194 | Slo |
+| 2 Atk | 75 | 50 | 194 | Slo |
 
 ---
 

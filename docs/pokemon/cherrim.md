@@ -16,12 +16,6 @@ If it senses strong sunlight, it opens its folded petals to absorb the sun’s r
 |-------|-------|------|-------|
 | ![Cherrim](../assets/sprites/cherrim/front.gif "Cherrim: If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.") | ![Cherrim](../assets/sprites/cherrim/front_shiny.png "Cherrim: If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.") | ![Cherrim](../assets/sprites/cherrim/back.png "Cherrim: If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.") | ![Cherrim](../assets/sprites/cherrim/back_shiny.png "Cherrim: If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cherrim Sunshine Sprites
 
 | Front | Shiny | Back | Shiny |
@@ -89,7 +83,7 @@ Cherrim has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 75 | 50 | 158 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.">Miracle Seed</span> (5%) |
+| 2 Sp. Atk | 75 | 50 | 158 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.">Miracle Seed</span> (5%) |
 
 ---
 

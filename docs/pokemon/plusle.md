@@ -16,12 +16,6 @@ It cheers on friends with pom-poms made of sparks. It drains power from telephon
 |-------|-------|------|-------|
 | ![Plusle](../assets/sprites/plusle/front.gif "Plusle: It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.") | ![Plusle](../assets/sprites/plusle/front_shiny.png "Plusle: It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.") | ![Plusle](../assets/sprites/plusle/back.png "Plusle: It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.") | ![Plusle](../assets/sprites/plusle/back_shiny.png "Plusle: It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -81,7 +75,7 @@ Plusle has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 200 | 70 | 142 | Mediu |
+| 1 Spd | 200 | 70 | 142 | Mediu |
 
 ---
 

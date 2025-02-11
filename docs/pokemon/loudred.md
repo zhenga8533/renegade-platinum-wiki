@@ -16,12 +16,6 @@ The shock waves from its cries can tip over trucks. It stamps its feet to power 
 |-------|-------|------|-------|
 | ![Loudred](../assets/sprites/loudred/front.gif "Loudred: The shock waves from its cries can tip over trucks. It stamps its feet to power up.") | ![Loudred](../assets/sprites/loudred/front_shiny.png "Loudred: The shock waves from its cries can tip over trucks. It stamps its feet to power up.") | ![Loudred](../assets/sprites/loudred/back.png "Loudred: The shock waves from its cries can tip over trucks. It stamps its feet to power up.") | ![Loudred](../assets/sprites/loudred/back_shiny.png "Loudred: The shock waves from its cries can tip over trucks. It stamps its feet to power up.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Loudred has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 120 | 50 | 126 | Medium Slo |
+| 2 None | 120 | 50 | 126 | Medium Slo |
 
 ---
 

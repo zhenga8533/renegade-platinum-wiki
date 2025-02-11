@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #457 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.2 m /<br>3.9 ft | 24.0 kg /<br>52.9 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="The Pokémon draws in all Water-type moves.">Storm Drain</span><br>3. <span class="tooltip" title="Prevents the Pokémon from getting a burn.">Water Veil</span> | #135 |
+| #457 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.2 m /<br>3.9 ft | 24.0 kg /<br>52.9 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="The Pokémon draws in all Water-type moves.">Storm Drain</span> | #135 |
 
 ---
 
@@ -83,7 +83,7 @@ Lumineon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 75 | 70 | 161 | Slow Then Very Fas |
+| 2 Spd | 75 | 70 | 161 | Slow Then Very Fas |
 
 ---
 

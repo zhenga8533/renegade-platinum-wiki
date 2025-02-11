@@ -16,12 +16,6 @@ It is called the “Mirage Pokémon” because so few have seen it. Its shed ski
 |-------|-------|------|-------|
 | ![Dratini](../assets/sprites/dratini/front.gif "Dratini: It is called the “Mirage Pokémon” because so few have seen it. Its shed skin has been found.") | ![Dratini](../assets/sprites/dratini/front_shiny.png "Dratini: It is called the “Mirage Pokémon” because so few have seen it. Its shed skin has been found.") | ![Dratini](../assets/sprites/dratini/back.png "Dratini: It is called the “Mirage Pokémon” because so few have seen it. Its shed skin has been found.") | ![Dratini](../assets/sprites/dratini/back_shiny.png "Dratini: It is called the “Mirage Pokémon” because so few have seen it. Its shed skin has been found.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Dratini has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 45 | 35 | 60 | Slow | <span class="tooltip" title="A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.">Dragon Scale</span> (5%) |
+| 1 Atk | 45 | 35 | 60 | Slow | <span class="tooltip" title="A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.">Dragon Scale</span> (5%) |
 
 ---
 

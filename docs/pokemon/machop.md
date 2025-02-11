@@ -16,12 +16,6 @@ Though small in stature, it is powerful enough to easily heft and throw a number
 |-------|-------|------|-------|
 | ![Machop](../assets/sprites/machop/front.gif "Machop: Though small in stature, it is powerful enough to easily heft and throw a number of GEODUDE at once.") | ![Machop](../assets/sprites/machop/front_shiny.png "Machop: Though small in stature, it is powerful enough to easily heft and throw a number of GEODUDE at once.") | ![Machop](../assets/sprites/machop/back.png "Machop: Though small in stature, it is powerful enough to easily heft and throw a number of GEODUDE at once.") | ![Machop](../assets/sprites/machop/back_shiny.png "Machop: Though small in stature, it is powerful enough to easily heft and throw a number of GEODUDE at once.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #66 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.8 m /<br>2.6 ft | 19.5 kg /<br>43.0 lbs | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Ensures the Pokémon and its foe’s attacks land.">No Guard</span><br>3. <span class="tooltip" title="Raises Speed each time the Pokémon flinches.">Steadfast</span> | #40 |
+| #66 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.8 m /<br>2.6 ft | 19.5 kg /<br>43.0 lbs | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Ensures the Pokémon and its foe’s attacks land.">No Guard</span> | #40 |
 
 ---
 
@@ -85,7 +79,7 @@ Machop has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 180 | 50 | 61 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP.">Focus Band</span> (5%) |
+| 1 Atk | 180 | 50 | 61 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP.">Focus Band</span> (5%) |
 
 ---
 

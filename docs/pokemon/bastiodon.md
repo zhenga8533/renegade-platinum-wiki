@@ -16,12 +16,6 @@ When they lined up side by side, no foe could break through. They shielded their
 |-------|-------|------|-------|
 | ![Bastiodon](../assets/sprites/bastiodon/front.gif "Bastiodon: When they lined up side by side, no foe could break through. They shielded their young in that way.") | ![Bastiodon](../assets/sprites/bastiodon/front_shiny.png "Bastiodon: When they lined up side by side, no foe could break through. They shielded their young in that way.") | ![Bastiodon](../assets/sprites/bastiodon/back.png "Bastiodon: When they lined up side by side, no foe could break through. They shielded their young in that way.") | ![Bastiodon](../assets/sprites/bastiodon/back_shiny.png "Bastiodon: When they lined up side by side, no foe could break through. They shielded their young in that way.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #411 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.3 m /<br>4.3 ft | 149.5 kg /<br>329.6 lbs | 1. <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span><br>2. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span> | #39 |
+| #411 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.3 m /<br>4.3 ft | 149.5 kg /<br>329.6 lbs | 1. <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span><br>2. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span> | #39 |
 
 ---
 
@@ -83,7 +77,7 @@ Bastiodon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 45 | 70 | 173 | Slow Then Very Fast | N/A |
+| 2 Def | 45 | 70 | 173 | Slow Then Very Fast | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ A legendary Pokémon that is said to live in thunderclouds. It freely controls l
 |-------|-------|------|-------|
 | ![Zapdos](../assets/sprites/zapdos/front.gif "Zapdos: A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.") | ![Zapdos](../assets/sprites/zapdos/front_shiny.png "Zapdos: A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.") | ![Zapdos](../assets/sprites/zapdos/back.png "Zapdos: A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.") | ![Zapdos](../assets/sprites/zapdos/back_shiny.png "Zapdos: A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #145 | ![electric](../assets/types/electric.png "Electric"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.6 m /<br>5.2 ft | 52.6 kg /<br>116.0 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span> | N/A |
+| #145 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.6 m /<br>5.2 ft | 52.6 kg /<br>116.0 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Zapdos has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 3 | 35 | 290 | Slow | N/A |
+| 3 Sp. Atk | 3 | 35 | 290 | Slow | N/A |
 
 ---
 

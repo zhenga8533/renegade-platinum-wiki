@@ -16,12 +16,6 @@ When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful ap
 |-------|-------|------|-------|
 | ![Rapidash](../assets/sprites/rapidash/front.gif "Rapidash: When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.") | ![Rapidash](../assets/sprites/rapidash/front_shiny.png "Rapidash: When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.") | ![Rapidash](../assets/sprites/rapidash/back.png "Rapidash: When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.") | ![Rapidash](../assets/sprites/rapidash/back_shiny.png "Rapidash: When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Rapidash has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 60 | 50 | 175 | Mediu |
+| 2 Spd | 60 | 50 | 175 | Mediu |
 
 ---
 

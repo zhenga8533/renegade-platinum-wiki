@@ -16,12 +16,6 @@ It marks time precisely. Some countries consider it to be a wise friend, versed 
 |-------|-------|------|-------|
 | ![Hoothoot](../assets/sprites/hoothoot/front.gif "Hoothoot: It marks time precisely. Some countries consider it to be a wise friend, versed in the world’s ways.") | ![Hoothoot](../assets/sprites/hoothoot/front_shiny.png "Hoothoot: It marks time precisely. Some countries consider it to be a wise friend, versed in the world’s ways.") | ![Hoothoot](../assets/sprites/hoothoot/back.png "Hoothoot: It marks time precisely. Some countries consider it to be a wise friend, versed in the world’s ways.") | ![Hoothoot](../assets/sprites/hoothoot/back_shiny.png "Hoothoot: It marks time precisely. Some countries consider it to be a wise friend, versed in the world’s ways.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #163 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.7 m /<br>2.3 ft | 21.2 kg /<br>46.7 lbs | 1. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br>2. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span> | #106 |
+| #163 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.7 m /<br>2.3 ft | 21.2 kg /<br>46.7 lbs | 1. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br>2. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span> | #106 |
 
 ---
 
@@ -83,7 +77,7 @@ Hoothoot has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 255 | 50 | 52 | Medium | N/A |
+| 1 None | 255 | 50 | 52 | Medium | N/A |
 
 ---
 

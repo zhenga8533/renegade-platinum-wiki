@@ -16,12 +16,6 @@ For some time after its birth, it grows by gaining nourishment from the seed on 
 |-------|-------|------|-------|
 | ![Bulbasaur](../assets/sprites/bulbasaur/front.gif "Bulbasaur: For some time after its birth, it grows by gaining nourishment from the seed on its back.") | ![Bulbasaur](../assets/sprites/bulbasaur/front_shiny.png "Bulbasaur: For some time after its birth, it grows by gaining nourishment from the seed on its back.") | ![Bulbasaur](../assets/sprites/bulbasaur/back.png "Bulbasaur: For some time after its birth, it grows by gaining nourishment from the seed on its back.") | ![Bulbasaur](../assets/sprites/bulbasaur/back_shiny.png "Bulbasaur: For some time after its birth, it grows by gaining nourishment from the seed on its back.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #1 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.7 m /<br>2.3 ft | 6.9 kg /<br>15.2 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span> | N/A |
+| #1 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.7 m /<br>2.3 ft | 6.9 kg /<br>15.2 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Bulbasaur has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 45 | 50 | 64 | Medium Slow | N/A |
+| 1 Sp. Atk | 45 | 50 | 64 | Medium Slow | N/A |
 
 ---
 

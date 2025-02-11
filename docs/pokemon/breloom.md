@@ -16,12 +16,6 @@ Its short arms stretch when it throws punches. Its technique is equal to that of
 |-------|-------|------|-------|
 | ![Breloom](../assets/sprites/breloom/front.gif "Breloom: Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.") | ![Breloom](../assets/sprites/breloom/front_shiny.png "Breloom: Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.") | ![Breloom](../assets/sprites/breloom/back.png "Breloom: Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.") | ![Breloom](../assets/sprites/breloom/back_shiny.png "Breloom: Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #286 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.2 m /<br>3.9 ft | 39.2 kg /<br>86.4 lbs | 1. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span><br>2. <span class="tooltip" title="Restores HP if the Pokémon is poisoned.">Poison Heal</span> | N/A |
+| #286 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.2 m /<br>3.9 ft | 39.2 kg /<br>86.4 lbs | 1. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span><br>2. <span class="tooltip" title="Restores HP if the Pokémon is poisoned.">Poison Heal</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Breloom has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 90 | 70 | 161 | Fast Then Very Slow | <span class="tooltip" title="A small and rare mushroom. It is quite popular among certain maniacal fan segments.">Tiny Mushroom</span> (50%)<br><span class="tooltip" title="A large and rare mushroom. It is very popular among certain maniacal fan segments.">Big Mushroom</span> (5%) |
+| 2 Atk | 90 | 70 | 161 | Fast Then Very Slow | <span class="tooltip" title="A small and rare mushroom. It is quite popular among certain maniacal fan segments.">Tiny Mushroom</span> (50%)<br><span class="tooltip" title="A large and rare mushroom. It is very popular among certain maniacal fan segments.">Big Mushroom</span> (5%) |
 
 ---
 

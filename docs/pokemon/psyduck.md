@@ -16,12 +16,6 @@ Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes
 |-------|-------|------|-------|
 | ![Psyduck](../assets/sprites/psyduck/front.gif "Psyduck: Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.") | ![Psyduck](../assets/sprites/psyduck/front_shiny.png "Psyduck: Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.") | ![Psyduck](../assets/sprites/psyduck/back.png "Psyduck: Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.") | ![Psyduck](../assets/sprites/psyduck/back_shiny.png "Psyduck: Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #54 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.8 m /<br>2.6 ft | 19.6 kg /<br>43.2 lbs | 1. <span class="tooltip" title="Prevents combatants from self destructing.">Damp</span><br>2. <span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span><br>3. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span> | #43 |
+| #54 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.8 m /<br>2.6 ft | 19.6 kg /<br>43.2 lbs | 1. <span class="tooltip" title="Prevents combatants from self destructing.">Damp</span><br>2. <span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span> | #43 |
 
 ---
 
@@ -83,7 +77,7 @@ Psyduck has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 190 | 50 | 64 | Medium | N/A |
+| 1 Sp. Atk | 190 | 50 | 64 | Medium | N/A |
 
 ---
 

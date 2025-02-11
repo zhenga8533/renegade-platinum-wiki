@@ -16,12 +16,6 @@ It flies over its wide territory in search of prey, downing it with its highly d
 |-------|-------|------|-------|
 | ![Pidgeotto](../assets/sprites/pidgeotto/front.gif "Pidgeotto: It flies over its wide territory in search of prey, downing it with its highly developed claws.") | ![Pidgeotto](../assets/sprites/pidgeotto/front_shiny.png "Pidgeotto: It flies over its wide territory in search of prey, downing it with its highly developed claws.") | ![Pidgeotto](../assets/sprites/pidgeotto/back.png "Pidgeotto: It flies over its wide territory in search of prey, downing it with its highly developed claws.") | ![Pidgeotto](../assets/sprites/pidgeotto/back_shiny.png "Pidgeotto: It flies over its wide territory in search of prey, downing it with its highly developed claws.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #17 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.1 m /<br>3.6 ft | 30.0 kg /<br>66.1 lbs | 1. <span class="tooltip" title="Ensures the Pokémon and its foe’s attacks land.">No Guard</span><br>2. <span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span> | N/A |
+| #17 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.1 m /<br>3.6 ft | 30.0 kg /<br>66.1 lbs | 1. <span class="tooltip" title="Ensures the Pokémon and its foe’s attacks land.">No Guard</span><br>2. <span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Pidgeotto has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 120 | 70 | 122 | Medium Slow | N/A |
+| 2 Spd | 120 | 70 | 122 | Medium Slow | N/A |
 
 ---
 

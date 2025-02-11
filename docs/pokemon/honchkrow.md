@@ -16,12 +16,6 @@ If one utters a deep cry, many MURKROW gather quickly. For this, it is called �
 |-------|-------|------|-------|
 | ![Honchkrow](../assets/sprites/honchkrow/front.gif "Honchkrow: If one utters a deep cry, many MURKROW gather quickly. For this, it is called “Summoner of Night.”") | ![Honchkrow](../assets/sprites/honchkrow/front_shiny.png "Honchkrow: If one utters a deep cry, many MURKROW gather quickly. For this, it is called “Summoner of Night.”") | ![Honchkrow](../assets/sprites/honchkrow/back.png "Honchkrow: If one utters a deep cry, many MURKROW gather quickly. For this, it is called “Summoner of Night.”") | ![Honchkrow](../assets/sprites/honchkrow/back_shiny.png "Honchkrow: If one utters a deep cry, many MURKROW gather quickly. For this, it is called “Summoner of Night.”") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #430 | ![dark](../assets/types/dark.png "Dark"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.9 m /<br>3.0 ft | 27.3 kg /<br>60.2 lbs | 1. <span class="tooltip" title="Heightens the critical-hit ratios of moves.">Super Luck</span><br>2. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span> | #75 |
+| #430 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.9 m /<br>3.0 ft | 27.3 kg /<br>60.2 lbs | 1. <span class="tooltip" title="Heightens the critical-hit ratios of moves.">Super Luck</span><br>2. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span> | #75 |
 
 ---
 
@@ -83,7 +77,7 @@ Honchkrow has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 30 | 35 | 177 | Medium Slow | N/A |
+| 2 Atk | 30 | 35 | 177 | Medium Slow | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ The tip of its tail shines brightly. In the olden days, people sent signals usin
 |-------|-------|------|-------|
 | ![Ampharos](../assets/sprites/ampharos/front.gif "Ampharos: The tip of its tail shines brightly. In the olden days, people sent signals using the tail’s light.") | ![Ampharos](../assets/sprites/ampharos/front_shiny.png "Ampharos: The tip of its tail shines brightly. In the olden days, people sent signals using the tail’s light.") | ![Ampharos](../assets/sprites/ampharos/back.png "Ampharos: The tip of its tail shines brightly. In the olden days, people sent signals using the tail’s light.") | ![Ampharos](../assets/sprites/ampharos/back_shiny.png "Ampharos: The tip of its tail shines brightly. In the olden days, people sent signals using the tail’s light.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #181 | ![electric](../assets/types/electric.png "Electric"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.4 m /<br>4.6 ft | 61.5 kg /<br>135.6 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br>2. <span class="tooltip" title="Boosts Sp. Atk if another Pokémon has Minus.">Plus</span> | N/A |
+| #181 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.4 m /<br>4.6 ft | 61.5 kg /<br>135.6 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br>2. <span class="tooltip" title="Boosts Sp. Atk if another Pokémon has Minus.">Plus</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Ampharos has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 45 | 70 | 230 | Medium Slow | N/A |
+| 3 Sp. Atk | 45 | 70 | 230 | Medium Slow | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ A Pokémon with a loyal nature. It will remain motionless until it is given an o
 |-------|-------|------|-------|
 | ![Growlithe](../assets/sprites/growlithe/front.gif "Growlithe: A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.") | ![Growlithe](../assets/sprites/growlithe/front_shiny.png "Growlithe: A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.") | ![Growlithe](../assets/sprites/growlithe/back.png "Growlithe: A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.") | ![Growlithe](../assets/sprites/growlithe/back_shiny.png "Growlithe: A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #58 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.7 m /<br>2.3 ft | 19.0 kg /<br>41.9 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Powers up Fire-type moves if hit by a fire move.">Flash Fire</span><br>3. <span class="tooltip" title="Whenever a dark-type move hits this Pokémon, its Attack rises one stage.  The move is not negated in any way.">Justified</span> | N/A |
+| #58 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.7 m /<br>2.3 ft | 19.0 kg /<br>41.9 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Powers up Fire-type moves if hit by a fire move.">Flash Fire</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Growlithe has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 190 | 50 | 70 | Slo |
+| 1 Atk | 190 | 50 | 70 | Slo |
 
 ---
 

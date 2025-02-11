@@ -16,12 +16,6 @@ It shapes an invisible wall in midair by minutely vibrating its fingertips to st
 |-------|-------|------|-------|
 | ![Mr Mime](../assets/sprites/mr-mime/front.gif "Mr Mime: It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.") | ![Mr Mime](../assets/sprites/mr-mime/front_shiny.png "Mr Mime: It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.") | ![Mr Mime](../assets/sprites/mr-mime/back.png "Mr Mime: It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.") | ![Mr Mime](../assets/sprites/mr-mime/back_shiny.png "Mr Mime: It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #122 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.3 m /<br>4.3 ft | 54.5 kg /<br>120.2 lbs | 1. <span class="tooltip" title="Powers down super­ effective moves.">Filter</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | #95 |
+| #122 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.3 m /<br>4.3 ft | 54.5 kg /<br>120.2 lbs | 1. <span class="tooltip" title="Powers down super­ effective moves.">Filter</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | #95 |
 
 ---
 
@@ -83,7 +77,7 @@ Mr Mime has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 45 | 50 | 161 | Mediu |
+| 2 Sp. Def | 45 | 50 | 161 | Mediu |
 
 ---
 

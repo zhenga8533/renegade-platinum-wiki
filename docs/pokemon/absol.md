@@ -16,12 +16,6 @@ Rumored to sense disasters with its horn, it became a target. It fled deep into 
 |-------|-------|------|-------|
 | ![Absol](../assets/sprites/absol/front.gif "Absol: Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.") | ![Absol](../assets/sprites/absol/front_shiny.png "Absol: Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.") | ![Absol](../assets/sprites/absol/back.png "Absol: Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.") | ![Absol](../assets/sprites/absol/back_shiny.png "Absol: Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -81,7 +75,7 @@ Absol has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 30 | 35 | 163 | Medium Slo |
+| 2 Atk | 30 | 35 | 163 | Medium Slo |
 
 ---
 

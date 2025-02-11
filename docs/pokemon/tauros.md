@@ -16,12 +16,6 @@ Once it takes aim at its foe, it makes a headlong charge. It is famous for its v
 |-------|-------|------|-------|
 | ![Tauros](../assets/sprites/tauros/front.gif "Tauros: Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.") | ![Tauros](../assets/sprites/tauros/front_shiny.png "Tauros: Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.") | ![Tauros](../assets/sprites/tauros/back.png "Tauros: Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.") | ![Tauros](../assets/sprites/tauros/back_shiny.png "Tauros: Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #128 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.4 m /<br>4.6 ft | 88.4 kg /<br>194.9 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Raises Attack upon taking a critical hit.">Anger Point</span><br>3. <span class="tooltip" title="This Pokémon's moves with extra effects have 1.3× their power, but lose their extra effects.  An effect chance is a move's chance to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect. For example, thunder shock's paralysis is an extra effect, but thunder wave's is not, nor are knock off's item removal and air cutter's increased critical hit rate.  Moves that lower the user's stats are unaffected.">Sheer Force</span> | N/A |
+| #128 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.4 m /<br>4.6 ft | 88.4 kg /<br>194.9 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Raises Attack upon taking a critical hit.">Anger Point</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Tauros has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Speed | 45 | 50 | 172 | Slow | N/A |
+| 1 Atk<br>1 Spd | 45 | 50 | 172 | Slow | N/A |
 
 ---
 

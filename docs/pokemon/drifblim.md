@@ -16,12 +16,6 @@ At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly 
 |-------|-------|------|-------|
 | ![Drifblim](../assets/sprites/drifblim/front.gif "Drifblim: At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.") | ![Drifblim](../assets/sprites/drifblim/front_shiny.png "Drifblim: At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.") | ![Drifblim](../assets/sprites/drifblim/back.png "Drifblim: At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.") | ![Drifblim](../assets/sprites/drifblim/back_shiny.png "Drifblim: At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #426 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 15.0 kg /<br>33.1 lbs | 1. <span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span><br>2. <span class="tooltip" title="Damages the foe landing the finishing hit.">Aftermath</span> | #66 |
+| #426 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 15.0 kg /<br>33.1 lbs | 1. <span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span><br>2. <span class="tooltip" title="Damages the foe landing the finishing hit.">Aftermath</span> | #66 |
 
 ---
 
@@ -83,7 +77,7 @@ Drifblim has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 60 | 50 | 174 | Fast Then Very Slo |
+| 2 None | 60 | 50 | 174 | Fast Then Very Slo |
 
 ---
 

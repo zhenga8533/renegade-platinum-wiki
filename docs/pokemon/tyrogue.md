@@ -16,12 +16,6 @@ It is famous for its eagerness to fight and always nurses injuries from challeng
 |-------|-------|------|-------|
 | ![Tyrogue](../assets/sprites/tyrogue/front.gif "Tyrogue: It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.") | ![Tyrogue](../assets/sprites/tyrogue/front_shiny.png "Tyrogue: It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.") | ![Tyrogue](../assets/sprites/tyrogue/back.png "Tyrogue: It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.") | ![Tyrogue](../assets/sprites/tyrogue/back_shiny.png "Tyrogue: It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -87,7 +81,7 @@ Tyrogue has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 75 | 50 | 42 | Medium | N/A |
+| 1 Atk | 75 | 50 | 42 | Medium | N/A |
 
 ---
 

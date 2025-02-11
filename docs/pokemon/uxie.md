@@ -16,12 +16,6 @@ When UXIE flew, people gained the ability to solve problems. It was the birth of
 |-------|-------|------|-------|
 | ![Uxie](../assets/sprites/uxie/front.gif "Uxie: When UXIE flew, people gained the ability to solve problems. It was the birth of knowledge.") | ![Uxie](../assets/sprites/uxie/front_shiny.png "Uxie: When UXIE flew, people gained the ability to solve problems. It was the birth of knowledge.") | ![Uxie](../assets/sprites/uxie/back.png "Uxie: When UXIE flew, people gained the ability to solve problems. It was the birth of knowledge.") | ![Uxie](../assets/sprites/uxie/back_shiny.png "Uxie: When UXIE flew, people gained the ability to solve problems. It was the birth of knowledge.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #480 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.3 m /<br>1.0 ft | 0.3 kg /<br>0.7 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | #146 |
+| #480 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.3 m /<br>1.0 ft | 0.3 kg /<br>0.7 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | #146 |
 
 ---
 
@@ -81,7 +75,7 @@ Uxie has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense<br>1 Special Defense | 3 | 140 | 290 | Slow | N/A |
+| 2 Def<br>1 Sp. Def | 3 | 140 | 290 | Slow | N/A |
 
 ---
 

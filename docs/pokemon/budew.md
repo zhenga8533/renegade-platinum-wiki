@@ -16,12 +16,6 @@ Sensitive to changing temperature, the bud is said to bloom when it feels the su
 |-------|-------|------|-------|
 | ![Budew](../assets/sprites/budew/front.gif "Budew: Sensitive to changing temperature, the bud is said to bloom when it feels the sun’s warm touch.") | ![Budew](../assets/sprites/budew/front_shiny.png "Budew: Sensitive to changing temperature, the bud is said to bloom when it feels the sun’s warm touch.") | ![Budew](../assets/sprites/budew/back.png "Budew: Sensitive to changing temperature, the bud is said to bloom when it feels the sun’s warm touch.") | ![Budew](../assets/sprites/budew/back_shiny.png "Budew: Sensitive to changing temperature, the bud is said to bloom when it feels the sun’s warm touch.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #406 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.2 m /<br>0.7 ft | 1.2 kg /<br>2.6 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may poison the foe.">Poison Point</span><br>2. <span class="tooltip" title="All status problems are healed upon switching out.">Natural Cure</span> | #25 |
+| #406 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.2 m /<br>0.7 ft | 1.2 kg /<br>2.6 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may poison the foe.">Poison Point</span><br>2. <span class="tooltip" title="All status problems are healed upon switching out.">Natural Cure</span> | #25 |
 
 ---
 
@@ -85,7 +79,7 @@ Budew has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 255 | 180 | 56 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
+| 1 Sp. Atk | 255 | 180 | 56 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
 
 ---
 

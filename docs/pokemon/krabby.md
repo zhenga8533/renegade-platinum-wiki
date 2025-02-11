@@ -16,12 +16,6 @@ It lives in burrows dug on sandy beaches. Its pincers fully grow back if they ar
 |-------|-------|------|-------|
 | ![Krabby](../assets/sprites/krabby/front.gif "Krabby: It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.") | ![Krabby](../assets/sprites/krabby/front_shiny.png "Krabby: It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.") | ![Krabby](../assets/sprites/krabby/back.png "Krabby: It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.") | ![Krabby](../assets/sprites/krabby/back_shiny.png "Krabby: It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #98 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.4 m /<br>1.3 ft | 6.5 kg /<br>14.3 lbs | 1. <span class="tooltip" title="Prevents the Attack stat from being lowered.">Hyper Cutter</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span><br>3. <span class="tooltip" title="This Pokémon's moves with extra effects have 1.3× their power, but lose their extra effects.  An effect chance is a move's chance to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect. For example, thunder shock's paralysis is an extra effect, but thunder wave's is not, nor are knock off's item removal and air cutter's increased critical hit rate.  Moves that lower the user's stats are unaffected.">Sheer Force</span> | N/A |
+| #98 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.4 m /<br>1.3 ft | 6.5 kg /<br>14.3 lbs | 1. <span class="tooltip" title="Prevents the Attack stat from being lowered.">Hyper Cutter</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Krabby has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 225 | 50 | 65 | Medium | N/A |
+| 1 Atk | 225 | 50 | 65 | Medium | N/A |
 
 ---
 

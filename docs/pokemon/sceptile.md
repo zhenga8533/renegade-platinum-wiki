@@ -16,12 +16,6 @@ The leaves that grow on its arms can slice down thick trees. It is without peer 
 |-------|-------|------|-------|
 | ![Sceptile](../assets/sprites/sceptile/front.gif "Sceptile: The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.") | ![Sceptile](../assets/sprites/sceptile/front_shiny.png "Sceptile: The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.") | ![Sceptile](../assets/sprites/sceptile/back.png "Sceptile: The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.") | ![Sceptile](../assets/sprites/sceptile/back_shiny.png "Sceptile: The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #254 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.7 m /<br>5.6 ft | 52.2 kg /<br>115.1 lbs | 1. <span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span><br>2. <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span> | N/A |
+| #254 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.7 m /<br>5.6 ft | 52.2 kg /<br>115.1 lbs | 1. <span class="tooltip" title="Raises Speed if a held item is used.">Unburden</span><br>2. <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Sceptile has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Speed | 45 | 50 | 265 | Medium Slow | N/A |
+| 3 Spd | 45 | 50 | 265 | Medium Slow | N/A |
 
 ---
 

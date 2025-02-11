@@ -16,12 +16,6 @@ They swarm any foe that invades their territory. Their sharp fangs can tear out 
 |-------|-------|------|-------|
 | ![Carvanha](../assets/sprites/carvanha/front.gif "Carvanha: They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.") | ![Carvanha](../assets/sprites/carvanha/front_shiny.png "Carvanha: They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.") | ![Carvanha](../assets/sprites/carvanha/back.png "Carvanha: They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.") | ![Carvanha](../assets/sprites/carvanha/back_shiny.png "Carvanha: They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #318 | ![water](../assets/types/water.png "Water"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.8 m /<br>2.6 ft | 20.8 kg /<br>45.9 lbs | 1. <span class="tooltip" title="The Pokémon’s Speed stat is gradually boosted.">Speed Boost</span><br>2. <span class="tooltip" title="Inflicts damage to the foe on contact.">Rough Skin</span> | N/A |
+| #318 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.8 m /<br>2.6 ft | 20.8 kg /<br>45.9 lbs | 1. <span class="tooltip" title="The Pokémon’s Speed stat is gradually boosted.">Speed Boost</span><br>2. <span class="tooltip" title="Inflicts damage to the foe on contact.">Rough Skin</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Carvanha has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 225 | 35 | 61 | Slow | <span class="tooltip" title="An item to be held by CLAMPERL. A fang that gleams a sharp silver, it raises the Sp. Atk stat.">Deep Sea Tooth</span> (5%) |
+| 1 Atk | 225 | 35 | 61 | Slow | <span class="tooltip" title="An item to be held by CLAMPERL. A fang that gleams a sharp silver, it raises the Sp. Atk stat.">Deep Sea Tooth</span> (5%) |
 
 ---
 

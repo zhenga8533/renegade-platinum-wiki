@@ -16,12 +16,6 @@ It digs into the ground with its tail and makes a mazelike nest. It can fly just
 |-------|-------|------|-------|
 | ![Dunsparce](../assets/sprites/dunsparce/front.gif "Dunsparce: It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.") | ![Dunsparce](../assets/sprites/dunsparce/front_shiny.png "Dunsparce: It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.") | ![Dunsparce](../assets/sprites/dunsparce/back.png "Dunsparce: It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.") | ![Dunsparce](../assets/sprites/dunsparce/back_shiny.png "Dunsparce: It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #206 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.5 m /<br>4.9 ft | 14.0 kg /<br>30.9 lbs | 1. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br>2. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>3. <span class="tooltip" title="This Pokémon's Speed rises one stage with each hit from a damaging dark-, ghost-, or bug-type move.">Rattled</span> | N/A |
+| #206 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.5 m /<br>4.9 ft | 14.0 kg /<br>30.9 lbs | 1. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br>2. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Dunsparce has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 190 | 50 | 145 | Medium | N/A |
+| 1 None | 190 | 50 | 145 | Medium | N/A |
 
 ---
 

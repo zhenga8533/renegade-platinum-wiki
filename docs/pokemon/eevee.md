@@ -16,12 +16,6 @@ Because its genetic makeup is irregular, it quickly changes its form due to a va
 |-------|-------|------|-------|
 | ![Eevee](../assets/sprites/eevee/front.gif "Eevee: Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.") | ![Eevee](../assets/sprites/eevee/front_shiny.png "Eevee: Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.") | ![Eevee](../assets/sprites/eevee/back.png "Eevee: Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.") | ![Eevee](../assets/sprites/eevee/back_shiny.png "Eevee: Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #133 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.3 m /<br>1.0 ft | 6.5 kg /<br>14.3 lbs | 1. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>2. <span class="tooltip" title="Powers up moves of the same type.">Adaptability</span><br>3. <span class="tooltip" title="Senses the foe’s dangerous moves.">Anticipation</span> | N/A |
+| #133 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.3 m /<br>1.0 ft | 6.5 kg /<br>14.3 lbs | 1. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>2. <span class="tooltip" title="Powers up moves of the same type.">Adaptability</span> | N/A |
 
 ---
 
@@ -95,7 +89,7 @@ Eevee has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 45 | 50 | 65 | Medium | N/A |
+| 1 Sp. Def | 45 | 50 | 65 | Medium | N/A |
 
 ---
 

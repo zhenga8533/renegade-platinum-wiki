@@ -16,12 +16,6 @@ It binds itself to trees in marshes. It attracts prey with its sweet- smelling d
 |-------|-------|------|-------|
 | ![Carnivine](../assets/sprites/carnivine/front.gif "Carnivine: It binds itself to trees in marshes. It attracts prey with its sweet- smelling drool and gulps them down.") | ![Carnivine](../assets/sprites/carnivine/front_shiny.png "Carnivine: It binds itself to trees in marshes. It attracts prey with its sweet- smelling drool and gulps them down.") | ![Carnivine](../assets/sprites/carnivine/back.png "Carnivine: It binds itself to trees in marshes. It attracts prey with its sweet- smelling drool and gulps them down.") | ![Carnivine](../assets/sprites/carnivine/back_shiny.png "Carnivine: It binds itself to trees in marshes. It attracts prey with its sweet- smelling drool and gulps them down.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -81,7 +75,7 @@ Carnivine has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 200 | 70 | 159 | Slow | N/A |
+| 2 Atk | 200 | 70 | 159 | Slow | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ It usually lives deep in mountains. However, hunger may drive it to eat railroad
 |-------|-------|------|-------|
 | ![Aron](../assets/sprites/aron/front.gif "Aron: It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.") | ![Aron](../assets/sprites/aron/front_shiny.png "Aron: It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.") | ![Aron](../assets/sprites/aron/back.png "Aron: It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.") | ![Aron](../assets/sprites/aron/back_shiny.png "Aron: It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #304 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.4 m /<br>1.3 ft | 60.0 kg /<br>132.3 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span> | N/A |
+| #304 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.4 m /<br>1.3 ft | 60.0 kg /<br>132.3 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Aron has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 180 | 35 | 66 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
+| 1 Def | 180 | 35 | 66 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
 
 ---
 

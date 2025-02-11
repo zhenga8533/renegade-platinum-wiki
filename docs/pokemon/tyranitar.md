@@ -16,12 +16,6 @@ If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn
 |-------|-------|------|-------|
 | ![Tyranitar](../assets/sprites/tyranitar/front.gif "Tyranitar: If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.") | ![Tyranitar](../assets/sprites/tyranitar/front_shiny.png "Tyranitar: If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.") | ![Tyranitar](../assets/sprites/tyranitar/back.png "Tyranitar: If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.") | ![Tyranitar](../assets/sprites/tyranitar/back_shiny.png "Tyranitar: If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #248 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 2.0 m /<br>6.6 ft | 202.0 kg /<br>445.3 lbs | 1. <span class="tooltip" title="The Pokémon summons a sandstorm in battle.">Sand Stream</span><br>2. <span class="tooltip" title="Opposing Pokémon cannot eat held Berries while this Pokémon is in battle.  Affected Pokémon can still use bug bite or pluck to eat a target's Berry.">Unnerve</span> | N/A |
+| #248 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 2.0 m /<br>6.6 ft | 202.0 kg /<br>445.3 lbs | 1. <span class="tooltip" title="The Pokémon summons a sandstorm in battle.">Sand Stream</span><br>2. <span class="tooltip" title="Opposing Pokémon cannot eat held Berries while this Pokémon is in battle.  Affected Pokémon can still use bug bite or pluck to eat a target's Berry.">Unnerve</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Tyranitar has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 35 | 300 | Slow | N/A |
+| 3 Atk | 45 | 35 | 300 | Slow | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-
 |-------|-------|------|-------|
 | ![Lugia](../assets/sprites/lugia/front.gif "Lugia: It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.") | ![Lugia](../assets/sprites/lugia/front_shiny.png "Lugia: It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.") | ![Lugia](../assets/sprites/lugia/back.png "Lugia: It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.") | ![Lugia](../assets/sprites/lugia/back_shiny.png "Lugia: It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #249 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 5.2 m /<br>17.1 ft | 216.0 kg /<br>476.2 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="This Pokémon takes half as much damage when it is hit having full HP.">Multiscale</span> | N/A |
+| #249 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 5.2 m /<br>17.1 ft | 216.0 kg /<br>476.2 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="This Pokémon takes half as much damage when it is hit having full HP.">Multiscale</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Lugia has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 3 | 0 | 340 | Slow | N/A |
+| 3 Sp. Def | 3 | 0 | 340 | Slow | N/A |
 
 ---
 

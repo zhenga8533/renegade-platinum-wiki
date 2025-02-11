@@ -16,12 +16,6 @@ Its cry sounds like an incantation. It is said the cry may rarely be imbued with
 |-------|-------|------|-------|
 | ![Mismagius](../assets/sprites/mismagius/front.gif "Mismagius: Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.") | ![Mismagius](../assets/sprites/mismagius/front_shiny.png "Mismagius: Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.") | ![Mismagius](../assets/sprites/mismagius/back.png "Mismagius: Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.") | ![Mismagius](../assets/sprites/mismagius/back_shiny.png "Mismagius: Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #429 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.9 m /<br>3.0 ft | 4.4 kg /<br>9.7 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | #73 |
+| #429 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.9 m /<br>3.0 ft | 4.4 kg /<br>9.7 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | #73 |
 
 ---
 
@@ -83,7 +77,7 @@ Mismagius has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>1 Special Defense | 45 | 35 | 173 | Fast | N/A |
+| 1 Sp. Atk<br>1 Sp. Def | 45 | 35 | 173 | Fast | N/A |
 
 ---
 

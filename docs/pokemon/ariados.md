@@ -16,12 +16,6 @@ It attaches silk to its prey and sets it free. Later, it tracks the silk to the 
 |-------|-------|------|-------|
 | ![Ariados](../assets/sprites/ariados/front.gif "Ariados: It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.") | ![Ariados](../assets/sprites/ariados/front_shiny.png "Ariados: It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.") | ![Ariados](../assets/sprites/ariados/back.png "Ariados: It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.") | ![Ariados](../assets/sprites/ariados/back_shiny.png "Ariados: It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #168 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.1 m /<br>3.6 ft | 33.5 kg /<br>73.9 lbs | 1. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br>2. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br>3. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | N/A |
+| #168 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.1 m /<br>3.6 ft | 33.5 kg /<br>73.9 lbs | 1. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br>2. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Ariados has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 90 | 70 | 140 | Fast | N/A |
+| 2 Atk | 90 | 70 | 140 | Fast | N/A |
 
 ---
 

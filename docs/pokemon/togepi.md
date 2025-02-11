@@ -16,12 +16,6 @@ It transforms the kindness and joy of others into happiness, which it stores in 
 |-------|-------|------|-------|
 | ![Togepi](../assets/sprites/togepi/front.gif "Togepi: It transforms the kindness and joy of others into happiness, which it stores in its shell.") | ![Togepi](../assets/sprites/togepi/front_shiny.png "Togepi: It transforms the kindness and joy of others into happiness, which it stores in its shell.") | ![Togepi](../assets/sprites/togepi/back.png "Togepi: It transforms the kindness and joy of others into happiness, which it stores in its shell.") | ![Togepi](../assets/sprites/togepi/back_shiny.png "Togepi: It transforms the kindness and joy of others into happiness, which it stores in its shell.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Togepi has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 190 | 180 | 49 | Fast | N/A |
+| 1 Sp. Def | 190 | 180 | 49 | Fast | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ It releases a stench from its red antenna to repel enemies. It grows by molting 
 |-------|-------|------|-------|
 | ![Caterpie](../assets/sprites/caterpie/front.gif "Caterpie: It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.") | ![Caterpie](../assets/sprites/caterpie/front_shiny.png "Caterpie: It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.") | ![Caterpie](../assets/sprites/caterpie/back.png "Caterpie: It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.") | ![Caterpie](../assets/sprites/caterpie/back_shiny.png "Caterpie: It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Caterpie has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 255 | 50 | 39 | Medium | N/A |
+| 1 None | 255 | 50 | 39 | Medium | N/A |
 
 ---
 

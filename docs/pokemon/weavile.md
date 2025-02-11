@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #461 | ![dark](../assets/types/dark.png "Dark"){: width="48"} ![ice](../assets/types/ice.png "Ice"){: width="48"} | 1.1 m /<br>3.6 ft | 34.0 kg /<br>75.0 lbs | 1. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span><br>2. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span> | #145 |
+| #461 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 1.1 m /<br>3.6 ft | 34.0 kg /<br>75.0 lbs | 1. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span><br>2. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span> | #145 |
 
 ---
 
@@ -83,7 +83,7 @@ Weavile has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Speed | 45 | 35 | 179 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. A light, sharp claw that lets the bearer move first occasionally.">Quick Claw</span> (5%) |
+| 1 Atk<br>1 Spd | 45 | 35 | 179 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. A light, sharp claw that lets the bearer move first occasionally.">Quick Claw</span> (5%) |
 
 ---
 

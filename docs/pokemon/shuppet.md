@@ -16,12 +16,6 @@ It loves vengeful emotions and hangs in rows under the eaves of houses where ven
 |-------|-------|------|-------|
 | ![Shuppet](../assets/sprites/shuppet/front.gif "Shuppet: It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.") | ![Shuppet](../assets/sprites/shuppet/front_shiny.png "Shuppet: It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.") | ![Shuppet](../assets/sprites/shuppet/back.png "Shuppet: It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.") | ![Shuppet](../assets/sprites/shuppet/back_shiny.png "Shuppet: It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #353 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 0.6 m /<br>2.0 ft | 2.3 kg /<br>5.1 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br>2. <span class="tooltip" title="The Pokémon can check the foe’s held item.">Frisk</span><br>3. <span class="tooltip" title="Moves that hit this Pokémon have a 30% chance of being Disabled afterward.">Cursed Body</span> | N/A |
+| #353 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 0.6 m /<br>2.0 ft | 2.3 kg /<br>5.1 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br>2. <span class="tooltip" title="The Pokémon can check the foe’s held item.">Frisk</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Shuppet has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 225 | 35 | 59 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It is a sinister, eerie tag that boosts the power of Ghost-type moves.">Spell Tag</span> (5%) |
+| 1 Atk | 225 | 35 | 59 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It is a sinister, eerie tag that boosts the power of Ghost-type moves.">Spell Tag</span> (5%) |
 
 ---
 

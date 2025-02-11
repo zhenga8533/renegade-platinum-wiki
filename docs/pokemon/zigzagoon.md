@@ -16,12 +16,6 @@ It walks in zigzag fashion. It is good at finding items in the grass and even in
 |-------|-------|------|-------|
 | ![Zigzagoon](../assets/sprites/zigzagoon/front.gif "Zigzagoon: It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.") | ![Zigzagoon](../assets/sprites/zigzagoon/front_shiny.png "Zigzagoon: It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.") | ![Zigzagoon](../assets/sprites/zigzagoon/back.png "Zigzagoon: It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.") | ![Zigzagoon](../assets/sprites/zigzagoon/back_shiny.png "Zigzagoon: It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #263 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.4 m /<br>1.3 ft | 17.5 kg /<br>38.6 lbs | 1. <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span><br>2. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span><br>3. <span class="tooltip" title="Boosts Speed if there is a status problem.">Quick Feet</span> | N/A |
+| #263 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.4 m /<br>1.3 ft | 17.5 kg /<br>38.6 lbs | 1. <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span><br>2. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Zigzagoon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 255 | 50 | 56 | Medium | <span class="tooltip" title="A spray-type medicine for wounds. It restores the HP of one Pokémon by just 20 points.">Potion</span> (50%)<br><span class="tooltip" title="A medicine that revives a fainted Pokémon. It restores half the Pokémon’s maximum HP.">Revive</span> (5%) |
+| 1 Spd | 255 | 50 | 56 | Medium | <span class="tooltip" title="A spray-type medicine for wounds. It restores the HP of one Pokémon by just 20 points.">Potion</span> (50%)<br><span class="tooltip" title="A medicine that revives a fainted Pokémon. It restores half the Pokémon’s maximum HP.">Revive</span> (5%) |
 
 ---
 

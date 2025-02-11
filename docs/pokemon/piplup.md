@@ -16,12 +16,6 @@ A poor walker, it often falls down. However, its strong pride makes it puff up i
 |-------|-------|------|-------|
 | ![Piplup](../assets/sprites/piplup/front.gif "Piplup: A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.") | ![Piplup](../assets/sprites/piplup/front_shiny.png "Piplup: A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.") | ![Piplup](../assets/sprites/piplup/back.png "Piplup: A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.") | ![Piplup](../assets/sprites/piplup/back_shiny.png "Piplup: A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Piplup has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 45 | 70 | 63 | Medium Slow | N/A |
+| 1 Sp. Atk | 45 | 70 | 63 | Medium Slow | N/A |
 
 ---
 

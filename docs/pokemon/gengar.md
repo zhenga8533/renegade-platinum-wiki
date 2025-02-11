@@ -16,12 +16,6 @@ The leer that floats in darkness belongs to a GENGAR delighting in casting curse
 |-------|-------|------|-------|
 | ![Gengar](../assets/sprites/gengar/front.gif "Gengar: The leer that floats in darkness belongs to a GENGAR delighting in casting curses on people.") | ![Gengar](../assets/sprites/gengar/front_shiny.png "Gengar: The leer that floats in darkness belongs to a GENGAR delighting in casting curses on people.") | ![Gengar](../assets/sprites/gengar/back.png "Gengar: The leer that floats in darkness belongs to a GENGAR delighting in casting curses on people.") | ![Gengar](../assets/sprites/gengar/back_shiny.png "Gengar: The leer that floats in darkness belongs to a GENGAR delighting in casting curses on people.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #94 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.5 m /<br>4.9 ft | 40.5 kg /<br>89.3 lbs | 1. <span class="tooltip" title="Moves that hit this Pokémon have a 30% chance of being Disabled afterward.">Cursed Body</span> | #71 |
+| #94 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.5 m /<br>4.9 ft | 40.5 kg /<br>89.3 lbs | 1. <span class="tooltip" title="Moves that hit this Pokémon have a 30% chance of being Disabled afterward.">Cursed Body</span> | #71 |
 
 ---
 
@@ -85,7 +79,7 @@ Gengar has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 45 | 50 | 250 | Medium Slo |
+| 3 Sp. Atk | 45 | 50 | 250 | Medium Slo |
 
 ---
 

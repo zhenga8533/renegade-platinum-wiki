@@ -16,12 +16,6 @@ Its slimy body is hard to grasp. In one region, it is said to have been born fro
 |-------|-------|------|-------|
 | ![Barboach](../assets/sprites/barboach/front.gif "Barboach: Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.") | ![Barboach](../assets/sprites/barboach/front_shiny.png "Barboach: Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.") | ![Barboach](../assets/sprites/barboach/back.png "Barboach: Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.") | ![Barboach](../assets/sprites/barboach/back_shiny.png "Barboach: Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #339 | ![water](../assets/types/water.png "Water"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.4 m /<br>1.3 ft | 1.9 kg /<br>4.2 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span><br>2. <span class="tooltip" title="Senses the foe’s dangerous moves.">Anticipation</span><br>3. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | #80 |
+| #339 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.4 m /<br>1.3 ft | 1.9 kg /<br>4.2 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span><br>2. <span class="tooltip" title="Senses the foe’s dangerous moves.">Anticipation</span> | #80 |
 
 ---
 
@@ -83,7 +77,7 @@ Barboach has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 190 | 50 | 58 | Medium | N/A |
+| 1 None | 190 | 50 | 58 | Medium | N/A |
 
 ---
 

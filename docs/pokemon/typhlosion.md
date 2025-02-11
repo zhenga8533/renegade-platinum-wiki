@@ -16,12 +16,6 @@ It attacks using blasts of fire. It creates heat shimmers with intense fire to h
 |-------|-------|------|-------|
 | ![Typhlosion](../assets/sprites/typhlosion/front.gif "Typhlosion: It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.") | ![Typhlosion](../assets/sprites/typhlosion/front_shiny.png "Typhlosion: It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.") | ![Typhlosion](../assets/sprites/typhlosion/back.png "Typhlosion: It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.") | ![Typhlosion](../assets/sprites/typhlosion/back_shiny.png "Typhlosion: It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Typhlosion has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 45 | 70 | 240 | Medium Slow | N/A |
+| 3 Sp. Atk | 45 | 70 | 240 | Medium Slow | N/A |
 
 ---
 

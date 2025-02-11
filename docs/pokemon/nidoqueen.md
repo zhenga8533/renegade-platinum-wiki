@@ -16,12 +16,6 @@ Its entire body is armored with hard scales. It will protect the young in its bu
 |-------|-------|------|-------|
 | ![Nidoqueen](../assets/sprites/nidoqueen/front.gif "Nidoqueen: Its entire body is armored with hard scales. It will protect the young in its burrow with its life.") | ![Nidoqueen](../assets/sprites/nidoqueen/front_shiny.png "Nidoqueen: Its entire body is armored with hard scales. It will protect the young in its burrow with its life.") | ![Nidoqueen](../assets/sprites/nidoqueen/back.png "Nidoqueen: Its entire body is armored with hard scales. It will protect the young in its burrow with its life.") | ![Nidoqueen](../assets/sprites/nidoqueen/back_shiny.png "Nidoqueen: Its entire body is armored with hard scales. It will protect the young in its burrow with its life.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #31 | ![poison](../assets/types/poison.png "Poison"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.3 m /<br>4.3 ft | 60.0 kg /<br>132.3 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may poison the foe.">Poison Point</span><br>2. <span class="tooltip" title="Raises Attack if the foe is of the same gender.">Rivalry</span><br>3. <span class="tooltip" title="This Pokémon's moves with extra effects have 1.3× their power, but lose their extra effects.  An effect chance is a move's chance to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect. For example, thunder shock's paralysis is an extra effect, but thunder wave's is not, nor are knock off's item removal and air cutter's increased critical hit rate.  Moves that lower the user's stats are unaffected.">Sheer Force</span> | N/A |
+| #31 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.3 m /<br>4.3 ft | 60.0 kg /<br>132.3 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may poison the foe.">Poison Point</span><br>2. <span class="tooltip" title="Raises Attack if the foe is of the same gender.">Rivalry</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Nidoqueen has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 45 | 50 | 253 | Medium Slow | N/A |
+| 3 None | 45 | 50 | 253 | Medium Slow | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ By controlling its body heat, it can freeze the atmosphere around it to make a d
 |-------|-------|------|-------|
 | ![Glaceon](../assets/sprites/glaceon/front.gif "Glaceon: By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.") | ![Glaceon](../assets/sprites/glaceon/front_shiny.png "Glaceon: By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.") | ![Glaceon](../assets/sprites/glaceon/back.png "Glaceon: By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.") | ![Glaceon](../assets/sprites/glaceon/back_shiny.png "Glaceon: By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -95,7 +89,7 @@ Glaceon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 45 | 35 | 184 | Medium | N/A |
+| 2 Sp. Atk | 45 | 35 | 184 | Medium | N/A |
 
 ---
 

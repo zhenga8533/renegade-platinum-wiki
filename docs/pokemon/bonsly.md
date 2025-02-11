@@ -16,12 +16,6 @@ It prefers an arid atmosphere. It leaks water that looks like tears when adjusti
 |-------|-------|------|-------|
 | ![Bonsly](../assets/sprites/bonsly/front.gif "Bonsly: It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.") | ![Bonsly](../assets/sprites/bonsly/front_shiny.png "Bonsly: It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.") | ![Bonsly](../assets/sprites/bonsly/back.png "Bonsly: It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.") | ![Bonsly](../assets/sprites/bonsly/back_shiny.png "Bonsly: It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Bonsly has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 255 | 50 | 58 | Medium | N/A |
+| 1 Def | 255 | 50 | 58 | Medium | N/A |
 
 ---
 

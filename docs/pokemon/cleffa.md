@@ -16,12 +16,6 @@ It is often seen when shooting stars fill the night skies. It’s said to arrive
 |-------|-------|------|-------|
 | ![Cleffa](../assets/sprites/cleffa/front.gif "Cleffa: It is often seen when shooting stars fill the night skies. It’s said to arrive riding on a shooting star.") | ![Cleffa](../assets/sprites/cleffa/front_shiny.png "Cleffa: It is often seen when shooting stars fill the night skies. It’s said to arrive riding on a shooting star.") | ![Cleffa](../assets/sprites/cleffa/back.png "Cleffa: It is often seen when shooting stars fill the night skies. It’s said to arrive riding on a shooting star.") | ![Cleffa](../assets/sprites/cleffa/back_shiny.png "Cleffa: It is often seen when shooting stars fill the night skies. It’s said to arrive riding on a shooting star.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #173 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.3 m /<br>1.0 ft | 3.0 kg /<br>6.6 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span><br>3. <span class="tooltip" title="All friendly Pokémon take 0.75× as much direct damage from moves while this Pokémon is in battle.  This effect stacks if multiple allied Pokémon have it.">Friend Guard</span> | #99 |
+| #173 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.3 m /<br>1.0 ft | 3.0 kg /<br>6.6 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | #99 |
 
 ---
 
@@ -85,7 +79,7 @@ Cleffa has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 150 | 180 | 44 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.">Moon Stone</span> (5%) |
+| 1 Sp. Def | 150 | 180 | 44 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.">Moon Stone</span> (5%) |
 
 ---
 

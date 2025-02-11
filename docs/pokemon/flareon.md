@@ -16,12 +16,6 @@ Inhaled air is heated in the flame sac in its body to an intense fire over 3,000
 |-------|-------|------|-------|
 | ![Flareon](../assets/sprites/flareon/front.gif "Flareon: Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.") | ![Flareon](../assets/sprites/flareon/front_shiny.png "Flareon: Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.") | ![Flareon](../assets/sprites/flareon/back.png "Flareon: Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.") | ![Flareon](../assets/sprites/flareon/back_shiny.png "Flareon: Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -95,7 +89,7 @@ Flareon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 45 | 50 | 184 | Medium | N/A |
+| 2 Atk | 45 | 50 | 184 | Medium | N/A |
 
 ---
 

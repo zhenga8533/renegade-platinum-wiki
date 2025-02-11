@@ -16,12 +16,6 @@ It was banished for its violence. It silently gazed upon the old world from the 
 |-------|-------|------|-------|
 | ![Giratina Origin](../assets/sprites/giratina-origin/front.png "Giratina Origin: It was banished for its violence. It silently gazed upon the old world from the Distortion World.") | ![Giratina Origin](../assets/sprites/giratina-origin/front_shiny.png "Giratina Origin: It was banished for its violence. It silently gazed upon the old world from the Distortion World.") | ![Giratina Origin](../assets/sprites/giratina-origin/back.png "Giratina Origin: It was banished for its violence. It silently gazed upon the old world from the Distortion World.") | ![Giratina Origin](../assets/sprites/giratina-origin/back_shiny.png "Giratina Origin: It was banished for its violence. It silently gazed upon the old world from the Distortion World.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10007 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 6.9 m /<br>22.6 ft | 650.0 kg /<br>1433.0 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #10007 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"}<br>![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 6.9 m /<br>22.6 ft | 650.0 kg /<br>1433.0 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
@@ -86,7 +80,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 3 | 0 | 340 | Slow | N/A |
+| 3 None | 3 | 0 | 340 | Slow | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.
 |-------|-------|------|-------|
 | ![Skarmory](../assets/sprites/skarmory/front.gif "Skarmory: Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.") | ![Skarmory](../assets/sprites/skarmory/front_shiny.png "Skarmory: Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.") | ![Skarmory](../assets/sprites/skarmory/back.png "Skarmory: Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.") | ![Skarmory](../assets/sprites/skarmory/back_shiny.png "Skarmory: Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #227 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.7 m /<br>5.6 ft | 50.5 kg /<br>111.3 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span><br>2. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span><br>3. <span class="tooltip" title="Whenever a physical move hits this Pokémon, its Speed rises one stage and its Defense falls one stage.  This ability triggers on every hit of a multiple-hit move.">Weak Armor</span> | N/A |
+| #227 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.7 m /<br>5.6 ft | 50.5 kg /<br>111.3 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span><br>2. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Skarmory has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 25 | 50 | 163 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
+| 2 Def | 25 | 50 | 163 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
 
 ---
 

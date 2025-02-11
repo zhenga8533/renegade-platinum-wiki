@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #154 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.8 m /<br>5.9 ft | 100.5 kg /<br>221.6 lbs | 1. <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br>2. <span class="tooltip" title="Prevents status problems in sunny weather.">Leaf Guard</span> | N/A |
+| #154 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.8 m /<br>5.9 ft | 100.5 kg /<br>221.6 lbs | 1. <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br>2. <span class="tooltip" title="Prevents status problems in sunny weather.">Leaf Guard</span> | N/A |
 
 ---
 
@@ -85,7 +85,7 @@ Meganium has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>2 Special Defense | 45 | 70 | 236 | Medium Slow | N/A |
+| 1 Def<br>2 Sp. Def | 45 | 70 | 236 | Medium Slow | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ It lives in the shallows of warm seas. When the tide goes out, it digs up prey f
 |-------|-------|------|-------|
 | ![Cradily](../assets/sprites/cradily/front.gif "Cradily: It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.") | ![Cradily](../assets/sprites/cradily/front_shiny.png "Cradily: It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.") | ![Cradily](../assets/sprites/cradily/back.png "Cradily: It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.") | ![Cradily](../assets/sprites/cradily/back_shiny.png "Cradily: It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #346 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.5 m /<br>4.9 ft | 60.4 kg /<br>133.2 lbs | 1. <span class="tooltip" title="Negates moves that force switching out.">Suction Cups</span><br>2. <span class="tooltip" title="The Pokémon draws in all Water-type moves.">Storm Drain</span> | N/A |
+| #346 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.5 m /<br>4.9 ft | 60.4 kg /<br>133.2 lbs | 1. <span class="tooltip" title="Negates moves that force switching out.">Suction Cups</span><br>2. <span class="tooltip" title="The Pokémon draws in all Water-type moves.">Storm Drain</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Cradily has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 45 | 50 | 173 | Slow Then Very Fast | <span class="tooltip" title="A Pokémon hold item that boosts the power of HP-stealing moves to let the holder recover more HP.">Big Root</span> (5%) |
+| 2 Sp. Def | 45 | 50 | 173 | Slow Then Very Fast | <span class="tooltip" title="A Pokémon hold item that boosts the power of HP-stealing moves to let the holder recover more HP.">Big Root</span> (5%) |
 
 ---
 

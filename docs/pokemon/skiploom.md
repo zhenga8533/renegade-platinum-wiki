@@ -16,12 +16,6 @@ It blooms when the weather warms. It floats in the sky to soak up as much sunlig
 |-------|-------|------|-------|
 | ![Skiploom](../assets/sprites/skiploom/front.gif "Skiploom: It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.") | ![Skiploom](../assets/sprites/skiploom/front_shiny.png "Skiploom: It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.") | ![Skiploom](../assets/sprites/skiploom/back.png "Skiploom: It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.") | ![Skiploom](../assets/sprites/skiploom/back_shiny.png "Skiploom: It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #188 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.6 m /<br>2.0 ft | 1.0 kg /<br>2.2 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Prevents status problems in sunny weather.">Leaf Guard</span><br>3. <span class="tooltip" title="This Pokémon's moves ignore light screen, reflect, and safeguard.">Infiltrator</span> | N/A |
+| #188 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.6 m /<br>2.0 ft | 1.0 kg /<br>2.2 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Prevents status problems in sunny weather.">Leaf Guard</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Skiploom has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 120 | 70 | 119 | Medium Slow | N/A |
+| 2 Spd | 120 | 70 | 119 | Medium Slow | N/A |
 
 ---
 

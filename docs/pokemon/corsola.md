@@ -16,12 +16,6 @@ Many live in the clean seas of the south. They apparently can’t live in pollut
 |-------|-------|------|-------|
 | ![Corsola](../assets/sprites/corsola/front.gif "Corsola: Many live in the clean seas of the south. They apparently can’t live in polluted waters.") | ![Corsola](../assets/sprites/corsola/front_shiny.png "Corsola: Many live in the clean seas of the south. They apparently can’t live in polluted waters.") | ![Corsola](../assets/sprites/corsola/back.png "Corsola: Many live in the clean seas of the south. They apparently can’t live in polluted waters.") | ![Corsola](../assets/sprites/corsola/back_shiny.png "Corsola: Many live in the clean seas of the south. They apparently can’t live in polluted waters.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #222 | ![water](../assets/types/water.png "Water"){: width="48"} ![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.6 m /<br>2.0 ft | 5.0 kg /<br>11.0 lbs | 1. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span><br>2. <span class="tooltip" title="All status problems are healed upon switching out.">Natural Cure</span><br>3. <span class="tooltip" title="This Pokémon regains 1/3 of its maximum HP when it is switched out for another Pokémon under any circumstances other than having fainted.  This ability does not take effect when a battle ends.">Regenerator</span> | N/A |
+| #222 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.6 m /<br>2.0 ft | 5.0 kg /<br>11.0 lbs | 1. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span><br>2. <span class="tooltip" title="All status problems are healed upon switching out.">Natural Cure</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Corsola has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>1 Special Defense | 60 | 50 | 144 | Fas |
+| 1 Def<br>1 Sp. Def | 60 | 50 | 144 | Fas |
 
 ---
 

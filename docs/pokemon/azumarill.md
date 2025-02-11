@@ -16,12 +16,6 @@ It can spend all day in water, since it can inhale and store a large volume of a
 |-------|-------|------|-------|
 | ![Azumarill](../assets/sprites/azumarill/front.gif "Azumarill: It can spend all day in water, since it can inhale and store a large volume of air.") | ![Azumarill](../assets/sprites/azumarill/front_shiny.png "Azumarill: It can spend all day in water, since it can inhale and store a large volume of air.") | ![Azumarill](../assets/sprites/azumarill/back.png "Azumarill: It can spend all day in water, since it can inhale and store a large volume of air.") | ![Azumarill](../assets/sprites/azumarill/back_shiny.png "Azumarill: It can spend all day in water, since it can inhale and store a large volume of air.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #184 | ![water](../assets/types/water.png "Water"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.8 m /<br>2.6 ft | 28.5 kg /<br>62.8 lbs | 1. <span class="tooltip" title="Raises the Pokémon’s Attack stat.">Huge Power</span><br>2. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span> | #126 |
+| #184 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.8 m /<br>2.6 ft | 28.5 kg /<br>62.8 lbs | 1. <span class="tooltip" title="Raises the Pokémon’s Attack stat.">Huge Power</span><br>2. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span> | #126 |
 
 ---
 
@@ -85,7 +79,7 @@ Azumarill has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 75 | 50 | 210 | Fast | N/A |
+| 3 None | 75 | 50 | 210 | Fast | N/A |
 
 ---
 

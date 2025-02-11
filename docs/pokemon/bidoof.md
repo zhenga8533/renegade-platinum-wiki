@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #399 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.5 m /<br>1.6 ft | 20.0 kg /<br>44.1 lbs | 1. <span class="tooltip" title="The Pokémon is prone to wild stat changes.">Simple</span><br>2. <span class="tooltip" title="Ignores any change in ability by the foe.">Unaware</span><br>3. <span class="tooltip" title="After each turn, one of this Pokémon's stats at random rises two stages, and another falls one stage.  If a stat is already at 6 or -6 stages, it will not be chosen to be increased or decreased, respectively.">Moody</span> | #13 |
+| #399 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.5 m /<br>1.6 ft | 20.0 kg /<br>44.1 lbs | 1. <span class="tooltip" title="The Pokémon is prone to wild stat changes.">Simple</span><br>2. <span class="tooltip" title="Ignores any change in ability by the foe.">Unaware</span> | #13 |
 
 ---
 
@@ -83,7 +83,7 @@ Bidoof has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 255 | 70 | 50 | Medium | N/A |
+| 1 None | 255 | 70 | 50 | Medium | N/A |
 
 ---
 

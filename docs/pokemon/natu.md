@@ -16,12 +16,6 @@ It picks food from cactus plants, deftly avoiding buds and spines. It seems to s
 |-------|-------|------|-------|
 | ![Natu](../assets/sprites/natu/front.gif "Natu: It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.") | ![Natu](../assets/sprites/natu/front_shiny.png "Natu: It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.") | ![Natu](../assets/sprites/natu/back.png "Natu: It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.") | ![Natu](../assets/sprites/natu/back_shiny.png "Natu: It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #177 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.2 m /<br>0.7 ft | 2.0 kg /<br>4.4 lbs | 1. <span class="tooltip" title="Passes on a burn, poison, or paralysis to the foe.">Synchronize</span><br>2. <span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span><br>3. <span class="tooltip" title="When this Pokémon is targeted by a move flagged as being reflectable, the move is redirected to its user.  All reflectable moves are non-damaging, and most non-damaging moves that target other Pokémon are reflectable.  A move reflected by this ability or magic coat cannot be reflected back.">Magic Bounce</span> | N/A |
+| #177 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.2 m /<br>0.7 ft | 2.0 kg /<br>4.4 lbs | 1. <span class="tooltip" title="Passes on a burn, poison, or paralysis to the foe.">Synchronize</span><br>2. <span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Natu has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 190 | 50 | 64 | Medium | N/A |
+| 1 Sp. Atk | 190 | 50 | 64 | Medium | N/A |
 
 ---
 

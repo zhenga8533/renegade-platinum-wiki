@@ -16,12 +16,6 @@ If agitated, it uses electricity to straighten out its fur and launch it in smal
 |-------|-------|------|-------|
 | ![Jolteon](../assets/sprites/jolteon/front.gif "Jolteon: If agitated, it uses electricity to straighten out its fur and launch it in small bunches.") | ![Jolteon](../assets/sprites/jolteon/front_shiny.png "Jolteon: If agitated, it uses electricity to straighten out its fur and launch it in small bunches.") | ![Jolteon](../assets/sprites/jolteon/back.png "Jolteon: If agitated, it uses electricity to straighten out its fur and launch it in small bunches.") | ![Jolteon](../assets/sprites/jolteon/back_shiny.png "Jolteon: If agitated, it uses electricity to straighten out its fur and launch it in small bunches.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -95,7 +89,7 @@ Jolteon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 45 | 50 | 184 | Medium | N/A |
+| 2 Spd | 45 | 50 | 184 | Medium | N/A |
 
 ---
 

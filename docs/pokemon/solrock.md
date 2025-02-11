@@ -16,12 +16,6 @@ A new Pokémon species, rumored to be from the sun. It gives off light while spi
 |-------|-------|------|-------|
 | ![Solrock](../assets/sprites/solrock/front.gif "Solrock: A new Pokémon species, rumored to be from the sun. It gives off light while spinning.") | ![Solrock](../assets/sprites/solrock/front_shiny.png "Solrock: A new Pokémon species, rumored to be from the sun. It gives off light while spinning.") | ![Solrock](../assets/sprites/solrock/back.png "Solrock: A new Pokémon species, rumored to be from the sun. It gives off light while spinning.") | ![Solrock](../assets/sprites/solrock/back_shiny.png "Solrock: A new Pokémon species, rumored to be from the sun. It gives off light while spinning.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #338 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.2 m /<br>3.9 ft | 154.0 kg /<br>339.5 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #338 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.2 m /<br>3.9 ft | 154.0 kg /<br>339.5 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Solrock has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 45 | 50 | 161 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as red as the sun.">Sun Stone</span> (5%)<br><span class="tooltip" title="Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops.">Stardust</span> (50%) |
+| 2 Atk | 45 | 50 | 161 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as red as the sun.">Sun Stone</span> (5%)<br><span class="tooltip" title="Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops.">Stardust</span> (50%) |
 
 ---
 

@@ -16,12 +16,6 @@ A man-made Pokémon created using advanced scientific means. It can move freely 
 |-------|-------|------|-------|
 | ![Porygon](../assets/sprites/porygon/front.gif "Porygon: A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.") | ![Porygon](../assets/sprites/porygon/front_shiny.png "Porygon: A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.") | ![Porygon](../assets/sprites/porygon/back.png "Porygon: A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.") | ![Porygon](../assets/sprites/porygon/back_shiny.png "Porygon: A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #137 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.8 m /<br>2.6 ft | 36.5 kg /<br>80.5 lbs | 1. <span class="tooltip" title="The Pokémon copies the foe’s ability.">Trace</span><br>2. <span class="tooltip" title="Adjusts power according to the foe’s ability.">Download</span><br>3. <span class="tooltip" title="This Pokémon's moves have 1.3× their power when it moves last in a turn.  future sight and doom desire are unaffected.">Analytic</span> | N/A |
+| #137 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.8 m /<br>2.6 ft | 36.5 kg /<br>80.5 lbs | 1. <span class="tooltip" title="The Pokémon copies the foe’s ability.">Trace</span><br>2. <span class="tooltip" title="Adjusts power according to the foe’s ability.">Download</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Porygon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 45 | 50 | 79 | Medium | N/A |
+| 1 Sp. Atk | 45 | 50 | 79 | Medium | N/A |
 
 ---
 

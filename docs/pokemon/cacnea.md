@@ -16,12 +16,6 @@ By storing water in its body, this desert dweller can survive for 30 days withou
 |-------|-------|------|-------|
 | ![Cacnea](../assets/sprites/cacnea/front.gif "Cacnea: By storing water in its body, this desert dweller can survive for 30 days without water.") | ![Cacnea](../assets/sprites/cacnea/front_shiny.png "Cacnea: By storing water in its body, this desert dweller can survive for 30 days without water.") | ![Cacnea](../assets/sprites/cacnea/back.png "Cacnea: By storing water in its body, this desert dweller can survive for 30 days without water.") | ![Cacnea](../assets/sprites/cacnea/back_shiny.png "Cacnea: By storing water in its body, this desert dweller can survive for 30 days without water.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Cacnea has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 190 | 35 | 67 | Medium Slow | <span class="tooltip" title="A hold item that damages the holder on every turn. It may latch on to foes that touch the holder.">Sticky Barb</span> (5%) |
+| 1 Sp. Atk | 190 | 35 | 67 | Medium Slow | <span class="tooltip" title="A hold item that damages the holder on every turn. It may latch on to foes that touch the holder.">Sticky Barb</span> (5%) |
 
 ---
 

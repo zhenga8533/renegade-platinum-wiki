@@ -16,12 +16,6 @@ For food, it digs up iron ore. It smashes its steely body against others to figh
 |-------|-------|------|-------|
 | ![Lairon](../assets/sprites/lairon/front.gif "Lairon: For food, it digs up iron ore. It smashes its steely body against others to fight over territory.") | ![Lairon](../assets/sprites/lairon/front_shiny.png "Lairon: For food, it digs up iron ore. It smashes its steely body against others to fight over territory.") | ![Lairon](../assets/sprites/lairon/back.png "Lairon: For food, it digs up iron ore. It smashes its steely body against others to fight over territory.") | ![Lairon](../assets/sprites/lairon/back_shiny.png "Lairon: For food, it digs up iron ore. It smashes its steely body against others to fight over territory.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #305 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.9 m /<br>3.0 ft | 120.0 kg /<br>264.6 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span> | N/A |
+| #305 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.9 m /<br>3.0 ft | 120.0 kg /<br>264.6 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Lairon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 90 | 35 | 151 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
+| 2 Def | 90 | 35 | 151 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
 
 ---
 

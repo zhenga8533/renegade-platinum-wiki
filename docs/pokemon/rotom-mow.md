@@ -16,12 +16,6 @@ Its electric-like body can enter some kinds of machines and take control in orde
 |-------|-------|------|-------|
 | ![Rotom Mow](../assets/sprites/rotom-mow/front.png "Rotom Mow: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom Mow](../assets/sprites/rotom-mow/front_shiny.png "Rotom Mow: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom Mow](../assets/sprites/rotom-mow/back.png "Rotom Mow: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom Mow](../assets/sprites/rotom-mow/back_shiny.png "Rotom Mow: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10012 | ![electric](../assets/types/electric.png "Electric"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.3 m /<br>1.0 ft | 0.3 kg /<br>0.7 lbs | 1. <span class="tooltip" title="Raises Speed if hit by an Electric-type move.">Motor Drive</span> | N/A |
+| #10012 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.3 m /<br>1.0 ft | 0.3 kg /<br>0.7 lbs | 1. <span class="tooltip" title="Raises Speed if hit by an Electric-type move.">Motor Drive</span> | N/A |
 
 ---
 
@@ -92,7 +86,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>1 Speed | 45 | 50 | 182 | Medium | N/A |
+| 1 Sp. Atk<br>1 Spd | 45 | 50 | 182 | Medium | N/A |
 
 ---
 

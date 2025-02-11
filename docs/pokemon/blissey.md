@@ -16,12 +16,6 @@ The eggs it lays are filled with happiness. Eating even one bite will bring a sm
 |-------|-------|------|-------|
 | ![Blissey](../assets/sprites/blissey/front.gif "Blissey: The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.") | ![Blissey](../assets/sprites/blissey/front_shiny.png "Blissey: The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.") | ![Blissey](../assets/sprites/blissey/back.png "Blissey: The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.") | ![Blissey](../assets/sprites/blissey/back_shiny.png "Blissey: The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Blissey has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 30 | 140 | 635 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.">Lucky Egg</span> (5%) |
+| 3 None | 30 | 140 | 635 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.">Lucky Egg</span> (5%) |
 
 ---
 

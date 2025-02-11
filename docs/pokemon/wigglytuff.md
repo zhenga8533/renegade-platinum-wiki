@@ -16,12 +16,6 @@ Its fine fur feels sublime to the touch. It can expand its body by inhaling air.
 |-------|-------|------|-------|
 | ![Wigglytuff](../assets/sprites/wigglytuff/front.gif "Wigglytuff: Its fine fur feels sublime to the touch. It can expand its body by inhaling air.") | ![Wigglytuff](../assets/sprites/wigglytuff/front_shiny.png "Wigglytuff: Its fine fur feels sublime to the touch. It can expand its body by inhaling air.") | ![Wigglytuff](../assets/sprites/wigglytuff/back.png "Wigglytuff: Its fine fur feels sublime to the touch. It can expand its body by inhaling air.") | ![Wigglytuff](../assets/sprites/wigglytuff/back_shiny.png "Wigglytuff: Its fine fur feels sublime to the touch. It can expand its body by inhaling air.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #40 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.0 m /<br>3.3 ft | 12.0 kg /<br>26.5 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | N/A |
+| #40 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.0 m /<br>3.3 ft | 12.0 kg /<br>26.5 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Wigglytuff has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 50 | 50 | 218 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.">Moon Stone</span> (5%) |
+| 3 None | 50 | 50 | 218 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.">Moon Stone</span> (5%) |
 
 ---
 

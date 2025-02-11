@@ -16,12 +16,6 @@ Its three heads move alternately, driving it through tough soil to depths of ove
 |-------|-------|------|-------|
 | ![Dugtrio](../assets/sprites/dugtrio/front.gif "Dugtrio: Its three heads move alternately, driving it through tough soil to depths of over 60 miles.") | ![Dugtrio](../assets/sprites/dugtrio/front_shiny.png "Dugtrio: Its three heads move alternately, driving it through tough soil to depths of over 60 miles.") | ![Dugtrio](../assets/sprites/dugtrio/back.png "Dugtrio: Its three heads move alternately, driving it through tough soil to depths of over 60 miles.") | ![Dugtrio](../assets/sprites/dugtrio/back_shiny.png "Dugtrio: Its three heads move alternately, driving it through tough soil to depths of over 60 miles.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #51 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 33.3 kg /<br>73.4 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span><br>2. <span class="tooltip" title="Prevents the foe from fleeing.">Arena Trap</span><br>3. <span class="tooltip" title="During a sandstorm, this Pokémon's rock-, ground-, and steel-type moves have 1.3× their base power.  This Pokémon does not take sandstorm damage, regardless of type.">Sand Force</span> | N/A |
+| #51 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 33.3 kg /<br>73.4 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span><br>2. <span class="tooltip" title="Prevents the foe from fleeing.">Arena Trap</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Dugtrio has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 50 | 50 | 149 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a loose, silky sand that boosts the power of Ground-type moves.">Soft Sand</span> (5%) |
+| 2 Spd | 50 | 50 | 149 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a loose, silky sand that boosts the power of Ground-type moves.">Soft Sand</span> (5%) |
 
 ---
 

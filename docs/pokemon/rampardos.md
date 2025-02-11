@@ -16,12 +16,6 @@ If two were to smash their heads together, their foot-thick skulls would keep th
 |-------|-------|------|-------|
 | ![Rampardos](../assets/sprites/rampardos/front.gif "Rampardos: If two were to smash their heads together, their foot-thick skulls would keep them from fainting.") | ![Rampardos](../assets/sprites/rampardos/front_shiny.png "Rampardos: If two were to smash their heads together, their foot-thick skulls would keep them from fainting.") | ![Rampardos](../assets/sprites/rampardos/back.png "Rampardos: If two were to smash their heads together, their foot-thick skulls would keep them from fainting.") | ![Rampardos](../assets/sprites/rampardos/back_shiny.png "Rampardos: If two were to smash their heads together, their foot-thick skulls would keep them from fainting.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Rampardos has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 45 | 70 | 173 | Slow Then Very Fast | N/A |
+| 2 Atk | 45 | 70 | 173 | Slow Then Very Fast | N/A |
 
 ---
 

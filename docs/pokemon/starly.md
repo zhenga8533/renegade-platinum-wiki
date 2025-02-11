@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #396 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.3 m /<br>1.0 ft | 2.0 kg /<br>4.4 lbs | 1. <span class="tooltip" title="Powers up moves that have recoil damage.">Reckless</span><br>2. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span> | #10 |
+| #396 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.3 m /<br>1.0 ft | 2.0 kg /<br>4.4 lbs | 1. <span class="tooltip" title="Powers up moves that have recoil damage.">Reckless</span><br>2. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span> | #10 |
 
 ---
 
@@ -85,7 +85,7 @@ Starly has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 255 | 70 | 49 | Medium Slo |
+| 1 Spd | 255 | 70 | 49 | Medium Slo |
 
 ---
 

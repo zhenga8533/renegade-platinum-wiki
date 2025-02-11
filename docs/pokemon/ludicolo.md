@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #272 | ![water](../assets/types/water.png "Water"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.5 m /<br>4.9 ft | 55.0 kg /<br>121.3 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="The Pokémon gradually recovers HP in rain.">Rain Dish</span><br>3. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span> | N/A |
+| #272 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.5 m /<br>4.9 ft | 55.0 kg /<br>121.3 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="The Pokémon gradually recovers HP in rain.">Rain Dish</span> | N/A |
 
 ---
 
@@ -85,7 +85,7 @@ Ludicolo has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 45 | 50 | 240 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.">Mental Herb</span> (5%) |
+| 3 Sp. Def | 45 | 50 | 240 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.">Mental Herb</span> (5%) |
 
 ---
 

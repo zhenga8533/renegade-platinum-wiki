@@ -16,12 +16,6 @@ Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just on
 |-------|-------|------|-------|
 | ![Golem](../assets/sprites/golem/front.gif "Golem: Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just once a year.") | ![Golem](../assets/sprites/golem/front_shiny.png "Golem: Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just once a year.") | ![Golem](../assets/sprites/golem/back.png "Golem: Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just once a year.") | ![Golem](../assets/sprites/golem/back_shiny.png "Golem: Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just once a year.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #76 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.4 m /<br>4.6 ft | 300.0 kg /<br>661.4 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span><br>3. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span> | #33 |
+| #76 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.4 m /<br>4.6 ft | 300.0 kg /<br>661.4 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span> | #33 |
 
 ---
 
@@ -85,7 +79,7 @@ Golem has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Defense | 45 | 70 | 223 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.">Everstone</span> (5%) |
+| 3 Def | 45 | 70 | 223 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.">Everstone</span> (5%) |
 
 ---
 

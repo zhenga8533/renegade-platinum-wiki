@@ -16,12 +16,6 @@ It communicates with others by lighting up its rear at night. It loves ILLUMISE�
 |-------|-------|------|-------|
 | ![Volbeat](../assets/sprites/volbeat/front.gif "Volbeat: It communicates with others by lighting up its rear at night. It loves ILLUMISE’s sweet aroma.") | ![Volbeat](../assets/sprites/volbeat/front_shiny.png "Volbeat: It communicates with others by lighting up its rear at night. It loves ILLUMISE’s sweet aroma.") | ![Volbeat](../assets/sprites/volbeat/back.png "Volbeat: It communicates with others by lighting up its rear at night. It loves ILLUMISE’s sweet aroma.") | ![Volbeat](../assets/sprites/volbeat/back_shiny.png "Volbeat: It communicates with others by lighting up its rear at night. It loves ILLUMISE’s sweet aroma.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #313 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.7 m /<br>2.3 ft | 17.7 kg /<br>39.0 lbs | 1. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br>2. <span class="tooltip" title="Raises the likelihood of meeting wild Pokémon.">Illuminate</span> | N/A |
+| #313 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.7 m /<br>2.3 ft | 17.7 kg /<br>39.0 lbs | 1. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br>2. <span class="tooltip" title="Raises the likelihood of meeting wild Pokémon.">Illuminate</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Volbeat has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 150 | 70 | 151 | Slow Then Very Fast | <span class="tooltip" title="An item to be held by a Pokémon. It casts a tricky glare that lowers the opponent’s accuracy.">Bright Powder</span> (5%) |
+| 1 Spd | 150 | 70 | 151 | Slow Then Very Fast | <span class="tooltip" title="An item to be held by a Pokémon. It casts a tricky glare that lowers the opponent’s accuracy.">Bright Powder</span> (5%) |
 
 ---
 

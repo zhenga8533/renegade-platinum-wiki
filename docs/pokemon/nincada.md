@@ -16,12 +16,6 @@ It grows underground, sensing its surroundings using antennae instead of its vir
 |-------|-------|------|-------|
 | ![Nincada](../assets/sprites/nincada/front.gif "Nincada: It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.") | ![Nincada](../assets/sprites/nincada/front_shiny.png "Nincada: It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.") | ![Nincada](../assets/sprites/nincada/back.png "Nincada: It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.") | ![Nincada](../assets/sprites/nincada/back_shiny.png "Nincada: It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #290 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.5 m /<br>1.6 ft | 5.5 kg /<br>12.1 lbs | 1. <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span><br>2. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span> | N/A |
+| #290 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.5 m /<br>1.6 ft | 5.5 kg /<br>12.1 lbs | 1. <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span><br>2. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Nincada has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 255 | 50 | 53 | Slow Then Very Fast | <span class="tooltip" title="An item to be held by a Pokémon. It is a loose, silky sand that boosts the power of Ground-type moves.">Soft Sand</span> (5%) |
+| 1 Def | 255 | 50 | 53 | Slow Then Very Fast | <span class="tooltip" title="An item to be held by a Pokémon. It is a loose, silky sand that boosts the power of Ground-type moves.">Soft Sand</span> (5%) |
 
 ---
 

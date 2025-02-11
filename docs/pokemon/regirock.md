@@ -16,12 +16,6 @@ Its entire body is made of rock. If any part chips off in battle, it attaches ro
 |-------|-------|------|-------|
 | ![Regirock](../assets/sprites/regirock/front.gif "Regirock: Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.") | ![Regirock](../assets/sprites/regirock/front_shiny.png "Regirock: Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.") | ![Regirock](../assets/sprites/regirock/back.png "Regirock: Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.") | ![Regirock](../assets/sprites/regirock/back_shiny.png "Regirock: Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -81,7 +75,7 @@ Regirock has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Defense | 3 | 35 | 290 | Slow | N/A |
+| 3 Def | 3 | 35 | 290 | Slow | N/A |
 
 ---
 

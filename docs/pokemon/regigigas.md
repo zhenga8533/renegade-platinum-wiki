@@ -16,12 +16,6 @@ It is said to have made Pokémon that look like itself from a special ice mounta
 |-------|-------|------|-------|
 | ![Regigigas](../assets/sprites/regigigas/front.gif "Regigigas: It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.") | ![Regigigas](../assets/sprites/regigigas/front_shiny.png "Regigigas: It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.") | ![Regigigas](../assets/sprites/regigigas/back.png "Regigigas: It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.") | ![Regigigas](../assets/sprites/regigigas/back_shiny.png "Regigigas: It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -81,7 +75,7 @@ Regigigas has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 3 | 0 | 335 | Slow | N/A |
+| 3 Atk | 3 | 0 | 335 | Slow | N/A |
 
 ---
 

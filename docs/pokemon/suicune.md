@@ -16,12 +16,6 @@ It races around the world to purify fouled water. It dashes away with the north 
 |-------|-------|------|-------|
 | ![Suicune](../assets/sprites/suicune/front.gif "Suicune: It races around the world to purify fouled water. It dashes away with the north wind.") | ![Suicune](../assets/sprites/suicune/front_shiny.png "Suicune: It races around the world to purify fouled water. It dashes away with the north wind.") | ![Suicune](../assets/sprites/suicune/back.png "Suicune: It races around the world to purify fouled water. It dashes away with the north wind.") | ![Suicune](../assets/sprites/suicune/back_shiny.png "Suicune: It races around the world to purify fouled water. It dashes away with the north wind.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -81,7 +75,7 @@ Suicune has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>2 Special Defense | 3 | 35 | 290 | Slow | N/A |
+| 1 Def<br>2 Sp. Def | 3 | 35 | 290 | Slow | N/A |
 
 ---
 

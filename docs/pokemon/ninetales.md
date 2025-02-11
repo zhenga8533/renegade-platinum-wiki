@@ -16,12 +16,6 @@ Its nine tails are said to be imbued with a mystic power. It can live for a thou
 |-------|-------|------|-------|
 | ![Ninetales](../assets/sprites/ninetales/front.gif "Ninetales: Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.") | ![Ninetales](../assets/sprites/ninetales/front_shiny.png "Ninetales: Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.") | ![Ninetales](../assets/sprites/ninetales/back.png "Ninetales: Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.") | ![Ninetales](../assets/sprites/ninetales/back_shiny.png "Ninetales: Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #38 | ![fire](../assets/types/fire.png "Fire"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.1 m /<br>3.6 ft | 19.9 kg /<br>43.9 lbs | 1. <span class="tooltip" title="The Pokémon makes it sunny if it is in battle.">Drought</span><br>2. <span class="tooltip" title="Powers up Fire-type moves if hit by a fire move.">Flash Fire</span> | N/A |
+| #38 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.1 m /<br>3.6 ft | 19.9 kg /<br>43.9 lbs | 1. <span class="tooltip" title="The Pokémon makes it sunny if it is in battle.">Drought</span><br>2. <span class="tooltip" title="Powers up Fire-type moves if hit by a fire move.">Flash Fire</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Ninetales has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense<br>1 Speed | 75 | 50 | 177 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.">Charcoal</span> (5%) |
+| 1 Sp. Def<br>1 Spd | 75 | 50 | 177 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.">Charcoal</span> (5%) |
 
 ---
 

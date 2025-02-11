@@ -16,12 +16,6 @@ It is said to make its home somewhere in the sea. It guides crews of shipwrecks 
 |-------|-------|------|-------|
 | ![Dragonite](../assets/sprites/dragonite/front.gif "Dragonite: It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.") | ![Dragonite](../assets/sprites/dragonite/front_shiny.png "Dragonite: It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.") | ![Dragonite](../assets/sprites/dragonite/back.png "Dragonite: It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.") | ![Dragonite](../assets/sprites/dragonite/back_shiny.png "Dragonite: It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #149 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 2.2 m /<br>7.2 ft | 210.0 kg /<br>463.0 lbs | 1. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span><br>2. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span> | N/A |
+| #149 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 2.2 m /<br>7.2 ft | 210.0 kg /<br>463.0 lbs | 1. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span><br>2. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Dragonite has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 35 | 300 | Slow | <span class="tooltip" title="A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.">Dragon Scale</span> (5%) |
+| 3 Atk | 45 | 35 | 300 | Slow | <span class="tooltip" title="A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.">Dragon Scale</span> (5%) |
 
 ---
 

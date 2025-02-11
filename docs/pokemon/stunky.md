@@ -16,12 +16,6 @@ It sprays a foul fluid from its rear. Its stench spreads over a mile radius, dri
 |-------|-------|------|-------|
 | ![Stunky](../assets/sprites/stunky/front.gif "Stunky: It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.") | ![Stunky](../assets/sprites/stunky/front_shiny.png "Stunky: It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.") | ![Stunky](../assets/sprites/stunky/back.png "Stunky: It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.") | ![Stunky](../assets/sprites/stunky/back_shiny.png "Stunky: It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #434 | ![poison](../assets/types/poison.png "Poison"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.4 m /<br>1.3 ft | 19.2 kg /<br>42.3 lbs | 1. <span class="tooltip" title="Damages the foe landing the finishing hit.">Aftermath</span><br>2. <span class="tooltip" title="The stench helps keep wild Pokémon away.">Stench</span> | #84 |
+| #434 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.4 m /<br>1.3 ft | 19.2 kg /<br>42.3 lbs | 1. <span class="tooltip" title="Damages the foe landing the finishing hit.">Aftermath</span><br>2. <span class="tooltip" title="The stench helps keep wild Pokémon away.">Stench</span> | #84 |
 
 ---
 
@@ -83,7 +77,7 @@ Stunky has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 225 | 50 | 66 | Mediu |
+| 1 Spd | 225 | 50 | 66 | Mediu |
 
 ---
 

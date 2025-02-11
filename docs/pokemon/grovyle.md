@@ -16,12 +16,6 @@ It lives in dense jungles. While  closing in on its prey, it leaps from branch t
 |-------|-------|------|-------|
 | ![Grovyle](../assets/sprites/grovyle/front.gif "Grovyle: It lives in dense jungles. While  closing in on its prey, it leaps from branch to branch.") | ![Grovyle](../assets/sprites/grovyle/front_shiny.png "Grovyle: It lives in dense jungles. While  closing in on its prey, it leaps from branch to branch.") | ![Grovyle](../assets/sprites/grovyle/back.png "Grovyle: It lives in dense jungles. While  closing in on its prey, it leaps from branch to branch.") | ![Grovyle](../assets/sprites/grovyle/back_shiny.png "Grovyle: It lives in dense jungles. While  closing in on its prey, it leaps from branch to branch.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Grovyle has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 45 | 50 | 142 | Medium Slow | N/A |
+| 2 Spd | 45 | 50 | 142 | Medium Slow | N/A |
 
 ---
 

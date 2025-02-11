@@ -16,12 +16,6 @@ Possessing a sturdy build, it takes pride in its strength, taking down foes with
 |-------|-------|------|-------|
 | ![Drapion](../assets/sprites/drapion/front.gif "Drapion: Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins.") | ![Drapion](../assets/sprites/drapion/front_shiny.png "Drapion: Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins.") | ![Drapion](../assets/sprites/drapion/back.png "Drapion: Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins.") | ![Drapion](../assets/sprites/drapion/back_shiny.png "Drapion: Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #452 | ![poison](../assets/types/poison.png "Poison"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.3 m /<br>4.3 ft | 61.5 kg /<br>135.6 lbs | 1. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | #128 |
+| #452 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.3 m /<br>4.3 ft | 61.5 kg /<br>135.6 lbs | 1. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | #128 |
 
 ---
 
@@ -83,7 +77,7 @@ Drapion has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 45 | 50 | 175 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
+| 2 Def | 45 | 50 | 175 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
 
 ---
 

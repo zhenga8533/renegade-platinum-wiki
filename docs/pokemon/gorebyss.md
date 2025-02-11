@@ -16,12 +16,6 @@ It lives at the bottom of the sea. In the springtime, its pink body turns more v
 |-------|-------|------|-------|
 | ![Gorebyss](../assets/sprites/gorebyss/front.gif "Gorebyss: It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.") | ![Gorebyss](../assets/sprites/gorebyss/front_shiny.png "Gorebyss: It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.") | ![Gorebyss](../assets/sprites/gorebyss/back.png "Gorebyss: It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.") | ![Gorebyss](../assets/sprites/gorebyss/back_shiny.png "Gorebyss: It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Gorebyss has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 60 | 70 | 170 | Slow Then Very Fast | <span class="tooltip" title="An item to be held by CLAMPERL. A scale that shines a faint pink, it raises the Sp. Def stat.">Deep Sea Scale</span> (5%) |
+| 2 Sp. Atk | 60 | 70 | 170 | Slow Then Very Fast | <span class="tooltip" title="An item to be held by CLAMPERL. A scale that shines a faint pink, it raises the Sp. Def stat.">Deep Sea Scale</span> (5%) |
 
 ---
 

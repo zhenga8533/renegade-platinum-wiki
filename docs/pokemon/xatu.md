@@ -20,7 +20,7 @@ This odd Pokémon can see both the past and the future. It eyes the sun’s move
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Xatu](../assets/sprites/xatu/front_female.gif "Xatu: This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day.") | ![Xatu](../assets/sprites/xatu/front_shiny_female.png "Xatu: This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day.") | ? | ? |
+| ![Xatu](../assets/sprites/xatu/front_female.gif "Xatu: This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day.") | ![Xatu](../assets/sprites/xatu/front_shiny_female.png "Xatu: This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day.") | N/A | N/A |
 
 ### Cries
 
@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #178 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 15.0 kg /<br>33.1 lbs | 1. <span class="tooltip" title="Passes on a burn, poison, or paralysis to the foe.">Synchronize</span><br>2. <span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span><br>3. <span class="tooltip" title="When this Pokémon is targeted by a move flagged as being reflectable, the move is redirected to its user.  All reflectable moves are non-damaging, and most non-damaging moves that target other Pokémon are reflectable.  A move reflected by this ability or magic coat cannot be reflected back.">Magic Bounce</span> | N/A |
+| #178 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 15.0 kg /<br>33.1 lbs | 1. <span class="tooltip" title="Passes on a burn, poison, or paralysis to the foe.">Synchronize</span><br>2. <span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Xatu has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>1 Speed | 75 | 50 | 165 | Medium | N/A |
+| 1 Sp. Atk<br>1 Spd | 75 | 50 | 165 | Medium | N/A |
 
 ---
 

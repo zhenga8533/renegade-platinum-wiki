@@ -16,12 +16,6 @@ It is said that kids who drink MILTANK’s milk grow up to become hearty, health
 |-------|-------|------|-------|
 | ![Miltank](../assets/sprites/miltank/front.gif "Miltank: It is said that kids who drink MILTANK’s milk grow up to become hearty, healthy adults.") | ![Miltank](../assets/sprites/miltank/front_shiny.png "Miltank: It is said that kids who drink MILTANK’s milk grow up to become hearty, healthy adults.") | ![Miltank](../assets/sprites/miltank/back.png "Miltank: It is said that kids who drink MILTANK’s milk grow up to become hearty, healthy adults.") | ![Miltank](../assets/sprites/miltank/back_shiny.png "Miltank: It is said that kids who drink MILTANK’s milk grow up to become hearty, healthy adults.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #241 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.2 m /<br>3.9 ft | 75.5 kg /<br>166.4 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Enables moves to hit Ghost-type foes.">Scrappy</span><br>3. <span class="tooltip" title="Whenever a grass-type move hits this Pokémon, its Attack rises one stage, negating any other effect on it.">Sap Sipper</span> | N/A |
+| #241 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.2 m /<br>3.9 ft | 75.5 kg /<br>166.4 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Enables moves to hit Ghost-type foes.">Scrappy</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Miltank has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 45 | 50 | 172 | Slow | <span class="tooltip" title="Milk with a very high nutrition content. It restores the HP of one Pokémon by 100 points.">Moomoo Milk</span> (5%) |
+| 2 Def | 45 | 50 | 172 | Slow | <span class="tooltip" title="Milk with a very high nutrition content. It restores the HP of one Pokémon by 100 points.">Moomoo Milk</span> (5%) |
 
 ---
 

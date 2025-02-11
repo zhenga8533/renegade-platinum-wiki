@@ -16,12 +16,6 @@ It has a timid nature. If it is startled, the flames on its back burn more vigor
 |-------|-------|------|-------|
 | ![Cyndaquil](../assets/sprites/cyndaquil/front.gif "Cyndaquil: It has a timid nature. If it is startled, the flames on its back burn more vigorously.") | ![Cyndaquil](../assets/sprites/cyndaquil/front_shiny.png "Cyndaquil: It has a timid nature. If it is startled, the flames on its back burn more vigorously.") | ![Cyndaquil](../assets/sprites/cyndaquil/back.png "Cyndaquil: It has a timid nature. If it is startled, the flames on its back burn more vigorously.") | ![Cyndaquil](../assets/sprites/cyndaquil/back_shiny.png "Cyndaquil: It has a timid nature. If it is startled, the flames on its back burn more vigorously.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Cyndaquil has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 45 | 70 | 62 | Medium Slow | N/A |
+| 1 Spd | 45 | 70 | 62 | Medium Slow | N/A |
 
 ---
 

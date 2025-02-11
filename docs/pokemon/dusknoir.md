@@ -16,12 +16,6 @@ It is said to take lost spirits into its pliant body and guide them home.
 |-------|-------|------|-------|
 | ![Dusknoir](../assets/sprites/dusknoir/front.gif "Dusknoir: It is said to take lost spirits into its pliant body and guide them home.") | ![Dusknoir](../assets/sprites/dusknoir/front_shiny.png "Dusknoir: It is said to take lost spirits into its pliant body and guide them home.") | ![Dusknoir](../assets/sprites/dusknoir/back.png "Dusknoir: It is said to take lost spirits into its pliant body and guide them home.") | ![Dusknoir](../assets/sprites/dusknoir/back_shiny.png "Dusknoir: It is said to take lost spirits into its pliant body and guide them home.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Dusknoir has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>2 Special Defense | 45 | 35 | 263 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It is a sinister, eerie tag that boosts the power of Ghost-type moves.">Spell Tag</span> (5%) |
+| 1 Def<br>2 Sp. Def | 45 | 35 | 263 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It is a sinister, eerie tag that boosts the power of Ghost-type moves.">Spell Tag</span> (5%) |
 
 ---
 

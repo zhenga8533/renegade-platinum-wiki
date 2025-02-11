@@ -108,6 +108,29 @@ def format_id(id: str, symbol: str = "-") -> str:
     return fix_pokemon_form(id)
 
 
+def format_stat(stat: str) -> str:
+    """
+    Format the name of a stat.
+
+    :param stat: Stat to be formatted.
+    :return: Formatted stat.
+    """
+
+    stat = format_id(stat)
+    if stat == "health":
+        return "HP"
+    elif stat == "attack":
+        return "Atk"
+    elif stat == "defense":
+        return "Def"
+    elif stat == "special-attack":
+        return "Sp. Atk"
+    elif stat == "special-defense":
+        return "Sp. Def"
+    elif stat == "speed":
+        return "Spd"
+
+
 def revert_id(id: str, symbol: str = "-") -> str:
     """
     Revert the ID of a Pokémon.

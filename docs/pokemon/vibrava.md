@@ -16,12 +16,6 @@ It violently shudders its wings, generating ultrasonic waves to induce headaches
 |-------|-------|------|-------|
 | ![Vibrava](../assets/sprites/vibrava/front.gif "Vibrava: It violently shudders its wings, generating ultrasonic waves to induce headaches in people.") | ![Vibrava](../assets/sprites/vibrava/front_shiny.png "Vibrava: It violently shudders its wings, generating ultrasonic waves to induce headaches in people.") | ![Vibrava](../assets/sprites/vibrava/back.png "Vibrava: It violently shudders its wings, generating ultrasonic waves to induce headaches in people.") | ![Vibrava](../assets/sprites/vibrava/back_shiny.png "Vibrava: It violently shudders its wings, generating ultrasonic waves to induce headaches in people.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #329 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.1 m /<br>3.6 ft | 15.3 kg /<br>33.7 lbs | 1. <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span><br>2. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #329 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.1 m /<br>3.6 ft | 15.3 kg /<br>33.7 lbs | 1. <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span><br>2. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Vibrava has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Speed | 120 | 50 | 119 | Medium Slow | N/A |
+| 1 Atk<br>1 Spd | 120 | 50 | 119 | Medium Slow | N/A |
 
 ---
 

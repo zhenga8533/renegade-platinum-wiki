@@ -16,12 +16,6 @@ While it loves floral honey, it won’t gather any itself. Instead, it plots to 
 |-------|-------|------|-------|
 | ![Mothim](../assets/sprites/mothim/front.gif "Mothim: While it loves floral honey, it won’t gather any itself. Instead, it plots to steal some from COMBEE.") | ![Mothim](../assets/sprites/mothim/front_shiny.png "Mothim: While it loves floral honey, it won’t gather any itself. Instead, it plots to steal some from COMBEE.") | ![Mothim](../assets/sprites/mothim/back.png "Mothim: While it loves floral honey, it won’t gather any itself. Instead, it plots to steal some from COMBEE.") | ![Mothim](../assets/sprites/mothim/back_shiny.png "Mothim: While it loves floral honey, it won’t gather any itself. Instead, it plots to steal some from COMBEE.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #414 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.9 m /<br>3.0 ft | 23.3 kg /<br>51.4 lbs | 1. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br>2. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | #47 |
+| #414 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.9 m /<br>3.0 ft | 23.3 kg /<br>51.4 lbs | 1. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br>2. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | #47 |
 
 ---
 
@@ -89,7 +83,7 @@ Mothim has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack | 45 | 70 | 148 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.">Silver Powder</span> (5%) |
+| 1 Atk<br>1 Sp. Atk | 45 | 70 | 148 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.">Silver Powder</span> (5%) |
 
 ---
 

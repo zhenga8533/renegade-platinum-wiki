@@ -16,12 +16,6 @@ Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its 
 |-------|-------|------|-------|
 | ![Magcargo](../assets/sprites/magcargo/front.gif "Magcargo: Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.") | ![Magcargo](../assets/sprites/magcargo/front_shiny.png "Magcargo: Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.") | ![Magcargo](../assets/sprites/magcargo/back.png "Magcargo: Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.") | ![Magcargo](../assets/sprites/magcargo/back_shiny.png "Magcargo: Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #219 | ![fire](../assets/types/fire.png "Fire"){: width="48"} ![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.8 m /<br>2.6 ft | 55.0 kg /<br>121.3 lbs | 1. <span class="tooltip" title="Powers down super­ effective moves.">Solid Rock</span><br>2. <span class="tooltip" title="Contact with the Pokémon may burn the foe.">Flame Body</span> | N/A |
+| #219 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 0.8 m /<br>2.6 ft | 55.0 kg /<br>121.3 lbs | 1. <span class="tooltip" title="Powers down super­ effective moves.">Solid Rock</span><br>2. <span class="tooltip" title="Contact with the Pokémon may burn the foe.">Flame Body</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Magcargo has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 75 | 70 | 151 | Medium | N/A |
+| 2 Def | 75 | 70 | 151 | Medium | N/A |
 
 ---
 

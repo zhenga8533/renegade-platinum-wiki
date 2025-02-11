@@ -16,12 +16,6 @@ The ears appear to be delicate. If they are touched roughly, it kicks with its g
 |-------|-------|------|-------|
 | ![Lopunny](../assets/sprites/lopunny/front.gif "Lopunny: The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs.") | ![Lopunny](../assets/sprites/lopunny/front_shiny.png "Lopunny: The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs.") | ![Lopunny](../assets/sprites/lopunny/back.png "Lopunny: The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs.") | ![Lopunny](../assets/sprites/lopunny/back_shiny.png "Lopunny: The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #428 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.2 m /<br>3.9 ft | 33.3 kg /<br>73.4 lbs | 1. <span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span><br>2. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span> | #68 |
+| #428 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.2 m /<br>3.9 ft | 33.3 kg /<br>73.4 lbs | 1. <span class="tooltip" title="The Pokémon is protected from paralysis.">Limber</span><br>2. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span> | #68 |
 
 ---
 
@@ -83,7 +77,7 @@ Lopunny has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 60 | 140 | 168 | Mediu |
+| 2 Spd | 60 | 140 | 168 | Mediu |
 
 ---
 

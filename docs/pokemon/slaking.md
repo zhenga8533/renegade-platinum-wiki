@@ -16,12 +16,6 @@ The world’s laziest Pokémon. When it is lounging, it is actually saving energ
 |-------|-------|------|-------|
 | ![Slaking](../assets/sprites/slaking/front.gif "Slaking: The world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back.") | ![Slaking](../assets/sprites/slaking/front_shiny.png "Slaking: The world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back.") | ![Slaking](../assets/sprites/slaking/back.png "Slaking: The world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back.") | ![Slaking](../assets/sprites/slaking/back_shiny.png "Slaking: The world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Slaking has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 45 | 70 | 252 | Slow | N/A |
+| 3 None | 45 | 70 | 252 | Slow | N/A |
 
 ---
 

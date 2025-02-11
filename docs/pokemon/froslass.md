@@ -16,12 +16,6 @@ It freezes prey by blowing its -58 degrees F breath. It is said to then secretly
 |-------|-------|------|-------|
 | ![Froslass](../assets/sprites/froslass/front.gif "Froslass: It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey.") | ![Froslass](../assets/sprites/froslass/front_shiny.png "Froslass: It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey.") | ![Froslass](../assets/sprites/froslass/back.png "Froslass: It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey.") | ![Froslass](../assets/sprites/froslass/back_shiny.png "Froslass: It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #478 | ![ice](../assets/types/ice.png "Ice"){: width="48"} ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 1.3 m /<br>4.3 ft | 26.6 kg /<br>58.6 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span><br>2. <span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span> | N/A |
+| #478 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 1.3 m /<br>4.3 ft | 26.6 kg /<br>58.6 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span><br>2. <span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Froslass has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 75 | 50 | 168 | Mediu |
+| 2 Spd | 75 | 50 | 168 | Mediu |
 
 ---
 

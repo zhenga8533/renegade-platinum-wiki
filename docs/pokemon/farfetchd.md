@@ -16,12 +16,6 @@ It can’t live without the stalk it holds. That’s why it defends the stalk fr
 |-------|-------|------|-------|
 | ![Farfetchd](../assets/sprites/farfetchd/front.gif "Farfetchd: It can’t live without the stalk it holds. That’s why it defends the stalk from attackers with its life.") | ![Farfetchd](../assets/sprites/farfetchd/front_shiny.png "Farfetchd: It can’t live without the stalk it holds. That’s why it defends the stalk from attackers with its life.") | ![Farfetchd](../assets/sprites/farfetchd/back.png "Farfetchd: It can’t live without the stalk it holds. That’s why it defends the stalk from attackers with its life.") | ![Farfetchd](../assets/sprites/farfetchd/back_shiny.png "Farfetchd: It can’t live without the stalk it holds. That’s why it defends the stalk from attackers with its life.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #83 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.8 m /<br>2.6 ft | 15.0 kg /<br>33.1 lbs | 1. <span class="tooltip" title="Heightens the critical-hit ratios of moves.">Super Luck</span><br>2. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span> | N/A |
+| #83 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.8 m /<br>2.6 ft | 15.0 kg /<br>33.1 lbs | 1. <span class="tooltip" title="Heightens the critical-hit ratios of moves.">Super Luck</span><br>2. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Farfetchd has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 45 | 50 | 132 | Medium | <span class="tooltip" title="An item to be held by FARFETCH’D. It is a very long and stiff stalk of leek that boosts the critical-hit ratio.">Stick</span> (5%) |
+| 1 Atk | 45 | 50 | 132 | Medium | <span class="tooltip" title="An item to be held by FARFETCH’D. It is a very long and stiff stalk of leek that boosts the critical-hit ratio.">Stick</span> (5%) |
 
 ---
 

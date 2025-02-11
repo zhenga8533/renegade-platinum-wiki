@@ -16,12 +16,6 @@ The mother puts its offspring to sleep by curling up around them. It corners foe
 |-------|-------|------|-------|
 | ![Furret](../assets/sprites/furret/front.gif "Furret: The mother puts its offspring to sleep by curling up around them. It corners foes with speed.") | ![Furret](../assets/sprites/furret/front_shiny.png "Furret: The mother puts its offspring to sleep by curling up around them. It corners foes with speed.") | ![Furret](../assets/sprites/furret/back.png "Furret: The mother puts its offspring to sleep by curling up around them. It corners foes with speed.") | ![Furret](../assets/sprites/furret/back_shiny.png "Furret: The mother puts its offspring to sleep by curling up around them. It corners foes with speed.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Furret has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 90 | 70 | 145 | Mediu |
+| 2 Spd | 90 | 70 | 145 | Mediu |
 
 ---
 

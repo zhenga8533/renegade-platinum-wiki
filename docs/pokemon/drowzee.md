@@ -16,12 +16,6 @@ It can tell what people are dreaming by sniffing with its big nose. It loves fun
 |-------|-------|------|-------|
 | ![Drowzee](../assets/sprites/drowzee/front.gif "Drowzee: It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.") | ![Drowzee](../assets/sprites/drowzee/front_shiny.png "Drowzee: It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.") | ![Drowzee](../assets/sprites/drowzee/back.png "Drowzee: It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.") | ![Drowzee](../assets/sprites/drowzee/back_shiny.png "Drowzee: It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #96 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.0 m /<br>3.3 ft | 32.4 kg /<br>71.4 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br>2. <span class="tooltip" title="Determines what moves the foe has.">Forewarn</span><br>3. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span> | N/A |
+| #96 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.0 m /<br>3.3 ft | 32.4 kg /<br>71.4 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br>2. <span class="tooltip" title="Determines what moves the foe has.">Forewarn</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Drowzee has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 190 | 70 | 66 | Medium | N/A |
+| 1 Sp. Def | 190 | 70 | 66 | Medium | N/A |
 
 ---
 

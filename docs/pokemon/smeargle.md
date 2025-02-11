@@ -16,12 +16,6 @@ It marks its territory by using its tail like a paintbrush. There are more than 
 |-------|-------|------|-------|
 | ![Smeargle](../assets/sprites/smeargle/front.gif "Smeargle: It marks its territory by using its tail like a paintbrush. There are more than 5,000 different marks.") | ![Smeargle](../assets/sprites/smeargle/front_shiny.png "Smeargle: It marks its territory by using its tail like a paintbrush. There are more than 5,000 different marks.") | ![Smeargle](../assets/sprites/smeargle/back.png "Smeargle: It marks its territory by using its tail like a paintbrush. There are more than 5,000 different marks.") | ![Smeargle](../assets/sprites/smeargle/back_shiny.png "Smeargle: It marks its territory by using its tail like a paintbrush. There are more than 5,000 different marks.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -81,7 +75,7 @@ Smeargle has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 45 | 70 | 88 | Fast | N/A |
+| 1 Spd | 45 | 70 | 88 | Fast | N/A |
 
 ---
 

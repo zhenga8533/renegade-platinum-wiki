@@ -16,12 +16,6 @@ It shoots the poison spines on its body in all directions. Its round form makes 
 |-------|-------|------|-------|
 | ![Qwilfish](../assets/sprites/qwilfish/front.gif "Qwilfish: It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.") | ![Qwilfish](../assets/sprites/qwilfish/front_shiny.png "Qwilfish: It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.") | ![Qwilfish](../assets/sprites/qwilfish/back.png "Qwilfish: It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.") | ![Qwilfish](../assets/sprites/qwilfish/back_shiny.png "Qwilfish: It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #211 | ![water](../assets/types/water.png "Water"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.5 m /<br>1.6 ft | 3.9 kg /<br>8.6 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span> | N/A |
+| #211 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.5 m /<br>1.6 ft | 3.9 kg /<br>8.6 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Qwilfish has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 45 | 50 | 88 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
+| 1 Atk | 45 | 50 | 88 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
 
 ---
 

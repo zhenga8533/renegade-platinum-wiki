@@ -16,12 +16,6 @@ It seeks drifting will-o’-the-wisps and sucks them into its empty body. What h
 |-------|-------|------|-------|
 | ![Dusclops](../assets/sprites/dusclops/front.gif "Dusclops: It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.") | ![Dusclops](../assets/sprites/dusclops/front_shiny.png "Dusclops: It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.") | ![Dusclops](../assets/sprites/dusclops/back.png "Dusclops: It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.") | ![Dusclops](../assets/sprites/dusclops/back_shiny.png "Dusclops: It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Dusclops has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>1 Special Defense | 90 | 35 | 159 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It is a sinister, eerie tag that boosts the power of Ghost-type moves.">Spell Tag</span> (5%) |
+| 1 Def<br>1 Sp. Def | 90 | 35 | 159 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It is a sinister, eerie tag that boosts the power of Ghost-type moves.">Spell Tag</span> (5%) |
 
 ---
 

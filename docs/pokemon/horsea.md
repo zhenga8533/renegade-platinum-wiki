@@ -16,12 +16,6 @@ It makes its nest in the shade of corals. If it senses danger, it spits murky in
 |-------|-------|------|-------|
 | ![Horsea](../assets/sprites/horsea/front.gif "Horsea: It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.") | ![Horsea](../assets/sprites/horsea/front_shiny.png "Horsea: It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.") | ![Horsea](../assets/sprites/horsea/back.png "Horsea: It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.") | ![Horsea](../assets/sprites/horsea/back_shiny.png "Horsea: It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #116 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.4 m /<br>1.3 ft | 8.0 kg /<br>17.6 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span><br>3. <span class="tooltip" title="Prevents combatants from self destructing.">Damp</span> | N/A |
+| #116 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.4 m /<br>1.3 ft | 8.0 kg /<br>17.6 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Horsea has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 225 | 50 | 59 | Medium | <span class="tooltip" title="A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.">Dragon Scale</span> (5%) |
+| 1 Sp. Atk | 225 | 50 | 59 | Medium | <span class="tooltip" title="A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.">Dragon Scale</span> (5%) |
 
 ---
 

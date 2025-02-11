@@ -16,12 +16,6 @@ If its body is torn, it can grow back if the red core remains. The core flashes 
 |-------|-------|------|-------|
 | ![Staryu](../assets/sprites/staryu/front.gif "Staryu: If its body is torn, it can grow back if the red core remains. The core flashes at midnight.") | ![Staryu](../assets/sprites/staryu/front_shiny.png "Staryu: If its body is torn, it can grow back if the red core remains. The core flashes at midnight.") | ![Staryu](../assets/sprites/staryu/back.png "Staryu: If its body is torn, it can grow back if the red core remains. The core flashes at midnight.") | ![Staryu](../assets/sprites/staryu/back_shiny.png "Staryu: If its body is torn, it can grow back if the red core remains. The core flashes at midnight.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #120 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.8 m /<br>2.6 ft | 34.5 kg /<br>76.1 lbs | 1. <span class="tooltip" title="Raises the likelihood of meeting wild Pokémon.">Illuminate</span><br>2. <span class="tooltip" title="All status problems are healed upon switching out.">Natural Cure</span><br>3. <span class="tooltip" title="This Pokémon's moves have 1.3× their power when it moves last in a turn.  future sight and doom desire are unaffected.">Analytic</span> | N/A |
+| #120 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.8 m /<br>2.6 ft | 34.5 kg /<br>76.1 lbs | 1. <span class="tooltip" title="Raises the likelihood of meeting wild Pokémon.">Illuminate</span><br>2. <span class="tooltip" title="All status problems are healed upon switching out.">Natural Cure</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Staryu has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 225 | 50 | 68 | Slow | <span class="tooltip" title="Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops.">Stardust</span> (50%)<br><span class="tooltip" title="A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.">Star Piece</span> (5%) |
+| 1 Spd | 225 | 50 | 68 | Slow | <span class="tooltip" title="Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops.">Stardust</span> (50%)<br><span class="tooltip" title="A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.">Star Piece</span> (5%) |
 
 ---
 

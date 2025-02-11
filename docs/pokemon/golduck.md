@@ -16,12 +16,6 @@ It is seen swimming dynamically and elegantly using its well-developed limbs and
 |-------|-------|------|-------|
 | ![Golduck](../assets/sprites/golduck/front.gif "Golduck: It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.") | ![Golduck](../assets/sprites/golduck/front_shiny.png "Golduck: It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.") | ![Golduck](../assets/sprites/golduck/back.png "Golduck: It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.") | ![Golduck](../assets/sprites/golduck/back_shiny.png "Golduck: It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #55 | ![water](../assets/types/water.png "Water"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.7 m /<br>5.6 ft | 76.6 kg /<br>168.9 lbs | 1. <span class="tooltip" title="Prevents combatants from self destructing.">Damp</span><br>2. <span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span><br>3. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span> | #44 |
+| #55 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.7 m /<br>5.6 ft | 76.6 kg /<br>168.9 lbs | 1. <span class="tooltip" title="Prevents combatants from self destructing.">Damp</span><br>2. <span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span> | #44 |
 
 ---
 
@@ -83,7 +77,7 @@ Golduck has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 75 | 50 | 175 | Medium | N/A |
+| 2 Sp. Atk | 75 | 50 | 175 | Medium | N/A |
 
 ---
 

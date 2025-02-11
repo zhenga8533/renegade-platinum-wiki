@@ -16,12 +16,6 @@ The flowers all over its body burst into bloom if it is lovingly hugged and sens
 |-------|-------|------|-------|
 | ![Shaymin Sky](../assets/sprites/shaymin-sky/front.png "Shaymin Sky: The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.") | ![Shaymin Sky](../assets/sprites/shaymin-sky/front_shiny.png "Shaymin Sky: The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.") | ![Shaymin Sky](../assets/sprites/shaymin-sky/back.png "Shaymin Sky: The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.") | ![Shaymin Sky](../assets/sprites/shaymin-sky/back_shiny.png "Shaymin Sky: The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #10006 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.4 m /<br>1.3 ft | 5.2 kg /<br>11.5 lbs | 1. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span> | N/A |
+| #10006 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.4 m /<br>1.3 ft | 5.2 kg /<br>11.5 lbs | 1. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span> | N/A |
 
 ---
 
@@ -86,7 +80,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Speed | 45 | 100 | 270 | Medium Slow | <span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to recover from any status problem.">Lum Berry</span> (5%) |
+| 3 Spd | 45 | 100 | 270 | Medium Slow | <span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to recover from any status problem.">Lum Berry</span> (5%) |
 
 ---
 

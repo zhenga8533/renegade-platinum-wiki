@@ -16,12 +16,6 @@ When the heavy rainfall season ends, it is drawn out by warm sunlight to dance i
 |-------|-------|------|-------|
 | ![Bellossom](../assets/sprites/bellossom/front.gif "Bellossom: When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.") | ![Bellossom](../assets/sprites/bellossom/front_shiny.png "Bellossom: When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.") | ![Bellossom](../assets/sprites/bellossom/back.png "Bellossom: When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.") | ![Bellossom](../assets/sprites/bellossom/back_shiny.png "Bellossom: When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -87,7 +81,7 @@ Bellossom has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 45 | 50 | 245 | Medium Slo |
+| 3 Sp. Def | 45 | 50 | 245 | Medium Slo |
 
 ---
 

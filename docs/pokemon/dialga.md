@@ -16,12 +16,6 @@ A legendary Pokémon of Sinnoh. It is said that time flows when DIALGA’s heart
 |-------|-------|------|-------|
 | ![Dialga](../assets/sprites/dialga/front.gif "Dialga: A legendary Pokémon of Sinnoh. It is said that time flows when DIALGA’s heart beats.") | ![Dialga](../assets/sprites/dialga/front_shiny.png "Dialga: A legendary Pokémon of Sinnoh. It is said that time flows when DIALGA’s heart beats.") | ![Dialga](../assets/sprites/dialga/back.png "Dialga: A legendary Pokémon of Sinnoh. It is said that time flows when DIALGA’s heart beats.") | ![Dialga](../assets/sprites/dialga/back_shiny.png "Dialga: A legendary Pokémon of Sinnoh. It is said that time flows when DIALGA’s heart beats.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #483 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 5.4 m /<br>17.7 ft | 683.0 kg /<br>1505.8 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="This Pokémon does not take damage from friendly Pokémon's moves, including single-target moves aimed at it.">Telepathy</span> | #149 |
+| #483 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 5.4 m /<br>17.7 ft | 683.0 kg /<br>1505.8 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="This Pokémon does not take damage from friendly Pokémon's moves, including single-target moves aimed at it.">Telepathy</span> | #149 |
 
 ---
 
@@ -81,7 +75,7 @@ Dialga has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 3 | 0 | 340 | Slow | N/A |
+| 3 Sp. Atk | 3 | 0 | 340 | Slow | N/A |
 
 ---
 

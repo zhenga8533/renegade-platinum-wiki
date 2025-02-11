@@ -16,12 +16,6 @@ It happily carries heavy cargo to toughen up. It willingly does hard work for pe
 |-------|-------|------|-------|
 | ![Machoke](../assets/sprites/machoke/front.gif "Machoke: It happily carries heavy cargo to toughen up. It willingly does hard work for people.") | ![Machoke](../assets/sprites/machoke/front_shiny.png "Machoke: It happily carries heavy cargo to toughen up. It willingly does hard work for people.") | ![Machoke](../assets/sprites/machoke/back.png "Machoke: It happily carries heavy cargo to toughen up. It willingly does hard work for people.") | ![Machoke](../assets/sprites/machoke/back_shiny.png "Machoke: It happily carries heavy cargo to toughen up. It willingly does hard work for people.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #67 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.5 m /<br>4.9 ft | 70.5 kg /<br>155.4 lbs | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Ensures the Pokémon and its foe’s attacks land.">No Guard</span><br>3. <span class="tooltip" title="Raises Speed each time the Pokémon flinches.">Steadfast</span> | #41 |
+| #67 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.5 m /<br>4.9 ft | 70.5 kg /<br>155.4 lbs | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Ensures the Pokémon and its foe’s attacks land.">No Guard</span> | #41 |
 
 ---
 
@@ -85,7 +79,7 @@ Machoke has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 90 | 50 | 142 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP.">Focus Band</span> (5%) |
+| 2 Atk | 90 | 50 | 142 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP.">Focus Band</span> (5%) |
 
 ---
 

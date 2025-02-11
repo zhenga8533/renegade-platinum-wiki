@@ -16,12 +16,6 @@ It is thought to have inhabited beaches 300 million years ago. It is protected b
 |-------|-------|------|-------|
 | ![Kabuto](../assets/sprites/kabuto/front.gif "Kabuto: It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.") | ![Kabuto](../assets/sprites/kabuto/front_shiny.png "Kabuto: It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.") | ![Kabuto](../assets/sprites/kabuto/back.png "Kabuto: It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.") | ![Kabuto](../assets/sprites/kabuto/back_shiny.png "Kabuto: It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #140 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![water](../assets/types/water.png "Water"){: width="48"} | 0.5 m /<br>1.6 ft | 11.5 kg /<br>25.4 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span><br>3. <span class="tooltip" title="Whenever a physical move hits this Pokémon, its Speed rises one stage and its Defense falls one stage.  This ability triggers on every hit of a multiple-hit move.">Weak Armor</span> | N/A |
+| #140 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 0.5 m /<br>1.6 ft | 11.5 kg /<br>25.4 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Kabuto has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 45 | 50 | 71 | Medium | N/A |
+| 1 Def | 45 | 50 | 71 | Medium | N/A |
 
 ---
 

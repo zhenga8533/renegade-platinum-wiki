@@ -16,12 +16,6 @@ It binds its body with its tails to make itself look bigger. If it locks eyes, i
 |-------|-------|------|-------|
 | ![Purugly](../assets/sprites/purugly/front.gif "Purugly: It binds its body with its tails to make itself look bigger. If it locks eyes, it will glare ceaselessly.") | ![Purugly](../assets/sprites/purugly/front_shiny.png "Purugly: It binds its body with its tails to make itself look bigger. If it locks eyes, it will glare ceaselessly.") | ![Purugly](../assets/sprites/purugly/back.png "Purugly: It binds its body with its tails to make itself look bigger. If it locks eyes, it will glare ceaselessly.") | ![Purugly](../assets/sprites/purugly/back_shiny.png "Purugly: It binds its body with its tails to make itself look bigger. If it locks eyes, it will glare ceaselessly.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #432 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.0 m /<br>3.3 ft | 43.8 kg /<br>96.6 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>3. <span class="tooltip" title="When any of this Pokémon's stats are lowered, its Attack rises by two stages.  If multiple stats are lowered at once, this ability takes effect with each stat lowered.">Defiant</span> | #77 |
+| #432 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.0 m /<br>3.3 ft | 43.8 kg /<br>96.6 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span> | #77 |
 
 ---
 
@@ -83,7 +77,7 @@ Purugly has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 75 | 70 | 158 | Fas |
+| 2 Spd | 75 | 70 | 158 | Fas |
 
 ---
 

@@ -16,12 +16,6 @@ It toughens its body by slamming into thick trees. Many snapped trees can be fou
 |-------|-------|------|-------|
 | ![Makuhita](../assets/sprites/makuhita/front.gif "Makuhita: It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.") | ![Makuhita](../assets/sprites/makuhita/front_shiny.png "Makuhita: It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.") | ![Makuhita](../assets/sprites/makuhita/back.png "Makuhita: It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.") | ![Makuhita](../assets/sprites/makuhita/back_shiny.png "Makuhita: It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #296 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.0 m /<br>3.3 ft | 86.4 kg /<br>190.5 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>3. <span class="tooltip" title="This Pokémon's moves with extra effects have 1.3× their power, but lose their extra effects.  An effect chance is a move's chance to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect. For example, thunder shock's paralysis is an extra effect, but thunder wave's is not, nor are knock off's item removal and air cutter's increased critical hit rate.  Moves that lower the user's stats are unaffected.">Sheer Force</span> | N/A |
+| #296 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.0 m /<br>3.3 ft | 86.4 kg /<br>190.5 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Makuhita has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 180 | 70 | 47 | Fast Then Very Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a belt that boosts determination and Fighting-type moves.">Black Belt</span> (5%) |
+| 1 None | 180 | 70 | 47 | Fast Then Very Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a belt that boosts determination and Fighting-type moves.">Black Belt</span> (5%) |
 
 ---
 

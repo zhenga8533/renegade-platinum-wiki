@@ -16,12 +16,6 @@ Even if it is born where there are no cocooning materials, it somehow always end
 |-------|-------|------|-------|
 | ![Burmy](../assets/sprites/burmy/front.gif "Burmy: Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.") | ![Burmy](../assets/sprites/burmy/front_shiny.png "Burmy: Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.") | ![Burmy](../assets/sprites/burmy/back.png "Burmy: Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.") | ![Burmy](../assets/sprites/burmy/back_shiny.png "Burmy: Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Burmy Sandy Sprites
 
 | Front | Shiny | Back | Shiny |
@@ -101,7 +95,7 @@ Burmy has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 120 | 70 | 45 | Medium | N/A |
+| 1 Sp. Def | 120 | 70 | 45 | Medium | N/A |
 
 ---
 

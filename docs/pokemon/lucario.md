@@ -16,12 +16,6 @@ A well-trained one can sense auras to identify and take in the feelings of creat
 |-------|-------|------|-------|
 | ![Lucario](../assets/sprites/lucario/front.gif "Lucario: A well-trained one can sense auras to identify and take in the feelings of creatures over half a mile away.") | ![Lucario](../assets/sprites/lucario/front_shiny.png "Lucario: A well-trained one can sense auras to identify and take in the feelings of creatures over half a mile away.") | ![Lucario](../assets/sprites/lucario/back.png "Lucario: A well-trained one can sense auras to identify and take in the feelings of creatures over half a mile away.") | ![Lucario](../assets/sprites/lucario/back_shiny.png "Lucario: A well-trained one can sense auras to identify and take in the feelings of creatures over half a mile away.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #448 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.2 m /<br>3.9 ft | 54.0 kg /<br>119.0 lbs | 1. <span class="tooltip" title="Powers up moves of the same type.">Adaptability</span><br>2. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span> | #116 |
+| #448 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.2 m /<br>3.9 ft | 54.0 kg /<br>119.0 lbs | 1. <span class="tooltip" title="Powers up moves of the same type.">Adaptability</span><br>2. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span> | #116 |
 
 ---
 
@@ -83,7 +77,7 @@ Lucario has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack | 45 | 50 | 184 | Medium Slow | N/A |
+| 1 Atk<br>1 Sp. Atk | 45 | 50 | 184 | Medium Slow | N/A |
 
 ---
 

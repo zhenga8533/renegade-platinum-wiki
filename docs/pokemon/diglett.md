@@ -16,12 +16,6 @@ A Pokémon that lives underground. Because of its dark habitat, it is repelled b
 |-------|-------|------|-------|
 | ![Diglett](../assets/sprites/diglett/front.gif "Diglett: A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.") | ![Diglett](../assets/sprites/diglett/front_shiny.png "Diglett: A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.") | ![Diglett](../assets/sprites/diglett/back.png "Diglett: A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.") | ![Diglett](../assets/sprites/diglett/back_shiny.png "Diglett: A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #50 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.2 m /<br>0.7 ft | 0.8 kg /<br>1.8 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span><br>2. <span class="tooltip" title="Prevents the foe from fleeing.">Arena Trap</span><br>3. <span class="tooltip" title="During a sandstorm, this Pokémon's rock-, ground-, and steel-type moves have 1.3× their base power.  This Pokémon does not take sandstorm damage, regardless of type.">Sand Force</span> | N/A |
+| #50 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.2 m /<br>0.7 ft | 0.8 kg /<br>1.8 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span><br>2. <span class="tooltip" title="Prevents the foe from fleeing.">Arena Trap</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Diglett has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 255 | 50 | 53 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a loose, silky sand that boosts the power of Ground-type moves.">Soft Sand</span> (5%) |
+| 1 Spd | 255 | 50 | 53 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a loose, silky sand that boosts the power of Ground-type moves.">Soft Sand</span> (5%) |
 
 ---
 

@@ -16,12 +16,6 @@ It uses the leaf on its head to determine the temperature and humidity. It loves
 |-------|-------|------|-------|
 | ![Chikorita](../assets/sprites/chikorita/front.gif "Chikorita: It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.") | ![Chikorita](../assets/sprites/chikorita/front_shiny.png "Chikorita: It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.") | ![Chikorita](../assets/sprites/chikorita/back.png "Chikorita: It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.") | ![Chikorita](../assets/sprites/chikorita/back_shiny.png "Chikorita: It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Chikorita has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 45 | 70 | 64 | Medium Slo |
+| 1 Sp. Def | 45 | 70 | 64 | Medium Slo |
 
 ---
 

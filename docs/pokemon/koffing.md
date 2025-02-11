@@ -16,12 +16,6 @@ Lighter-than-air gases in its body keep it aloft. The gases not only smell, they
 |-------|-------|------|-------|
 | ![Koffing](../assets/sprites/koffing/front.gif "Koffing: Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.") | ![Koffing](../assets/sprites/koffing/front_shiny.png "Koffing: Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.") | ![Koffing](../assets/sprites/koffing/back.png "Koffing: Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.") | ![Koffing](../assets/sprites/koffing/back_shiny.png "Koffing: Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #109 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.6 m /<br>2.0 ft | 1.0 kg /<br>2.2 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span><br>2. <span class="tooltip" title="">Neutralizing Gas</span><br>3. <span class="tooltip" title="The stench helps keep wild Pokémon away.">Stench</span> | N/A |
+| #109 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.6 m /<br>2.0 ft | 1.0 kg /<br>2.2 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span><br>2. <span class="tooltip" title="">Neutralizing Gas</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Koffing has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 190 | 50 | 68 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail.">Smoke Ball</span> (5%) |
+| 1 Def | 190 | 50 | 68 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail.">Smoke Ball</span> (5%) |
 
 ---
 

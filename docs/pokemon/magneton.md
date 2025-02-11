@@ -16,12 +16,6 @@ Many mysteriously appear when more sunspots dot the sun. They stop TV sets from 
 |-------|-------|------|-------|
 | ![Magneton](../assets/sprites/magneton/front.gif "Magneton: Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.") | ![Magneton](../assets/sprites/magneton/front_shiny.png "Magneton: Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.") | ![Magneton](../assets/sprites/magneton/back.png "Magneton: Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.") | ![Magneton](../assets/sprites/magneton/back_shiny.png "Magneton: Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #82 | ![electric](../assets/types/electric.png "Electric"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.0 m /<br>3.3 ft | 60.0 kg /<br>132.3 lbs | 1. <span class="tooltip" title="Prevents Steel-type Pokémon from escaping.">Magnet Pull</span><br>2. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span><br>3. <span class="tooltip" title="This Pokémon's moves have 1.3× their power when it moves last in a turn.  future sight and doom desire are unaffected.">Analytic</span> | N/A |
+| #82 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.0 m /<br>3.3 ft | 60.0 kg /<br>132.3 lbs | 1. <span class="tooltip" title="Prevents Steel-type Pokémon from escaping.">Magnet Pull</span><br>2. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Magneton has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 60 | 50 | 163 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
+| 2 Sp. Atk | 60 | 50 | 163 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
 
 ---
 

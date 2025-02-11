@@ -16,12 +16,6 @@ A doll that became a Pokémon over its grudge from being junked. It seeks the ch
 |-------|-------|------|-------|
 | ![Banette](../assets/sprites/banette/front.gif "Banette: A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.") | ![Banette](../assets/sprites/banette/front_shiny.png "Banette: A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.") | ![Banette](../assets/sprites/banette/back.png "Banette: A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.") | ![Banette](../assets/sprites/banette/back_shiny.png "Banette: A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #354 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 1.1 m /<br>3.6 ft | 12.5 kg /<br>27.6 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br>2. <span class="tooltip" title="The Pokémon can check the foe’s held item.">Frisk</span><br>3. <span class="tooltip" title="Moves that hit this Pokémon have a 30% chance of being Disabled afterward.">Cursed Body</span> | N/A |
+| #354 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 1.1 m /<br>3.6 ft | 12.5 kg /<br>27.6 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br>2. <span class="tooltip" title="The Pokémon can check the foe’s held item.">Frisk</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Banette has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 45 | 35 | 159 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It is a sinister, eerie tag that boosts the power of Ghost-type moves.">Spell Tag</span> (5%) |
+| 2 Atk | 45 | 35 | 159 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It is a sinister, eerie tag that boosts the power of Ghost-type moves.">Spell Tag</span> (5%) |
 
 ---
 

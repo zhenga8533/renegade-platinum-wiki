@@ -16,12 +16,6 @@ Its fluffy coat swells to double when static electricity builds up. Touching it 
 |-------|-------|------|-------|
 | ![Mareep](../assets/sprites/mareep/front.gif "Mareep: Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.") | ![Mareep](../assets/sprites/mareep/front_shiny.png "Mareep: Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.") | ![Mareep](../assets/sprites/mareep/back.png "Mareep: Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.") | ![Mareep](../assets/sprites/mareep/back_shiny.png "Mareep: Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Mareep has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 235 | 70 | 56 | Medium Slow | N/A |
+| 1 Sp. Atk | 235 | 70 | 56 | Medium Slow | N/A |
 
 ---
 

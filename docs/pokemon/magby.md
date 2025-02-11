@@ -16,12 +16,6 @@ Its magma-like blood circulates throughout its body. Its body’s heat can top 1
 |-------|-------|------|-------|
 | ![Magby](../assets/sprites/magby/front.gif "Magby: Its magma-like blood circulates throughout its body. Its body’s heat can top 1,100 degrees F.") | ![Magby](../assets/sprites/magby/front_shiny.png "Magby: Its magma-like blood circulates throughout its body. Its body’s heat can top 1,100 degrees F.") | ![Magby](../assets/sprites/magby/back.png "Magby: Its magma-like blood circulates throughout its body. Its body’s heat can top 1,100 degrees F.") | ![Magby](../assets/sprites/magby/back_shiny.png "Magby: Its magma-like blood circulates throughout its body. Its body’s heat can top 1,100 degrees F.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Magby has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 45 | 50 | 73 | Medium | <span class="tooltip" title="A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon.">Magmarizer</span> (5%) |
+| 1 Spd | 45 | 50 | 73 | Medium | <span class="tooltip" title="A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon.">Magmarizer</span> (5%) |
 
 ---
 

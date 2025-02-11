@@ -16,12 +16,6 @@ It looks like an aquatic plant and serves as a ferry to Pokémon that can’t sw
 |-------|-------|------|-------|
 | ![Lotad](../assets/sprites/lotad/front.gif "Lotad: It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.") | ![Lotad](../assets/sprites/lotad/front_shiny.png "Lotad: It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.") | ![Lotad](../assets/sprites/lotad/back.png "Lotad: It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.") | ![Lotad](../assets/sprites/lotad/back_shiny.png "Lotad: It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #270 | ![water](../assets/types/water.png "Water"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.5 m /<br>1.6 ft | 2.6 kg /<br>5.7 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="The Pokémon gradually recovers HP in rain.">Rain Dish</span><br>3. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span> | N/A |
+| #270 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.5 m /<br>1.6 ft | 2.6 kg /<br>5.7 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="The Pokémon gradually recovers HP in rain.">Rain Dish</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Lotad has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 255 | 50 | 44 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.">Mental Herb</span> (5%) |
+| 1 Sp. Def | 255 | 50 | 44 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.">Mental Herb</span> (5%) |
 
 ---
 

@@ -16,12 +16,6 @@ It has a mischievous spirit. If it spots an angler, it will tug on the fishing l
 |-------|-------|------|-------|
 | ![Lombre](../assets/sprites/lombre/front.gif "Lombre: It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.") | ![Lombre](../assets/sprites/lombre/front_shiny.png "Lombre: It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.") | ![Lombre](../assets/sprites/lombre/back.png "Lombre: It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.") | ![Lombre](../assets/sprites/lombre/back_shiny.png "Lombre: It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #271 | ![water](../assets/types/water.png "Water"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.2 m /<br>3.9 ft | 32.5 kg /<br>71.7 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="The Pokémon gradually recovers HP in rain.">Rain Dish</span><br>3. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span> | N/A |
+| #271 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.2 m /<br>3.9 ft | 32.5 kg /<br>71.7 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="The Pokémon gradually recovers HP in rain.">Rain Dish</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Lombre has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 120 | 50 | 119 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.">Mental Herb</span> (5%) |
+| 2 Sp. Def | 120 | 50 | 119 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.">Mental Herb</span> (5%) |
 
 ---
 

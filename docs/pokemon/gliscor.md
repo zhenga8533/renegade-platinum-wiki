@@ -16,12 +16,6 @@ If it succeeds in catching even a faint breeze properly, it can circle the globe
 |-------|-------|------|-------|
 | ![Gliscor](../assets/sprites/gliscor/front.gif "Gliscor: If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.") | ![Gliscor](../assets/sprites/gliscor/front_shiny.png "Gliscor: If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.") | ![Gliscor](../assets/sprites/gliscor/back.png "Gliscor: If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.") | ![Gliscor](../assets/sprites/gliscor/back_shiny.png "Gliscor: If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #472 | ![ground](../assets/types/ground.png "Ground"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 2.0 m /<br>6.6 ft | 42.5 kg /<br>93.7 lbs | 1. <span class="tooltip" title="Restores HP if the Pokémon is poisoned.">Poison Heal</span><br>2. <span class="tooltip" title="Prevents the Attack stat from being lowered.">Hyper Cutter</span> | N/A |
+| #472 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 2.0 m /<br>6.6 ft | 42.5 kg /<br>93.7 lbs | 1. <span class="tooltip" title="Restores HP if the Pokémon is poisoned.">Poison Heal</span><br>2. <span class="tooltip" title="Prevents the Attack stat from being lowered.">Hyper Cutter</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Gliscor has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 30 | 70 | 179 | Medium Slow | N/A |
+| 2 Def | 30 | 70 | 179 | Medium Slow | N/A |
 
 ---
 

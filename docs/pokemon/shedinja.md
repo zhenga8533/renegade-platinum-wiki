@@ -16,12 +16,6 @@ A discarded bug shell that came to life. Peering into the crack on its back is s
 |-------|-------|------|-------|
 | ![Shedinja](../assets/sprites/shedinja/front.gif "Shedinja: A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit.") | ![Shedinja](../assets/sprites/shedinja/front_shiny.png "Shedinja: A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit.") | ![Shedinja](../assets/sprites/shedinja/back.png "Shedinja: A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit.") | ![Shedinja](../assets/sprites/shedinja/back_shiny.png "Shedinja: A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #292 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 0.8 m /<br>2.6 ft | 1.2 kg /<br>2.6 lbs | 1. <span class="tooltip" title="Only supereffective moves will hit.">Wonder Guard</span> | N/A |
+| #292 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 0.8 m /<br>2.6 ft | 1.2 kg /<br>2.6 lbs | 1. <span class="tooltip" title="Only supereffective moves will hit.">Wonder Guard</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Shedinja has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 45 | 50 | 83 | Slow Then Very Fast | N/A |
+| 2 None | 45 | 50 | 83 | Slow Then Very Fast | N/A |
 
 ---
 

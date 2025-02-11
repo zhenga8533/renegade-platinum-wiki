@@ -16,12 +16,6 @@ It can hover in one spot by flapping its wings at high speed. It flits about to 
 |-------|-------|------|-------|
 | ![Yanma](../assets/sprites/yanma/front.gif "Yanma: It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.") | ![Yanma](../assets/sprites/yanma/front_shiny.png "Yanma: It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.") | ![Yanma](../assets/sprites/yanma/back.png "Yanma: It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.") | ![Yanma](../assets/sprites/yanma/back_shiny.png "Yanma: It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #193 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 38.0 kg /<br>83.8 lbs | 1. <span class="tooltip" title="The Pokémon’s Speed stat is gradually boosted.">Speed Boost</span><br>2. <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span><br>3. <span class="tooltip" title="The Pokémon can check the foe’s held item.">Frisk</span> | N/A |
+| #193 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 38.0 kg /<br>83.8 lbs | 1. <span class="tooltip" title="The Pokémon’s Speed stat is gradually boosted.">Speed Boost</span><br>2. <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Yanma has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 75 | 70 | 78 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a magnifying lens that slightly boosts the accuracy of moves.">Wide Lens</span> (5%) |
+| 1 Spd | 75 | 70 | 78 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a magnifying lens that slightly boosts the accuracy of moves.">Wide Lens</span> (5%) |
 
 ---
 

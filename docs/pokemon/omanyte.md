@@ -16,12 +16,6 @@ A Pokémon that was resurrected from a fossil using modern science. It swam in a
 |-------|-------|------|-------|
 | ![Omanyte](../assets/sprites/omanyte/front.gif "Omanyte: A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.") | ![Omanyte](../assets/sprites/omanyte/front_shiny.png "Omanyte: A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.") | ![Omanyte](../assets/sprites/omanyte/back.png "Omanyte: A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.") | ![Omanyte](../assets/sprites/omanyte/back_shiny.png "Omanyte: A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #138 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![water](../assets/types/water.png "Water"){: width="48"} | 0.4 m /<br>1.3 ft | 7.5 kg /<br>16.5 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span><br>3. <span class="tooltip" title="Whenever a physical move hits this Pokémon, its Speed rises one stage and its Defense falls one stage.  This ability triggers on every hit of a multiple-hit move.">Weak Armor</span> | N/A |
+| #138 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 0.4 m /<br>1.3 ft | 7.5 kg /<br>16.5 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Omanyte has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 45 | 50 | 71 | Medium | N/A |
+| 1 Def | 45 | 50 | 71 | Medium | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ The spiral pattern on its belly subtly undulates. Staring at it gradually causes
 |-------|-------|------|-------|
 | ![Poliwhirl](../assets/sprites/poliwhirl/front.gif "Poliwhirl: The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.") | ![Poliwhirl](../assets/sprites/poliwhirl/front_shiny.png "Poliwhirl: The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.") | ![Poliwhirl](../assets/sprites/poliwhirl/back.png "Poliwhirl: The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.") | ![Poliwhirl](../assets/sprites/poliwhirl/back_shiny.png "Poliwhirl: The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #61 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.0 m /<br>3.3 ft | 20.0 kg /<br>44.1 lbs | 1. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br>2. <span class="tooltip" title="Prevents combatants from self destructing.">Damp</span><br>3. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span> | N/A |
+| #61 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.0 m /<br>3.3 ft | 20.0 kg /<br>44.1 lbs | 1. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br>2. <span class="tooltip" title="Prevents combatants from self destructing.">Damp</span> | N/A |
 
 ---
 
@@ -87,7 +81,7 @@ Poliwhirl has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 120 | 50 | 135 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It may cause the foe to flinch when the holder inflicts damage.">Kings Rock</span> (5%) |
+| 2 Spd | 120 | 50 | 135 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It may cause the foe to flinch when the holder inflicts damage.">Kings Rock</span> (5%) |
 
 ---
 

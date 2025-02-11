@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #12 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.1 m /<br>3.6 ft | 32.0 kg /<br>70.5 lbs | 1. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br>2. <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span> | N/A |
+| #12 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.1 m /<br>3.6 ft | 32.0 kg /<br>70.5 lbs | 1. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br>2. <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span> | N/A |
 
 ---
 
@@ -85,7 +85,7 @@ Butterfree has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack<br>1 Special Defense | 45 | 50 | 198 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.">Silver Powder</span> (5%) |
+| 2 Sp. Atk<br>1 Sp. Def | 45 | 50 | 198 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.">Silver Powder</span> (5%) |
 
 ---
 

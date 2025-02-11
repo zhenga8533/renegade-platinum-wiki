@@ -16,12 +16,6 @@ It is called “The Walking Jungle.” If a head grows too big, it falls off and
 |-------|-------|------|-------|
 | ![Exeggutor](../assets/sprites/exeggutor/front.gif "Exeggutor: It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an EXEGGCUTE.") | ![Exeggutor](../assets/sprites/exeggutor/front_shiny.png "Exeggutor: It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an EXEGGCUTE.") | ![Exeggutor](../assets/sprites/exeggutor/back.png "Exeggutor: It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an EXEGGCUTE.") | ![Exeggutor](../assets/sprites/exeggutor/back_shiny.png "Exeggutor: It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an EXEGGCUTE.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #103 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 2.0 m /<br>6.6 ft | 120.0 kg /<br>264.6 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="After each turn, if the last item this Pokémon consumed was a Berry and it is not currently holding an item, it has a 50% chance of regaining that Berry, or a 100% chance during strong sunlight.">Harvest</span> | N/A |
+| #103 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 2.0 m /<br>6.6 ft | 120.0 kg /<br>264.6 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="After each turn, if the last item this Pokémon consumed was a Berry and it is not currently holding an item, it has a 50% chance of regaining that Berry, or a 100% chance during strong sunlight.">Harvest</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Exeggutor has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 45 | 50 | 186 | Slow | N/A |
+| 2 Sp. Atk | 45 | 50 | 186 | Slow | N/A |
 
 ---
 

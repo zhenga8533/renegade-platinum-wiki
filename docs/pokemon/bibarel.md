@@ -20,7 +20,7 @@ A river dammed by BIBAREL will never overflow its banks, which is appreciated by
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Bibarel](../assets/sprites/bibarel/front_female.gif "Bibarel: A river dammed by BIBAREL will never overflow its banks, which is appreciated by people nearby.") | ![Bibarel](../assets/sprites/bibarel/front_shiny_female.png "Bibarel: A river dammed by BIBAREL will never overflow its banks, which is appreciated by people nearby.") | ? | ? |
+| ![Bibarel](../assets/sprites/bibarel/front_female.gif "Bibarel: A river dammed by BIBAREL will never overflow its banks, which is appreciated by people nearby.") | ![Bibarel](../assets/sprites/bibarel/front_shiny_female.png "Bibarel: A river dammed by BIBAREL will never overflow its banks, which is appreciated by people nearby.") | N/A | N/A |
 
 ### Cries
 
@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #400 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![water](../assets/types/water.png "Water"){: width="48"} | 1.0 m /<br>3.3 ft | 31.5 kg /<br>69.4 lbs | 1. <span class="tooltip" title="The Pokémon is prone to wild stat changes.">Simple</span><br>2. <span class="tooltip" title="Ignores any change in ability by the foe.">Unaware</span><br>3. <span class="tooltip" title="After each turn, one of this Pokémon's stats at random rises two stages, and another falls one stage.  If a stat is already at 6 or -6 stages, it will not be chosen to be increased or decreased, respectively.">Moody</span> | #14 |
+| #400 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 1.0 m /<br>3.3 ft | 31.5 kg /<br>69.4 lbs | 1. <span class="tooltip" title="The Pokémon is prone to wild stat changes.">Simple</span><br>2. <span class="tooltip" title="Ignores any change in ability by the foe.">Unaware</span> | #14 |
 
 ---
 
@@ -83,7 +83,7 @@ Bibarel has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 127 | 70 | 144 | Mediu |
+| 2 Atk | 127 | 70 | 144 | Mediu |
 
 ---
 

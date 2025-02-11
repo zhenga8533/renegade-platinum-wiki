@@ -16,12 +16,6 @@ It grows by feeding on gases released by garbage. Though very rare, triplets hav
 |-------|-------|------|-------|
 | ![Weezing](../assets/sprites/weezing/front.gif "Weezing: It grows by feeding on gases released by garbage. Though very rare, triplets have been found.") | ![Weezing](../assets/sprites/weezing/front_shiny.png "Weezing: It grows by feeding on gases released by garbage. Though very rare, triplets have been found.") | ![Weezing](../assets/sprites/weezing/back.png "Weezing: It grows by feeding on gases released by garbage. Though very rare, triplets have been found.") | ![Weezing](../assets/sprites/weezing/back_shiny.png "Weezing: It grows by feeding on gases released by garbage. Though very rare, triplets have been found.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #110 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.2 m /<br>3.9 ft | 9.5 kg /<br>20.9 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span><br>2. <span class="tooltip" title="">Neutralizing Gas</span><br>3. <span class="tooltip" title="The stench helps keep wild Pokémon away.">Stench</span> | N/A |
+| #110 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.2 m /<br>3.9 ft | 9.5 kg /<br>20.9 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span><br>2. <span class="tooltip" title="">Neutralizing Gas</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Weezing has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 60 | 50 | 172 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail.">Smoke Ball</span> (5%) |
+| 2 Def | 60 | 50 | 172 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail.">Smoke Ball</span> (5%) |
 
 ---
 

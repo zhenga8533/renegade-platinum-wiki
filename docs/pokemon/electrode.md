@@ -16,12 +16,6 @@ It is known to drift on winds if it is bloated to bursting with stored electrici
 |-------|-------|------|-------|
 | ![Electrode](../assets/sprites/electrode/front.gif "Electrode: It is known to drift on winds if it is bloated to bursting with stored electricity.") | ![Electrode](../assets/sprites/electrode/front_shiny.png "Electrode: It is known to drift on winds if it is bloated to bursting with stored electricity.") | ![Electrode](../assets/sprites/electrode/back.png "Electrode: It is known to drift on winds if it is bloated to bursting with stored electricity.") | ![Electrode](../assets/sprites/electrode/back_shiny.png "Electrode: It is known to drift on winds if it is bloated to bursting with stored electricity.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #101 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 1.2 m /<br>3.9 ft | 66.6 kg /<br>146.8 lbs | 1. <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span><br>2. <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br>3. <span class="tooltip" title="Damages the foe landing the finishing hit.">Aftermath</span> | N/A |
+| #101 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 1.2 m /<br>3.9 ft | 66.6 kg /<br>146.8 lbs | 1. <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span><br>2. <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Electrode has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 60 | 70 | 172 | Medium | N/A |
+| 2 Spd | 60 | 70 | 172 | Medium | N/A |
 
 ---
 

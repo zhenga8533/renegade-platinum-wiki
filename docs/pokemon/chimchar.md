@@ -16,12 +16,6 @@ It is very agile. Before going to sleep, it extinguishes the flame on its tail t
 |-------|-------|------|-------|
 | ![Chimchar](../assets/sprites/chimchar/front.gif "Chimchar: It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.") | ![Chimchar](../assets/sprites/chimchar/front_shiny.png "Chimchar: It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.") | ![Chimchar](../assets/sprites/chimchar/back.png "Chimchar: It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.") | ![Chimchar](../assets/sprites/chimchar/back_shiny.png "Chimchar: It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Chimchar has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 45 | 70 | 62 | Medium Slow | N/A |
+| 1 Spd | 45 | 70 | 62 | Medium Slow | N/A |
 
 ---
 

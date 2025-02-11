@@ -20,7 +20,7 @@ It spins its two tails like a screw to propel itself through water. The tails al
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Buizel](../assets/sprites/buizel/front_female.gif "Buizel: It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.") | ? | ![Buizel](../assets/sprites/buizel/back_female.png "Buizel: It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.") | ![Buizel](../assets/sprites/buizel/back_shiny_female.png "Buizel: It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.") |
+| ![Buizel](../assets/sprites/buizel/front_female.gif "Buizel: It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.") | N/A | ![Buizel](../assets/sprites/buizel/back_female.png "Buizel: It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.") | ![Buizel](../assets/sprites/buizel/back_shiny_female.png "Buizel: It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.") |
 
 ### Cries
 
@@ -83,7 +83,7 @@ Buizel has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 70 | 66 | Mediu |
+| 1 Spd | 190 | 70 | 66 | Mediu |
 
 ---
 

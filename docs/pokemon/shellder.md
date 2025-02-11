@@ -16,12 +16,6 @@ It swims backward by opening and closing its two shells. Its large tongue is alw
 |-------|-------|------|-------|
 | ![Shellder](../assets/sprites/shellder/front.gif "Shellder: It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.") | ![Shellder](../assets/sprites/shellder/front_shiny.png "Shellder: It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.") | ![Shellder](../assets/sprites/shellder/back.png "Shellder: It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.") | ![Shellder](../assets/sprites/shellder/back_shiny.png "Shellder: It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Shellder has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 190 | 50 | 61 | Slow | <span class="tooltip" title="A somewhat-small pearl that sparkles in a pretty silver color. It can be sold cheaply to shops.">Pearl</span> (50%)<br><span class="tooltip" title="A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.">Big Pearl</span> (5%) |
+| 1 Def | 190 | 50 | 61 | Slow | <span class="tooltip" title="A somewhat-small pearl that sparkles in a pretty silver color. It can be sold cheaply to shops.">Pearl</span> (50%)<br><span class="tooltip" title="A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.">Big Pearl</span> (5%) |
 
 ---
 

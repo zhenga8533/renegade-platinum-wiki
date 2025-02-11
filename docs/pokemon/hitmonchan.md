@@ -16,12 +16,6 @@ The arm-twisting punches it throws pulverize even concrete. It rests after three
 |-------|-------|------|-------|
 | ![Hitmonchan](../assets/sprites/hitmonchan/front.gif "Hitmonchan: The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.") | ![Hitmonchan](../assets/sprites/hitmonchan/front_shiny.png "Hitmonchan: The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.") | ![Hitmonchan](../assets/sprites/hitmonchan/back.png "Hitmonchan: The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.") | ![Hitmonchan](../assets/sprites/hitmonchan/back_shiny.png "Hitmonchan: The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -87,7 +81,7 @@ Hitmonchan has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 45 | 50 | 159 | Medium | N/A |
+| 2 Sp. Def | 45 | 50 | 159 | Medium | N/A |
 
 ---
 

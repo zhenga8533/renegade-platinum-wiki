@@ -16,12 +16,6 @@ Its skin is so thin, its internal organs are visible. It has trouble walking on 
 |-------|-------|------|-------|
 | ![Poliwag](../assets/sprites/poliwag/front.gif "Poliwag: Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.") | ![Poliwag](../assets/sprites/poliwag/front_shiny.png "Poliwag: Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.") | ![Poliwag](../assets/sprites/poliwag/back.png "Poliwag: Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.") | ![Poliwag](../assets/sprites/poliwag/back_shiny.png "Poliwag: Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #60 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.6 m /<br>2.0 ft | 12.4 kg /<br>27.3 lbs | 1. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br>2. <span class="tooltip" title="Prevents combatants from self destructing.">Damp</span><br>3. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span> | N/A |
+| #60 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.6 m /<br>2.0 ft | 12.4 kg /<br>27.3 lbs | 1. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br>2. <span class="tooltip" title="Prevents combatants from self destructing.">Damp</span> | N/A |
 
 ---
 
@@ -87,7 +81,7 @@ Poliwag has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 255 | 50 | 60 | Medium Slow | N/A |
+| 1 Spd | 255 | 50 | 60 | Medium Slow | N/A |
 
 ---
 

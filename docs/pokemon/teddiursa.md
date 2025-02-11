@@ -16,12 +16,6 @@ It lets honey soak into its paws so it can lick them all the time. Every set of 
 |-------|-------|------|-------|
 | ![Teddiursa](../assets/sprites/teddiursa/front.gif "Teddiursa: It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.") | ![Teddiursa](../assets/sprites/teddiursa/front_shiny.png "Teddiursa: It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.") | ![Teddiursa](../assets/sprites/teddiursa/back.png "Teddiursa: It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.") | ![Teddiursa](../assets/sprites/teddiursa/back_shiny.png "Teddiursa: It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #216 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.6 m /<br>2.0 ft | 8.8 kg /<br>19.4 lbs | 1. <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span><br>2. <span class="tooltip" title="Boosts Speed if there is a status problem.">Quick Feet</span><br>3. <span class="tooltip" title="The Pokémon may gather Honey from somewhere.">Honey Gather</span> | N/A |
+| #216 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.6 m /<br>2.0 ft | 8.8 kg /<br>19.4 lbs | 1. <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span><br>2. <span class="tooltip" title="Boosts Speed if there is a status problem.">Quick Feet</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Teddiursa has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 120 | 70 | 66 | Mediu |
+| 1 Atk | 120 | 70 | 66 | Mediu |
 
 ---
 

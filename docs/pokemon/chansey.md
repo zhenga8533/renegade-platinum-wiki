@@ -16,12 +16,6 @@ A kindly Pokémon that lays highly nutritious eggs and shares them with injured 
 |-------|-------|------|-------|
 | ![Chansey](../assets/sprites/chansey/front.gif "Chansey: A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.") | ![Chansey](../assets/sprites/chansey/front_shiny.png "Chansey: A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.") | ![Chansey](../assets/sprites/chansey/back.png "Chansey: A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.") | ![Chansey](../assets/sprites/chansey/back_shiny.png "Chansey: A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Chansey has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 30 | 140 | 395 | Fast | <span class="tooltip" title="An item to be held by CHANSEY. It is a pair of gloves that boosts CHANSEY’s critical-hit ratio.">Lucky Punch</span> (50%) |
+| 2 None | 30 | 140 | 395 | Fast | <span class="tooltip" title="An item to be held by CHANSEY. It is a pair of gloves that boosts CHANSEY’s critical-hit ratio.">Lucky Punch</span> (50%) |
 
 ---
 

@@ -16,12 +16,6 @@ It drifts on winds. It is said that when HOPPIP gather in fields and mountains, 
 |-------|-------|------|-------|
 | ![Hoppip](../assets/sprites/hoppip/front.gif "Hoppip: It drifts on winds. It is said that when HOPPIP gather in fields and mountains, spring is on the way.") | ![Hoppip](../assets/sprites/hoppip/front_shiny.png "Hoppip: It drifts on winds. It is said that when HOPPIP gather in fields and mountains, spring is on the way.") | ![Hoppip](../assets/sprites/hoppip/back.png "Hoppip: It drifts on winds. It is said that when HOPPIP gather in fields and mountains, spring is on the way.") | ![Hoppip](../assets/sprites/hoppip/back_shiny.png "Hoppip: It drifts on winds. It is said that when HOPPIP gather in fields and mountains, spring is on the way.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #187 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.4 m /<br>1.3 ft | 0.5 kg /<br>1.1 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Prevents status problems in sunny weather.">Leaf Guard</span><br>3. <span class="tooltip" title="This Pokémon's moves ignore light screen, reflect, and safeguard.">Infiltrator</span> | N/A |
+| #187 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.4 m /<br>1.3 ft | 0.5 kg /<br>1.1 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Prevents status problems in sunny weather.">Leaf Guard</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Hoppip has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 255 | 70 | 50 | Medium Slow | N/A |
+| 1 Sp. Def | 255 | 70 | 50 | Medium Slow | N/A |
 
 ---
 

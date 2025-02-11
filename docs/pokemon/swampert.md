@@ -16,12 +16,6 @@ It can swim while towing a large ship. It bashes down foes with a swing of its t
 |-------|-------|------|-------|
 | ![Swampert](../assets/sprites/swampert/front.gif "Swampert: It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.") | ![Swampert](../assets/sprites/swampert/front_shiny.png "Swampert: It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.") | ![Swampert](../assets/sprites/swampert/back.png "Swampert: It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.") | ![Swampert](../assets/sprites/swampert/back_shiny.png "Swampert: It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #260 | ![water](../assets/types/water.png "Water"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.5 m /<br>4.9 ft | 81.9 kg /<br>180.6 lbs | 1. <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br>2. <span class="tooltip" title="Prevents combatants from self destructing.">Damp</span> | N/A |
+| #260 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.5 m /<br>4.9 ft | 81.9 kg /<br>180.6 lbs | 1. <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br>2. <span class="tooltip" title="Prevents combatants from self destructing.">Damp</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Swampert has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 50 | 268 | Medium Slow | N/A |
+| 3 Atk | 45 | 50 | 268 | Medium Slow | N/A |
 
 ---
 

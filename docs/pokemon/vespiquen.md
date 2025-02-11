@@ -16,12 +16,6 @@ It releases various pheromones to make the grubs in its body do its bidding whil
 |-------|-------|------|-------|
 | ![Vespiquen](../assets/sprites/vespiquen/front.gif "Vespiquen: It releases various pheromones to make the grubs in its body do its bidding while fighting foes.") | ![Vespiquen](../assets/sprites/vespiquen/front_shiny.png "Vespiquen: It releases various pheromones to make the grubs in its body do its bidding while fighting foes.") | ![Vespiquen](../assets/sprites/vespiquen/back.png "Vespiquen: It releases various pheromones to make the grubs in its body do its bidding while fighting foes.") | ![Vespiquen](../assets/sprites/vespiquen/back_shiny.png "Vespiquen: It releases various pheromones to make the grubs in its body do its bidding while fighting foes.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #416 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 38.5 kg /<br>84.9 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span> | #54 |
+| #416 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 38.5 kg /<br>84.9 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span> | #54 |
 
 ---
 
@@ -83,7 +77,7 @@ Vespiquen has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>1 Special Defense | 45 | 50 | 166 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
+| 1 Def<br>1 Sp. Def | 45 | 50 | 166 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
 
 ---
 

@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #454 | ![poison](../assets/types/poison.png "Poison"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.3 m /<br>4.3 ft | 44.4 kg /<br>97.9 lbs | 1. <span class="tooltip" title="Reduces HP if it is hot. Water restores HP.">Dry Skin</span><br>2. <span class="tooltip" title="Senses the foe’s dangerous moves.">Anticipation</span> | #130 |
+| #454 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.3 m /<br>4.3 ft | 44.4 kg /<br>97.9 lbs | 1. <span class="tooltip" title="Reduces HP if it is hot. Water restores HP.">Dry Skin</span><br>2. <span class="tooltip" title="Senses the foe’s dangerous moves.">Anticipation</span> | #130 |
 
 ---
 
@@ -83,7 +83,7 @@ Toxicroak has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 75 | 50 | 172 | Medium | <span class="tooltip" title="A hold item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types.">Black Sludge</span> (5%) |
+| 2 Atk | 75 | 50 | 172 | Medium | <span class="tooltip" title="A hold item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types.">Black Sludge</span> (5%) |
 
 ---
 

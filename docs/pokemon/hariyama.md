@@ -16,12 +16,6 @@ It loves to match power with big-bodied Pokémon. It can knock a truck flying wi
 |-------|-------|------|-------|
 | ![Hariyama](../assets/sprites/hariyama/front.gif "Hariyama: It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.") | ![Hariyama](../assets/sprites/hariyama/front_shiny.png "Hariyama: It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.") | ![Hariyama](../assets/sprites/hariyama/back.png "Hariyama: It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.") | ![Hariyama](../assets/sprites/hariyama/back_shiny.png "Hariyama: It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #297 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 2.3 m /<br>7.5 ft | 253.8 kg /<br>559.5 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>3. <span class="tooltip" title="This Pokémon's moves with extra effects have 1.3× their power, but lose their extra effects.  An effect chance is a move's chance to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect. For example, thunder shock's paralysis is an extra effect, but thunder wave's is not, nor are knock off's item removal and air cutter's increased critical hit rate.  Moves that lower the user's stats are unaffected.">Sheer Force</span> | N/A |
+| #297 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 2.3 m /<br>7.5 ft | 253.8 kg /<br>559.5 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Hariyama has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 200 | 70 | 166 | Fast Then Very Slow | <span class="tooltip" title="An item to be held by a Pokémon. It may cause the foe to flinch when the holder inflicts damage.">Kings Rock</span> (5%) |
+| 2 None | 200 | 70 | 166 | Fast Then Very Slow | <span class="tooltip" title="An item to be held by a Pokémon. It may cause the foe to flinch when the holder inflicts damage.">Kings Rock</span> (5%) |
 
 ---
 

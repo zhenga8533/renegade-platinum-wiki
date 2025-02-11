@@ -16,12 +16,6 @@ No two SPINDA have the same pattern of spots. Its tottering step fouls the aim o
 |-------|-------|------|-------|
 | ![Spinda](../assets/sprites/spinda/front.gif "Spinda: No two SPINDA have the same pattern of spots. Its tottering step fouls the aim of foes.") | ![Spinda](../assets/sprites/spinda/front_shiny.png "Spinda: No two SPINDA have the same pattern of spots. Its tottering step fouls the aim of foes.") | ![Spinda](../assets/sprites/spinda/back.png "Spinda: No two SPINDA have the same pattern of spots. Its tottering step fouls the aim of foes.") | ![Spinda](../assets/sprites/spinda/back_shiny.png "Spinda: No two SPINDA have the same pattern of spots. Its tottering step fouls the aim of foes.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #327 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.1 m /<br>3.6 ft | 5.0 kg /<br>11.0 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>2. <span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span><br>3. <span class="tooltip" title="Whenever this Pokémon's stats would be raised, they are instead lowered by the same amount, and vice versa.">Contrary</span> | N/A |
+| #327 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.1 m /<br>3.6 ft | 5.0 kg /<br>11.0 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>2. <span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Spinda has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 255 | 70 | 126 | Fas |
+| 1 Sp. Atk | 255 | 70 | 126 | Fas |
 
 ---
 

@@ -16,12 +16,6 @@ A toxic fluid seeps from its body. The fluid instantly kills plants and trees on
 |-------|-------|------|-------|
 | ![Muk](../assets/sprites/muk/front.gif "Muk: A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.") | ![Muk](../assets/sprites/muk/front_shiny.png "Muk: A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.") | ![Muk](../assets/sprites/muk/back.png "Muk: A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.") | ![Muk](../assets/sprites/muk/back_shiny.png "Muk: A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #89 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.2 m /<br>3.9 ft | 30.0 kg /<br>66.1 lbs | 1. <span class="tooltip" title="The stench helps keep wild Pokémon away.">Stench</span><br>2. <span class="tooltip" title="Protects the Pokémon from item theft.">Sticky Hold</span><br>3. <span class="tooltip" title="This Pokémon's contact moves have a 30% chance of poisoning the target with each hit.  This counts as an extra effect for the purposes of shield dust.  This ability takes effect before mummy.">Poison Touch</span> | N/A |
+| #89 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.2 m /<br>3.9 ft | 30.0 kg /<br>66.1 lbs | 1. <span class="tooltip" title="The stench helps keep wild Pokémon away.">Stench</span><br>2. <span class="tooltip" title="Protects the Pokémon from item theft.">Sticky Hold</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Muk has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp<br>1 Attack | 75 | 70 | 175 | Medium | <span class="tooltip" title="A hold item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types.">Black Sludge</span> (50%) |
+| 1 None<br>1 Atk | 75 | 70 | 175 | Medium | <span class="tooltip" title="A hold item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types.">Black Sludge</span> (50%) |
 
 ---
 

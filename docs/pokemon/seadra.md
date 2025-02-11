@@ -16,12 +16,6 @@ Its spines provide protection. Its fins and bones are prized as traditional medi
 |-------|-------|------|-------|
 | ![Seadra](../assets/sprites/seadra/front.gif "Seadra: Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.") | ![Seadra](../assets/sprites/seadra/front_shiny.png "Seadra: Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.") | ![Seadra](../assets/sprites/seadra/back.png "Seadra: Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.") | ![Seadra](../assets/sprites/seadra/back_shiny.png "Seadra: Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #117 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.2 m /<br>3.9 ft | 25.0 kg /<br>55.1 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may poison the foe.">Poison Point</span><br>2. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span><br>3. <span class="tooltip" title="Prevents combatants from self destructing.">Damp</span> | N/A |
+| #117 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.2 m /<br>3.9 ft | 25.0 kg /<br>55.1 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may poison the foe.">Poison Point</span><br>2. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Seadra has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>1 Special Attack | 75 | 50 | 154 | Medium | <span class="tooltip" title="A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.">Dragon Scale</span> (5%) |
+| 1 Def<br>1 Sp. Atk | 75 | 50 | 154 | Medium | <span class="tooltip" title="A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.">Dragon Scale</span> (5%) |
 
 ---
 

@@ -16,12 +16,6 @@ When the bud on its back starts swelling, a sweet aroma wafts to indicate the fl
 |-------|-------|------|-------|
 | ![Ivysaur](../assets/sprites/ivysaur/front.gif "Ivysaur: When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.") | ![Ivysaur](../assets/sprites/ivysaur/front_shiny.png "Ivysaur: When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.") | ![Ivysaur](../assets/sprites/ivysaur/back.png "Ivysaur: When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.") | ![Ivysaur](../assets/sprites/ivysaur/back_shiny.png "Ivysaur: When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #2 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.0 m /<br>3.3 ft | 13.0 kg /<br>28.7 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span> | N/A |
+| #2 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.0 m /<br>3.3 ft | 13.0 kg /<br>28.7 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Ivysaur has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>1 Special Defense | 45 | 50 | 142 | Medium Slow | N/A |
+| 1 Sp. Atk<br>1 Sp. Def | 45 | 50 | 142 | Medium Slow | N/A |
 
 ---
 

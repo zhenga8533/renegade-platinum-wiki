@@ -16,12 +16,6 @@ It loves the crying of children. It startles bad kids by passing through walls a
 |-------|-------|------|-------|
 | ![Duskull](../assets/sprites/duskull/front.gif "Duskull: It loves the crying of children. It startles bad kids by passing through walls and making them cry.") | ![Duskull](../assets/sprites/duskull/front_shiny.png "Duskull: It loves the crying of children. It startles bad kids by passing through walls and making them cry.") | ![Duskull](../assets/sprites/duskull/back.png "Duskull: It loves the crying of children. It startles bad kids by passing through walls and making them cry.") | ![Duskull](../assets/sprites/duskull/back_shiny.png "Duskull: It loves the crying of children. It startles bad kids by passing through walls and making them cry.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Duskull has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 190 | 35 | 59 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It is a sinister, eerie tag that boosts the power of Ghost-type moves.">Spell Tag</span> (5%) |
+| 1 Sp. Def | 190 | 35 | 59 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It is a sinister, eerie tag that boosts the power of Ghost-type moves.">Spell Tag</span> (5%) |
 
 ---
 

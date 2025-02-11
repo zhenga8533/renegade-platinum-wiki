@@ -16,12 +16,6 @@ It carries food rolled up in its tail. It has the habit of sharing food with peo
 |-------|-------|------|-------|
 | ![Delibird](../assets/sprites/delibird/front.gif "Delibird: It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.") | ![Delibird](../assets/sprites/delibird/front_shiny.png "Delibird: It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.") | ![Delibird](../assets/sprites/delibird/back.png "Delibird: It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.") | ![Delibird](../assets/sprites/delibird/back_shiny.png "Delibird: It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #225 | ![ice](../assets/types/ice.png "Ice"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.9 m /<br>3.0 ft | 16.0 kg /<br>35.3 lbs | 1. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span><br>2. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span> | N/A |
+| #225 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.9 m /<br>3.0 ft | 16.0 kg /<br>35.3 lbs | 1. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span><br>2. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Delibird has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 45 | 50 | 116 | Fast | N/A |
+| 1 Spd | 45 | 50 | 116 | Fast | N/A |
 
 ---
 

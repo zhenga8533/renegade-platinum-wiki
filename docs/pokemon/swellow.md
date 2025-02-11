@@ -16,12 +16,6 @@ It circles the sky in search of prey. When it spots one, it dives steeply to cat
 |-------|-------|------|-------|
 | ![Swellow](../assets/sprites/swellow/front.gif "Swellow: It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.") | ![Swellow](../assets/sprites/swellow/front_shiny.png "Swellow: It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.") | ![Swellow](../assets/sprites/swellow/back.png "Swellow: It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.") | ![Swellow](../assets/sprites/swellow/back_shiny.png "Swellow: It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #277 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.7 m /<br>2.3 ft | 19.8 kg /<br>43.7 lbs | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Enables moves to hit Ghost-type foes.">Scrappy</span> | N/A |
+| #277 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.7 m /<br>2.3 ft | 19.8 kg /<br>43.7 lbs | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Enables moves to hit Ghost-type foes.">Scrappy</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Swellow has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 45 | 70 | 159 | Medium Slo |
+| 2 Spd | 45 | 70 | 159 | Medium Slo |
 
 ---
 

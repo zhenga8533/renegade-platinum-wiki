@@ -16,12 +16,6 @@ A Pokémon with a persistent nature, it chases its chosen prey until the prey be
 |-------|-------|------|-------|
 | ![Poochyena](../assets/sprites/poochyena/front.gif "Poochyena: A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.") | ![Poochyena](../assets/sprites/poochyena/front_shiny.png "Poochyena: A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.") | ![Poochyena](../assets/sprites/poochyena/back.png "Poochyena: A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.") | ![Poochyena](../assets/sprites/poochyena/back_shiny.png "Poochyena: A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #261 | ![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.5 m /<br>1.6 ft | 13.6 kg /<br>30.0 lbs | 1. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>2. <span class="tooltip" title="Boosts Speed if there is a status problem.">Quick Feet</span><br>3. <span class="tooltip" title="This Pokémon's Speed rises one stage with each hit from a damaging dark-, ghost-, or bug-type move.">Rattled</span> | N/A |
+| #261 | ![dark](../assets/types/dark.png "Dark"){: width="48"} | 0.5 m /<br>1.6 ft | 13.6 kg /<br>30.0 lbs | 1. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>2. <span class="tooltip" title="Boosts Speed if there is a status problem.">Quick Feet</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Poochyena has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 255 | 70 | 56 | Mediu |
+| 1 Atk | 255 | 70 | 56 | Mediu |
 
 ---
 

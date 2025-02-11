@@ -16,12 +16,6 @@ It never forgets any attack it endured while in the cocoon. After evolution, it 
 |-------|-------|------|-------|
 | ![Cascoon](../assets/sprites/cascoon/front.gif "Cascoon: It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.") | ![Cascoon](../assets/sprites/cascoon/front_shiny.png "Cascoon: It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.") | ![Cascoon](../assets/sprites/cascoon/back.png "Cascoon: It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.") | ![Cascoon](../assets/sprites/cascoon/back_shiny.png "Cascoon: It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -89,7 +83,7 @@ Cascoon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 120 | 70 | 72 | Medium | N/A |
+| 2 Def | 120 | 70 | 72 | Medium | N/A |
 
 ---
 

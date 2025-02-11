@@ -16,12 +16,6 @@ One of the legendary bird Pokémon. It is said that its appearance indicates the
 |-------|-------|------|-------|
 | ![Moltres](../assets/sprites/moltres/front.gif "Moltres: One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.") | ![Moltres](../assets/sprites/moltres/front_shiny.png "Moltres: One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.") | ![Moltres](../assets/sprites/moltres/back.png "Moltres: One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.") | ![Moltres](../assets/sprites/moltres/back_shiny.png "Moltres: One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #146 | ![fire](../assets/types/fire.png "Fire"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 2.0 m /<br>6.6 ft | 60.0 kg /<br>132.3 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="Contact with the Pokémon may burn the foe.">Flame Body</span> | N/A |
+| #146 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 2.0 m /<br>6.6 ft | 60.0 kg /<br>132.3 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="Contact with the Pokémon may burn the foe.">Flame Body</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Moltres has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 3 | 35 | 290 | Slow | N/A |
+| 3 Sp. Atk | 3 | 35 | 290 | Slow | N/A |
 
 ---
 

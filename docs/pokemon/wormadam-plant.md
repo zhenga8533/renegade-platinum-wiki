@@ -16,12 +16,6 @@ When evolving, its body takes in surrounding materials. As a result, there are m
 |-------|-------|------|-------|
 | ![Wormadam Plant](../assets/sprites/wormadam-plant/front.gif "Wormadam Plant: When evolving, its body takes in surrounding materials. As a result, there are many body variations.") | ![Wormadam Plant](../assets/sprites/wormadam-plant/front_shiny.png "Wormadam Plant: When evolving, its body takes in surrounding materials. As a result, there are many body variations.") | ![Wormadam Plant](../assets/sprites/wormadam-plant/back.png "Wormadam Plant: When evolving, its body takes in surrounding materials. As a result, there are many body variations.") | ![Wormadam Plant](../assets/sprites/wormadam-plant/back_shiny.png "Wormadam Plant: When evolving, its body takes in surrounding materials. As a result, there are many body variations.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #413 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.5 m /<br>1.6 ft | 6.5 kg /<br>14.3 lbs | 1. <span class="tooltip" title="Senses the foe’s dangerous moves.">Anticipation</span><br>2. <span class="tooltip" title="Senses the foe’s dangerous moves.">Anticipation</span> | #46 |
+| #413 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.5 m /<br>1.6 ft | 6.5 kg /<br>14.3 lbs | 1. <span class="tooltip" title="Senses the foe’s dangerous moves.">Anticipation</span><br>2. <span class="tooltip" title="Senses the foe’s dangerous moves.">Anticipation</span> | #46 |
 
 ---
 
@@ -94,7 +88,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 45 | 70 | 148 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.">Silver Powder</span> (5%) |
+| 2 Sp. Def | 45 | 70 | 148 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.">Silver Powder</span> (5%) |
 
 ---
 

@@ -16,12 +16,6 @@ Because every PRINPLUP considers itself to be the most important, they can never
 |-------|-------|------|-------|
 | ![Prinplup](../assets/sprites/prinplup/front.gif "Prinplup: Because every PRINPLUP considers itself to be the most important, they can never form a group.") | ![Prinplup](../assets/sprites/prinplup/front_shiny.png "Prinplup: Because every PRINPLUP considers itself to be the most important, they can never form a group.") | ![Prinplup](../assets/sprites/prinplup/back.png "Prinplup: Because every PRINPLUP considers itself to be the most important, they can never form a group.") | ![Prinplup](../assets/sprites/prinplup/back_shiny.png "Prinplup: Because every PRINPLUP considers itself to be the most important, they can never form a group.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Prinplup has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 45 | 70 | 142 | Medium Slow | N/A |
+| 2 Sp. Atk | 45 | 70 | 142 | Medium Slow | N/A |
 
 ---
 

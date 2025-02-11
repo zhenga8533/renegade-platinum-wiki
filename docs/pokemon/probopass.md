@@ -16,12 +16,6 @@ It freely controls three small units called Mini-Noses using magnetic force.
 |-------|-------|------|-------|
 | ![Probopass](../assets/sprites/probopass/front.gif "Probopass: It freely controls three small units called Mini-Noses using magnetic force.") | ![Probopass](../assets/sprites/probopass/front_shiny.png "Probopass: It freely controls three small units called Mini-Noses using magnetic force.") | ![Probopass](../assets/sprites/probopass/back.png "Probopass: It freely controls three small units called Mini-Noses using magnetic force.") | ![Probopass](../assets/sprites/probopass/back_shiny.png "Probopass: It freely controls three small units called Mini-Noses using magnetic force.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #476 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.4 m /<br>4.6 ft | 340.0 kg /<br>749.6 lbs | 1. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span><br>2. <span class="tooltip" title="Prevents Steel-type Pokémon from escaping.">Magnet Pull</span><br>3. <span class="tooltip" title="During a sandstorm, this Pokémon's rock-, ground-, and steel-type moves have 1.3× their base power.  This Pokémon does not take sandstorm damage, regardless of type.">Sand Force</span> | N/A |
+| #476 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.4 m /<br>4.6 ft | 340.0 kg /<br>749.6 lbs | 1. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span><br>2. <span class="tooltip" title="Prevents Steel-type Pokémon from escaping.">Magnet Pull</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Probopass has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>2 Special Defense | 60 | 70 | 184 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a powerful magnet that boosts the power of Electric-type moves.">Magnet</span> (5%) |
+| 1 Def<br>2 Sp. Def | 60 | 70 | 184 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a powerful magnet that boosts the power of Electric-type moves.">Magnet</span> (5%) |
 
 ---
 

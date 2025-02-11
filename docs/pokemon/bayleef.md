@@ -16,12 +16,6 @@ The buds that ring its neck give off a spicy aroma that perks people up.
 |-------|-------|------|-------|
 | ![Bayleef](../assets/sprites/bayleef/front.gif "Bayleef: The buds that ring its neck give off a spicy aroma that perks people up.") | ![Bayleef](../assets/sprites/bayleef/front_shiny.png "Bayleef: The buds that ring its neck give off a spicy aroma that perks people up.") | ![Bayleef](../assets/sprites/bayleef/back.png "Bayleef: The buds that ring its neck give off a spicy aroma that perks people up.") | ![Bayleef](../assets/sprites/bayleef/back_shiny.png "Bayleef: The buds that ring its neck give off a spicy aroma that perks people up.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Bayleef has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>1 Special Defense | 45 | 70 | 142 | Medium Slow | N/A |
+| 1 Def<br>1 Sp. Def | 45 | 70 | 142 | Medium Slow | N/A |
 
 ---
 

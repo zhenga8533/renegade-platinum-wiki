@@ -16,12 +16,6 @@ Because its body is almost entirely composed of water, it shrivels up if it is w
 |-------|-------|------|-------|
 | ![Tentacool](../assets/sprites/tentacool/front.gif "Tentacool: Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.") | ![Tentacool](../assets/sprites/tentacool/front_shiny.png "Tentacool: Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.") | ![Tentacool](../assets/sprites/tentacool/back.png "Tentacool: Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.") | ![Tentacool](../assets/sprites/tentacool/back_shiny.png "Tentacool: Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #72 | ![water](../assets/types/water.png "Water"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.9 m /<br>3.0 ft | 45.5 kg /<br>100.3 lbs | 1. <span class="tooltip" title="Prevents the Pokémon’s stats from being lowered.">Clear Body</span><br>2. <span class="tooltip" title="Inflicts damage on foes using any draining move.">Liquid Ooze</span><br>3. <span class="tooltip" title="The Pokémon gradually recovers HP in rain.">Rain Dish</span> | #136 |
+| #72 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.9 m /<br>3.0 ft | 45.5 kg /<br>100.3 lbs | 1. <span class="tooltip" title="Prevents the Pokémon’s stats from being lowered.">Clear Body</span><br>2. <span class="tooltip" title="Inflicts damage on foes using any draining move.">Liquid Ooze</span> | #136 |
 
 ---
 
@@ -83,7 +77,7 @@ Tentacool has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 190 | 50 | 67 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
+| 1 Sp. Def | 190 | 50 | 67 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
 
 ---
 

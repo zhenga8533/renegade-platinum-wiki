@@ -16,12 +16,6 @@ It whips up sandstorms with powerful flaps of its wings. It is known as “The D
 |-------|-------|------|-------|
 | ![Flygon](../assets/sprites/flygon/front.gif "Flygon: It whips up sandstorms with powerful flaps of its wings. It is known as “The Desert Spirit.”") | ![Flygon](../assets/sprites/flygon/front_shiny.png "Flygon: It whips up sandstorms with powerful flaps of its wings. It is known as “The Desert Spirit.”") | ![Flygon](../assets/sprites/flygon/back.png "Flygon: It whips up sandstorms with powerful flaps of its wings. It is known as “The Desert Spirit.”") | ![Flygon](../assets/sprites/flygon/back_shiny.png "Flygon: It whips up sandstorms with powerful flaps of its wings. It is known as “The Desert Spirit.”") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #330 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 2.0 m /<br>6.6 ft | 82.0 kg /<br>180.8 lbs | 1. <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span><br>2. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #330 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 2.0 m /<br>6.6 ft | 82.0 kg /<br>180.8 lbs | 1. <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span><br>2. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Flygon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>2 Speed | 45 | 50 | 260 | Medium Slow | N/A |
+| 1 Atk<br>2 Spd | 45 | 50 | 260 | Medium Slow | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ It shelters itself in its shell, then strikes back with spouts of water at every
 |-------|-------|------|-------|
 | ![Squirtle](../assets/sprites/squirtle/front.gif "Squirtle: It shelters itself in its shell, then strikes back with spouts of water at every opportunity.") | ![Squirtle](../assets/sprites/squirtle/front_shiny.png "Squirtle: It shelters itself in its shell, then strikes back with spouts of water at every opportunity.") | ![Squirtle](../assets/sprites/squirtle/back.png "Squirtle: It shelters itself in its shell, then strikes back with spouts of water at every opportunity.") | ![Squirtle](../assets/sprites/squirtle/back_shiny.png "Squirtle: It shelters itself in its shell, then strikes back with spouts of water at every opportunity.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Squirtle has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 45 | 50 | 63 | Medium Slow | N/A |
+| 1 Def | 45 | 50 | 63 | Medium Slow | N/A |
 
 ---
 

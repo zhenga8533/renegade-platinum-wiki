@@ -16,12 +16,6 @@ It is said that CHARIZARD’s fire burns hotter if it has experienced harsh batt
 |-------|-------|------|-------|
 | ![Charizard](../assets/sprites/charizard/front.gif "Charizard: It is said that CHARIZARD’s fire burns hotter if it has experienced harsh battles.") | ![Charizard](../assets/sprites/charizard/front_shiny.png "Charizard: It is said that CHARIZARD’s fire burns hotter if it has experienced harsh battles.") | ![Charizard](../assets/sprites/charizard/back.png "Charizard: It is said that CHARIZARD’s fire burns hotter if it has experienced harsh battles.") | ![Charizard](../assets/sprites/charizard/back_shiny.png "Charizard: It is said that CHARIZARD’s fire burns hotter if it has experienced harsh battles.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #6 | ![fire](../assets/types/fire.png "Fire"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.7 m /<br>5.6 ft | 90.5 kg /<br>199.5 lbs | 1. <span class="tooltip" title="Boosts Sp. Atk, but lowers HP in sunshine.">Solar Power</span> | N/A |
+| #6 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 1.7 m /<br>5.6 ft | 90.5 kg /<br>199.5 lbs | 1. <span class="tooltip" title="Boosts Sp. Atk, but lowers HP in sunshine.">Solar Power</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Charizard has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 45 | 50 | 267 | Medium Slow | N/A |
+| 3 Sp. Atk | 45 | 50 | 267 | Medium Slow | N/A |
 
 ---
 

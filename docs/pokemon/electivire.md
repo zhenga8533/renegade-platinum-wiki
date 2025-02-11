@@ -16,12 +16,6 @@ Heedless of enemy attacks, it closes in, shoves its tails onto the foe, then loo
 |-------|-------|------|-------|
 | ![Electivire](../assets/sprites/electivire/front.gif "Electivire: Heedless of enemy attacks, it closes in, shoves its tails onto the foe, then looses high voltage.") | ![Electivire](../assets/sprites/electivire/front_shiny.png "Electivire: Heedless of enemy attacks, it closes in, shoves its tails onto the foe, then looses high voltage.") | ![Electivire](../assets/sprites/electivire/back.png "Electivire: Heedless of enemy attacks, it closes in, shoves its tails onto the foe, then looses high voltage.") | ![Electivire](../assets/sprites/electivire/back_shiny.png "Electivire: Heedless of enemy attacks, it closes in, shoves its tails onto the foe, then looses high voltage.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #466 | ![electric](../assets/types/electric.png "Electric"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.8 m /<br>5.9 ft | 138.6 kg /<br>305.6 lbs | 1. <span class="tooltip" title="Raises Speed if hit by an Electric-type move.">Motor Drive</span><br>2. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span> | N/A |
+| #466 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.8 m /<br>5.9 ft | 138.6 kg /<br>305.6 lbs | 1. <span class="tooltip" title="Raises Speed if hit by an Electric-type move.">Motor Drive</span><br>2. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Electivire has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 30 | 50 | 270 | Medium | <span class="tooltip" title="A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon.">Electirizer</span> (5%) |
+| 3 Atk | 30 | 50 | 270 | Medium | <span class="tooltip" title="A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon.">Electirizer</span> (5%) |
 
 ---
 

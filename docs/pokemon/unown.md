@@ -16,12 +16,6 @@ When alone, nothing happens. However, if there are two or more, an odd power is 
 |-------|-------|------|-------|
 | ![Unown](../assets/sprites/unown/front.gif "Unown: When alone, nothing happens. However, if there are two or more, an odd power is said to emerge.") | ![Unown](../assets/sprites/unown/front_shiny.png "Unown: When alone, nothing happens. However, if there are two or more, an odd power is said to emerge.") | ![Unown](../assets/sprites/unown/back.png "Unown: When alone, nothing happens. However, if there are two or more, an odd power is said to emerge.") | ![Unown](../assets/sprites/unown/back_shiny.png "Unown: When alone, nothing happens. However, if there are two or more, an odd power is said to emerge.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Unown B Sprites
 
 | Front | Shiny | Back | Shiny |
@@ -243,7 +237,7 @@ Unown has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack | 225 | 70 | 118 | Medium | N/A |
+| 1 Atk<br>1 Sp. Atk | 225 | 70 | 118 | Medium | N/A |
 
 ---
 

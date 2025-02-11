@@ -16,12 +16,6 @@ Its cell composition is similar to water molecules. As a result, it can melt awa
 |-------|-------|------|-------|
 | ![Vaporeon](../assets/sprites/vaporeon/front.gif "Vaporeon: Its cell composition is similar to water molecules. As a result, it can melt away into water.") | ![Vaporeon](../assets/sprites/vaporeon/front_shiny.png "Vaporeon: Its cell composition is similar to water molecules. As a result, it can melt away into water.") | ![Vaporeon](../assets/sprites/vaporeon/back.png "Vaporeon: Its cell composition is similar to water molecules. As a result, it can melt away into water.") | ![Vaporeon](../assets/sprites/vaporeon/back_shiny.png "Vaporeon: Its cell composition is similar to water molecules. As a result, it can melt away into water.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -95,7 +89,7 @@ Vaporeon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 45 | 50 | 184 | Medium | N/A |
+| 2 None | 45 | 50 | 184 | Medium | N/A |
 
 ---
 

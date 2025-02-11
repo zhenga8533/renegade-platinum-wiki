@@ -16,12 +16,6 @@ To alert it, the fin on its head senses the flow of water. It has the strength t
 |-------|-------|------|-------|
 | ![Mudkip](../assets/sprites/mudkip/front.gif "Mudkip: To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.") | ![Mudkip](../assets/sprites/mudkip/front_shiny.png "Mudkip: To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.") | ![Mudkip](../assets/sprites/mudkip/back.png "Mudkip: To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.") | ![Mudkip](../assets/sprites/mudkip/back_shiny.png "Mudkip: To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Mudkip has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 45 | 50 | 62 | Medium Slow | N/A |
+| 1 Atk | 45 | 50 | 62 | Medium Slow | N/A |
 
 ---
 

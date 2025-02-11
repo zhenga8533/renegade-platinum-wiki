@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #405 | ![electric](../assets/types/electric.png "Electric"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.4 m /<br>4.6 ft | 42.0 kg /<br>92.6 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span> | #19 |
+| #405 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.4 m /<br>4.6 ft | 42.0 kg /<br>92.6 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span> | #19 |
 
 ---
 
@@ -85,7 +85,7 @@ Luxray has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 50 | 262 | Medium Slow | N/A |
+| 3 Atk | 45 | 50 | 262 | Medium Slow | N/A |
 
 ---
 

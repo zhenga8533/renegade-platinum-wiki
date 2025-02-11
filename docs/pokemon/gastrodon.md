@@ -16,12 +16,6 @@ Long ago, its entire back was shielded with a sturdy shell. There are traces of 
 |-------|-------|------|-------|
 | ![Gastrodon](../assets/sprites/gastrodon/front.gif "Gastrodon: Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.") | ![Gastrodon](../assets/sprites/gastrodon/front_shiny.png "Gastrodon: Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.") | ![Gastrodon](../assets/sprites/gastrodon/back.png "Gastrodon: Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.") | ![Gastrodon](../assets/sprites/gastrodon/back_shiny.png "Gastrodon: Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Gastrodon East Sprites
 
 | Front | Shiny | Back | Shiny |
@@ -50,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #423 | ![water](../assets/types/water.png "Water"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.9 m /<br>3.0 ft | 29.9 kg /<br>65.9 lbs | 1. <span class="tooltip" title="Protects the Pokémon from item theft.">Sticky Hold</span><br>2. <span class="tooltip" title="The Pokémon draws in all Water-type moves.">Storm Drain</span><br>3. <span class="tooltip" title="During a sandstorm, this Pokémon's rock-, ground-, and steel-type moves have 1.3× their base power.  This Pokémon does not take sandstorm damage, regardless of type.">Sand Force</span> | #61 |
+| #423 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.9 m /<br>3.0 ft | 29.9 kg /<br>65.9 lbs | 1. <span class="tooltip" title="Protects the Pokémon from item theft.">Sticky Hold</span><br>2. <span class="tooltip" title="The Pokémon draws in all Water-type moves.">Storm Drain</span> | #61 |
 
 ---
 
@@ -89,7 +83,7 @@ Gastrodon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 75 | 50 | 166 | Medium | N/A |
+| 2 None | 75 | 50 | 166 | Medium | N/A |
 
 ---
 

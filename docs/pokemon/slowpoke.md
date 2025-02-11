@@ -16,12 +16,6 @@ Although slow, it is skilled at fishing with its tail. It does not feel pain if 
 |-------|-------|------|-------|
 | ![Slowpoke](../assets/sprites/slowpoke/front.gif "Slowpoke: Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.") | ![Slowpoke](../assets/sprites/slowpoke/front_shiny.png "Slowpoke: Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.") | ![Slowpoke](../assets/sprites/slowpoke/back.png "Slowpoke: Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.") | ![Slowpoke](../assets/sprites/slowpoke/back_shiny.png "Slowpoke: Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #79 | ![water](../assets/types/water.png "Water"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.2 m /<br>3.9 ft | 36.0 kg /<br>79.4 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>3. <span class="tooltip" title="This Pokémon regains 1/3 of its maximum HP when it is switched out for another Pokémon under any circumstances other than having fainted.  This ability does not take effect when a battle ends.">Regenerator</span> | N/A |
+| #79 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.2 m /<br>3.9 ft | 36.0 kg /<br>79.4 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Slowpoke has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 190 | 50 | 63 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.">Lagging Tail</span> (5%) |
+| 1 None | 190 | 50 | 63 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.">Lagging Tail</span> (5%) |
 
 ---
 

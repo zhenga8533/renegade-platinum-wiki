@@ -16,12 +16,6 @@ Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone
 |-------|-------|------|-------|
 | ![Spiritomb](../assets/sprites/spiritomb/front.gif "Spiritomb: Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.") | ![Spiritomb](../assets/sprites/spiritomb/front_shiny.png "Spiritomb: Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.") | ![Spiritomb](../assets/sprites/spiritomb/back.png "Spiritomb: Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.") | ![Spiritomb](../assets/sprites/spiritomb/back_shiny.png "Spiritomb: Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #442 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.0 m /<br>3.3 ft | 108.0 kg /<br>238.1 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="This Pokémon's moves ignore light screen, reflect, and safeguard.">Infiltrator</span> | #108 |
+| #442 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.0 m /<br>3.3 ft | 108.0 kg /<br>238.1 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="This Pokémon's moves ignore light screen, reflect, and safeguard.">Infiltrator</span> | #108 |
 
 ---
 
@@ -81,7 +75,7 @@ Spiritomb has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>1 Special Defense | 100 | 50 | 170 | Medium | N/A |
+| 1 Def<br>1 Sp. Def | 100 | 50 | 170 | Medium | N/A |
 
 ---
 

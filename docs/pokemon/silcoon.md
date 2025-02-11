@@ -16,12 +16,6 @@ It wraps silk around the branches of a tree. It drinks rainwater on its silk whi
 |-------|-------|------|-------|
 | ![Silcoon](../assets/sprites/silcoon/front.gif "Silcoon: It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.") | ![Silcoon](../assets/sprites/silcoon/front_shiny.png "Silcoon: It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.") | ![Silcoon](../assets/sprites/silcoon/back.png "Silcoon: It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.") | ![Silcoon](../assets/sprites/silcoon/back_shiny.png "Silcoon: It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -89,7 +83,7 @@ Silcoon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 120 | 70 | 72 | Medium | N/A |
+| 2 Def | 120 | 70 | 72 | Medium | N/A |
 
 ---
 

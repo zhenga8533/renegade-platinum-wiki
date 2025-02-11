@@ -16,12 +16,6 @@ It moves by spinning on its foot. It is a rare Pokémon that was discovered in a
 |-------|-------|------|-------|
 | ![Baltoy](../assets/sprites/baltoy/front.gif "Baltoy: It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.") | ![Baltoy](../assets/sprites/baltoy/front_shiny.png "Baltoy: It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.") | ![Baltoy](../assets/sprites/baltoy/back.png "Baltoy: It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.") | ![Baltoy](../assets/sprites/baltoy/back_shiny.png "Baltoy: It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #343 | ![ground](../assets/types/ground.png "Ground"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.5 m /<br>1.6 ft | 21.5 kg /<br>47.4 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #343 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.5 m /<br>1.6 ft | 21.5 kg /<br>47.4 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Baltoy has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 255 | 50 | 60 | Medium | <span class="tooltip" title="A Pokémon hold item that extends the duration of barrier moves like Light Screen and Reflect used by the holder.">Light Clay</span> (5%) |
+| 1 Sp. Def | 255 | 50 | 60 | Medium | <span class="tooltip" title="A Pokémon hold item that extends the duration of barrier moves like Light Screen and Reflect used by the holder.">Light Clay</span> (5%) |
 
 ---
 

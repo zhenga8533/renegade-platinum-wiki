@@ -16,12 +16,6 @@ Using its psychic power is such a strain on its brain that it needs to sleep for
 |-------|-------|------|-------|
 | ![Abra](../assets/sprites/abra/front.gif "Abra: Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.") | ![Abra](../assets/sprites/abra/front_shiny.png "Abra: Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.") | ![Abra](../assets/sprites/abra/back.png "Abra: Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.") | ![Abra](../assets/sprites/abra/back_shiny.png "Abra: Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Abra has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 200 | 50 | 62 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a spoon imbued with telekinetic power that boosts Psychic-type moves.">Twisted Spoon</span> (5%) |
+| 1 Sp. Atk | 200 | 50 | 62 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a spoon imbued with telekinetic power that boosts Psychic-type moves.">Twisted Spoon</span> (5%) |
 
 ---
 

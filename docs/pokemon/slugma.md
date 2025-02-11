@@ -16,12 +16,6 @@ Its body is made of magma. If it doesn’t keep moving, its body will cool and h
 |-------|-------|------|-------|
 | ![Slugma](../assets/sprites/slugma/front.gif "Slugma: Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.") | ![Slugma](../assets/sprites/slugma/front_shiny.png "Slugma: Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.") | ![Slugma](../assets/sprites/slugma/back.png "Slugma: Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.") | ![Slugma](../assets/sprites/slugma/back_shiny.png "Slugma: Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #218 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.7 m /<br>2.3 ft | 35.0 kg /<br>77.2 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming frozen.">Magma Armor</span><br>2. <span class="tooltip" title="Contact with the Pokémon may burn the foe.">Flame Body</span><br>3. <span class="tooltip" title="Whenever a physical move hits this Pokémon, its Speed rises one stage and its Defense falls one stage.  This ability triggers on every hit of a multiple-hit move.">Weak Armor</span> | N/A |
+| #218 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.7 m /<br>2.3 ft | 35.0 kg /<br>77.2 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming frozen.">Magma Armor</span><br>2. <span class="tooltip" title="Contact with the Pokémon may burn the foe.">Flame Body</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Slugma has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 190 | 70 | 50 | Medium | N/A |
+| 1 Sp. Atk | 190 | 70 | 50 | Medium | N/A |
 
 ---
 

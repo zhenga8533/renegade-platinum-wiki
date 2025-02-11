@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #269 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.2 m /<br>3.9 ft | 31.6 kg /<br>69.7 lbs | 1. <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span><br>2. <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span> | #52 |
+| #269 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.2 m /<br>3.9 ft | 31.6 kg /<br>69.7 lbs | 1. <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span><br>2. <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span> | #52 |
 
 ---
 
@@ -89,7 +89,7 @@ Dustox has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 45 | 70 | 173 | Medium | <span class="tooltip" title="A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle.">Shed Shell</span> (5%) |
+| 3 Sp. Def | 45 | 70 | 173 | Medium | <span class="tooltip" title="A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle.">Shed Shell</span> (5%) |
 
 ---
 

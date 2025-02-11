@@ -16,12 +16,6 @@ Delicious fruits grew out from around its neck because it always ate the same ki
 |-------|-------|------|-------|
 | ![Tropius](../assets/sprites/tropius/front.gif "Tropius: Delicious fruits grew out from around its neck because it always ate the same kind of fruit.") | ![Tropius](../assets/sprites/tropius/front_shiny.png "Tropius: Delicious fruits grew out from around its neck because it always ate the same kind of fruit.") | ![Tropius](../assets/sprites/tropius/back.png "Tropius: Delicious fruits grew out from around its neck because it always ate the same kind of fruit.") | ![Tropius](../assets/sprites/tropius/back_shiny.png "Tropius: Delicious fruits grew out from around its neck because it always ate the same kind of fruit.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #357 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 2.0 m /<br>6.6 ft | 100.0 kg /<br>220.5 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Boosts Sp. Atk, but lowers HP in sunshine.">Solar Power</span><br>3. <span class="tooltip" title="After each turn, if the last item this Pokémon consumed was a Berry and it is not currently holding an item, it has a 50% chance of regaining that Berry, or a 100% chance during strong sunlight.">Harvest</span> | N/A |
+| #357 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 2.0 m /<br>6.6 ft | 100.0 kg /<br>220.5 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Boosts Sp. Atk, but lowers HP in sunshine.">Solar Power</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Tropius has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 200 | 70 | 161 | Slow | N/A |
+| 2 None | 200 | 70 | 161 | Slow | N/A |
 
 ---
 

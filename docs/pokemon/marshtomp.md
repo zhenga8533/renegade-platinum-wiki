@@ -16,12 +16,6 @@ Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep
 |-------|-------|------|-------|
 | ![Marshtomp](../assets/sprites/marshtomp/front.gif "Marshtomp: Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.") | ![Marshtomp](../assets/sprites/marshtomp/front_shiny.png "Marshtomp: Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.") | ![Marshtomp](../assets/sprites/marshtomp/back.png "Marshtomp: Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.") | ![Marshtomp](../assets/sprites/marshtomp/back_shiny.png "Marshtomp: Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #259 | ![water](../assets/types/water.png "Water"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 28.0 kg /<br>61.7 lbs | 1. <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br>2. <span class="tooltip" title="Prevents combatants from self destructing.">Damp</span> | N/A |
+| #259 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 28.0 kg /<br>61.7 lbs | 1. <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br>2. <span class="tooltip" title="Prevents combatants from self destructing.">Damp</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Marshtomp has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 45 | 50 | 142 | Medium Slow | N/A |
+| 2 Atk | 45 | 50 | 142 | Medium Slow | N/A |
 
 ---
 

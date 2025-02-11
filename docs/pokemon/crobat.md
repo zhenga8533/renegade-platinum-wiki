@@ -16,12 +16,6 @@ The transformation of its legs into wings made it better at flying, but more clu
 |-------|-------|------|-------|
 | ![Crobat](../assets/sprites/crobat/front.gif "Crobat: The transformation of its legs into wings made it better at flying, but more clumsy at walking.") | ![Crobat](../assets/sprites/crobat/front_shiny.png "Crobat: The transformation of its legs into wings made it better at flying, but more clumsy at walking.") | ![Crobat](../assets/sprites/crobat/back.png "Crobat: The transformation of its legs into wings made it better at flying, but more clumsy at walking.") | ![Crobat](../assets/sprites/crobat/back_shiny.png "Crobat: The transformation of its legs into wings made it better at flying, but more clumsy at walking.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #169 | ![poison](../assets/types/poison.png "Poison"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.8 m /<br>5.9 ft | 75.0 kg /<br>165.3 lbs | 1. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span><br>2. <span class="tooltip" title="This Pokémon's moves ignore light screen, reflect, and safeguard.">Infiltrator</span> | #30 |
+| #169 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.8 m /<br>5.9 ft | 75.0 kg /<br>165.3 lbs | 1. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span><br>2. <span class="tooltip" title="This Pokémon's moves ignore light screen, reflect, and safeguard.">Infiltrator</span> | #30 |
 
 ---
 
@@ -85,7 +79,7 @@ Crobat has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Speed | 90 | 50 | 268 | Medium | N/A |
+| 3 Spd | 90 | 50 | 268 | Medium | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ An ancient clay figurine that came to life as a Pokémon from exposure to a myst
 |-------|-------|------|-------|
 | ![Claydol](../assets/sprites/claydol/front.gif "Claydol: An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.") | ![Claydol](../assets/sprites/claydol/front_shiny.png "Claydol: An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.") | ![Claydol](../assets/sprites/claydol/back.png "Claydol: An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.") | ![Claydol](../assets/sprites/claydol/back_shiny.png "Claydol: An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #344 | ![ground](../assets/types/ground.png "Ground"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.5 m /<br>4.9 ft | 108.0 kg /<br>238.1 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #344 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.5 m /<br>4.9 ft | 108.0 kg /<br>238.1 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Claydol has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 90 | 50 | 175 | Medium | <span class="tooltip" title="A Pokémon hold item that extends the duration of barrier moves like Light Screen and Reflect used by the holder.">Light Clay</span> (5%) |
+| 2 Sp. Def | 90 | 50 | 175 | Medium | <span class="tooltip" title="A Pokémon hold item that extends the duration of barrier moves like Light Screen and Reflect used by the holder.">Light Clay</span> (5%) |
 
 ---
 

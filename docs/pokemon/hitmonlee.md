@@ -16,12 +16,6 @@ Its legs can stretch double. First-time foes are startled by its extensible reac
 |-------|-------|------|-------|
 | ![Hitmonlee](../assets/sprites/hitmonlee/front.gif "Hitmonlee: Its legs can stretch double. First-time foes are startled by its extensible reach.") | ![Hitmonlee](../assets/sprites/hitmonlee/front_shiny.png "Hitmonlee: Its legs can stretch double. First-time foes are startled by its extensible reach.") | ![Hitmonlee](../assets/sprites/hitmonlee/back.png "Hitmonlee: Its legs can stretch double. First-time foes are startled by its extensible reach.") | ![Hitmonlee](../assets/sprites/hitmonlee/back_shiny.png "Hitmonlee: Its legs can stretch double. First-time foes are startled by its extensible reach.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -87,7 +81,7 @@ Hitmonlee has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 45 | 50 | 159 | Medium | N/A |
+| 2 Atk | 45 | 50 | 159 | Medium | N/A |
 
 ---
 

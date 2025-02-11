@@ -16,12 +16,6 @@ It is docile and prefers to avoid conflict. If disturbed, however, it can feroci
 |-------|-------|------|-------|
 | ![Pidgey](../assets/sprites/pidgey/front.gif "Pidgey: It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.") | ![Pidgey](../assets/sprites/pidgey/front_shiny.png "Pidgey: It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.") | ![Pidgey](../assets/sprites/pidgey/back.png "Pidgey: It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.") | ![Pidgey](../assets/sprites/pidgey/back_shiny.png "Pidgey: It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #16 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.3 m /<br>1.0 ft | 1.8 kg /<br>4.0 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span><br>2. <span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span><br>3. <span class="tooltip" title="This Pokémon's Defense cannot be lowered by other Pokémon.  This Pokémon can still be passed negative Defense modifiers through heart swap or guard swap.">Big Pecks</span> | N/A |
+| #16 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.3 m /<br>1.0 ft | 1.8 kg /<br>4.0 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span><br>2. <span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Pidgey has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 255 | 70 | 50 | Medium Slow | N/A |
+| 1 Spd | 255 | 70 | 50 | Medium Slow | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ It intimidates foes with the heat of its flames. The fire burns more strongly wh
 |-------|-------|------|-------|
 | ![Quilava](../assets/sprites/quilava/front.gif "Quilava: It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.") | ![Quilava](../assets/sprites/quilava/front_shiny.png "Quilava: It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.") | ![Quilava](../assets/sprites/quilava/back.png "Quilava: It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.") | ![Quilava](../assets/sprites/quilava/back_shiny.png "Quilava: It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Quilava has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>1 Speed | 45 | 70 | 142 | Medium Slow | N/A |
+| 1 Sp. Atk<br>1 Spd | 45 | 70 | 142 | Medium Slow | N/A |
 
 ---
 

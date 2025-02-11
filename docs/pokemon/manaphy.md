@@ -16,12 +16,6 @@ It is born with a wondrous power that lets it bond with any kind of Pokémon.
 |-------|-------|------|-------|
 | ![Manaphy](../assets/sprites/manaphy/front.gif "Manaphy: It is born with a wondrous power that lets it bond with any kind of Pokémon.") | ![Manaphy](../assets/sprites/manaphy/front_shiny.png "Manaphy: It is born with a wondrous power that lets it bond with any kind of Pokémon.") | ![Manaphy](../assets/sprites/manaphy/back.png "Manaphy: It is born with a wondrous power that lets it bond with any kind of Pokémon.") | ![Manaphy](../assets/sprites/manaphy/back_shiny.png "Manaphy: It is born with a wondrous power that lets it bond with any kind of Pokémon.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Manaphy has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 3 | 70 | 270 | Slow | N/A |
+| 3 None | 3 | 70 | 270 | Slow | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ It extends its 80 tentacles to form an encircling poisonous net that is difficul
 |-------|-------|------|-------|
 | ![Tentacruel](../assets/sprites/tentacruel/front.gif "Tentacruel: It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.") | ![Tentacruel](../assets/sprites/tentacruel/front_shiny.png "Tentacruel: It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.") | ![Tentacruel](../assets/sprites/tentacruel/back.png "Tentacruel: It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.") | ![Tentacruel](../assets/sprites/tentacruel/back_shiny.png "Tentacruel: It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #73 | ![water](../assets/types/water.png "Water"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.6 m /<br>5.2 ft | 55.0 kg /<br>121.3 lbs | 1. <span class="tooltip" title="Prevents the Pokémon’s stats from being lowered.">Clear Body</span><br>2. <span class="tooltip" title="Inflicts damage on foes using any draining move.">Liquid Ooze</span><br>3. <span class="tooltip" title="The Pokémon gradually recovers HP in rain.">Rain Dish</span> | #137 |
+| #73 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.6 m /<br>5.2 ft | 55.0 kg /<br>121.3 lbs | 1. <span class="tooltip" title="Prevents the Pokémon’s stats from being lowered.">Clear Body</span><br>2. <span class="tooltip" title="Inflicts damage on foes using any draining move.">Liquid Ooze</span> | #137 |
 
 ---
 
@@ -83,7 +77,7 @@ Tentacruel has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 60 | 50 | 180 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
+| 2 Sp. Def | 60 | 50 | 180 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
 
 ---
 

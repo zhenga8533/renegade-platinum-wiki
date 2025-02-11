@@ -16,12 +16,6 @@ It prevents prey from escaping by instantaneously freezing moisture in the air.
 |-------|-------|------|-------|
 | ![Glalie](../assets/sprites/glalie/front.gif "Glalie: It prevents prey from escaping by instantaneously freezing moisture in the air.") | ![Glalie](../assets/sprites/glalie/front_shiny.png "Glalie: It prevents prey from escaping by instantaneously freezing moisture in the air.") | ![Glalie](../assets/sprites/glalie/back.png "Glalie: It prevents prey from escaping by instantaneously freezing moisture in the air.") | ![Glalie](../assets/sprites/glalie/back_shiny.png "Glalie: It prevents prey from escaping by instantaneously freezing moisture in the air.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #362 | ![ice](../assets/types/ice.png "Ice"){: width="48"} ![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.5 m /<br>4.9 ft | 256.5 kg /<br>565.5 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span><br>2. <span class="tooltip" title="The Pokémon regains HP in a hailstorm.">Ice Body</span> | N/A |
+| #362 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 1.5 m /<br>4.9 ft | 256.5 kg /<br>565.5 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span><br>2. <span class="tooltip" title="The Pokémon regains HP in a hailstorm.">Ice Body</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Glalie has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 75 | 50 | 168 | Mediu |
+| 2 None | 75 | 50 | 168 | Mediu |
 
 ---
 

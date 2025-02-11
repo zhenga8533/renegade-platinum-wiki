@@ -16,12 +16,6 @@ Tempered by pressure underground over tens of thousands of years, its body canno
 |-------|-------|------|-------|
 | ![Registeel](../assets/sprites/registeel/front.gif "Registeel: Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.") | ![Registeel](../assets/sprites/registeel/front_shiny.png "Registeel: Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.") | ![Registeel](../assets/sprites/registeel/back.png "Registeel: Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.") | ![Registeel](../assets/sprites/registeel/back_shiny.png "Registeel: Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -81,7 +75,7 @@ Registeel has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense<br>1 Special Defense | 3 | 35 | 290 | Slow | N/A |
+| 2 Def<br>1 Sp. Def | 3 | 35 | 290 | Slow | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ While seeking iron for food, it digs tunnels by breaking through bedrock with it
 |-------|-------|------|-------|
 | ![Aggron](../assets/sprites/aggron/front.gif "Aggron: While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.") | ![Aggron](../assets/sprites/aggron/front_shiny.png "Aggron: While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.") | ![Aggron](../assets/sprites/aggron/back.png "Aggron: While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.") | ![Aggron](../assets/sprites/aggron/back_shiny.png "Aggron: While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #306 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![rock](../assets/types/rock.png "Rock"){: width="48"} | 2.1 m /<br>6.9 ft | 360.0 kg /<br>793.7 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span> | N/A |
+| #306 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 2.1 m /<br>6.9 ft | 360.0 kg /<br>793.7 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Aggron has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Defense | 45 | 35 | 265 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
+| 3 Def | 45 | 35 | 265 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
 
 ---
 

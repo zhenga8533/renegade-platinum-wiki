@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #44 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.8 m /<br>2.6 ft | 8.6 kg /<br>19.0 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="The stench helps keep wild Pokémon away.">Stench</span> | N/A |
+| #44 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.8 m /<br>2.6 ft | 8.6 kg /<br>19.0 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="The stench helps keep wild Pokémon away.">Stench</span> | N/A |
 
 ---
 
@@ -87,7 +87,7 @@ Gloom has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 120 | 50 | 138 | Medium Slo |
+| 2 Sp. Atk | 120 | 50 | 138 | Medium Slo |
 
 ---
 

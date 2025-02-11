@@ -16,12 +16,6 @@ As soon as the tail claws close, its needle tips secrete poison. It can survive 
 |-------|-------|------|-------|
 | ![Skorupi](../assets/sprites/skorupi/front.gif "Skorupi: As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.") | ![Skorupi](../assets/sprites/skorupi/front_shiny.png "Skorupi: As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.") | ![Skorupi](../assets/sprites/skorupi/back.png "Skorupi: As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.") | ![Skorupi](../assets/sprites/skorupi/back_shiny.png "Skorupi: As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #451 | ![poison](../assets/types/poison.png "Poison"){: width="48"} ![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.8 m /<br>2.6 ft | 12.0 kg /<br>26.5 lbs | 1. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | #127 |
+| #451 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![bug](../assets/types/bug.png "Bug"){: width="48"} | 0.8 m /<br>2.6 ft | 12.0 kg /<br>26.5 lbs | 1. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | #127 |
 
 ---
 
@@ -83,7 +77,7 @@ Skorupi has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 120 | 50 | 66 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
+| 1 Def | 120 | 50 | 66 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
 
 ---
 

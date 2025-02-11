@@ -16,12 +16,6 @@ It shares many blessings with people who respect one another’s rights and avoi
 |-------|-------|------|-------|
 | ![Togekiss](../assets/sprites/togekiss/front.gif "Togekiss: It shares many blessings with people who respect one another’s rights and avoid needless strife.") | ![Togekiss](../assets/sprites/togekiss/front_shiny.png "Togekiss: It shares many blessings with people who respect one another’s rights and avoid needless strife.") | ![Togekiss](../assets/sprites/togekiss/back.png "Togekiss: It shares many blessings with people who respect one another’s rights and avoid needless strife.") | ![Togekiss](../assets/sprites/togekiss/back_shiny.png "Togekiss: It shares many blessings with people who respect one another’s rights and avoid needless strife.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #468 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 38.0 kg /<br>83.8 lbs | 1. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br>2. <span class="tooltip" title="Heightens the critical-hit ratios of moves.">Super Luck</span> | N/A |
+| #468 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 38.0 kg /<br>83.8 lbs | 1. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br>2. <span class="tooltip" title="Heightens the critical-hit ratios of moves.">Super Luck</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Togekiss has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack<br>1 Special Defense | 30 | 50 | 273 | Fast | N/A |
+| 2 Sp. Atk<br>1 Sp. Def | 30 | 50 | 273 | Fast | N/A |
 
 ---
 

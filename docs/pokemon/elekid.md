@@ -16,12 +16,6 @@ A weak electric current flows between its horns. Sticking a hand there shocks th
 |-------|-------|------|-------|
 | ![Elekid](../assets/sprites/elekid/front.gif "Elekid: A weak electric current flows between its horns. Sticking a hand there shocks the unwary.") | ![Elekid](../assets/sprites/elekid/front_shiny.png "Elekid: A weak electric current flows between its horns. Sticking a hand there shocks the unwary.") | ![Elekid](../assets/sprites/elekid/back.png "Elekid: A weak electric current flows between its horns. Sticking a hand there shocks the unwary.") | ![Elekid](../assets/sprites/elekid/back_shiny.png "Elekid: A weak electric current flows between its horns. Sticking a hand there shocks the unwary.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Elekid has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 45 | 50 | 72 | Medium | <span class="tooltip" title="A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon.">Electirizer</span> (5%) |
+| 1 Spd | 45 | 50 | 72 | Medium | <span class="tooltip" title="A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon.">Electirizer</span> (5%) |
 
 ---
 

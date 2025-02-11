@@ -16,12 +16,6 @@ It can freely change its body’s color. The zigzag pattern on its belly doesn�
 |-------|-------|------|-------|
 | ![Kecleon](../assets/sprites/kecleon/front.gif "Kecleon: It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however.") | ![Kecleon](../assets/sprites/kecleon/front_shiny.png "Kecleon: It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however.") | ![Kecleon](../assets/sprites/kecleon/back.png "Kecleon: It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however.") | ![Kecleon](../assets/sprites/kecleon/back_shiny.png "Kecleon: It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -81,7 +75,7 @@ Kecleon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 200 | 70 | 154 | Medium Slo |
+| 1 Sp. Def | 200 | 70 | 154 | Medium Slo |
 
 ---
 

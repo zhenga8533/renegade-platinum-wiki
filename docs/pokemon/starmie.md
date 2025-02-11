@@ -16,12 +16,6 @@ At the center of its body is a red core, which sends mysterious radio signals in
 |-------|-------|------|-------|
 | ![Starmie](../assets/sprites/starmie/front.gif "Starmie: At the center of its body is a red core, which sends mysterious radio signals into the night sky.") | ![Starmie](../assets/sprites/starmie/front_shiny.png "Starmie: At the center of its body is a red core, which sends mysterious radio signals into the night sky.") | ![Starmie](../assets/sprites/starmie/back.png "Starmie: At the center of its body is a red core, which sends mysterious radio signals into the night sky.") | ![Starmie](../assets/sprites/starmie/back_shiny.png "Starmie: At the center of its body is a red core, which sends mysterious radio signals into the night sky.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #121 | ![water](../assets/types/water.png "Water"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.1 m /<br>3.6 ft | 80.0 kg /<br>176.4 lbs | 1. <span class="tooltip" title="Raises the likelihood of meeting wild Pokémon.">Illuminate</span><br>2. <span class="tooltip" title="All status problems are healed upon switching out.">Natural Cure</span><br>3. <span class="tooltip" title="This Pokémon's moves have 1.3× their power when it moves last in a turn.  future sight and doom desire are unaffected.">Analytic</span> | N/A |
+| #121 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.1 m /<br>3.6 ft | 80.0 kg /<br>176.4 lbs | 1. <span class="tooltip" title="Raises the likelihood of meeting wild Pokémon.">Illuminate</span><br>2. <span class="tooltip" title="All status problems are healed upon switching out.">Natural Cure</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Starmie has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 60 | 50 | 182 | Slow | <span class="tooltip" title="Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops.">Stardust</span> (50%)<br><span class="tooltip" title="A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.">Star Piece</span> (5%) |
+| 2 Spd | 60 | 50 | 182 | Slow | <span class="tooltip" title="Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops.">Stardust</span> (50%)<br><span class="tooltip" title="A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.">Star Piece</span> (5%) |
 
 ---
 

@@ -16,12 +16,6 @@ To protect its Trainer, it will expend all its psychic power to create a small b
 |-------|-------|------|-------|
 | ![Gardevoir](../assets/sprites/gardevoir/front.gif "Gardevoir: To protect its Trainer, it will expend all its psychic power to create a small black hole.") | ![Gardevoir](../assets/sprites/gardevoir/front_shiny.png "Gardevoir: To protect its Trainer, it will expend all its psychic power to create a small black hole.") | ![Gardevoir](../assets/sprites/gardevoir/back.png "Gardevoir: To protect its Trainer, it will expend all its psychic power to create a small black hole.") | ![Gardevoir](../assets/sprites/gardevoir/back_shiny.png "Gardevoir: To protect its Trainer, it will expend all its psychic power to create a small black hole.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #282 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.6 m /<br>5.2 ft | 48.4 kg /<br>106.7 lbs | 1. <span class="tooltip" title="Passes on a burn, poison, or paralysis to the foe.">Synchronize</span><br>2. <span class="tooltip" title="The Pokémon copies the foe’s ability.">Trace</span><br>3. <span class="tooltip" title="This Pokémon does not take damage from friendly Pokémon's moves, including single-target moves aimed at it.">Telepathy</span> | N/A |
+| #282 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.6 m /<br>5.2 ft | 48.4 kg /<br>106.7 lbs | 1. <span class="tooltip" title="Passes on a burn, poison, or paralysis to the foe.">Synchronize</span><br>2. <span class="tooltip" title="The Pokémon copies the foe’s ability.">Trace</span> | N/A |
 
 ---
 
@@ -87,7 +81,7 @@ Gardevoir has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 45 | 35 | 259 | Slow | N/A |
+| 3 Sp. Atk | 45 | 35 | 259 | Slow | N/A |
 
 ---
 

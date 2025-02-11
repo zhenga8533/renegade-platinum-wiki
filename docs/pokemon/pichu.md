@@ -16,12 +16,6 @@ The electric sacs in its cheeks are small. If even a little electricity leaks, i
 |-------|-------|------|-------|
 | ![Pichu](../assets/sprites/pichu/front.gif "Pichu: The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.") | ![Pichu](../assets/sprites/pichu/front_shiny.png "Pichu: The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.") | ![Pichu](../assets/sprites/pichu/back.png "Pichu: The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.") | ![Pichu](../assets/sprites/pichu/back_shiny.png "Pichu: The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Pichu has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 180 | 41 | Mediu |
+| 1 Spd | 190 | 180 | 41 | Mediu |
 
 ---
 

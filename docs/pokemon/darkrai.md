@@ -16,12 +16,6 @@ To protect itself, it afflicts those around it with nightmares. However, it mean
 |-------|-------|------|-------|
 | ![Darkrai](../assets/sprites/darkrai/front.gif "Darkrai: To protect itself, it afflicts those around it with nightmares. However, it means no harm.") | ![Darkrai](../assets/sprites/darkrai/front_shiny.png "Darkrai: To protect itself, it afflicts those around it with nightmares. However, it means no harm.") | ![Darkrai](../assets/sprites/darkrai/back.png "Darkrai: To protect itself, it afflicts those around it with nightmares. However, it means no harm.") | ![Darkrai](../assets/sprites/darkrai/back_shiny.png "Darkrai: To protect itself, it afflicts those around it with nightmares. However, it means no harm.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -81,7 +75,7 @@ Darkrai has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack<br>1 Speed | 3 | 0 | 270 | Slow | N/A |
+| 2 Sp. Atk<br>1 Spd | 3 | 0 | 270 | Slow | N/A |
 
 ---
 

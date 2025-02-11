@@ -16,12 +16,6 @@ It has the power to travel across time, but it is said to appear only in peacefu
 |-------|-------|------|-------|
 | ![Celebi](../assets/sprites/celebi/front.gif "Celebi: It has the power to travel across time, but it is said to appear only in peaceful times.") | ![Celebi](../assets/sprites/celebi/front_shiny.png "Celebi: It has the power to travel across time, but it is said to appear only in peaceful times.") | ![Celebi](../assets/sprites/celebi/back.png "Celebi: It has the power to travel across time, but it is said to appear only in peaceful times.") | ![Celebi](../assets/sprites/celebi/back_shiny.png "Celebi: It has the power to travel across time, but it is said to appear only in peaceful times.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #251 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.6 m /<br>2.0 ft | 5.0 kg /<br>11.0 lbs | 1. <span class="tooltip" title="All status problems are healed upon switching out.">Natural Cure</span> | N/A |
+| #251 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.6 m /<br>2.0 ft | 5.0 kg /<br>11.0 lbs | 1. <span class="tooltip" title="All status problems are healed upon switching out.">Natural Cure</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Celebi has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 45 | 100 | 300 | Medium Slow | <span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to recover from any status problem.">Lum Berry</span> (5%) |
+| 3 None | 45 | 100 | 300 | Medium Slow | <span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to recover from any status problem.">Lum Berry</span> (5%) |
 
 ---
 

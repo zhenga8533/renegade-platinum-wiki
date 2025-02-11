@@ -16,12 +16,6 @@ It is said to have fallen with lightning. It can fire thunderbolts from the rain
 |-------|-------|------|-------|
 | ![Raikou](../assets/sprites/raikou/front.gif "Raikou: It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.") | ![Raikou](../assets/sprites/raikou/front_shiny.png "Raikou: It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.") | ![Raikou](../assets/sprites/raikou/back.png "Raikou: It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.") | ![Raikou](../assets/sprites/raikou/back_shiny.png "Raikou: It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -81,7 +75,7 @@ Raikou has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>2 Speed | 3 | 35 | 290 | Slow | N/A |
+| 1 Sp. Atk<br>2 Spd | 3 | 35 | 290 | Slow | N/A |
 
 ---
 

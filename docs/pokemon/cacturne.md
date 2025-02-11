@@ -20,7 +20,7 @@ It becomes active at night, seeking prey that is exhausted from the day’s dese
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Cacturne](../assets/sprites/cacturne/front_female.gif "Cacturne: It becomes active at night, seeking prey that is exhausted from the day’s desert heat.") | ![Cacturne](../assets/sprites/cacturne/front_shiny_female.png "Cacturne: It becomes active at night, seeking prey that is exhausted from the day’s desert heat.") | ? | ? |
+| ![Cacturne](../assets/sprites/cacturne/front_female.gif "Cacturne: It becomes active at night, seeking prey that is exhausted from the day’s desert heat.") | ![Cacturne](../assets/sprites/cacturne/front_shiny_female.png "Cacturne: It becomes active at night, seeking prey that is exhausted from the day’s desert heat.") | N/A | N/A |
 
 ### Cries
 
@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #332 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.3 m /<br>4.3 ft | 77.4 kg /<br>170.6 lbs | 1. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br>2. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span> | N/A |
+| #332 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.3 m /<br>4.3 ft | 77.4 kg /<br>170.6 lbs | 1. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br>2. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Cacturne has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack | 60 | 35 | 166 | Medium Slow | <span class="tooltip" title="A hold item that damages the holder on every turn. It may latch on to foes that touch the holder.">Sticky Barb</span> (5%) |
+| 1 Atk<br>1 Sp. Atk | 60 | 35 | 166 | Medium Slow | <span class="tooltip" title="A hold item that damages the holder on every turn. It may latch on to foes that touch the holder.">Sticky Barb</span> (5%) |
 
 ---
 

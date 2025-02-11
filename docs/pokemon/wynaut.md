@@ -16,12 +16,6 @@ It grows strong by pushing up against others en masse. It loves eating sweet fru
 |-------|-------|------|-------|
 | ![Wynaut](../assets/sprites/wynaut/front.gif "Wynaut: It grows strong by pushing up against others en masse. It loves eating sweet fruit.") | ![Wynaut](../assets/sprites/wynaut/front_shiny.png "Wynaut: It grows strong by pushing up against others en masse. It loves eating sweet fruit.") | ![Wynaut](../assets/sprites/wynaut/back.png "Wynaut: It grows strong by pushing up against others en masse. It loves eating sweet fruit.") | ![Wynaut](../assets/sprites/wynaut/back_shiny.png "Wynaut: It grows strong by pushing up against others en masse. It loves eating sweet fruit.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Wynaut has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 125 | 50 | 52 | Medium | N/A |
+| 1 None | 125 | 50 | 52 | Medium | N/A |
 
 ---
 

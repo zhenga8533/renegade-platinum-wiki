@@ -16,12 +16,6 @@ It is a shabby and ugly Pokémon. However, it is very hardy and can survive on l
 |-------|-------|------|-------|
 | ![Feebas](../assets/sprites/feebas/front.gif "Feebas: It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.") | ![Feebas](../assets/sprites/feebas/front_shiny.png "Feebas: It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.") | ![Feebas](../assets/sprites/feebas/back.png "Feebas: It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.") | ![Feebas](../assets/sprites/feebas/back_shiny.png "Feebas: It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Feebas has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 255 | 50 | 40 | Slow Then Very Fast | N/A |
+| 1 Spd | 255 | 50 | 40 | Slow Then Very Fast | N/A |
 
 ---
 

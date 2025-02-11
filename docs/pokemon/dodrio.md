@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #85 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.8 m /<br>5.9 ft | 85.2 kg /<br>187.8 lbs | 1. <span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span><br>2. <span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span> | N/A |
+| #85 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.8 m /<br>5.9 ft | 85.2 kg /<br>187.8 lbs | 1. <span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span><br>2. <span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Dodrio has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 45 | 70 | 165 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a long, sharp beak that boosts the power of Flying-type moves.">Sharp Beak</span> (5%) |
+| 2 Atk | 45 | 70 | 165 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a long, sharp beak that boosts the power of Flying-type moves.">Sharp Beak</span> (5%) |
 
 ---
 

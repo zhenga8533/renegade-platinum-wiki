@@ -16,12 +16,6 @@ It scans its surroundings by raising its ears out of the grass. Its toxic horn i
 |-------|-------|------|-------|
 | ![Nidoran M](../assets/sprites/nidoran-m/front.gif "Nidoran M: It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.") | ![Nidoran M](../assets/sprites/nidoran-m/front_shiny.png "Nidoran M: It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.") | ![Nidoran M](../assets/sprites/nidoran-m/back.png "Nidoran M: It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.") | ![Nidoran M](../assets/sprites/nidoran-m/back_shiny.png "Nidoran M: It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #32 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.5 m /<br>1.6 ft | 9.0 kg /<br>19.8 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may poison the foe.">Poison Point</span><br>2. <span class="tooltip" title="Raises Attack if the foe is of the same gender.">Rivalry</span><br>3. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span> | N/A |
+| #32 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.5 m /<br>1.6 ft | 9.0 kg /<br>19.8 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may poison the foe.">Poison Point</span><br>2. <span class="tooltip" title="Raises Attack if the foe is of the same gender.">Rivalry</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Nidoran M has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 235 | 50 | 55 | Medium Slow | N/A |
+| 1 Atk | 235 | 50 | 55 | Medium Slow | N/A |
 
 ---
 

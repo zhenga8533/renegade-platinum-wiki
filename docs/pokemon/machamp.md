@@ -16,12 +16,6 @@ Its four muscled arms slam foes with powerful punches and chops at blinding spee
 |-------|-------|------|-------|
 | ![Machamp](../assets/sprites/machamp/front.gif "Machamp: Its four muscled arms slam foes with powerful punches and chops at blinding speed.") | ![Machamp](../assets/sprites/machamp/front_shiny.png "Machamp: Its four muscled arms slam foes with powerful punches and chops at blinding speed.") | ![Machamp](../assets/sprites/machamp/back.png "Machamp: Its four muscled arms slam foes with powerful punches and chops at blinding speed.") | ![Machamp](../assets/sprites/machamp/back_shiny.png "Machamp: Its four muscled arms slam foes with powerful punches and chops at blinding speed.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #68 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.6 m /<br>5.2 ft | 130.0 kg /<br>286.6 lbs | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Ensures the Pokémon and its foe’s attacks land.">No Guard</span><br>3. <span class="tooltip" title="Raises Speed each time the Pokémon flinches.">Steadfast</span> | #42 |
+| #68 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.6 m /<br>5.2 ft | 130.0 kg /<br>286.6 lbs | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Ensures the Pokémon and its foe’s attacks land.">No Guard</span> | #42 |
 
 ---
 
@@ -85,7 +79,7 @@ Machamp has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 50 | 253 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP.">Focus Band</span> (5%) |
+| 3 Atk | 45 | 50 | 253 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP.">Focus Band</span> (5%) |
 
 ---
 

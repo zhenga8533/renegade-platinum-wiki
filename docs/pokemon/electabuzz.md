@@ -16,12 +16,6 @@ It windmills its arms to slightly boost its punches. Foes have been known to esc
 |-------|-------|------|-------|
 | ![Electabuzz](../assets/sprites/electabuzz/front.gif "Electabuzz: It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.") | ![Electabuzz](../assets/sprites/electabuzz/front_shiny.png "Electabuzz: It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.") | ![Electabuzz](../assets/sprites/electabuzz/back.png "Electabuzz: It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.") | ![Electabuzz](../assets/sprites/electabuzz/back_shiny.png "Electabuzz: It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Electabuzz has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 45 | 50 | 172 | Medium | <span class="tooltip" title="A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon.">Electirizer</span> (5%) |
+| 2 Spd | 45 | 50 | 172 | Medium | <span class="tooltip" title="A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon.">Electirizer</span> (5%) |
 
 ---
 

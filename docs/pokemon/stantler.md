@@ -16,12 +16,6 @@ Staring at its antlers creates an odd sensation as if one were being drawn into 
 |-------|-------|------|-------|
 | ![Stantler](../assets/sprites/stantler/front.gif "Stantler: Staring at its antlers creates an odd sensation as if one were being drawn into their centers.") | ![Stantler](../assets/sprites/stantler/front_shiny.png "Stantler: Staring at its antlers creates an odd sensation as if one were being drawn into their centers.") | ![Stantler](../assets/sprites/stantler/back.png "Stantler: Staring at its antlers creates an odd sensation as if one were being drawn into their centers.") | ![Stantler](../assets/sprites/stantler/back_shiny.png "Stantler: Staring at its antlers creates an odd sensation as if one were being drawn into their centers.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #234 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.4 m /<br>4.6 ft | 71.2 kg /<br>157.0 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="The Pokémon can check the foe’s held item.">Frisk</span><br>3. <span class="tooltip" title="Whenever a grass-type move hits this Pokémon, its Attack rises one stage, negating any other effect on it.">Sap Sipper</span> | N/A |
+| #234 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.4 m /<br>4.6 ft | 71.2 kg /<br>157.0 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="The Pokémon can check the foe’s held item.">Frisk</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Stantler has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 45 | 70 | 163 | Slow | N/A |
+| 1 Atk | 45 | 70 | 163 | Slow | N/A |
 
 ---
 

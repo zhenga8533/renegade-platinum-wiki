@@ -16,12 +16,6 @@ There is an orb inside its mouth. When it hops, the orb bounces all over and mak
 |-------|-------|------|-------|
 | ![Chingling](../assets/sprites/chingling/front.gif "Chingling: There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.") | ![Chingling](../assets/sprites/chingling/front_shiny.png "Chingling: There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.") | ![Chingling](../assets/sprites/chingling/back.png "Chingling: There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.") | ![Chingling](../assets/sprites/chingling/back_shiny.png "Chingling: There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Chingling has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 120 | 180 | 57 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.">Cleanse Tag</span> (5%) |
+| 1 Sp. Atk | 120 | 180 | 57 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.">Cleanse Tag</span> (5%) |
 
 ---
 

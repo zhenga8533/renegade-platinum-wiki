@@ -16,12 +16,6 @@ A lifelong jungle dweller from 100 million years ago, it would snap obstructing 
 |-------|-------|------|-------|
 | ![Cranidos](../assets/sprites/cranidos/front.gif "Cranidos: A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts.") | ![Cranidos](../assets/sprites/cranidos/front_shiny.png "Cranidos: A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts.") | ![Cranidos](../assets/sprites/cranidos/back.png "Cranidos: A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts.") | ![Cranidos](../assets/sprites/cranidos/back_shiny.png "Cranidos: A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Cranidos has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 45 | 70 | 70 | Slow Then Very Fast | N/A |
+| 1 Atk | 45 | 70 | 70 | Slow Then Very Fast | N/A |
 
 ---
 

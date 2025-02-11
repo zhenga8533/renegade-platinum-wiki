@@ -16,12 +16,6 @@ It has the habit of biting anything with its developed jaws. Even its Trainer ne
 |-------|-------|------|-------|
 | ![Totodile](../assets/sprites/totodile/front.gif "Totodile: It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.") | ![Totodile](../assets/sprites/totodile/front_shiny.png "Totodile: It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.") | ![Totodile](../assets/sprites/totodile/back.png "Totodile: It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.") | ![Totodile](../assets/sprites/totodile/back_shiny.png "Totodile: It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Totodile has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 45 | 70 | 63 | Medium Slow | N/A |
+| 1 Atk | 45 | 70 | 63 | Medium Slow | N/A |
 
 ---
 

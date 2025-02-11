@@ -16,12 +16,6 @@ It often plants its root feet in the ground during the day and sows seeds as it 
 |-------|-------|------|-------|
 | ![Oddish](../assets/sprites/oddish/front.gif "Oddish: It often plants its root feet in the ground during the day and sows seeds as it walks about at night.") | ![Oddish](../assets/sprites/oddish/front_shiny.png "Oddish: It often plants its root feet in the ground during the day and sows seeds as it walks about at night.") | ![Oddish](../assets/sprites/oddish/back.png "Oddish: It often plants its root feet in the ground during the day and sows seeds as it walks about at night.") | ![Oddish](../assets/sprites/oddish/back_shiny.png "Oddish: It often plants its root feet in the ground during the day and sows seeds as it walks about at night.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #43 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.5 m /<br>1.6 ft | 5.4 kg /<br>11.9 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span> | N/A |
+| #43 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.5 m /<br>1.6 ft | 5.4 kg /<br>11.9 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span> | N/A |
 
 ---
 
@@ -87,7 +81,7 @@ Oddish has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 255 | 50 | 64 | Medium Slo |
+| 1 Sp. Atk | 255 | 50 | 64 | Medium Slo |
 
 ---
 

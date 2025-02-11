@@ -16,12 +16,6 @@ It prefers hot and humid environments. It is quick at capturing prey with its vi
 |-------|-------|------|-------|
 | ![Bellsprout](../assets/sprites/bellsprout/front.gif "Bellsprout: It prefers hot and humid environments. It is quick at capturing prey with its vines.") | ![Bellsprout](../assets/sprites/bellsprout/front_shiny.png "Bellsprout: It prefers hot and humid environments. It is quick at capturing prey with its vines.") | ![Bellsprout](../assets/sprites/bellsprout/back.png "Bellsprout: It prefers hot and humid environments. It is quick at capturing prey with its vines.") | ![Bellsprout](../assets/sprites/bellsprout/back_shiny.png "Bellsprout: It prefers hot and humid environments. It is quick at capturing prey with its vines.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #69 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.7 m /<br>2.3 ft | 4.0 kg /<br>8.8 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | N/A |
+| #69 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.7 m /<br>2.3 ft | 4.0 kg /<br>8.8 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Bellsprout has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 255 | 70 | 60 | Medium Slow | N/A |
+| 1 Atk | 255 | 70 | 60 | Medium Slow | N/A |
 
 ---
 

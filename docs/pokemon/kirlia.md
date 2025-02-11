@@ -16,12 +16,6 @@ If its Trainer becomes happy, it overflows with energy, dancing joyously while s
 |-------|-------|------|-------|
 | ![Kirlia](../assets/sprites/kirlia/front.gif "Kirlia: If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.") | ![Kirlia](../assets/sprites/kirlia/front_shiny.png "Kirlia: If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.") | ![Kirlia](../assets/sprites/kirlia/back.png "Kirlia: If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.") | ![Kirlia](../assets/sprites/kirlia/back_shiny.png "Kirlia: If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #281 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.8 m /<br>2.6 ft | 20.2 kg /<br>44.5 lbs | 1. <span class="tooltip" title="Passes on a burn, poison, or paralysis to the foe.">Synchronize</span><br>2. <span class="tooltip" title="The Pokémon copies the foe’s ability.">Trace</span><br>3. <span class="tooltip" title="This Pokémon does not take damage from friendly Pokémon's moves, including single-target moves aimed at it.">Telepathy</span> | N/A |
+| #281 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.8 m /<br>2.6 ft | 20.2 kg /<br>44.5 lbs | 1. <span class="tooltip" title="Passes on a burn, poison, or paralysis to the foe.">Synchronize</span><br>2. <span class="tooltip" title="The Pokémon copies the foe’s ability.">Trace</span> | N/A |
 
 ---
 
@@ -87,7 +81,7 @@ Kirlia has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 120 | 35 | 97 | Slow | N/A |
+| 2 Sp. Atk | 120 | 35 | 97 | Slow | N/A |
 
 ---
 

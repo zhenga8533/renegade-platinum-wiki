@@ -16,12 +16,6 @@ It can’t stop itself from chasing moving things, and it runs in a circle, chas
 |-------|-------|------|-------|
 | ![Skitty](../assets/sprites/skitty/front.gif "Skitty: It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.") | ![Skitty](../assets/sprites/skitty/front_shiny.png "Skitty: It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.") | ![Skitty](../assets/sprites/skitty/back.png "Skitty: It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.") | ![Skitty](../assets/sprites/skitty/back_shiny.png "Skitty: It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #300 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.6 m /<br>2.0 ft | 11.0 kg /<br>24.3 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="All the Pokémon’s moves become the Normal type.">Normalize</span><br>3. <span class="tooltip" title="Non-damaging moves have exactly 50% base accuracy against this Pokémon.">Wonder Skin</span> | N/A |
+| #300 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.6 m /<br>2.0 ft | 11.0 kg /<br>24.3 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="All the Pokémon’s moves become the Normal type.">Normalize</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Skitty has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 255 | 70 | 52 | Fas |
+| 1 Spd | 255 | 70 | 52 | Fas |
 
 ---
 

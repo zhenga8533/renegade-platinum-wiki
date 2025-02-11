@@ -16,12 +16,6 @@ If it bonds with a person, it will gently envelop the friend with its soft wings
 |-------|-------|------|-------|
 | ![Altaria](../assets/sprites/altaria/front.gif "Altaria: If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.") | ![Altaria](../assets/sprites/altaria/front_shiny.png "Altaria: If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.") | ![Altaria](../assets/sprites/altaria/back.png "Altaria: If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.") | ![Altaria](../assets/sprites/altaria/back_shiny.png "Altaria: If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #334 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.1 m /<br>3.6 ft | 20.6 kg /<br>45.4 lbs | 1. <span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span><br>2. <span class="tooltip" title="All status problems are healed upon switching out.">Natural Cure</span> | N/A |
+| #334 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.1 m /<br>3.6 ft | 20.6 kg /<br>45.4 lbs | 1. <span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span><br>2. <span class="tooltip" title="All status problems are healed upon switching out.">Natural Cure</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Altaria has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 45 | 50 | 172 | Slow Then Very Fast | N/A |
+| 2 Sp. Def | 45 | 50 | 172 | Slow Then Very Fast | N/A |
 
 ---
 

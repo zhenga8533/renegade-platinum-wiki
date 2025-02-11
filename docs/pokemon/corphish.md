@@ -16,12 +16,6 @@ Its hardy vitality enables it to adapt to any environment. Its pincers will neve
 |-------|-------|------|-------|
 | ![Corphish](../assets/sprites/corphish/front.gif "Corphish: Its hardy vitality enables it to adapt to any environment. Its pincers will never release prey.") | ![Corphish](../assets/sprites/corphish/front_shiny.png "Corphish: Its hardy vitality enables it to adapt to any environment. Its pincers will never release prey.") | ![Corphish](../assets/sprites/corphish/back.png "Corphish: Its hardy vitality enables it to adapt to any environment. Its pincers will never release prey.") | ![Corphish](../assets/sprites/corphish/back_shiny.png "Corphish: Its hardy vitality enables it to adapt to any environment. Its pincers will never release prey.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Corphish has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 205 | 50 | 62 | Fast Then Very Slow | N/A |
+| 1 Atk | 205 | 50 | 62 | Fast Then Very Slow | N/A |
 
 ---
 

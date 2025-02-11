@@ -20,7 +20,7 @@ A pair may be seen rubbing their cheek pouches together in an effort to share st
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Pachirisu](../assets/sprites/pachirisu/front_female.gif "Pachirisu: A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.") | ![Pachirisu](../assets/sprites/pachirisu/front_shiny_female.png "Pachirisu: A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.") | ? | ? |
+| ![Pachirisu](../assets/sprites/pachirisu/front_female.gif "Pachirisu: A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.") | ![Pachirisu](../assets/sprites/pachirisu/front_shiny_female.png "Pachirisu: A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.") | N/A | N/A |
 
 ### Cries
 
@@ -81,7 +81,7 @@ Pachirisu has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 200 | 100 | 142 | Medium | N/A |
+| 1 Spd | 200 | 100 | 142 | Medium | N/A |
 
 ---
 

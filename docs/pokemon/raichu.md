@@ -20,7 +20,7 @@ Its tail discharges electricity into the ground, protecting it from getting shoc
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Raichu](../assets/sprites/raichu/front_female.gif "Raichu: Its tail discharges electricity into the ground, protecting it from getting shocked.") | ![Raichu](../assets/sprites/raichu/front_shiny_female.png "Raichu: Its tail discharges electricity into the ground, protecting it from getting shocked.") | ? | ? |
+| ![Raichu](../assets/sprites/raichu/front_female.gif "Raichu: Its tail discharges electricity into the ground, protecting it from getting shocked.") | ![Raichu](../assets/sprites/raichu/front_shiny_female.png "Raichu: Its tail discharges electricity into the ground, protecting it from getting shocked.") | N/A | N/A |
 
 ### Cries
 
@@ -85,7 +85,7 @@ Raichu has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Speed | 75 | 50 | 243 | Mediu |
+| 3 Spd | 75 | 50 | 243 | Mediu |
 
 ---
 

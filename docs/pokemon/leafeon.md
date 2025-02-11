@@ -16,12 +16,6 @@ It basically does not fight. With cells similar to those of plants, it can perfo
 |-------|-------|------|-------|
 | ![Leafeon](../assets/sprites/leafeon/front.gif "Leafeon: It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.") | ![Leafeon](../assets/sprites/leafeon/front_shiny.png "Leafeon: It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.") | ![Leafeon](../assets/sprites/leafeon/back.png "Leafeon: It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.") | ![Leafeon](../assets/sprites/leafeon/back_shiny.png "Leafeon: It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -95,7 +89,7 @@ Leafeon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 45 | 35 | 184 | Medium | N/A |
+| 2 Def | 45 | 35 | 184 | Medium | N/A |
 
 ---
 

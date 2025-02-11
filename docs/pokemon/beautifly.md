@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #267 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.0 m /<br>3.3 ft | 28.4 kg /<br>62.6 lbs | 1. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br>2. <span class="tooltip" title="Raises Attack if the foe is of the same gender.">Rivalry</span> | #50 |
+| #267 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.0 m /<br>3.3 ft | 28.4 kg /<br>62.6 lbs | 1. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br>2. <span class="tooltip" title="Raises Attack if the foe is of the same gender.">Rivalry</span> | #50 |
 
 ---
 
@@ -89,7 +89,7 @@ Beautifly has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 45 | 70 | 178 | Medium | <span class="tooltip" title="A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle.">Shed Shell</span> (5%) |
+| 3 Sp. Atk | 45 | 70 | 178 | Medium | <span class="tooltip" title="A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle.">Shed Shell</span> (5%) |
 
 ---
 

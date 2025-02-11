@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #323 | ![fire](../assets/types/fire.png "Fire"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.9 m /<br>6.2 ft | 220.0 kg /<br>485.0 lbs | 1. <span class="tooltip" title="Powers down super­ effective moves.">Solid Rock</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming frozen.">Magma Armor</span> | N/A |
+| #323 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.9 m /<br>6.2 ft | 220.0 kg /<br>485.0 lbs | 1. <span class="tooltip" title="Powers down super­ effective moves.">Solid Rock</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming frozen.">Magma Armor</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Camerupt has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack | 150 | 70 | 161 | Mediu |
+| 1 Atk<br>1 Sp. Atk | 150 | 70 | 161 | Mediu |
 
 ---
 

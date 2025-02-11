@@ -85,7 +85,7 @@ Alakazam has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 50 | 50 | 250 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a spoon imbued with telekinetic power that boosts Psychic-type moves.">Twisted Spoon</span> (5%) |
+| 3 Sp. Atk | 50 | 50 | 250 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a spoon imbued with telekinetic power that boosts Psychic-type moves.">Twisted Spoon</span> (5%) |
 
 ---
 

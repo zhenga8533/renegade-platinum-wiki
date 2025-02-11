@@ -16,12 +16,6 @@ It controls balls of fire. As it grows, its six tails split from their tips to m
 |-------|-------|------|-------|
 | ![Vulpix](../assets/sprites/vulpix/front.gif "Vulpix: It controls balls of fire. As it grows, its six tails split from their tips to make more tails.") | ![Vulpix](../assets/sprites/vulpix/front_shiny.png "Vulpix: It controls balls of fire. As it grows, its six tails split from their tips to make more tails.") | ![Vulpix](../assets/sprites/vulpix/back.png "Vulpix: It controls balls of fire. As it grows, its six tails split from their tips to make more tails.") | ![Vulpix](../assets/sprites/vulpix/back_shiny.png "Vulpix: It controls balls of fire. As it grows, its six tails split from their tips to make more tails.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Vulpix has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 50 | 60 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.">Charcoal</span> (5%) |
+| 1 Spd | 190 | 50 | 60 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.">Charcoal</span> (5%) |
 
 ---
 

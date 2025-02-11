@@ -16,12 +16,6 @@ It mimics the expressions and motions of those it sees to understand the feeling
 |-------|-------|------|-------|
 | ![Mime Jr](../assets/sprites/mime-jr/front.gif "Mime Jr: It mimics the expressions and motions of those it sees to understand the feelings of others.") | ![Mime Jr](../assets/sprites/mime-jr/front_shiny.png "Mime Jr: It mimics the expressions and motions of those it sees to understand the feelings of others.") | ![Mime Jr](../assets/sprites/mime-jr/back.png "Mime Jr: It mimics the expressions and motions of those it sees to understand the feelings of others.") | ![Mime Jr](../assets/sprites/mime-jr/back_shiny.png "Mime Jr: It mimics the expressions and motions of those it sees to understand the feelings of others.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #439 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 13.0 kg /<br>28.7 lbs | 1. <span class="tooltip" title="Powers down super­ effective moves.">Filter</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | #94 |
+| #439 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 13.0 kg /<br>28.7 lbs | 1. <span class="tooltip" title="Powers down super­ effective moves.">Filter</span><br>2. <span class="tooltip" title="Powers up the Pokémon’s weaker moves.">Technician</span> | #94 |
 
 ---
 
@@ -83,7 +77,7 @@ Mime Jr has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 145 | 50 | 62 | Mediu |
+| 1 Sp. Def | 145 | 50 | 62 | Mediu |
 
 ---
 

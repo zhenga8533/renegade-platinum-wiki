@@ -16,12 +16,6 @@ It was banished for its violence. It silently gazed upon the old world from the 
 |-------|-------|------|-------|
 | ![Giratina Altered](../assets/sprites/giratina-altered/front.gif "Giratina Altered: It was banished for its violence. It silently gazed upon the old world from the Distortion World.") | ![Giratina Altered](../assets/sprites/giratina-altered/front_shiny.png "Giratina Altered: It was banished for its violence. It silently gazed upon the old world from the Distortion World.") | ![Giratina Altered](../assets/sprites/giratina-altered/back.png "Giratina Altered: It was banished for its violence. It silently gazed upon the old world from the Distortion World.") | ![Giratina Altered](../assets/sprites/giratina-altered/back_shiny.png "Giratina Altered: It was banished for its violence. It silently gazed upon the old world from the Distortion World.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #487 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 4.5 m /<br>14.8 ft | 750.0 kg /<br>1653.5 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="This Pokémon does not take damage from friendly Pokémon's moves, including single-target moves aimed at it.">Telepathy</span> | N/A |
+| #487 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"}<br>![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 4.5 m /<br>14.8 ft | 750.0 kg /<br>1653.5 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="This Pokémon does not take damage from friendly Pokémon's moves, including single-target moves aimed at it.">Telepathy</span> | N/A |
 
 ---
 
@@ -86,7 +80,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 3 | 0 | 340 | Slow | N/A |
+| 3 None | 3 | 0 | 340 | Slow | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ For many generations, it has feuded with ZANGOOSE. It whets its bladed tail on r
 |-------|-------|------|-------|
 | ![Seviper](../assets/sprites/seviper/front.gif "Seviper: For many generations, it has feuded with ZANGOOSE. It whets its bladed tail on rocks for battle.") | ![Seviper](../assets/sprites/seviper/front_shiny.png "Seviper: For many generations, it has feuded with ZANGOOSE. It whets its bladed tail on rocks for battle.") | ![Seviper](../assets/sprites/seviper/back.png "Seviper: For many generations, it has feuded with ZANGOOSE. It whets its bladed tail on rocks for battle.") | ![Seviper](../assets/sprites/seviper/back_shiny.png "Seviper: For many generations, it has feuded with ZANGOOSE. It whets its bladed tail on rocks for battle.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #336 | ![poison](../assets/types/poison.png "Poison"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 2.7 m /<br>8.9 ft | 52.5 kg /<br>115.7 lbs | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br>2. <span class="tooltip" title="This Pokémon's moves ignore light screen, reflect, and safeguard.">Infiltrator</span> | N/A |
+| #336 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 2.7 m /<br>8.9 ft | 52.5 kg /<br>115.7 lbs | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br>2. <span class="tooltip" title="This Pokémon's moves ignore light screen, reflect, and safeguard.">Infiltrator</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Seviper has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack | 90 | 70 | 160 | Fast Then Very Slow | <span class="tooltip" title="A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle.">Shed Shell</span> (5%) |
+| 1 Atk<br>1 Sp. Atk | 90 | 70 | 160 | Fast Then Very Slow | <span class="tooltip" title="A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle.">Shed Shell</span> (5%) |
 
 ---
 

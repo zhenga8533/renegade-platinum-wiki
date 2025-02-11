@@ -16,12 +16,6 @@ It knows where pure water wells up. It carries fellow Pokémon there on its back
 |-------|-------|------|-------|
 | ![Grotle](../assets/sprites/grotle/front.gif "Grotle: It knows where pure water wells up. It carries fellow Pokémon there on its back.") | ![Grotle](../assets/sprites/grotle/front_shiny.png "Grotle: It knows where pure water wells up. It carries fellow Pokémon there on its back.") | ![Grotle](../assets/sprites/grotle/back.png "Grotle: It knows where pure water wells up. It carries fellow Pokémon there on its back.") | ![Grotle](../assets/sprites/grotle/back_shiny.png "Grotle: It knows where pure water wells up. It carries fellow Pokémon there on its back.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Grotle has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Defense | 45 | 70 | 142 | Medium Slow | N/A |
+| 1 Atk<br>1 Def | 45 | 70 | 142 | Medium Slow | N/A |
 
 ---
 

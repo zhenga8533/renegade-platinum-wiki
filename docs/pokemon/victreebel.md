@@ -16,12 +16,6 @@ It pools in its mouth a fluid with a honeylike scent, which is really an acid th
 |-------|-------|------|-------|
 | ![Victreebel](../assets/sprites/victreebel/front.gif "Victreebel: It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.") | ![Victreebel](../assets/sprites/victreebel/front_shiny.png "Victreebel: It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.") | ![Victreebel](../assets/sprites/victreebel/back.png "Victreebel: It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.") | ![Victreebel](../assets/sprites/victreebel/back_shiny.png "Victreebel: It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #71 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.7 m /<br>5.6 ft | 15.5 kg /<br>34.2 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | N/A |
+| #71 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.7 m /<br>5.6 ft | 15.5 kg /<br>34.2 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Victreebel has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 70 | 221 | Medium Slow | N/A |
+| 3 Atk | 45 | 70 | 221 | Medium Slow | N/A |
 
 ---
 

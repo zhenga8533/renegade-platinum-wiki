@@ -16,12 +16,6 @@ Because it turns active on nights of the full moon, it is said to have some link
 |-------|-------|------|-------|
 | ![Lunatone](../assets/sprites/lunatone/front.gif "Lunatone: Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.") | ![Lunatone](../assets/sprites/lunatone/front_shiny.png "Lunatone: Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.") | ![Lunatone](../assets/sprites/lunatone/back.png "Lunatone: Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.") | ![Lunatone](../assets/sprites/lunatone/back_shiny.png "Lunatone: Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #337 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.0 m /<br>3.3 ft | 168.0 kg /<br>370.4 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #337 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.0 m /<br>3.3 ft | 168.0 kg /<br>370.4 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Lunatone has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 45 | 50 | 161 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.">Moon Stone</span> (5%)<br><span class="tooltip" title="Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops.">Stardust</span> (50%) |
+| 2 Sp. Atk | 45 | 50 | 161 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.">Moon Stone</span> (5%)<br><span class="tooltip" title="Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops.">Stardust</span> (50%) |
 
 ---
 

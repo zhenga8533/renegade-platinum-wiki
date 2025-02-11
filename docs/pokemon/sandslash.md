@@ -16,12 +16,6 @@ It curls up, then rolls into foes with its back. Its sharp spines inflict severe
 |-------|-------|------|-------|
 | ![Sandslash](../assets/sprites/sandslash/front.gif "Sandslash: It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.") | ![Sandslash](../assets/sprites/sandslash/front_shiny.png "Sandslash: It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.") | ![Sandslash](../assets/sprites/sandslash/back.png "Sandslash: It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.") | ![Sandslash](../assets/sprites/sandslash/back_shiny.png "Sandslash: It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Sandslash has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 90 | 50 | 158 | Medium | <span class="tooltip" title="A Pokémon hold item that extends the duration of multiturn attacks like Bind and Wrap.">Grip Claw</span> (5%) |
+| 2 Def | 90 | 50 | 158 | Medium | <span class="tooltip" title="A Pokémon hold item that extends the duration of multiturn attacks like Bind and Wrap.">Grip Claw</span> (5%) |
 
 ---
 

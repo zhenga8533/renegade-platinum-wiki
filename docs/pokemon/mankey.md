@@ -16,12 +16,6 @@ It lives in treetop colonies. If one becomes enraged, the whole colony rampages 
 |-------|-------|------|-------|
 | ![Mankey](../assets/sprites/mankey/front.gif "Mankey: It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.") | ![Mankey](../assets/sprites/mankey/front_shiny.png "Mankey: It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.") | ![Mankey](../assets/sprites/mankey/back.png "Mankey: It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.") | ![Mankey](../assets/sprites/mankey/back_shiny.png "Mankey: It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #56 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.5 m /<br>1.6 ft | 28.0 kg /<br>61.7 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span><br>2. <span class="tooltip" title="Raises Attack upon taking a critical hit.">Anger Point</span><br>3. <span class="tooltip" title="When any of this Pokémon's stats are lowered, its Attack rises by two stages.  If multiple stats are lowered at once, this ability takes effect with each stat lowered.">Defiant</span> | N/A |
+| #56 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.5 m /<br>1.6 ft | 28.0 kg /<br>61.7 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span><br>2. <span class="tooltip" title="Raises Attack upon taking a critical hit.">Anger Point</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Mankey has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 190 | 70 | 61 | Mediu |
+| 1 Atk | 190 | 70 | 61 | Mediu |
 
 ---
 

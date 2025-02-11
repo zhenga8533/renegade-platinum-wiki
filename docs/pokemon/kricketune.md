@@ -83,7 +83,7 @@ Kricketune has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 45 | 70 | 134 | Medium Slow | <span class="tooltip" title="A Pokémon hold item that boosts a move used consecutively. Its effect is reset if another move is used.">Metronome</span> (5%) |
+| 2 Atk | 45 | 70 | 134 | Medium Slow | <span class="tooltip" title="A Pokémon hold item that boosts a move used consecutively. Its effect is reset if another move is used.">Metronome</span> (5%) |
 
 ---
 

@@ -16,12 +16,6 @@ Its howls can be heard over six miles away. It emits all sorts of noises from th
 |-------|-------|------|-------|
 | ![Exploud](../assets/sprites/exploud/front.gif "Exploud: Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.") | ![Exploud](../assets/sprites/exploud/front_shiny.png "Exploud: Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.") | ![Exploud](../assets/sprites/exploud/back.png "Exploud: Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.") | ![Exploud](../assets/sprites/exploud/back_shiny.png "Exploud: Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Exploud has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 45 | 50 | 245 | Medium Slo |
+| 3 None | 45 | 50 | 245 | Medium Slo |
 
 ---
 

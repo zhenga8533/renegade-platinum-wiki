@@ -16,12 +16,6 @@ Its tail bounces like a rubber ball. It flings that tail around to fight opponen
 |-------|-------|------|-------|
 | ![Azurill](../assets/sprites/azurill/front.gif "Azurill: Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.") | ![Azurill](../assets/sprites/azurill/front_shiny.png "Azurill: Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.") | ![Azurill](../assets/sprites/azurill/back.png "Azurill: Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.") | ![Azurill](../assets/sprites/azurill/back_shiny.png "Azurill: Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #298 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.2 m /<br>0.7 ft | 2.0 kg /<br>4.4 lbs | 1. <span class="tooltip" title="Raises the Pokémon’s Attack stat.">Huge Power</span><br>2. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span> | #124 |
+| #298 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.2 m /<br>0.7 ft | 2.0 kg /<br>4.4 lbs | 1. <span class="tooltip" title="Raises the Pokémon’s Attack stat.">Huge Power</span><br>2. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span> | #124 |
 
 ---
 
@@ -85,7 +79,7 @@ Azurill has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 150 | 180 | 38 | Fast | N/A |
+| 1 None | 150 | 180 | 38 | Fast | N/A |
 
 ---
 

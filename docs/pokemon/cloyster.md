@@ -16,12 +16,6 @@ It fights by keeping its shell tightly shut for protection and by shooting spike
 |-------|-------|------|-------|
 | ![Cloyster](../assets/sprites/cloyster/front.gif "Cloyster: It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.") | ![Cloyster](../assets/sprites/cloyster/front_shiny.png "Cloyster: It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.") | ![Cloyster](../assets/sprites/cloyster/back.png "Cloyster: It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.") | ![Cloyster](../assets/sprites/cloyster/back_shiny.png "Cloyster: It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #91 | ![water](../assets/types/water.png "Water"){: width="48"} ![ice](../assets/types/ice.png "Ice"){: width="48"} | 1.5 m /<br>4.9 ft | 132.5 kg /<br>292.1 lbs | 1. <span class="tooltip" title="Increases the frequency of multi-strike moves.">Skill Link</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span> | N/A |
+| #91 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 1.5 m /<br>4.9 ft | 132.5 kg /<br>292.1 lbs | 1. <span class="tooltip" title="Increases the frequency of multi-strike moves.">Skill Link</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Cloyster has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 60 | 50 | 184 | Slow | <span class="tooltip" title="A somewhat-small pearl that sparkles in a pretty silver color. It can be sold cheaply to shops.">Pearl</span> (50%)<br><span class="tooltip" title="A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.">Big Pearl</span> (5%) |
+| 2 Def | 60 | 50 | 184 | Slow | <span class="tooltip" title="A somewhat-small pearl that sparkles in a pretty silver color. It can be sold cheaply to shops.">Pearl</span> (50%)<br><span class="tooltip" title="A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops.">Big Pearl</span> (5%) |
 
 ---
 

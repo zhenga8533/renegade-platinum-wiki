@@ -16,12 +16,6 @@ To share its happiness, it flies around the world seeking kind­ hearted people.
 |-------|-------|------|-------|
 | ![Togetic](../assets/sprites/togetic/front.gif "Togetic: To share its happiness, it flies around the world seeking kind­ hearted people.") | ![Togetic](../assets/sprites/togetic/front_shiny.png "Togetic: To share its happiness, it flies around the world seeking kind­ hearted people.") | ![Togetic](../assets/sprites/togetic/back.png "Togetic: To share its happiness, it flies around the world seeking kind­ hearted people.") | ![Togetic](../assets/sprites/togetic/back_shiny.png "Togetic: To share its happiness, it flies around the world seeking kind­ hearted people.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #176 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.6 m /<br>2.0 ft | 3.2 kg /<br>7.1 lbs | 1. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br>2. <span class="tooltip" title="Heightens the critical-hit ratios of moves.">Super Luck</span> | N/A |
+| #176 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.6 m /<br>2.0 ft | 3.2 kg /<br>7.1 lbs | 1. <span class="tooltip" title="Boosts the likelihood of added effects appearing.">Serene Grace</span><br>2. <span class="tooltip" title="Heightens the critical-hit ratios of moves.">Super Luck</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Togetic has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 75 | 50 | 142 | Fast | N/A |
+| 2 Sp. Def | 75 | 50 | 142 | Fast | N/A |
 
 ---
 

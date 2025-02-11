@@ -16,12 +16,6 @@ It eats its weight in leaves every day. It fends off attackers with the needle o
 |-------|-------|------|-------|
 | ![Weedle](../assets/sprites/weedle/front.gif "Weedle: It eats its weight in leaves every day. It fends off attackers with the needle on its head.") | ![Weedle](../assets/sprites/weedle/front_shiny.png "Weedle: It eats its weight in leaves every day. It fends off attackers with the needle on its head.") | ![Weedle](../assets/sprites/weedle/back.png "Weedle: It eats its weight in leaves every day. It fends off attackers with the needle on its head.") | ![Weedle](../assets/sprites/weedle/back_shiny.png "Weedle: It eats its weight in leaves every day. It fends off attackers with the needle on its head.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #13 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.3 m /<br>1.0 ft | 3.2 kg /<br>7.1 lbs | 1. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>2. <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span> | N/A |
+| #13 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.3 m /<br>1.0 ft | 3.2 kg /<br>7.1 lbs | 1. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>2. <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Weedle has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 255 | 70 | 39 | Medium | N/A |
+| 1 Spd | 255 | 70 | 39 | Medium | N/A |
 
 ---
 

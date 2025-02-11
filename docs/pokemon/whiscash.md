@@ -16,12 +16,6 @@ It is extremely protective of its territory. If any foe approaches, it attacks u
 |-------|-------|------|-------|
 | ![Whiscash](../assets/sprites/whiscash/front.gif "Whiscash: It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.") | ![Whiscash](../assets/sprites/whiscash/front_shiny.png "Whiscash: It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.") | ![Whiscash](../assets/sprites/whiscash/back.png "Whiscash: It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.") | ![Whiscash](../assets/sprites/whiscash/back_shiny.png "Whiscash: It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #340 | ![water](../assets/types/water.png "Water"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.9 m /<br>3.0 ft | 23.6 kg /<br>52.0 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span><br>2. <span class="tooltip" title="Senses the foe’s dangerous moves.">Anticipation</span><br>3. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | #81 |
+| #340 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.9 m /<br>3.0 ft | 23.6 kg /<br>52.0 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span><br>2. <span class="tooltip" title="Senses the foe’s dangerous moves.">Anticipation</span> | #81 |
 
 ---
 
@@ -83,7 +77,7 @@ Whiscash has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 75 | 50 | 164 | Medium | N/A |
+| 2 None | 75 | 50 | 164 | Medium | N/A |
 
 ---
 

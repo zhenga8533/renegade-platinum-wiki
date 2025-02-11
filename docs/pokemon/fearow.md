@@ -16,12 +16,6 @@ It has the stamina to fly all day on its broad wings. It fights by using its sha
 |-------|-------|------|-------|
 | ![Fearow](../assets/sprites/fearow/front.gif "Fearow: It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.") | ![Fearow](../assets/sprites/fearow/front_shiny.png "Fearow: It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.") | ![Fearow](../assets/sprites/fearow/back.png "Fearow: It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.") | ![Fearow](../assets/sprites/fearow/back_shiny.png "Fearow: It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #22 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 38.0 kg /<br>83.8 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span><br>2. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | N/A |
+| #22 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.2 m /<br>3.9 ft | 38.0 kg /<br>83.8 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span><br>2. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Fearow has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 90 | 70 | 155 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a long, sharp beak that boosts the power of Flying-type moves.">Sharp Beak</span> (5%) |
+| 2 Spd | 90 | 70 | 155 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a long, sharp beak that boosts the power of Flying-type moves.">Sharp Beak</span> (5%) |
 
 ---
 

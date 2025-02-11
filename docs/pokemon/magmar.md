@@ -16,12 +16,6 @@ When it breathes deeply, heat waves form around its body, making it hard to see 
 |-------|-------|------|-------|
 | ![Magmar](../assets/sprites/magmar/front.gif "Magmar: When it breathes deeply, heat waves form around its body, making it hard to see clearly.") | ![Magmar](../assets/sprites/magmar/front_shiny.png "Magmar: When it breathes deeply, heat waves form around its body, making it hard to see clearly.") | ![Magmar](../assets/sprites/magmar/back.png "Magmar: When it breathes deeply, heat waves form around its body, making it hard to see clearly.") | ![Magmar](../assets/sprites/magmar/back_shiny.png "Magmar: When it breathes deeply, heat waves form around its body, making it hard to see clearly.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Magmar has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 45 | 50 | 173 | Medium | <span class="tooltip" title="A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon.">Magmarizer</span> (5%) |
+| 2 Sp. Atk | 45 | 50 | 173 | Medium | <span class="tooltip" title="A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon.">Magmarizer</span> (5%) |
 
 ---
 

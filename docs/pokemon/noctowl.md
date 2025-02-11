@@ -16,12 +16,6 @@ Its eyes are specially developed to enable it to see clearly even in murky darkn
 |-------|-------|------|-------|
 | ![Noctowl](../assets/sprites/noctowl/front.gif "Noctowl: Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.") | ![Noctowl](../assets/sprites/noctowl/front_shiny.png "Noctowl: Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.") | ![Noctowl](../assets/sprites/noctowl/back.png "Noctowl: Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.") | ![Noctowl](../assets/sprites/noctowl/back_shiny.png "Noctowl: Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #164 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.6 m /<br>5.2 ft | 40.8 kg /<br>89.9 lbs | 1. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br>2. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span> | #107 |
+| #164 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.6 m /<br>5.2 ft | 40.8 kg /<br>89.9 lbs | 1. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br>2. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span> | #107 |
 
 ---
 
@@ -83,7 +77,7 @@ Noctowl has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 90 | 50 | 158 | Medium | N/A |
+| 2 None | 90 | 50 | 158 | Medium | N/A |
 
 ---
 

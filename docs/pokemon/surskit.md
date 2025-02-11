@@ -16,12 +16,6 @@ It appears as if it is skating on water. It draws prey with a sweet scent from t
 |-------|-------|------|-------|
 | ![Surskit](../assets/sprites/surskit/front.gif "Surskit: It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.") | ![Surskit](../assets/sprites/surskit/front_shiny.png "Surskit: It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.") | ![Surskit](../assets/sprites/surskit/back.png "Surskit: It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.") | ![Surskit](../assets/sprites/surskit/back_shiny.png "Surskit: It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #283 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![water](../assets/types/water.png "Water"){: width="48"} | 0.5 m /<br>1.6 ft | 1.7 kg /<br>3.7 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="The Pokémon gradually recovers HP in rain.">Rain Dish</span> | N/A |
+| #283 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 0.5 m /<br>1.6 ft | 1.7 kg /<br>3.7 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="The Pokémon gradually recovers HP in rain.">Rain Dish</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Surskit has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 200 | 70 | 54 | Medium | <span class="tooltip" title="A sweet honey with a lush aroma that attracts wild Pokémon when it is used in grass, caves, or on special trees.">Honey</span> (50%) |
+| 1 Spd | 200 | 70 | 54 | Medium | <span class="tooltip" title="A sweet honey with a lush aroma that attracts wild Pokémon when it is used in grass, caves, or on special trees.">Honey</span> (50%) |
 
 ---
 

@@ -16,12 +16,6 @@ Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same
 |-------|-------|------|-------|
 | ![Whismur](../assets/sprites/whismur/front.gif "Whismur: Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.") | ![Whismur](../assets/sprites/whismur/front_shiny.png "Whismur: Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.") | ![Whismur](../assets/sprites/whismur/back.png "Whismur: Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.") | ![Whismur](../assets/sprites/whismur/back_shiny.png "Whismur: Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Whismur has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 190 | 50 | 48 | Medium Slo |
+| 1 None | 190 | 50 | 48 | Medium Slo |
 
 ---
 

@@ -16,12 +16,6 @@ It is timid in spite of its looks. If it becomes enraged, however, it will strik
 |-------|-------|------|-------|
 | ![Granbull](../assets/sprites/granbull/front.gif "Granbull: It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.") | ![Granbull](../assets/sprites/granbull/front_shiny.png "Granbull: It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.") | ![Granbull](../assets/sprites/granbull/back.png "Granbull: It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.") | ![Granbull](../assets/sprites/granbull/back_shiny.png "Granbull: It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #210 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.4 m /<br>4.6 ft | 48.7 kg /<br>107.4 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Boosts Speed if there is a status problem.">Quick Feet</span><br>3. <span class="tooltip" title="This Pokémon's Speed rises one stage with each hit from a damaging dark-, ghost-, or bug-type move.">Rattled</span> | N/A |
+| #210 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.4 m /<br>4.6 ft | 48.7 kg /<br>107.4 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Boosts Speed if there is a status problem.">Quick Feet</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Granbull has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 75 | 70 | 158 | Fast | N/A |
+| 2 Atk | 75 | 70 | 158 | Fast | N/A |
 
 ---
 

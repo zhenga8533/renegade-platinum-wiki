@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #257 | ![fire](../assets/types/fire.png "Fire"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.9 m /<br>6.2 ft | 52.0 kg /<br>114.6 lbs | 1. <span class="tooltip" title="The Pokémon’s Speed stat is gradually boosted.">Speed Boost</span><br>2. <span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span> | N/A |
+| #257 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.9 m /<br>6.2 ft | 52.0 kg /<br>114.6 lbs | 1. <span class="tooltip" title="The Pokémon’s Speed stat is gradually boosted.">Speed Boost</span><br>2. <span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span> | N/A |
 
 ---
 
@@ -85,7 +85,7 @@ Blaziken has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 50 | 265 | Medium Slow | N/A |
+| 3 Atk | 45 | 50 | 265 | Medium Slow | N/A |
 
 ---
 

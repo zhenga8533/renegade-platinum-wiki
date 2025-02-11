@@ -16,12 +16,6 @@ It is outstandingly armored. As a result, it can eat grass and berries without h
 |-------|-------|------|-------|
 | ![Shieldon](../assets/sprites/shieldon/front.gif "Shieldon: It is outstandingly armored. As a result, it can eat grass and berries without having to fight.") | ![Shieldon](../assets/sprites/shieldon/front_shiny.png "Shieldon: It is outstandingly armored. As a result, it can eat grass and berries without having to fight.") | ![Shieldon](../assets/sprites/shieldon/back.png "Shieldon: It is outstandingly armored. As a result, it can eat grass and berries without having to fight.") | ![Shieldon](../assets/sprites/shieldon/back_shiny.png "Shieldon: It is outstandingly armored. As a result, it can eat grass and berries without having to fight.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #410 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.5 m /<br>1.6 ft | 57.0 kg /<br>125.7 lbs | 1. <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span><br>2. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span> | #38 |
+| #410 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 0.5 m /<br>1.6 ft | 57.0 kg /<br>125.7 lbs | 1. <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span><br>2. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span> | #38 |
 
 ---
 
@@ -83,7 +77,7 @@ Shieldon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 45 | 70 | 70 | Slow Then Very Fast | N/A |
+| 1 Def | 45 | 70 | 70 | Slow Then Very Fast | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ When it wavers its big, round eyes, it begins singing a lullaby that makes every
 |-------|-------|------|-------|
 | ![Jigglypuff](../assets/sprites/jigglypuff/front.gif "Jigglypuff: When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.") | ![Jigglypuff](../assets/sprites/jigglypuff/front_shiny.png "Jigglypuff: When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.") | ![Jigglypuff](../assets/sprites/jigglypuff/back.png "Jigglypuff: When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.") | ![Jigglypuff](../assets/sprites/jigglypuff/back_shiny.png "Jigglypuff: When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #39 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.5 m /<br>1.6 ft | 5.5 kg /<br>12.1 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | N/A |
+| #39 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.5 m /<br>1.6 ft | 5.5 kg /<br>12.1 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Jigglypuff has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 170 | 50 | 95 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.">Moon Stone</span> (5%) |
+| 2 None | 170 | 50 | 95 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.">Moon Stone</span> (5%) |
 
 ---
 

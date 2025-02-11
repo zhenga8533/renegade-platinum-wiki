@@ -16,12 +16,6 @@ Once it bites down, it won’t let go until it loses its fangs. New fangs quickl
 |-------|-------|------|-------|
 | ![Croconaw](../assets/sprites/croconaw/front.gif "Croconaw: Once it bites down, it won’t let go until it loses its fangs. New fangs quickly grow into place.") | ![Croconaw](../assets/sprites/croconaw/front_shiny.png "Croconaw: Once it bites down, it won’t let go until it loses its fangs. New fangs quickly grow into place.") | ![Croconaw](../assets/sprites/croconaw/back.png "Croconaw: Once it bites down, it won’t let go until it loses its fangs. New fangs quickly grow into place.") | ![Croconaw](../assets/sprites/croconaw/back_shiny.png "Croconaw: Once it bites down, it won’t let go until it loses its fangs. New fangs quickly grow into place.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Croconaw has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Defense | 45 | 70 | 142 | Medium Slow | N/A |
+| 1 Atk<br>1 Def | 45 | 70 | 142 | Medium Slow | N/A |
 
 ---
 

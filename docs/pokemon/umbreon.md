@@ -16,12 +16,6 @@ When exposed to the moon’s aura, the rings on its body glow faintly and it gai
 |-------|-------|------|-------|
 | ![Umbreon](../assets/sprites/umbreon/front.gif "Umbreon: When exposed to the moon’s aura, the rings on its body glow faintly and it gains a mysterious power.") | ![Umbreon](../assets/sprites/umbreon/front_shiny.png "Umbreon: When exposed to the moon’s aura, the rings on its body glow faintly and it gains a mysterious power.") | ![Umbreon](../assets/sprites/umbreon/back.png "Umbreon: When exposed to the moon’s aura, the rings on its body glow faintly and it gains a mysterious power.") | ![Umbreon](../assets/sprites/umbreon/back_shiny.png "Umbreon: When exposed to the moon’s aura, the rings on its body glow faintly and it gains a mysterious power.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -95,7 +89,7 @@ Umbreon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 45 | 35 | 184 | Medium | N/A |
+| 2 Sp. Def | 45 | 35 | 184 | Medium | N/A |
 
 ---
 

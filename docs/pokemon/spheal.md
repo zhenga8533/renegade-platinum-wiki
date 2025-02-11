@@ -16,12 +16,6 @@ It rolls across ice floes to reach shore because its body is poorly shaped for s
 |-------|-------|------|-------|
 | ![Spheal](../assets/sprites/spheal/front.gif "Spheal: It rolls across ice floes to reach shore because its body is poorly shaped for swimming.") | ![Spheal](../assets/sprites/spheal/front_shiny.png "Spheal: It rolls across ice floes to reach shore because its body is poorly shaped for swimming.") | ![Spheal](../assets/sprites/spheal/back.png "Spheal: It rolls across ice floes to reach shore because its body is poorly shaped for swimming.") | ![Spheal](../assets/sprites/spheal/back_shiny.png "Spheal: It rolls across ice floes to reach shore because its body is poorly shaped for swimming.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #363 | ![ice](../assets/types/ice.png "Ice"){: width="48"} ![water](../assets/types/water.png "Water"){: width="48"} | 0.8 m /<br>2.6 ft | 39.5 kg /<br>87.1 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="The Pokémon regains HP in a hailstorm.">Ice Body</span><br>3. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span> | N/A |
+| #363 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 0.8 m /<br>2.6 ft | 39.5 kg /<br>87.1 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="The Pokémon regains HP in a hailstorm.">Ice Body</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Spheal has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 255 | 50 | 58 | Medium Slow | N/A |
+| 1 None | 255 | 50 | 58 | Medium Slow | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ If its body takes on an aura, the weather changes instantly. It is said to live 
 |-------|-------|------|-------|
 | ![Dragonair](../assets/sprites/dragonair/front.gif "Dragonair: If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.") | ![Dragonair](../assets/sprites/dragonair/front_shiny.png "Dragonair: If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.") | ![Dragonair](../assets/sprites/dragonair/back.png "Dragonair: If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.") | ![Dragonair](../assets/sprites/dragonair/back_shiny.png "Dragonair: If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Dragonair has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 45 | 35 | 147 | Slow | <span class="tooltip" title="A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.">Dragon Scale</span> (5%) |
+| 2 Atk | 45 | 35 | 147 | Slow | <span class="tooltip" title="A thick and tough scale. Dragon-type Pokémon may be holding this item when caught.">Dragon Scale</span> (5%) |
 
 ---
 

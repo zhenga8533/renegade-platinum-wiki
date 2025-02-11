@@ -16,12 +16,6 @@ It cheers on friends. If its friends are losing, its body lets off more and more
 |-------|-------|------|-------|
 | ![Minun](../assets/sprites/minun/front.gif "Minun: It cheers on friends. If its friends are losing, its body lets off more and more sparks.") | ![Minun](../assets/sprites/minun/front_shiny.png "Minun: It cheers on friends. If its friends are losing, its body lets off more and more sparks.") | ![Minun](../assets/sprites/minun/back.png "Minun: It cheers on friends. If its friends are losing, its body lets off more and more sparks.") | ![Minun](../assets/sprites/minun/back_shiny.png "Minun: It cheers on friends. If its friends are losing, its body lets off more and more sparks.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -81,7 +75,7 @@ Minun has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 200 | 70 | 142 | Mediu |
+| 1 Spd | 200 | 70 | 142 | Mediu |
 
 ---
 

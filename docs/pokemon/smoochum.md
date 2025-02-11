@@ -16,12 +16,6 @@ It tests everything by touching with its lips, which remember what it likes and 
 |-------|-------|------|-------|
 | ![Smoochum](../assets/sprites/smoochum/front.gif "Smoochum: It tests everything by touching with its lips, which remember what it likes and dislikes.") | ![Smoochum](../assets/sprites/smoochum/front_shiny.png "Smoochum: It tests everything by touching with its lips, which remember what it likes and dislikes.") | ![Smoochum](../assets/sprites/smoochum/back.png "Smoochum: It tests everything by touching with its lips, which remember what it likes and dislikes.") | ![Smoochum](../assets/sprites/smoochum/back_shiny.png "Smoochum: It tests everything by touching with its lips, which remember what it likes and dislikes.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #238 | ![ice](../assets/types/ice.png "Ice"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.4 m /<br>1.3 ft | 6.0 kg /<br>13.2 lbs | 1. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span><br>2. <span class="tooltip" title="Determines what moves the foe has.">Forewarn</span> | N/A |
+| #238 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.4 m /<br>1.3 ft | 6.0 kg /<br>13.2 lbs | 1. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span><br>2. <span class="tooltip" title="Determines what moves the foe has.">Forewarn</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Smoochum has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 45 | 50 | 61 | Mediu |
+| 1 Sp. Atk | 45 | 50 | 61 | Mediu |
 
 ---
 

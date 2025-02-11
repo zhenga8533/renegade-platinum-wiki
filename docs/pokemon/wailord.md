@@ -16,12 +16,6 @@ The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on onl
 |-------|-------|------|-------|
 | ![Wailord](../assets/sprites/wailord/front.gif "Wailord: The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.") | ![Wailord](../assets/sprites/wailord/front_shiny.png "Wailord: The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.") | ![Wailord](../assets/sprites/wailord/back.png "Wailord: The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.") | ![Wailord](../assets/sprites/wailord/back_shiny.png "Wailord: The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #321 | ![water](../assets/types/water.png "Water"){: width="48"} | 14.5 m /<br>47.6 ft | 398.0 kg /<br>877.4 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from getting a burn.">Water Veil</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span><br>3. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span> | N/A |
+| #321 | ![water](../assets/types/water.png "Water"){: width="48"} | 14.5 m /<br>47.6 ft | 398.0 kg /<br>877.4 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from getting a burn.">Water Veil</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Wailord has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 60 | 50 | 175 | Fast Then Very Slow | N/A |
+| 2 None | 60 | 50 | 175 | Fast Then Very Slow | N/A |
 
 ---
 

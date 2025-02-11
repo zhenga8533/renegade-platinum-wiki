@@ -16,12 +16,6 @@ A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw bla
 |-------|-------|------|-------|
 | ![Aerodactyl](../assets/sprites/aerodactyl/front.gif "Aerodactyl: A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.") | ![Aerodactyl](../assets/sprites/aerodactyl/front_shiny.png "Aerodactyl: A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.") | ![Aerodactyl](../assets/sprites/aerodactyl/back.png "Aerodactyl: A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.") | ![Aerodactyl](../assets/sprites/aerodactyl/back_shiny.png "Aerodactyl: A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #142 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.8 m /<br>5.9 ft | 59.0 kg /<br>130.1 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>3. <span class="tooltip" title="Opposing Pokémon cannot eat held Berries while this Pokémon is in battle.  Affected Pokémon can still use bug bite or pluck to eat a target's Berry.">Unnerve</span> | N/A |
+| #142 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.8 m /<br>5.9 ft | 59.0 kg /<br>130.1 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Aerodactyl has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 45 | 50 | 180 | Slow | N/A |
+| 2 Spd | 45 | 50 | 180 | Slow | N/A |
 
 ---
 

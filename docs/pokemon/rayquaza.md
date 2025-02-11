@@ -16,12 +16,6 @@ It lives in the ozone layer far above the clouds and cannot be seen from the gro
 |-------|-------|------|-------|
 | ![Rayquaza](../assets/sprites/rayquaza/front.gif "Rayquaza: It lives in the ozone layer far above the clouds and cannot be seen from the ground.") | ![Rayquaza](../assets/sprites/rayquaza/front_shiny.png "Rayquaza: It lives in the ozone layer far above the clouds and cannot be seen from the ground.") | ![Rayquaza](../assets/sprites/rayquaza/back.png "Rayquaza: It lives in the ozone layer far above the clouds and cannot be seen from the ground.") | ![Rayquaza](../assets/sprites/rayquaza/back_shiny.png "Rayquaza: It lives in the ozone layer far above the clouds and cannot be seen from the ground.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #384 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 7.0 m /<br>23.0 ft | 206.5 kg /<br>455.3 lbs | 1. <span class="tooltip" title="Eliminates the effects of weather.">Air Lock</span> | N/A |
+| #384 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 7.0 m /<br>23.0 ft | 206.5 kg /<br>455.3 lbs | 1. <span class="tooltip" title="Eliminates the effects of weather.">Air Lock</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Rayquaza has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack<br>1 Special Attack | 45 | 0 | 340 | Slow | N/A |
+| 2 Atk<br>1 Sp. Atk | 45 | 0 | 340 | Slow | N/A |
 
 ---
 

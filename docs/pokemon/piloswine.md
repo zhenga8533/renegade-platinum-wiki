@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #221 | ![ice](../assets/types/ice.png "Ice"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.1 m /<br>3.6 ft | 55.8 kg /<br>123.0 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span> | N/A |
+| #221 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.1 m /<br>3.6 ft | 55.8 kg /<br>123.0 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span> | N/A |
 
 ---
 
@@ -85,7 +85,7 @@ Piloswine has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp<br>1 Attack | 75 | 50 | 158 | Slo |
+| 1 None<br>1 Atk | 75 | 50 | 158 | Slo |
 
 ---
 

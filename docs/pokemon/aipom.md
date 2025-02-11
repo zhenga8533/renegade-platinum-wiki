@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #190 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.8 m /<br>2.6 ft | 11.5 kg /<br>25.4 lbs | 1. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>2. <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span><br>3. <span class="tooltip" title="Increases the frequency of multi-strike moves.">Skill Link</span> | #63 |
+| #190 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.8 m /<br>2.6 ft | 11.5 kg /<br>25.4 lbs | 1. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>2. <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span> | #63 |
 
 ---
 
@@ -83,7 +83,7 @@ Aipom has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 45 | 70 | 72 | Fast | N/A |
+| 1 Spd | 45 | 70 | 72 | Fast | N/A |
 
 ---
 

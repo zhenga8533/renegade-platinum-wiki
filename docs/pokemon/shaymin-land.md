@@ -16,12 +16,6 @@ The flowers all over its body burst into bloom if it is lovingly hugged and sens
 |-------|-------|------|-------|
 | ![Shaymin Land](../assets/sprites/shaymin-land/front.gif "Shaymin Land: The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.") | ![Shaymin Land](../assets/sprites/shaymin-land/front_shiny.png "Shaymin Land: The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.") | ![Shaymin Land](../assets/sprites/shaymin-land/back.png "Shaymin Land: The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.") | ![Shaymin Land](../assets/sprites/shaymin-land/back_shiny.png "Shaymin Land: The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -86,7 +80,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 45 | 100 | 270 | Medium Slow | <span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to recover from any status problem.">Lum Berry</span> (5%) |
+| 3 None | 45 | 100 | 270 | Medium Slow | <span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to recover from any status problem.">Lum Berry</span> (5%) |
 
 ---
 

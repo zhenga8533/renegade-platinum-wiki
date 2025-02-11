@@ -16,12 +16,6 @@ It gets energy from warm sunlight and is known for its habit of moving in pursui
 |-------|-------|------|-------|
 | ![Sunflora](../assets/sprites/sunflora/front.gif "Sunflora: It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.") | ![Sunflora](../assets/sprites/sunflora/front_shiny.png "Sunflora: It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.") | ![Sunflora](../assets/sprites/sunflora/back.png "Sunflora: It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.") | ![Sunflora](../assets/sprites/sunflora/back_shiny.png "Sunflora: It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #192 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.8 m /<br>2.6 ft | 8.5 kg /<br>18.7 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Boosts Sp. Atk, but lowers HP in sunshine.">Solar Power</span><br>3. <span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span> | N/A |
+| #192 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.8 m /<br>2.6 ft | 8.5 kg /<br>18.7 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Boosts Sp. Atk, but lowers HP in sunshine.">Solar Power</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Sunflora has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 120 | 70 | 149 | Medium Slow | N/A |
+| 2 Sp. Atk | 120 | 70 | 149 | Medium Slow | N/A |
 
 ---
 

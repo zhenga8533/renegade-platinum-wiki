@@ -16,12 +16,6 @@ The fire on the tip of its tail is a measure of its life. If healthy, its tail b
 |-------|-------|------|-------|
 | ![Charmander](../assets/sprites/charmander/front.gif "Charmander: The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.") | ![Charmander](../assets/sprites/charmander/front_shiny.png "Charmander: The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.") | ![Charmander](../assets/sprites/charmander/back.png "Charmander: The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.") | ![Charmander](../assets/sprites/charmander/back_shiny.png "Charmander: The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Charmander has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 45 | 50 | 62 | Medium Slow | N/A |
+| 1 Spd | 45 | 50 | 62 | Medium Slow | N/A |
 
 ---
 

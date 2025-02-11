@@ -16,12 +16,6 @@ It discharges electricity from its mane. It creates a thundercloud overhead to d
 |-------|-------|------|-------|
 | ![Manectric](../assets/sprites/manectric/front.gif "Manectric: It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.") | ![Manectric](../assets/sprites/manectric/front_shiny.png "Manectric: It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.") | ![Manectric](../assets/sprites/manectric/back.png "Manectric: It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.") | ![Manectric](../assets/sprites/manectric/back_shiny.png "Manectric: It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #310 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 1.5 m /<br>4.9 ft | 40.2 kg /<br>88.6 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br>2. <span class="tooltip" title="The Pokémon draws in all Electric-type moves.">Lightning Rod</span><br>3. <span class="tooltip" title="Boosts Sp. Atk if another Pokémon has Plus.">Minus</span> | N/A |
+| #310 | ![electric](../assets/types/electric.png "Electric"){: width="48"} | 1.5 m /<br>4.9 ft | 40.2 kg /<br>88.6 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause paralysis.">Static</span><br>2. <span class="tooltip" title="The Pokémon draws in all Electric-type moves.">Lightning Rod</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Manectric has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 45 | 50 | 166 | Slow | N/A |
+| 2 Spd | 45 | 50 | 166 | Slow | N/A |
 
 ---
 

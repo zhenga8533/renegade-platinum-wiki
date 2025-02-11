@@ -16,12 +16,6 @@ Its body is made of rugged steel. However, it is partially melted in spots becau
 |-------|-------|------|-------|
 | ![Heatran](../assets/sprites/heatran/front.gif "Heatran: Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.") | ![Heatran](../assets/sprites/heatran/front_shiny.png "Heatran: Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.") | ![Heatran](../assets/sprites/heatran/back.png "Heatran: Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.") | ![Heatran](../assets/sprites/heatran/back_shiny.png "Heatran: Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #485 | ![fire](../assets/types/fire.png "Fire"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.7 m /<br>5.6 ft | 430.0 kg /<br>948.0 lbs | 1. <span class="tooltip" title="Powers up Fire-type moves if hit by a fire move.">Flash Fire</span><br>2. <span class="tooltip" title="Contact with the Pokémon may burn the foe.">Flame Body</span> | N/A |
+| #485 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.7 m /<br>5.6 ft | 430.0 kg /<br>948.0 lbs | 1. <span class="tooltip" title="Powers up Fire-type moves if hit by a fire move.">Flash Fire</span><br>2. <span class="tooltip" title="Contact with the Pokémon may burn the foe.">Flame Body</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Heatran has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 3 | 100 | 300 | Slow | N/A |
+| 3 Sp. Atk | 3 | 100 | 300 | Slow | N/A |
 
 ---
 

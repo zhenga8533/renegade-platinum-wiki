@@ -16,12 +16,6 @@ It chases down prey in a pack. It will never disobey the commands of a skilled T
 |-------|-------|------|-------|
 | ![Mightyena](../assets/sprites/mightyena/front.gif "Mightyena: It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.") | ![Mightyena](../assets/sprites/mightyena/front_shiny.png "Mightyena: It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.") | ![Mightyena](../assets/sprites/mightyena/back.png "Mightyena: It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.") | ![Mightyena](../assets/sprites/mightyena/back_shiny.png "Mightyena: It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #262 | ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.0 m /<br>3.3 ft | 37.0 kg /<br>81.6 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Boosts Speed if there is a status problem.">Quick Feet</span><br>3. <span class="tooltip" title="This Pokémon's Attack rises one stage upon knocking out another Pokémon, even a friendly Pokémon.  This ability does not take effect when the Pokémon indirectly causes another Pokémon to faint, e.g. through poison or spikes.  If this Pokémon knocks out a Pokémon with mummy, the former's ability will change without taking effect.">Moxie</span> | N/A |
+| #262 | ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.0 m /<br>3.3 ft | 37.0 kg /<br>81.6 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Boosts Speed if there is a status problem.">Quick Feet</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Mightyena has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 127 | 70 | 147 | Mediu |
+| 2 Atk | 127 | 70 | 147 | Mediu |
 
 ---
 

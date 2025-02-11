@@ -16,12 +16,6 @@ It flutters its wings to scatter dustlike scales. The scales leach toxins if the
 |-------|-------|------|-------|
 | ![Venomoth](../assets/sprites/venomoth/front.gif "Venomoth: It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.") | ![Venomoth](../assets/sprites/venomoth/front_shiny.png "Venomoth: It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.") | ![Venomoth](../assets/sprites/venomoth/back.png "Venomoth: It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.") | ![Venomoth](../assets/sprites/venomoth/back_shiny.png "Venomoth: It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #49 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.5 m /<br>4.9 ft | 12.5 kg /<br>27.6 lbs | 1. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br>2. <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span> | N/A |
+| #49 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.5 m /<br>4.9 ft | 12.5 kg /<br>27.6 lbs | 1. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br>2. <span class="tooltip" title="Blocks the added effects of attacks taken.">Shield Dust</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Venomoth has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>1 Speed | 75 | 70 | 158 | Medium | <span class="tooltip" title="A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle.">Shed Shell</span> (5%) |
+| 1 Sp. Atk<br>1 Spd | 75 | 70 | 158 | Medium | <span class="tooltip" title="A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle.">Shed Shell</span> (5%) |
 
 ---
 

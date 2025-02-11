@@ -16,12 +16,6 @@ It soars high in the sky, riding on updrafts like a glider. It carries food tuck
 |-------|-------|------|-------|
 | ![Wingull](../assets/sprites/wingull/front.gif "Wingull: It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.") | ![Wingull](../assets/sprites/wingull/front_shiny.png "Wingull: It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.") | ![Wingull](../assets/sprites/wingull/back.png "Wingull: It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.") | ![Wingull](../assets/sprites/wingull/back_shiny.png "Wingull: It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #278 | ![water](../assets/types/water.png "Water"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.6 m /<br>2.0 ft | 9.5 kg /<br>20.9 lbs | 1. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span><br>2. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span> | #119 |
+| #278 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.6 m /<br>2.0 ft | 9.5 kg /<br>20.9 lbs | 1. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span><br>2. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span> | #119 |
 
 ---
 
@@ -83,7 +77,7 @@ Wingull has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 50 | 54 | Mediu |
+| 1 Spd | 190 | 50 | 54 | Mediu |
 
 ---
 

@@ -16,12 +16,6 @@ Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by 
 |-------|-------|------|-------|
 | ![Venonat](../assets/sprites/venonat/front.gif "Venonat: Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.") | ![Venonat](../assets/sprites/venonat/front_shiny.png "Venonat: Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.") | ![Venonat](../assets/sprites/venonat/back.png "Venonat: Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.") | ![Venonat](../assets/sprites/venonat/back_shiny.png "Venonat: Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #48 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.0 m /<br>3.3 ft | 30.0 kg /<br>66.1 lbs | 1. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br>2. <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span> | N/A |
+| #48 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.0 m /<br>3.3 ft | 30.0 kg /<br>66.1 lbs | 1. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br>2. <span class="tooltip" title="The Pokémon’s accuracy is boosted.">Compound Eyes</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Venonat has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 190 | 70 | 61 | Medium | N/A |
+| 1 Sp. Def | 190 | 70 | 61 | Medium | N/A |
 
 ---
 

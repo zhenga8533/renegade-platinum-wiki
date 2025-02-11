@@ -16,12 +16,6 @@ It is very wary and rarely shows itself to people. Its ears can hear a pin drop 
 |-------|-------|------|-------|
 | ![Clefable](../assets/sprites/clefable/front.gif "Clefable: It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.") | ![Clefable](../assets/sprites/clefable/front_shiny.png "Clefable: It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.") | ![Clefable](../assets/sprites/clefable/back.png "Clefable: It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.") | ![Clefable](../assets/sprites/clefable/back_shiny.png "Clefable: It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #36 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.3 m /<br>4.3 ft | 40.0 kg /<br>88.2 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span><br>3. <span class="tooltip" title="Ignores any change in ability by the foe.">Unaware</span> | #101 |
+| #36 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 1.3 m /<br>4.3 ft | 40.0 kg /<br>88.2 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | #101 |
 
 ---
 
@@ -85,7 +79,7 @@ Clefable has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 25 | 140 | 242 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.">Moon Stone</span> (5%) |
+| 3 None | 25 | 140 | 242 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.">Moon Stone</span> (5%) |
 
 ---
 

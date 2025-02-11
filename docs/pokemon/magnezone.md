@@ -16,12 +16,6 @@ A group tried to use scientific means to make MAGNEZONE evolve, but their effort
 |-------|-------|------|-------|
 | ![Magnezone](../assets/sprites/magnezone/front.gif "Magnezone: A group tried to use scientific means to make MAGNEZONE evolve, but their efforts ended in failure.") | ![Magnezone](../assets/sprites/magnezone/front_shiny.png "Magnezone: A group tried to use scientific means to make MAGNEZONE evolve, but their efforts ended in failure.") | ![Magnezone](../assets/sprites/magnezone/back.png "Magnezone: A group tried to use scientific means to make MAGNEZONE evolve, but their efforts ended in failure.") | ![Magnezone](../assets/sprites/magnezone/back_shiny.png "Magnezone: A group tried to use scientific means to make MAGNEZONE evolve, but their efforts ended in failure.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #462 | ![electric](../assets/types/electric.png "Electric"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.2 m /<br>3.9 ft | 180.0 kg /<br>396.8 lbs | 1. <span class="tooltip" title="Prevents Steel-type Pokémon from escaping.">Magnet Pull</span><br>2. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span><br>3. <span class="tooltip" title="This Pokémon's moves have 1.3× their power when it moves last in a turn.  future sight and doom desire are unaffected.">Analytic</span> | N/A |
+| #462 | ![electric](../assets/types/electric.png "Electric"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.2 m /<br>3.9 ft | 180.0 kg /<br>396.8 lbs | 1. <span class="tooltip" title="Prevents Steel-type Pokémon from escaping.">Magnet Pull</span><br>2. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Magnezone has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 30 | 50 | 268 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
+| 3 Sp. Atk | 30 | 50 | 268 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
 
 ---
 

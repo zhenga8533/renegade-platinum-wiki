@@ -16,12 +16,6 @@ Its ears are always rolled up. They can be forcefully extended to shatter even a
 |-------|-------|------|-------|
 | ![Buneary](../assets/sprites/buneary/front.gif "Buneary: Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.") | ![Buneary](../assets/sprites/buneary/front_shiny.png "Buneary: Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.") | ![Buneary](../assets/sprites/buneary/back.png "Buneary: Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.") | ![Buneary](../assets/sprites/buneary/back_shiny.png "Buneary: Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Buneary has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 190 | 0 | 70 | Mediu |
+| 1 Spd | 190 | 0 | 70 | Mediu |
 
 ---
 

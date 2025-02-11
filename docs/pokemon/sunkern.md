@@ -16,12 +16,6 @@ It suddenly falls out of the sky in the morning. A year after a cold summer, the
 |-------|-------|------|-------|
 | ![Sunkern](../assets/sprites/sunkern/front.gif "Sunkern: It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.") | ![Sunkern](../assets/sprites/sunkern/front_shiny.png "Sunkern: It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.") | ![Sunkern](../assets/sprites/sunkern/back.png "Sunkern: It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.") | ![Sunkern](../assets/sprites/sunkern/back_shiny.png "Sunkern: It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #191 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.3 m /<br>1.0 ft | 1.8 kg /<br>4.0 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Boosts Sp. Atk, but lowers HP in sunshine.">Solar Power</span><br>3. <span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span> | N/A |
+| #191 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.3 m /<br>1.0 ft | 1.8 kg /<br>4.0 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="Boosts Sp. Atk, but lowers HP in sunshine.">Solar Power</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Sunkern has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 235 | 70 | 36 | Medium Slo |
+| 1 Sp. Atk | 235 | 70 | 36 | Medium Slo |
 
 ---
 

@@ -16,12 +16,6 @@ Its body is made of ice from the ice age. It controls frigid air of -328 degrees
 |-------|-------|------|-------|
 | ![Regice](../assets/sprites/regice/front.gif "Regice: Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.") | ![Regice](../assets/sprites/regice/front_shiny.png "Regice: Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.") | ![Regice](../assets/sprites/regice/back.png "Regice: Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.") | ![Regice](../assets/sprites/regice/back_shiny.png "Regice: Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -81,7 +75,7 @@ Regice has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 3 | 35 | 290 | Slow | N/A |
+| 3 Sp. Def | 3 | 35 | 290 | Slow | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ It is said that several SNORUNT gather under giant leaves and live together in h
 |-------|-------|------|-------|
 | ![Snorunt](../assets/sprites/snorunt/front.gif "Snorunt: It is said that several SNORUNT gather under giant leaves and live together in harmony.") | ![Snorunt](../assets/sprites/snorunt/front_shiny.png "Snorunt: It is said that several SNORUNT gather under giant leaves and live together in harmony.") | ![Snorunt](../assets/sprites/snorunt/back.png "Snorunt: It is said that several SNORUNT gather under giant leaves and live together in harmony.") | ![Snorunt](../assets/sprites/snorunt/back_shiny.png "Snorunt: It is said that several SNORUNT gather under giant leaves and live together in harmony.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #361 | ![ice](../assets/types/ice.png "Ice"){: width="48"} | 0.7 m /<br>2.3 ft | 16.8 kg /<br>37.0 lbs | 1. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span><br>2. <span class="tooltip" title="The Pokémon regains HP in a hailstorm.">Ice Body</span><br>3. <span class="tooltip" title="After each turn, one of this Pokémon's stats at random rises two stages, and another falls one stage.  If a stat is already at 6 or -6 stages, it will not be chosen to be increased or decreased, respectively.">Moody</span> | N/A |
+| #361 | ![ice](../assets/types/ice.png "Ice"){: width="48"} | 0.7 m /<br>2.3 ft | 16.8 kg /<br>37.0 lbs | 1. <span class="tooltip" title="The Pokémon is protected from flinching.">Inner Focus</span><br>2. <span class="tooltip" title="The Pokémon regains HP in a hailstorm.">Ice Body</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Snorunt has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 190 | 50 | 60 | Mediu |
+| 1 None | 190 | 50 | 60 | Mediu |
 
 ---
 

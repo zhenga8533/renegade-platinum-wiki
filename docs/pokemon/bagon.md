@@ -16,12 +16,6 @@ Dreaming of one day flying, it practices by leaping off cliffs every day.
 |-------|-------|------|-------|
 | ![Bagon](../assets/sprites/bagon/front.gif "Bagon: Dreaming of one day flying, it practices by leaping off cliffs every day.") | ![Bagon](../assets/sprites/bagon/front_shiny.png "Bagon: Dreaming of one day flying, it practices by leaping off cliffs every day.") | ![Bagon](../assets/sprites/bagon/back.png "Bagon: Dreaming of one day flying, it practices by leaping off cliffs every day.") | ![Bagon](../assets/sprites/bagon/back_shiny.png "Bagon: Dreaming of one day flying, it practices by leaping off cliffs every day.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Bagon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 45 | 35 | 60 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a hard and sharp fang that ups the power of Dragon-type moves.">Dragon Fang</span> (5%) |
+| 1 Atk | 45 | 35 | 60 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a hard and sharp fang that ups the power of Dragon-type moves.">Dragon Fang</span> (5%) |
 
 ---
 

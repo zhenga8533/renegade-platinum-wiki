@@ -16,12 +16,6 @@ Its feathers are in seven colors. It is said that anyone seeing it is promised e
 |-------|-------|------|-------|
 | ![Ho Oh](../assets/sprites/ho-oh/front.gif "Ho Oh: Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness.") | ![Ho Oh](../assets/sprites/ho-oh/front_shiny.png "Ho Oh: Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness.") | ![Ho Oh](../assets/sprites/ho-oh/back.png "Ho Oh: Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness.") | ![Ho Oh](../assets/sprites/ho-oh/back_shiny.png "Ho Oh: Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #250 | ![fire](../assets/types/fire.png "Fire"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 3.8 m /<br>12.5 ft | 199.0 kg /<br>438.7 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="This Pokémon regains 1/3 of its maximum HP when it is switched out for another Pokémon under any circumstances other than having fainted.  This ability does not take effect when a battle ends.">Regenerator</span> | N/A |
+| #250 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 3.8 m /<br>12.5 ft | 199.0 kg /<br>438.7 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="This Pokémon regains 1/3 of its maximum HP when it is switched out for another Pokémon under any circumstances other than having fainted.  This ability does not take effect when a battle ends.">Regenerator</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Ho Oh has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 3 | 0 | 340 | Slow | <span class="tooltip" title="It revives all fainted Pokémon. In doing so, it also fully restores their HP.">Sacred Ash</span> (5%) |
+| 3 Sp. Def | 3 | 0 | 340 | Slow | <span class="tooltip" title="It revives all fainted Pokémon. In doing so, it also fully restores their HP.">Sacred Ash</span> (5%) |
 
 ---
 

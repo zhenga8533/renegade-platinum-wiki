@@ -16,12 +16,6 @@ When it dangles from a tree branch, it looks just like an acorn. It enjoys scari
 |-------|-------|------|-------|
 | ![Seedot](../assets/sprites/seedot/front.gif "Seedot: When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.") | ![Seedot](../assets/sprites/seedot/front_shiny.png "Seedot: When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.") | ![Seedot](../assets/sprites/seedot/back.png "Seedot: When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.") | ![Seedot](../assets/sprites/seedot/back_shiny.png "Seedot: When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #273 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.5 m /<br>1.6 ft | 4.0 kg /<br>8.8 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span><br>3. <span class="tooltip" title="Whenever a move makes contact with this Pokémon, if it does not have a held item, it steals the attacker's held item.  This Pokémon cannot steal upon being knocked out.  It can steal if the attacker has a substitute, but cannot steal when its own Substitute is hit.  If a move hits multiple times, only the last hit triggers this ability.  If this Pokémon is wild, it cannot steal from a trained Pokémon.">Pickpocket</span> | N/A |
+| #273 | ![grass](../assets/types/grass.png "Grass"){: width="48"} | 0.5 m /<br>1.6 ft | 4.0 kg /<br>8.8 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Seedot has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 255 | 50 | 44 | Medium Slow | <span class="tooltip" title="A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges on the first turn.">Power Herb</span> (5%) |
+| 1 Def | 255 | 50 | 44 | Medium Slow | <span class="tooltip" title="A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges on the first turn.">Power Herb</span> (5%) |
 
 ---
 

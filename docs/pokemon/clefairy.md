@@ -16,12 +16,6 @@ It is said that happiness will come to those who see a gathering of CLEFAIRY dan
 |-------|-------|------|-------|
 | ![Clefairy](../assets/sprites/clefairy/front.gif "Clefairy: It is said that happiness will come to those who see a gathering of CLEFAIRY dancing under a full moon.") | ![Clefairy](../assets/sprites/clefairy/front_shiny.png "Clefairy: It is said that happiness will come to those who see a gathering of CLEFAIRY dancing under a full moon.") | ![Clefairy](../assets/sprites/clefairy/back.png "Clefairy: It is said that happiness will come to those who see a gathering of CLEFAIRY dancing under a full moon.") | ![Clefairy](../assets/sprites/clefairy/back_shiny.png "Clefairy: It is said that happiness will come to those who see a gathering of CLEFAIRY dancing under a full moon.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #35 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 7.5 kg /<br>16.5 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span><br>3. <span class="tooltip" title="All friendly Pokémon take 0.75× as much direct damage from moves while this Pokémon is in battle.  This effect stacks if multiple allied Pokémon have it.">Friend Guard</span> | #100 |
+| #35 | ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 7.5 kg /<br>16.5 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span><br>2. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span> | #100 |
 
 ---
 
@@ -85,7 +79,7 @@ Clefairy has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 150 | 140 | 113 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.">Moon Stone</span> (5%) |
+| 2 None | 150 | 140 | 113 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.">Moon Stone</span> (5%) |
 
 ---
 

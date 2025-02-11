@@ -16,12 +16,6 @@ At rest, it looks just like a rock. Carelessly stepping on it will make it swing
 |-------|-------|------|-------|
 | ![Geodude](../assets/sprites/geodude/front.gif "Geodude: At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.") | ![Geodude](../assets/sprites/geodude/front_shiny.png "Geodude: At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.") | ![Geodude](../assets/sprites/geodude/back.png "Geodude: At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.") | ![Geodude](../assets/sprites/geodude/back_shiny.png "Geodude: At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #74 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.4 m /<br>1.3 ft | 20.0 kg /<br>44.1 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span><br>3. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span> | #31 |
+| #74 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.4 m /<br>1.3 ft | 20.0 kg /<br>44.1 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span> | #31 |
 
 ---
 
@@ -85,7 +79,7 @@ Geodude has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 255 | 70 | 60 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.">Everstone</span> (5%) |
+| 1 Def | 255 | 70 | 60 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.">Everstone</span> (5%) |
 
 ---
 

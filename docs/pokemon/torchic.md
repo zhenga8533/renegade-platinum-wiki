@@ -20,7 +20,7 @@ A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,80
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Torchic](../assets/sprites/torchic/front_female.gif "Torchic: A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.") | ? | ![Torchic](../assets/sprites/torchic/back_female.png "Torchic: A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.") | ![Torchic](../assets/sprites/torchic/back_shiny_female.png "Torchic: A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.") |
+| ![Torchic](../assets/sprites/torchic/front_female.gif "Torchic: A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.") | N/A | ![Torchic](../assets/sprites/torchic/back_female.png "Torchic: A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.") | ![Torchic](../assets/sprites/torchic/back_shiny_female.png "Torchic: A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.") |
 
 ### Cries
 
@@ -85,7 +85,7 @@ Torchic has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 45 | 50 | 62 | Medium Slow | N/A |
+| 1 Sp. Atk | 45 | 50 | 62 | Medium Slow | N/A |
 
 ---
 

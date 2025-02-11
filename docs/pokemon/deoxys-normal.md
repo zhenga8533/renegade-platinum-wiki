@@ -16,12 +16,6 @@ An alien virus that fell to earth on a meteor underwent a DNA mutation to become
 |-------|-------|------|-------|
 | ![Deoxys Normal](../assets/sprites/deoxys-normal/front.gif "Deoxys Normal: An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.") | ![Deoxys Normal](../assets/sprites/deoxys-normal/front_shiny.png "Deoxys Normal: An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.") | ![Deoxys Normal](../assets/sprites/deoxys-normal/back.png "Deoxys Normal: An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.") | ![Deoxys Normal](../assets/sprites/deoxys-normal/back_shiny.png "Deoxys Normal: An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -94,7 +88,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Special Attack<br>1 Speed | 3 | 0 | 270 | Slow | N/A |
+| 1 Atk<br>1 Sp. Atk<br>1 Spd | 3 | 0 | 270 | Slow | N/A |
 
 ---
 

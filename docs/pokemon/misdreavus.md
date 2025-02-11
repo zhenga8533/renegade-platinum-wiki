@@ -16,12 +16,6 @@ A Pokémon that startles people in the middle of the night. It gathers fear as i
 |-------|-------|------|-------|
 | ![Misdreavus](../assets/sprites/misdreavus/front.gif "Misdreavus: A Pokémon that startles people in the middle of the night. It gathers fear as its energy.") | ![Misdreavus](../assets/sprites/misdreavus/front_shiny.png "Misdreavus: A Pokémon that startles people in the middle of the night. It gathers fear as its energy.") | ![Misdreavus](../assets/sprites/misdreavus/back.png "Misdreavus: A Pokémon that startles people in the middle of the night. It gathers fear as its energy.") | ![Misdreavus](../assets/sprites/misdreavus/back_shiny.png "Misdreavus: A Pokémon that startles people in the middle of the night. It gathers fear as its energy.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #200 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.7 m /<br>2.3 ft | 1.0 kg /<br>2.2 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | #72 |
+| #200 | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.7 m /<br>2.3 ft | 1.0 kg /<br>2.2 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | #72 |
 
 ---
 
@@ -83,7 +77,7 @@ Misdreavus has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 45 | 35 | 87 | Fas |
+| 1 Sp. Def | 45 | 35 | 87 | Fas |
 
 ---
 

@@ -16,12 +16,6 @@ Its cries sound like human speech. However, it is impossible to tell what it is 
 |-------|-------|------|-------|
 | ![Jynx](../assets/sprites/jynx/front.gif "Jynx: Its cries sound like human speech. However, it is impossible to tell what it is trying to say.") | ![Jynx](../assets/sprites/jynx/front_shiny.png "Jynx: Its cries sound like human speech. However, it is impossible to tell what it is trying to say.") | ![Jynx](../assets/sprites/jynx/back.png "Jynx: Its cries sound like human speech. However, it is impossible to tell what it is trying to say.") | ![Jynx](../assets/sprites/jynx/back_shiny.png "Jynx: Its cries sound like human speech. However, it is impossible to tell what it is trying to say.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #124 | ![ice](../assets/types/ice.png "Ice"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.4 m /<br>4.6 ft | 40.6 kg /<br>89.5 lbs | 1. <span class="tooltip" title="Reduces HP if it is hot. Water restores HP.">Dry Skin</span><br>2. <span class="tooltip" title="Determines what moves the foe has.">Forewarn</span> | N/A |
+| #124 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.4 m /<br>4.6 ft | 40.6 kg /<br>89.5 lbs | 1. <span class="tooltip" title="Reduces HP if it is hot. Water restores HP.">Dry Skin</span><br>2. <span class="tooltip" title="Determines what moves the foe has.">Forewarn</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Jynx has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 45 | 50 | 159 | Mediu |
+| 2 Sp. Atk | 45 | 50 | 159 | Mediu |
 
 ---
 

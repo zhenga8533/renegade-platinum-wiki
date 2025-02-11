@@ -16,12 +16,6 @@ While awaiting evolution, it hides from predators under leaves and in nooks of b
 |-------|-------|------|-------|
 | ![Kakuna](../assets/sprites/kakuna/front.gif "Kakuna: While awaiting evolution, it hides from predators under leaves and in nooks of branches.") | ![Kakuna](../assets/sprites/kakuna/front_shiny.png "Kakuna: While awaiting evolution, it hides from predators under leaves and in nooks of branches.") | ![Kakuna](../assets/sprites/kakuna/back.png "Kakuna: While awaiting evolution, it hides from predators under leaves and in nooks of branches.") | ![Kakuna](../assets/sprites/kakuna/back_shiny.png "Kakuna: While awaiting evolution, it hides from predators under leaves and in nooks of branches.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #14 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.6 m /<br>2.0 ft | 10.0 kg /<br>22.0 lbs | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br>2. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span> | N/A |
+| #14 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.6 m /<br>2.0 ft | 10.0 kg /<br>22.0 lbs | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span><br>2. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Kakuna has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 120 | 70 | 72 | Medium | N/A |
+| 2 Def | 120 | 70 | 72 | Medium | N/A |
 
 ---
 

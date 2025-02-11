@@ -16,12 +16,6 @@ It lives in warm seas. It is said that a couple finding this Pokémon will be bl
 |-------|-------|------|-------|
 | ![Luvdisc](../assets/sprites/luvdisc/front.gif "Luvdisc: It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.") | ![Luvdisc](../assets/sprites/luvdisc/front_shiny.png "Luvdisc: It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.") | ![Luvdisc](../assets/sprites/luvdisc/back.png "Luvdisc: It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.") | ![Luvdisc](../assets/sprites/luvdisc/back_shiny.png "Luvdisc: It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #370 | ![water](../assets/types/water.png "Water"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 8.7 kg /<br>19.2 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | N/A |
+| #370 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 8.7 kg /<br>19.2 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in rain.">Swift Swim</span><br>2. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Luvdisc has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 225 | 70 | 116 | Fast | <span class="tooltip" title="A pretty, heart-shaped scale that is extremely rare. It glows faintly in the colors of the rainbow.">Heart Scale</span> (50%) |
+| 1 Spd | 225 | 70 | 116 | Fast | <span class="tooltip" title="A pretty, heart-shaped scale that is extremely rare. It glows faintly in the colors of the rainbow.">Heart Scale</span> (50%) |
 
 ---
 

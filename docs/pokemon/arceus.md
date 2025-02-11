@@ -16,12 +16,6 @@ It is said to have emerged from an egg in a place where there was nothing, then 
 |-------|-------|------|-------|
 | ![Arceus](../assets/sprites/arceus/front.gif "Arceus: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus](../assets/sprites/arceus/front_shiny.png "Arceus: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus](../assets/sprites/arceus/back.png "Arceus: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus](../assets/sprites/arceus/back_shiny.png "Arceus: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Arceus Bug Sprites
 
 | Front | Shiny | Back | Shiny |
@@ -189,7 +183,7 @@ Arceus has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 3 | 0 | 324 | Slow | N/A |
+| 3 None | 3 | 0 | 324 | Slow | N/A |
 
 ---
 

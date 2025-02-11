@@ -16,12 +16,6 @@ A mushroom grown larger than the host’s body controls PARASECT. It scatters po
 |-------|-------|------|-------|
 | ![Parasect](../assets/sprites/parasect/front.gif "Parasect: A mushroom grown larger than the host’s body controls PARASECT. It scatters poisonous spores.") | ![Parasect](../assets/sprites/parasect/front_shiny.png "Parasect: A mushroom grown larger than the host’s body controls PARASECT. It scatters poisonous spores.") | ![Parasect](../assets/sprites/parasect/back.png "Parasect: A mushroom grown larger than the host’s body controls PARASECT. It scatters poisonous spores.") | ![Parasect](../assets/sprites/parasect/back_shiny.png "Parasect: A mushroom grown larger than the host’s body controls PARASECT. It scatters poisonous spores.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #47 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.0 m /<br>3.3 ft | 29.5 kg /<br>65.0 lbs | 1. <span class="tooltip" title="Contact may paralyze, poison, or cause sleep.">Effect Spore</span><br>2. <span class="tooltip" title="Reduces HP if it is hot. Water restores HP.">Dry Skin</span><br>3. <span class="tooltip" title="Prevents combatants from self destructing.">Damp</span> | N/A |
+| #47 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![grass](../assets/types/grass.png "Grass"){: width="48"} | 1.0 m /<br>3.3 ft | 29.5 kg /<br>65.0 lbs | 1. <span class="tooltip" title="Contact may paralyze, poison, or cause sleep.">Effect Spore</span><br>2. <span class="tooltip" title="Reduces HP if it is hot. Water restores HP.">Dry Skin</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Parasect has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack<br>1 Defense | 75 | 70 | 142 | Medium | <span class="tooltip" title="A small and rare mushroom. It is quite popular among certain maniacal fan segments.">Tiny Mushroom</span> (50%)<br><span class="tooltip" title="A large and rare mushroom. It is very popular among certain maniacal fan segments.">Big Mushroom</span> (5%) |
+| 2 Atk<br>1 Def | 75 | 70 | 142 | Medium | <span class="tooltip" title="A small and rare mushroom. It is quite popular among certain maniacal fan segments.">Tiny Mushroom</span> (50%)<br><span class="tooltip" title="A large and rare mushroom. It is very popular among certain maniacal fan segments.">Big Mushroom</span> (5%) |
 
 ---
 

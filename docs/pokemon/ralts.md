@@ -16,12 +16,6 @@ If its horns capture the warm feelings of people or Pokémon, its body warms up 
 |-------|-------|------|-------|
 | ![Ralts](../assets/sprites/ralts/front.gif "Ralts: If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.") | ![Ralts](../assets/sprites/ralts/front_shiny.png "Ralts: If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.") | ![Ralts](../assets/sprites/ralts/back.png "Ralts: If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.") | ![Ralts](../assets/sprites/ralts/back_shiny.png "Ralts: If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #280 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.4 m /<br>1.3 ft | 6.6 kg /<br>14.6 lbs | 1. <span class="tooltip" title="Passes on a burn, poison, or paralysis to the foe.">Synchronize</span><br>2. <span class="tooltip" title="The Pokémon copies the foe’s ability.">Trace</span><br>3. <span class="tooltip" title="This Pokémon does not take damage from friendly Pokémon's moves, including single-target moves aimed at it.">Telepathy</span> | N/A |
+| #280 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.4 m /<br>1.3 ft | 6.6 kg /<br>14.6 lbs | 1. <span class="tooltip" title="Passes on a burn, poison, or paralysis to the foe.">Synchronize</span><br>2. <span class="tooltip" title="The Pokémon copies the foe’s ability.">Trace</span> | N/A |
 
 ---
 
@@ -87,7 +81,7 @@ Ralts has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 235 | 35 | 40 | Slow | N/A |
+| 1 Sp. Atk | 235 | 35 | 40 | Slow | N/A |
 
 ---
 

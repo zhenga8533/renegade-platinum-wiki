@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #214 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.5 m /<br>4.9 ft | 54.0 kg /<br>119.0 lbs | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | #62 |
+| #214 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.5 m /<br>4.9 ft | 54.0 kg /<br>119.0 lbs | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | #62 |
 
 ---
 
@@ -81,7 +81,7 @@ Heracross has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 45 | 50 | 175 | Slow | N/A |
+| 2 Atk | 45 | 50 | 175 | Slow | N/A |
 
 ---
 

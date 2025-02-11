@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #308 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.3 m /<br>4.3 ft | 31.5 kg /<br>69.4 lbs | 1. <span class="tooltip" title="Boosts the power of physical attacks.">Pure Power</span><br>2. <span class="tooltip" title="This Pokémon does not take damage from friendly Pokémon's moves, including single-target moves aimed at it.">Telepathy</span> | #87 |
+| #308 | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.3 m /<br>4.3 ft | 31.5 kg /<br>69.4 lbs | 1. <span class="tooltip" title="Boosts the power of physical attacks.">Pure Power</span><br>2. <span class="tooltip" title="This Pokémon does not take damage from friendly Pokémon's moves, including single-target moves aimed at it.">Telepathy</span> | #87 |
 
 ---
 
@@ -83,7 +83,7 @@ Medicham has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 90 | 70 | 144 | Medium | N/A |
+| 2 Spd | 90 | 70 | 144 | Medium | N/A |
 
 ---
 

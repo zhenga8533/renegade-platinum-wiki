@@ -16,12 +16,6 @@ It lives deep in the sea. With a tail shaped like a small fish, it attracts unsu
 |-------|-------|------|-------|
 | ![Huntail](../assets/sprites/huntail/front.gif "Huntail: It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.") | ![Huntail](../assets/sprites/huntail/front_shiny.png "Huntail: It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.") | ![Huntail](../assets/sprites/huntail/back.png "Huntail: It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.") | ![Huntail](../assets/sprites/huntail/back_shiny.png "Huntail: It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Huntail has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Defense | 60 | 70 | 170 | Slow Then Very Fast | <span class="tooltip" title="An item to be held by CLAMPERL. A fang that gleams a sharp silver, it raises the Sp. Atk stat.">Deep Sea Tooth</span> (5%) |
+| 1 Atk<br>1 Def | 60 | 70 | 170 | Slow Then Very Fast | <span class="tooltip" title="An item to be held by CLAMPERL. A fang that gleams a sharp silver, it raises the Sp. Atk stat.">Deep Sea Tooth</span> (5%) |
 
 ---
 

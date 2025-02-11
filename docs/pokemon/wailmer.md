@@ -16,12 +16,6 @@ On sunny days, it lands on beaches to bounce like a ball and play. It spouts wat
 |-------|-------|------|-------|
 | ![Wailmer](../assets/sprites/wailmer/front.gif "Wailmer: On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.") | ![Wailmer](../assets/sprites/wailmer/front_shiny.png "Wailmer: On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.") | ![Wailmer](../assets/sprites/wailmer/back.png "Wailmer: On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.") | ![Wailmer](../assets/sprites/wailmer/back_shiny.png "Wailmer: On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #320 | ![water](../assets/types/water.png "Water"){: width="48"} | 2.0 m /<br>6.6 ft | 130.0 kg /<br>286.6 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from getting a burn.">Water Veil</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span><br>3. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span> | N/A |
+| #320 | ![water](../assets/types/water.png "Water"){: width="48"} | 2.0 m /<br>6.6 ft | 130.0 kg /<br>286.6 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from getting a burn.">Water Veil</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Wailmer has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 125 | 50 | 80 | Fast Then Very Slow | N/A |
+| 1 None | 125 | 50 | 80 | Fast Then Very Slow | N/A |
 
 ---
 

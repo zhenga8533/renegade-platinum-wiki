@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #317 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.7 m /<br>5.6 ft | 80.0 kg /<br>176.4 lbs | 1. <span class="tooltip" title="Inflicts damage on foes using any draining move.">Liquid Ooze</span><br>2. <span class="tooltip" title="Protects the Pokémon from item theft.">Sticky Hold</span><br>3. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | N/A |
+| #317 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.7 m /<br>5.6 ft | 80.0 kg /<br>176.4 lbs | 1. <span class="tooltip" title="Inflicts damage on foes using any draining move.">Liquid Ooze</span><br>2. <span class="tooltip" title="Protects the Pokémon from item theft.">Sticky Hold</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Swalot has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 75 | 70 | 163 | Fast Then Very Slow | <span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to heal the user by just 10 HP.">Oran Berry</span> (50%)<br><span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to heal the user’s HP a little.">Sitrus Berry</span> (5%) |
+| 2 None | 75 | 70 | 163 | Fast Then Very Slow | <span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to heal the user by just 10 HP.">Oran Berry</span> (50%)<br><span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to heal the user’s HP a little.">Sitrus Berry</span> (5%) |
 
 ---
 

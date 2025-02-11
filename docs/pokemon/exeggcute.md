@@ -16,12 +16,6 @@ Its six eggs converse using telepathy. They can quickly gather if they become se
 |-------|-------|------|-------|
 | ![Exeggcute](../assets/sprites/exeggcute/front.gif "Exeggcute: Its six eggs converse using telepathy. They can quickly gather if they become separated.") | ![Exeggcute](../assets/sprites/exeggcute/front_shiny.png "Exeggcute: Its six eggs converse using telepathy. They can quickly gather if they become separated.") | ![Exeggcute](../assets/sprites/exeggcute/back.png "Exeggcute: Its six eggs converse using telepathy. They can quickly gather if they become separated.") | ![Exeggcute](../assets/sprites/exeggcute/back_shiny.png "Exeggcute: Its six eggs converse using telepathy. They can quickly gather if they become separated.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #102 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.4 m /<br>1.3 ft | 2.5 kg /<br>5.5 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="After each turn, if the last item this Pokémon consumed was a Berry and it is not currently holding an item, it has a 50% chance of regaining that Berry, or a 100% chance during strong sunlight.">Harvest</span> | N/A |
+| #102 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.4 m /<br>1.3 ft | 2.5 kg /<br>5.5 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="After each turn, if the last item this Pokémon consumed was a Berry and it is not currently holding an item, it has a 50% chance of regaining that Berry, or a 100% chance during strong sunlight.">Harvest</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Exeggcute has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 90 | 50 | 65 | Slo |
+| 1 Def | 90 | 50 | 65 | Slo |
 
 ---
 

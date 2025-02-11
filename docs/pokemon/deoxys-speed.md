@@ -16,12 +16,6 @@ An alien virus that fell to earth on a meteor underwent a DNA mutation to become
 |-------|-------|------|-------|
 | ![Deoxys Speed](../assets/sprites/deoxys-speed/front.png "Deoxys Speed: An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.") | ![Deoxys Speed](../assets/sprites/deoxys-speed/front_shiny.png "Deoxys Speed: An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.") | ![Deoxys Speed](../assets/sprites/deoxys-speed/back.png "Deoxys Speed: An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.") | ![Deoxys Speed](../assets/sprites/deoxys-speed/back_shiny.png "Deoxys Speed: An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -94,7 +88,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Speed | 3 | 0 | 270 | Slow | N/A |
+| 3 Spd | 3 | 0 | 270 | Slow | N/A |
 
 ---
 

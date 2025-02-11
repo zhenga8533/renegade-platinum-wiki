@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #464 | ![ground](../assets/types/ground.png "Ground"){: width="48"} ![rock](../assets/types/rock.png "Rock"){: width="48"} | 2.4 m /<br>7.9 ft | 282.8 kg /<br>623.5 lbs | 1. <span class="tooltip" title="Powers down super­ effective moves.">Solid Rock</span><br>2. <span class="tooltip" title="Powers up moves that have recoil damage.">Reckless</span> | N/A |
+| #464 | ![ground](../assets/types/ground.png "Ground"){: width="48"}<br>![rock](../assets/types/rock.png "Rock"){: width="48"} | 2.4 m /<br>7.9 ft | 282.8 kg /<br>623.5 lbs | 1. <span class="tooltip" title="Powers down super­ effective moves.">Solid Rock</span><br>2. <span class="tooltip" title="Powers up moves that have recoil damage.">Reckless</span> | N/A |
 
 ---
 
@@ -85,7 +85,7 @@ Rhyperior has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 30 | 50 | 268 | Slow | N/A |
+| 3 Atk | 30 | 50 | 268 | Slow | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ The oil-filled end of its tail floats on water. It keeps MARILL from drowning ev
 |-------|-------|------|-------|
 | ![Marill](../assets/sprites/marill/front.gif "Marill: The oil-filled end of its tail floats on water. It keeps MARILL from drowning even in a strong current.") | ![Marill](../assets/sprites/marill/front_shiny.png "Marill: The oil-filled end of its tail floats on water. It keeps MARILL from drowning even in a strong current.") | ![Marill](../assets/sprites/marill/back.png "Marill: The oil-filled end of its tail floats on water. It keeps MARILL from drowning even in a strong current.") | ![Marill](../assets/sprites/marill/back_shiny.png "Marill: The oil-filled end of its tail floats on water. It keeps MARILL from drowning even in a strong current.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #183 | ![water](../assets/types/water.png "Water"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.4 m /<br>1.3 ft | 8.5 kg /<br>18.7 lbs | 1. <span class="tooltip" title="Raises the Pokémon’s Attack stat.">Huge Power</span><br>2. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span> | #125 |
+| #183 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.4 m /<br>1.3 ft | 8.5 kg /<br>18.7 lbs | 1. <span class="tooltip" title="Raises the Pokémon’s Attack stat.">Huge Power</span><br>2. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span> | #125 |
 
 ---
 
@@ -85,7 +79,7 @@ Marill has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 190 | 50 | 88 | Fast | N/A |
+| 2 None | 190 | 50 | 88 | Fast | N/A |
 
 ---
 

@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #217 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.8 m /<br>5.9 ft | 125.8 kg /<br>277.3 lbs | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Boosts Speed if there is a status problem.">Quick Feet</span><br>3. <span class="tooltip" title="Opposing Pokémon cannot eat held Berries while this Pokémon is in battle.  Affected Pokémon can still use bug bite or pluck to eat a target's Berry.">Unnerve</span> | N/A |
+| #217 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.8 m /<br>5.9 ft | 125.8 kg /<br>277.3 lbs | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Boosts Speed if there is a status problem.">Quick Feet</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Ursaring has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 60 | 70 | 175 | Mediu |
+| 2 Atk | 60 | 70 | 175 | Mediu |
 
 ---
 

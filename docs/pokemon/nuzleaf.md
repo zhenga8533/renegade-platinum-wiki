@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #274 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.0 m /<br>3.3 ft | 28.0 kg /<br>61.7 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span><br>3. <span class="tooltip" title="Whenever a move makes contact with this Pokémon, if it does not have a held item, it steals the attacker's held item.  This Pokémon cannot steal upon being knocked out.  It can steal if the attacker has a substitute, but cannot steal when its own Substitute is hit.  If a move hits multiple times, only the last hit triggers this ability.  If this Pokémon is wild, it cannot steal from a trained Pokémon.">Pickpocket</span> | N/A |
+| #274 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.0 m /<br>3.3 ft | 28.0 kg /<br>61.7 lbs | 1. <span class="tooltip" title="Boosts the Pokémon’s Speed in sunshine.">Chlorophyll</span><br>2. <span class="tooltip" title="The Pokémon awakens quickly from sleep.">Early Bird</span> | N/A |
 
 ---
 
@@ -85,7 +85,7 @@ Nuzleaf has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 120 | 50 | 119 | Medium Slow | <span class="tooltip" title="A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges on the first turn.">Power Herb</span> (5%) |
+| 2 Atk | 120 | 50 | 119 | Medium Slow | <span class="tooltip" title="A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges on the first turn.">Power Herb</span> (5%) |
 
 ---
 

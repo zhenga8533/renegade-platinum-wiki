@@ -16,12 +16,6 @@ It hides in the darkness of caves. Its diet of gems has transformed its eyes int
 |-------|-------|------|-------|
 | ![Sableye](../assets/sprites/sableye/front.gif "Sableye: It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.") | ![Sableye](../assets/sprites/sableye/front_shiny.png "Sableye: It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.") | ![Sableye](../assets/sprites/sableye/back.png "Sableye: It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.") | ![Sableye](../assets/sprites/sableye/back_shiny.png "Sableye: It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #302 | ![dark](../assets/types/dark.png "Dark"){: width="48"} ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 0.5 m /<br>1.6 ft | 11.0 kg /<br>24.3 lbs | 1. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span><br>2. <span class="tooltip" title="The Pokémon moves after even slower foes.">Stall</span> | N/A |
+| #302 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | 0.5 m /<br>1.6 ft | 11.0 kg /<br>24.3 lbs | 1. <span class="tooltip" title="The Pokémon only takes damage from attacks.">Magic Guard</span><br>2. <span class="tooltip" title="The Pokémon moves after even slower foes.">Stall</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Sableye has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Defense | 45 | 35 | 133 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a magnifying lens that slightly boosts the accuracy of moves.">Wide Lens</span> (5%) |
+| 1 Atk<br>1 Def | 45 | 35 | 133 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a magnifying lens that slightly boosts the accuracy of moves.">Wide Lens</span> (5%) |
 
 ---
 

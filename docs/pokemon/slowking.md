@@ -16,12 +16,6 @@ Being bitten by SHELLDER gave it intelligence comparable to that of award-winnin
 |-------|-------|------|-------|
 | ![Slowking](../assets/sprites/slowking/front.gif "Slowking: Being bitten by SHELLDER gave it intelligence comparable to that of award-winning scientists.") | ![Slowking](../assets/sprites/slowking/front_shiny.png "Slowking: Being bitten by SHELLDER gave it intelligence comparable to that of award-winning scientists.") | ![Slowking](../assets/sprites/slowking/back.png "Slowking: Being bitten by SHELLDER gave it intelligence comparable to that of award-winning scientists.") | ![Slowking](../assets/sprites/slowking/back_shiny.png "Slowking: Being bitten by SHELLDER gave it intelligence comparable to that of award-winning scientists.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #199 | ![water](../assets/types/water.png "Water"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 2.0 m /<br>6.6 ft | 79.5 kg /<br>175.3 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>3. <span class="tooltip" title="This Pokémon regains 1/3 of its maximum HP when it is switched out for another Pokémon under any circumstances other than having fainted.  This ability does not take effect when a battle ends.">Regenerator</span> | N/A |
+| #199 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 2.0 m /<br>6.6 ft | 79.5 kg /<br>175.3 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Slowking has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 70 | 50 | 172 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It may cause the foe to flinch when the holder inflicts damage.">Kings Rock</span> (5%) |
+| 2 Sp. Def | 70 | 50 | 172 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It may cause the foe to flinch when the holder inflicts damage.">Kings Rock</span> (5%) |
 
 ---
 

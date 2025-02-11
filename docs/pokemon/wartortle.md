@@ -16,12 +16,6 @@ It is said to live 10,000 years. Its furry tail is popular as a symbol of longev
 |-------|-------|------|-------|
 | ![Wartortle](../assets/sprites/wartortle/front.gif "Wartortle: It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.") | ![Wartortle](../assets/sprites/wartortle/front_shiny.png "Wartortle: It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.") | ![Wartortle](../assets/sprites/wartortle/back.png "Wartortle: It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.") | ![Wartortle](../assets/sprites/wartortle/back_shiny.png "Wartortle: It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Wartortle has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense<br>1 Special Defense | 45 | 50 | 142 | Medium Slow | N/A |
+| 1 Def<br>1 Sp. Def | 45 | 50 | 142 | Medium Slow | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bull
 |-------|-------|------|-------|
 | ![Sharpedo](../assets/sprites/sharpedo/front.gif "Sharpedo: Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”") | ![Sharpedo](../assets/sprites/sharpedo/front_shiny.png "Sharpedo: Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”") | ![Sharpedo](../assets/sprites/sharpedo/back.png "Sharpedo: Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”") | ![Sharpedo](../assets/sprites/sharpedo/back_shiny.png "Sharpedo: Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #319 | ![water](../assets/types/water.png "Water"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.8 m /<br>5.9 ft | 88.8 kg /<br>195.8 lbs | 1. <span class="tooltip" title="The Pokémon’s Speed stat is gradually boosted.">Speed Boost</span><br>2. <span class="tooltip" title="Inflicts damage to the foe on contact.">Rough Skin</span> | N/A |
+| #319 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.8 m /<br>5.9 ft | 88.8 kg /<br>195.8 lbs | 1. <span class="tooltip" title="The Pokémon’s Speed stat is gradually boosted.">Speed Boost</span><br>2. <span class="tooltip" title="Inflicts damage to the foe on contact.">Rough Skin</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Sharpedo has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 60 | 35 | 161 | Slow | <span class="tooltip" title="An item to be held by CLAMPERL. A fang that gleams a sharp silver, it raises the Sp. Atk stat.">Deep Sea Tooth</span> (5%) |
+| 2 Atk | 60 | 35 | 161 | Slow | <span class="tooltip" title="An item to be held by CLAMPERL. A fang that gleams a sharp silver, it raises the Sp. Atk stat.">Deep Sea Tooth</span> (5%) |
 
 ---
 

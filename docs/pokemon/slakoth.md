@@ -16,12 +16,6 @@ It spends nearly all its time in a day sprawled out. Just seeing it makes one dr
 |-------|-------|------|-------|
 | ![Slakoth](../assets/sprites/slakoth/front.gif "Slakoth: It spends nearly all its time in a day sprawled out. Just seeing it makes one drowsy.") | ![Slakoth](../assets/sprites/slakoth/front_shiny.png "Slakoth: It spends nearly all its time in a day sprawled out. Just seeing it makes one drowsy.") | ![Slakoth](../assets/sprites/slakoth/back.png "Slakoth: It spends nearly all its time in a day sprawled out. Just seeing it makes one drowsy.") | ![Slakoth](../assets/sprites/slakoth/back_shiny.png "Slakoth: It spends nearly all its time in a day sprawled out. Just seeing it makes one drowsy.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Slakoth has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 255 | 70 | 56 | Slow | N/A |
+| 1 None | 255 | 70 | 56 | Slow | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ A Pokémon created by recombining MEW’s genes. It’s said to have the most sa
 |-------|-------|------|-------|
 | ![Mewtwo](../assets/sprites/mewtwo/front.gif "Mewtwo: A Pokémon created by recombining MEW’s genes. It’s said to have the most savage heart among Pokémon.") | ![Mewtwo](../assets/sprites/mewtwo/front_shiny.png "Mewtwo: A Pokémon created by recombining MEW’s genes. It’s said to have the most savage heart among Pokémon.") | ![Mewtwo](../assets/sprites/mewtwo/back.png "Mewtwo: A Pokémon created by recombining MEW’s genes. It’s said to have the most savage heart among Pokémon.") | ![Mewtwo](../assets/sprites/mewtwo/back_shiny.png "Mewtwo: A Pokémon created by recombining MEW’s genes. It’s said to have the most savage heart among Pokémon.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -81,7 +75,7 @@ Mewtwo has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 3 | 0 | 340 | Slow | N/A |
+| 3 Sp. Atk | 3 | 0 | 340 | Slow | N/A |
 
 ---
 

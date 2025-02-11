@@ -16,12 +16,6 @@ When its belly is full, it becomes too lethargic to even lift a finger, so it is
 |-------|-------|------|-------|
 | ![Snorlax](../assets/sprites/snorlax/front.gif "Snorlax: When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.") | ![Snorlax](../assets/sprites/snorlax/front_shiny.png "Snorlax: When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.") | ![Snorlax](../assets/sprites/snorlax/back.png "Snorlax: When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.") | ![Snorlax](../assets/sprites/snorlax/back_shiny.png "Snorlax: When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Snorlax has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 25 | 50 | 189 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. The holder’s HP is gradually restored during battle.">Leftovers</span> (5%) |
+| 2 None | 25 | 50 | 189 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. The holder’s HP is gradually restored during battle.">Leftovers</span> (5%) |
 
 ---
 

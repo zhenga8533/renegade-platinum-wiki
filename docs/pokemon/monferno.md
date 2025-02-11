@@ -16,12 +16,6 @@ It skillfully controls the intensity of the fire on its tail to keep its foes at
 |-------|-------|------|-------|
 | ![Monferno](../assets/sprites/monferno/front.gif "Monferno: It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.") | ![Monferno](../assets/sprites/monferno/front_shiny.png "Monferno: It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.") | ![Monferno](../assets/sprites/monferno/back.png "Monferno: It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.") | ![Monferno](../assets/sprites/monferno/back_shiny.png "Monferno: It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #391 | ![fire](../assets/types/fire.png "Fire"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.9 m /<br>3.0 ft | 22.0 kg /<br>48.5 lbs | 1. <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span><br>2. <span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span> | #5 |
+| #391 | ![fire](../assets/types/fire.png "Fire"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 0.9 m /<br>3.0 ft | 22.0 kg /<br>48.5 lbs | 1. <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span><br>2. <span class="tooltip" title="Powers up Fire-type moves in a pinch.">Blaze</span> | #5 |
 
 ---
 
@@ -85,7 +79,7 @@ Monferno has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>1 Speed | 45 | 70 | 142 | Medium Slow | N/A |
+| 1 Sp. Atk<br>1 Spd | 45 | 70 | 142 | Medium Slow | N/A |
 
 ---
 

@@ -16,12 +16,6 @@ It discharges positive and negative electricity from its antenna tips to shock i
 |-------|-------|------|-------|
 | ![Chinchou](../assets/sprites/chinchou/front.gif "Chinchou: It discharges positive and negative electricity from its antenna tips to shock its foes.") | ![Chinchou](../assets/sprites/chinchou/front_shiny.png "Chinchou: It discharges positive and negative electricity from its antenna tips to shock its foes.") | ![Chinchou](../assets/sprites/chinchou/back.png "Chinchou: It discharges positive and negative electricity from its antenna tips to shock its foes.") | ![Chinchou](../assets/sprites/chinchou/back_shiny.png "Chinchou: It discharges positive and negative electricity from its antenna tips to shock its foes.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #170 | ![water](../assets/types/water.png "Water"){: width="48"} ![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.5 m /<br>1.6 ft | 12.0 kg /<br>26.5 lbs | 1. <span class="tooltip" title="Restores HP if hit by an Electric-type move.">Volt Absorb</span><br>2. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span> | N/A |
+| #170 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![electric](../assets/types/electric.png "Electric"){: width="48"} | 0.5 m /<br>1.6 ft | 12.0 kg /<br>26.5 lbs | 1. <span class="tooltip" title="Restores HP if hit by an Electric-type move.">Volt Absorb</span><br>2. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Chinchou has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 190 | 50 | 66 | Slow | <span class="tooltip" title="An item to be held by CLAMPERL. A scale that shines a faint pink, it raises the Sp. Def stat.">Deep Sea Scale</span> (5%) |
+| 1 None | 190 | 50 | 66 | Slow | <span class="tooltip" title="An item to be held by CLAMPERL. A scale that shines a faint pink, it raises the Sp. Def stat.">Deep Sea Scale</span> (5%) |
 
 ---
 

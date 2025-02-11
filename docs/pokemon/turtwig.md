@@ -16,12 +16,6 @@ The shell on its back is made of soil. On a very healthy TURTWIG, the shell shou
 |-------|-------|------|-------|
 | ![Turtwig](../assets/sprites/turtwig/front.gif "Turtwig: The shell on its back is made of soil. On a very healthy TURTWIG, the shell should feel moist.") | ![Turtwig](../assets/sprites/turtwig/front_shiny.png "Turtwig: The shell on its back is made of soil. On a very healthy TURTWIG, the shell should feel moist.") | ![Turtwig](../assets/sprites/turtwig/back.png "Turtwig: The shell on its back is made of soil. On a very healthy TURTWIG, the shell should feel moist.") | ![Turtwig](../assets/sprites/turtwig/back_shiny.png "Turtwig: The shell on its back is made of soil. On a very healthy TURTWIG, the shell should feel moist.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Turtwig has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 45 | 70 | 64 | Medium Slow | N/A |
+| 1 Atk | 45 | 70 | 64 | Medium Slow | N/A |
 
 ---
 

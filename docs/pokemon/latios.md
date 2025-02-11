@@ -16,12 +16,6 @@ A highly intelligent Pokémon. By folding back its wings in flight, it can overt
 |-------|-------|------|-------|
 | ![Latios](../assets/sprites/latios/front.gif "Latios: A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.") | ![Latios](../assets/sprites/latios/front_shiny.png "Latios: A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.") | ![Latios](../assets/sprites/latios/back.png "Latios: A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.") | ![Latios](../assets/sprites/latios/back_shiny.png "Latios: A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #381 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 2.0 m /<br>6.6 ft | 60.0 kg /<br>132.3 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
+| #381 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 2.0 m /<br>6.6 ft | 60.0 kg /<br>132.3 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Latios has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 3 | 90 | 300 | Slow | N/A |
+| 3 Sp. Atk | 3 | 90 | 300 | Slow | N/A |
 
 ---
 

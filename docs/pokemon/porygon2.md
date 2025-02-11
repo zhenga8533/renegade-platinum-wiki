@@ -16,12 +16,6 @@ It was upgraded to enable the exploration of other planets. However, it failed t
 |-------|-------|------|-------|
 | ![Porygon2](../assets/sprites/porygon2/front.gif "Porygon2: It was upgraded to enable the exploration of other planets. However, it failed to measure up.") | ![Porygon2](../assets/sprites/porygon2/front_shiny.png "Porygon2: It was upgraded to enable the exploration of other planets. However, it failed to measure up.") | ![Porygon2](../assets/sprites/porygon2/back.png "Porygon2: It was upgraded to enable the exploration of other planets. However, it failed to measure up.") | ![Porygon2](../assets/sprites/porygon2/back_shiny.png "Porygon2: It was upgraded to enable the exploration of other planets. However, it failed to measure up.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #233 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.6 m /<br>2.0 ft | 32.5 kg /<br>71.7 lbs | 1. <span class="tooltip" title="The Pokémon copies the foe’s ability.">Trace</span><br>2. <span class="tooltip" title="Adjusts power according to the foe’s ability.">Download</span><br>3. <span class="tooltip" title="This Pokémon's moves have 1.3× their power when it moves last in a turn.  future sight and doom desire are unaffected.">Analytic</span> | N/A |
+| #233 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.6 m /<br>2.0 ft | 32.5 kg /<br>71.7 lbs | 1. <span class="tooltip" title="The Pokémon copies the foe’s ability.">Trace</span><br>2. <span class="tooltip" title="Adjusts power according to the foe’s ability.">Download</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Porygon2 has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 45 | 50 | 180 | Mediu |
+| 2 Sp. Atk | 45 | 50 | 180 | Mediu |
 
 ---
 

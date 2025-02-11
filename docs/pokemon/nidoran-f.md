@@ -16,12 +16,6 @@ While it does not prefer to fight, even one drop of the poison it secretes from 
 |-------|-------|------|-------|
 | ![Nidoran F](../assets/sprites/nidoran-f/front.gif "Nidoran F: While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.") | ![Nidoran F](../assets/sprites/nidoran-f/front_shiny.png "Nidoran F: While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.") | ![Nidoran F](../assets/sprites/nidoran-f/back.png "Nidoran F: While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.") | ![Nidoran F](../assets/sprites/nidoran-f/back_shiny.png "Nidoran F: While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #29 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.4 m /<br>1.3 ft | 7.0 kg /<br>15.4 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may poison the foe.">Poison Point</span><br>2. <span class="tooltip" title="Raises Attack if the foe is of the same gender.">Rivalry</span><br>3. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span> | N/A |
+| #29 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.4 m /<br>1.3 ft | 7.0 kg /<br>15.4 lbs | 1. <span class="tooltip" title="Contact with the Pokémon may poison the foe.">Poison Point</span><br>2. <span class="tooltip" title="Raises Attack if the foe is of the same gender.">Rivalry</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Nidoran F has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 235 | 50 | 55 | Medium Slow | N/A |
+| 1 None | 235 | 50 | 55 | Medium Slow | N/A |
 
 ---
 

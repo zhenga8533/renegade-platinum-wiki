@@ -16,12 +16,6 @@ Its best attack involves flying around at high speed, striking with poison needl
 |-------|-------|------|-------|
 | ![Beedrill](../assets/sprites/beedrill/front.gif "Beedrill: Its best attack involves flying around at high speed, striking with poison needles, then flying off.") | ![Beedrill](../assets/sprites/beedrill/front_shiny.png "Beedrill: Its best attack involves flying around at high speed, striking with poison needles, then flying off.") | ![Beedrill](../assets/sprites/beedrill/back.png "Beedrill: Its best attack involves flying around at high speed, striking with poison needles, then flying off.") | ![Beedrill](../assets/sprites/beedrill/back_shiny.png "Beedrill: Its best attack involves flying around at high speed, striking with poison needles, then flying off.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #15 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.0 m /<br>3.3 ft | 29.5 kg /<br>65.0 lbs | 1. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span><br>2. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | N/A |
+| #15 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 1.0 m /<br>3.3 ft | 29.5 kg /<br>65.0 lbs | 1. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span><br>2. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Beedrill has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack<br>1 Special Defense | 45 | 70 | 178 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
+| 2 Atk<br>1 Sp. Def | 45 | 70 | 178 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves.">Poison Barb</span> (5%) |
 
 ---
 

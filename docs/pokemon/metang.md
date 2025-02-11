@@ -16,12 +16,6 @@ It is formed by two BELDUM joining together. Its steel body won’t be scratched
 |-------|-------|------|-------|
 | ![Metang](../assets/sprites/metang/front.gif "Metang: It is formed by two BELDUM joining together. Its steel body won’t be scratched if it collides with a jet.") | ![Metang](../assets/sprites/metang/front_shiny.png "Metang: It is formed by two BELDUM joining together. Its steel body won’t be scratched if it collides with a jet.") | ![Metang](../assets/sprites/metang/back.png "Metang: It is formed by two BELDUM joining together. Its steel body won’t be scratched if it collides with a jet.") | ![Metang](../assets/sprites/metang/back_shiny.png "Metang: It is formed by two BELDUM joining together. Its steel body won’t be scratched if it collides with a jet.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #375 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.2 m /<br>3.9 ft | 202.5 kg /<br>446.4 lbs | 1. <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span><br>2. <span class="tooltip" title="Prevents the Pokémon’s stats from being lowered.">Clear Body</span> | N/A |
+| #375 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.2 m /<br>3.9 ft | 202.5 kg /<br>446.4 lbs | 1. <span class="tooltip" title="Boosts the power of punching moves.">Iron Fist</span><br>2. <span class="tooltip" title="Prevents the Pokémon’s stats from being lowered.">Clear Body</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Metang has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 3 | 35 | 147 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
+| 2 Def | 3 | 35 | 147 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
 
 ---
 

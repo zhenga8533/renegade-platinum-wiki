@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #350 | ![water](../assets/types/water.png "Water"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 6.2 m /<br>20.3 ft | 162.0 kg /<br>357.1 lbs | 1. <span class="tooltip" title="Boosts Defense if there is a status problem.">Marvel Scale</span><br>2. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span> | #139 |
+| #350 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 6.2 m /<br>20.3 ft | 162.0 kg /<br>357.1 lbs | 1. <span class="tooltip" title="Boosts Defense if there is a status problem.">Marvel Scale</span><br>2. <span class="tooltip" title="Contact with the Pokémon may cause infatuation.">Cute Charm</span> | #139 |
 
 ---
 
@@ -83,7 +83,7 @@ Milotic has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 60 | 50 | 189 | Slow Then Very Fast | N/A |
+| 2 Sp. Def | 60 | 50 | 189 | Slow Then Very Fast | N/A |
 
 ---
 

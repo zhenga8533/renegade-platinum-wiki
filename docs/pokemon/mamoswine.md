@@ -20,7 +20,7 @@ A frozen one was dug up from soil dating back 10,000 years. It woke up to much a
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Mamoswine](../assets/sprites/mamoswine/front_female.gif "Mamoswine: A frozen one was dug up from soil dating back 10,000 years. It woke up to much amazement.") | ![Mamoswine](../assets/sprites/mamoswine/front_shiny_female.png "Mamoswine: A frozen one was dug up from soil dating back 10,000 years. It woke up to much amazement.") | ? | ? |
+| ![Mamoswine](../assets/sprites/mamoswine/front_female.gif "Mamoswine: A frozen one was dug up from soil dating back 10,000 years. It woke up to much amazement.") | ![Mamoswine](../assets/sprites/mamoswine/front_shiny_female.png "Mamoswine: A frozen one was dug up from soil dating back 10,000 years. It woke up to much amazement.") | N/A | N/A |
 
 ### Cries
 
@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #473 | ![ice](../assets/types/ice.png "Ice"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 2.5 m /<br>8.2 ft | 291.0 kg /<br>641.5 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span> | N/A |
+| #473 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 2.5 m /<br>8.2 ft | 291.0 kg /<br>641.5 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span> | N/A |
 
 ---
 
@@ -85,7 +85,7 @@ Mamoswine has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 50 | 50 | 265 | Slow | N/A |
+| 3 Atk | 50 | 50 | 265 | Slow | N/A |
 
 ---
 

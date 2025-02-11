@@ -16,12 +16,6 @@ It shatters ice with its big tusks. Its thick blubber repels not only the cold, 
 |-------|-------|------|-------|
 | ![Walrein](../assets/sprites/walrein/front.gif "Walrein: It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.") | ![Walrein](../assets/sprites/walrein/front_shiny.png "Walrein: It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.") | ![Walrein](../assets/sprites/walrein/back.png "Walrein: It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.") | ![Walrein](../assets/sprites/walrein/back_shiny.png "Walrein: It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #365 | ![ice](../assets/types/ice.png "Ice"){: width="48"} ![water](../assets/types/water.png "Water"){: width="48"} | 1.4 m /<br>4.6 ft | 150.6 kg /<br>332.0 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="The Pokémon regains HP in a hailstorm.">Ice Body</span><br>3. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span> | N/A |
+| #365 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 1.4 m /<br>4.6 ft | 150.6 kg /<br>332.0 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="The Pokémon regains HP in a hailstorm.">Ice Body</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Walrein has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 45 | 50 | 265 | Medium Slow | N/A |
+| 3 None | 45 | 50 | 265 | Medium Slow | N/A |
 
 ---
 

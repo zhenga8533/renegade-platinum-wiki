@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #443 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 20.5 kg /<br>45.2 lbs | 1. <span class="tooltip" title="Inflicts damage to the foe on contact.">Rough Skin</span><br>2. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span> | #109 |
+| #443 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 20.5 kg /<br>45.2 lbs | 1. <span class="tooltip" title="Inflicts damage to the foe on contact.">Rough Skin</span><br>2. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span> | #109 |
 
 ---
 
@@ -85,7 +85,7 @@ Gible has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 45 | 50 | 60 | Slo |
+| 1 Atk | 45 | 50 | 60 | Slo |
 
 ---
 

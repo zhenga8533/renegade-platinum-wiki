@@ -16,12 +16,6 @@ It burns coal inside its shell for energy. It blows out black soot if it is enda
 |-------|-------|------|-------|
 | ![Torkoal](../assets/sprites/torkoal/front.gif "Torkoal: It burns coal inside its shell for energy. It blows out black soot if it is endangered.") | ![Torkoal](../assets/sprites/torkoal/front_shiny.png "Torkoal: It burns coal inside its shell for energy. It blows out black soot if it is endangered.") | ![Torkoal](../assets/sprites/torkoal/back.png "Torkoal: It burns coal inside its shell for energy. It blows out black soot if it is endangered.") | ![Torkoal](../assets/sprites/torkoal/back_shiny.png "Torkoal: It burns coal inside its shell for energy. It blows out black soot if it is endangered.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #324 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.5 m /<br>1.6 ft | 80.4 kg /<br>177.3 lbs | 1. <span class="tooltip" title="Prevents the Pokémon’s stats from being lowered.">White Smoke</span><br>2. <span class="tooltip" title="The Pokémon makes it sunny if it is in battle.">Drought</span><br>3. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span> | N/A |
+| #324 | ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.5 m /<br>1.6 ft | 80.4 kg /<br>177.3 lbs | 1. <span class="tooltip" title="Prevents the Pokémon’s stats from being lowered.">White Smoke</span><br>2. <span class="tooltip" title="The Pokémon makes it sunny if it is in battle.">Drought</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Torkoal has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 90 | 50 | 165 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.">Charcoal</span> (5%) |
+| 2 Def | 90 | 50 | 165 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves.">Charcoal</span> (5%) |
 
 ---
 

@@ -16,12 +16,6 @@ It forcefully squirts water. The water jet never misses prey even if the REMORAI
 |-------|-------|------|-------|
 | ![Remoraid](../assets/sprites/remoraid/front.gif "Remoraid: It forcefully squirts water. The water jet never misses prey even if the REMORAID is deep in the sea.") | ![Remoraid](../assets/sprites/remoraid/front_shiny.png "Remoraid: It forcefully squirts water. The water jet never misses prey even if the REMORAID is deep in the sea.") | ![Remoraid](../assets/sprites/remoraid/back.png "Remoraid: It forcefully squirts water. The water jet never misses prey even if the REMORAID is deep in the sea.") | ![Remoraid](../assets/sprites/remoraid/back_shiny.png "Remoraid: It forcefully squirts water. The water jet never misses prey even if the REMORAID is deep in the sea.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #223 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.6 m /<br>2.0 ft | 12.0 kg /<br>26.5 lbs | 1. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span><br>2. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span><br>3. <span class="tooltip" title="After each turn, one of this Pokémon's stats at random rises two stages, and another falls one stage.  If a stat is already at 6 or -6 stages, it will not be chosen to be increased or decreased, respectively.">Moody</span> | #132 |
+| #223 | ![water](../assets/types/water.png "Water"){: width="48"} | 0.6 m /<br>2.0 ft | 12.0 kg /<br>26.5 lbs | 1. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span><br>2. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | #132 |
 
 ---
 
@@ -83,7 +77,7 @@ Remoraid has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 190 | 50 | 60 | Medium | N/A |
+| 1 Sp. Atk | 190 | 50 | 60 | Medium | N/A |
 
 ---
 

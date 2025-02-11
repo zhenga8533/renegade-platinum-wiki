@@ -16,12 +16,6 @@ As a result of its long-held dream of flying, its cellular structure changed, an
 |-------|-------|------|-------|
 | ![Salamence](../assets/sprites/salamence/front.gif "Salamence: As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.") | ![Salamence](../assets/sprites/salamence/front_shiny.png "Salamence: As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.") | ![Salamence](../assets/sprites/salamence/back.png "Salamence: As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.") | ![Salamence](../assets/sprites/salamence/back_shiny.png "Salamence: As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #373 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 102.6 kg /<br>226.2 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="This Pokémon's Attack rises one stage upon knocking out another Pokémon, even a friendly Pokémon.  This ability does not take effect when the Pokémon indirectly causes another Pokémon to faint, e.g. through poison or spikes.  If this Pokémon knocks out a Pokémon with mummy, the former's ability will change without taking effect.">Moxie</span> | N/A |
+| #373 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.5 m /<br>4.9 ft | 102.6 kg /<br>226.2 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="This Pokémon's Attack rises one stage upon knocking out another Pokémon, even a friendly Pokémon.  This ability does not take effect when the Pokémon indirectly causes another Pokémon to faint, e.g. through poison or spikes.  If this Pokémon knocks out a Pokémon with mummy, the former's ability will change without taking effect.">Moxie</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Salamence has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 35 | 300 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a hard and sharp fang that ups the power of Dragon-type moves.">Dragon Fang</span> (5%) |
+| 3 Atk | 45 | 35 | 300 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a hard and sharp fang that ups the power of Dragon-type moves.">Dragon Fang</span> (5%) |
 
 ---
 

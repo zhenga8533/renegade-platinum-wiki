@@ -16,12 +16,6 @@ Because it moves so quickly, it sometimes becomes unseeable. It congregates arou
 |-------|-------|------|-------|
 | ![Ninjask](../assets/sprites/ninjask/front.gif "Ninjask: Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.") | ![Ninjask](../assets/sprites/ninjask/front_shiny.png "Ninjask: Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.") | ![Ninjask](../assets/sprites/ninjask/back.png "Ninjask: Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.") | ![Ninjask](../assets/sprites/ninjask/back_shiny.png "Ninjask: Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #291 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.8 m /<br>2.6 ft | 12.0 kg /<br>26.5 lbs | 1. <span class="tooltip" title="The Pokémon’s Speed stat is gradually boosted.">Speed Boost</span><br>2. <span class="tooltip" title="This Pokémon's moves ignore light screen, reflect, and safeguard.">Infiltrator</span> | N/A |
+| #291 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.8 m /<br>2.6 ft | 12.0 kg /<br>26.5 lbs | 1. <span class="tooltip" title="The Pokémon’s Speed stat is gradually boosted.">Speed Boost</span><br>2. <span class="tooltip" title="This Pokémon's moves ignore light screen, reflect, and safeguard.">Infiltrator</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Ninjask has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 120 | 50 | 160 | Slow Then Very Fast | N/A |
+| 2 Spd | 120 | 50 | 160 | Slow Then Very Fast | N/A |
 
 ---
 

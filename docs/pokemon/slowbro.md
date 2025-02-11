@@ -16,12 +16,6 @@ Though usually dim witted, it seems to become inspired if the SHELLDER on its ta
 |-------|-------|------|-------|
 | ![Slowbro](../assets/sprites/slowbro/front.gif "Slowbro: Though usually dim witted, it seems to become inspired if the SHELLDER on its tail bites down.") | ![Slowbro](../assets/sprites/slowbro/front_shiny.png "Slowbro: Though usually dim witted, it seems to become inspired if the SHELLDER on its tail bites down.") | ![Slowbro](../assets/sprites/slowbro/back.png "Slowbro: Though usually dim witted, it seems to become inspired if the SHELLDER on its tail bites down.") | ![Slowbro](../assets/sprites/slowbro/back_shiny.png "Slowbro: Though usually dim witted, it seems to become inspired if the SHELLDER on its tail bites down.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #80 | ![water](../assets/types/water.png "Water"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.6 m /<br>5.2 ft | 78.5 kg /<br>173.1 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>3. <span class="tooltip" title="This Pokémon regains 1/3 of its maximum HP when it is switched out for another Pokémon under any circumstances other than having fainted.  This ability does not take effect when a battle ends.">Regenerator</span> | N/A |
+| #80 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 1.6 m /<br>5.2 ft | 78.5 kg /<br>173.1 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Slowbro has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 75 | 50 | 172 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It may cause the foe to flinch when the holder inflicts damage.">Kings Rock</span> (5%) |
+| 2 Def | 75 | 50 | 172 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It may cause the foe to flinch when the holder inflicts damage.">Kings Rock</span> (5%) |
 
 ---
 

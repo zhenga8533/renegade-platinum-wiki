@@ -16,12 +16,6 @@ A legendary bird Pokémon. It can create blizzards by freezing moisture in the a
 |-------|-------|------|-------|
 | ![Articuno](../assets/sprites/articuno/front.gif "Articuno: A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.") | ![Articuno](../assets/sprites/articuno/front_shiny.png "Articuno: A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.") | ![Articuno](../assets/sprites/articuno/back.png "Articuno: A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.") | ![Articuno](../assets/sprites/articuno/back_shiny.png "Articuno: A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #144 | ![ice](../assets/types/ice.png "Ice"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.7 m /<br>5.6 ft | 55.4 kg /<br>122.1 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span> | N/A |
+| #144 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 1.7 m /<br>5.6 ft | 55.4 kg /<br>122.1 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="Raises evasion in a hailstorm.">Snow Cloak</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Articuno has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Defense | 3 | 35 | 290 | Slow | N/A |
+| 3 Sp. Def | 3 | 35 | 290 | Slow | N/A |
 
 ---
 

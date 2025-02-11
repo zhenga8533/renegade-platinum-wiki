@@ -16,12 +16,6 @@ Its tongue is just like a human’s. As a result, it can cleverly mimic human sp
 |-------|-------|------|-------|
 | ![Chatot](../assets/sprites/chatot/front.gif "Chatot: Its tongue is just like a human’s. As a result, it can cleverly mimic human speech.") | ![Chatot](../assets/sprites/chatot/front_shiny.png "Chatot: Its tongue is just like a human’s. As a result, it can cleverly mimic human speech.") | ![Chatot](../assets/sprites/chatot/back.png "Chatot: Its tongue is just like a human’s. As a result, it can cleverly mimic human speech.") | ![Chatot](../assets/sprites/chatot/back_shiny.png "Chatot: Its tongue is just like a human’s. As a result, it can cleverly mimic human speech.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #441 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.5 m /<br>1.6 ft | 1.9 kg /<br>4.2 lbs | 1. <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span><br>2. <span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span> | #102 |
+| #441 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.5 m /<br>1.6 ft | 1.9 kg /<br>4.2 lbs | 1. <span class="tooltip" title="Gives full immunity to all sound-based moves.">Soundproof</span><br>2. <span class="tooltip" title="Raises evasion if the Pokémon is confused.">Tangled Feet</span> | #102 |
 
 ---
 
@@ -81,7 +75,7 @@ Chatot has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 30 | 35 | 144 | Medium Slow | <span class="tooltip" title="A Pokémon hold item that boosts a move used consecutively. Its effect is reset if another move is used.">Metronome</span> (5%) |
+| 1 Atk | 30 | 35 | 144 | Medium Slow | <span class="tooltip" title="A Pokémon hold item that boosts a move used consecutively. Its effect is reset if another move is used.">Metronome</span> (5%) |
 
 ---
 

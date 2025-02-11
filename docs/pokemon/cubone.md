@@ -16,12 +16,6 @@ When it thinks of its dead mother, it cries. Its crying makes the skull it wears
 |-------|-------|------|-------|
 | ![Cubone](../assets/sprites/cubone/front.gif "Cubone: When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.") | ![Cubone](../assets/sprites/cubone/front_shiny.png "Cubone: When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.") | ![Cubone](../assets/sprites/cubone/back.png "Cubone: When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.") | ![Cubone](../assets/sprites/cubone/back_shiny.png "Cubone: When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #104 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.4 m /<br>1.3 ft | 6.5 kg /<br>14.3 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="The Pokémon draws in all Electric-type moves.">Lightning Rod</span><br>3. <span class="tooltip" title="The Pokémon is protected against critical hits.">Battle Armor</span> | N/A |
+| #104 | ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.4 m /<br>1.3 ft | 6.5 kg /<br>14.3 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="The Pokémon draws in all Electric-type moves.">Lightning Rod</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Cubone has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 190 | 50 | 64 | Medium | <span class="tooltip" title="An item to be held by CUBONE or MAROWAK. It is a hard bone of some sort that boosts the Attack stat.">Thick Club</span> (5%) |
+| 1 Def | 190 | 50 | 64 | Medium | <span class="tooltip" title="An item to be held by CUBONE or MAROWAK. It is a hard bone of some sort that boosts the Attack stat.">Thick Club</span> (5%) |
 
 ---
 

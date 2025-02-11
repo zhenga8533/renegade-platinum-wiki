@@ -16,12 +16,6 @@ It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks
 |-------|-------|------|-------|
 | ![Skuntank](../assets/sprites/skuntank/front.gif "Skuntank: It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.") | ![Skuntank](../assets/sprites/skuntank/front_shiny.png "Skuntank: It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.") | ![Skuntank](../assets/sprites/skuntank/back.png "Skuntank: It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.") | ![Skuntank](../assets/sprites/skuntank/back_shiny.png "Skuntank: It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #435 | ![poison](../assets/types/poison.png "Poison"){: width="48"} ![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.0 m /<br>3.3 ft | 38.0 kg /<br>83.8 lbs | 1. <span class="tooltip" title="Damages the foe landing the finishing hit.">Aftermath</span><br>2. <span class="tooltip" title="The stench helps keep wild Pokémon away.">Stench</span> | #85 |
+| #435 | ![poison](../assets/types/poison.png "Poison"){: width="48"}<br>![dark](../assets/types/dark.png "Dark"){: width="48"} | 1.0 m /<br>3.3 ft | 38.0 kg /<br>83.8 lbs | 1. <span class="tooltip" title="Damages the foe landing the finishing hit.">Aftermath</span><br>2. <span class="tooltip" title="The stench helps keep wild Pokémon away.">Stench</span> | #85 |
 
 ---
 
@@ -83,7 +77,7 @@ Skuntank has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 60 | 50 | 168 | Mediu |
+| 2 None | 60 | 50 | 168 | Mediu |
 
 ---
 

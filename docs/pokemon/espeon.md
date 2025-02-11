@@ -16,12 +16,6 @@ Its fur is so sensitive, it can sense minute shifts in the air and predict the w
 |-------|-------|------|-------|
 | ![Espeon](../assets/sprites/espeon/front.gif "Espeon: Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.") | ![Espeon](../assets/sprites/espeon/front_shiny.png "Espeon: Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.") | ![Espeon](../assets/sprites/espeon/back.png "Espeon: Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.") | ![Espeon](../assets/sprites/espeon/back_shiny.png "Espeon: Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -95,7 +89,7 @@ Espeon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Attack | 45 | 50 | 184 | Medium | N/A |
+| 2 Sp. Atk | 45 | 50 | 184 | Medium | N/A |
 
 ---
 

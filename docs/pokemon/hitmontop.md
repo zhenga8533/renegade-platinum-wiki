@@ -16,12 +16,6 @@ It fights while spinning like a top. The centrifugal force boosts its destructiv
 |-------|-------|------|-------|
 | ![Hitmontop](../assets/sprites/hitmontop/front.gif "Hitmontop: It fights while spinning like a top. The centrifugal force boosts its destructive power by ten.") | ![Hitmontop](../assets/sprites/hitmontop/front_shiny.png "Hitmontop: It fights while spinning like a top. The centrifugal force boosts its destructive power by ten.") | ![Hitmontop](../assets/sprites/hitmontop/back.png "Hitmontop: It fights while spinning like a top. The centrifugal force boosts its destructive power by ten.") | ![Hitmontop](../assets/sprites/hitmontop/back_shiny.png "Hitmontop: It fights while spinning like a top. The centrifugal force boosts its destructive power by ten.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -87,7 +81,7 @@ Hitmontop has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Special Defense | 45 | 50 | 159 | Medium | N/A |
+| 2 Sp. Def | 45 | 50 | 159 | Medium | N/A |
 
 ---
 

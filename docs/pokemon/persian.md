@@ -16,12 +16,6 @@ A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a 
 |-------|-------|------|-------|
 | ![Persian](../assets/sprites/persian/front.gif "Persian: A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.") | ![Persian](../assets/sprites/persian/front_shiny.png "Persian: A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.") | ![Persian](../assets/sprites/persian/back.png "Persian: A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.") | ![Persian](../assets/sprites/persian/back_shiny.png "Persian: A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Persian has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 90 | 50 | 154 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. A light, sharp claw that lets the bearer move first occasionally.">Quick Claw</span> (5%) |
+| 2 Spd | 90 | 50 | 154 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. A light, sharp claw that lets the bearer move first occasionally.">Quick Claw</span> (5%) |
 
 ---
 

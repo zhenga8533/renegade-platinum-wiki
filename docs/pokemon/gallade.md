@@ -16,12 +16,6 @@ When trying to protect someone, it extends its elbows as if they were swords and
 |-------|-------|------|-------|
 | ![Gallade](../assets/sprites/gallade/front.gif "Gallade: When trying to protect someone, it extends its elbows as if they were swords and fights savagely.") | ![Gallade](../assets/sprites/gallade/front_shiny.png "Gallade: When trying to protect someone, it extends its elbows as if they were swords and fights savagely.") | ![Gallade](../assets/sprites/gallade/back.png "Gallade: When trying to protect someone, it extends its elbows as if they were swords and fights savagely.") | ![Gallade](../assets/sprites/gallade/back_shiny.png "Gallade: When trying to protect someone, it extends its elbows as if they were swords and fights savagely.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #475 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.6 m /<br>5.2 ft | 52.0 kg /<br>114.6 lbs | 1. <span class="tooltip" title="Raises Speed each time the Pokémon flinches.">Steadfast</span><br>2. <span class="tooltip" title="">Sharpness</span><br>3. <span class="tooltip" title="Whenever a dark-type move hits this Pokémon, its Attack rises one stage.  The move is not negated in any way.">Justified</span> | N/A |
+| #475 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | 1.6 m /<br>5.2 ft | 52.0 kg /<br>114.6 lbs | 1. <span class="tooltip" title="Raises Speed each time the Pokémon flinches.">Steadfast</span><br>2. <span class="tooltip" title="">Sharpness</span> | N/A |
 
 ---
 
@@ -87,7 +81,7 @@ Gallade has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 35 | 259 | Slow | N/A |
+| 3 Atk | 45 | 35 | 259 | Slow | N/A |
 
 ---
 

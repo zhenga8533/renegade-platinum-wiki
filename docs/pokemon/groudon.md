@@ -16,12 +16,6 @@ It had been asleep in underground magma ever since it fiercely fought KYOGRE lon
 |-------|-------|------|-------|
 | ![Groudon](../assets/sprites/groudon/front.gif "Groudon: It had been asleep in underground magma ever since it fiercely fought KYOGRE long ago.") | ![Groudon](../assets/sprites/groudon/front_shiny.png "Groudon: It had been asleep in underground magma ever since it fiercely fought KYOGRE long ago.") | ![Groudon](../assets/sprites/groudon/back.png "Groudon: It had been asleep in underground magma ever since it fiercely fought KYOGRE long ago.") | ![Groudon](../assets/sprites/groudon/back_shiny.png "Groudon: It had been asleep in underground magma ever since it fiercely fought KYOGRE long ago.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -81,7 +75,7 @@ Groudon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 3 | 0 | 335 | Slow | N/A |
+| 3 Atk | 3 | 0 | 335 | Slow | N/A |
 
 ---
 

@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #316 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.4 m /<br>1.3 ft | 10.3 kg /<br>22.7 lbs | 1. <span class="tooltip" title="Inflicts damage on foes using any draining move.">Liquid Ooze</span><br>2. <span class="tooltip" title="Protects the Pokémon from item theft.">Sticky Hold</span><br>3. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | N/A |
+| #316 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.4 m /<br>1.3 ft | 10.3 kg /<br>22.7 lbs | 1. <span class="tooltip" title="Inflicts damage on foes using any draining move.">Liquid Ooze</span><br>2. <span class="tooltip" title="Protects the Pokémon from item theft.">Sticky Hold</span> | N/A |
 
 ---
 
@@ -83,7 +83,7 @@ Gulpin has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 225 | 70 | 60 | Fast Then Very Slow | <span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to heal the user by just 10 HP.">Oran Berry</span> (50%)<br><span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to heal the user’s HP a little.">Sitrus Berry</span> (5%) |
+| 1 None | 225 | 70 | 60 | Fast Then Very Slow | <span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to heal the user by just 10 HP.">Oran Berry</span> (50%)<br><span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to heal the user’s HP a little.">Sitrus Berry</span> (5%) |
 
 ---
 

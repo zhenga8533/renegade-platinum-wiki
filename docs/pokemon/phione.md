@@ -16,12 +16,6 @@ It drifts in warm seas. It always returns to where it was born, no matter how fa
 |-------|-------|------|-------|
 | ![Phione](../assets/sprites/phione/front.gif "Phione: It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.") | ![Phione](../assets/sprites/phione/front_shiny.png "Phione: It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.") | ![Phione](../assets/sprites/phione/back.png "Phione: It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.") | ![Phione](../assets/sprites/phione/back_shiny.png "Phione: It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Phione has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 30 | 70 | 216 | Slow | N/A |
+| 1 None | 30 | 70 | 216 | Slow | N/A |
 
 ---
 

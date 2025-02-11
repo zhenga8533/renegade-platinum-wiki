@@ -16,12 +16,6 @@ The larger pincer has 10,000- horsepower strength. However, it is so heavy, it i
 |-------|-------|------|-------|
 | ![Kingler](../assets/sprites/kingler/front.gif "Kingler: The larger pincer has 10,000- horsepower strength. However, it is so heavy, it is difficult to aim.") | ![Kingler](../assets/sprites/kingler/front_shiny.png "Kingler: The larger pincer has 10,000- horsepower strength. However, it is so heavy, it is difficult to aim.") | ![Kingler](../assets/sprites/kingler/back.png "Kingler: The larger pincer has 10,000- horsepower strength. However, it is so heavy, it is difficult to aim.") | ![Kingler](../assets/sprites/kingler/back_shiny.png "Kingler: The larger pincer has 10,000- horsepower strength. However, it is so heavy, it is difficult to aim.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #99 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.3 m /<br>4.3 ft | 60.0 kg /<br>132.3 lbs | 1. <span class="tooltip" title="Prevents the Attack stat from being lowered.">Hyper Cutter</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span><br>3. <span class="tooltip" title="This Pokémon's moves with extra effects have 1.3× their power, but lose their extra effects.  An effect chance is a move's chance to inflict a status ailment, cause a stat change, or make the target flinch in addition to the move's main effect. For example, thunder shock's paralysis is an extra effect, but thunder wave's is not, nor are knock off's item removal and air cutter's increased critical hit rate.  Moves that lower the user's stats are unaffected.">Sheer Force</span> | N/A |
+| #99 | ![water](../assets/types/water.png "Water"){: width="48"} | 1.3 m /<br>4.3 ft | 60.0 kg /<br>132.3 lbs | 1. <span class="tooltip" title="Prevents the Attack stat from being lowered.">Hyper Cutter</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Kingler has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 60 | 50 | 166 | Medium | N/A |
+| 2 Atk | 60 | 50 | 166 | Medium | N/A |
 
 ---
 

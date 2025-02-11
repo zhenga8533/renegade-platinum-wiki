@@ -16,12 +16,6 @@ Its body is as hard as bedrock. By venting pressurized gas, it can launch itself
 |-------|-------|------|-------|
 | ![Pupitar](../assets/sprites/pupitar/front.gif "Pupitar: Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.") | ![Pupitar](../assets/sprites/pupitar/front_shiny.png "Pupitar: Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.") | ![Pupitar](../assets/sprites/pupitar/back.png "Pupitar: Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.") | ![Pupitar](../assets/sprites/pupitar/back_shiny.png "Pupitar: Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #247 | ![rock](../assets/types/rock.png "Rock"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.2 m /<br>3.9 ft | 152.0 kg /<br>335.1 lbs | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span> | N/A |
+| #247 | ![rock](../assets/types/rock.png "Rock"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.2 m /<br>3.9 ft | 152.0 kg /<br>335.1 lbs | 1. <span class="tooltip" title="The Pokémon may heal its own status problems.">Shed Skin</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Pupitar has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack | 45 | 35 | 144 | Slow | N/A |
+| 2 Atk | 45 | 35 | 144 | Slow | N/A |
 
 ---
 

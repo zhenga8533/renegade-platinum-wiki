@@ -20,7 +20,7 @@ The trio is together from birth. It constantly gathers honey from flowers to ple
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Combee](../assets/sprites/combee/front_female.gif "Combee: The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.") | ![Combee](../assets/sprites/combee/front_shiny_female.png "Combee: The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.") | ? | ? |
+| ![Combee](../assets/sprites/combee/front_female.gif "Combee: The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.") | ![Combee](../assets/sprites/combee/front_shiny_female.png "Combee: The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.") | N/A | N/A |
 
 ### Cries
 
@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #415 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.3 m /<br>1.0 ft | 5.5 kg /<br>12.1 lbs | 1. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span><br>2. <span class="tooltip" title="The Pokémon may gather Honey from somewhere.">Honey Gather</span> | #53 |
+| #415 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.3 m /<br>1.0 ft | 5.5 kg /<br>12.1 lbs | 1. <span class="tooltip" title="Boosts the Attack stat, but lowers accuracy.">Hustle</span><br>2. <span class="tooltip" title="The Pokémon may gather Honey from somewhere.">Honey Gather</span> | #53 |
 
 ---
 
@@ -83,7 +83,7 @@ Combee has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 120 | 50 | 49 | Medium Slow | <span class="tooltip" title="A sweet honey with a lush aroma that attracts wild Pokémon when it is used in grass, caves, or on special trees.">Honey</span> (5%) |
+| 1 Spd | 120 | 50 | 49 | Medium Slow | <span class="tooltip" title="A sweet honey with a lush aroma that attracts wild Pokémon when it is used in grass, caves, or on special trees.">Honey</span> (5%) |
 
 ---
 

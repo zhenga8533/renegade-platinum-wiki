@@ -16,12 +16,6 @@ Its antennae have eye patterns on them. Its four wings enable it to hover and fl
 |-------|-------|------|-------|
 | ![Masquerain](../assets/sprites/masquerain/front.gif "Masquerain: Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.") | ![Masquerain](../assets/sprites/masquerain/front_shiny.png "Masquerain: Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.") | ![Masquerain](../assets/sprites/masquerain/back.png "Masquerain: Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.") | ![Masquerain](../assets/sprites/masquerain/back_shiny.png "Masquerain: Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #284 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![water](../assets/types/water.png "Water"){: width="48"} | 0.8 m /<br>2.6 ft | 3.6 kg /<br>7.9 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Opposing Pokémon cannot eat held Berries while this Pokémon is in battle.  Affected Pokémon can still use bug bite or pluck to eat a target's Berry.">Unnerve</span> | N/A |
+| #284 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 0.8 m /<br>2.6 ft | 3.6 kg /<br>7.9 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Opposing Pokémon cannot eat held Berries while this Pokémon is in battle.  Affected Pokémon can still use bug bite or pluck to eat a target's Berry.">Unnerve</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Masquerain has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>1 Special Defense | 75 | 70 | 159 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.">Silver Powder</span> (5%) |
+| 1 Sp. Atk<br>1 Sp. Def | 75 | 70 | 159 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves.">Silver Powder</span> (5%) |
 
 ---
 

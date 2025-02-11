@@ -16,12 +16,6 @@ Because it can use all kinds of moves, many scientists believe MEW to be the anc
 |-------|-------|------|-------|
 | ![Mew](../assets/sprites/mew/front.gif "Mew: Because it can use all kinds of moves, many scientists believe MEW to be the ancestor of Pokémon.") | ![Mew](../assets/sprites/mew/front_shiny.png "Mew: Because it can use all kinds of moves, many scientists believe MEW to be the ancestor of Pokémon.") | ![Mew](../assets/sprites/mew/back.png "Mew: Because it can use all kinds of moves, many scientists believe MEW to be the ancestor of Pokémon.") | ![Mew](../assets/sprites/mew/back_shiny.png "Mew: Because it can use all kinds of moves, many scientists believe MEW to be the ancestor of Pokémon.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -81,7 +75,7 @@ Mew has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 45 | 100 | 300 | Medium Slow | <span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to recover from any status problem.">Lum Berry</span> (5%) |
+| 3 None | 45 | 100 | 300 | Medium Slow | <span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to recover from any status problem.">Lum Berry</span> (5%) |
 
 ---
 

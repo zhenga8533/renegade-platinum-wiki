@@ -16,12 +16,6 @@ A legendary Pokémon of Sinnoh. It is said that space becomes more stable with P
 |-------|-------|------|-------|
 | ![Palkia](../assets/sprites/palkia/front.gif "Palkia: A legendary Pokémon of Sinnoh. It is said that space becomes more stable with PALKIA’s every breath.") | ![Palkia](../assets/sprites/palkia/front_shiny.png "Palkia: A legendary Pokémon of Sinnoh. It is said that space becomes more stable with PALKIA’s every breath.") | ![Palkia](../assets/sprites/palkia/back.png "Palkia: A legendary Pokémon of Sinnoh. It is said that space becomes more stable with PALKIA’s every breath.") | ![Palkia](../assets/sprites/palkia/back_shiny.png "Palkia: A legendary Pokémon of Sinnoh. It is said that space becomes more stable with PALKIA’s every breath.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #484 | ![water](../assets/types/water.png "Water"){: width="48"} ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 4.2 m /<br>13.8 ft | 336.0 kg /<br>740.8 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="This Pokémon does not take damage from friendly Pokémon's moves, including single-target moves aimed at it.">Telepathy</span> | #150 |
+| #484 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | 4.2 m /<br>13.8 ft | 336.0 kg /<br>740.8 lbs | 1. <span class="tooltip" title="The Pokémon raises the foe’s PP usage.">Pressure</span><br>2. <span class="tooltip" title="This Pokémon does not take damage from friendly Pokémon's moves, including single-target moves aimed at it.">Telepathy</span> | #150 |
 
 ---
 
@@ -81,7 +75,7 @@ Palkia has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 3 | 0 | 340 | Slow | N/A |
+| 3 Sp. Atk | 3 | 0 | 340 | Slow | N/A |
 
 ---
 

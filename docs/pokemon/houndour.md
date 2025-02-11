@@ -16,12 +16,6 @@ It is smart enough to hunt in packs. It uses a variety of cries for communicatin
 |-------|-------|------|-------|
 | ![Houndour](../assets/sprites/houndour/front.gif "Houndour: It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.") | ![Houndour](../assets/sprites/houndour/front_shiny.png "Houndour: It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.") | ![Houndour](../assets/sprites/houndour/back.png "Houndour: It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.") | ![Houndour](../assets/sprites/houndour/back_shiny.png "Houndour: It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #228 | ![dark](../assets/types/dark.png "Dark"){: width="48"} ![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.6 m /<br>2.0 ft | 10.8 kg /<br>23.8 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Powers up Fire-type moves if hit by a fire move.">Flash Fire</span> | N/A |
+| #228 | ![dark](../assets/types/dark.png "Dark"){: width="48"}<br>![fire](../assets/types/fire.png "Fire"){: width="48"} | 0.6 m /<br>2.0 ft | 10.8 kg /<br>23.8 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Powers up Fire-type moves if hit by a fire move.">Flash Fire</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Houndour has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 120 | 35 | 66 | Slow | N/A |
+| 1 Sp. Atk | 120 | 35 | 66 | Slow | N/A |
 
 ---
 

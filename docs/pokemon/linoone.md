@@ -16,12 +16,6 @@ It charges prey at speeds over 60 mph. However, because it can only run straight
 |-------|-------|------|-------|
 | ![Linoone](../assets/sprites/linoone/front.gif "Linoone: It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.") | ![Linoone](../assets/sprites/linoone/front_shiny.png "Linoone: It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.") | ![Linoone](../assets/sprites/linoone/back.png "Linoone: It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.") | ![Linoone](../assets/sprites/linoone/back_shiny.png "Linoone: It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #264 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.5 m /<br>1.6 ft | 32.5 kg /<br>71.7 lbs | 1. <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span><br>2. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span><br>3. <span class="tooltip" title="Boosts Speed if there is a status problem.">Quick Feet</span> | N/A |
+| #264 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.5 m /<br>1.6 ft | 32.5 kg /<br>71.7 lbs | 1. <span class="tooltip" title="The Pokémon may pick up items.">Pickup</span><br>2. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Linoone has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 90 | 50 | 147 | Medium | <span class="tooltip" title="A spray-type medicine for wounds. It restores the HP of one Pokémon by just 20 points.">Potion</span> (50%)<br><span class="tooltip" title="A medicine that revives a fainted Pokémon. It fully restores the Pokémon’s HP.">Max Revive</span> (5%) |
+| 2 Spd | 90 | 50 | 147 | Medium | <span class="tooltip" title="A spray-type medicine for wounds. It restores the HP of one Pokémon by just 20 points.">Potion</span> (50%)<br><span class="tooltip" title="A medicine that revives a fainted Pokémon. It fully restores the Pokémon’s HP.">Max Revive</span> (5%) |
 
 ---
 

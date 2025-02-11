@@ -16,12 +16,6 @@ Its appearance changes with the weather. Recently, its molecules were found to b
 |-------|-------|------|-------|
 | ![Castform](../assets/sprites/castform/front.gif "Castform: Its appearance changes with the weather. Recently, its molecules were found to be just like water.") | ![Castform](../assets/sprites/castform/front_shiny.png "Castform: Its appearance changes with the weather. Recently, its molecules were found to be just like water.") | ![Castform](../assets/sprites/castform/back.png "Castform: Its appearance changes with the weather. Recently, its molecules were found to be just like water.") | ![Castform](../assets/sprites/castform/back_shiny.png "Castform: Its appearance changes with the weather. Recently, its molecules were found to be just like water.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -88,7 +82,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 45 | 70 | 147 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.">Mystic Water</span> (5%) |
+| 1 None | 45 | 70 | 147 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.">Mystic Water</span> (5%) |
 
 ---
 

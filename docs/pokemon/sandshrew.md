@@ -16,12 +16,6 @@ To protect itself from attackers, it curls up into a ball. It lives in arid regi
 |-------|-------|------|-------|
 | ![Sandshrew](../assets/sprites/sandshrew/front.gif "Sandshrew: To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.") | ![Sandshrew](../assets/sprites/sandshrew/front_shiny.png "Sandshrew: To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.") | ![Sandshrew](../assets/sprites/sandshrew/back.png "Sandshrew: To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.") | ![Sandshrew](../assets/sprites/sandshrew/back_shiny.png "Sandshrew: To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Sandshrew has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 255 | 50 | 60 | Medium | <span class="tooltip" title="A Pokémon hold item that extends the duration of multiturn attacks like Bind and Wrap.">Grip Claw</span> (5%) |
+| 1 Def | 255 | 50 | 60 | Medium | <span class="tooltip" title="A Pokémon hold item that extends the duration of multiturn attacks like Bind and Wrap.">Grip Claw</span> (5%) |
 
 ---
 

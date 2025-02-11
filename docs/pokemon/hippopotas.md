@@ -83,7 +83,7 @@ Hippopotas has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 140 | 50 | 66 | Slow | N/A |
+| 1 Def | 140 | 50 | 66 | Slow | N/A |
 
 ---
 

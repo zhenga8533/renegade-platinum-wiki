@@ -16,12 +16,6 @@ With its sweet aroma, it guides VOLBEAT to draw signs with light in the night sk
 |-------|-------|------|-------|
 | ![Illumise](../assets/sprites/illumise/front.gif "Illumise: With its sweet aroma, it guides VOLBEAT to draw signs with light in the night sky.") | ![Illumise](../assets/sprites/illumise/front_shiny.png "Illumise: With its sweet aroma, it guides VOLBEAT to draw signs with light in the night sky.") | ![Illumise](../assets/sprites/illumise/back.png "Illumise: With its sweet aroma, it guides VOLBEAT to draw signs with light in the night sky.") | ![Illumise](../assets/sprites/illumise/back_shiny.png "Illumise: With its sweet aroma, it guides VOLBEAT to draw signs with light in the night sky.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #314 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 17.7 kg /<br>39.0 lbs | 1. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span> | N/A |
+| #314 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 17.7 kg /<br>39.0 lbs | 1. <span class="tooltip" title="Powers up “not very effective” moves.">Tinted Lens</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Illumise has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 150 | 70 | 151 | Fast Then Very Slow | <span class="tooltip" title="An item to be held by a Pokémon. It casts a tricky glare that lowers the opponent’s accuracy.">Bright Powder</span> (5%) |
+| 1 Spd | 150 | 70 | 151 | Fast Then Very Slow | <span class="tooltip" title="An item to be held by a Pokémon. It casts a tricky glare that lowers the opponent’s accuracy.">Bright Powder</span> (5%) |
 
 ---
 

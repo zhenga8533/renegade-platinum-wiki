@@ -16,12 +16,6 @@ A steel-hard shell protects its tender body. It quietly endures hardships while 
 |-------|-------|------|-------|
 | ![Metapod](../assets/sprites/metapod/front.gif "Metapod: A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.") | ![Metapod](../assets/sprites/metapod/front_shiny.png "Metapod: A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.") | ![Metapod](../assets/sprites/metapod/back.png "Metapod: A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.") | ![Metapod](../assets/sprites/metapod/back_shiny.png "Metapod: A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Metapod has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 120 | 50 | 72 | Medium | N/A |
+| 2 Def | 120 | 50 | 72 | Medium | N/A |
 
 ---
 

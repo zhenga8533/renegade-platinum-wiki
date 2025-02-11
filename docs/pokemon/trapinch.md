@@ -16,12 +16,6 @@ It makes a conical pit in desert sand and lies in wait at the bottom for prey to
 |-------|-------|------|-------|
 | ![Trapinch](../assets/sprites/trapinch/front.gif "Trapinch: It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.") | ![Trapinch](../assets/sprites/trapinch/front_shiny.png "Trapinch: It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.") | ![Trapinch](../assets/sprites/trapinch/back.png "Trapinch: It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.") | ![Trapinch](../assets/sprites/trapinch/back_shiny.png "Trapinch: It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #328 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 15.0 kg /<br>33.1 lbs | 1. <span class="tooltip" title="Prevents the Attack stat from being lowered.">Hyper Cutter</span><br>2. <span class="tooltip" title="Prevents the foe from fleeing.">Arena Trap</span> | N/A |
+| #328 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 0.7 m /<br>2.3 ft | 15.0 kg /<br>33.1 lbs | 1. <span class="tooltip" title="Prevents the Attack stat from being lowered.">Hyper Cutter</span><br>2. <span class="tooltip" title="Prevents the foe from fleeing.">Arena Trap</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Trapinch has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 255 | 50 | 58 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a loose, silky sand that boosts the power of Ground-type moves.">Soft Sand</span> (5%) |
+| 1 Atk | 255 | 50 | 58 | Medium Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a loose, silky sand that boosts the power of Ground-type moves.">Soft Sand</span> (5%) |
 
 ---
 

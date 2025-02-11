@@ -16,12 +16,6 @@ The long tongue is always soggy with slobber. The saliva contains a solvent that
 |-------|-------|------|-------|
 | ![Lickilicky](../assets/sprites/lickilicky/front.gif "Lickilicky: The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.") | ![Lickilicky](../assets/sprites/lickilicky/front_shiny.png "Lickilicky: The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.") | ![Lickilicky](../assets/sprites/lickilicky/back.png "Lickilicky: The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.") | ![Lickilicky](../assets/sprites/lickilicky/back_shiny.png "Lickilicky: The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #463 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.7 m /<br>5.6 ft | 140.0 kg /<br>308.6 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span><br>3. <span class="tooltip" title="Eliminates the effects of weather.">Cloud Nine</span> | N/A |
+| #463 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 1.7 m /<br>5.6 ft | 140.0 kg /<br>308.6 lbs | 1. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Lickilicky has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Hp | 30 | 50 | 180 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.">Lagging Tail</span> (5%) |
+| 3 None | 30 | 50 | 180 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.">Lagging Tail</span> (5%) |
 
 ---
 

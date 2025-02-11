@@ -16,12 +16,6 @@ It sets a trap by spinning a web with thin but strong silk. It waits motionlessl
 |-------|-------|------|-------|
 | ![Spinarak](../assets/sprites/spinarak/front.gif "Spinarak: It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.") | ![Spinarak](../assets/sprites/spinarak/front_shiny.png "Spinarak: It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.") | ![Spinarak](../assets/sprites/spinarak/back.png "Spinarak: It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.") | ![Spinarak](../assets/sprites/spinarak/back_shiny.png "Spinarak: It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #167 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.5 m /<br>1.6 ft | 8.5 kg /<br>18.7 lbs | 1. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br>2. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span><br>3. <span class="tooltip" title="Powers up moves if they become critical hits.">Sniper</span> | N/A |
+| #167 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.5 m /<br>1.6 ft | 8.5 kg /<br>18.7 lbs | 1. <span class="tooltip" title="Powers up Bug-type moves in a pinch.">Swarm</span><br>2. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Insomnia</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Spinarak has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 255 | 70 | 50 | Fast | N/A |
+| 1 Atk | 255 | 70 | 50 | Fast | N/A |
 
 ---
 

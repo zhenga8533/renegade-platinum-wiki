@@ -20,7 +20,7 @@ It is said that when one runs at high speed, its wings create blades of wind tha
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Garchomp](../assets/sprites/garchomp/front_female.gif "Garchomp: It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.") | ![Garchomp](../assets/sprites/garchomp/front_shiny_female.png "Garchomp: It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.") | ? | ? |
+| ![Garchomp](../assets/sprites/garchomp/front_female.gif "Garchomp: It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.") | ![Garchomp](../assets/sprites/garchomp/front_shiny_female.png "Garchomp: It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.") | N/A | N/A |
 
 ### Cries
 
@@ -44,7 +44,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #445 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.9 m /<br>6.2 ft | 95.0 kg /<br>209.4 lbs | 1. <span class="tooltip" title="Inflicts damage to the foe on contact.">Rough Skin</span><br>2. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span> | #111 |
+| #445 | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 1.9 m /<br>6.2 ft | 95.0 kg /<br>209.4 lbs | 1. <span class="tooltip" title="Inflicts damage to the foe on contact.">Rough Skin</span><br>2. <span class="tooltip" title="Boosts the Pokémon’s evasion in a sandstorm.">Sand Veil</span> | #111 |
 
 ---
 
@@ -85,7 +85,7 @@ Garchomp has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Attack | 45 | 50 | 300 | Slo |
+| 3 Atk | 45 | 50 | 300 | Slo |
 
 ---
 

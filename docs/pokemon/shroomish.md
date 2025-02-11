@@ -16,12 +16,6 @@ It spouts poison spores from the top of its head. These spores cause pain all ov
 |-------|-------|------|-------|
 | ![Shroomish](../assets/sprites/shroomish/front.gif "Shroomish: It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.") | ![Shroomish](../assets/sprites/shroomish/front_shiny.png "Shroomish: It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.") | ![Shroomish](../assets/sprites/shroomish/back.png "Shroomish: It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.") | ![Shroomish](../assets/sprites/shroomish/back_shiny.png "Shroomish: It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Shroomish has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 255 | 70 | 59 | Fast Then Very Slow | <span class="tooltip" title="A small and rare mushroom. It is quite popular among certain maniacal fan segments.">Tiny Mushroom</span> (50%)<br><span class="tooltip" title="A large and rare mushroom. It is very popular among certain maniacal fan segments.">Big Mushroom</span> (5%) |
+| 1 None | 255 | 70 | 59 | Fast Then Very Slow | <span class="tooltip" title="A small and rare mushroom. It is quite popular among certain maniacal fan segments.">Tiny Mushroom</span> (50%)<br><span class="tooltip" title="A large and rare mushroom. It is very popular among certain maniacal fan segments.">Big Mushroom</span> (5%) |
 
 ---
 

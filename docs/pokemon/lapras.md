@@ -16,12 +16,6 @@ It loves crossing the sea with people and Pokémon on its back. It understands h
 |-------|-------|------|-------|
 | ![Lapras](../assets/sprites/lapras/front.gif "Lapras: It loves crossing the sea with people and Pokémon on its back. It understands human speech.") | ![Lapras](../assets/sprites/lapras/front_shiny.png "Lapras: It loves crossing the sea with people and Pokémon on its back. It understands human speech.") | ![Lapras](../assets/sprites/lapras/back.png "Lapras: It loves crossing the sea with people and Pokémon on its back. It understands human speech.") | ![Lapras](../assets/sprites/lapras/back_shiny.png "Lapras: It loves crossing the sea with people and Pokémon on its back. It understands human speech.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #131 | ![water](../assets/types/water.png "Water"){: width="48"} ![ice](../assets/types/ice.png "Ice"){: width="48"} | 2.5 m /<br>8.2 ft | 220.0 kg /<br>485.0 lbs | 1. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span><br>3. <span class="tooltip" title="Heals status problems if it is raining.">Hydration</span> | N/A |
+| #131 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![ice](../assets/types/ice.png "Ice"){: width="48"} | 2.5 m /<br>8.2 ft | 220.0 kg /<br>485.0 lbs | 1. <span class="tooltip" title="Restores HP if hit by a Water-type move.">Water Absorb</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Lapras has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 45 | 50 | 187 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.">Mystic Water</span> (5%) |
+| 2 None | 45 | 50 | 187 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves.">Mystic Water</span> (5%) |
 
 ---
 

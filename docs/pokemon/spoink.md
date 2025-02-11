@@ -16,12 +16,6 @@ It bounces constantly, using its tail like a spring. The shock of bouncing keeps
 |-------|-------|------|-------|
 | ![Spoink](../assets/sprites/spoink/front.gif "Spoink: It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.") | ![Spoink](../assets/sprites/spoink/front_shiny.png "Spoink: It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.") | ![Spoink](../assets/sprites/spoink/back.png "Spoink: It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.") | ![Spoink](../assets/sprites/spoink/back_shiny.png "Spoink: It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #325 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.7 m /<br>2.3 ft | 30.6 kg /<br>67.5 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span><br>3. <span class="tooltip" title="Encourages the early use of a held Berry.">Gluttony</span> | N/A |
+| #325 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.7 m /<br>2.3 ft | 30.6 kg /<br>67.5 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="Prevents the Pokémon from becoming confused.">Own Tempo</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Spoink has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Defense | 255 | 70 | 66 | Fas |
+| 1 Sp. Def | 255 | 70 | 66 | Fas |
 
 ---
 

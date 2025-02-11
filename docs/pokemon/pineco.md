@@ -16,12 +16,6 @@ It looks just like a pinecone. Its shell protects it from bird Pokémon that pec
 |-------|-------|------|-------|
 | ![Pineco](../assets/sprites/pineco/front.gif "Pineco: It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.") | ![Pineco](../assets/sprites/pineco/front_shiny.png "Pineco: It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.") | ![Pineco](../assets/sprites/pineco/back.png "Pineco: It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.") | ![Pineco](../assets/sprites/pineco/back_shiny.png "Pineco: It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Pineco has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 190 | 70 | 58 | Medium | N/A |
+| 1 Def | 190 | 70 | 58 | Medium | N/A |
 
 ---
 

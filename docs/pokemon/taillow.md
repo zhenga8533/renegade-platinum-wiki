@@ -16,12 +16,6 @@ It has a gutsy spirit that makes it bravely take on tough foes. It flies in sear
 |-------|-------|------|-------|
 | ![Taillow](../assets/sprites/taillow/front.gif "Taillow: It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.") | ![Taillow](../assets/sprites/taillow/front_shiny.png "Taillow: It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.") | ![Taillow](../assets/sprites/taillow/back.png "Taillow: It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.") | ![Taillow](../assets/sprites/taillow/back_shiny.png "Taillow: It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #276 | ![normal](../assets/types/normal.png "Normal"){: width="48"} ![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.3 m /<br>1.0 ft | 2.3 kg /<br>5.1 lbs | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Enables moves to hit Ghost-type foes.">Scrappy</span> | N/A |
+| #276 | ![normal](../assets/types/normal.png "Normal"){: width="48"}<br>![flying](../assets/types/flying.png "Flying"){: width="48"} | 0.3 m /<br>1.0 ft | 2.3 kg /<br>5.1 lbs | 1. <span class="tooltip" title="Boosts Attack if there is a status problem.">Guts</span><br>2. <span class="tooltip" title="Enables moves to hit Ghost-type foes.">Scrappy</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Taillow has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 200 | 70 | 54 | Medium Slo |
+| 1 Spd | 200 | 70 | 54 | Medium Slo |
 
 ---
 

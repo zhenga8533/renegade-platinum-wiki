@@ -16,12 +16,6 @@ Some Pokémon are born on a TORTERRA’s back and spend their entire life there.
 |-------|-------|------|-------|
 | ![Torterra](../assets/sprites/torterra/front.gif "Torterra: Some Pokémon are born on a TORTERRA’s back and spend their entire life there.") | ![Torterra](../assets/sprites/torterra/front_shiny.png "Torterra: Some Pokémon are born on a TORTERRA’s back and spend their entire life there.") | ![Torterra](../assets/sprites/torterra/back.png "Torterra: Some Pokémon are born on a TORTERRA’s back and spend their entire life there.") | ![Torterra](../assets/sprites/torterra/back_shiny.png "Torterra: Some Pokémon are born on a TORTERRA’s back and spend their entire life there.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #389 | ![grass](../assets/types/grass.png "Grass"){: width="48"} ![ground](../assets/types/ground.png "Ground"){: width="48"} | 2.2 m /<br>7.2 ft | 310.0 kg /<br>683.4 lbs | 1. <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span> | #3 |
+| #389 | ![grass](../assets/types/grass.png "Grass"){: width="48"}<br>![ground](../assets/types/ground.png "Ground"){: width="48"} | 2.2 m /<br>7.2 ft | 310.0 kg /<br>683.4 lbs | 1. <span class="tooltip" title="Powers up Grass-type moves in a pinch.">Overgrow</span><br>2. <span class="tooltip" title="The Pokémon is protected against critical hits.">Shell Armor</span> | #3 |
 
 ---
 
@@ -85,7 +79,7 @@ Torterra has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack<br>1 Defense | 45 | 70 | 236 | Medium Slow | N/A |
+| 2 Atk<br>1 Def | 45 | 70 | 236 | Medium Slow | N/A |
 
 ---
 

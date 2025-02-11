@@ -16,12 +16,6 @@ Attached to its head is a huge set of jaws formed by horns. It can chew through 
 |-------|-------|------|-------|
 | ![Mawile](../assets/sprites/mawile/front.gif "Mawile: Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.") | ![Mawile](../assets/sprites/mawile/front_shiny.png "Mawile: Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.") | ![Mawile](../assets/sprites/mawile/back.png "Mawile: Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.") | ![Mawile](../assets/sprites/mawile/back_shiny.png "Mawile: Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #303 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 11.5 kg /<br>25.4 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Prevents the Attack stat from being lowered.">Hyper Cutter</span> | N/A |
+| #303 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.6 m /<br>2.0 ft | 11.5 kg /<br>25.4 lbs | 1. <span class="tooltip" title="Lowers the foe’s Attack stat.">Intimidate</span><br>2. <span class="tooltip" title="Prevents the Attack stat from being lowered.">Hyper Cutter</span> | N/A |
 
 ---
 
@@ -81,7 +75,7 @@ Mawile has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack<br>1 Defense | 45 | 50 | 133 | Fast | <span class="tooltip" title="A Pokémon hold item that cuts Speed. It makes Flying-type and levitating holders susceptible to Ground moves.">Iron Ball</span> (5%) |
+| 1 Atk<br>1 Def | 45 | 50 | 133 | Fast | <span class="tooltip" title="A Pokémon hold item that cuts Speed. It makes Flying-type and levitating holders susceptible to Ground moves.">Iron Ball</span> (5%) |
 
 ---
 

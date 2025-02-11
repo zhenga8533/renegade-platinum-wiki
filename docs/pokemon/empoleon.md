@@ -16,12 +16,6 @@ If anyone were to hurt its pride, it would slash them with wings that can cleave
 |-------|-------|------|-------|
 | ![Empoleon](../assets/sprites/empoleon/front.gif "Empoleon: If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.") | ![Empoleon](../assets/sprites/empoleon/front_shiny.png "Empoleon: If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.") | ![Empoleon](../assets/sprites/empoleon/back.png "Empoleon: If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.") | ![Empoleon](../assets/sprites/empoleon/back_shiny.png "Empoleon: If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #395 | ![water](../assets/types/water.png "Water"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.7 m /<br>5.6 ft | 84.5 kg /<br>186.3 lbs | 1. <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br>2. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span> | #9 |
+| #395 | ![water](../assets/types/water.png "Water"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.7 m /<br>5.6 ft | 84.5 kg /<br>186.3 lbs | 1. <span class="tooltip" title="Powers up Water-type moves in a pinch.">Torrent</span><br>2. <span class="tooltip" title="Prevents the Pokémon from falling asleep.">Vital Spirit</span> | #9 |
 
 ---
 
@@ -85,7 +79,7 @@ Empoleon has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 Special Attack | 45 | 70 | 239 | Medium Slow | N/A |
+| 3 Sp. Atk | 45 | 70 | 239 | Medium Slow | N/A |
 
 ---
 

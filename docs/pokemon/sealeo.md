@@ -16,12 +16,6 @@ It habitually spins things on its nose. By doing so, it learns textures and odor
 |-------|-------|------|-------|
 | ![Sealeo](../assets/sprites/sealeo/front.gif "Sealeo: It habitually spins things on its nose. By doing so, it learns textures and odors.") | ![Sealeo](../assets/sprites/sealeo/front_shiny.png "Sealeo: It habitually spins things on its nose. By doing so, it learns textures and odors.") | ![Sealeo](../assets/sprites/sealeo/back.png "Sealeo: It habitually spins things on its nose. By doing so, it learns textures and odors.") | ![Sealeo](../assets/sprites/sealeo/back_shiny.png "Sealeo: It habitually spins things on its nose. By doing so, it learns textures and odors.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #364 | ![ice](../assets/types/ice.png "Ice"){: width="48"} ![water](../assets/types/water.png "Water"){: width="48"} | 1.1 m /<br>3.6 ft | 87.6 kg /<br>193.1 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="The Pokémon regains HP in a hailstorm.">Ice Body</span><br>3. <span class="tooltip" title="Prevents the Pokémon from becoming infatuated.">Oblivious</span> | N/A |
+| #364 | ![ice](../assets/types/ice.png "Ice"){: width="48"}<br>![water](../assets/types/water.png "Water"){: width="48"} | 1.1 m /<br>3.6 ft | 87.6 kg /<br>193.1 lbs | 1. <span class="tooltip" title="Raises resistance to Fire-​ and Ice-type moves.">Thick Fat</span><br>2. <span class="tooltip" title="The Pokémon regains HP in a hailstorm.">Ice Body</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Sealeo has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Hp | 120 | 50 | 144 | Medium Slow | N/A |
+| 2 None | 120 | 50 | 144 | Medium Slow | N/A |
 
 ---
 

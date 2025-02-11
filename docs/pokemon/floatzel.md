@@ -20,7 +20,7 @@ It is a common sight around fishing ports. It is known to rescue people and carr
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Floatzel](../assets/sprites/floatzel/front_female.gif "Floatzel: It is a common sight around fishing ports. It is known to rescue people and carry off prey.") | ? | ![Floatzel](../assets/sprites/floatzel/back_female.png "Floatzel: It is a common sight around fishing ports. It is known to rescue people and carry off prey.") | ![Floatzel](../assets/sprites/floatzel/back_shiny_female.png "Floatzel: It is a common sight around fishing ports. It is known to rescue people and carry off prey.") |
+| ![Floatzel](../assets/sprites/floatzel/front_female.gif "Floatzel: It is a common sight around fishing ports. It is known to rescue people and carry off prey.") | N/A | ![Floatzel](../assets/sprites/floatzel/back_female.png "Floatzel: It is a common sight around fishing ports. It is known to rescue people and carry off prey.") | ![Floatzel](../assets/sprites/floatzel/back_shiny_female.png "Floatzel: It is a common sight around fishing ports. It is known to rescue people and carry off prey.") |
 
 ### Cries
 
@@ -83,7 +83,7 @@ Floatzel has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Speed | 75 | 70 | 173 | Mediu |
+| 2 Spd | 75 | 70 | 173 | Mediu |
 
 ---
 

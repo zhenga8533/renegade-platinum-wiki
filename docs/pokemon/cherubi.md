@@ -16,12 +16,6 @@ The small ball is not only filled with nutrients, it is also tasty. STARLY try t
 |-------|-------|------|-------|
 | ![Cherubi](../assets/sprites/cherubi/front.gif "Cherubi: The small ball is not only filled with nutrients, it is also tasty. STARLY try to peck it off.") | ![Cherubi](../assets/sprites/cherubi/front_shiny.png "Cherubi: The small ball is not only filled with nutrients, it is also tasty. STARLY try to peck it off.") | ![Cherubi](../assets/sprites/cherubi/back.png "Cherubi: The small ball is not only filled with nutrients, it is also tasty. STARLY try to peck it off.") | ![Cherubi](../assets/sprites/cherubi/back_shiny.png "Cherubi: The small ball is not only filled with nutrients, it is also tasty. STARLY try to peck it off.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -83,7 +77,7 @@ Cherubi has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack | 190 | 50 | 55 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.">Miracle Seed</span> (5%) |
+| 1 Sp. Atk | 190 | 50 | 55 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves.">Miracle Seed</span> (5%) |
 
 ---
 

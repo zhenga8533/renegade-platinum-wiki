@@ -20,7 +20,7 @@ Its cries echo inside its hollow body to emerge as beautiful notes for startling
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ? | ? | ![Chimecho](../assets/sprites/chimecho/back_female.png "Chimecho: Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.") | ![Chimecho](../assets/sprites/chimecho/back_shiny_female.png "Chimecho: Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.") |
+| N/A | N/A | ![Chimecho](../assets/sprites/chimecho/back_female.png "Chimecho: Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.") | ![Chimecho](../assets/sprites/chimecho/back_shiny_female.png "Chimecho: Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.") |
 
 ### Cries
 
@@ -83,7 +83,7 @@ Chimecho has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Special Attack<br>1 Special Defense | 45 | 70 | 159 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.">Cleanse Tag</span> (5%) |
+| 1 Sp. Atk<br>1 Sp. Def | 45 | 70 | 159 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party.">Cleanse Tag</span> (5%) |
 
 ---
 

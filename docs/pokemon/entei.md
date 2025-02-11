@@ -16,12 +16,6 @@ It is said that when it roars, a volcano erupts somewhere around the globe.
 |-------|-------|------|-------|
 | ![Entei](../assets/sprites/entei/front.gif "Entei: It is said that when it roars, a volcano erupts somewhere around the globe.") | ![Entei](../assets/sprites/entei/front_shiny.png "Entei: It is said that when it roars, a volcano erupts somewhere around the globe.") | ![Entei](../assets/sprites/entei/back.png "Entei: It is said that when it roars, a volcano erupts somewhere around the globe.") | ![Entei](../assets/sprites/entei/back_shiny.png "Entei: It is said that when it roars, a volcano erupts somewhere around the globe.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -81,7 +75,7 @@ Entei has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp<br>2 Attack | 3 | 35 | 290 | Slow | N/A |
+| 1 None<br>2 Atk | 3 | 35 | 290 | Slow | N/A |
 
 ---
 

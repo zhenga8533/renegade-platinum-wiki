@@ -16,12 +16,6 @@ It has a very nervous nature. It stands up high on its tail so it can scan wide 
 |-------|-------|------|-------|
 | ![Sentret](../assets/sprites/sentret/front.gif "Sentret: It has a very nervous nature. It stands up high on its tail so it can scan wide areas.") | ![Sentret](../assets/sprites/sentret/front_shiny.png "Sentret: It has a very nervous nature. It stands up high on its tail so it can scan wide areas.") | ![Sentret](../assets/sprites/sentret/back.png "Sentret: It has a very nervous nature. It stands up high on its tail so it can scan wide areas.") | ![Sentret](../assets/sprites/sentret/back_shiny.png "Sentret: It has a very nervous nature. It stands up high on its tail so it can scan wide areas.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #161 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.8 m /<br>2.6 ft | 6.0 kg /<br>13.2 lbs | 1. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>2. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span><br>3. <span class="tooltip" title="The Pokémon can check the foe’s held item.">Frisk</span> | N/A |
+| #161 | ![normal](../assets/types/normal.png "Normal"){: width="48"} | 0.8 m /<br>2.6 ft | 6.0 kg /<br>13.2 lbs | 1. <span class="tooltip" title="Enables sure getaway from wild Pokémon.">Run Away</span><br>2. <span class="tooltip" title="Prevents the Pokémon from losing accuracy.">Keen Eye</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Sentret has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Attack | 255 | 70 | 43 | Mediu |
+| 1 Atk | 255 | 70 | 43 | Mediu |
 
 ---
 

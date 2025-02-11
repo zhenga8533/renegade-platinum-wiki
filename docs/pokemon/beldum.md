@@ -16,12 +16,6 @@ It converses with others by using magnetic pulses. In a swarm, they move in perf
 |-------|-------|------|-------|
 | ![Beldum](../assets/sprites/beldum/front.gif "Beldum: It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.") | ![Beldum](../assets/sprites/beldum/front_shiny.png "Beldum: It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.") | ![Beldum](../assets/sprites/beldum/back.png "Beldum: It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.") | ![Beldum](../assets/sprites/beldum/back_shiny.png "Beldum: It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #374 | ![steel](../assets/types/steel.png "Steel"){: width="48"} ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.6 m /<br>2.0 ft | 95.2 kg /<br>209.9 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="Prevents the Pokémon’s stats from being lowered.">Clear Body</span> | N/A |
+| #374 | ![steel](../assets/types/steel.png "Steel"){: width="48"}<br>![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | 0.6 m /<br>2.0 ft | 95.2 kg /<br>209.9 lbs | 1. <span class="tooltip" title="Protects the Pokémon from recoil damage.">Rock Head</span><br>2. <span class="tooltip" title="Prevents the Pokémon’s stats from being lowered.">Clear Body</span> | N/A |
 
 ---
 
@@ -85,7 +79,7 @@ Beldum has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Defense | 3 | 35 | 60 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
+| 1 Def | 3 | 35 | 60 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves.">Metal Coat</span> (5%) |
 
 ---
 

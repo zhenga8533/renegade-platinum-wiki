@@ -16,12 +16,6 @@ It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It
 |-------|-------|------|-------|
 | ![Grimer](../assets/sprites/grimer/front.gif "Grimer: It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth.") | ![Grimer](../assets/sprites/grimer/front_shiny.png "Grimer: It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth.") | ![Grimer](../assets/sprites/grimer/back.png "Grimer: It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth.") | ![Grimer](../assets/sprites/grimer/back_shiny.png "Grimer: It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #88 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.9 m /<br>3.0 ft | 30.0 kg /<br>66.1 lbs | 1. <span class="tooltip" title="The stench helps keep wild Pokémon away.">Stench</span><br>2. <span class="tooltip" title="Protects the Pokémon from item theft.">Sticky Hold</span><br>3. <span class="tooltip" title="This Pokémon's contact moves have a 30% chance of poisoning the target with each hit.  This counts as an extra effect for the purposes of shield dust.  This ability takes effect before mummy.">Poison Touch</span> | N/A |
+| #88 | ![poison](../assets/types/poison.png "Poison"){: width="48"} | 0.9 m /<br>3.0 ft | 30.0 kg /<br>66.1 lbs | 1. <span class="tooltip" title="The stench helps keep wild Pokémon away.">Stench</span><br>2. <span class="tooltip" title="Protects the Pokémon from item theft.">Sticky Hold</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Grimer has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Hp | 190 | 70 | 65 | Medium | <span class="tooltip" title="A hold item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types.">Black Sludge</span> (5%) |
+| 1 None | 190 | 70 | 65 | Medium | <span class="tooltip" title="A hold item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types.">Black Sludge</span> (5%) |
 
 ---
 

@@ -16,12 +16,6 @@ When AZELF flew, people gained the determination to do things. It was the birth 
 |-------|-------|------|-------|
 | ![Azelf](../assets/sprites/azelf/front.gif "Azelf: When AZELF flew, people gained the determination to do things. It was the birth of willpower.") | ![Azelf](../assets/sprites/azelf/front_shiny.png "Azelf: When AZELF flew, people gained the determination to do things. It was the birth of willpower.") | ![Azelf](../assets/sprites/azelf/back.png "Azelf: When AZELF flew, people gained the determination to do things. It was the birth of willpower.") | ![Azelf](../assets/sprites/azelf/back_shiny.png "Azelf: When AZELF flew, people gained the determination to do things. It was the birth of willpower.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #482 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} ![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.3 m /<br>1.0 ft | 0.3 kg /<br>0.7 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | #148 |
+| #482 | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"}<br>![fairy](../assets/types/fairy.png "Fairy"){: width="48"} | 0.3 m /<br>1.0 ft | 0.3 kg /<br>0.7 lbs | 1. <span class="tooltip" title="Gives full immunity to all Ground-type moves.">Levitate</span> | #148 |
 
 ---
 
@@ -81,7 +75,7 @@ Azelf has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Attack<br>1 Special Attack | 3 | 140 | 290 | Slow | N/A |
+| 2 Atk<br>1 Sp. Atk | 3 | 140 | 290 | Slow | N/A |
 
 ---
 

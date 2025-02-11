@@ -16,12 +16,6 @@ The soles of its feet are covered by countless tiny spikes, enabling it to walk 
 |-------|-------|------|-------|
 | ![Treecko](../assets/sprites/treecko/front.gif "Treecko: The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.") | ![Treecko](../assets/sprites/treecko/front_shiny.png "Treecko: The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.") | ![Treecko](../assets/sprites/treecko/back.png "Treecko: The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.") | ![Treecko](../assets/sprites/treecko/back_shiny.png "Treecko: The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -85,7 +79,7 @@ Treecko has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Speed | 45 | 50 | 62 | Medium Slow | N/A |
+| 1 Spd | 45 | 50 | 62 | Medium Slow | N/A |
 
 ---
 

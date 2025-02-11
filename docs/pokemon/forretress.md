@@ -16,12 +16,6 @@ It is encased in a steel shell. Its peering eyes are all that can be seen of its
 |-------|-------|------|-------|
 | ![Forretress](../assets/sprites/forretress/front.gif "Forretress: It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.") | ![Forretress](../assets/sprites/forretress/front_shiny.png "Forretress: It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.") | ![Forretress](../assets/sprites/forretress/back.png "Forretress: It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.") | ![Forretress](../assets/sprites/forretress/back_shiny.png "Forretress: It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.") |
 
-### Female Sprites
-
-| Front | Shiny | Back | Shiny |
-|-------|-------|------|-------|
-| ? | ? | ? | ? |
-
 ### Cries
 
 Latest (Gen VI+):
@@ -44,7 +38,7 @@ Legacy:
 
 | National № | Type(s) | Height | Weight | Abilities | Local № |
 |------------|---------|--------|--------|-----------|---------|
-| #205 | ![bug](../assets/types/bug.png "Bug"){: width="48"} ![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.2 m /<br>3.9 ft | 125.8 kg /<br>277.3 lbs | 1. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span><br>2. <span class="tooltip" title="This Pokémon does not take damage from weather.">Overcoat</span> | N/A |
+| #205 | ![bug](../assets/types/bug.png "Bug"){: width="48"}<br>![steel](../assets/types/steel.png "Steel"){: width="48"} | 1.2 m /<br>3.9 ft | 125.8 kg /<br>277.3 lbs | 1. <span class="tooltip" title="The Pokémon is protected against 1-hit KO attacks.">Sturdy</span><br>2. <span class="tooltip" title="This Pokémon does not take damage from weather.">Overcoat</span> | N/A |
 
 ---
 
@@ -83,7 +77,7 @@ Forretress has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Defense | 75 | 70 | 163 | Medium | N/A |
+| 2 Def | 75 | 70 | 163 | Medium | N/A |
 
 ---
 
