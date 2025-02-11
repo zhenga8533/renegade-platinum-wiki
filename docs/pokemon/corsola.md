@@ -75,7 +75,7 @@ Corsola has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Def<br>1 Sp. Def | 60 | 50 | 144 | Fas |
+| 1 Def<br>1 Sp. Def | 60 | 50 | 144 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves.">Hard Stone</span> (5%) |
 
 ---
 

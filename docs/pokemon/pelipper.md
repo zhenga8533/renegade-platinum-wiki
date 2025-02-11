@@ -77,7 +77,7 @@ Pelipper has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 Def | 45 | 50 | 154 | Mediu |
+| 2 Def | 45 | 50 | 154 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.">Lucky Egg</span> (5%) |
 
 ---
 

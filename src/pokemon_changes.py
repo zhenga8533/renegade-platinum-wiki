@@ -6,6 +6,7 @@ import glob
 import json
 import logging
 import os
+import re
 
 
 def update_pokemon(pokemon_id: str, changes: dict, pokemon_path: str, logger: Logger) -> None:
@@ -147,7 +148,28 @@ def main():
                 md += f"\n---\n\n## {line}\n\n"
         # List changes
         elif line.startswith("- "):
-            md += f"1. {line[2:]}\n"
+            # Held item changes
+            item_pattern = r"- ([A-Za-z]+) has a ([0-9]+)% chance to hold a ([A-Z a-z]+)."
+            if match := re.match(item_pattern, line):
+                # Parse data from the line
+                pokemon, chance, item = match.groups()
+                pokemon_id = format_id(pokemon)
+                chance = int(chance)
+                item_id = format_id(item)
+                md += f"1. [{pokemon}](../pokemon/{pokemon_id}.md) has a {chance}% chance to hold a {item}.\n"
+
+                # Update Pokémon data
+                file_path = POKEMON_INPUT_PATH + pokemon_id + ".json"
+                pokemon_data = json.loads(load(file_path, logger))
+                held_items = pokemon_data["held_items"]
+                if item_id not in held_items:
+                    held_items[item_id] = {}
+                held_items[item_id]["ultra-sun"] = chance
+                held_items[item_id]["ultra-moon"] = chance
+                save(file_path, json.dumps(pokemon_data, indent=4), logger)
+            # Regular list changes
+            else:
+                md += f"1. {line[2:]}\n"
         # Code block changes
         elif parse_change:
             md += line + "\n"

@@ -16,10 +16,10 @@
 ## Held Item Exceptions
 
 1. Pokémon who may hold an item in Ultra Sun and Ultra Moon that doesn't exist in Platinum will not hold anything.
-1. Corsola has a 5% chance to hold a Hard Stone.
-1. Pelipper has a 5% chance to hold a Lucky Egg.
-1. Absol has a 5% chance to hold a Life Orb.
-1. Spiritomb has a 100% chance to hold a Smoke Ball.
+1. [Corsola](../pokemon/corsola.md) has a 5% chance to hold a Hard Stone.
+1. [Pelipper](../pokemon/pelipper.md) has a 5% chance to hold a Lucky Egg.
+1. [Absol](../pokemon/absol.md) has a 5% chance to hold a Life Orb.
+1. [Spiritomb](../pokemon/spiritomb.md) has a 100% chance to hold a Smoke Ball.
 
 ---
 

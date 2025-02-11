@@ -75,7 +75,7 @@ Spiritomb has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 Def<br>1 Sp. Def | 100 | 50 | 170 | Medium | N/A |
+| 1 Def<br>1 Sp. Def | 100 | 50 | 170 | Medium | <span class="tooltip" title="An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail.">Smoke Ball</span> (100%) |
 
 ---
 
