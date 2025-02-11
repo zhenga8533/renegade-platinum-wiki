@@ -79,7 +79,7 @@ Azurill has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 None | 150 | 180 | 38 | Fast | N/A |
+| 1 HP | 150 | 180 | 38 | Fast | N/A |
 
 ---
 

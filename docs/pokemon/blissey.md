@@ -79,7 +79,7 @@ Blissey has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 None | 30 | 140 | 635 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.">Lucky Egg</span> (5%) |
+| 3 HP | 30 | 140 | 635 | Fast | <span class="tooltip" title="An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle.">Lucky Egg</span> (5%) |
 
 ---
 

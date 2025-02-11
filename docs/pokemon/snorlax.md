@@ -77,7 +77,7 @@ Snorlax has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 None | 25 | 50 | 189 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. The holder’s HP is gradually restored during battle.">Leftovers</span> (5%) |
+| 2 HP | 25 | 50 | 189 | Slow | <span class="tooltip" title="An item to be held by a Pokémon. The holder’s HP is gradually restored during battle.">Leftovers</span> (5%) |
 
 ---
 

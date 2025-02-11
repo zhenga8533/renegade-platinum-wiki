@@ -79,7 +79,7 @@ Slaking has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 None | 45 | 70 | 252 | Slow | N/A |
+| 3 HP | 45 | 70 | 252 | Slow | N/A |
 
 ---
 

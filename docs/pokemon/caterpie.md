@@ -79,7 +79,7 @@ Caterpie has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 None | 255 | 50 | 39 | Medium | N/A |
+| 1 HP | 255 | 50 | 39 | Medium | N/A |
 
 ---
 

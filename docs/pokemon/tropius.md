@@ -75,7 +75,7 @@ Tropius has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 None | 200 | 70 | 161 | Slow | N/A |
+| 2 HP | 200 | 70 | 161 | Slow | N/A |
 
 ---
 

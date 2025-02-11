@@ -80,7 +80,7 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 None | 45 | 100 | 270 | Medium Slow | <span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to recover from any status problem.">Lum Berry</span> (5%) |
+| 3 HP | 45 | 100 | 270 | Medium Slow | <span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to recover from any status problem.">Lum Berry</span> (5%) |
 
 ---
 

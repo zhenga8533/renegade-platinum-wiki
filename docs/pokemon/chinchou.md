@@ -77,7 +77,7 @@ Chinchou has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 None | 190 | 50 | 66 | Slow | <span class="tooltip" title="An item to be held by CLAMPERL. A scale that shines a faint pink, it raises the Sp. Def stat.">Deep Sea Scale</span> (5%) |
+| 1 HP | 190 | 50 | 66 | Slow | <span class="tooltip" title="An item to be held by CLAMPERL. A scale that shines a faint pink, it raises the Sp. Def stat.">Deep Sea Scale</span> (5%) |
 
 ---
 

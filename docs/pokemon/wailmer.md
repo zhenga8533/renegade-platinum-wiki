@@ -77,7 +77,7 @@ Wailmer has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 None | 125 | 50 | 80 | Fast Then Very Slow | N/A |
+| 1 HP | 125 | 50 | 80 | Fast Then Very Slow | N/A |
 
 ---
 

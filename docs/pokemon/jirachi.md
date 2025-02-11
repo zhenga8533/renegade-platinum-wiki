@@ -75,7 +75,7 @@ Jirachi has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 None | 3 | 100 | 300 | Slow | <span class="tooltip" title="A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.">Star Piece</span> (5%) |
+| 3 HP | 3 | 100 | 300 | Slow | <span class="tooltip" title="A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops.">Star Piece</span> (5%) |
 
 ---
 

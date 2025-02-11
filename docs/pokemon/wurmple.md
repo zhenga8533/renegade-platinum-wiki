@@ -83,7 +83,7 @@ Wurmple has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 None | 255 | 70 | 56 | Medium | <span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to recover from poison.">Pecha Berry</span> (50%)<br><span class="tooltip" title="An item to be held by a Pokémon. It casts a tricky glare that lowers the opponent’s accuracy.">Bright Powder</span> (5%) |
+| 1 HP | 255 | 70 | 56 | Medium | <span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to recover from poison.">Pecha Berry</span> (50%)<br><span class="tooltip" title="An item to be held by a Pokémon. It casts a tricky glare that lowers the opponent’s accuracy.">Bright Powder</span> (5%) |
 
 ---
 

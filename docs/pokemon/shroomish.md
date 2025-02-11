@@ -77,7 +77,7 @@ Shroomish has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 None | 255 | 70 | 59 | Fast Then Very Slow | <span class="tooltip" title="A small and rare mushroom. It is quite popular among certain maniacal fan segments.">Tiny Mushroom</span> (50%)<br><span class="tooltip" title="A large and rare mushroom. It is very popular among certain maniacal fan segments.">Big Mushroom</span> (5%) |
+| 1 HP | 255 | 70 | 59 | Fast Then Very Slow | <span class="tooltip" title="A small and rare mushroom. It is quite popular among certain maniacal fan segments.">Tiny Mushroom</span> (50%)<br><span class="tooltip" title="A large and rare mushroom. It is very popular among certain maniacal fan segments.">Big Mushroom</span> (5%) |
 
 ---
 

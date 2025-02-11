@@ -77,7 +77,7 @@ Drifblim has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 None | 60 | 50 | 174 | Fast Then Very Slo |
+| 2 HP | 60 | 50 | 174 | Fast Then Very Slo |
 
 ---
 

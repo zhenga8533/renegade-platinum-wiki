@@ -79,7 +79,7 @@ Azumarill has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 None | 75 | 50 | 210 | Fast | N/A |
+| 3 HP | 75 | 50 | 210 | Fast | N/A |
 
 ---
 

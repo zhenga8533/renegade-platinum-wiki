@@ -79,7 +79,7 @@ Whismur has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 None | 190 | 50 | 48 | Medium Slo |
+| 1 HP | 190 | 50 | 48 | Medium Slo |
 
 ---
 

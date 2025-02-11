@@ -77,7 +77,7 @@ Phione has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 None | 30 | 70 | 216 | Slow | N/A |
+| 1 HP | 30 | 70 | 216 | Slow | N/A |
 
 ---
 

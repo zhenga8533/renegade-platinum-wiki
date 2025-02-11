@@ -83,7 +83,7 @@ Gulpin has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 None | 225 | 70 | 60 | Fast Then Very Slow | <span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to heal the user by just 10 HP.">Oran Berry</span> (50%)<br><span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to heal the user’s HP a little.">Sitrus Berry</span> (5%) |
+| 1 HP | 225 | 70 | 60 | Fast Then Very Slow | <span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to heal the user by just 10 HP.">Oran Berry</span> (50%)<br><span class="tooltip" title="A Poffin ingredient. It may be used or held by a Pokémon to heal the user’s HP a little.">Sitrus Berry</span> (5%) |
 
 ---
 

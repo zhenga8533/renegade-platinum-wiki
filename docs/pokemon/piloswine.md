@@ -85,7 +85,7 @@ Piloswine has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 None<br>1 Atk | 75 | 50 | 158 | Slo |
+| 1 HP<br>1 Atk | 75 | 50 | 158 | Slo |
 
 ---
 

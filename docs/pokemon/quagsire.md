@@ -83,7 +83,7 @@ Quagsire has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 None | 90 | 50 | 151 | Medium | N/A |
+| 2 HP | 90 | 50 | 151 | Medium | N/A |
 
 ---
 

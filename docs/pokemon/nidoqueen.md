@@ -79,7 +79,7 @@ Nidoqueen has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 3 None | 45 | 50 | 253 | Medium Slow | N/A |
+| 3 HP | 45 | 50 | 253 | Medium Slow | N/A |
 
 ---
 

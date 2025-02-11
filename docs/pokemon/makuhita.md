@@ -77,7 +77,7 @@ Makuhita has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 1 None | 180 | 70 | 47 | Fast Then Very Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a belt that boosts determination and Fighting-type moves.">Black Belt</span> (5%) |
+| 1 HP | 180 | 70 | 47 | Fast Then Very Slow | <span class="tooltip" title="An item to be held by a Pokémon. It is a belt that boosts determination and Fighting-type moves.">Black Belt</span> (5%) |
 
 ---
 

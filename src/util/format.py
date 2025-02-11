@@ -117,7 +117,7 @@ def format_stat(stat: str) -> str:
     """
 
     stat = format_id(stat)
-    if stat == "health":
+    if stat == "health" or stat == "hp":
         return "HP"
     elif stat == "attack":
         return "Atk"
@@ -129,6 +129,8 @@ def format_stat(stat: str) -> str:
         return "Sp. Def"
     elif stat == "speed":
         return "Spd"
+    else:
+        return stat
 
 
 def revert_id(id: str, symbol: str = "-") -> str:

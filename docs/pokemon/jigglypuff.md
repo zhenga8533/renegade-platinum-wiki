@@ -79,7 +79,7 @@ Jigglypuff has no alternate forms.
 
 | EV Yield | Catch Rate | Base Friendship | Base Exp. | Growth Rate | Held Items |
 |----------|------------|-----------------|-----------|-------------|------------|
-| 2 None | 170 | 50 | 95 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.">Moon Stone</span> (5%) |
+| 2 HP | 170 | 50 | 95 | Fast | <span class="tooltip" title="A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.">Moon Stone</span> (5%) |
 
 ---
 
