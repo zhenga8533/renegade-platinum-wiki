@@ -14,13 +14,13 @@ It can see clearly through walls to track down its prey and seek its lost young.
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Luxray](../assets/sprites/luxray/front.gif "Luxray") | ![Luxray](../assets/sprites/luxray/front_shiny.png "Luxray") | ![Luxray](../assets/sprites/luxray/back.png "Luxray") | ![Luxray](../assets/sprites/luxray/back_shiny.png "Luxray") |
+| ![Luxray](../assets/sprites/luxray/front.gif "Luxray: It can see clearly through walls to track down its prey and seek its lost young.") | ![Luxray](../assets/sprites/luxray/front_shiny.png "Luxray: It can see clearly through walls to track down its prey and seek its lost young.") | ![Luxray](../assets/sprites/luxray/back.png "Luxray: It can see clearly through walls to track down its prey and seek its lost young.") | ![Luxray](../assets/sprites/luxray/back_shiny.png "Luxray: It can see clearly through walls to track down its prey and seek its lost young.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Luxray](../assets/sprites/luxray/front_female.gif "Luxray") | ![Luxray](../assets/sprites/luxray/front_shiny_female.png "Luxray") | ![Luxray](../assets/sprites/luxray/back_female.png "Luxray") | ![Luxray](../assets/sprites/luxray/back_shiny_female.png "Luxray") |
+| ![Luxray](../assets/sprites/luxray/front_female.gif "Luxray: It can see clearly through walls to track down its prey and seek its lost young.") | ![Luxray](../assets/sprites/luxray/front_shiny_female.png "Luxray: It can see clearly through walls to track down its prey and seek its lost young.") | ![Luxray](../assets/sprites/luxray/back_female.png "Luxray: It can see clearly through walls to track down its prey and seek its lost young.") | ![Luxray](../assets/sprites/luxray/back_shiny_female.png "Luxray: It can see clearly through walls to track down its prey and seek its lost young.") |
 
 ### Cries
 

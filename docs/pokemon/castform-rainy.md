@@ -14,7 +14,13 @@ Its appearance changes with the weather. Recently, its molecules were found to b
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Castform Rainy](../assets/sprites/castform-rainy/front.png "Castform Rainy") | ![Castform Rainy](../assets/sprites/castform-rainy/front_shiny.png "Castform Rainy") | ![Castform Rainy](../assets/sprites/castform-rainy/back.png "Castform Rainy") | ![Castform Rainy](../assets/sprites/castform-rainy/back_shiny.png "Castform Rainy") |
+| ![Castform Rainy](../assets/sprites/castform-rainy/front.png "Castform Rainy: Its appearance changes with the weather. Recently, its molecules were found to be just like water.") | ![Castform Rainy](../assets/sprites/castform-rainy/front_shiny.png "Castform Rainy: Its appearance changes with the weather. Recently, its molecules were found to be just like water.") | ![Castform Rainy](../assets/sprites/castform-rainy/back.png "Castform Rainy: Its appearance changes with the weather. Recently, its molecules were found to be just like water.") | ![Castform Rainy](../assets/sprites/castform-rainy/back_shiny.png "Castform Rainy: Its appearance changes with the weather. Recently, its molecules were found to be just like water.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

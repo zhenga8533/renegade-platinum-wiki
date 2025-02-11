@@ -14,7 +14,13 @@ While it does not prefer to fight, even one drop of the poison it secretes from 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Nidoran F](../assets/sprites/nidoran-f/front.gif "Nidoran F") | ![Nidoran F](../assets/sprites/nidoran-f/front_shiny.png "Nidoran F") | ![Nidoran F](../assets/sprites/nidoran-f/back.png "Nidoran F") | ![Nidoran F](../assets/sprites/nidoran-f/back_shiny.png "Nidoran F") |
+| ![Nidoran F](../assets/sprites/nidoran-f/front.gif "Nidoran F: While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.") | ![Nidoran F](../assets/sprites/nidoran-f/front_shiny.png "Nidoran F: While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.") | ![Nidoran F](../assets/sprites/nidoran-f/back.png "Nidoran F: While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.") | ![Nidoran F](../assets/sprites/nidoran-f/back_shiny.png "Nidoran F: While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

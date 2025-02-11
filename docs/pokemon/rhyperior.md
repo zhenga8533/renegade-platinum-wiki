@@ -14,13 +14,13 @@ It can launch a rock held in its hand like a missile by tightening then expandin
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Rhyperior](../assets/sprites/rhyperior/front.gif "Rhyperior") | ![Rhyperior](../assets/sprites/rhyperior/front_shiny.png "Rhyperior") | ![Rhyperior](../assets/sprites/rhyperior/back.png "Rhyperior") | ![Rhyperior](../assets/sprites/rhyperior/back_shiny.png "Rhyperior") |
+| ![Rhyperior](../assets/sprites/rhyperior/front.gif "Rhyperior: It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly.") | ![Rhyperior](../assets/sprites/rhyperior/front_shiny.png "Rhyperior: It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly.") | ![Rhyperior](../assets/sprites/rhyperior/back.png "Rhyperior: It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly.") | ![Rhyperior](../assets/sprites/rhyperior/back_shiny.png "Rhyperior: It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Rhyperior](../assets/sprites/rhyperior/front_female.gif "Rhyperior") | ![Rhyperior](../assets/sprites/rhyperior/front_shiny_female.png "Rhyperior") | ![Rhyperior](../assets/sprites/rhyperior/back_female.png "Rhyperior") | ![Rhyperior](../assets/sprites/rhyperior/back_shiny_female.png "Rhyperior") |
+| ![Rhyperior](../assets/sprites/rhyperior/front_female.gif "Rhyperior: It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly.") | ![Rhyperior](../assets/sprites/rhyperior/front_shiny_female.png "Rhyperior: It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly.") | ![Rhyperior](../assets/sprites/rhyperior/back_female.png "Rhyperior: It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly.") | ![Rhyperior](../assets/sprites/rhyperior/back_shiny_female.png "Rhyperior: It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly.") |
 
 ### Cries
 

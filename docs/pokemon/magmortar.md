@@ -14,7 +14,13 @@ When launching 3,600 degrees F fireballs, its body takes on a whitish hue from t
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Magmortar](../assets/sprites/magmortar/front.gif "Magmortar") | ![Magmortar](../assets/sprites/magmortar/front_shiny.png "Magmortar") | ![Magmortar](../assets/sprites/magmortar/back.png "Magmortar") | ![Magmortar](../assets/sprites/magmortar/back_shiny.png "Magmortar") |
+| ![Magmortar](../assets/sprites/magmortar/front.gif "Magmortar: When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat.") | ![Magmortar](../assets/sprites/magmortar/front_shiny.png "Magmortar: When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat.") | ![Magmortar](../assets/sprites/magmortar/back.png "Magmortar: When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat.") | ![Magmortar](../assets/sprites/magmortar/back_shiny.png "Magmortar: When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

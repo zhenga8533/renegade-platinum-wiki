@@ -14,7 +14,13 @@ A legendary Pokémon of Sinnoh. It is said that time flows when DIALGA’s heart
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Dialga](../assets/sprites/dialga/front.gif "Dialga") | ![Dialga](../assets/sprites/dialga/front_shiny.png "Dialga") | ![Dialga](../assets/sprites/dialga/back.png "Dialga") | ![Dialga](../assets/sprites/dialga/back_shiny.png "Dialga") |
+| ![Dialga](../assets/sprites/dialga/front.gif "Dialga: A legendary Pokémon of Sinnoh. It is said that time flows when DIALGA’s heart beats.") | ![Dialga](../assets/sprites/dialga/front_shiny.png "Dialga: A legendary Pokémon of Sinnoh. It is said that time flows when DIALGA’s heart beats.") | ![Dialga](../assets/sprites/dialga/back.png "Dialga: A legendary Pokémon of Sinnoh. It is said that time flows when DIALGA’s heart beats.") | ![Dialga](../assets/sprites/dialga/back_shiny.png "Dialga: A legendary Pokémon of Sinnoh. It is said that time flows when DIALGA’s heart beats.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

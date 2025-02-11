@@ -14,7 +14,13 @@ With its extremely tough muscles, it can keep swimming in the Pacific Ocean with
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Poliwrath](../assets/sprites/poliwrath/front.gif "Poliwrath") | ![Poliwrath](../assets/sprites/poliwrath/front_shiny.png "Poliwrath") | ![Poliwrath](../assets/sprites/poliwrath/back.png "Poliwrath") | ![Poliwrath](../assets/sprites/poliwrath/back_shiny.png "Poliwrath") |
+| ![Poliwrath](../assets/sprites/poliwrath/front.gif "Poliwrath: With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.") | ![Poliwrath](../assets/sprites/poliwrath/front_shiny.png "Poliwrath: With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.") | ![Poliwrath](../assets/sprites/poliwrath/back.png "Poliwrath: With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.") | ![Poliwrath](../assets/sprites/poliwrath/back_shiny.png "Poliwrath: With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ Staring at its antlers creates an odd sensation as if one were being drawn into 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Stantler](../assets/sprites/stantler/front.gif "Stantler") | ![Stantler](../assets/sprites/stantler/front_shiny.png "Stantler") | ![Stantler](../assets/sprites/stantler/back.png "Stantler") | ![Stantler](../assets/sprites/stantler/back_shiny.png "Stantler") |
+| ![Stantler](../assets/sprites/stantler/front.gif "Stantler: Staring at its antlers creates an odd sensation as if one were being drawn into their centers.") | ![Stantler](../assets/sprites/stantler/front_shiny.png "Stantler: Staring at its antlers creates an odd sensation as if one were being drawn into their centers.") | ![Stantler](../assets/sprites/stantler/back.png "Stantler: Staring at its antlers creates an odd sensation as if one were being drawn into their centers.") | ![Stantler](../assets/sprites/stantler/back_shiny.png "Stantler: Staring at its antlers creates an odd sensation as if one were being drawn into their centers.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ Its jaw power is incredible. It is adept at biting apart foes while flying by at
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Yanmega](../assets/sprites/yanmega/front.gif "Yanmega") | ![Yanmega](../assets/sprites/yanmega/front_shiny.png "Yanmega") | ![Yanmega](../assets/sprites/yanmega/back.png "Yanmega") | ![Yanmega](../assets/sprites/yanmega/back_shiny.png "Yanmega") |
+| ![Yanmega](../assets/sprites/yanmega/front.gif "Yanmega: Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed.") | ![Yanmega](../assets/sprites/yanmega/front_shiny.png "Yanmega: Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed.") | ![Yanmega](../assets/sprites/yanmega/back.png "Yanmega: Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed.") | ![Yanmega](../assets/sprites/yanmega/back_shiny.png "Yanmega: Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

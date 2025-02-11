@@ -14,7 +14,13 @@ It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Lugia](../assets/sprites/lugia/front.gif "Lugia") | ![Lugia](../assets/sprites/lugia/front_shiny.png "Lugia") | ![Lugia](../assets/sprites/lugia/back.png "Lugia") | ![Lugia](../assets/sprites/lugia/back_shiny.png "Lugia") |
+| ![Lugia](../assets/sprites/lugia/front.gif "Lugia: It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.") | ![Lugia](../assets/sprites/lugia/front_shiny.png "Lugia: It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.") | ![Lugia](../assets/sprites/lugia/back.png "Lugia: It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.") | ![Lugia](../assets/sprites/lugia/back_shiny.png "Lugia: It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

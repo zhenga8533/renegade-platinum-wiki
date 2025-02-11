@@ -14,7 +14,13 @@ If its horns capture the warm feelings of people or Pokémon, its body warms up 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Ralts](../assets/sprites/ralts/front.gif "Ralts") | ![Ralts](../assets/sprites/ralts/front_shiny.png "Ralts") | ![Ralts](../assets/sprites/ralts/back.png "Ralts") | ![Ralts](../assets/sprites/ralts/back_shiny.png "Ralts") |
+| ![Ralts](../assets/sprites/ralts/front.gif "Ralts: If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.") | ![Ralts](../assets/sprites/ralts/front_shiny.png "Ralts: If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.") | ![Ralts](../assets/sprites/ralts/back.png "Ralts: If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.") | ![Ralts](../assets/sprites/ralts/back_shiny.png "Ralts: If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

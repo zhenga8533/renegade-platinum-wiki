@@ -14,7 +14,13 @@ To protect its Trainer, it will expend all its psychic power to create a small b
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Gardevoir](../assets/sprites/gardevoir/front.gif "Gardevoir") | ![Gardevoir](../assets/sprites/gardevoir/front_shiny.png "Gardevoir") | ![Gardevoir](../assets/sprites/gardevoir/back.png "Gardevoir") | ![Gardevoir](../assets/sprites/gardevoir/back_shiny.png "Gardevoir") |
+| ![Gardevoir](../assets/sprites/gardevoir/front.gif "Gardevoir: To protect its Trainer, it will expend all its psychic power to create a small black hole.") | ![Gardevoir](../assets/sprites/gardevoir/front_shiny.png "Gardevoir: To protect its Trainer, it will expend all its psychic power to create a small black hole.") | ![Gardevoir](../assets/sprites/gardevoir/back.png "Gardevoir: To protect its Trainer, it will expend all its psychic power to create a small black hole.") | ![Gardevoir](../assets/sprites/gardevoir/back_shiny.png "Gardevoir: To protect its Trainer, it will expend all its psychic power to create a small black hole.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

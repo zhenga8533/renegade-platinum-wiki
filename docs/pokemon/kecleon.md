@@ -14,7 +14,13 @@ It can freely change its body’s color. The zigzag pattern on its belly doesn�
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Kecleon](../assets/sprites/kecleon/front.gif "Kecleon") | ![Kecleon](../assets/sprites/kecleon/front_shiny.png "Kecleon") | ![Kecleon](../assets/sprites/kecleon/back.png "Kecleon") | ![Kecleon](../assets/sprites/kecleon/back_shiny.png "Kecleon") |
+| ![Kecleon](../assets/sprites/kecleon/front.gif "Kecleon: It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however.") | ![Kecleon](../assets/sprites/kecleon/front_shiny.png "Kecleon: It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however.") | ![Kecleon](../assets/sprites/kecleon/back.png "Kecleon: It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however.") | ![Kecleon](../assets/sprites/kecleon/back_shiny.png "Kecleon: It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

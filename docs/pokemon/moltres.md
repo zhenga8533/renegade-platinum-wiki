@@ -14,7 +14,13 @@ One of the legendary bird Pokémon. It is said that its appearance indicates the
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Moltres](../assets/sprites/moltres/front.gif "Moltres") | ![Moltres](../assets/sprites/moltres/front_shiny.png "Moltres") | ![Moltres](../assets/sprites/moltres/back.png "Moltres") | ![Moltres](../assets/sprites/moltres/back_shiny.png "Moltres") |
+| ![Moltres](../assets/sprites/moltres/front.gif "Moltres: One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.") | ![Moltres](../assets/sprites/moltres/front_shiny.png "Moltres: One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.") | ![Moltres](../assets/sprites/moltres/back.png "Moltres: One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.") | ![Moltres](../assets/sprites/moltres/back_shiny.png "Moltres: One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

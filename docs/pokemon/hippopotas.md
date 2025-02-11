@@ -14,13 +14,13 @@ It shuts its nostrils tight then travels through sand as if walking. They form c
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Hippopotas](../assets/sprites/hippopotas/front.gif "Hippopotas") | ![Hippopotas](../assets/sprites/hippopotas/front_shiny.png "Hippopotas") | ![Hippopotas](../assets/sprites/hippopotas/back.png "Hippopotas") | ![Hippopotas](../assets/sprites/hippopotas/back_shiny.png "Hippopotas") |
+| ![Hippopotas](../assets/sprites/hippopotas/front.gif "Hippopotas: It shuts its nostrils tight then travels through sand as if walking. They form colonies of around ten.") | ![Hippopotas](../assets/sprites/hippopotas/front_shiny.png "Hippopotas: It shuts its nostrils tight then travels through sand as if walking. They form colonies of around ten.") | ![Hippopotas](../assets/sprites/hippopotas/back.png "Hippopotas: It shuts its nostrils tight then travels through sand as if walking. They form colonies of around ten.") | ![Hippopotas](../assets/sprites/hippopotas/back_shiny.png "Hippopotas: It shuts its nostrils tight then travels through sand as if walking. They form colonies of around ten.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Hippopotas](../assets/sprites/hippopotas/front_female.gif "Hippopotas") | ![Hippopotas](../assets/sprites/hippopotas/front_shiny_female.png "Hippopotas") | ![Hippopotas](../assets/sprites/hippopotas/back_female.png "Hippopotas") | ![Hippopotas](../assets/sprites/hippopotas/back_shiny_female.png "Hippopotas") |
+| ![Hippopotas](../assets/sprites/hippopotas/front_female.gif "Hippopotas: It shuts its nostrils tight then travels through sand as if walking. They form colonies of around ten.") | ![Hippopotas](../assets/sprites/hippopotas/front_shiny_female.png "Hippopotas: It shuts its nostrils tight then travels through sand as if walking. They form colonies of around ten.") | ![Hippopotas](../assets/sprites/hippopotas/back_female.png "Hippopotas: It shuts its nostrils tight then travels through sand as if walking. They form colonies of around ten.") | ![Hippopotas](../assets/sprites/hippopotas/back_shiny_female.png "Hippopotas: It shuts its nostrils tight then travels through sand as if walking. They form colonies of around ten.") |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It loves the crying of children. It startles bad kids by passing through walls a
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Duskull](../assets/sprites/duskull/front.gif "Duskull") | ![Duskull](../assets/sprites/duskull/front_shiny.png "Duskull") | ![Duskull](../assets/sprites/duskull/back.png "Duskull") | ![Duskull](../assets/sprites/duskull/back_shiny.png "Duskull") |
+| ![Duskull](../assets/sprites/duskull/front.gif "Duskull: It loves the crying of children. It startles bad kids by passing through walls and making them cry.") | ![Duskull](../assets/sprites/duskull/front_shiny.png "Duskull: It loves the crying of children. It startles bad kids by passing through walls and making them cry.") | ![Duskull](../assets/sprites/duskull/back.png "Duskull: It loves the crying of children. It startles bad kids by passing through walls and making them cry.") | ![Duskull](../assets/sprites/duskull/back_shiny.png "Duskull: It loves the crying of children. It startles bad kids by passing through walls and making them cry.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

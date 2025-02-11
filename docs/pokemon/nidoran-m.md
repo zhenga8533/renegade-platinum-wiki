@@ -14,7 +14,13 @@ It scans its surroundings by raising its ears out of the grass. Its toxic horn i
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Nidoran M](../assets/sprites/nidoran-m/front.gif "Nidoran M") | ![Nidoran M](../assets/sprites/nidoran-m/front_shiny.png "Nidoran M") | ![Nidoran M](../assets/sprites/nidoran-m/back.png "Nidoran M") | ![Nidoran M](../assets/sprites/nidoran-m/back_shiny.png "Nidoran M") |
+| ![Nidoran M](../assets/sprites/nidoran-m/front.gif "Nidoran M: It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.") | ![Nidoran M](../assets/sprites/nidoran-m/front_shiny.png "Nidoran M: It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.") | ![Nidoran M](../assets/sprites/nidoran-m/back.png "Nidoran M: It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.") | ![Nidoran M](../assets/sprites/nidoran-m/back_shiny.png "Nidoran M: It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It makes a single pearl during its lifetime. The pearl is said to amplify psychi
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Clamperl](../assets/sprites/clamperl/front.gif "Clamperl") | ![Clamperl](../assets/sprites/clamperl/front_shiny.png "Clamperl") | ![Clamperl](../assets/sprites/clamperl/back.png "Clamperl") | ![Clamperl](../assets/sprites/clamperl/back_shiny.png "Clamperl") |
+| ![Clamperl](../assets/sprites/clamperl/front.gif "Clamperl: It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.") | ![Clamperl](../assets/sprites/clamperl/front_shiny.png "Clamperl: It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.") | ![Clamperl](../assets/sprites/clamperl/back.png "Clamperl: It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.") | ![Clamperl](../assets/sprites/clamperl/back_shiny.png "Clamperl: It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

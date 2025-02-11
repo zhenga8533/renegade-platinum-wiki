@@ -14,7 +14,13 @@ It sneaks through grass without making a sound and strikes unsuspecting prey fro
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Ekans](../assets/sprites/ekans/front.gif "Ekans") | ![Ekans](../assets/sprites/ekans/front_shiny.png "Ekans") | ![Ekans](../assets/sprites/ekans/back.png "Ekans") | ![Ekans](../assets/sprites/ekans/back_shiny.png "Ekans") |
+| ![Ekans](../assets/sprites/ekans/front.gif "Ekans: It sneaks through grass without making a sound and strikes unsuspecting prey from behind.") | ![Ekans](../assets/sprites/ekans/front_shiny.png "Ekans: It sneaks through grass without making a sound and strikes unsuspecting prey from behind.") | ![Ekans](../assets/sprites/ekans/back.png "Ekans: It sneaks through grass without making a sound and strikes unsuspecting prey from behind.") | ![Ekans](../assets/sprites/ekans/back_shiny.png "Ekans: It sneaks through grass without making a sound and strikes unsuspecting prey from behind.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

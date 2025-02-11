@@ -14,13 +14,13 @@ A pair may be seen rubbing their cheek pouches together in an effort to share st
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Pachirisu](../assets/sprites/pachirisu/front.gif "Pachirisu") | ![Pachirisu](../assets/sprites/pachirisu/front_shiny.png "Pachirisu") | ![Pachirisu](../assets/sprites/pachirisu/back.png "Pachirisu") | ![Pachirisu](../assets/sprites/pachirisu/back_shiny.png "Pachirisu") |
+| ![Pachirisu](../assets/sprites/pachirisu/front.gif "Pachirisu: A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.") | ![Pachirisu](../assets/sprites/pachirisu/front_shiny.png "Pachirisu: A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.") | ![Pachirisu](../assets/sprites/pachirisu/back.png "Pachirisu: A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.") | ![Pachirisu](../assets/sprites/pachirisu/back_shiny.png "Pachirisu: A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Pachirisu](../assets/sprites/pachirisu/front_female.gif "Pachirisu") | ![Pachirisu](../assets/sprites/pachirisu/front_shiny_female.png "Pachirisu") | N/A | N/A |
+| ![Pachirisu](../assets/sprites/pachirisu/front_female.gif "Pachirisu: A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.") | ![Pachirisu](../assets/sprites/pachirisu/front_shiny_female.png "Pachirisu: A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.") | ? | ? |
 
 ### Cries
 

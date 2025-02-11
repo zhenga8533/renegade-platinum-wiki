@@ -14,13 +14,13 @@ They appear when the snow flowers bloom. When the petals fall, they retreat to p
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Abomasnow](../assets/sprites/abomasnow/front.gif "Abomasnow") | ![Abomasnow](../assets/sprites/abomasnow/front_shiny.png "Abomasnow") | ![Abomasnow](../assets/sprites/abomasnow/back.png "Abomasnow") | ![Abomasnow](../assets/sprites/abomasnow/back_shiny.png "Abomasnow") |
+| ![Abomasnow](../assets/sprites/abomasnow/front.gif "Abomasnow: They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.") | ![Abomasnow](../assets/sprites/abomasnow/front_shiny.png "Abomasnow: They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.") | ![Abomasnow](../assets/sprites/abomasnow/back.png "Abomasnow: They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.") | ![Abomasnow](../assets/sprites/abomasnow/back_shiny.png "Abomasnow: They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Abomasnow](../assets/sprites/abomasnow/front_female.gif "Abomasnow") | ![Abomasnow](../assets/sprites/abomasnow/front_shiny_female.png "Abomasnow") | N/A | N/A |
+| ![Abomasnow](../assets/sprites/abomasnow/front_female.gif "Abomasnow: They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.") | ![Abomasnow](../assets/sprites/abomasnow/front_shiny_female.png "Abomasnow: They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.") | ? | ? |
 
 ### Cries
 

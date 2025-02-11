@@ -14,7 +14,13 @@ The pattern on its belly is for intimidation. It constricts foes while they are 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arbok](../assets/sprites/arbok/front.gif "Arbok") | ![Arbok](../assets/sprites/arbok/front_shiny.png "Arbok") | ![Arbok](../assets/sprites/arbok/back.png "Arbok") | ![Arbok](../assets/sprites/arbok/back_shiny.png "Arbok") |
+| ![Arbok](../assets/sprites/arbok/front.gif "Arbok: The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.") | ![Arbok](../assets/sprites/arbok/front_shiny.png "Arbok: The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.") | ![Arbok](../assets/sprites/arbok/back.png "Arbok: The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.") | ![Arbok](../assets/sprites/arbok/back_shiny.png "Arbok: The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

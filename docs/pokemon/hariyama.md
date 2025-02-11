@@ -14,7 +14,13 @@ It loves to match power with big-bodied Pokémon. It can knock a truck flying wi
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Hariyama](../assets/sprites/hariyama/front.gif "Hariyama") | ![Hariyama](../assets/sprites/hariyama/front_shiny.png "Hariyama") | ![Hariyama](../assets/sprites/hariyama/back.png "Hariyama") | ![Hariyama](../assets/sprites/hariyama/back_shiny.png "Hariyama") |
+| ![Hariyama](../assets/sprites/hariyama/front.gif "Hariyama: It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.") | ![Hariyama](../assets/sprites/hariyama/front_shiny.png "Hariyama: It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.") | ![Hariyama](../assets/sprites/hariyama/back.png "Hariyama: It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.") | ![Hariyama](../assets/sprites/hariyama/back_shiny.png "Hariyama: It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

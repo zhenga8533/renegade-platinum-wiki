@@ -14,7 +14,13 @@ It is often seen when shooting stars fill the night skies. It’s said to arrive
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Cleffa](../assets/sprites/cleffa/front.gif "Cleffa") | ![Cleffa](../assets/sprites/cleffa/front_shiny.png "Cleffa") | ![Cleffa](../assets/sprites/cleffa/back.png "Cleffa") | ![Cleffa](../assets/sprites/cleffa/back_shiny.png "Cleffa") |
+| ![Cleffa](../assets/sprites/cleffa/front.gif "Cleffa: It is often seen when shooting stars fill the night skies. It’s said to arrive riding on a shooting star.") | ![Cleffa](../assets/sprites/cleffa/front_shiny.png "Cleffa: It is often seen when shooting stars fill the night skies. It’s said to arrive riding on a shooting star.") | ![Cleffa](../assets/sprites/cleffa/back.png "Cleffa: It is often seen when shooting stars fill the night skies. It’s said to arrive riding on a shooting star.") | ![Cleffa](../assets/sprites/cleffa/back_shiny.png "Cleffa: It is often seen when shooting stars fill the night skies. It’s said to arrive riding on a shooting star.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

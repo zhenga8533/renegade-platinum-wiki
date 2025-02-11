@@ -14,7 +14,13 @@ It is timid in spite of its looks. If it becomes enraged, however, it will strik
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Granbull](../assets/sprites/granbull/front.gif "Granbull") | ![Granbull](../assets/sprites/granbull/front_shiny.png "Granbull") | ![Granbull](../assets/sprites/granbull/back.png "Granbull") | ![Granbull](../assets/sprites/granbull/back_shiny.png "Granbull") |
+| ![Granbull](../assets/sprites/granbull/front.gif "Granbull: It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.") | ![Granbull](../assets/sprites/granbull/front_shiny.png "Granbull: It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.") | ![Granbull](../assets/sprites/granbull/back.png "Granbull: It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.") | ![Granbull](../assets/sprites/granbull/back_shiny.png "Granbull: It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

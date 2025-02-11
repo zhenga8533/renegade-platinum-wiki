@@ -14,13 +14,19 @@ Beware of pushing strongly on its squishy body, as it makes a mysterious purple 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Shellos](../assets/sprites/shellos/front.gif "Shellos") | ![Shellos](../assets/sprites/shellos/front_shiny.png "Shellos") | ![Shellos](../assets/sprites/shellos/back.png "Shellos") | ![Shellos](../assets/sprites/shellos/back_shiny.png "Shellos") |
+| ![Shellos](../assets/sprites/shellos/front.gif "Shellos: Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.") | ![Shellos](../assets/sprites/shellos/front_shiny.png "Shellos: Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.") | ![Shellos](../assets/sprites/shellos/back.png "Shellos: Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.") | ![Shellos](../assets/sprites/shellos/back_shiny.png "Shellos: Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Shellos East Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Shellos East](../assets/sprites/shellos-east/front.png "Shellos East") | ![Shellos East](../assets/sprites/shellos-east/front_shiny.png "Shellos East") | ![Shellos East](../assets/sprites/shellos-east/back.png "Shellos East") | ![Shellos East](../assets/sprites/shellos-east/back_shiny.png "Shellos East") |
+| ![Shellos East](../assets/sprites/shellos-east/front.png "Shellos East: Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.") | ![Shellos East](../assets/sprites/shellos-east/front_shiny.png "Shellos East: Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.") | ![Shellos East](../assets/sprites/shellos-east/back.png "Shellos East: Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.") | ![Shellos East](../assets/sprites/shellos-east/back_shiny.png "Shellos East: Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.") |
 
 ### Cries
 

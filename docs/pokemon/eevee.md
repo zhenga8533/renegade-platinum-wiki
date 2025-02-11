@@ -14,7 +14,13 @@ Because its genetic makeup is irregular, it quickly changes its form due to a va
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Eevee](../assets/sprites/eevee/front.gif "Eevee") | ![Eevee](../assets/sprites/eevee/front_shiny.png "Eevee") | ![Eevee](../assets/sprites/eevee/back.png "Eevee") | ![Eevee](../assets/sprites/eevee/back_shiny.png "Eevee") |
+| ![Eevee](../assets/sprites/eevee/front.gif "Eevee: Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.") | ![Eevee](../assets/sprites/eevee/front_shiny.png "Eevee: Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.") | ![Eevee](../assets/sprites/eevee/back.png "Eevee: Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.") | ![Eevee](../assets/sprites/eevee/back_shiny.png "Eevee: Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

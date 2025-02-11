@@ -14,13 +14,13 @@ In its territory, it leaves scratches on trees that bear delicious berries or fr
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Ursaring](../assets/sprites/ursaring/front.gif "Ursaring") | ![Ursaring](../assets/sprites/ursaring/front_shiny.png "Ursaring") | ![Ursaring](../assets/sprites/ursaring/back.png "Ursaring") | ![Ursaring](../assets/sprites/ursaring/back_shiny.png "Ursaring") |
+| ![Ursaring](../assets/sprites/ursaring/front.gif "Ursaring: In its territory, it leaves scratches on trees that bear delicious berries or fruits.") | ![Ursaring](../assets/sprites/ursaring/front_shiny.png "Ursaring: In its territory, it leaves scratches on trees that bear delicious berries or fruits.") | ![Ursaring](../assets/sprites/ursaring/back.png "Ursaring: In its territory, it leaves scratches on trees that bear delicious berries or fruits.") | ![Ursaring](../assets/sprites/ursaring/back_shiny.png "Ursaring: In its territory, it leaves scratches on trees that bear delicious berries or fruits.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Ursaring](../assets/sprites/ursaring/front_female.gif "Ursaring") | ![Ursaring](../assets/sprites/ursaring/front_shiny_female.png "Ursaring") | ![Ursaring](../assets/sprites/ursaring/back_female.png "Ursaring") | ![Ursaring](../assets/sprites/ursaring/back_shiny_female.png "Ursaring") |
+| ![Ursaring](../assets/sprites/ursaring/front_female.gif "Ursaring: In its territory, it leaves scratches on trees that bear delicious berries or fruits.") | ![Ursaring](../assets/sprites/ursaring/front_shiny_female.png "Ursaring: In its territory, it leaves scratches on trees that bear delicious berries or fruits.") | ![Ursaring](../assets/sprites/ursaring/back_female.png "Ursaring: In its territory, it leaves scratches on trees that bear delicious berries or fruits.") | ![Ursaring](../assets/sprites/ursaring/back_shiny_female.png "Ursaring: In its territory, it leaves scratches on trees that bear delicious berries or fruits.") |
 
 ### Cries
 

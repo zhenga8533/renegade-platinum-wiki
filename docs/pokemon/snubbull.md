@@ -14,7 +14,13 @@ Small Pokémon flee from its scary face. It is, however, considered by women to 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Snubbull](../assets/sprites/snubbull/front.gif "Snubbull") | ![Snubbull](../assets/sprites/snubbull/front_shiny.png "Snubbull") | ![Snubbull](../assets/sprites/snubbull/back.png "Snubbull") | ![Snubbull](../assets/sprites/snubbull/back_shiny.png "Snubbull") |
+| ![Snubbull](../assets/sprites/snubbull/front.gif "Snubbull: Small Pokémon flee from its scary face. It is, however, considered by women to be cute.") | ![Snubbull](../assets/sprites/snubbull/front_shiny.png "Snubbull: Small Pokémon flee from its scary face. It is, however, considered by women to be cute.") | ![Snubbull](../assets/sprites/snubbull/back.png "Snubbull: Small Pokémon flee from its scary face. It is, however, considered by women to be cute.") | ![Snubbull](../assets/sprites/snubbull/back_shiny.png "Snubbull: Small Pokémon flee from its scary face. It is, however, considered by women to be cute.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

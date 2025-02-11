@@ -14,7 +14,13 @@ Its appearance changes with the weather. Recently, its molecules were found to b
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Castform Snowy](../assets/sprites/castform-snowy/front.png "Castform Snowy") | ![Castform Snowy](../assets/sprites/castform-snowy/front_shiny.png "Castform Snowy") | ![Castform Snowy](../assets/sprites/castform-snowy/back.png "Castform Snowy") | ![Castform Snowy](../assets/sprites/castform-snowy/back_shiny.png "Castform Snowy") |
+| ![Castform Snowy](../assets/sprites/castform-snowy/front.png "Castform Snowy: Its appearance changes with the weather. Recently, its molecules were found to be just like water.") | ![Castform Snowy](../assets/sprites/castform-snowy/front_shiny.png "Castform Snowy: Its appearance changes with the weather. Recently, its molecules were found to be just like water.") | ![Castform Snowy](../assets/sprites/castform-snowy/back.png "Castform Snowy: Its appearance changes with the weather. Recently, its molecules were found to be just like water.") | ![Castform Snowy](../assets/sprites/castform-snowy/back_shiny.png "Castform Snowy: Its appearance changes with the weather. Recently, its molecules were found to be just like water.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

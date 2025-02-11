@@ -14,7 +14,13 @@ Its cell composition is similar to water molecules. As a result, it can melt awa
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Vaporeon](../assets/sprites/vaporeon/front.gif "Vaporeon") | ![Vaporeon](../assets/sprites/vaporeon/front_shiny.png "Vaporeon") | ![Vaporeon](../assets/sprites/vaporeon/back.png "Vaporeon") | ![Vaporeon](../assets/sprites/vaporeon/back_shiny.png "Vaporeon") |
+| ![Vaporeon](../assets/sprites/vaporeon/front.gif "Vaporeon: Its cell composition is similar to water molecules. As a result, it can melt away into water.") | ![Vaporeon](../assets/sprites/vaporeon/front_shiny.png "Vaporeon: Its cell composition is similar to water molecules. As a result, it can melt away into water.") | ![Vaporeon](../assets/sprites/vaporeon/back.png "Vaporeon: Its cell composition is similar to water molecules. As a result, it can melt away into water.") | ![Vaporeon](../assets/sprites/vaporeon/back_shiny.png "Vaporeon: Its cell composition is similar to water molecules. As a result, it can melt away into water.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

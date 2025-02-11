@@ -14,7 +14,13 @@ It is known to drift on winds if it is bloated to bursting with stored electrici
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Electrode](../assets/sprites/electrode/front.gif "Electrode") | ![Electrode](../assets/sprites/electrode/front_shiny.png "Electrode") | ![Electrode](../assets/sprites/electrode/back.png "Electrode") | ![Electrode](../assets/sprites/electrode/back_shiny.png "Electrode") |
+| ![Electrode](../assets/sprites/electrode/front.gif "Electrode: It is known to drift on winds if it is bloated to bursting with stored electricity.") | ![Electrode](../assets/sprites/electrode/front_shiny.png "Electrode: It is known to drift on winds if it is bloated to bursting with stored electricity.") | ![Electrode](../assets/sprites/electrode/back.png "Electrode: It is known to drift on winds if it is bloated to bursting with stored electricity.") | ![Electrode](../assets/sprites/electrode/back_shiny.png "Electrode: It is known to drift on winds if it is bloated to bursting with stored electricity.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

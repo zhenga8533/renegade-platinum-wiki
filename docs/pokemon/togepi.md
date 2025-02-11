@@ -14,7 +14,13 @@ It transforms the kindness and joy of others into happiness, which it stores in 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Togepi](../assets/sprites/togepi/front.gif "Togepi") | ![Togepi](../assets/sprites/togepi/front_shiny.png "Togepi") | ![Togepi](../assets/sprites/togepi/back.png "Togepi") | ![Togepi](../assets/sprites/togepi/back_shiny.png "Togepi") |
+| ![Togepi](../assets/sprites/togepi/front.gif "Togepi: It transforms the kindness and joy of others into happiness, which it stores in its shell.") | ![Togepi](../assets/sprites/togepi/front_shiny.png "Togepi: It transforms the kindness and joy of others into happiness, which it stores in its shell.") | ![Togepi](../assets/sprites/togepi/back.png "Togepi: It transforms the kindness and joy of others into happiness, which it stores in its shell.") | ![Togepi](../assets/sprites/togepi/back_shiny.png "Togepi: It transforms the kindness and joy of others into happiness, which it stores in its shell.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

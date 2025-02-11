@@ -14,7 +14,13 @@ It whips up sandstorms with powerful flaps of its wings. It is known as “The D
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Flygon](../assets/sprites/flygon/front.gif "Flygon") | ![Flygon](../assets/sprites/flygon/front_shiny.png "Flygon") | ![Flygon](../assets/sprites/flygon/back.png "Flygon") | ![Flygon](../assets/sprites/flygon/back_shiny.png "Flygon") |
+| ![Flygon](../assets/sprites/flygon/front.gif "Flygon: It whips up sandstorms with powerful flaps of its wings. It is known as “The Desert Spirit.”") | ![Flygon](../assets/sprites/flygon/front_shiny.png "Flygon: It whips up sandstorms with powerful flaps of its wings. It is known as “The Desert Spirit.”") | ![Flygon](../assets/sprites/flygon/back.png "Flygon: It whips up sandstorms with powerful flaps of its wings. It is known as “The Desert Spirit.”") | ![Flygon](../assets/sprites/flygon/back_shiny.png "Flygon: It whips up sandstorms with powerful flaps of its wings. It is known as “The Desert Spirit.”") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

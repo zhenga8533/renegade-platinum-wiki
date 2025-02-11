@@ -14,7 +14,13 @@ Because its body is almost entirely composed of water, it shrivels up if it is w
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Tentacool](../assets/sprites/tentacool/front.gif "Tentacool") | ![Tentacool](../assets/sprites/tentacool/front_shiny.png "Tentacool") | ![Tentacool](../assets/sprites/tentacool/back.png "Tentacool") | ![Tentacool](../assets/sprites/tentacool/back_shiny.png "Tentacool") |
+| ![Tentacool](../assets/sprites/tentacool/front.gif "Tentacool: Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.") | ![Tentacool](../assets/sprites/tentacool/front_shiny.png "Tentacool: Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.") | ![Tentacool](../assets/sprites/tentacool/back.png "Tentacool: Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.") | ![Tentacool](../assets/sprites/tentacool/back_shiny.png "Tentacool: Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

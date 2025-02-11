@@ -14,13 +14,13 @@ A frozen one was dug up from soil dating back 10,000 years. It woke up to much a
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Mamoswine](../assets/sprites/mamoswine/front.gif "Mamoswine") | ![Mamoswine](../assets/sprites/mamoswine/front_shiny.png "Mamoswine") | ![Mamoswine](../assets/sprites/mamoswine/back.png "Mamoswine") | ![Mamoswine](../assets/sprites/mamoswine/back_shiny.png "Mamoswine") |
+| ![Mamoswine](../assets/sprites/mamoswine/front.gif "Mamoswine: A frozen one was dug up from soil dating back 10,000 years. It woke up to much amazement.") | ![Mamoswine](../assets/sprites/mamoswine/front_shiny.png "Mamoswine: A frozen one was dug up from soil dating back 10,000 years. It woke up to much amazement.") | ![Mamoswine](../assets/sprites/mamoswine/back.png "Mamoswine: A frozen one was dug up from soil dating back 10,000 years. It woke up to much amazement.") | ![Mamoswine](../assets/sprites/mamoswine/back_shiny.png "Mamoswine: A frozen one was dug up from soil dating back 10,000 years. It woke up to much amazement.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Mamoswine](../assets/sprites/mamoswine/front_female.gif "Mamoswine") | ![Mamoswine](../assets/sprites/mamoswine/front_shiny_female.png "Mamoswine") | N/A | N/A |
+| ![Mamoswine](../assets/sprites/mamoswine/front_female.gif "Mamoswine: A frozen one was dug up from soil dating back 10,000 years. It woke up to much amazement.") | ![Mamoswine](../assets/sprites/mamoswine/front_shiny_female.png "Mamoswine: A frozen one was dug up from soil dating back 10,000 years. It woke up to much amazement.") | ? | ? |
 
 ### Cries
 

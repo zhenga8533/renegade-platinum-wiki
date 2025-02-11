@@ -14,7 +14,13 @@ It curls up, then rolls into foes with its back. Its sharp spines inflict severe
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Sandslash](../assets/sprites/sandslash/front.gif "Sandslash") | ![Sandslash](../assets/sprites/sandslash/front_shiny.png "Sandslash") | ![Sandslash](../assets/sprites/sandslash/back.png "Sandslash") | ![Sandslash](../assets/sprites/sandslash/back_shiny.png "Sandslash") |
+| ![Sandslash](../assets/sprites/sandslash/front.gif "Sandslash: It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.") | ![Sandslash](../assets/sprites/sandslash/front_shiny.png "Sandslash: It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.") | ![Sandslash](../assets/sprites/sandslash/back.png "Sandslash: It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.") | ![Sandslash](../assets/sprites/sandslash/back_shiny.png "Sandslash: It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

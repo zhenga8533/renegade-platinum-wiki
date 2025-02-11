@@ -14,7 +14,13 @@ It prevents prey from escaping by instantaneously freezing moisture in the air.
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Glalie](../assets/sprites/glalie/front.gif "Glalie") | ![Glalie](../assets/sprites/glalie/front_shiny.png "Glalie") | ![Glalie](../assets/sprites/glalie/back.png "Glalie") | ![Glalie](../assets/sprites/glalie/back_shiny.png "Glalie") |
+| ![Glalie](../assets/sprites/glalie/front.gif "Glalie: It prevents prey from escaping by instantaneously freezing moisture in the air.") | ![Glalie](../assets/sprites/glalie/front_shiny.png "Glalie: It prevents prey from escaping by instantaneously freezing moisture in the air.") | ![Glalie](../assets/sprites/glalie/back.png "Glalie: It prevents prey from escaping by instantaneously freezing moisture in the air.") | ![Glalie](../assets/sprites/glalie/back_shiny.png "Glalie: It prevents prey from escaping by instantaneously freezing moisture in the air.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

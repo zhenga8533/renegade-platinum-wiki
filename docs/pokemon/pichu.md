@@ -14,7 +14,13 @@ The electric sacs in its cheeks are small. If even a little electricity leaks, i
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Pichu](../assets/sprites/pichu/front.gif "Pichu") | ![Pichu](../assets/sprites/pichu/front_shiny.png "Pichu") | ![Pichu](../assets/sprites/pichu/back.png "Pichu") | ![Pichu](../assets/sprites/pichu/back_shiny.png "Pichu") |
+| ![Pichu](../assets/sprites/pichu/front.gif "Pichu: The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.") | ![Pichu](../assets/sprites/pichu/front_shiny.png "Pichu: The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.") | ![Pichu](../assets/sprites/pichu/back.png "Pichu: The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.") | ![Pichu](../assets/sprites/pichu/back_shiny.png "Pichu: The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

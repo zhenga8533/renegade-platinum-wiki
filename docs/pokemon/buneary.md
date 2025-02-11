@@ -14,7 +14,13 @@ Its ears are always rolled up. They can be forcefully extended to shatter even a
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Buneary](../assets/sprites/buneary/front.gif "Buneary") | ![Buneary](../assets/sprites/buneary/front_shiny.png "Buneary") | ![Buneary](../assets/sprites/buneary/back.png "Buneary") | ![Buneary](../assets/sprites/buneary/back_shiny.png "Buneary") |
+| ![Buneary](../assets/sprites/buneary/front.gif "Buneary: Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.") | ![Buneary](../assets/sprites/buneary/front_shiny.png "Buneary: Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.") | ![Buneary](../assets/sprites/buneary/back.png "Buneary: Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.") | ![Buneary](../assets/sprites/buneary/back_shiny.png "Buneary: Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

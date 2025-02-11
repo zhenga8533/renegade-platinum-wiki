@@ -14,7 +14,13 @@ It is thought to have inhabited beaches 300 million years ago. It is protected b
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Kabuto](../assets/sprites/kabuto/front.gif "Kabuto") | ![Kabuto](../assets/sprites/kabuto/front_shiny.png "Kabuto") | ![Kabuto](../assets/sprites/kabuto/back.png "Kabuto") | ![Kabuto](../assets/sprites/kabuto/back_shiny.png "Kabuto") |
+| ![Kabuto](../assets/sprites/kabuto/front.gif "Kabuto: It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.") | ![Kabuto](../assets/sprites/kabuto/front_shiny.png "Kabuto: It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.") | ![Kabuto](../assets/sprites/kabuto/back.png "Kabuto: It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.") | ![Kabuto](../assets/sprites/kabuto/back_shiny.png "Kabuto: It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

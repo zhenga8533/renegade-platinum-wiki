@@ -14,7 +14,13 @@ It can hover in one spot by flapping its wings at high speed. It flits about to 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Yanma](../assets/sprites/yanma/front.gif "Yanma") | ![Yanma](../assets/sprites/yanma/front_shiny.png "Yanma") | ![Yanma](../assets/sprites/yanma/back.png "Yanma") | ![Yanma](../assets/sprites/yanma/back_shiny.png "Yanma") |
+| ![Yanma](../assets/sprites/yanma/front.gif "Yanma: It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.") | ![Yanma](../assets/sprites/yanma/front_shiny.png "Yanma: It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.") | ![Yanma](../assets/sprites/yanma/back.png "Yanma: It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.") | ![Yanma](../assets/sprites/yanma/back_shiny.png "Yanma: It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

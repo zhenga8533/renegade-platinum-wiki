@@ -14,7 +14,13 @@ A weak electric current flows between its horns. Sticking a hand there shocks th
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Elekid](../assets/sprites/elekid/front.gif "Elekid") | ![Elekid](../assets/sprites/elekid/front_shiny.png "Elekid") | ![Elekid](../assets/sprites/elekid/back.png "Elekid") | ![Elekid](../assets/sprites/elekid/back_shiny.png "Elekid") |
+| ![Elekid](../assets/sprites/elekid/front.gif "Elekid: A weak electric current flows between its horns. Sticking a hand there shocks the unwary.") | ![Elekid](../assets/sprites/elekid/front_shiny.png "Elekid: A weak electric current flows between its horns. Sticking a hand there shocks the unwary.") | ![Elekid](../assets/sprites/elekid/back.png "Elekid: A weak electric current flows between its horns. Sticking a hand there shocks the unwary.") | ![Elekid](../assets/sprites/elekid/back_shiny.png "Elekid: A weak electric current flows between its horns. Sticking a hand there shocks the unwary.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

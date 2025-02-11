@@ -14,7 +14,13 @@ A legendary Pokémon of Sinnoh. It is said that space becomes more stable with P
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Palkia](../assets/sprites/palkia/front.gif "Palkia") | ![Palkia](../assets/sprites/palkia/front_shiny.png "Palkia") | ![Palkia](../assets/sprites/palkia/back.png "Palkia") | ![Palkia](../assets/sprites/palkia/back_shiny.png "Palkia") |
+| ![Palkia](../assets/sprites/palkia/front.gif "Palkia: A legendary Pokémon of Sinnoh. It is said that space becomes more stable with PALKIA’s every breath.") | ![Palkia](../assets/sprites/palkia/front_shiny.png "Palkia: A legendary Pokémon of Sinnoh. It is said that space becomes more stable with PALKIA’s every breath.") | ![Palkia](../assets/sprites/palkia/back.png "Palkia: A legendary Pokémon of Sinnoh. It is said that space becomes more stable with PALKIA’s every breath.") | ![Palkia](../assets/sprites/palkia/back_shiny.png "Palkia: A legendary Pokémon of Sinnoh. It is said that space becomes more stable with PALKIA’s every breath.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

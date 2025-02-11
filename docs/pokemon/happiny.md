@@ -14,7 +14,13 @@ It likes to carry around a small rock. It may wander around others’ feet and c
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Happiny](../assets/sprites/happiny/front.gif "Happiny") | ![Happiny](../assets/sprites/happiny/front_shiny.png "Happiny") | ![Happiny](../assets/sprites/happiny/back.png "Happiny") | ![Happiny](../assets/sprites/happiny/back_shiny.png "Happiny") |
+| ![Happiny](../assets/sprites/happiny/front.gif "Happiny: It likes to carry around a small rock. It may wander around others’ feet and cause them to stumble.") | ![Happiny](../assets/sprites/happiny/front_shiny.png "Happiny: It likes to carry around a small rock. It may wander around others’ feet and cause them to stumble.") | ![Happiny](../assets/sprites/happiny/back.png "Happiny: It likes to carry around a small rock. It may wander around others’ feet and cause them to stumble.") | ![Happiny](../assets/sprites/happiny/back_shiny.png "Happiny: It likes to carry around a small rock. It may wander around others’ feet and cause them to stumble.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

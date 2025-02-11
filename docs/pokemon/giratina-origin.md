@@ -14,7 +14,13 @@ It was banished for its violence. It silently gazed upon the old world from the 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Giratina Origin](../assets/sprites/giratina-origin/front.png "Giratina Origin") | ![Giratina Origin](../assets/sprites/giratina-origin/front_shiny.png "Giratina Origin") | ![Giratina Origin](../assets/sprites/giratina-origin/back.png "Giratina Origin") | ![Giratina Origin](../assets/sprites/giratina-origin/back_shiny.png "Giratina Origin") |
+| ![Giratina Origin](../assets/sprites/giratina-origin/front.png "Giratina Origin: It was banished for its violence. It silently gazed upon the old world from the Distortion World.") | ![Giratina Origin](../assets/sprites/giratina-origin/front_shiny.png "Giratina Origin: It was banished for its violence. It silently gazed upon the old world from the Distortion World.") | ![Giratina Origin](../assets/sprites/giratina-origin/back.png "Giratina Origin: It was banished for its violence. It silently gazed upon the old world from the Distortion World.") | ![Giratina Origin](../assets/sprites/giratina-origin/back_shiny.png "Giratina Origin: It was banished for its violence. It silently gazed upon the old world from the Distortion World.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 
@@ -104,18 +110,15 @@ The ranges shown above are for a level 100 Pokémon. Maximum values are based on
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | <span class="tooltip" title="The user exhales a mighty gust that inflicts damage. It may also paralyze the target.">Dragon Breath</span> | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | 100 | 20 |
 | 1 | <span class="tooltip" title="The user frightens the foe with a scary face to sharply reduce its Speed stat.">Scary Face</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 10 |
-| 6 | <span class="tooltip" title="The user creates a gust of repulsive wind. It may also raise all the user’s stats at once.">Ominous Wind</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | 100 | 5 |
-| 10 | <span class="tooltip" title="The user attacks with a prehistoric power. It may also raise all the user’s stats at once.">Ancient Power</span> | ![rock](../assets/types/rock.png "Rock"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | 100 | 5 |
-| 14 | <span class="tooltip" title="The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.">Slash</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 70 | 100 | 20 |
-| 18 | <span class="tooltip" title="The user extends its shadow and attacks the foe from behind. This move always goes first.">Shadow Sneak</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 40 | 100 | 30 |
-| 22 | <span class="tooltip" title="When this move is used, if the user faints, the foe that landed the knockout hit also faints.">Destiny Bond</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | — | 5 |
-| 26 | <span class="tooltip" title="The user slashes the foe with huge, sharp claws.  ">Dragon Claw</span> | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 15 |
-| 30 | <span class="tooltip" title="The user hurls a shadowy blob at the foe. It may also lower the foe’s Sp. Def stat.">Shadow Ball</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 80 | 100 | 15 |
-| 34 | <span class="tooltip" title="The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio.">Shadow Claw</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 15 |
-| 38 | <span class="tooltip" title="The user looses a blast of aura power from deep within its body. This move is certain to hit.">Aura Sphere</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 80 | — | 20 |
-| 42 | <span class="tooltip" title="The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def.">Earth Power</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
-| 46 | <span class="tooltip" title="The foe is attacked with a shock wave generated by the user’s gaping mouth. ">Dragon Pulse</span> | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 85 | 100 | 10 |
-| 50 | <span class="tooltip" title="The user disappears, then strikes the foe on the second turn. It hits even if the foe used Protect.">Shadow Force</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 5 |
+| 10 | <span class="tooltip" title="The user creates a gust of repulsive wind. It may also raise all the user’s stats at once.">Ominous Wind</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | 100 | 5 |
+| 20 | <span class="tooltip" title="The user attacks with a prehistoric power. It may also raise all the user’s stats at once.">Ancient Power</span> | ![rock](../assets/types/rock.png "Rock"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 60 | 100 | 5 |
+| 30 | <span class="tooltip" title="The user slashes the foe with huge, sharp claws.  ">Dragon Claw</span> | ![dragon](../assets/types/dragon.png "Dragon"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 15 |
+| 40 | <span class="tooltip" title="The user disappears, then strikes the foe on the second turn. It hits even if the foe used Protect.">Shadow Force</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 120 | 100 | 5 |
+| 50 | <span class="tooltip" title="The user prevents the foe from using any HP-recovery moves for five turns. ">Heal Block</span> | ![psychic](../assets/types/psychic.png "Psychic"){: width="48"} | ![status](../assets/move_category/status.png "Status"){: width="36"} | — | 100 | 15 |
+| 60 | <span class="tooltip" title="The user makes the ground under the foe erupt with power. It may also lower the target’s Sp. Def.">Earth Power</span> | ![ground](../assets/types/ground.png "Ground"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 90 | 100 | 10 |
+| 70 | <span class="tooltip" title="The foe is attacked with a slash of claws, etc. It has a high critical-hit ratio.">Slash</span> | ![normal](../assets/types/normal.png "Normal"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 70 | 100 | 20 |
+| 80 | <span class="tooltip" title="The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio.">Shadow Claw</span> | ![ghost](../assets/types/ghost.png "Ghost"){: width="48"} | ![physical](../assets/move_category/physical.png "Physical"){: width="36"} | 80 | 100 | 15 |
+| 90 | <span class="tooltip" title="The user looses a blast of aura power from deep within its body. This move is certain to hit.">Aura Sphere</span> | ![fighting](../assets/types/fighting.png "Fighting"){: width="48"} | ![special](../assets/move_category/special.png "Special"){: width="36"} | 80 | — | 20 |
 
 ### TM Moves
 

@@ -14,7 +14,13 @@ A Pokémon that appears to be a plant. It captures unwary prey by dousing them w
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Weepinbell](../assets/sprites/weepinbell/front.gif "Weepinbell") | ![Weepinbell](../assets/sprites/weepinbell/front_shiny.png "Weepinbell") | ![Weepinbell](../assets/sprites/weepinbell/back.png "Weepinbell") | ![Weepinbell](../assets/sprites/weepinbell/back_shiny.png "Weepinbell") |
+| ![Weepinbell](../assets/sprites/weepinbell/front.gif "Weepinbell: A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.") | ![Weepinbell](../assets/sprites/weepinbell/front_shiny.png "Weepinbell: A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.") | ![Weepinbell](../assets/sprites/weepinbell/back.png "Weepinbell: A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.") | ![Weepinbell](../assets/sprites/weepinbell/back_shiny.png "Weepinbell: A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

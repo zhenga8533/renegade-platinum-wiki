@@ -14,7 +14,13 @@ It is said that kids who drink MILTANK’s milk grow up to become hearty, health
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Miltank](../assets/sprites/miltank/front.gif "Miltank") | ![Miltank](../assets/sprites/miltank/front_shiny.png "Miltank") | ![Miltank](../assets/sprites/miltank/back.png "Miltank") | ![Miltank](../assets/sprites/miltank/back_shiny.png "Miltank") |
+| ![Miltank](../assets/sprites/miltank/front.gif "Miltank: It is said that kids who drink MILTANK’s milk grow up to become hearty, healthy adults.") | ![Miltank](../assets/sprites/miltank/front_shiny.png "Miltank: It is said that kids who drink MILTANK’s milk grow up to become hearty, healthy adults.") | ![Miltank](../assets/sprites/miltank/back.png "Miltank: It is said that kids who drink MILTANK’s milk grow up to become hearty, healthy adults.") | ![Miltank](../assets/sprites/miltank/back_shiny.png "Miltank: It is said that kids who drink MILTANK’s milk grow up to become hearty, healthy adults.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

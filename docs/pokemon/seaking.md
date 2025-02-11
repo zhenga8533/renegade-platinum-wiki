@@ -14,13 +14,13 @@ In autumn, its body becomes more fatty in preparing to propose to a mate. It tak
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Seaking](../assets/sprites/seaking/front.gif "Seaking") | ![Seaking](../assets/sprites/seaking/front_shiny.png "Seaking") | ![Seaking](../assets/sprites/seaking/back.png "Seaking") | ![Seaking](../assets/sprites/seaking/back_shiny.png "Seaking") |
+| ![Seaking](../assets/sprites/seaking/front.gif "Seaking: In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.") | ![Seaking](../assets/sprites/seaking/front_shiny.png "Seaking: In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.") | ![Seaking](../assets/sprites/seaking/back.png "Seaking: In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.") | ![Seaking](../assets/sprites/seaking/back_shiny.png "Seaking: In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Seaking](../assets/sprites/seaking/front_female.gif "Seaking") | ![Seaking](../assets/sprites/seaking/front_shiny_female.png "Seaking") | ![Seaking](../assets/sprites/seaking/back_female.png "Seaking") | ![Seaking](../assets/sprites/seaking/back_shiny_female.png "Seaking") |
+| ![Seaking](../assets/sprites/seaking/front_female.gif "Seaking: In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.") | ![Seaking](../assets/sprites/seaking/front_shiny_female.png "Seaking: In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.") | ![Seaking](../assets/sprites/seaking/back_female.png "Seaking: In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.") | ![Seaking](../assets/sprites/seaking/back_shiny_female.png "Seaking: In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.") |
 
 ### Cries
 

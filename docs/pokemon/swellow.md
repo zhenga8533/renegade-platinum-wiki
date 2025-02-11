@@ -14,7 +14,13 @@ It circles the sky in search of prey. When it spots one, it dives steeply to cat
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Swellow](../assets/sprites/swellow/front.gif "Swellow") | ![Swellow](../assets/sprites/swellow/front_shiny.png "Swellow") | ![Swellow](../assets/sprites/swellow/back.png "Swellow") | ![Swellow](../assets/sprites/swellow/back_shiny.png "Swellow") |
+| ![Swellow](../assets/sprites/swellow/front.gif "Swellow: It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.") | ![Swellow](../assets/sprites/swellow/front_shiny.png "Swellow: It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.") | ![Swellow](../assets/sprites/swellow/back.png "Swellow: It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.") | ![Swellow](../assets/sprites/swellow/back_shiny.png "Swellow: It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,13 +14,13 @@ A river dammed by BIBAREL will never overflow its banks, which is appreciated by
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Bibarel](../assets/sprites/bibarel/front.gif "Bibarel") | ![Bibarel](../assets/sprites/bibarel/front_shiny.png "Bibarel") | ![Bibarel](../assets/sprites/bibarel/back.png "Bibarel") | ![Bibarel](../assets/sprites/bibarel/back_shiny.png "Bibarel") |
+| ![Bibarel](../assets/sprites/bibarel/front.gif "Bibarel: A river dammed by BIBAREL will never overflow its banks, which is appreciated by people nearby.") | ![Bibarel](../assets/sprites/bibarel/front_shiny.png "Bibarel: A river dammed by BIBAREL will never overflow its banks, which is appreciated by people nearby.") | ![Bibarel](../assets/sprites/bibarel/back.png "Bibarel: A river dammed by BIBAREL will never overflow its banks, which is appreciated by people nearby.") | ![Bibarel](../assets/sprites/bibarel/back_shiny.png "Bibarel: A river dammed by BIBAREL will never overflow its banks, which is appreciated by people nearby.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Bibarel](../assets/sprites/bibarel/front_female.gif "Bibarel") | ![Bibarel](../assets/sprites/bibarel/front_shiny_female.png "Bibarel") | N/A | N/A |
+| ![Bibarel](../assets/sprites/bibarel/front_female.gif "Bibarel: A river dammed by BIBAREL will never overflow its banks, which is appreciated by people nearby.") | ![Bibarel](../assets/sprites/bibarel/front_shiny_female.png "Bibarel: A river dammed by BIBAREL will never overflow its banks, which is appreciated by people nearby.") | ? | ? |
 
 ### Cries
 

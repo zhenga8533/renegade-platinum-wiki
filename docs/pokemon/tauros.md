@@ -14,7 +14,13 @@ Once it takes aim at its foe, it makes a headlong charge. It is famous for its v
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Tauros](../assets/sprites/tauros/front.gif "Tauros") | ![Tauros](../assets/sprites/tauros/front_shiny.png "Tauros") | ![Tauros](../assets/sprites/tauros/back.png "Tauros") | ![Tauros](../assets/sprites/tauros/back_shiny.png "Tauros") |
+| ![Tauros](../assets/sprites/tauros/front.gif "Tauros: Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.") | ![Tauros](../assets/sprites/tauros/front_shiny.png "Tauros: Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.") | ![Tauros](../assets/sprites/tauros/back.png "Tauros: Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.") | ![Tauros](../assets/sprites/tauros/back_shiny.png "Tauros: Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

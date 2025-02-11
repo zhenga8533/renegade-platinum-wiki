@@ -14,7 +14,13 @@ It mimics the expressions and motions of those it sees to understand the feeling
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Mime Jr](../assets/sprites/mime-jr/front.gif "Mime Jr") | ![Mime Jr](../assets/sprites/mime-jr/front_shiny.png "Mime Jr") | ![Mime Jr](../assets/sprites/mime-jr/back.png "Mime Jr") | ![Mime Jr](../assets/sprites/mime-jr/back_shiny.png "Mime Jr") |
+| ![Mime Jr](../assets/sprites/mime-jr/front.gif "Mime Jr: It mimics the expressions and motions of those it sees to understand the feelings of others.") | ![Mime Jr](../assets/sprites/mime-jr/front_shiny.png "Mime Jr: It mimics the expressions and motions of those it sees to understand the feelings of others.") | ![Mime Jr](../assets/sprites/mime-jr/back.png "Mime Jr: It mimics the expressions and motions of those it sees to understand the feelings of others.") | ![Mime Jr](../assets/sprites/mime-jr/back_shiny.png "Mime Jr: It mimics the expressions and motions of those it sees to understand the feelings of others.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

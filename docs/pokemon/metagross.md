@@ -14,7 +14,13 @@ METANG combined to form it. With four brains, it has the intelligence of a super
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Metagross](../assets/sprites/metagross/front.gif "Metagross") | ![Metagross](../assets/sprites/metagross/front_shiny.png "Metagross") | ![Metagross](../assets/sprites/metagross/back.png "Metagross") | ![Metagross](../assets/sprites/metagross/back_shiny.png "Metagross") |
+| ![Metagross](../assets/sprites/metagross/front.gif "Metagross: METANG combined to form it. With four brains, it has the intelligence of a supercomputer.") | ![Metagross](../assets/sprites/metagross/front_shiny.png "Metagross: METANG combined to form it. With four brains, it has the intelligence of a supercomputer.") | ![Metagross](../assets/sprites/metagross/back.png "Metagross: METANG combined to form it. With four brains, it has the intelligence of a supercomputer.") | ![Metagross](../assets/sprites/metagross/back_shiny.png "Metagross: METANG combined to form it. With four brains, it has the intelligence of a supercomputer.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

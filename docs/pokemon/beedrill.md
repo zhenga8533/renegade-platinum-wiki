@@ -14,7 +14,13 @@ Its best attack involves flying around at high speed, striking with poison needl
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Beedrill](../assets/sprites/beedrill/front.gif "Beedrill") | ![Beedrill](../assets/sprites/beedrill/front_shiny.png "Beedrill") | ![Beedrill](../assets/sprites/beedrill/back.png "Beedrill") | ![Beedrill](../assets/sprites/beedrill/back_shiny.png "Beedrill") |
+| ![Beedrill](../assets/sprites/beedrill/front.gif "Beedrill: Its best attack involves flying around at high speed, striking with poison needles, then flying off.") | ![Beedrill](../assets/sprites/beedrill/front_shiny.png "Beedrill: Its best attack involves flying around at high speed, striking with poison needles, then flying off.") | ![Beedrill](../assets/sprites/beedrill/back.png "Beedrill: Its best attack involves flying around at high speed, striking with poison needles, then flying off.") | ![Beedrill](../assets/sprites/beedrill/back_shiny.png "Beedrill: Its best attack involves flying around at high speed, striking with poison needles, then flying off.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

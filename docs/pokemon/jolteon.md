@@ -14,7 +14,13 @@ If agitated, it uses electricity to straighten out its fur and launch it in smal
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Jolteon](../assets/sprites/jolteon/front.gif "Jolteon") | ![Jolteon](../assets/sprites/jolteon/front_shiny.png "Jolteon") | ![Jolteon](../assets/sprites/jolteon/back.png "Jolteon") | ![Jolteon](../assets/sprites/jolteon/back_shiny.png "Jolteon") |
+| ![Jolteon](../assets/sprites/jolteon/front.gif "Jolteon: If agitated, it uses electricity to straighten out its fur and launch it in small bunches.") | ![Jolteon](../assets/sprites/jolteon/front_shiny.png "Jolteon: If agitated, it uses electricity to straighten out its fur and launch it in small bunches.") | ![Jolteon](../assets/sprites/jolteon/back.png "Jolteon: If agitated, it uses electricity to straighten out its fur and launch it in small bunches.") | ![Jolteon](../assets/sprites/jolteon/back_shiny.png "Jolteon: If agitated, it uses electricity to straighten out its fur and launch it in small bunches.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,13 +14,13 @@ It has a poison sac at its throat. When it croaks, the stored poison is churned 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Toxicroak](../assets/sprites/toxicroak/front.gif "Toxicroak") | ![Toxicroak](../assets/sprites/toxicroak/front_shiny.png "Toxicroak") | ![Toxicroak](../assets/sprites/toxicroak/back.png "Toxicroak") | ![Toxicroak](../assets/sprites/toxicroak/back_shiny.png "Toxicroak") |
+| ![Toxicroak](../assets/sprites/toxicroak/front.gif "Toxicroak: It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.") | ![Toxicroak](../assets/sprites/toxicroak/front_shiny.png "Toxicroak: It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.") | ![Toxicroak](../assets/sprites/toxicroak/back.png "Toxicroak: It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.") | ![Toxicroak](../assets/sprites/toxicroak/back_shiny.png "Toxicroak: It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Toxicroak](../assets/sprites/toxicroak/front_female.gif "Toxicroak") | ![Toxicroak](../assets/sprites/toxicroak/front_shiny_female.png "Toxicroak") | ![Toxicroak](../assets/sprites/toxicroak/back_female.png "Toxicroak") | ![Toxicroak](../assets/sprites/toxicroak/back_shiny_female.png "Toxicroak") |
+| ![Toxicroak](../assets/sprites/toxicroak/front_female.gif "Toxicroak: It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.") | ![Toxicroak](../assets/sprites/toxicroak/front_shiny_female.png "Toxicroak: It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.") | ![Toxicroak](../assets/sprites/toxicroak/back_female.png "Toxicroak: It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.") | ![Toxicroak](../assets/sprites/toxicroak/back_shiny_female.png "Toxicroak: It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.") |
 
 ### Cries
 

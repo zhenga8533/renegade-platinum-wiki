@@ -14,7 +14,13 @@ It happily carries heavy cargo to toughen up. It willingly does hard work for pe
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Machoke](../assets/sprites/machoke/front.gif "Machoke") | ![Machoke](../assets/sprites/machoke/front_shiny.png "Machoke") | ![Machoke](../assets/sprites/machoke/back.png "Machoke") | ![Machoke](../assets/sprites/machoke/back_shiny.png "Machoke") |
+| ![Machoke](../assets/sprites/machoke/front.gif "Machoke: It happily carries heavy cargo to toughen up. It willingly does hard work for people.") | ![Machoke](../assets/sprites/machoke/front_shiny.png "Machoke: It happily carries heavy cargo to toughen up. It willingly does hard work for people.") | ![Machoke](../assets/sprites/machoke/back.png "Machoke: It happily carries heavy cargo to toughen up. It willingly does hard work for people.") | ![Machoke](../assets/sprites/machoke/back_shiny.png "Machoke: It happily carries heavy cargo to toughen up. It willingly does hard work for people.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

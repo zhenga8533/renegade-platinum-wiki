@@ -14,7 +14,13 @@ Its electric-like body can enter some kinds of machines and take control in orde
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Rotom](../assets/sprites/rotom/front.gif "Rotom") | ![Rotom](../assets/sprites/rotom/front_shiny.png "Rotom") | ![Rotom](../assets/sprites/rotom/back.png "Rotom") | ![Rotom](../assets/sprites/rotom/back_shiny.png "Rotom") |
+| ![Rotom](../assets/sprites/rotom/front.gif "Rotom: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom](../assets/sprites/rotom/front_shiny.png "Rotom: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom](../assets/sprites/rotom/back.png "Rotom: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom](../assets/sprites/rotom/back_shiny.png "Rotom: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

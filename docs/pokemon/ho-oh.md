@@ -14,7 +14,13 @@ Its feathers are in seven colors. It is said that anyone seeing it is promised e
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Ho Oh](../assets/sprites/ho-oh/front.gif "Ho Oh") | ![Ho Oh](../assets/sprites/ho-oh/front_shiny.png "Ho Oh") | ![Ho Oh](../assets/sprites/ho-oh/back.png "Ho Oh") | ![Ho Oh](../assets/sprites/ho-oh/back_shiny.png "Ho Oh") |
+| ![Ho Oh](../assets/sprites/ho-oh/front.gif "Ho Oh: Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness.") | ![Ho Oh](../assets/sprites/ho-oh/front_shiny.png "Ho Oh: Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness.") | ![Ho Oh](../assets/sprites/ho-oh/back.png "Ho Oh: Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness.") | ![Ho Oh](../assets/sprites/ho-oh/back_shiny.png "Ho Oh: Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

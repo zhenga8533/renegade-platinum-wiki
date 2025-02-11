@@ -14,7 +14,13 @@ It prefers hot and humid environments. It is quick at capturing prey with its vi
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Bellsprout](../assets/sprites/bellsprout/front.gif "Bellsprout") | ![Bellsprout](../assets/sprites/bellsprout/front_shiny.png "Bellsprout") | ![Bellsprout](../assets/sprites/bellsprout/back.png "Bellsprout") | ![Bellsprout](../assets/sprites/bellsprout/back_shiny.png "Bellsprout") |
+| ![Bellsprout](../assets/sprites/bellsprout/front.gif "Bellsprout: It prefers hot and humid environments. It is quick at capturing prey with its vines.") | ![Bellsprout](../assets/sprites/bellsprout/front_shiny.png "Bellsprout: It prefers hot and humid environments. It is quick at capturing prey with its vines.") | ![Bellsprout](../assets/sprites/bellsprout/back.png "Bellsprout: It prefers hot and humid environments. It is quick at capturing prey with its vines.") | ![Bellsprout](../assets/sprites/bellsprout/back_shiny.png "Bellsprout: It prefers hot and humid environments. It is quick at capturing prey with its vines.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

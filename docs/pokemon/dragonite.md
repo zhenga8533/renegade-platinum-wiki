@@ -14,7 +14,13 @@ It is said to make its home somewhere in the sea. It guides crews of shipwrecks 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Dragonite](../assets/sprites/dragonite/front.gif "Dragonite") | ![Dragonite](../assets/sprites/dragonite/front_shiny.png "Dragonite") | ![Dragonite](../assets/sprites/dragonite/back.png "Dragonite") | ![Dragonite](../assets/sprites/dragonite/back_shiny.png "Dragonite") |
+| ![Dragonite](../assets/sprites/dragonite/front.gif "Dragonite: It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.") | ![Dragonite](../assets/sprites/dragonite/front_shiny.png "Dragonite: It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.") | ![Dragonite](../assets/sprites/dragonite/back.png "Dragonite: It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.") | ![Dragonite](../assets/sprites/dragonite/back_shiny.png "Dragonite: It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

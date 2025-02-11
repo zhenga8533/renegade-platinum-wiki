@@ -14,7 +14,13 @@ Sensitive to changing temperature, the bud is said to bloom when it feels the su
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Budew](../assets/sprites/budew/front.gif "Budew") | ![Budew](../assets/sprites/budew/front_shiny.png "Budew") | ![Budew](../assets/sprites/budew/back.png "Budew") | ![Budew](../assets/sprites/budew/back_shiny.png "Budew") |
+| ![Budew](../assets/sprites/budew/front.gif "Budew: Sensitive to changing temperature, the bud is said to bloom when it feels the sun’s warm touch.") | ![Budew](../assets/sprites/budew/front_shiny.png "Budew: Sensitive to changing temperature, the bud is said to bloom when it feels the sun’s warm touch.") | ![Budew](../assets/sprites/budew/back.png "Budew: Sensitive to changing temperature, the bud is said to bloom when it feels the sun’s warm touch.") | ![Budew](../assets/sprites/budew/back_shiny.png "Budew: Sensitive to changing temperature, the bud is said to bloom when it feels the sun’s warm touch.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

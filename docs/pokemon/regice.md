@@ -14,7 +14,13 @@ Its body is made of ice from the ice age. It controls frigid air of -328 degrees
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Regice](../assets/sprites/regice/front.gif "Regice") | ![Regice](../assets/sprites/regice/front_shiny.png "Regice") | ![Regice](../assets/sprites/regice/back.png "Regice") | ![Regice](../assets/sprites/regice/back_shiny.png "Regice") |
+| ![Regice](../assets/sprites/regice/front.gif "Regice: Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.") | ![Regice](../assets/sprites/regice/front_shiny.png "Regice: Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.") | ![Regice](../assets/sprites/regice/back.png "Regice: Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.") | ![Regice](../assets/sprites/regice/back_shiny.png "Regice: Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

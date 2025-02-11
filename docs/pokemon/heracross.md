@@ -14,13 +14,13 @@ It loves sweet honey. To keep all the honey to itself, it hurls rivals away with
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Heracross](../assets/sprites/heracross/front.gif "Heracross") | ![Heracross](../assets/sprites/heracross/front_shiny.png "Heracross") | ![Heracross](../assets/sprites/heracross/back.png "Heracross") | ![Heracross](../assets/sprites/heracross/back_shiny.png "Heracross") |
+| ![Heracross](../assets/sprites/heracross/front.gif "Heracross: It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.") | ![Heracross](../assets/sprites/heracross/front_shiny.png "Heracross: It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.") | ![Heracross](../assets/sprites/heracross/back.png "Heracross: It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.") | ![Heracross](../assets/sprites/heracross/back_shiny.png "Heracross: It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Heracross](../assets/sprites/heracross/front_female.gif "Heracross") | ![Heracross](../assets/sprites/heracross/front_shiny_female.png "Heracross") | ![Heracross](../assets/sprites/heracross/back_female.png "Heracross") | ![Heracross](../assets/sprites/heracross/back_shiny_female.png "Heracross") |
+| ![Heracross](../assets/sprites/heracross/front_female.gif "Heracross: It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.") | ![Heracross](../assets/sprites/heracross/front_shiny_female.png "Heracross: It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.") | ![Heracross](../assets/sprites/heracross/back_female.png "Heracross: It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.") | ![Heracross](../assets/sprites/heracross/back_shiny_female.png "Heracross: It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.") |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It rolls on mountain paths to move. Once it builds momentum, no Pokémon can sto
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Graveler](../assets/sprites/graveler/front.gif "Graveler") | ![Graveler](../assets/sprites/graveler/front_shiny.png "Graveler") | ![Graveler](../assets/sprites/graveler/back.png "Graveler") | ![Graveler](../assets/sprites/graveler/back_shiny.png "Graveler") |
+| ![Graveler](../assets/sprites/graveler/front.gif "Graveler: It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty.") | ![Graveler](../assets/sprites/graveler/front_shiny.png "Graveler: It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty.") | ![Graveler](../assets/sprites/graveler/back.png "Graveler: It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty.") | ![Graveler](../assets/sprites/graveler/back_shiny.png "Graveler: It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

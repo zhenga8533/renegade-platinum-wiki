@@ -14,13 +14,13 @@ It loves sparkly things. It seeks treasures in caves and hoards the loot in its 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Gabite](../assets/sprites/gabite/front.gif "Gabite") | ![Gabite](../assets/sprites/gabite/front_shiny.png "Gabite") | ![Gabite](../assets/sprites/gabite/back.png "Gabite") | ![Gabite](../assets/sprites/gabite/back_shiny.png "Gabite") |
+| ![Gabite](../assets/sprites/gabite/front.gif "Gabite: It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.") | ![Gabite](../assets/sprites/gabite/front_shiny.png "Gabite: It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.") | ![Gabite](../assets/sprites/gabite/back.png "Gabite: It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.") | ![Gabite](../assets/sprites/gabite/back_shiny.png "Gabite: It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Gabite](../assets/sprites/gabite/front_female.gif "Gabite") | ![Gabite](../assets/sprites/gabite/front_shiny_female.png "Gabite") | ![Gabite](../assets/sprites/gabite/back_female.png "Gabite") | ![Gabite](../assets/sprites/gabite/back_shiny_female.png "Gabite") |
+| ![Gabite](../assets/sprites/gabite/front_female.gif "Gabite: It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.") | ![Gabite](../assets/sprites/gabite/front_shiny_female.png "Gabite: It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.") | ![Gabite](../assets/sprites/gabite/back_female.png "Gabite: It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.") | ![Gabite](../assets/sprites/gabite/back_shiny_female.png "Gabite: It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.") |
 
 ### Cries
 

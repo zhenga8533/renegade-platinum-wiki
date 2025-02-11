@@ -14,7 +14,13 @@ It flutters its wings to scatter dustlike scales. The scales leach toxins if the
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Venomoth](../assets/sprites/venomoth/front.gif "Venomoth") | ![Venomoth](../assets/sprites/venomoth/front_shiny.png "Venomoth") | ![Venomoth](../assets/sprites/venomoth/back.png "Venomoth") | ![Venomoth](../assets/sprites/venomoth/back_shiny.png "Venomoth") |
+| ![Venomoth](../assets/sprites/venomoth/front.gif "Venomoth: It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.") | ![Venomoth](../assets/sprites/venomoth/front_shiny.png "Venomoth: It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.") | ![Venomoth](../assets/sprites/venomoth/back.png "Venomoth: It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.") | ![Venomoth](../assets/sprites/venomoth/back_shiny.png "Venomoth: It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

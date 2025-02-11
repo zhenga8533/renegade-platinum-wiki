@@ -14,7 +14,13 @@ A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw bla
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Aerodactyl](../assets/sprites/aerodactyl/front.gif "Aerodactyl") | ![Aerodactyl](../assets/sprites/aerodactyl/front_shiny.png "Aerodactyl") | ![Aerodactyl](../assets/sprites/aerodactyl/back.png "Aerodactyl") | ![Aerodactyl](../assets/sprites/aerodactyl/back_shiny.png "Aerodactyl") |
+| ![Aerodactyl](../assets/sprites/aerodactyl/front.gif "Aerodactyl: A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.") | ![Aerodactyl](../assets/sprites/aerodactyl/front_shiny.png "Aerodactyl: A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.") | ![Aerodactyl](../assets/sprites/aerodactyl/back.png "Aerodactyl: A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.") | ![Aerodactyl](../assets/sprites/aerodactyl/back_shiny.png "Aerodactyl: A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

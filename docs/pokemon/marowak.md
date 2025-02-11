@@ -14,7 +14,13 @@ From its birth, this savage Pokémon constantly holds bones. It is skilled in us
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Marowak](../assets/sprites/marowak/front.gif "Marowak") | ![Marowak](../assets/sprites/marowak/front_shiny.png "Marowak") | ![Marowak](../assets/sprites/marowak/back.png "Marowak") | ![Marowak](../assets/sprites/marowak/back_shiny.png "Marowak") |
+| ![Marowak](../assets/sprites/marowak/front.gif "Marowak: From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.") | ![Marowak](../assets/sprites/marowak/front_shiny.png "Marowak: From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.") | ![Marowak](../assets/sprites/marowak/back.png "Marowak: From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.") | ![Marowak](../assets/sprites/marowak/back_shiny.png "Marowak: From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

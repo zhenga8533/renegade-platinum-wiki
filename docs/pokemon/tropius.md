@@ -14,7 +14,13 @@ Delicious fruits grew out from around its neck because it always ate the same ki
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Tropius](../assets/sprites/tropius/front.gif "Tropius") | ![Tropius](../assets/sprites/tropius/front_shiny.png "Tropius") | ![Tropius](../assets/sprites/tropius/back.png "Tropius") | ![Tropius](../assets/sprites/tropius/back_shiny.png "Tropius") |
+| ![Tropius](../assets/sprites/tropius/front.gif "Tropius: Delicious fruits grew out from around its neck because it always ate the same kind of fruit.") | ![Tropius](../assets/sprites/tropius/front_shiny.png "Tropius: Delicious fruits grew out from around its neck because it always ate the same kind of fruit.") | ![Tropius](../assets/sprites/tropius/back.png "Tropius: Delicious fruits grew out from around its neck because it always ate the same kind of fruit.") | ![Tropius](../assets/sprites/tropius/back_shiny.png "Tropius: Delicious fruits grew out from around its neck because it always ate the same kind of fruit.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It is docile and prefers to avoid conflict. If disturbed, however, it can feroci
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Pidgey](../assets/sprites/pidgey/front.gif "Pidgey") | ![Pidgey](../assets/sprites/pidgey/front_shiny.png "Pidgey") | ![Pidgey](../assets/sprites/pidgey/back.png "Pidgey") | ![Pidgey](../assets/sprites/pidgey/back_shiny.png "Pidgey") |
+| ![Pidgey](../assets/sprites/pidgey/front.gif "Pidgey: It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.") | ![Pidgey](../assets/sprites/pidgey/front_shiny.png "Pidgey: It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.") | ![Pidgey](../assets/sprites/pidgey/back.png "Pidgey: It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.") | ![Pidgey](../assets/sprites/pidgey/back_shiny.png "Pidgey: It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

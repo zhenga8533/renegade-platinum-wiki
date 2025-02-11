@@ -14,7 +14,13 @@ No two SPINDA have the same pattern of spots. Its tottering step fouls the aim o
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Spinda](../assets/sprites/spinda/front.gif "Spinda") | ![Spinda](../assets/sprites/spinda/front_shiny.png "Spinda") | ![Spinda](../assets/sprites/spinda/back.png "Spinda") | ![Spinda](../assets/sprites/spinda/back_shiny.png "Spinda") |
+| ![Spinda](../assets/sprites/spinda/front.gif "Spinda: No two SPINDA have the same pattern of spots. Its tottering step fouls the aim of foes.") | ![Spinda](../assets/sprites/spinda/front_shiny.png "Spinda: No two SPINDA have the same pattern of spots. Its tottering step fouls the aim of foes.") | ![Spinda](../assets/sprites/spinda/back.png "Spinda: No two SPINDA have the same pattern of spots. Its tottering step fouls the aim of foes.") | ![Spinda](../assets/sprites/spinda/back_shiny.png "Spinda: No two SPINDA have the same pattern of spots. Its tottering step fouls the aim of foes.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

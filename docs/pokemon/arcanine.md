@@ -14,7 +14,13 @@ Its proud and regal appearance has captured the hearts of people since long ago.
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arcanine](../assets/sprites/arcanine/front.gif "Arcanine") | ![Arcanine](../assets/sprites/arcanine/front_shiny.png "Arcanine") | ![Arcanine](../assets/sprites/arcanine/back.png "Arcanine") | ![Arcanine](../assets/sprites/arcanine/back_shiny.png "Arcanine") |
+| ![Arcanine](../assets/sprites/arcanine/front.gif "Arcanine: Its proud and regal appearance has captured the hearts of people since long ago.") | ![Arcanine](../assets/sprites/arcanine/front_shiny.png "Arcanine: Its proud and regal appearance has captured the hearts of people since long ago.") | ![Arcanine](../assets/sprites/arcanine/back.png "Arcanine: Its proud and regal appearance has captured the hearts of people since long ago.") | ![Arcanine](../assets/sprites/arcanine/back_shiny.png "Arcanine: Its proud and regal appearance has captured the hearts of people since long ago.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

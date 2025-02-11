@@ -14,7 +14,13 @@ An alien virus that fell to earth on a meteor underwent a DNA mutation to become
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Deoxys Normal](../assets/sprites/deoxys-normal/front.gif "Deoxys Normal") | ![Deoxys Normal](../assets/sprites/deoxys-normal/front_shiny.png "Deoxys Normal") | ![Deoxys Normal](../assets/sprites/deoxys-normal/back.png "Deoxys Normal") | ![Deoxys Normal](../assets/sprites/deoxys-normal/back_shiny.png "Deoxys Normal") |
+| ![Deoxys Normal](../assets/sprites/deoxys-normal/front.gif "Deoxys Normal: An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.") | ![Deoxys Normal](../assets/sprites/deoxys-normal/front_shiny.png "Deoxys Normal: An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.") | ![Deoxys Normal](../assets/sprites/deoxys-normal/back.png "Deoxys Normal: An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.") | ![Deoxys Normal](../assets/sprites/deoxys-normal/back_shiny.png "Deoxys Normal: An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

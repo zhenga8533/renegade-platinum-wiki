@@ -14,13 +14,13 @@ Its legs are short. Whenever it stumbles, its stiff antennae clack with a xyloph
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Kricketot](../assets/sprites/kricketot/front.gif "Kricketot") | ![Kricketot](../assets/sprites/kricketot/front_shiny.png "Kricketot") | ![Kricketot](../assets/sprites/kricketot/back.png "Kricketot") | ![Kricketot](../assets/sprites/kricketot/back_shiny.png "Kricketot") |
+| ![Kricketot](../assets/sprites/kricketot/front.gif "Kricketot: Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.") | ![Kricketot](../assets/sprites/kricketot/front_shiny.png "Kricketot: Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.") | ![Kricketot](../assets/sprites/kricketot/back.png "Kricketot: Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.") | ![Kricketot](../assets/sprites/kricketot/back_shiny.png "Kricketot: Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Kricketot](../assets/sprites/kricketot/front_female.gif "Kricketot") | ![Kricketot](../assets/sprites/kricketot/front_shiny_female.png "Kricketot") | ![Kricketot](../assets/sprites/kricketot/back_female.png "Kricketot") | ![Kricketot](../assets/sprites/kricketot/back_shiny_female.png "Kricketot") |
+| ![Kricketot](../assets/sprites/kricketot/front_female.gif "Kricketot: Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.") | ![Kricketot](../assets/sprites/kricketot/front_shiny_female.png "Kricketot: Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.") | ![Kricketot](../assets/sprites/kricketot/back_female.png "Kricketot: Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.") | ![Kricketot](../assets/sprites/kricketot/back_shiny_female.png "Kricketot: Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.") |
 
 ### Cries
 

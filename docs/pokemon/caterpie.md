@@ -14,7 +14,13 @@ It releases a stench from its red antenna to repel enemies. It grows by molting 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Caterpie](../assets/sprites/caterpie/front.gif "Caterpie") | ![Caterpie](../assets/sprites/caterpie/front_shiny.png "Caterpie") | ![Caterpie](../assets/sprites/caterpie/back.png "Caterpie") | ![Caterpie](../assets/sprites/caterpie/back_shiny.png "Caterpie") |
+| ![Caterpie](../assets/sprites/caterpie/front.gif "Caterpie: It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.") | ![Caterpie](../assets/sprites/caterpie/front_shiny.png "Caterpie: It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.") | ![Caterpie](../assets/sprites/caterpie/back.png "Caterpie: It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.") | ![Caterpie](../assets/sprites/caterpie/back_shiny.png "Caterpie: It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

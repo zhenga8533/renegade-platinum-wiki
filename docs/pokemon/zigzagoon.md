@@ -14,7 +14,13 @@ It walks in zigzag fashion. It is good at finding items in the grass and even in
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Zigzagoon](../assets/sprites/zigzagoon/front.gif "Zigzagoon") | ![Zigzagoon](../assets/sprites/zigzagoon/front_shiny.png "Zigzagoon") | ![Zigzagoon](../assets/sprites/zigzagoon/back.png "Zigzagoon") | ![Zigzagoon](../assets/sprites/zigzagoon/back_shiny.png "Zigzagoon") |
+| ![Zigzagoon](../assets/sprites/zigzagoon/front.gif "Zigzagoon: It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.") | ![Zigzagoon](../assets/sprites/zigzagoon/front_shiny.png "Zigzagoon: It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.") | ![Zigzagoon](../assets/sprites/zigzagoon/back.png "Zigzagoon: It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.") | ![Zigzagoon](../assets/sprites/zigzagoon/back_shiny.png "Zigzagoon: It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

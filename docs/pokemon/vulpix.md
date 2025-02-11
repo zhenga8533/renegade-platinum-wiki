@@ -14,7 +14,13 @@ It controls balls of fire. As it grows, its six tails split from their tips to m
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Vulpix](../assets/sprites/vulpix/front.gif "Vulpix") | ![Vulpix](../assets/sprites/vulpix/front_shiny.png "Vulpix") | ![Vulpix](../assets/sprites/vulpix/back.png "Vulpix") | ![Vulpix](../assets/sprites/vulpix/back_shiny.png "Vulpix") |
+| ![Vulpix](../assets/sprites/vulpix/front.gif "Vulpix: It controls balls of fire. As it grows, its six tails split from their tips to make more tails.") | ![Vulpix](../assets/sprites/vulpix/front_shiny.png "Vulpix: It controls balls of fire. As it grows, its six tails split from their tips to make more tails.") | ![Vulpix](../assets/sprites/vulpix/back.png "Vulpix: It controls balls of fire. As it grows, its six tails split from their tips to make more tails.") | ![Vulpix](../assets/sprites/vulpix/back_shiny.png "Vulpix: It controls balls of fire. As it grows, its six tails split from their tips to make more tails.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

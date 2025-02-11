@@ -14,7 +14,13 @@ It has the ability to reconstitute its entire cellular structure to transform in
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Ditto](../assets/sprites/ditto/front.gif "Ditto") | ![Ditto](../assets/sprites/ditto/front_shiny.png "Ditto") | ![Ditto](../assets/sprites/ditto/back.png "Ditto") | ![Ditto](../assets/sprites/ditto/back_shiny.png "Ditto") |
+| ![Ditto](../assets/sprites/ditto/front.gif "Ditto: It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.") | ![Ditto](../assets/sprites/ditto/front_shiny.png "Ditto: It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.") | ![Ditto](../assets/sprites/ditto/back.png "Ditto: It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.") | ![Ditto](../assets/sprites/ditto/back_shiny.png "Ditto: It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

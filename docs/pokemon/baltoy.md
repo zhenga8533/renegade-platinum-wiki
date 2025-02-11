@@ -14,7 +14,13 @@ It moves by spinning on its foot. It is a rare Pokémon that was discovered in a
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Baltoy](../assets/sprites/baltoy/front.gif "Baltoy") | ![Baltoy](../assets/sprites/baltoy/front_shiny.png "Baltoy") | ![Baltoy](../assets/sprites/baltoy/back.png "Baltoy") | ![Baltoy](../assets/sprites/baltoy/back_shiny.png "Baltoy") |
+| ![Baltoy](../assets/sprites/baltoy/front.gif "Baltoy: It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.") | ![Baltoy](../assets/sprites/baltoy/front_shiny.png "Baltoy: It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.") | ![Baltoy](../assets/sprites/baltoy/back.png "Baltoy: It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.") | ![Baltoy](../assets/sprites/baltoy/back_shiny.png "Baltoy: It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

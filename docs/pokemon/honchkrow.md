@@ -14,7 +14,13 @@ If one utters a deep cry, many MURKROW gather quickly. For this, it is called �
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Honchkrow](../assets/sprites/honchkrow/front.gif "Honchkrow") | ![Honchkrow](../assets/sprites/honchkrow/front_shiny.png "Honchkrow") | ![Honchkrow](../assets/sprites/honchkrow/back.png "Honchkrow") | ![Honchkrow](../assets/sprites/honchkrow/back_shiny.png "Honchkrow") |
+| ![Honchkrow](../assets/sprites/honchkrow/front.gif "Honchkrow: If one utters a deep cry, many MURKROW gather quickly. For this, it is called “Summoner of Night.”") | ![Honchkrow](../assets/sprites/honchkrow/front_shiny.png "Honchkrow: If one utters a deep cry, many MURKROW gather quickly. For this, it is called “Summoner of Night.”") | ![Honchkrow](../assets/sprites/honchkrow/back.png "Honchkrow: If one utters a deep cry, many MURKROW gather quickly. For this, it is called “Summoner of Night.”") | ![Honchkrow](../assets/sprites/honchkrow/back_shiny.png "Honchkrow: If one utters a deep cry, many MURKROW gather quickly. For this, it is called “Summoner of Night.”") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

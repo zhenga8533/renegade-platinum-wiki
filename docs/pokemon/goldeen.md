@@ -14,13 +14,13 @@ Though it appears very elegant when swimming with fins unfurled, it can jab powe
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Goldeen](../assets/sprites/goldeen/front.gif "Goldeen") | ![Goldeen](../assets/sprites/goldeen/front_shiny.png "Goldeen") | ![Goldeen](../assets/sprites/goldeen/back.png "Goldeen") | ![Goldeen](../assets/sprites/goldeen/back_shiny.png "Goldeen") |
+| ![Goldeen](../assets/sprites/goldeen/front.gif "Goldeen: Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.") | ![Goldeen](../assets/sprites/goldeen/front_shiny.png "Goldeen: Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.") | ![Goldeen](../assets/sprites/goldeen/back.png "Goldeen: Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.") | ![Goldeen](../assets/sprites/goldeen/back_shiny.png "Goldeen: Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Goldeen](../assets/sprites/goldeen/front_female.gif "Goldeen") | ![Goldeen](../assets/sprites/goldeen/front_shiny_female.png "Goldeen") | ![Goldeen](../assets/sprites/goldeen/back_female.png "Goldeen") | ![Goldeen](../assets/sprites/goldeen/back_shiny_female.png "Goldeen") |
+| ![Goldeen](../assets/sprites/goldeen/front_female.gif "Goldeen: Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.") | ![Goldeen](../assets/sprites/goldeen/front_shiny_female.png "Goldeen: Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.") | ![Goldeen](../assets/sprites/goldeen/back_female.png "Goldeen: Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.") | ![Goldeen](../assets/sprites/goldeen/back_shiny_female.png "Goldeen: Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.") |
 
 ### Cries
 

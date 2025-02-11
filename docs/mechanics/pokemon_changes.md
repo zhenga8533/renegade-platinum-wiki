@@ -46,7 +46,7 @@
 
 **[#001 - Bulbasaur](../pokemon/bulbasaur.md)**
 
-![Bulbasaur](../assets/sprites/bulbasaur/front.gif "Bulbasaur")
+![Bulbasaur](../assets/sprites/bulbasaur/front.gif "Bulbasaur: For some time after its birth, it grows by gaining nourishment from the seed on its back.")
 
 Ability:
 
@@ -79,7 +79,7 @@ Level Up:
 
 **[#002 - Ivysaur](../pokemon/ivysaur.md)**
 
-![Ivysaur](../assets/sprites/ivysaur/front.gif "Ivysaur")
+![Ivysaur](../assets/sprites/ivysaur/front.gif "Ivysaur: When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.")
 
 Ability:
 
@@ -113,7 +113,7 @@ Level Up:
 
 **[#003 - Venusaur](../pokemon/venusaur.md)**
 
-![Venusaur](../assets/sprites/venusaur/front.gif "Venusaur")
+![Venusaur](../assets/sprites/venusaur/front.gif "Venusaur: After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.")
 
 Ability (Complete):
 
@@ -164,7 +164,7 @@ Level Up:
 
 **[#004 - Charmander](../pokemon/charmander.md)**
 
-![Charmander](../assets/sprites/charmander/front.gif "Charmander")
+![Charmander](../assets/sprites/charmander/front.gif "Charmander: The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.")
 
 Ability:
 
@@ -202,7 +202,7 @@ Level Up:
 
 **[#005 - Charmeleon](../pokemon/charmeleon.md)**
 
-![Charmeleon](../assets/sprites/charmeleon/front.gif "Charmeleon")
+![Charmeleon](../assets/sprites/charmeleon/front.gif "Charmeleon: In the rocky mountains where CHARMELEON live, their fiery tails shine at night like stars.")
 
 Ability:
 
@@ -241,7 +241,7 @@ Level Up:
 
 **[#006 - Charizard](../pokemon/charizard.md)**
 
-![Charizard](../assets/sprites/charizard/front.gif "Charizard")
+![Charizard](../assets/sprites/charizard/front.gif "Charizard: It is said that CHARIZARD’s fire burns hotter if it has experienced harsh battles.")
 
 Ability (Complete):
 
@@ -306,7 +306,7 @@ Level Up:
 
 **[#007 - Squirtle](../pokemon/squirtle.md)**
 
-![Squirtle](../assets/sprites/squirtle/front.gif "Squirtle")
+![Squirtle](../assets/sprites/squirtle/front.gif "Squirtle: It shelters itself in its shell, then strikes back with spouts of water at every opportunity.")
 
 Ability:
 
@@ -338,7 +338,7 @@ Level Up:
 
 **[#008 - Wartortle](../pokemon/wartortle.md)**
 
-![Wartortle](../assets/sprites/wartortle/front.gif "Wartortle")
+![Wartortle](../assets/sprites/wartortle/front.gif "Wartortle: It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.")
 
 Ability:
 
@@ -371,7 +371,7 @@ Level Up:
 
 **[#009 - Blastoise](../pokemon/blastoise.md)**
 
-![Blastoise](../assets/sprites/blastoise/front.gif "Blastoise")
+![Blastoise](../assets/sprites/blastoise/front.gif "Blastoise: The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.")
 
 Ability (Complete):
 
@@ -429,7 +429,7 @@ Level Up:
 
 **[#010 - Caterpie](../pokemon/caterpie.md)**
 
-![Caterpie](../assets/sprites/caterpie/front.gif "Caterpie")
+![Caterpie](../assets/sprites/caterpie/front.gif "Caterpie: It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.")
 
 Ability:
 
@@ -448,7 +448,7 @@ Level Up:
 
 **[#011 - Metapod](../pokemon/metapod.md)**
 
-![Metapod](../assets/sprites/metapod/front.gif "Metapod")
+![Metapod](../assets/sprites/metapod/front.gif "Metapod: A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.")
 
 Ability:
 
@@ -467,7 +467,7 @@ Level Up:
 
 **[#012 - Butterfree](../pokemon/butterfree.md)**
 
-![Butterfree](../assets/sprites/butterfree/front.gif "Butterfree")
+![Butterfree](../assets/sprites/butterfree/front.gif "Butterfree: It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.")
 
 Ability:
 
@@ -517,7 +517,7 @@ Level Up:
 
 **[#013 - Weedle](../pokemon/weedle.md)**
 
-![Weedle](../assets/sprites/weedle/front.gif "Weedle")
+![Weedle](../assets/sprites/weedle/front.gif "Weedle: It eats its weight in leaves every day. It fends off attackers with the needle on its head.")
 
 Ability:
 
@@ -536,7 +536,7 @@ Level Up:
 
 **[#014 - Kakuna](../pokemon/kakuna.md)**
 
-![Kakuna](../assets/sprites/kakuna/front.gif "Kakuna")
+![Kakuna](../assets/sprites/kakuna/front.gif "Kakuna: While awaiting evolution, it hides from predators under leaves and in nooks of branches.")
 
 Ability:
 
@@ -555,7 +555,7 @@ Level Up:
 
 **[#015 - Beedrill](../pokemon/beedrill.md)**
 
-![Beedrill](../assets/sprites/beedrill/front.gif "Beedrill")
+![Beedrill](../assets/sprites/beedrill/front.gif "Beedrill: Its best attack involves flying around at high speed, striking with poison needles, then flying off.")
 
 Ability (Complete):
 
@@ -610,7 +610,7 @@ Level Up:
 
 **[#016 - Pidgey](../pokemon/pidgey.md)**
 
-![Pidgey](../assets/sprites/pidgey/front.gif "Pidgey")
+![Pidgey](../assets/sprites/pidgey/front.gif "Pidgey: It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.")
 
 Base Stats (Complete):
 
@@ -650,7 +650,7 @@ Level Up:
 
 **[#017 - Pidgeotto](../pokemon/pidgeotto.md)**
 
-![Pidgeotto](../assets/sprites/pidgeotto/front.gif "Pidgeotto")
+![Pidgeotto](../assets/sprites/pidgeotto/front.gif "Pidgeotto: It flies over its wide territory in search of prey, downing it with its highly developed claws.")
 
 Base Stats (Complete):
 
@@ -690,7 +690,7 @@ Level Up:
 
 **[#018 - Pidgeot](../pokemon/pidgeot.md)**
 
-![Pidgeot](../assets/sprites/pidgeot/front.gif "Pidgeot")
+![Pidgeot](../assets/sprites/pidgeot/front.gif "Pidgeot: By flapping its wings with all its might, PIDGEOT can make a gust of wind capable of bending tall trees.")
 
 Ability (Complete):
 
@@ -741,7 +741,7 @@ Level Up:
 
 **[#019 - Rattata](../pokemon/rattata.md)**
 
-![Rattata](../assets/sprites/rattata/front.gif "Rattata")
+![Rattata](../assets/sprites/rattata/front.gif "Rattata: Cautious in the extreme, its hardy vitality lets it live in any kind of environment.")
 
 Ability:
 
@@ -773,7 +773,7 @@ Level Up:
 
 **[#020 - Raticate](../pokemon/raticate.md)**
 
-![Raticate](../assets/sprites/raticate/front.gif "Raticate")
+![Raticate](../assets/sprites/raticate/front.gif "Raticate: It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.")
 
 Ability:
 
@@ -815,7 +815,7 @@ Level Up:
 
 **[#021 - Spearow](../pokemon/spearow.md)**
 
-![Spearow](../assets/sprites/spearow/front.gif "Spearow")
+![Spearow](../assets/sprites/spearow/front.gif "Spearow: It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.")
 
 Ability:
 
@@ -854,7 +854,7 @@ Level Up:
 
 **[#022 - Fearow](../pokemon/fearow.md)**
 
-![Fearow](../assets/sprites/fearow/front.gif "Fearow")
+![Fearow](../assets/sprites/fearow/front.gif "Fearow: It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.")
 
 Ability:
 
@@ -903,7 +903,7 @@ Level Up:
 
 **[#023 - Ekans](../pokemon/ekans.md)**
 
-![Ekans](../assets/sprites/ekans/front.gif "Ekans")
+![Ekans](../assets/sprites/ekans/front.gif "Ekans: It sneaks through grass without making a sound and strikes unsuspecting prey from behind.")
 
 Level Up:
 
@@ -929,7 +929,7 @@ Level Up:
 
 **[#024 - Arbok](../pokemon/arbok.md)**
 
-![Arbok](../assets/sprites/arbok/front.gif "Arbok")
+![Arbok](../assets/sprites/arbok/front.gif "Arbok: The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.")
 
 Base Stats (Complete):
 
@@ -966,7 +966,7 @@ Level Up:
 
 **[#025 - Pikachu](../pokemon/pikachu.md)**
 
-![Pikachu](../assets/sprites/pikachu/front.gif "Pikachu")
+![Pikachu](../assets/sprites/pikachu/front.gif "Pikachu: It occasionally uses an electric shock to recharge a fellow PIKACHU that is in a weakened state.")
 
 Ability:
 
@@ -1005,7 +1005,7 @@ Level Up:
 
 **[#026 - Raichu](../pokemon/raichu.md)**
 
-![Raichu](../assets/sprites/raichu/front.gif "Raichu")
+![Raichu](../assets/sprites/raichu/front.gif "Raichu: Its tail discharges electricity into the ground, protecting it from getting shocked.")
 
 Ability:
 
@@ -1043,7 +1043,7 @@ Level Up:
 
 **[#027 - Sandshrew](../pokemon/sandshrew.md)**
 
-![Sandshrew](../assets/sprites/sandshrew/front.gif "Sandshrew")
+![Sandshrew](../assets/sprites/sandshrew/front.gif "Sandshrew: To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.")
 
 Level Up:
 
@@ -1072,7 +1072,7 @@ Level Up:
 
 **[#028 - Sandslash](../pokemon/sandslash.md)**
 
-![Sandslash](../assets/sprites/sandslash/front.gif "Sandslash")
+![Sandslash](../assets/sprites/sandslash/front.gif "Sandslash: It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.")
 
 Level Up:
 
@@ -1102,7 +1102,7 @@ Level Up:
 
 **[#029 - Nidoran F](../pokemon/nidoran-f.md)**
 
-![Nidoran F](../assets/sprites/nidoran-f/front.gif "Nidoran F")
+![Nidoran F](../assets/sprites/nidoran-f/front.gif "Nidoran F: While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.")
 
 Level Up:
 
@@ -1127,7 +1127,7 @@ Level Up:
 
 **[#030 - Nidorina](../pokemon/nidorina.md)**
 
-![Nidorina](../assets/sprites/nidorina/front.gif "Nidorina")
+![Nidorina](../assets/sprites/nidorina/front.gif "Nidorina: When it senses danger, it raises all the barbs on its body. These barbs grow slower than NIDORINO’s.")
 
 Level Up:
 
@@ -1152,7 +1152,7 @@ Level Up:
 
 **[#031 - Nidoqueen](../pokemon/nidoqueen.md)**
 
-![Nidoqueen](../assets/sprites/nidoqueen/front.gif "Nidoqueen")
+![Nidoqueen](../assets/sprites/nidoqueen/front.gif "Nidoqueen: Its entire body is armored with hard scales. It will protect the young in its burrow with its life.")
 
 Level Up:
 
@@ -1171,7 +1171,7 @@ Level Up:
 
 **[#032 - Nidoran M](../pokemon/nidoran-m.md)**
 
-![Nidoran M](../assets/sprites/nidoran-m/front.gif "Nidoran M")
+![Nidoran M](../assets/sprites/nidoran-m/front.gif "Nidoran M: It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.")
 
 Level Up:
 
@@ -1196,7 +1196,7 @@ Level Up:
 
 **[#033 - Nidorino](../pokemon/nidorino.md)**
 
-![Nidorino](../assets/sprites/nidorino/front.gif "Nidorino")
+![Nidorino](../assets/sprites/nidorino/front.gif "Nidorino: It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.")
 
 Level Up:
 
@@ -1221,7 +1221,7 @@ Level Up:
 
 **[#034 - Nidoking](../pokemon/nidoking.md)**
 
-![Nidoking](../assets/sprites/nidoking/front.gif "Nidoking")
+![Nidoking](../assets/sprites/nidoking/front.gif "Nidoking: One swing of its mighty tail can snap a telephone pole as if it were a matchstick.")
 
 Level Up:
 
@@ -1240,7 +1240,7 @@ Level Up:
 
 **[#035 - Clefairy](../pokemon/clefairy.md)**
 
-![Clefairy](../assets/sprites/clefairy/front.gif "Clefairy")
+![Clefairy](../assets/sprites/clefairy/front.gif "Clefairy: It is said that happiness will come to those who see a gathering of CLEFAIRY dancing under a full moon.")
 
 Level Up:
 
@@ -1270,7 +1270,7 @@ Level Up:
 
 **[#036 - Clefable](../pokemon/clefable.md)**
 
-![Clefable](../assets/sprites/clefable/front.gif "Clefable")
+![Clefable](../assets/sprites/clefable/front.gif "Clefable: It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.")
 
 Level Up:
 
@@ -1286,7 +1286,7 @@ Level Up:
 
 **[#037 - Vulpix](../pokemon/vulpix.md)**
 
-![Vulpix](../assets/sprites/vulpix/front.gif "Vulpix")
+![Vulpix](../assets/sprites/vulpix/front.gif "Vulpix: It controls balls of fire. As it grows, its six tails split from their tips to make more tails.")
 
 Ability:
 
@@ -1327,7 +1327,7 @@ Level Up:
 
 **[#038 - Ninetales](../pokemon/ninetales.md)**
 
-![Ninetales](../assets/sprites/ninetales/front.gif "Ninetales")
+![Ninetales](../assets/sprites/ninetales/front.gif "Ninetales: Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.")
 
 Ability:
 
@@ -1373,7 +1373,7 @@ Level Up:
 
 **[#039 - Jigglypuff](../pokemon/jigglypuff.md)**
 
-![Jigglypuff](../assets/sprites/jigglypuff/front.gif "Jigglypuff")
+![Jigglypuff](../assets/sprites/jigglypuff/front.gif "Jigglypuff: When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.")
 
 Ability (Complete):
 
@@ -1417,7 +1417,7 @@ Level Up:
 
 **[#040 - Wigglytuff](../pokemon/wigglytuff.md)**
 
-![Wigglytuff](../assets/sprites/wigglytuff/front.gif "Wigglytuff")
+![Wigglytuff](../assets/sprites/wigglytuff/front.gif "Wigglytuff: Its fine fur feels sublime to the touch. It can expand its body by inhaling air.")
 
 Ability (Complete):
 
@@ -1449,7 +1449,7 @@ Level Up:
 
 **[#041 - Zubat](../pokemon/zubat.md)**
 
-![Zubat](../assets/sprites/zubat/front.gif "Zubat")
+![Zubat](../assets/sprites/zubat/front.gif "Zubat: It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.")
 
 Moves:
 
@@ -1481,7 +1481,7 @@ Level Up:
 
 **[#042 - Golbat](../pokemon/golbat.md)**
 
-![Golbat](../assets/sprites/golbat/front.gif "Golbat")
+![Golbat](../assets/sprites/golbat/front.gif "Golbat: Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.")
 
 Moves:
 
@@ -1515,7 +1515,7 @@ Level Up:
 
 **[#043 - Oddish](../pokemon/oddish.md)**
 
-![Oddish](../assets/sprites/oddish/front.gif "Oddish")
+![Oddish](../assets/sprites/oddish/front.gif "Oddish: It often plants its root feet in the ground during the day and sows seeds as it walks about at night.")
 
 Ability:
 
@@ -1548,7 +1548,7 @@ Level Up:
 
 **[#044 - Gloom](../pokemon/gloom.md)**
 
-![Gloom](../assets/sprites/gloom/front.gif "Gloom")
+![Gloom](../assets/sprites/gloom/front.gif "Gloom: The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.")
 
 Ability:
 
@@ -1581,7 +1581,7 @@ Level Up:
 
 **[#045 - Vileplume](../pokemon/vileplume.md)**
 
-![Vileplume](../assets/sprites/vileplume/front.gif "Vileplume")
+![Vileplume](../assets/sprites/vileplume/front.gif "Vileplume: Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.")
 
 Ability:
 
@@ -1607,7 +1607,7 @@ Level Up:
 
 **[#046 - Paras](../pokemon/paras.md)**
 
-![Paras](../assets/sprites/paras/front.gif "Paras")
+![Paras](../assets/sprites/paras/front.gif "Paras: Mushrooms named tochukaso grow on its back. They grow along with the host PARAS.")
 
 Moves:
 
@@ -1639,7 +1639,7 @@ Level Up:
 
 **[#047 - Parasect](../pokemon/parasect.md)**
 
-![Parasect](../assets/sprites/parasect/front.gif "Parasect")
+![Parasect](../assets/sprites/parasect/front.gif "Parasect: A mushroom grown larger than the host’s body controls PARASECT. It scatters poisonous spores.")
 
 Base Stats (Complete):
 
@@ -1679,7 +1679,7 @@ Level Up:
 
 **[#048 - Venonat](../pokemon/venonat.md)**
 
-![Venonat](../assets/sprites/venonat/front.gif "Venonat")
+![Venonat](../assets/sprites/venonat/front.gif "Venonat: Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.")
 
 Ability:
 
@@ -1718,7 +1718,7 @@ Level Up:
 
 **[#049 - Venomoth](../pokemon/venomoth.md)**
 
-![Venomoth](../assets/sprites/venomoth/front.gif "Venomoth")
+![Venomoth](../assets/sprites/venomoth/front.gif "Venomoth: It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.")
 
 Ability:
 
@@ -1769,7 +1769,7 @@ Level Up:
 
 **[#050 - Diglett](../pokemon/diglett.md)**
 
-![Diglett](../assets/sprites/diglett/front.gif "Diglett")
+![Diglett](../assets/sprites/diglett/front.gif "Diglett: A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.")
 
 Level Up:
 
@@ -1795,7 +1795,7 @@ Level Up:
 
 **[#051 - Dugtrio](../pokemon/dugtrio.md)**
 
-![Dugtrio](../assets/sprites/dugtrio/front.gif "Dugtrio")
+![Dugtrio](../assets/sprites/dugtrio/front.gif "Dugtrio: Its three heads move alternately, driving it through tough soil to depths of over 60 miles.")
 
 Level Up:
 
@@ -1823,7 +1823,7 @@ Level Up:
 
 **[#052 - Meowth](../pokemon/meowth.md)**
 
-![Meowth](../assets/sprites/meowth/front.gif "Meowth")
+![Meowth](../assets/sprites/meowth/front.gif "Meowth: It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.")
 
 Ability:
 
@@ -1858,7 +1858,7 @@ Level Up:
 
 **[#053 - Persian](../pokemon/persian.md)**
 
-![Persian](../assets/sprites/persian/front.gif "Persian")
+![Persian](../assets/sprites/persian/front.gif "Persian: A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.")
 
 Ability:
 
@@ -1902,7 +1902,7 @@ Level Up:
 
 **[#054 - Psyduck](../pokemon/psyduck.md)**
 
-![Psyduck](../assets/sprites/psyduck/front.gif "Psyduck")
+![Psyduck](../assets/sprites/psyduck/front.gif "Psyduck: Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.")
 
 Level Up:
 
@@ -1929,7 +1929,7 @@ Level Up:
 
 **[#055 - Golduck](../pokemon/golduck.md)**
 
-![Golduck](../assets/sprites/golduck/front.gif "Golduck")
+![Golduck](../assets/sprites/golduck/front.gif "Golduck: It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.")
 
 Type (Complete):
 
@@ -1966,7 +1966,7 @@ Level Up:
 
 **[#056 - Mankey](../pokemon/mankey.md)**
 
-![Mankey](../assets/sprites/mankey/front.gif "Mankey")
+![Mankey](../assets/sprites/mankey/front.gif "Mankey: It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.")
 
 Level Up:
 
@@ -1995,7 +1995,7 @@ Level Up:
 
 **[#057 - Primeape](../pokemon/primeape.md)**
 
-![Primeape](../assets/sprites/primeape/front.gif "Primeape")
+![Primeape](../assets/sprites/primeape/front.gif "Primeape: It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.")
 
 Level Up:
 
@@ -2025,7 +2025,7 @@ Level Up:
 
 **[#058 - Growlithe](../pokemon/growlithe.md)**
 
-![Growlithe](../assets/sprites/growlithe/front.gif "Growlithe")
+![Growlithe](../assets/sprites/growlithe/front.gif "Growlithe: A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.")
 
 Level Up:
 
@@ -2052,7 +2052,7 @@ Level Up:
 
 **[#059 - Arcanine](../pokemon/arcanine.md)**
 
-![Arcanine](../assets/sprites/arcanine/front.gif "Arcanine")
+![Arcanine](../assets/sprites/arcanine/front.gif "Arcanine: Its proud and regal appearance has captured the hearts of people since long ago.")
 
 Level Up:
 
@@ -2071,7 +2071,7 @@ Level Up:
 
 **[#060 - Poliwag](../pokemon/poliwag.md)**
 
-![Poliwag](../assets/sprites/poliwag/front.gif "Poliwag")
+![Poliwag](../assets/sprites/poliwag/front.gif "Poliwag: Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.")
 
 Level Up
 
@@ -2107,7 +2107,7 @@ Level Up
 
 **[#061 - Poliwhirl](../pokemon/poliwhirl.md)**
 
-![Poliwhirl](../assets/sprites/poliwhirl/front.gif "Poliwhirl")
+![Poliwhirl](../assets/sprites/poliwhirl/front.gif "Poliwhirl: The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.")
 
 Evolution:
 
@@ -2137,7 +2137,7 @@ Level Up:
 
 **[#062 - Poliwrath](../pokemon/poliwrath.md)**
 
-![Poliwrath](../assets/sprites/poliwrath/front.gif "Poliwrath")
+![Poliwrath](../assets/sprites/poliwrath/front.gif "Poliwrath: With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.")
 
 Moves:
 
@@ -2164,7 +2164,7 @@ Level Up:
 
 **[#063 - Abra](../pokemon/abra.md)**
 
-![Abra](../assets/sprites/abra/front.gif "Abra")
+![Abra](../assets/sprites/abra/front.gif "Abra: Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.")
 
 Ability:
 
@@ -2181,7 +2181,7 @@ Level Up:
 
 **[#064 - Kadabra](../pokemon/kadabra.md)**
 
-![Kadabra](../assets/sprites/kadabra/front.gif "Kadabra")
+![Kadabra](../assets/sprites/kadabra/front.gif "Kadabra: It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.")
 
 Ability:
 
@@ -2220,7 +2220,7 @@ Level Up:
 
 **[#065 - Alakazam](../pokemon/alakazam.md)**
 
-![Alakazam](../assets/sprites/alakazam/front.gif "Alakazam")
+![Alakazam](../assets/sprites/alakazam/front.gif "Alakazam: The spoons clutched in its hands are said to have been created by its psychic powers.")
 
 Ability:
 
@@ -2256,7 +2256,7 @@ Level Up:
 
 **[#066 - Machop](../pokemon/machop.md)**
 
-![Machop](../assets/sprites/machop/front.gif "Machop")
+![Machop](../assets/sprites/machop/front.gif "Machop: Though small in stature, it is powerful enough to easily heft and throw a number of GEODUDE at once.")
 
 Level Up:
 
@@ -2284,7 +2284,7 @@ Level Up:
 
 **[#067 - Machoke](../pokemon/machoke.md)**
 
-![Machoke](../assets/sprites/machoke/front.gif "Machoke")
+![Machoke](../assets/sprites/machoke/front.gif "Machoke: It happily carries heavy cargo to toughen up. It willingly does hard work for people.")
 
 Evolution:
 
@@ -2318,7 +2318,7 @@ Level Up:
 
 **[#068 - Machamp](../pokemon/machamp.md)**
 
-![Machamp](../assets/sprites/machamp/front.gif "Machamp")
+![Machamp](../assets/sprites/machamp/front.gif "Machamp: Its four muscled arms slam foes with powerful punches and chops at blinding speed.")
 
 Level Up:
 
@@ -2348,7 +2348,7 @@ Level Up:
 
 **[#069 - Bellsprout](../pokemon/bellsprout.md)**
 
-![Bellsprout](../assets/sprites/bellsprout/front.gif "Bellsprout")
+![Bellsprout](../assets/sprites/bellsprout/front.gif "Bellsprout: It prefers hot and humid environments. It is quick at capturing prey with its vines.")
 
 Ability:
 
@@ -2381,7 +2381,7 @@ Level Up:
 
 **[#070 - Weepinbell](../pokemon/weepinbell.md)**
 
-![Weepinbell](../assets/sprites/weepinbell/front.gif "Weepinbell")
+![Weepinbell](../assets/sprites/weepinbell/front.gif "Weepinbell: A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.")
 
 Ability:
 
@@ -2414,7 +2414,7 @@ Level Up:
 
 **[#071 - Victreebel](../pokemon/victreebel.md)**
 
-![Victreebel](../assets/sprites/victreebel/front.gif "Victreebel")
+![Victreebel](../assets/sprites/victreebel/front.gif "Victreebel: It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.")
 
 Ability:
 
@@ -2443,7 +2443,7 @@ Level Up:
 
 **[#072 - Tentacool](../pokemon/tentacool.md)**
 
-![Tentacool](../assets/sprites/tentacool/front.gif "Tentacool")
+![Tentacool](../assets/sprites/tentacool/front.gif "Tentacool: Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.")
 
 Level Up:
 
@@ -2468,7 +2468,7 @@ Level Up:
 
 **[#073 - Tentacruel](../pokemon/tentacruel.md)**
 
-![Tentacruel](../assets/sprites/tentacruel/front.gif "Tentacruel")
+![Tentacruel](../assets/sprites/tentacruel/front.gif "Tentacruel: It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.")
 
 Level Up:
 
@@ -2493,7 +2493,7 @@ Level Up:
 
 **[#074 - Geodude](../pokemon/geodude.md)**
 
-![Geodude](../assets/sprites/geodude/front.gif "Geodude")
+![Geodude](../assets/sprites/geodude/front.gif "Geodude: At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.")
 
 Level Up:
 
@@ -2519,7 +2519,7 @@ Level Up:
 
 **[#075 - Graveler](../pokemon/graveler.md)**
 
-![Graveler](../assets/sprites/graveler/front.gif "Graveler")
+![Graveler](../assets/sprites/graveler/front.gif "Graveler: It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty.")
 
 Evolution:
 
@@ -2552,7 +2552,7 @@ Level Up:
 
 **[#076 - Golem](../pokemon/golem.md)**
 
-![Golem](../assets/sprites/golem/front.gif "Golem")
+![Golem](../assets/sprites/golem/front.gif "Golem: Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just once a year.")
 
 Level Up:
 
@@ -2582,7 +2582,7 @@ Level Up:
 
 **[#077 - Ponyta](../pokemon/ponyta.md)**
 
-![Ponyta](../assets/sprites/ponyta/front.gif "Ponyta")
+![Ponyta](../assets/sprites/ponyta/front.gif "Ponyta: As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.")
 
 Ability:
 
@@ -2621,7 +2621,7 @@ Level Up:
 
 **[#078 - Rapidash](../pokemon/rapidash.md)**
 
-![Rapidash](../assets/sprites/rapidash/front.gif "Rapidash")
+![Rapidash](../assets/sprites/rapidash/front.gif "Rapidash: When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.")
 
 Ability:
 
@@ -2658,7 +2658,7 @@ Level Up:
 
 **[#079 - Slowpoke](../pokemon/slowpoke.md)**
 
-![Slowpoke](../assets/sprites/slowpoke/front.gif "Slowpoke")
+![Slowpoke](../assets/sprites/slowpoke/front.gif "Slowpoke: Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.")
 
 Evolution:
 
@@ -2698,7 +2698,7 @@ Level Up:
 
 **[#080 - Slowbro](../pokemon/slowbro.md)**
 
-![Slowbro](../assets/sprites/slowbro/front.gif "Slowbro")
+![Slowbro](../assets/sprites/slowbro/front.gif "Slowbro: Though usually dim witted, it seems to become inspired if the SHELLDER on its tail bites down.")
 
 Moves:
 
@@ -2732,7 +2732,7 @@ Level Up:
 
 **[#081 - Magnemite](../pokemon/magnemite.md)**
 
-![Magnemite](../assets/sprites/magnemite/front.gif "Magnemite")
+![Magnemite](../assets/sprites/magnemite/front.gif "Magnemite: The faster the units at its sides rotate, the greater the magnetic force they generate.")
 
 Moves:
 
@@ -2766,7 +2766,7 @@ Level Up:
 
 **[#082 - Magneton](../pokemon/magneton.md)**
 
-![Magneton](../assets/sprites/magneton/front.gif "Magneton")
+![Magneton](../assets/sprites/magneton/front.gif "Magneton: Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.")
 
 Moves:
 
@@ -2801,7 +2801,7 @@ Level Up:
 
 **[#083 - Farfetch'd](../pokemon/farfetchd.md)**
 
-![Farfetch'd](../assets/sprites/farfetchd/front.gif "Farfetch'd")
+![Farfetch'd](../assets/sprites/farfetchd/front.gif "Farfetch'd: It can’t live without the stalk it holds. That’s why it defends the stalk from attackers with its life.")
 
 Ability (Complete):
 
@@ -2867,7 +2867,7 @@ Level Up:
 
 **[#084 - Doduo](../pokemon/doduo.md)**
 
-![Doduo](../assets/sprites/doduo/front.gif "Doduo")
+![Doduo](../assets/sprites/doduo/front.gif "Doduo: The brains in its two heads appear to communicate emotions to each other with a telepathic power.")
 
 Ability:
 
@@ -2901,7 +2901,7 @@ Level Up:
 
 **[#085 - Dodrio](../pokemon/dodrio.md)**
 
-![Dodrio](../assets/sprites/dodrio/front.gif "Dodrio")
+![Dodrio](../assets/sprites/dodrio/front.gif "Dodrio: When DODUO evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.")
 
 Ability:
 
@@ -2938,7 +2938,7 @@ Level Up:
 
 **[#086 - Seel](../pokemon/seel.md)**
 
-![Seel](../assets/sprites/seel/front.gif "Seel")
+![Seel](../assets/sprites/seel/front.gif "Seel: A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.")
 
 Level Up:
 
@@ -2967,7 +2967,7 @@ Level Up:
 
 **[#087 - Dewgong](../pokemon/dewgong.md)**
 
-![Dewgong](../assets/sprites/dewgong/front.gif "Dewgong")
+![Dewgong](../assets/sprites/dewgong/front.gif "Dewgong: In snow, the pure white coat covering its body obscures it from predators.")
 
 Base Stats (Complete):
 
@@ -3004,7 +3004,7 @@ Level Up:
 
 **[#088 - Grimer](../pokemon/grimer.md)**
 
-![Grimer](../assets/sprites/grimer/front.gif "Grimer")
+![Grimer](../assets/sprites/grimer/front.gif "Grimer: It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth.")
 
 Evolution:
 
@@ -3037,7 +3037,7 @@ Level Up:
 
 **[#089 - Muk](../pokemon/muk.md)**
 
-![Muk](../assets/sprites/muk/front.gif "Muk")
+![Muk](../assets/sprites/muk/front.gif "Muk: A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.")
 
 Level Up:
 
@@ -3066,7 +3066,7 @@ Level Up:
 
 **[#090 - Shellder](../pokemon/shellder.md)**
 
-![Shellder](../assets/sprites/shellder/front.gif "Shellder")
+![Shellder](../assets/sprites/shellder/front.gif "Shellder: It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.")
 
 Ability:
 
@@ -3104,7 +3104,7 @@ Level Up:
 
 **[#091 - Cloyster](../pokemon/cloyster.md)**
 
-![Cloyster](../assets/sprites/cloyster/front.gif "Cloyster")
+![Cloyster](../assets/sprites/cloyster/front.gif "Cloyster: It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.")
 
 Ability:
 
@@ -3137,7 +3137,7 @@ Level Up:
 
 **[#092 - Gastly](../pokemon/gastly.md)**
 
-![Gastly](../assets/sprites/gastly/front.gif "Gastly")
+![Gastly](../assets/sprites/gastly/front.gif "Gastly: Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.")
 
 Level Up:
 
@@ -3164,7 +3164,7 @@ Level Up:
 
 **[#093 - Haunter](../pokemon/haunter.md)**
 
-![Haunter](../assets/sprites/haunter/front.gif "Haunter")
+![Haunter](../assets/sprites/haunter/front.gif "Haunter: It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.")
 
 Evolution:
 
@@ -3198,7 +3198,7 @@ Level Up:
 
 **[#094 - Gengar](../pokemon/gengar.md)**
 
-![Gengar](../assets/sprites/gengar/front.gif "Gengar")
+![Gengar](../assets/sprites/gengar/front.gif "Gengar: The leer that floats in darkness belongs to a GENGAR delighting in casting curses on people.")
 
 Level Up:
 
@@ -3227,7 +3227,7 @@ Level Up:
 
 **[#095 - Onix](../pokemon/onix.md)**
 
-![Onix](../assets/sprites/onix/front.gif "Onix")
+![Onix](../assets/sprites/onix/front.gif "Onix: It burrows through the ground at a speed of 50 mph while feeding on large boulders. ")
 
 Base Stats (Complete):
 
@@ -3267,7 +3267,7 @@ Level Up:
 
 **[#096 - Drowzee](../pokemon/drowzee.md)**
 
-![Drowzee](../assets/sprites/drowzee/front.gif "Drowzee")
+![Drowzee](../assets/sprites/drowzee/front.gif "Drowzee: It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.")
 
 Level Up:
 
@@ -3295,7 +3295,7 @@ Level Up:
 
 **[#097 - Hypno](../pokemon/hypno.md)**
 
-![Hypno](../assets/sprites/hypno/front.gif "Hypno")
+![Hypno](../assets/sprites/hypno/front.gif "Hypno: Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.")
 
 Level Up:
 
@@ -3325,7 +3325,7 @@ Level Up:
 
 **[#098 - Krabby](../pokemon/krabby.md)**
 
-![Krabby](../assets/sprites/krabby/front.gif "Krabby")
+![Krabby](../assets/sprites/krabby/front.gif "Krabby: It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.")
 
 Moves:
 
@@ -3358,7 +3358,7 @@ Level Up:
 
 **[#099 - Kingler](../pokemon/kingler.md)**
 
-![Kingler](../assets/sprites/kingler/front.gif "Kingler")
+![Kingler](../assets/sprites/kingler/front.gif "Kingler: The larger pincer has 10,000- horsepower strength. However, it is so heavy, it is difficult to aim.")
 
 Moves:
 
@@ -3395,7 +3395,7 @@ Level Up:
 
 **[#100 - Voltorb](../pokemon/voltorb.md)**
 
-![Voltorb](../assets/sprites/voltorb/front.gif "Voltorb")
+![Voltorb](../assets/sprites/voltorb/front.gif "Voltorb: It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.")
 
 Moves:
 
@@ -3428,7 +3428,7 @@ Level Up:
 
 **[#101 - Electrode](../pokemon/electrode.md)**
 
-![Electrode](../assets/sprites/electrode/front.gif "Electrode")
+![Electrode](../assets/sprites/electrode/front.gif "Electrode: It is known to drift on winds if it is bloated to bursting with stored electricity.")
 
 Moves:
 
@@ -3462,7 +3462,7 @@ Level Up:
 
 **[#102 - Exeggcute](../pokemon/exeggcute.md)**
 
-![Exeggcute](../assets/sprites/exeggcute/front.gif "Exeggcute")
+![Exeggcute](../assets/sprites/exeggcute/front.gif "Exeggcute: Its six eggs converse using telepathy. They can quickly gather if they become separated.")
 
 Level Up:
 
@@ -3489,7 +3489,7 @@ Level Up:
 
 **[#103 - Exeggutor](../pokemon/exeggutor.md)**
 
-![Exeggutor](../assets/sprites/exeggutor/front.gif "Exeggutor")
+![Exeggutor](../assets/sprites/exeggutor/front.gif "Exeggutor: It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an EXEGGCUTE.")
 
 Level Up:
 
@@ -3507,7 +3507,7 @@ Level Up:
 
 **[#104 - Cubone](../pokemon/cubone.md)**
 
-![Cubone](../assets/sprites/cubone/front.gif "Cubone")
+![Cubone](../assets/sprites/cubone/front.gif "Cubone: When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.")
 
 Level Up:
 
@@ -3535,7 +3535,7 @@ Level Up:
 
 **[#105 - Marowak](../pokemon/marowak.md)**
 
-![Marowak](../assets/sprites/marowak/front.gif "Marowak")
+![Marowak](../assets/sprites/marowak/front.gif "Marowak: From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.")
 
 Level Up:
 
@@ -3564,7 +3564,7 @@ Level Up:
 
 **[#106 - Hitmonlee](../pokemon/hitmonlee.md)**
 
-![Hitmonlee](../assets/sprites/hitmonlee/front.gif "Hitmonlee")
+![Hitmonlee](../assets/sprites/hitmonlee/front.gif "Hitmonlee: Its legs can stretch double. First-time foes are startled by its extensible reach.")
 
 Ability:
 
@@ -3597,7 +3597,7 @@ Level Up:
 
 **[#107 - Hitmonchan](../pokemon/hitmonchan.md)**
 
-![Hitmonchan](../assets/sprites/hitmonchan/front.gif "Hitmonchan")
+![Hitmonchan](../assets/sprites/hitmonchan/front.gif "Hitmonchan: The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.")
 
 Ability:
 
@@ -3631,7 +3631,7 @@ Level Up:
 
 **[#108 - Lickitung](../pokemon/lickitung.md)**
 
-![Lickitung](../assets/sprites/lickitung/front.gif "Lickitung")
+![Lickitung](../assets/sprites/lickitung/front.gif "Lickitung: When it extends its over-six-foot- long tongue, its tail quivers. There is a possibility they are connected.")
 
 Level Up:
 
@@ -3660,7 +3660,7 @@ Level Up:
 
 **[#109 - Koffing](../pokemon/koffing.md)**
 
-![Koffing](../assets/sprites/koffing/front.gif "Koffing")
+![Koffing](../assets/sprites/koffing/front.gif "Koffing: Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.")
 
 Level Up:
 
@@ -3686,7 +3686,7 @@ Level Up:
 
 **[#110 - Weezing](../pokemon/weezing.md)**
 
-![Weezing](../assets/sprites/weezing/front.gif "Weezing")
+![Weezing](../assets/sprites/weezing/front.gif "Weezing: It grows by feeding on gases released by garbage. Though very rare, triplets have been found.")
 
 Level Up:
 
@@ -3714,7 +3714,7 @@ Level Up:
 
 **[#111 - Rhyhorn](../pokemon/rhyhorn.md)**
 
-![Rhyhorn](../assets/sprites/rhyhorn/front.gif "Rhyhorn")
+![Rhyhorn](../assets/sprites/rhyhorn/front.gif "Rhyhorn: Its powerful tackles can destroy anything. However, it is too slow witted to help people work.")
 
 Ability:
 
@@ -3754,7 +3754,7 @@ Level Up:
 
 **[#112 - Rhydon](../pokemon/rhydon.md)**
 
-![Rhydon](../assets/sprites/rhydon/front.gif "Rhydon")
+![Rhydon](../assets/sprites/rhydon/front.gif "Rhydon: Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.")
 
 Ability:
 
@@ -3796,7 +3796,7 @@ Level Up:
 
 **[#113 - Chansey](../pokemon/chansey.md)**
 
-![Chansey](../assets/sprites/chansey/front.gif "Chansey")
+![Chansey](../assets/sprites/chansey/front.gif "Chansey: A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.")
 
 Ability:
 
@@ -3833,7 +3833,7 @@ Level Up:
 
 **[#114 - Tangela](../pokemon/tangela.md)**
 
-![Tangela](../assets/sprites/tangela/front.gif "Tangela")
+![Tangela](../assets/sprites/tangela/front.gif "Tangela: The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.")
 
 Level Up:
 
@@ -3861,7 +3861,7 @@ Level Up:
 
 **[#115 - Kangaskhan](../pokemon/kangaskhan.md)**
 
-![Kangaskhan](../assets/sprites/kangaskhan/front.gif "Kangaskhan")
+![Kangaskhan](../assets/sprites/kangaskhan/front.gif "Kangaskhan: It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.")
 
 Ability:
 
@@ -3895,7 +3895,7 @@ Level Up:
 
 **[#116 - Horsea](../pokemon/horsea.md)**
 
-![Horsea](../assets/sprites/horsea/front.gif "Horsea")
+![Horsea](../assets/sprites/horsea/front.gif "Horsea: It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.")
 
 Level Up:
 
@@ -3921,7 +3921,7 @@ Level Up:
 
 **[#117 - Seadra](../pokemon/seadra.md)**
 
-![Seadra](../assets/sprites/seadra/front.gif "Seadra")
+![Seadra](../assets/sprites/seadra/front.gif "Seadra: Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.")
 
 Evolution:
 
@@ -3954,7 +3954,7 @@ Level Up:
 
 **[#118 - Goldeen](../pokemon/goldeen.md)**
 
-![Goldeen](../assets/sprites/goldeen/front.gif "Goldeen")
+![Goldeen](../assets/sprites/goldeen/front.gif "Goldeen: Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.")
 
 Base Stats (Complete):
 
@@ -3989,7 +3989,7 @@ Level Up:
 
 **[#119 - Seaking](../pokemon/seaking.md)**
 
-![Seaking](../assets/sprites/seaking/front.gif "Seaking")
+![Seaking](../assets/sprites/seaking/front.gif "Seaking: In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.")
 
 Base Stats (Complete):
 
@@ -4025,7 +4025,7 @@ Level Up:
 
 **[#120 - Staryu](../pokemon/staryu.md)**
 
-![Staryu](../assets/sprites/staryu/front.gif "Staryu")
+![Staryu](../assets/sprites/staryu/front.gif "Staryu: If its body is torn, it can grow back if the red core remains. The core flashes at midnight.")
 
 Level Up:
 
@@ -4052,7 +4052,7 @@ Level Up:
 
 **[#121 - Starmie](../pokemon/starmie.md)**
 
-![Starmie](../assets/sprites/starmie/front.gif "Starmie")
+![Starmie](../assets/sprites/starmie/front.gif "Starmie: At the center of its body is a red core, which sends mysterious radio signals into the night sky.")
 
 Level Up:
 
@@ -4068,7 +4068,7 @@ Level Up:
 
 **[#122 - Mr. Mime](../pokemon/mr-mime.md)**
 
-![Mr. Mime](../assets/sprites/mr-mime/front.gif "Mr. Mime")
+![Mr. Mime](../assets/sprites/mr-mime/front.gif "Mr. Mime: It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.")
 
 Ability:
 
@@ -4112,7 +4112,7 @@ Level Up:
 
 **[#123 - Scyther](../pokemon/scyther.md)**
 
-![Scyther](../assets/sprites/scyther/front.gif "Scyther")
+![Scyther](../assets/sprites/scyther/front.gif "Scyther: The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.")
 
 Ability:
 
@@ -4161,7 +4161,7 @@ Level Up:
 
 **[#124 - Jynx](../pokemon/jynx.md)**
 
-![Jynx](../assets/sprites/jynx/front.gif "Jynx")
+![Jynx](../assets/sprites/jynx/front.gif "Jynx: Its cries sound like human speech. However, it is impossible to tell what it is trying to say.")
 
 Base Stats (Complete):
 
@@ -4205,7 +4205,7 @@ Level Up:
 
 **[#125 - Electabuzz](../pokemon/electabuzz.md)**
 
-![Electabuzz](../assets/sprites/electabuzz/front.gif "Electabuzz")
+![Electabuzz](../assets/sprites/electabuzz/front.gif "Electabuzz: It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.")
 
 Ability:
 
@@ -4244,7 +4244,7 @@ Level Up:
 
 **[#126 - Magmar](../pokemon/magmar.md)**
 
-![Magmar](../assets/sprites/magmar/front.gif "Magmar")
+![Magmar](../assets/sprites/magmar/front.gif "Magmar: When it breathes deeply, heat waves form around its body, making it hard to see clearly.")
 
 Ability:
 
@@ -4283,7 +4283,7 @@ Level Up:
 
 **[#127 - Pinsir](../pokemon/pinsir.md)**
 
-![Pinsir](../assets/sprites/pinsir/front.gif "Pinsir")
+![Pinsir](../assets/sprites/pinsir/front.gif "Pinsir: It grips prey with its pincers until the prey is torn in half. What it can’t tear, it tosses far.")
 
 Moves:
 
@@ -4317,7 +4317,7 @@ Level Up:
 
 **[#128 - Tauros](../pokemon/tauros.md)**
 
-![Tauros](../assets/sprites/tauros/front.gif "Tauros")
+![Tauros](../assets/sprites/tauros/front.gif "Tauros: Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.")
 
 Level Up:
 
@@ -4346,7 +4346,7 @@ Level Up:
 
 **[#129 - Magikarp](../pokemon/magikarp.md)**
 
-![Magikarp](../assets/sprites/magikarp/front.gif "Magikarp")
+![Magikarp](../assets/sprites/magikarp/front.gif "Magikarp: A MAGIKARP living for many years can leap a mountain using Splash. The move remains useless, though.")
 
 Level Up:
 
@@ -4359,7 +4359,7 @@ Level Up:
 
 **[#130 - Gyarados](../pokemon/gyarados.md)**
 
-![Gyarados](../assets/sprites/gyarados/front.gif "Gyarados")
+![Gyarados](../assets/sprites/gyarados/front.gif "Gyarados: Once it begins to rampage, a GYARADOS will burn everything down, even in a harsh storm.")
 
 Moves:
 
@@ -4390,7 +4390,7 @@ Level Up:
 
 **[#131 - Lapras](../pokemon/lapras.md)**
 
-![Lapras](../assets/sprites/lapras/front.gif "Lapras")
+![Lapras](../assets/sprites/lapras/front.gif "Lapras: It loves crossing the sea with people and Pokémon on its back. It understands human speech.")
 
 Level Up:
 
@@ -4420,7 +4420,7 @@ Level Up:
 
 **[#132 - Ditto](../pokemon/ditto.md)**
 
-![Ditto](../assets/sprites/ditto/front.gif "Ditto")
+![Ditto](../assets/sprites/ditto/front.gif "Ditto: It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.")
 
 Level Up:
 
@@ -4430,7 +4430,7 @@ Level Up:
 
 **[#133 - Eevee](../pokemon/eevee.md)**
 
-![Eevee](../assets/sprites/eevee/front.gif "Eevee")
+![Eevee](../assets/sprites/eevee/front.gif "Eevee: Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.")
 
 Evolution:
 
@@ -4473,7 +4473,7 @@ Level Up:
 
 **[#134 - Vaporeon](../pokemon/vaporeon.md)**
 
-![Vaporeon](../assets/sprites/vaporeon/front.gif "Vaporeon")
+![Vaporeon](../assets/sprites/vaporeon/front.gif "Vaporeon: Its cell composition is similar to water molecules. As a result, it can melt away into water.")
 
 Moves:
 
@@ -4507,7 +4507,7 @@ Level Up:
 
 **[#135 - Jolteon](../pokemon/jolteon.md)**
 
-![Jolteon](../assets/sprites/jolteon/front.gif "Jolteon")
+![Jolteon](../assets/sprites/jolteon/front.gif "Jolteon: If agitated, it uses electricity to straighten out its fur and launch it in small bunches.")
 
 Moves:
 
@@ -4541,7 +4541,7 @@ Level Up:
 
 **[#136 - Flareon](../pokemon/flareon.md)**
 
-![Flareon](../assets/sprites/flareon/front.gif "Flareon")
+![Flareon](../assets/sprites/flareon/front.gif "Flareon: Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.")
 
 Base Stats (Complete):
 
@@ -4584,7 +4584,7 @@ Level Up:
 
 **[#137 - Porygon](../pokemon/porygon.md)**
 
-![Porygon](../assets/sprites/porygon/front.gif "Porygon")
+![Porygon](../assets/sprites/porygon/front.gif "Porygon: A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.")
 
 Evolution:
 
@@ -4619,7 +4619,7 @@ Level Up:
 
 **[#138 - Omanyte](../pokemon/omanyte.md)**
 
-![Omanyte](../assets/sprites/omanyte/front.gif "Omanyte")
+![Omanyte](../assets/sprites/omanyte/front.gif "Omanyte: A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.")
 
 Evolution:
 
@@ -4651,7 +4651,7 @@ Level Up:
 
 **[#139 - Omastar](../pokemon/omastar.md)**
 
-![Omastar](../assets/sprites/omastar/front.gif "Omastar")
+![Omastar](../assets/sprites/omastar/front.gif "Omastar: It is thought that this Pokémon became extinct because its spiral shell grew too large.")
 
 Level Up:
 
@@ -4680,7 +4680,7 @@ Level Up:
 
 **[#140 - Kabuto](../pokemon/kabuto.md)**
 
-![Kabuto](../assets/sprites/kabuto/front.gif "Kabuto")
+![Kabuto](../assets/sprites/kabuto/front.gif "Kabuto: It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.")
 
 Evolution:
 
@@ -4712,7 +4712,7 @@ Level Up:
 
 **[#141 - Kabutops](../pokemon/kabutops.md)**
 
-![Kabutops](../assets/sprites/kabutops/front.gif "Kabutops")
+![Kabutops](../assets/sprites/kabutops/front.gif "Kabutops: It is thought that this Pokémon came onto land because its prey adapted to life on land.")
 
 Level Up:
 
@@ -4742,7 +4742,7 @@ Level Up:
 
 **[#142 - Aerodactyl](../pokemon/aerodactyl.md)**
 
-![Aerodactyl](../assets/sprites/aerodactyl/front.gif "Aerodactyl")
+![Aerodactyl](../assets/sprites/aerodactyl/front.gif "Aerodactyl: A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.")
 
 Moves:
 
@@ -4778,7 +4778,7 @@ Level Up:
 
 **[#143 - Snorlax](../pokemon/snorlax.md)**
 
-![Snorlax](../assets/sprites/snorlax/front.gif "Snorlax")
+![Snorlax](../assets/sprites/snorlax/front.gif "Snorlax: When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.")
 
 Ability:
 
@@ -4814,7 +4814,7 @@ Level Up:
 
 **[#144 - Articuno](../pokemon/articuno.md)**
 
-![Articuno](../assets/sprites/articuno/front.gif "Articuno")
+![Articuno](../assets/sprites/articuno/front.gif "Articuno: A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.")
 
 Ability:
 
@@ -4852,7 +4852,7 @@ Level Up:
 
 **[#145 - Zapdos](../pokemon/zapdos.md)**
 
-![Zapdos](../assets/sprites/zapdos/front.gif "Zapdos")
+![Zapdos](../assets/sprites/zapdos/front.gif "Zapdos: A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.")
 
 Ability:
 
@@ -4890,7 +4890,7 @@ Level Up:
 
 **[#146 - Moltres](../pokemon/moltres.md)**
 
-![Moltres](../assets/sprites/moltres/front.gif "Moltres")
+![Moltres](../assets/sprites/moltres/front.gif "Moltres: One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.")
 
 Ability:
 
@@ -4928,7 +4928,7 @@ Level Up:
 
 **[#147 - Dratini](../pokemon/dratini.md)**
 
-![Dratini](../assets/sprites/dratini/front.gif "Dratini")
+![Dratini](../assets/sprites/dratini/front.gif "Dratini: It is called the “Mirage Pokémon” because so few have seen it. Its shed skin has been found.")
 
 Ability:
 
@@ -4960,7 +4960,7 @@ Level Up:
 
 **[#148 - Dragonair](../pokemon/dragonair.md)**
 
-![Dragonair](../assets/sprites/dragonair/front.gif "Dragonair")
+![Dragonair](../assets/sprites/dragonair/front.gif "Dragonair: If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.")
 
 Ability:
 
@@ -4998,7 +4998,7 @@ Level Up:
 
 **[#149 - Dragonite](../pokemon/dragonite.md)**
 
-![Dragonite](../assets/sprites/dragonite/front.gif "Dragonite")
+![Dragonite](../assets/sprites/dragonite/front.gif "Dragonite: It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.")
 
 Ability (Complete):
 
@@ -5048,7 +5048,7 @@ Level Up:
 
 **[#150 - Mewtwo](../pokemon/mewtwo.md)**
 
-![Mewtwo](../assets/sprites/mewtwo/front.gif "Mewtwo")
+![Mewtwo](../assets/sprites/mewtwo/front.gif "Mewtwo: A Pokémon created by recombining MEW’s genes. It’s said to have the most savage heart among Pokémon.")
 
 Level Up:
 
@@ -5076,7 +5076,7 @@ Level Up:
 
 **[#151 - Mew](../pokemon/mew.md)**
 
-![Mew](../assets/sprites/mew/front.gif "Mew")
+![Mew](../assets/sprites/mew/front.gif "Mew: Because it can use all kinds of moves, many scientists believe MEW to be the ancestor of Pokémon.")
 
 Moves:
 
@@ -5106,7 +5106,7 @@ Level Up:
 
 **[#152 - Chikorita](../pokemon/chikorita.md)**
 
-![Chikorita](../assets/sprites/chikorita/front.gif "Chikorita")
+![Chikorita](../assets/sprites/chikorita/front.gif "Chikorita: It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.")
 
 Ability (Complete):
 
@@ -5152,7 +5152,7 @@ Level Up:
 
 **[#153 - Bayleef](../pokemon/bayleef.md)**
 
-![Bayleef](../assets/sprites/bayleef/front.gif "Bayleef")
+![Bayleef](../assets/sprites/bayleef/front.gif "Bayleef: The buds that ring its neck give off a spicy aroma that perks people up.")
 
 Ability (Complete):
 
@@ -5199,7 +5199,7 @@ Level Up:
 
 **[#154 - Meganium](../pokemon/meganium.md)**
 
-![Meganium](../assets/sprites/meganium/front.gif "Meganium")
+![Meganium](../assets/sprites/meganium/front.gif "Meganium: Its breath has the fantastic ability to revive dead plants and flowers.")
 
 Ability (Complete):
 
@@ -5263,7 +5263,7 @@ Level Up:
 
 **[#155 - Cyndaquil](../pokemon/cyndaquil.md)**
 
-![Cyndaquil](../assets/sprites/cyndaquil/front.gif "Cyndaquil")
+![Cyndaquil](../assets/sprites/cyndaquil/front.gif "Cyndaquil: It has a timid nature. If it is startled, the flames on its back burn more vigorously.")
 
 Ability (Complete):
 
@@ -5302,7 +5302,7 @@ Level Up:
 
 **[#156 - Quilava](../pokemon/quilava.md)**
 
-![Quilava](../assets/sprites/quilava/front.gif "Quilava")
+![Quilava](../assets/sprites/quilava/front.gif "Quilava: It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.")
 
 Ability (Complete):
 
@@ -5342,7 +5342,7 @@ Level Up:
 
 **[#157 - Typhlosion](../pokemon/typhlosion.md)**
 
-![Typhlosion](../assets/sprites/typhlosion/front.gif "Typhlosion")
+![Typhlosion](../assets/sprites/typhlosion/front.gif "Typhlosion: It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.")
 
 Ability (Complete):
 
@@ -5393,7 +5393,7 @@ Level Up:
 
 **[#158 - Totodile](../pokemon/totodile.md)**
 
-![Totodile](../assets/sprites/totodile/front.gif "Totodile")
+![Totodile](../assets/sprites/totodile/front.gif "Totodile: It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.")
 
 Ability (Complete):
 
@@ -5432,7 +5432,7 @@ Level Up:
 
 **[#159 - Croconaw](../pokemon/croconaw.md)**
 
-![Croconaw](../assets/sprites/croconaw/front.gif "Croconaw")
+![Croconaw](../assets/sprites/croconaw/front.gif "Croconaw: Once it bites down, it won’t let go until it loses its fangs. New fangs quickly grow into place.")
 
 Ability (Complete):
 
@@ -5472,7 +5472,7 @@ Level Up:
 
 **[#160 - Feraligatr](../pokemon/feraligatr.md)**
 
-![Feraligatr](../assets/sprites/feraligatr/front.gif "Feraligatr")
+![Feraligatr](../assets/sprites/feraligatr/front.gif "Feraligatr: It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.")
 
 Ability (Complete):
 
@@ -5523,7 +5523,7 @@ Level Up:
 
 **[#161 - Sentret](../pokemon/sentret.md)**
 
-![Sentret](../assets/sprites/sentret/front.gif "Sentret")
+![Sentret](../assets/sprites/sentret/front.gif "Sentret: It has a very nervous nature. It stands up high on its tail so it can scan wide areas.")
 
 Base Stats (Complete):
 
@@ -5557,7 +5557,7 @@ Level Up:
 
 **[#162 - Furret](../pokemon/furret.md)**
 
-![Furret](../assets/sprites/furret/front.gif "Furret")
+![Furret](../assets/sprites/furret/front.gif "Furret: The mother puts its offspring to sleep by curling up around them. It corners foes with speed.")
 
 Ability (Complete):
 
@@ -5600,7 +5600,7 @@ Level Up:
 
 **[#163 - Hoothoot](../pokemon/hoothoot.md)**
 
-![Hoothoot](../assets/sprites/hoothoot/front.gif "Hoothoot")
+![Hoothoot](../assets/sprites/hoothoot/front.gif "Hoothoot: It marks time precisely. Some countries consider it to be a wise friend, versed in the world’s ways.")
 
 Ability:
 
@@ -5641,7 +5641,7 @@ Level Up:
 
 **[#164 - Noctowl](../pokemon/noctowl.md)**
 
-![Noctowl](../assets/sprites/noctowl/front.gif "Noctowl")
+![Noctowl](../assets/sprites/noctowl/front.gif "Noctowl: Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.")
 
 Ability:
 
@@ -5699,7 +5699,7 @@ Level Up:
 
 **[#165 - Ledyba](../pokemon/ledyba.md)**
 
-![Ledyba](../assets/sprites/ledyba/front.gif "Ledyba")
+![Ledyba](../assets/sprites/ledyba/front.gif "Ledyba: It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent.")
 
 Ability (Complete):
 
@@ -5747,7 +5747,7 @@ Level Up:
 
 **[#166 - Ledian](../pokemon/ledian.md)**
 
-![Ledian](../assets/sprites/ledian/front.gif "Ledian")
+![Ledian](../assets/sprites/ledian/front.gif "Ledian: It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.")
 
 Ability (Complete):
 
@@ -5798,7 +5798,7 @@ Level Up:
 
 **[#167 - Spinarak](../pokemon/spinarak.md)**
 
-![Spinarak](../assets/sprites/spinarak/front.gif "Spinarak")
+![Spinarak](../assets/sprites/spinarak/front.gif "Spinarak: It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.")
 
 Base Stats (Complete):
 
@@ -5839,7 +5839,7 @@ Level Up:
 
 **[#168 - Ariados](../pokemon/ariados.md)**
 
-![Ariados](../assets/sprites/ariados/front.gif "Ariados")
+![Ariados](../assets/sprites/ariados/front.gif "Ariados: It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.")
 
 Base Stats (Complete):
 
@@ -5882,7 +5882,7 @@ Level Up:
 
 **[#169 - Crobat](../pokemon/crobat.md)**
 
-![Crobat](../assets/sprites/crobat/front.gif "Crobat")
+![Crobat](../assets/sprites/crobat/front.gif "Crobat: The transformation of its legs into wings made it better at flying, but more clumsy at walking.")
 
 Moves:
 
@@ -5917,7 +5917,7 @@ Level Up:
 
 **[#170 - Chinchou](../pokemon/chinchou.md)**
 
-![Chinchou](../assets/sprites/chinchou/front.gif "Chinchou")
+![Chinchou](../assets/sprites/chinchou/front.gif "Chinchou: It discharges positive and negative electricity from its antenna tips to shock its foes.")
 
 Ability:
 
@@ -5950,7 +5950,7 @@ Level Up:
 
 **[#171 - Lanturn](../pokemon/lanturn.md)**
 
-![Lanturn](../assets/sprites/lanturn/front.gif "Lanturn")
+![Lanturn](../assets/sprites/lanturn/front.gif "Lanturn: LANTURN’s light can shine up from great depths. It is nicknamed “The Deep-Sea Star.”")
 
 Ability:
 
@@ -5983,7 +5983,7 @@ Level Up:
 
 **[#172 - Pichu](../pokemon/pichu.md)**
 
-![Pichu](../assets/sprites/pichu/front.gif "Pichu")
+![Pichu](../assets/sprites/pichu/front.gif "Pichu: The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.")
 
 Ability:
 
@@ -6020,7 +6020,7 @@ Level Up:
 
 **[#173 - Cleffa](../pokemon/cleffa.md)**
 
-![Cleffa](../assets/sprites/cleffa/front.gif "Cleffa")
+![Cleffa](../assets/sprites/cleffa/front.gif "Cleffa: It is often seen when shooting stars fill the night skies. It’s said to arrive riding on a shooting star.")
 
 Base Happiness:
 
@@ -6045,7 +6045,7 @@ Level Up:
 
 **[#174 - Igglybuff](../pokemon/igglybuff.md)**
 
-![Igglybuff](../assets/sprites/igglybuff/front.gif "Igglybuff")
+![Igglybuff](../assets/sprites/igglybuff/front.gif "Igglybuff: It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.")
 
 Ability (Complete):
 
@@ -6076,7 +6076,7 @@ Level Up:
 
 **[#175 - Togepi](../pokemon/togepi.md)**
 
-![Togepi](../assets/sprites/togepi/front.gif "Togepi")
+![Togepi](../assets/sprites/togepi/front.gif "Togepi: It transforms the kindness and joy of others into happiness, which it stores in its shell.")
 
 Ability:
 
@@ -6118,7 +6118,7 @@ Level Up:
 
 **[#176 - Togetic](../pokemon/togetic.md)**
 
-![Togetic](../assets/sprites/togetic/front.gif "Togetic")
+![Togetic](../assets/sprites/togetic/front.gif "Togetic: To share its happiness, it flies around the world seeking kind­ hearted people.")
 
 Ability:
 
@@ -6161,7 +6161,7 @@ Level Up:
 
 **[#177 - Natu](../pokemon/natu.md)**
 
-![Natu](../assets/sprites/natu/front.gif "Natu")
+![Natu](../assets/sprites/natu/front.gif "Natu: It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.")
 
 Level Up:
 
@@ -6187,7 +6187,7 @@ Level Up:
 
 **[#178 - Xatu](../pokemon/xatu.md)**
 
-![Xatu](../assets/sprites/xatu/front.gif "Xatu")
+![Xatu](../assets/sprites/xatu/front.gif "Xatu: This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day.")
 
 Moves:
 
@@ -6222,7 +6222,7 @@ Level Up:
 
 **[#179 - Mareep](../pokemon/mareep.md)**
 
-![Mareep](../assets/sprites/mareep/front.gif "Mareep")
+![Mareep](../assets/sprites/mareep/front.gif "Mareep: Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.")
 
 Level Up:
 
@@ -6247,7 +6247,7 @@ Level Up:
 
 **[#180 - Flaaffy](../pokemon/flaaffy.md)**
 
-![Flaaffy](../assets/sprites/flaaffy/front.gif "Flaaffy")
+![Flaaffy](../assets/sprites/flaaffy/front.gif "Flaaffy: If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact.")
 
 Level Up:
 
@@ -6272,7 +6272,7 @@ Level Up:
 
 **[#181 - Ampharos](../pokemon/ampharos.md)**
 
-![Ampharos](../assets/sprites/ampharos/front.gif "Ampharos")
+![Ampharos](../assets/sprites/ampharos/front.gif "Ampharos: The tip of its tail shines brightly. In the olden days, people sent signals using the tail’s light.")
 
 Moves:
 
@@ -6318,7 +6318,7 @@ Level Up:
 
 **[#182 - Bellossom](../pokemon/bellossom.md)**
 
-![Bellossom](../assets/sprites/bellossom/front.gif "Bellossom")
+![Bellossom](../assets/sprites/bellossom/front.gif "Bellossom: When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.")
 
 Ability (Complete):
 
@@ -6354,7 +6354,7 @@ Level Up:
 
 **[#183 - Marill](../pokemon/marill.md)**
 
-![Marill](../assets/sprites/marill/front.gif "Marill")
+![Marill](../assets/sprites/marill/front.gif "Marill: The oil-filled end of its tail floats on water. It keeps MARILL from drowning even in a strong current.")
 
 Ability:
 
@@ -6395,7 +6395,7 @@ Level Up:
 
 **[#184 - Azumarill](../pokemon/azumarill.md)**
 
-![Azumarill](../assets/sprites/azumarill/front.gif "Azumarill")
+![Azumarill](../assets/sprites/azumarill/front.gif "Azumarill: It can spend all day in water, since it can inhale and store a large volume of air.")
 
 Ability:
 
@@ -6445,7 +6445,7 @@ Level Up:
 
 **[#185 - Sudowoodo](../pokemon/sudowoodo.md)**
 
-![Sudowoodo](../assets/sprites/sudowoodo/front.gif "Sudowoodo")
+![Sudowoodo](../assets/sprites/sudowoodo/front.gif "Sudowoodo: To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.")
 
 Ability:
 
@@ -6488,7 +6488,7 @@ Level Up:
 
 **[#186 - Politoed](../pokemon/politoed.md)**
 
-![Politoed](../assets/sprites/politoed/front.gif "Politoed")
+![Politoed](../assets/sprites/politoed/front.gif "Politoed: It gathers groups of others as their leader. Its cries make POLIWAG obey.")
 
 Ability:
 
@@ -6513,7 +6513,7 @@ Level Up:
 
 **[#187 - Hoppip](../pokemon/hoppip.md)**
 
-![Hoppip](../assets/sprites/hoppip/front.gif "Hoppip")
+![Hoppip](../assets/sprites/hoppip/front.gif "Hoppip: It drifts on winds. It is said that when HOPPIP gather in fields and mountains, spring is on the way.")
 
 Base Stats (Complete):
 
@@ -6550,7 +6550,7 @@ Level Up:
 
 **[#188 - Skiploom](../pokemon/skiploom.md)**
 
-![Skiploom](../assets/sprites/skiploom/front.gif "Skiploom")
+![Skiploom](../assets/sprites/skiploom/front.gif "Skiploom: It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.")
 
 Base Stats (Complete):
 
@@ -6587,7 +6587,7 @@ Level Up:
 
 **[#189 - Jumpluff](../pokemon/jumpluff.md)**
 
-![Jumpluff](../assets/sprites/jumpluff/front.gif "Jumpluff")
+![Jumpluff](../assets/sprites/jumpluff/front.gif "Jumpluff: Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.")
 
 Base Stats (Complete):
 
@@ -6631,7 +6631,7 @@ Level Up:
 
 **[#190 - Aipom](../pokemon/aipom.md)**
 
-![Aipom](../assets/sprites/aipom/front.gif "Aipom")
+![Aipom](../assets/sprites/aipom/front.gif "Aipom: It lives high among the treetops. It can use its tail as freely and cleverly as its hands.")
 
 Level Up:
 
@@ -6659,7 +6659,7 @@ Level Up:
 
 **[#191 - Sunkern](../pokemon/sunkern.md)**
 
-![Sunkern](../assets/sprites/sunkern/front.gif "Sunkern")
+![Sunkern](../assets/sprites/sunkern/front.gif "Sunkern: It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.")
 
 Level Up:
 
@@ -6688,7 +6688,7 @@ Level Up:
 
 **[#192 - Sunflora](../pokemon/sunflora.md)**
 
-![Sunflora](../assets/sprites/sunflora/front.gif "Sunflora")
+![Sunflora](../assets/sprites/sunflora/front.gif "Sunflora: It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.")
 
 Base Stats (Complete):
 
@@ -6725,7 +6725,7 @@ Level Up:
 
 **[#193 - Yanma](../pokemon/yanma.md)**
 
-![Yanma](../assets/sprites/yanma/front.gif "Yanma")
+![Yanma](../assets/sprites/yanma/front.gif "Yanma: It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.")
 
 Moves:
 
@@ -6760,7 +6760,7 @@ Level Up:
 
 **[#194 - Wooper](../pokemon/wooper.md)**
 
-![Wooper](../assets/sprites/wooper/front.gif "Wooper")
+![Wooper](../assets/sprites/wooper/front.gif "Wooper: When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.")
 
 Ability:
 
@@ -6802,7 +6802,7 @@ Level Up:
 
 **[#195 - Quagsire](../pokemon/quagsire.md)**
 
-![Quagsire](../assets/sprites/quagsire/front.gif "Quagsire")
+![Quagsire](../assets/sprites/quagsire/front.gif "Quagsire: It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.")
 
 Ability:
 
@@ -6844,7 +6844,7 @@ Level Up:
 
 **[#196 - Espeon](../pokemon/espeon.md)**
 
-![Espeon](../assets/sprites/espeon/front.gif "Espeon")
+![Espeon](../assets/sprites/espeon/front.gif "Espeon: Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.")
 
 Level Up:
 
@@ -6872,7 +6872,7 @@ Level Up:
 
 **[#197 - Umbreon](../pokemon/umbreon.md)**
 
-![Umbreon](../assets/sprites/umbreon/front.gif "Umbreon")
+![Umbreon](../assets/sprites/umbreon/front.gif "Umbreon: When exposed to the moon’s aura, the rings on its body glow faintly and it gains a mysterious power.")
 
 Moves:
 
@@ -6906,7 +6906,7 @@ Level Up:
 
 **[#198 - Murkrow](../pokemon/murkrow.md)**
 
-![Murkrow](../assets/sprites/murkrow/front.gif "Murkrow")
+![Murkrow](../assets/sprites/murkrow/front.gif "Murkrow: If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails.")
 
 Ability:
 
@@ -6944,7 +6944,7 @@ Level Up:
 
 **[#199 - Slowking](../pokemon/slowking.md)**
 
-![Slowking](../assets/sprites/slowking/front.gif "Slowking")
+![Slowking](../assets/sprites/slowking/front.gif "Slowking: Being bitten by SHELLDER gave it intelligence comparable to that of award-winning scientists.")
 
 Moves:
 
@@ -6980,7 +6980,7 @@ Level Up:
 
 **[#200 - Misdreavus](../pokemon/misdreavus.md)**
 
-![Misdreavus](../assets/sprites/misdreavus/front.gif "Misdreavus")
+![Misdreavus](../assets/sprites/misdreavus/front.gif "Misdreavus: A Pokémon that startles people in the middle of the night. It gathers fear as its energy.")
 
 Type (Complete):
 
@@ -7016,7 +7016,7 @@ Level Up:
 
 **[#201 - Unown](../pokemon/unown.md)**
 
-![Unown](../assets/sprites/unown/front.gif "Unown")
+![Unown](../assets/sprites/unown/front.gif "Unown: When alone, nothing happens. However, if there are two or more, an odd power is said to emerge.")
 
 Base Stats (Complete):
 
@@ -7046,7 +7046,7 @@ Level Up:
 
 **[#202 - Wobbuffet](../pokemon/wobbuffet.md)**
 
-![Wobbuffet](../assets/sprites/wobbuffet/front.gif "Wobbuffet")
+![Wobbuffet](../assets/sprites/wobbuffet/front.gif "Wobbuffet: It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.")
 
 Level Up:
 
@@ -7062,7 +7062,7 @@ Level Up:
 
 **[#203 - Girafarig](../pokemon/girafarig.md)**
 
-![Girafarig](../assets/sprites/girafarig/front.gif "Girafarig")
+![Girafarig](../assets/sprites/girafarig/front.gif "Girafarig: The head on its tail contains a small brain. It can instinctively fight even while facing backward.")
 
 Level Up:
 
@@ -7091,7 +7091,7 @@ Level Up:
 
 **[#204 - Pineco](../pokemon/pineco.md)**
 
-![Pineco](../assets/sprites/pineco/front.gif "Pineco")
+![Pineco](../assets/sprites/pineco/front.gif "Pineco: It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.")
 
 Moves:
 
@@ -7124,7 +7124,7 @@ Level Up:
 
 **[#205 - Forretress](../pokemon/forretress.md)**
 
-![Forretress](../assets/sprites/forretress/front.gif "Forretress")
+![Forretress](../assets/sprites/forretress/front.gif "Forretress: It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.")
 
 Moves:
 
@@ -7160,7 +7160,7 @@ Level Up:
 
 **[#206 - Dunsparce](../pokemon/dunsparce.md)**
 
-![Dunsparce](../assets/sprites/dunsparce/front.gif "Dunsparce")
+![Dunsparce](../assets/sprites/dunsparce/front.gif "Dunsparce: It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.")
 
 Base Stats (Complete):
 
@@ -7197,7 +7197,7 @@ Level Up:
 
 **[#207 - Gligar](../pokemon/gligar.md)**
 
-![Gligar](../assets/sprites/gligar/front.gif "Gligar")
+![Gligar](../assets/sprites/gligar/front.gif "Gligar: It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.")
 
 Ability:
 
@@ -7238,7 +7238,7 @@ Level Up:
 
 **[#208 - Steelix](../pokemon/steelix.md)**
 
-![Steelix](../assets/sprites/steelix/front.gif "Steelix")
+![Steelix](../assets/sprites/steelix/front.gif "Steelix: It is thought its body transformed as a result of iron accumulating internally from swallowing soil.")
 
 Base Stats (Complete):
 
@@ -7275,7 +7275,7 @@ Level Up:
 
 **[#209 - Snubbull](../pokemon/snubbull.md)**
 
-![Snubbull](../assets/sprites/snubbull/front.gif "Snubbull")
+![Snubbull](../assets/sprites/snubbull/front.gif "Snubbull: Small Pokémon flee from its scary face. It is, however, considered by women to be cute.")
 
 Level Up:
 
@@ -7304,7 +7304,7 @@ Level Up:
 
 **[#210 - Granbull](../pokemon/granbull.md)**
 
-![Granbull](../assets/sprites/granbull/front.gif "Granbull")
+![Granbull](../assets/sprites/granbull/front.gif "Granbull: It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.")
 
 Level Up:
 
@@ -7334,7 +7334,7 @@ Level Up:
 
 **[#211 - Qwilfish](../pokemon/qwilfish.md)**
 
-![Qwilfish](../assets/sprites/qwilfish/front.gif "Qwilfish")
+![Qwilfish](../assets/sprites/qwilfish/front.gif "Qwilfish: It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.")
 
 Ability:
 
@@ -7377,7 +7377,7 @@ Level Up:
 
 **[#212 - Scizor](../pokemon/scizor.md)**
 
-![Scizor](../assets/sprites/scizor/front.gif "Scizor")
+![Scizor](../assets/sprites/scizor/front.gif "Scizor: It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.")
 
 Ability:
 
@@ -7420,7 +7420,7 @@ Level Up:
 
 **[#213 - Shuckle](../pokemon/shuckle.md)**
 
-![Shuckle](../assets/sprites/shuckle/front.gif "Shuckle")
+![Shuckle](../assets/sprites/shuckle/front.gif "Shuckle: It stores berries in its shell. The berries eventually ferment to become delicious juices.")
 
 Moves:
 
@@ -7453,7 +7453,7 @@ Level Up:
 
 **[#214 - Heracross](../pokemon/heracross.md)**
 
-![Heracross](../assets/sprites/heracross/front.gif "Heracross")
+![Heracross](../assets/sprites/heracross/front.gif "Heracross: It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.")
 
 Ability (Complete):
 
@@ -7503,7 +7503,7 @@ Level Up:
 
 **[#215 - Sneasel](../pokemon/sneasel.md)**
 
-![Sneasel](../assets/sprites/sneasel/front.gif "Sneasel")
+![Sneasel](../assets/sprites/sneasel/front.gif "Sneasel: A smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.")
 
 Ability (Complete):
 
@@ -7536,7 +7536,7 @@ Level Up:
 
 **[#216 - Teddiursa](../pokemon/teddiursa.md)**
 
-![Teddiursa](../assets/sprites/teddiursa/front.gif "Teddiursa")
+![Teddiursa](../assets/sprites/teddiursa/front.gif "Teddiursa: It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.")
 
 Level Up:
 
@@ -7566,7 +7566,7 @@ Level Up:
 
 **[#217 - Ursaring](../pokemon/ursaring.md)**
 
-![Ursaring](../assets/sprites/ursaring/front.gif "Ursaring")
+![Ursaring](../assets/sprites/ursaring/front.gif "Ursaring: In its territory, it leaves scratches on trees that bear delicious berries or fruits.")
 
 Level Up:
 
@@ -7596,7 +7596,7 @@ Level Up:
 
 **[#218 - Slugma](../pokemon/slugma.md)**
 
-![Slugma](../assets/sprites/slugma/front.gif "Slugma")
+![Slugma](../assets/sprites/slugma/front.gif "Slugma: Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.")
 
 Base Stats (Complete):
 
@@ -7636,7 +7636,7 @@ Level Up:
 
 **[#219 - Magcargo](../pokemon/magcargo.md)**
 
-![Magcargo](../assets/sprites/magcargo/front.gif "Magcargo")
+![Magcargo](../assets/sprites/magcargo/front.gif "Magcargo: Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.")
 
 Ability (Complete):
 
@@ -7677,7 +7677,7 @@ Level Up:
 
 **[#220 - Swinub](../pokemon/swinub.md)**
 
-![Swinub](../assets/sprites/swinub/front.gif "Swinub")
+![Swinub](../assets/sprites/swinub/front.gif "Swinub: It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.")
 
 Ability:
 
@@ -7711,7 +7711,7 @@ Level Up:
 
 **[#221 - Piloswine](../pokemon/piloswine.md)**
 
-![Piloswine](../assets/sprites/piloswine/front.gif "Piloswine")
+![Piloswine](../assets/sprites/piloswine/front.gif "Piloswine: Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.")
 
 Ability:
 
@@ -7747,7 +7747,7 @@ Level Up:
 
 **[#222 - Corsola](../pokemon/corsola.md)**
 
-![Corsola](../assets/sprites/corsola/front.gif "Corsola")
+![Corsola](../assets/sprites/corsola/front.gif "Corsola: Many live in the clean seas of the south. They apparently can’t live in polluted waters.")
 
 Base Stats (Complete):
 
@@ -7783,7 +7783,7 @@ Level Up:
 
 **[#223 - Remoraid](../pokemon/remoraid.md)**
 
-![Remoraid](../assets/sprites/remoraid/front.gif "Remoraid")
+![Remoraid](../assets/sprites/remoraid/front.gif "Remoraid: It forcefully squirts water. The water jet never misses prey even if the REMORAID is deep in the sea.")
 
 Level Up:
 
@@ -7809,7 +7809,7 @@ Level Up:
 
 **[#224 - Octillery](../pokemon/octillery.md)**
 
-![Octillery](../assets/sprites/octillery/front.gif "Octillery")
+![Octillery](../assets/sprites/octillery/front.gif "Octillery: It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.")
 
 Level Up:
 
@@ -7839,7 +7839,7 @@ Level Up:
 
 **[#225 - Delibird](../pokemon/delibird.md)**
 
-![Delibird](../assets/sprites/delibird/front.gif "Delibird")
+![Delibird](../assets/sprites/delibird/front.gif "Delibird: It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.")
 
 Ability (Complete):
 
@@ -7894,7 +7894,7 @@ Level Up:
 
 **[#226 - Mantine](../pokemon/mantine.md)**
 
-![Mantine](../assets/sprites/mantine/front.gif "Mantine")
+![Mantine](../assets/sprites/mantine/front.gif "Mantine: While elegantly swimming in the sea, it ignores REMORAID that cling to its fins seeking food scraps.")
 
 Moves:
 
@@ -7931,7 +7931,7 @@ Level Up:
 
 **[#227 - Skarmory](../pokemon/skarmory.md)**
 
-![Skarmory](../assets/sprites/skarmory/front.gif "Skarmory")
+![Skarmory](../assets/sprites/skarmory/front.gif "Skarmory: Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.")
 
 Moves:
 
@@ -7967,7 +7967,7 @@ Level Up:
 
 **[#228 - Houndour](../pokemon/houndour.md)**
 
-![Houndour](../assets/sprites/houndour/front.gif "Houndour")
+![Houndour](../assets/sprites/houndour/front.gif "Houndour: It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.")
 
 Ability (Complete):
 
@@ -7999,7 +7999,7 @@ Level Up:
 
 **[#229 - Houndoom](../pokemon/houndoom.md)**
 
-![Houndoom](../assets/sprites/houndoom/front.gif "Houndoom")
+![Houndoom](../assets/sprites/houndoom/front.gif "Houndoom: The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.")
 
 Ability (Complete):
 
@@ -8032,7 +8032,7 @@ Level Up:
 
 **[#230 - Kingdra](../pokemon/kingdra.md)**
 
-![Kingdra](../assets/sprites/kingdra/front.gif "Kingdra")
+![Kingdra](../assets/sprites/kingdra/front.gif "Kingdra: It lives in caves on the seafloor and creates giant whirlpools every time it moves.")
 
 Level Up:
 
@@ -8061,7 +8061,7 @@ Level Up:
 
 **[#231 - Phanpy](../pokemon/phanpy.md)**
 
-![Phanpy](../assets/sprites/phanpy/front.gif "Phanpy")
+![Phanpy](../assets/sprites/phanpy/front.gif "Phanpy: It is strong despite its compact size. It can easily pick up and carry an adult human on its back.")
 
 Ability:
 
@@ -8096,7 +8096,7 @@ Level Up:
 
 **[#232 - Donphan](../pokemon/donphan.md)**
 
-![Donphan](../assets/sprites/donphan/front.gif "Donphan")
+![Donphan](../assets/sprites/donphan/front.gif "Donphan: It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.")
 
 Ability:
 
@@ -8133,7 +8133,7 @@ Level Up:
 
 **[#233 - Porygon2](../pokemon/porygon2.md)**
 
-![Porygon2](../assets/sprites/porygon2/front.gif "Porygon2")
+![Porygon2](../assets/sprites/porygon2/front.gif "Porygon2: It was upgraded to enable the exploration of other planets. However, it failed to measure up.")
 
 Evolution:
 
@@ -8168,7 +8168,7 @@ Level Up:
 
 **[#234 - Stantler](../pokemon/stantler.md)**
 
-![Stantler](../assets/sprites/stantler/front.gif "Stantler")
+![Stantler](../assets/sprites/stantler/front.gif "Stantler: Staring at its antlers creates an odd sensation as if one were being drawn into their centers.")
 
 Level Up:
 
@@ -8197,7 +8197,7 @@ Level Up:
 
 **[#235 - Smeargle](../pokemon/smeargle.md)**
 
-![Smeargle](../assets/sprites/smeargle/front.gif "Smeargle")
+![Smeargle](../assets/sprites/smeargle/front.gif "Smeargle: It marks its territory by using its tail like a paintbrush. There are more than 5,000 different marks.")
 
 Ability:
 
@@ -8233,7 +8233,7 @@ Level Up:
 
 **[#236 - Tyrogue](../pokemon/tyrogue.md)**
 
-![Tyrogue](../assets/sprites/tyrogue/front.gif "Tyrogue")
+![Tyrogue](../assets/sprites/tyrogue/front.gif "Tyrogue: It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.")
 
 Ability:
 
@@ -8256,7 +8256,7 @@ Level Up:
 
 **[#237 - Hitmontop](../pokemon/hitmontop.md)**
 
-![Hitmontop](../assets/sprites/hitmontop/front.gif "Hitmontop")
+![Hitmontop](../assets/sprites/hitmontop/front.gif "Hitmontop: It fights while spinning like a top. The centrifugal force boosts its destructive power by ten.")
 
 Ability:
 
@@ -8289,7 +8289,7 @@ Level Up:
 
 **[#238 - Smoochum](../pokemon/smoochum.md)**
 
-![Smoochum](../assets/sprites/smoochum/front.gif "Smoochum")
+![Smoochum](../assets/sprites/smoochum/front.gif "Smoochum: It tests everything by touching with its lips, which remember what it likes and dislikes.")
 
 Ability:
 
@@ -8331,7 +8331,7 @@ Level Up:
 
 **[#239 - Elekid](../pokemon/elekid.md)**
 
-![Elekid](../assets/sprites/elekid/front.gif "Elekid")
+![Elekid](../assets/sprites/elekid/front.gif "Elekid: A weak electric current flows between its horns. Sticking a hand there shocks the unwary.")
 
 Ability:
 
@@ -8364,7 +8364,7 @@ Level Up:
 
 **[#240 - Magby](../pokemon/magby.md)**
 
-![Magby](../assets/sprites/magby/front.gif "Magby")
+![Magby](../assets/sprites/magby/front.gif "Magby: Its magma-like blood circulates throughout its body. Its body’s heat can top 1,100 degrees F.")
 
 Ability:
 
@@ -8397,7 +8397,7 @@ Level Up:
 
 **[#241 - Miltank](../pokemon/miltank.md)**
 
-![Miltank](../assets/sprites/miltank/front.gif "Miltank")
+![Miltank](../assets/sprites/miltank/front.gif "Miltank: It is said that kids who drink MILTANK’s milk grow up to become hearty, healthy adults.")
 
 Level Up:
 
@@ -8421,7 +8421,7 @@ Level Up:
 
 **[#242 - Blissey](../pokemon/blissey.md)**
 
-![Blissey](../assets/sprites/blissey/front.gif "Blissey")
+![Blissey](../assets/sprites/blissey/front.gif "Blissey: The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.")
 
 Ability:
 
@@ -8458,7 +8458,7 @@ Level Up:
 
 **[#243 - Raikou](../pokemon/raikou.md)**
 
-![Raikou](../assets/sprites/raikou/front.gif "Raikou")
+![Raikou](../assets/sprites/raikou/front.gif "Raikou: It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.")
 
 Ability:
 
@@ -8491,7 +8491,7 @@ Level Up:
 
 **[#244 - Entei](../pokemon/entei.md)**
 
-![Entei](../assets/sprites/entei/front.gif "Entei")
+![Entei](../assets/sprites/entei/front.gif "Entei: It is said that when it roars, a volcano erupts somewhere around the globe.")
 
 Ability:
 
@@ -8524,7 +8524,7 @@ Level Up:
 
 **[#245 - Suicune](../pokemon/suicune.md)**
 
-![Suicune](../assets/sprites/suicune/front.gif "Suicune")
+![Suicune](../assets/sprites/suicune/front.gif "Suicune: It races around the world to purify fouled water. It dashes away with the north wind.")
 
 Ability:
 
@@ -8563,7 +8563,7 @@ Level Up:
 
 **[#246 - Larvitar](../pokemon/larvitar.md)**
 
-![Larvitar](../assets/sprites/larvitar/front.gif "Larvitar")
+![Larvitar](../assets/sprites/larvitar/front.gif "Larvitar: A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.")
 
 Level Up:
 
@@ -8589,7 +8589,7 @@ Level Up:
 
 **[#247 - Pupitar](../pokemon/pupitar.md)**
 
-![Pupitar](../assets/sprites/pupitar/front.gif "Pupitar")
+![Pupitar](../assets/sprites/pupitar/front.gif "Pupitar: Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.")
 
 Level Up:
 
@@ -8615,7 +8615,7 @@ Level Up:
 
 **[#248 - Tyranitar](../pokemon/tyranitar.md)**
 
-![Tyranitar](../assets/sprites/tyranitar/front.gif "Tyranitar")
+![Tyranitar](../assets/sprites/tyranitar/front.gif "Tyranitar: If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.")
 
 Level Up:
 
@@ -8645,7 +8645,7 @@ Level Up:
 
 **[#249 - Lugia](../pokemon/lugia.md)**
 
-![Lugia](../assets/sprites/lugia/front.gif "Lugia")
+![Lugia](../assets/sprites/lugia/front.gif "Lugia: It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.")
 
 Moves:
 
@@ -8676,7 +8676,7 @@ Level Up:
 
 **[#250 - Ho-oh](../pokemon/ho-oh.md)**
 
-![Ho-oh](../assets/sprites/ho-oh/front.gif "Ho-oh")
+![Ho-oh](../assets/sprites/ho-oh/front.gif "Ho-oh: Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness.")
 
 Moves:
 
@@ -8707,7 +8707,7 @@ Level Up:
 
 **[#251 - Celebi](../pokemon/celebi.md)**
 
-![Celebi](../assets/sprites/celebi/front.gif "Celebi")
+![Celebi](../assets/sprites/celebi/front.gif "Celebi: It has the power to travel across time, but it is said to appear only in peaceful times.")
 
 Level Up:
 
@@ -8732,7 +8732,7 @@ Level Up:
 
 **[#252 - Treecko](../pokemon/treecko.md)**
 
-![Treecko](../assets/sprites/treecko/front.gif "Treecko")
+![Treecko](../assets/sprites/treecko/front.gif "Treecko: The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.")
 
 Ability:
 
@@ -8764,7 +8764,7 @@ Level Up:
 
 **[#253 - Grovyle](../pokemon/grovyle.md)**
 
-![Grovyle](../assets/sprites/grovyle/front.gif "Grovyle")
+![Grovyle](../assets/sprites/grovyle/front.gif "Grovyle: It lives in dense jungles. While  closing in on its prey, it leaps from branch to branch.")
 
 Ability:
 
@@ -8797,7 +8797,7 @@ Level Up:
 
 **[#254 - Sceptile](../pokemon/sceptile.md)**
 
-![Sceptile](../assets/sprites/sceptile/front.gif "Sceptile")
+![Sceptile](../assets/sprites/sceptile/front.gif "Sceptile: The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.")
 
 Ability:
 
@@ -8854,7 +8854,7 @@ Level Up:
 
 **[#255 - Torchic](../pokemon/torchic.md)**
 
-![Torchic](../assets/sprites/torchic/front.gif "Torchic")
+![Torchic](../assets/sprites/torchic/front.gif "Torchic: A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.")
 
 Ability:
 
@@ -8887,7 +8887,7 @@ Level Up:
 
 **[#256 - Combusken](../pokemon/combusken.md)**
 
-![Combusken](../assets/sprites/combusken/front.gif "Combusken")
+![Combusken](../assets/sprites/combusken/front.gif "Combusken: Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.")
 
 Ability:
 
@@ -8921,7 +8921,7 @@ Level Up:
 
 **[#257 - Blaziken](../pokemon/blaziken.md)**
 
-![Blaziken](../assets/sprites/blaziken/front.gif "Blaziken")
+![Blaziken](../assets/sprites/blaziken/front.gif "Blaziken: Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.")
 
 Ability:
 
@@ -8965,7 +8965,7 @@ Level Up:
 
 **[#258 - Mudkip](../pokemon/mudkip.md)**
 
-![Mudkip](../assets/sprites/mudkip/front.gif "Mudkip")
+![Mudkip](../assets/sprites/mudkip/front.gif "Mudkip: To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.")
 
 Ability:
 
@@ -8997,7 +8997,7 @@ Level Up:
 
 **[#259 - Marshtomp](../pokemon/marshtomp.md)**
 
-![Marshtomp](../assets/sprites/marshtomp/front.gif "Marshtomp")
+![Marshtomp](../assets/sprites/marshtomp/front.gif "Marshtomp: Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.")
 
 Ability:
 
@@ -9031,7 +9031,7 @@ Level Up:
 
 **[#260 - Swampert](../pokemon/swampert.md)**
 
-![Swampert](../assets/sprites/swampert/front.gif "Swampert")
+![Swampert](../assets/sprites/swampert/front.gif "Swampert: It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.")
 
 Ability:
 
@@ -9068,7 +9068,7 @@ Level Up:
 
 **[#261 - Poochyena](../pokemon/poochyena.md)**
 
-![Poochyena](../assets/sprites/poochyena/front.gif "Poochyena")
+![Poochyena](../assets/sprites/poochyena/front.gif "Poochyena: A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.")
 
 Base Stats (Complete):
 
@@ -9100,7 +9100,7 @@ Level Up:
 
 **[#262 - Mightyena](../pokemon/mightyena.md)**
 
-![Mightyena](../assets/sprites/mightyena/front.gif "Mightyena")
+![Mightyena](../assets/sprites/mightyena/front.gif "Mightyena: It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.")
 
 Base Stats (Complete):
 
@@ -9137,7 +9137,7 @@ Level Up:
 
 **[#263 - Zigzagoon](../pokemon/zigzagoon.md)**
 
-![Zigzagoon](../assets/sprites/zigzagoon/front.gif "Zigzagoon")
+![Zigzagoon](../assets/sprites/zigzagoon/front.gif "Zigzagoon: It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.")
 
 Base Stats (Complete):
 
@@ -9175,7 +9175,7 @@ Level Up:
 
 **[#264 - Linoone](../pokemon/linoone.md)**
 
-![Linoone](../assets/sprites/linoone/front.gif "Linoone")
+![Linoone](../assets/sprites/linoone/front.gif "Linoone: It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.")
 
 Base Stats (Complete):
 
@@ -9217,7 +9217,7 @@ Level Up:
 
 **[#265 - Wurmple](../pokemon/wurmple.md)**
 
-![Wurmple](../assets/sprites/wurmple/front.gif "Wurmple")
+![Wurmple](../assets/sprites/wurmple/front.gif "Wurmple: Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.")
 
 Ability:
 
@@ -9237,7 +9237,7 @@ Level Up:
 
 **[#266 - Silcoon](../pokemon/silcoon.md)**
 
-![Silcoon](../assets/sprites/silcoon/front.gif "Silcoon")
+![Silcoon](../assets/sprites/silcoon/front.gif "Silcoon: It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.")
 
 Ability:
 
@@ -9256,7 +9256,7 @@ Level Up:
 
 **[#267 - Beautifly](../pokemon/beautifly.md)**
 
-![Beautifly](../assets/sprites/beautifly/front.gif "Beautifly")
+![Beautifly](../assets/sprites/beautifly/front.gif "Beautifly: Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.")
 
 Ability;
 
@@ -9303,7 +9303,7 @@ Level Up:
 
 **[#268 - Cascoon](../pokemon/cascoon.md)**
 
-![Cascoon](../assets/sprites/cascoon/front.gif "Cascoon")
+![Cascoon](../assets/sprites/cascoon/front.gif "Cascoon: It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.")
 
 Ability:
 
@@ -9322,7 +9322,7 @@ Level Up:
 
 **[#269 - Dustox](../pokemon/dustox.md)**
 
-![Dustox](../assets/sprites/dustox/front.gif "Dustox")
+![Dustox](../assets/sprites/dustox/front.gif "Dustox: Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.")
 
 Ability;
 
@@ -9369,7 +9369,7 @@ Level Up:
 
 **[#270 - Lotad](../pokemon/lotad.md)**
 
-![Lotad](../assets/sprites/lotad/front.gif "Lotad")
+![Lotad](../assets/sprites/lotad/front.gif "Lotad: It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.")
 
 Level Up:
 
@@ -9391,7 +9391,7 @@ Level Up:
 
 **[#271 - Lombre](../pokemon/lombre.md)**
 
-![Lombre](../assets/sprites/lombre/front.gif "Lombre")
+![Lombre](../assets/sprites/lombre/front.gif "Lombre: It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.")
 
 Level Up:
 
@@ -9416,7 +9416,7 @@ Level Up:
 
 **[#272 - Ludicolo](../pokemon/ludicolo.md)**
 
-![Ludicolo](../assets/sprites/ludicolo/front.gif "Ludicolo")
+![Ludicolo](../assets/sprites/ludicolo/front.gif "Ludicolo: If it hears festive music, all its muscles fill with energy. It can’t help breaking out into a dance.")
 
 Level Up:
 
@@ -9431,7 +9431,7 @@ Level Up:
 
 **[#273 - Seedot](../pokemon/seedot.md)**
 
-![Seedot](../assets/sprites/seedot/front.gif "Seedot")
+![Seedot](../assets/sprites/seedot/front.gif "Seedot: When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.")
 
 Level Up:
 
@@ -9449,7 +9449,7 @@ Level Up:
 
 **[#274 - Nuzleaf](../pokemon/nuzleaf.md)**
 
-![Nuzleaf](../assets/sprites/nuzleaf/front.gif "Nuzleaf")
+![Nuzleaf](../assets/sprites/nuzleaf/front.gif "Nuzleaf: The sound of its grass flute makes its listeners uneasy. It lives deep in forests.")
 
 Level Up:
 
@@ -9471,7 +9471,7 @@ Level Up:
 
 **[#275 - Shiftry](../pokemon/shiftry.md)**
 
-![Shiftry](../assets/sprites/shiftry/front.gif "Shiftry")
+![Shiftry](../assets/sprites/shiftry/front.gif "Shiftry: By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.")
 
 Moves:
 
@@ -9494,7 +9494,7 @@ Level Up:
 
 **[#276 - Taillow](../pokemon/taillow.md)**
 
-![Taillow](../assets/sprites/taillow/front.gif "Taillow")
+![Taillow](../assets/sprites/taillow/front.gif "Taillow: It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.")
 
 Ability:
 
@@ -9530,7 +9530,7 @@ Level Up:
 
 **[#277 - Swellow](../pokemon/swellow.md)**
 
-![Swellow](../assets/sprites/swellow/front.gif "Swellow")
+![Swellow](../assets/sprites/swellow/front.gif "Swellow: It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.")
 
 Ability:
 
@@ -9575,7 +9575,7 @@ Level Up:
 
 **[#278 - Wingull](../pokemon/wingull.md)**
 
-![Wingull](../assets/sprites/wingull/front.gif "Wingull")
+![Wingull](../assets/sprites/wingull/front.gif "Wingull: It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.")
 
 Ability:
 
@@ -9613,7 +9613,7 @@ Level Up:
 
 **[#279 - Pelipper](../pokemon/pelipper.md)**
 
-![Pelipper](../assets/sprites/pelipper/front.gif "Pelipper")
+![Pelipper](../assets/sprites/pelipper/front.gif "Pelipper: It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.")
 
 Ability:
 
@@ -9663,7 +9663,7 @@ Level Up:
 
 **[#280 - Ralts](../pokemon/ralts.md)**
 
-![Ralts](../assets/sprites/ralts/front.gif "Ralts")
+![Ralts](../assets/sprites/ralts/front.gif "Ralts: If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.")
 
 Base Stats (Complete):
 
@@ -9696,7 +9696,7 @@ Level Up:
 
 **[#281 - Kirlia](../pokemon/kirlia.md)**
 
-![Kirlia](../assets/sprites/kirlia/front.gif "Kirlia")
+![Kirlia](../assets/sprites/kirlia/front.gif "Kirlia: If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.")
 
 Base Stats (Complete):
 
@@ -9729,7 +9729,7 @@ Level Up:
 
 **[#282 - Gardevoir](../pokemon/gardevoir.md)**
 
-![Gardevoir](../assets/sprites/gardevoir/front.gif "Gardevoir")
+![Gardevoir](../assets/sprites/gardevoir/front.gif "Gardevoir: To protect its Trainer, it will expend all its psychic power to create a small black hole.")
 
 Level Up:
 
@@ -9757,7 +9757,7 @@ Level Up:
 
 **[#283 - Surskit](../pokemon/surskit.md)**
 
-![Surskit](../assets/sprites/surskit/front.gif "Surskit")
+![Surskit](../assets/sprites/surskit/front.gif "Surskit: It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.")
 
 Base Stats (Complete):
 
@@ -9796,7 +9796,7 @@ Level Up:
 
 **[#284 - Masquerain](../pokemon/masquerain.md)**
 
-![Masquerain](../assets/sprites/masquerain/front.gif "Masquerain")
+![Masquerain](../assets/sprites/masquerain/front.gif "Masquerain: Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.")
 
 Base Stats (Complete):
 
@@ -9849,7 +9849,7 @@ Level Up:
 
 **[#285 - Shroomish](../pokemon/shroomish.md)**
 
-![Shroomish](../assets/sprites/shroomish/front.gif "Shroomish")
+![Shroomish](../assets/sprites/shroomish/front.gif "Shroomish: It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.")
 
 Ability:
 
@@ -9882,7 +9882,7 @@ Level Up:
 
 **[#286 - Breloom](../pokemon/breloom.md)**
 
-![Breloom](../assets/sprites/breloom/front.gif "Breloom")
+![Breloom](../assets/sprites/breloom/front.gif "Breloom: Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.")
 
 Ability:
 
@@ -9923,7 +9923,7 @@ Level Up:
 
 **[#287 - Slakoth](../pokemon/slakoth.md)**
 
-![Slakoth](../assets/sprites/slakoth/front.gif "Slakoth")
+![Slakoth](../assets/sprites/slakoth/front.gif "Slakoth: It spends nearly all its time in a day sprawled out. Just seeing it makes one drowsy.")
 
 Level Up:
 
@@ -9945,7 +9945,7 @@ Level Up:
 
 **[#288 - Vigoroth](../pokemon/vigoroth.md)**
 
-![Vigoroth](../assets/sprites/vigoroth/front.gif "Vigoroth")
+![Vigoroth](../assets/sprites/vigoroth/front.gif "Vigoroth: Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.")
 
 Level Up:
 
@@ -9968,7 +9968,7 @@ Level Up:
 
 **[#289 - Slaking](../pokemon/slaking.md)**
 
-![Slaking](../assets/sprites/slaking/front.gif "Slaking")
+![Slaking](../assets/sprites/slaking/front.gif "Slaking: The world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back.")
 
 Level Up:
 
@@ -9994,7 +9994,7 @@ Level Up:
 
 **[#290 - Nincada](../pokemon/nincada.md)**
 
-![Nincada](../assets/sprites/nincada/front.gif "Nincada")
+![Nincada](../assets/sprites/nincada/front.gif "Nincada: It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.")
 
 Moves:
 
@@ -10023,7 +10023,7 @@ Level Up:
 
 **[#291 - Ninjask](../pokemon/ninjask.md)**
 
-![Ninjask](../assets/sprites/ninjask/front.gif "Ninjask")
+![Ninjask](../assets/sprites/ninjask/front.gif "Ninjask: Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.")
 
 Moves:
 
@@ -10059,7 +10059,7 @@ Level Up:
 
 **[#292 - Shedinja](../pokemon/shedinja.md)**
 
-![Shedinja](../assets/sprites/shedinja/front.gif "Shedinja")
+![Shedinja](../assets/sprites/shedinja/front.gif "Shedinja: A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit.")
 
 Moves:
 
@@ -10090,7 +10090,7 @@ Level Up:
 
 **[#293 - Whismur](../pokemon/whismur.md)**
 
-![Whismur](../assets/sprites/whismur/front.gif "Whismur")
+![Whismur](../assets/sprites/whismur/front.gif "Whismur: Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.")
 
 Ability (Complete):
 
@@ -10128,7 +10128,7 @@ Level Up:
 
 **[#294 - Loudred](../pokemon/loudred.md)**
 
-![Loudred](../assets/sprites/loudred/front.gif "Loudred")
+![Loudred](../assets/sprites/loudred/front.gif "Loudred: The shock waves from its cries can tip over trucks. It stamps its feet to power up.")
 
 Ability:
 
@@ -10166,7 +10166,7 @@ Level Up:
 
 **[#295 - Exploud](../pokemon/exploud.md)**
 
-![Exploud](../assets/sprites/exploud/front.gif "Exploud")
+![Exploud](../assets/sprites/exploud/front.gif "Exploud: Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.")
 
 Ability:
 
@@ -10209,7 +10209,7 @@ Level Up:
 
 **[#296 - Makuhita](../pokemon/makuhita.md)**
 
-![Makuhita](../assets/sprites/makuhita/front.gif "Makuhita")
+![Makuhita](../assets/sprites/makuhita/front.gif "Makuhita: It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.")
 
 Level Up:
 
@@ -10237,7 +10237,7 @@ Level Up:
 
 **[#297 - Hariyama](../pokemon/hariyama.md)**
 
-![Hariyama](../assets/sprites/hariyama/front.gif "Hariyama")
+![Hariyama](../assets/sprites/hariyama/front.gif "Hariyama: It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.")
 
 Level Up:
 
@@ -10266,7 +10266,7 @@ Level Up:
 
 **[#298 - Azurill](../pokemon/azurill.md)**
 
-![Azurill](../assets/sprites/azurill/front.gif "Azurill")
+![Azurill](../assets/sprites/azurill/front.gif "Azurill: Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.")
 
 Ability:
 
@@ -10307,7 +10307,7 @@ Level Up:
 
 **[#299 - Nosepass](../pokemon/nosepass.md)**
 
-![Nosepass](../assets/sprites/nosepass/front.gif "Nosepass")
+![Nosepass](../assets/sprites/nosepass/front.gif "Nosepass: When endangered, it may protect itself by raising its magnetism and drawing iron objects to its body.")
 
 Base Stats (Complete):
 
@@ -10341,7 +10341,7 @@ Level Up:
 
 **[#300 - Skitty](../pokemon/skitty.md)**
 
-![Skitty](../assets/sprites/skitty/front.gif "Skitty")
+![Skitty](../assets/sprites/skitty/front.gif "Skitty: It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.")
 
 Base Stats (Complete):
 
@@ -10378,7 +10378,7 @@ Level Up:
 
 **[#301 - Delcatty](../pokemon/delcatty.md)**
 
-![Delcatty](../assets/sprites/delcatty/front.gif "Delcatty")
+![Delcatty](../assets/sprites/delcatty/front.gif "Delcatty: It is highly popular among female Trainers for its sublime fur. It does not keep a nest.")
 
 Base Stats (Complete):
 
@@ -10402,7 +10402,7 @@ Level Up:
 
 **[#302 - Sableye](../pokemon/sableye.md)**
 
-![Sableye](../assets/sprites/sableye/front.gif "Sableye")
+![Sableye](../assets/sprites/sableye/front.gif "Sableye: It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.")
 
 Ability (Complete):
 
@@ -10446,7 +10446,7 @@ Level Up:
 
 **[#303 - Mawile](../pokemon/mawile.md)**
 
-![Mawile](../assets/sprites/mawile/front.gif "Mawile")
+![Mawile](../assets/sprites/mawile/front.gif "Mawile: Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.")
 
 Ability (Complete):
 
@@ -10497,7 +10497,7 @@ Level Up:
 
 **[#304 - Aron](../pokemon/aron.md)**
 
-![Aron](../assets/sprites/aron/front.gif "Aron")
+![Aron](../assets/sprites/aron/front.gif "Aron: It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.")
 
 Ability:
 
@@ -10537,7 +10537,7 @@ Level Up:
 
 **[#305 - Lairon](../pokemon/lairon.md)**
 
-![Lairon](../assets/sprites/lairon/front.gif "Lairon")
+![Lairon](../assets/sprites/lairon/front.gif "Lairon: For food, it digs up iron ore. It smashes its steely body against others to fight over territory.")
 
 Ability:
 
@@ -10577,7 +10577,7 @@ Level Up:
 
 **[#306 - Aggron](../pokemon/aggron.md)**
 
-![Aggron](../assets/sprites/aggron/front.gif "Aggron")
+![Aggron](../assets/sprites/aggron/front.gif "Aggron: While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.")
 
 Ability:
 
@@ -10614,7 +10614,7 @@ Level Up:
 
 **[#307 - Meditite](../pokemon/meditite.md)**
 
-![Meditite](../assets/sprites/meditite/front.gif "Meditite")
+![Meditite](../assets/sprites/meditite/front.gif "Meditite: It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.")
 
 Base Stats (Complete):
 
@@ -10654,7 +10654,7 @@ Level Up:
 
 **[#308 - Medicham](../pokemon/medicham.md)**
 
-![Medicham](../assets/sprites/medicham/front.gif "Medicham")
+![Medicham](../assets/sprites/medicham/front.gif "Medicham: It gains the ability to see the aura of its opponents by honing its mind through starvation.")
 
 Base Stats (Complete):
 
@@ -10691,7 +10691,7 @@ Level Up:
 
 **[#309 - Electrike](../pokemon/electrike.md)**
 
-![Electrike](../assets/sprites/electrike/front.gif "Electrike")
+![Electrike](../assets/sprites/electrike/front.gif "Electrike: Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.")
 
 Level Up:
 
@@ -10719,7 +10719,7 @@ Level Up:
 
 **[#310 - Manectric](../pokemon/manectric.md)**
 
-![Manectric](../assets/sprites/manectric/front.gif "Manectric")
+![Manectric](../assets/sprites/manectric/front.gif "Manectric: It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.")
 
 Level Up:
 
@@ -10747,7 +10747,7 @@ Level Up:
 
 **[#311 - Plusle](../pokemon/plusle.md)**
 
-![Plusle](../assets/sprites/plusle/front.gif "Plusle")
+![Plusle](../assets/sprites/plusle/front.gif "Plusle: It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.")
 
 Ability:
 
@@ -10789,7 +10789,7 @@ Level Up:
 
 **[#312 - Minun](../pokemon/minun.md)**
 
-![Minun](../assets/sprites/minun/front.gif "Minun")
+![Minun](../assets/sprites/minun/front.gif "Minun: It cheers on friends. If its friends are losing, its body lets off more and more sparks.")
 
 Ability:
 
@@ -10831,7 +10831,7 @@ Level Up:
 
 **[#313 - Volbeat](../pokemon/volbeat.md)**
 
-![Volbeat](../assets/sprites/volbeat/front.gif "Volbeat")
+![Volbeat](../assets/sprites/volbeat/front.gif "Volbeat: It communicates with others by lighting up its rear at night. It loves ILLUMISE’s sweet aroma.")
 
 Ability:
 
@@ -10886,7 +10886,7 @@ Level Up:
 
 **[#314 - Illumise](../pokemon/illumise.md)**
 
-![Illumise](../assets/sprites/illumise/front.gif "Illumise")
+![Illumise](../assets/sprites/illumise/front.gif "Illumise: With its sweet aroma, it guides VOLBEAT to draw signs with light in the night sky.")
 
 Ability:
 
@@ -10941,7 +10941,7 @@ Level Up:
 
 **[#315 - Roselia](../pokemon/roselia.md)**
 
-![Roselia](../assets/sprites/roselia/front.gif "Roselia")
+![Roselia](../assets/sprites/roselia/front.gif "Roselia: The more healthy the ROSELIA, the more pleasant its flowers’ aroma. Its scent deeply relaxes people.")
 
 Ability:
 
@@ -10978,7 +10978,7 @@ Level Up:
 
 **[#316 - Gulpin](../pokemon/gulpin.md)**
 
-![Gulpin](../assets/sprites/gulpin/front.gif "Gulpin")
+![Gulpin](../assets/sprites/gulpin/front.gif "Gulpin: Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.")
 
 Level Up:
 
@@ -11004,7 +11004,7 @@ Level Up:
 
 **[#317 - Swalot](../pokemon/swalot.md)**
 
-![Swalot](../assets/sprites/swalot/front.gif "Swalot")
+![Swalot](../assets/sprites/swalot/front.gif "Swalot: It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.")
 
 Level Up:
 
@@ -11033,7 +11033,7 @@ Level Up:
 
 **[#318 - Carvanha](../pokemon/carvanha.md)**
 
-![Carvanha](../assets/sprites/carvanha/front.gif "Carvanha")
+![Carvanha](../assets/sprites/carvanha/front.gif "Carvanha: They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.")
 
 Ability:
 
@@ -11066,7 +11066,7 @@ Level Up:
 
 **[#319 - Sharpedo](../pokemon/sharpedo.md)**
 
-![Sharpedo](../assets/sprites/sharpedo/front.gif "Sharpedo")
+![Sharpedo](../assets/sprites/sharpedo/front.gif "Sharpedo: Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”")
 
 Ability:
 
@@ -11103,7 +11103,7 @@ Level Up:
 
 **[#320 - Wailmer](../pokemon/wailmer.md)**
 
-![Wailmer](../assets/sprites/wailmer/front.gif "Wailmer")
+![Wailmer](../assets/sprites/wailmer/front.gif "Wailmer: On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.")
 
 Evolution:
 
@@ -11138,7 +11138,7 @@ Level Up:
 
 **[#321 - Wailord](../pokemon/wailord.md)**
 
-![Wailord](../assets/sprites/wailord/front.gif "Wailord")
+![Wailord](../assets/sprites/wailord/front.gif "Wailord: The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.")
 
 Level Up:
 
@@ -11167,7 +11167,7 @@ Level Up:
 
 **[#322 - Numel](../pokemon/numel.md)**
 
-![Numel](../assets/sprites/numel/front.gif "Numel")
+![Numel](../assets/sprites/numel/front.gif "Numel: Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.")
 
 Ability:
 
@@ -11198,7 +11198,7 @@ Level Up:
 
 **[#323 - Camerupt](../pokemon/camerupt.md)**
 
-![Camerupt](../assets/sprites/camerupt/front.gif "Camerupt")
+![Camerupt](../assets/sprites/camerupt/front.gif "Camerupt: It has volcanoes on its back. If magma builds up in its body, it shudders, then erupts violently.")
 
 Ability:
 
@@ -11232,7 +11232,7 @@ Level Up:
 
 **[#324 - Torkoal](../pokemon/torkoal.md)**
 
-![Torkoal](../assets/sprites/torkoal/front.gif "Torkoal")
+![Torkoal](../assets/sprites/torkoal/front.gif "Torkoal: It burns coal inside its shell for energy. It blows out black soot if it is endangered.")
 
 Ability
 
@@ -11267,7 +11267,7 @@ Level Up:
 
 **[#325 - Spoink](../pokemon/spoink.md)**
 
-![Spoink](../assets/sprites/spoink/front.gif "Spoink")
+![Spoink](../assets/sprites/spoink/front.gif "Spoink: It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.")
 
 Level Up:
 
@@ -11295,7 +11295,7 @@ Level Up:
 
 **[#326 - Grumpig](../pokemon/grumpig.md)**
 
-![Grumpig](../assets/sprites/grumpig/front.gif "Grumpig")
+![Grumpig](../assets/sprites/grumpig/front.gif "Grumpig: It uses black pearls to amplify its psycho-power. It does an odd dance to gain control over foes.")
 
 Level Up:
 
@@ -11324,7 +11324,7 @@ Level Up:
 
 **[#327 - Spinda](../pokemon/spinda.md)**
 
-![Spinda](../assets/sprites/spinda/front.gif "Spinda")
+![Spinda](../assets/sprites/spinda/front.gif "Spinda: No two SPINDA have the same pattern of spots. Its tottering step fouls the aim of foes.")
 
 Base Stats (Complete):
 
@@ -11361,7 +11361,7 @@ Level Up:
 
 **[#328 - Trapinch](../pokemon/trapinch.md)**
 
-![Trapinch](../assets/sprites/trapinch/front.gif "Trapinch")
+![Trapinch](../assets/sprites/trapinch/front.gif "Trapinch: It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.")
 
 Ability:
 
@@ -11417,7 +11417,7 @@ Level Up:
 
 **[#329 - Vibrava](../pokemon/vibrava.md)**
 
-![Vibrava](../assets/sprites/vibrava/front.gif "Vibrava")
+![Vibrava](../assets/sprites/vibrava/front.gif "Vibrava: It violently shudders its wings, generating ultrasonic waves to induce headaches in people.")
 
 Ability (Complete):
 
@@ -11479,7 +11479,7 @@ Level Up:
 
 **[#330 - Flygon](../pokemon/flygon.md)**
 
-![Flygon](../assets/sprites/flygon/front.gif "Flygon")
+![Flygon](../assets/sprites/flygon/front.gif "Flygon: It whips up sandstorms with powerful flaps of its wings. It is known as “The Desert Spirit.”")
 
 Ability (Complete):
 
@@ -11544,7 +11544,7 @@ Level Up:
 
 **[#331 - Cacnea](../pokemon/cacnea.md)**
 
-![Cacnea](../assets/sprites/cacnea/front.gif "Cacnea")
+![Cacnea](../assets/sprites/cacnea/front.gif "Cacnea: By storing water in its body, this desert dweller can survive for 30 days without water.")
 
 Ability:
 
@@ -11580,7 +11580,7 @@ Level Up:
 
 **[#332 - Cacturne](../pokemon/cacturne.md)**
 
-![Cacturne](../assets/sprites/cacturne/front.gif "Cacturne")
+![Cacturne](../assets/sprites/cacturne/front.gif "Cacturne: It becomes active at night, seeking prey that is exhausted from the day’s desert heat.")
 
 Ability:
 
@@ -11617,7 +11617,7 @@ Level Up:
 
 **[#333 - Swablu](../pokemon/swablu.md)**
 
-![Swablu](../assets/sprites/swablu/front.gif "Swablu")
+![Swablu](../assets/sprites/swablu/front.gif "Swablu: It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.")
 
 Ability:
 
@@ -11671,7 +11671,7 @@ Level Up:
 
 **[#334 - Altaria](../pokemon/altaria.md)**
 
-![Altaria](../assets/sprites/altaria/front.gif "Altaria")
+![Altaria](../assets/sprites/altaria/front.gif "Altaria: If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.")
 
 Ability:
 
@@ -11728,7 +11728,7 @@ Level Up:
 
 **[#335 - Zangoose](../pokemon/zangoose.md)**
 
-![Zangoose](../assets/sprites/zangoose/front.gif "Zangoose")
+![Zangoose](../assets/sprites/zangoose/front.gif "Zangoose: It has feuded with SEVIPER for many generations. Its sharp claws are its biggest weapons.")
 
 Base Stats (Complete):
 
@@ -11763,7 +11763,7 @@ Level Up:
 
 **[#336 - Seviper](../pokemon/seviper.md)**
 
-![Seviper](../assets/sprites/seviper/front.gif "Seviper")
+![Seviper](../assets/sprites/seviper/front.gif "Seviper: For many generations, it has feuded with ZANGOOSE. It whets its bladed tail on rocks for battle.")
 
 Base Stats (Complete):
 
@@ -11804,7 +11804,7 @@ Level Up:
 
 **[#337 - Lunatone](../pokemon/lunatone.md)**
 
-![Lunatone](../assets/sprites/lunatone/front.gif "Lunatone")
+![Lunatone](../assets/sprites/lunatone/front.gif "Lunatone: Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.")
 
 Base Stats (Complete):
 
@@ -11838,7 +11838,7 @@ Level Up:
 
 **[#338 - Solrock](../pokemon/solrock.md)**
 
-![Solrock](../assets/sprites/solrock/front.gif "Solrock")
+![Solrock](../assets/sprites/solrock/front.gif "Solrock: A new Pokémon species, rumored to be from the sun. It gives off light while spinning.")
 
 Base Stats (Complete):
 
@@ -11871,7 +11871,7 @@ Level Up:
 
 **[#339 - Barboach](../pokemon/barboach.md)**
 
-![Barboach](../assets/sprites/barboach/front.gif "Barboach")
+![Barboach](../assets/sprites/barboach/front.gif "Barboach: Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.")
 
 Level Up:
 
@@ -11898,7 +11898,7 @@ Level Up:
 
 **[#340 - Whiscash](../pokemon/whiscash.md)**
 
-![Whiscash](../assets/sprites/whiscash/front.gif "Whiscash")
+![Whiscash](../assets/sprites/whiscash/front.gif "Whiscash: It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.")
 
 Level Up:
 
@@ -11928,7 +11928,7 @@ Level Up:
 
 **[#341 - Corphish](../pokemon/corphish.md)**
 
-![Corphish](../assets/sprites/corphish/front.gif "Corphish")
+![Corphish](../assets/sprites/corphish/front.gif "Corphish: Its hardy vitality enables it to adapt to any environment. Its pincers will never release prey.")
 
 Ability:
 
@@ -11963,7 +11963,7 @@ Level Up:
 
 **[#342 - Crawdaunt](../pokemon/crawdaunt.md)**
 
-![Crawdaunt](../assets/sprites/crawdaunt/front.gif "Crawdaunt")
+![Crawdaunt](../assets/sprites/crawdaunt/front.gif "Crawdaunt: It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.")
 
 Ability:
 
@@ -11999,7 +11999,7 @@ Level Up:
 
 **[#343 - Baltoy](../pokemon/baltoy.md)**
 
-![Baltoy](../assets/sprites/baltoy/front.gif "Baltoy")
+![Baltoy](../assets/sprites/baltoy/front.gif "Baltoy: It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.")
 
 Evolution:
 
@@ -12032,7 +12032,7 @@ Level Up:
 
 **[#344 - Claydol](../pokemon/claydol.md)**
 
-![Claydol](../assets/sprites/claydol/front.gif "Claydol")
+![Claydol](../assets/sprites/claydol/front.gif "Claydol: An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.")
 
 Moves:
 
@@ -12068,7 +12068,7 @@ Level Up:
 
 **[#345 - Lileep](../pokemon/lileep.md)**
 
-![Lileep](../assets/sprites/lileep/front.gif "Lileep")
+![Lileep](../assets/sprites/lileep/front.gif "Lileep: It lived on the seafloor 100 million years ago and was reanimated scientifically.")
 
 Ability:
 
@@ -12108,7 +12108,7 @@ Level Up:
 
 **[#346 - Cradily](../pokemon/cradily.md)**
 
-![Cradily](../assets/sprites/cradily/front.gif "Cradily")
+![Cradily](../assets/sprites/cradily/front.gif "Cradily: It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.")
 
 Ability:
 
@@ -12143,7 +12143,7 @@ Level Up:
 
 **[#347 - Anorith](../pokemon/anorith.md)**
 
-![Anorith](../assets/sprites/anorith/front.gif "Anorith")
+![Anorith](../assets/sprites/anorith/front.gif "Anorith: A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.")
 
 Ability:
 
@@ -12188,7 +12188,7 @@ Level Up:
 
 **[#348 - Armaldo](../pokemon/armaldo.md)**
 
-![Armaldo](../assets/sprites/armaldo/front.gif "Armaldo")
+![Armaldo](../assets/sprites/armaldo/front.gif "Armaldo: It went ashore after evolving. Its entire body is clad in a sturdy armor.")
 
 Ability:
 
@@ -12229,7 +12229,7 @@ Level Up:
 
 **[#349 - Feebas](../pokemon/feebas.md)**
 
-![Feebas](../assets/sprites/feebas/front.gif "Feebas")
+![Feebas](../assets/sprites/feebas/front.gif "Feebas: It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.")
 
 Ability:
 
@@ -12255,7 +12255,7 @@ Level Up:
 
 **[#350 - Milotic](../pokemon/milotic.md)**
 
-![Milotic](../assets/sprites/milotic/front.gif "Milotic")
+![Milotic](../assets/sprites/milotic/front.gif "Milotic: Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.")
 
 Ability:
 
@@ -12305,7 +12305,7 @@ Level Up:
 
 **[#351 - Castform](../pokemon/castform.md)**
 
-![Castform](../assets/sprites/castform/front.gif "Castform")
+![Castform](../assets/sprites/castform/front.gif "Castform: Its appearance changes with the weather. Recently, its molecules were found to be just like water.")
 
 Base Stats (Complete):
 
@@ -12340,7 +12340,7 @@ Level Up:
 
 **[#352 - Kecleon](../pokemon/kecleon.md)**
 
-![Kecleon](../assets/sprites/kecleon/front.gif "Kecleon")
+![Kecleon](../assets/sprites/kecleon/front.gif "Kecleon: It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however.")
 
 Base Stats (Complete):
 
@@ -12377,7 +12377,7 @@ Level Up:
 
 **[#353 - Shuppet](../pokemon/shuppet.md)**
 
-![Shuppet](../assets/sprites/shuppet/front.gif "Shuppet")
+![Shuppet](../assets/sprites/shuppet/front.gif "Shuppet: It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.")
 
 Evolution:
 
@@ -12410,7 +12410,7 @@ Level Up:
 
 **[#354 - Banette](../pokemon/banette.md)**
 
-![Banette](../assets/sprites/banette/front.gif "Banette")
+![Banette](../assets/sprites/banette/front.gif "Banette: A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.")
 
 Base Stats (Complete):
 
@@ -12445,7 +12445,7 @@ Level Up:
 
 **[#355 - Duskull](../pokemon/duskull.md)**
 
-![Duskull](../assets/sprites/duskull/front.gif "Duskull")
+![Duskull](../assets/sprites/duskull/front.gif "Duskull: It loves the crying of children. It startles bad kids by passing through walls and making them cry.")
 
 Ability (Complete):
 
@@ -12489,7 +12489,7 @@ Level Up:
 
 **[#356 - Dusclops](../pokemon/dusclops.md)**
 
-![Dusclops](../assets/sprites/dusclops/front.gif "Dusclops")
+![Dusclops](../assets/sprites/dusclops/front.gif "Dusclops: It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.")
 
 Ability (Complete):
 
@@ -12539,7 +12539,7 @@ Level Up:
 
 **[#357 - Tropius](../pokemon/tropius.md)**
 
-![Tropius](../assets/sprites/tropius/front.gif "Tropius")
+![Tropius](../assets/sprites/tropius/front.gif "Tropius: Delicious fruits grew out from around its neck because it always ate the same kind of fruit.")
 
 Base Experience (Complete):
 
@@ -12590,7 +12590,7 @@ Level Up:
 
 **[#358 - Chimecho](../pokemon/chimecho.md)**
 
-![Chimecho](../assets/sprites/chimecho/front.gif "Chimecho")
+![Chimecho](../assets/sprites/chimecho/front.gif "Chimecho: Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.")
 
 Base Stats (Complete):
 
@@ -12625,7 +12625,7 @@ Level Up:
 
 **[#359 - Absol](../pokemon/absol.md)**
 
-![Absol](../assets/sprites/absol/front.gif "Absol")
+![Absol](../assets/sprites/absol/front.gif "Absol: Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.")
 
 Ability:
 
@@ -12669,7 +12669,7 @@ Level Up:
 
 **[#360 - Wynaut](../pokemon/wynaut.md)**
 
-![Wynaut](../assets/sprites/wynaut/front.gif "Wynaut")
+![Wynaut](../assets/sprites/wynaut/front.gif "Wynaut: It grows strong by pushing up against others en masse. It loves eating sweet fruit.")
 
 Level Up:
 
@@ -12685,7 +12685,7 @@ Level Up:
 
 **[#361 - Snorunt](../pokemon/snorunt.md)**
 
-![Snorunt](../assets/sprites/snorunt/front.gif "Snorunt")
+![Snorunt](../assets/sprites/snorunt/front.gif "Snorunt: It is said that several SNORUNT gather under giant leaves and live together in harmony.")
 
 Evolution:
 
@@ -12716,7 +12716,7 @@ Level Up:
 
 **[#362 - Glalie](../pokemon/glalie.md)**
 
-![Glalie](../assets/sprites/glalie/front.gif "Glalie")
+![Glalie](../assets/sprites/glalie/front.gif "Glalie: It prevents prey from escaping by instantaneously freezing moisture in the air.")
 
 Ability (Complete):
 
@@ -12778,7 +12778,7 @@ Level Up:
 
 **[#363 - Spheal](../pokemon/spheal.md)**
 
-![Spheal](../assets/sprites/spheal/front.gif "Spheal")
+![Spheal](../assets/sprites/spheal/front.gif "Spheal: It rolls across ice floes to reach shore because its body is poorly shaped for swimming.")
 
 Evolution:
 
@@ -12811,7 +12811,7 @@ Level Up:
 
 **[#364 - Sealeo](../pokemon/sealeo.md)**
 
-![Sealeo](../assets/sprites/sealeo/front.gif "Sealeo")
+![Sealeo](../assets/sprites/sealeo/front.gif "Sealeo: It habitually spins things on its nose. By doing so, it learns textures and odors.")
 
 Evolution:
 
@@ -12845,7 +12845,7 @@ Level Up:
 
 **[#365 - Walrein](../pokemon/walrein.md)**
 
-![Walrein](../assets/sprites/walrein/front.gif "Walrein")
+![Walrein](../assets/sprites/walrein/front.gif "Walrein: It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.")
 
 Level Up:
 
@@ -12875,7 +12875,7 @@ Level Up:
 
 **[#366 - Clamperl](../pokemon/clamperl.md)**
 
-![Clamperl](../assets/sprites/clamperl/front.gif "Clamperl")
+![Clamperl](../assets/sprites/clamperl/front.gif "Clamperl: It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.")
 
 Ability (Complete):
 
@@ -12911,7 +12911,7 @@ Level Up:
 
 **[#367 - Huntail](../pokemon/huntail.md)**
 
-![Huntail](../assets/sprites/huntail/front.gif "Huntail")
+![Huntail](../assets/sprites/huntail/front.gif "Huntail: It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.")
 
 Ability:
 
@@ -12943,7 +12943,7 @@ Level Up:
 
 **[#368 - Gorebyss](../pokemon/gorebyss.md)**
 
-![Gorebyss](../assets/sprites/gorebyss/front.gif "Gorebyss")
+![Gorebyss](../assets/sprites/gorebyss/front.gif "Gorebyss: It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.")
 
 Ability:
 
@@ -12975,7 +12975,7 @@ Level Up:
 
 **[#369 - Relicanth](../pokemon/relicanth.md)**
 
-![Relicanth](../assets/sprites/relicanth/front.gif "Relicanth")
+![Relicanth](../assets/sprites/relicanth/front.gif "Relicanth: A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.")
 
 Ability:
 
@@ -13012,7 +13012,7 @@ Level Up:
 
 **[#370 - Luvdisc](../pokemon/luvdisc.md)**
 
-![Luvdisc](../assets/sprites/luvdisc/front.gif "Luvdisc")
+![Luvdisc](../assets/sprites/luvdisc/front.gif "Luvdisc: It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.")
 
 Ability:
 
@@ -13066,7 +13066,7 @@ Level Up:
 
 **[#371 - Bagon](../pokemon/bagon.md)**
 
-![Bagon](../assets/sprites/bagon/front.gif "Bagon")
+![Bagon](../assets/sprites/bagon/front.gif "Bagon: Dreaming of one day flying, it practices by leaping off cliffs every day.")
 
 Level Up:
 
@@ -13093,7 +13093,7 @@ Level Up:
 
 **[#372 - Shelgon](../pokemon/shelgon.md)**
 
-![Shelgon](../assets/sprites/shelgon/front.gif "Shelgon")
+![Shelgon](../assets/sprites/shelgon/front.gif "Shelgon: Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.")
 
 Level Up:
 
@@ -13120,7 +13120,7 @@ Level Up:
 
 **[#373 - Salamence](../pokemon/salamence.md)**
 
-![Salamence](../assets/sprites/salamence/front.gif "Salamence")
+![Salamence](../assets/sprites/salamence/front.gif "Salamence: As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.")
 
 Moves:
 
@@ -13156,7 +13156,7 @@ Level Up:
 
 **[#374 - Beldum](../pokemon/beldum.md)**
 
-![Beldum](../assets/sprites/beldum/front.gif "Beldum")
+![Beldum](../assets/sprites/beldum/front.gif "Beldum: It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.")
 
 Ability (Complete):
 
@@ -13184,7 +13184,7 @@ Level Up:
 
 **[#375 - Metang](../pokemon/metang.md)**
 
-![Metang](../assets/sprites/metang/front.gif "Metang")
+![Metang](../assets/sprites/metang/front.gif "Metang: It is formed by two BELDUM joining together. Its steel body won’t be scratched if it collides with a jet.")
 
 Ability (Complete):
 
@@ -13231,7 +13231,7 @@ Level Up:
 
 **[#376 - Metagross](../pokemon/metagross.md)**
 
-![Metagross](../assets/sprites/metagross/front.gif "Metagross")
+![Metagross](../assets/sprites/metagross/front.gif "Metagross: METANG combined to form it. With four brains, it has the intelligence of a supercomputer.")
 
 Ability (Complete):
 
@@ -13281,7 +13281,7 @@ Level Up:
 
 **[#377 - Regirock](../pokemon/regirock.md)**
 
-![Regirock](../assets/sprites/regirock/front.gif "Regirock")
+![Regirock](../assets/sprites/regirock/front.gif "Regirock: Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.")
 
 Level Up:
 
@@ -13306,7 +13306,7 @@ Level Up:
 
 **[#378 - Regice](../pokemon/regice.md)**
 
-![Regice](../assets/sprites/regice/front.gif "Regice")
+![Regice](../assets/sprites/regice/front.gif "Regice: Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.")
 
 Level Up:
 
@@ -13331,7 +13331,7 @@ Level Up:
 
 **[#379 - Registeel](../pokemon/registeel.md)**
 
-![Registeel](../assets/sprites/registeel/front.gif "Registeel")
+![Registeel](../assets/sprites/registeel/front.gif "Registeel: Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.")
 
 Level Up:
 
@@ -13358,7 +13358,7 @@ Level Up:
 
 **[#380 - Latias](../pokemon/latias.md)**
 
-![Latias](../assets/sprites/latias/front.gif "Latias")
+![Latias](../assets/sprites/latias/front.gif "Latias: Its body is covered with a down that can refract light in such a way that it becomes invisible.")
 
 Level Up:
 
@@ -13383,7 +13383,7 @@ Level Up:
 
 **[#381 - Latios](../pokemon/latios.md)**
 
-![Latios](../assets/sprites/latios/front.gif "Latios")
+![Latios](../assets/sprites/latios/front.gif "Latios: A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.")
 
 Level Up:
 
@@ -13408,7 +13408,7 @@ Level Up:
 
 **[#382 - Kyogre](../pokemon/kyogre.md)**
 
-![Kyogre](../assets/sprites/kyogre/front.gif "Kyogre")
+![Kyogre](../assets/sprites/kyogre/front.gif "Kyogre: It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.")
 
 Level Up:
 
@@ -13431,7 +13431,7 @@ Level Up:
 
 **[#383 - Groudon](../pokemon/groudon.md)**
 
-![Groudon](../assets/sprites/groudon/front.gif "Groudon")
+![Groudon](../assets/sprites/groudon/front.gif "Groudon: It had been asleep in underground magma ever since it fiercely fought KYOGRE long ago.")
 
 Level Up:
 
@@ -13454,7 +13454,7 @@ Level Up:
 
 **[#384 - Rayquaza](../pokemon/rayquaza.md)**
 
-![Rayquaza](../assets/sprites/rayquaza/front.gif "Rayquaza")
+![Rayquaza](../assets/sprites/rayquaza/front.gif "Rayquaza: It lives in the ozone layer far above the clouds and cannot be seen from the ground.")
 
 Level Up:
 
@@ -13476,7 +13476,7 @@ Level Up:
 
 **[#385 - Jirachi](../pokemon/jirachi.md)**
 
-![Jirachi](../assets/sprites/jirachi/front.gif "Jirachi")
+![Jirachi](../assets/sprites/jirachi/front.gif "Jirachi: It is said to have the ability to grant any wish for just one week every thousand years.")
 
 Level Up:
 
@@ -13503,7 +13503,7 @@ Level Up:
 
 **[#386 - Deoxys](../pokemon/deoxys-normal.md)**
 
-![Deoxys](../assets/sprites/deoxys-normal/front.gif "Deoxys")
+![Deoxys](../assets/sprites/deoxys-normal/front.gif "Deoxys: An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.")
 
 Level Up (Normal Forme):
 
@@ -13585,7 +13585,7 @@ Level Up (Speed Forme):
 
 **[#387 - Turtwig](../pokemon/turtwig.md)**
 
-![Turtwig](../assets/sprites/turtwig/front.gif "Turtwig")
+![Turtwig](../assets/sprites/turtwig/front.gif "Turtwig: The shell on its back is made of soil. On a very healthy TURTWIG, the shell should feel moist.")
 
 Ability:
 
@@ -13616,7 +13616,7 @@ Level Up:
 
 **[#388 - Grotle](../pokemon/grotle.md)**
 
-![Grotle](../assets/sprites/grotle/front.gif "Grotle")
+![Grotle](../assets/sprites/grotle/front.gif "Grotle: It knows where pure water wells up. It carries fellow Pokémon there on its back.")
 
 Ability:
 
@@ -13648,7 +13648,7 @@ Level Up:
 
 **[#389 - Torterra](../pokemon/torterra.md)**
 
-![Torterra](../assets/sprites/torterra/front.gif "Torterra")
+![Torterra](../assets/sprites/torterra/front.gif "Torterra: Some Pokémon are born on a TORTERRA’s back and spend their entire life there.")
 
 Ability:
 
@@ -13691,7 +13691,7 @@ Level Up:
 
 **[#390 - Chimchar](../pokemon/chimchar.md)**
 
-![Chimchar](../assets/sprites/chimchar/front.gif "Chimchar")
+![Chimchar](../assets/sprites/chimchar/front.gif "Chimchar: It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.")
 
 Ability:
 
@@ -13722,7 +13722,7 @@ Level Up:
 
 **[#391 - Monferno](../pokemon/monferno.md)**
 
-![Monferno](../assets/sprites/monferno/front.gif "Monferno")
+![Monferno](../assets/sprites/monferno/front.gif "Monferno: It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.")
 
 Ability:
 
@@ -13760,7 +13760,7 @@ Level Up:
 
 **[#392 - Infernape](../pokemon/infernape.md)**
 
-![Infernape](../assets/sprites/infernape/front.gif "Infernape")
+![Infernape](../assets/sprites/infernape/front.gif "Infernape: It uses unique fighting moves with fire on its hands and feet. It will take on any opponent.")
 
 Ability:
 
@@ -13808,7 +13808,7 @@ Level Up:
 
 **[#393 - Piplup](../pokemon/piplup.md)**
 
-![Piplup](../assets/sprites/piplup/front.gif "Piplup")
+![Piplup](../assets/sprites/piplup/front.gif "Piplup: A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.")
 
 Ability (Complete):
 
@@ -13839,7 +13839,7 @@ Level Up:
 
 **[#394 - Prinplup](../pokemon/prinplup.md)**
 
-![Prinplup](../assets/sprites/prinplup/front.gif "Prinplup")
+![Prinplup](../assets/sprites/prinplup/front.gif "Prinplup: Because every PRINPLUP considers itself to be the most important, they can never form a group.")
 
 Ability (Complete):
 
@@ -13871,7 +13871,7 @@ Level Up:
 
 **[#395 - Empoleon](../pokemon/empoleon.md)**
 
-![Empoleon](../assets/sprites/empoleon/front.gif "Empoleon")
+![Empoleon](../assets/sprites/empoleon/front.gif "Empoleon: If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.")
 
 Ability (Complete):
 
@@ -13914,7 +13914,7 @@ Level Up:
 
 **[#396 - Starly](../pokemon/starly.md)**
 
-![Starly](../assets/sprites/starly/front.gif "Starly")
+![Starly](../assets/sprites/starly/front.gif "Starly: Because they are weak individually, they form groups. However, they bicker if the group grows too big.")
 
 Ability:
 
@@ -13951,7 +13951,7 @@ Level Up:
 
 **[#397 - Staravia](../pokemon/staravia.md)**
 
-![Staravia](../assets/sprites/staravia/front.gif "Staravia")
+![Staravia](../assets/sprites/staravia/front.gif "Staravia: Recognizing their own weakness, they always live in a group. When alone, a STARAVIA cries noisily.")
 
 Ability:
 
@@ -13988,7 +13988,7 @@ Level Up:
 
 **[#398 - Staraptor](../pokemon/staraptor.md)**
 
-![Staraptor](../assets/sprites/staraptor/front.gif "Staraptor")
+![Staraptor](../assets/sprites/staraptor/front.gif "Staraptor: It never stops attacking even if it is injured. It fusses over the shape of its comb.")
 
 Ability:
 
@@ -14028,7 +14028,7 @@ Level Up:
 
 **[#399 - Bidoof](../pokemon/bidoof.md)**
 
-![Bidoof](../assets/sprites/bidoof/front.gif "Bidoof")
+![Bidoof](../assets/sprites/bidoof/front.gif "Bidoof: A comparison revealed that BIDOOF’s front teeth grow at the same rate as RATTATA’s.")
 
 Moves:
 
@@ -14059,7 +14059,7 @@ Level Up:
 
 **[#400 - Bibarel](../pokemon/bibarel.md)**
 
-![Bibarel](../assets/sprites/bibarel/front.gif "Bibarel")
+![Bibarel](../assets/sprites/bibarel/front.gif "Bibarel: A river dammed by BIBAREL will never overflow its banks, which is appreciated by people nearby.")
 
 Base Stats (Complete):
 
@@ -14099,7 +14099,7 @@ Level Up:
 
 **[#401 - Kricketot](../pokemon/kricketot.md)**
 
-![Kricketot](../assets/sprites/kricketot/front.gif "Kricketot")
+![Kricketot](../assets/sprites/kricketot/front.gif "Kricketot: Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.")
 
 Ability:
 
@@ -14126,7 +14126,7 @@ Level Up:
 
 **[#402 - Kricketune](../pokemon/kricketune.md)**
 
-![Kricketune](../assets/sprites/kricketune/front.gif "Kricketune")
+![Kricketune](../assets/sprites/kricketune/front.gif "Kricketune: There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.")
 
 Ability:
 
@@ -14176,7 +14176,7 @@ Level Up:
 
 **[#403 - Shinx](../pokemon/shinx.md)**
 
-![Shinx](../assets/sprites/shinx/front.gif "Shinx")
+![Shinx](../assets/sprites/shinx/front.gif "Shinx: The extension and contraction of its muscles generates electricity. It glows when in trouble.")
 
 Ability:
 
@@ -14210,7 +14210,7 @@ Level Up:
 
 **[#404 - Luxio](../pokemon/luxio.md)**
 
-![Luxio](../assets/sprites/luxio/front.gif "Luxio")
+![Luxio](../assets/sprites/luxio/front.gif "Luxio: Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.")
 
 Ability:
 
@@ -14244,7 +14244,7 @@ Level Up:
 
 **[#405 - Luxray](../pokemon/luxray.md)**
 
-![Luxray](../assets/sprites/luxray/front.gif "Luxray")
+![Luxray](../assets/sprites/luxray/front.gif "Luxray: It can see clearly through walls to track down its prey and seek its lost young.")
 
 Ability:
 
@@ -14292,7 +14292,7 @@ Level Up:
 
 **[#406 - Budew](../pokemon/budew.md)**
 
-![Budew](../assets/sprites/budew/front.gif "Budew")
+![Budew](../assets/sprites/budew/front.gif "Budew: Sensitive to changing temperature, the bud is said to bloom when it feels the sun’s warm touch.")
 
 Ability:
 
@@ -14329,7 +14329,7 @@ Level Up:
 
 **[#407 - Roserade](../pokemon/roserade.md)**
 
-![Roserade](../assets/sprites/roserade/front.gif "Roserade")
+![Roserade](../assets/sprites/roserade/front.gif "Roserade: Each of its hands contains different toxins, but both hands can jab with near-fatal power.")
 
 Ability:
 
@@ -14351,7 +14351,7 @@ Level Up:
 
 **[#408 - Cranidos](../pokemon/cranidos.md)**
 
-![Cranidos](../assets/sprites/cranidos/front.gif "Cranidos")
+![Cranidos](../assets/sprites/cranidos/front.gif "Cranidos: A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts.")
 
 Ability (Complete):
 
@@ -14384,7 +14384,7 @@ Level Up:
 
 **[#409 - Rampardos](../pokemon/rampardos.md)**
 
-![Rampardos](../assets/sprites/rampardos/front.gif "Rampardos")
+![Rampardos](../assets/sprites/rampardos/front.gif "Rampardos: If two were to smash their heads together, their foot-thick skulls would keep them from fainting.")
 
 Ability (Complete):
 
@@ -14419,7 +14419,7 @@ Level Up:
 
 **[#410 - Shieldon](../pokemon/shieldon.md)**
 
-![Shieldon](../assets/sprites/shieldon/front.gif "Shieldon")
+![Shieldon](../assets/sprites/shieldon/front.gif "Shieldon: It is outstandingly armored. As a result, it can eat grass and berries without having to fight.")
 
 Ability:
 
@@ -14459,7 +14459,7 @@ Level Up:
 
 **[#411 - Bastiodon](../pokemon/bastiodon.md)**
 
-![Bastiodon](../assets/sprites/bastiodon/front.gif "Bastiodon")
+![Bastiodon](../assets/sprites/bastiodon/front.gif "Bastiodon: When they lined up side by side, no foe could break through. They shielded their young in that way.")
 
 Ability:
 
@@ -14501,7 +14501,7 @@ Level Up:
 
 **[#412 - Burmy](../pokemon/burmy.md)**
 
-![Burmy](../assets/sprites/burmy/front.gif "Burmy")
+![Burmy](../assets/sprites/burmy/front.gif "Burmy: Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.")
 
 Ability (Complete):
 
@@ -14535,7 +14535,7 @@ Level Up:
 
 **[#413 - Wormadam](../pokemon/wormadam-plant.md)**
 
-![Wormadam](../assets/sprites/wormadam-plant/front.gif "Wormadam")
+![Wormadam](../assets/sprites/wormadam-plant/front.gif "Wormadam: When evolving, its body takes in surrounding materials. As a result, there are many body variations.")
 
 Ability (Complete):
 
@@ -14647,7 +14647,7 @@ Level Up (Trash Cloak):
 
 **[#414 - Mothim](../pokemon/mothim.md)**
 
-![Mothim](../assets/sprites/mothim/front.gif "Mothim")
+![Mothim](../assets/sprites/mothim/front.gif "Mothim: While it loves floral honey, it won’t gather any itself. Instead, it plots to steal some from COMBEE.")
 
 Ability:
 
@@ -14693,7 +14693,7 @@ Level Up:
 
 **[#415 - Combee](../pokemon/combee.md)**
 
-![Combee](../assets/sprites/combee/front.gif "Combee")
+![Combee](../assets/sprites/combee/front.gif "Combee: The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.")
 
 Ability:
 
@@ -14719,7 +14719,7 @@ Level Up:
 
 **[#416 - Vespiquen](../pokemon/vespiquen.md)**
 
-![Vespiquen](../assets/sprites/vespiquen/front.gif "Vespiquen")
+![Vespiquen](../assets/sprites/vespiquen/front.gif "Vespiquen: It releases various pheromones to make the grubs in its body do its bidding while fighting foes.")
 
 Ability (Complete):
 
@@ -14763,7 +14763,7 @@ Level Up:
 
 **[#417 - Pachirisu](../pokemon/pachirisu.md)**
 
-![Pachirisu](../assets/sprites/pachirisu/front.gif "Pachirisu")
+![Pachirisu](../assets/sprites/pachirisu/front.gif "Pachirisu: A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.")
 
 Ability:
 
@@ -14804,7 +14804,7 @@ Level Up:
 
 **[#418 - Buizel](../pokemon/buizel.md)**
 
-![Buizel](../assets/sprites/buizel/front.gif "Buizel")
+![Buizel](../assets/sprites/buizel/front.gif "Buizel: It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.")
 
 Ability:
 
@@ -14835,7 +14835,7 @@ Level Up:
 
 **[#419 - Floatzel](../pokemon/floatzel.md)**
 
-![Floatzel](../assets/sprites/floatzel/front.gif "Floatzel")
+![Floatzel](../assets/sprites/floatzel/front.gif "Floatzel: It is a common sight around fishing ports. It is known to rescue people and carry off prey.")
 
 Ability:
 
@@ -14867,7 +14867,7 @@ Level Up:
 
 **[#420 - Cherubi](../pokemon/cherubi.md)**
 
-![Cherubi](../assets/sprites/cherubi/front.gif "Cherubi")
+![Cherubi](../assets/sprites/cherubi/front.gif "Cherubi: The small ball is not only filled with nutrients, it is also tasty. STARLY try to peck it off.")
 
 Level Up:
 
@@ -14891,7 +14891,7 @@ Level Up:
 
 **[#421 - Cherrim](../pokemon/cherrim.md)**
 
-![Cherrim](../assets/sprites/cherrim/front.gif "Cherrim")
+![Cherrim](../assets/sprites/cherrim/front.gif "Cherrim: If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.")
 
 Base Stats (Complete):
 
@@ -14924,7 +14924,7 @@ Level Up:
 
 **[#422 - Shellos](../pokemon/shellos.md)**
 
-![Shellos](../assets/sprites/shellos/front.gif "Shellos")
+![Shellos](../assets/sprites/shellos/front.gif "Shellos: Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.")
 
 Level Up:
 
@@ -14950,7 +14950,7 @@ Level Up:
 
 **[#423 - Gastrodon](../pokemon/gastrodon.md)**
 
-![Gastrodon](../assets/sprites/gastrodon/front.gif "Gastrodon")
+![Gastrodon](../assets/sprites/gastrodon/front.gif "Gastrodon: Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.")
 
 Level Up:
 
@@ -14977,7 +14977,7 @@ Level Up:
 
 **[#424 - Ambipom](../pokemon/ambipom.md)**
 
-![Ambipom](../assets/sprites/ambipom/front.gif "Ambipom")
+![Ambipom](../assets/sprites/ambipom/front.gif "Ambipom: Split into two, the tails are so adept at handling and doing things, AMBIPOM rarely uses its hands.")
 
 Level Up:
 
@@ -15005,7 +15005,7 @@ Level Up:
 
 **[#425 - Drifloon](../pokemon/drifloon.md)**
 
-![Drifloon](../assets/sprites/drifloon/front.gif "Drifloon")
+![Drifloon](../assets/sprites/drifloon/front.gif "Drifloon: Because of the way it floats aimlessly, an old folktale calls it a “Signpost for Wandering Spirits.”")
 
 Ability:
 
@@ -15045,7 +15045,7 @@ Level Up:
 
 **[#426 - Drifblim](../pokemon/drifblim.md)**
 
-![Drifblim](../assets/sprites/drifblim/front.gif "Drifblim")
+![Drifblim](../assets/sprites/drifblim/front.gif "Drifblim: At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.")
 
 Ability:
 
@@ -15087,7 +15087,7 @@ Level Up:
 
 **[#427 - Buneary](../pokemon/buneary.md)**
 
-![Buneary](../assets/sprites/buneary/front.gif "Buneary")
+![Buneary](../assets/sprites/buneary/front.gif "Buneary: Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.")
 
 Ability:
 
@@ -15121,7 +15121,7 @@ Level Up:
 
 **[#428 - Lopunny](../pokemon/lopunny.md)**
 
-![Lopunny](../assets/sprites/lopunny/front.gif "Lopunny")
+![Lopunny](../assets/sprites/lopunny/front.gif "Lopunny: The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs.")
 
 Ability (Complete):
 
@@ -15179,7 +15179,7 @@ Level Up:
 
 **[#429 - Mismagius](../pokemon/mismagius.md)**
 
-![Mismagius](../assets/sprites/mismagius/front.gif "Mismagius")
+![Mismagius](../assets/sprites/mismagius/front.gif "Mismagius: Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.")
 
 Type (Complete):
 
@@ -15205,7 +15205,7 @@ Level Up:
 
 **[#430 - Honchkrow](../pokemon/honchkrow.md)**
 
-![Honchkrow](../assets/sprites/honchkrow/front.gif "Honchkrow")
+![Honchkrow](../assets/sprites/honchkrow/front.gif "Honchkrow: If one utters a deep cry, many MURKROW gather quickly. For this, it is called “Summoner of Night.”")
 
 Ability:
 
@@ -15237,7 +15237,7 @@ Level Up:
 
 **[#431 - Glameow](../pokemon/glameow.md)**
 
-![Glameow](../assets/sprites/glameow/front.gif "Glameow")
+![Glameow](../assets/sprites/glameow/front.gif "Glameow: It hides its spiteful tendency of hooking its claws into the nose of its Trainer if it isn’t fed.")
 
 Base Stats (Complete):
 
@@ -15278,7 +15278,7 @@ Level Up:
 
 **[#432 - Purugly](../pokemon/purugly.md)**
 
-![Purugly](../assets/sprites/purugly/front.gif "Purugly")
+![Purugly](../assets/sprites/purugly/front.gif "Purugly: It binds its body with its tails to make itself look bigger. If it locks eyes, it will glare ceaselessly.")
 
 Base Stats (Complete):
 
@@ -15314,7 +15314,7 @@ Level Up:
 
 **[#433 - Chingling](../pokemon/chingling.md)**
 
-![Chingling](../assets/sprites/chingling/front.gif "Chingling")
+![Chingling](../assets/sprites/chingling/front.gif "Chingling: There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.")
 
 Base Stats (Complete):
 
@@ -15352,7 +15352,7 @@ Level Up:
 
 **[#434 - Stunky](../pokemon/stunky.md)**
 
-![Stunky](../assets/sprites/stunky/front.gif "Stunky")
+![Stunky](../assets/sprites/stunky/front.gif "Stunky: It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.")
 
 Ability:
 
@@ -15401,7 +15401,7 @@ Level Up:
 
 **[#435 - Skuntank](../pokemon/skuntank.md)**
 
-![Skuntank](../assets/sprites/skuntank/front.gif "Skuntank")
+![Skuntank](../assets/sprites/skuntank/front.gif "Skuntank: It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.")
 
 Ability:
 
@@ -15445,7 +15445,7 @@ Level Up:
 
 **[#436 - Bronzor](../pokemon/bronzor.md)**
 
-![Bronzor](../assets/sprites/bronzor/front.gif "Bronzor")
+![Bronzor](../assets/sprites/bronzor/front.gif "Bronzor: There are researchers who believe this Pokémon reflected like a mirror in the distant past.")
 
 Level Up:
 
@@ -15471,7 +15471,7 @@ Level Up:
 
 **[#437 - Bronzong](../pokemon/bronzong.md)**
 
-![Bronzong](../assets/sprites/bronzong/front.gif "Bronzong")
+![Bronzong](../assets/sprites/bronzong/front.gif "Bronzong: It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests.")
 
 Moves:
 
@@ -15506,7 +15506,7 @@ Level Up:
 
 **[#438 - Bonsly](../pokemon/bonsly.md)**
 
-![Bonsly](../assets/sprites/bonsly/front.gif "Bonsly")
+![Bonsly](../assets/sprites/bonsly/front.gif "Bonsly: It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.")
 
 Ability:
 
@@ -15545,7 +15545,7 @@ Level Up:
 
 **[#439 - Mime Jr.](../pokemon/mime-jr.md)**
 
-![Mime Jr.](../assets/sprites/mime-jr/front.gif "Mime Jr.")
+![Mime Jr.](../assets/sprites/mime-jr/front.gif "Mime Jr.: It mimics the expressions and motions of those it sees to understand the feelings of others.")
 
 Ability:
 
@@ -15588,7 +15588,7 @@ Level Up:
 
 **[#440 - Happiny](../pokemon/happiny.md)**
 
-![Happiny](../assets/sprites/happiny/front.gif "Happiny")
+![Happiny](../assets/sprites/happiny/front.gif "Happiny: It likes to carry around a small rock. It may wander around others’ feet and cause them to stumble.")
 
 Ability:
 
@@ -15617,7 +15617,7 @@ Level Up:
 
 **[#441 - Chatot](../pokemon/chatot.md)**
 
-![Chatot](../assets/sprites/chatot/front.gif "Chatot")
+![Chatot](../assets/sprites/chatot/front.gif "Chatot: Its tongue is just like a human’s. As a result, it can cleverly mimic human speech.")
 
 Ability (Complete):
 
@@ -15665,7 +15665,7 @@ Level Up:
 
 **[#442 - Spiritomb](../pokemon/spiritomb.md)**
 
-![Spiritomb](../assets/sprites/spiritomb/front.gif "Spiritomb")
+![Spiritomb](../assets/sprites/spiritomb/front.gif "Spiritomb: Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.")
 
 Level Up:
 
@@ -15692,7 +15692,7 @@ Level Up:
 
 **[#443 - Gible](../pokemon/gible.md)**
 
-![Gible](../assets/sprites/gible/front.gif "Gible")
+![Gible](../assets/sprites/gible/front.gif "Gible: It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.")
 
 Ability:
 
@@ -15726,7 +15726,7 @@ Level Up:
 
 **[#444 - Gabite](../pokemon/gabite.md)**
 
-![Gabite](../assets/sprites/gabite/front.gif "Gabite")
+![Gabite](../assets/sprites/gabite/front.gif "Gabite: It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.")
 
 Ability:
 
@@ -15759,7 +15759,7 @@ Level Up:
 
 **[#445 - Garchomp](../pokemon/garchomp.md)**
 
-![Garchomp](../assets/sprites/garchomp/front.gif "Garchomp")
+![Garchomp](../assets/sprites/garchomp/front.gif "Garchomp: It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.")
 
 Ability:
 
@@ -15801,7 +15801,7 @@ Level Up:
 
 **[#446 - Munchlax](../pokemon/munchlax.md)**
 
-![Munchlax](../assets/sprites/munchlax/front.gif "Munchlax")
+![Munchlax](../assets/sprites/munchlax/front.gif "Munchlax: In its desperation to gulp down food, it forgets about the food it has hidden under its fur.")
 
 Ability:
 
@@ -15836,7 +15836,7 @@ Level Up:
 
 **[#447 - Riolu](../pokemon/riolu.md)**
 
-![Riolu](../assets/sprites/riolu/front.gif "Riolu")
+![Riolu](../assets/sprites/riolu/front.gif "Riolu: It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.")
 
 Evolution:
 
@@ -15865,7 +15865,7 @@ Level Up:
 
 **[#448 - Lucario](../pokemon/lucario.md)**
 
-![Lucario](../assets/sprites/lucario/front.gif "Lucario")
+![Lucario](../assets/sprites/lucario/front.gif "Lucario: A well-trained one can sense auras to identify and take in the feelings of creatures over half a mile away.")
 
 Ability (Complete):
 
@@ -15902,7 +15902,7 @@ Level Up:
 
 **[#449 - Hippopotas](../pokemon/hippopotas.md)**
 
-![Hippopotas](../assets/sprites/hippopotas/front.gif "Hippopotas")
+![Hippopotas](../assets/sprites/hippopotas/front.gif "Hippopotas: It shuts its nostrils tight then travels through sand as if walking. They form colonies of around ten.")
 
 Level Up:
 
@@ -15927,7 +15927,7 @@ Level Up:
 
 **[#450 - Hippowdon](../pokemon/hippowdon.md)**
 
-![Hippowdon](../assets/sprites/hippowdon/front.gif "Hippowdon")
+![Hippowdon](../assets/sprites/hippowdon/front.gif "Hippowdon: It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.")
 
 Level Up:
 
@@ -15955,7 +15955,7 @@ Level Up:
 
 **[#451 - Skorupi](../pokemon/skorupi.md)**
 
-![Skorupi](../assets/sprites/skorupi/front.gif "Skorupi")
+![Skorupi](../assets/sprites/skorupi/front.gif "Skorupi: As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.")
 
 Ability:
 
@@ -16000,7 +16000,7 @@ Level Up:
 
 **[#452 - Drapion](../pokemon/drapion.md)**
 
-![Drapion](../assets/sprites/drapion/front.gif "Drapion")
+![Drapion](../assets/sprites/drapion/front.gif "Drapion: Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins.")
 
 Ability:
 
@@ -16042,7 +16042,7 @@ Level Up:
 
 **[#453 - Croagunk](../pokemon/croagunk.md)**
 
-![Croagunk](../assets/sprites/croagunk/front.gif "Croagunk")
+![Croagunk](../assets/sprites/croagunk/front.gif "Croagunk: It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot.")
 
 Ability:
 
@@ -16089,7 +16089,7 @@ Level Up:
 
 **[#454 - Toxicroak](../pokemon/toxicroak.md)**
 
-![Toxicroak](../assets/sprites/toxicroak/front.gif "Toxicroak")
+![Toxicroak](../assets/sprites/toxicroak/front.gif "Toxicroak: It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.")
 
 Ability:
 
@@ -16131,7 +16131,7 @@ Level Up:
 
 **[#455 - Carnivine](../pokemon/carnivine.md)**
 
-![Carnivine](../assets/sprites/carnivine/front.gif "Carnivine")
+![Carnivine](../assets/sprites/carnivine/front.gif "Carnivine: It binds itself to trees in marshes. It attracts prey with its sweet- smelling drool and gulps them down.")
 
 Base Stats (Complete):
 
@@ -16173,7 +16173,7 @@ Level Up:
 
 **[#456 - Finneon](../pokemon/finneon.md)**
 
-![Finneon](../assets/sprites/finneon/front.gif "Finneon")
+![Finneon](../assets/sprites/finneon/front.gif "Finneon: The line running down its side can store sunlight. It shines vividly at night.")
 
 Base Stats (Complete):
 
@@ -16212,7 +16212,7 @@ Level Up:
 
 **[#457 - Lumineon](../pokemon/lumineon.md)**
 
-![Lumineon](../assets/sprites/lumineon/front.gif "Lumineon")
+![Lumineon](../assets/sprites/lumineon/front.gif "Lumineon: It crawls along the seafloor using its long front fins like legs. It competes for food with LANTURN.")
 
 Base Stats (Complete):
 
@@ -16254,7 +16254,7 @@ Level Up:
 
 **[#458 - Mantyke](../pokemon/mantyke.md)**
 
-![Mantyke](../assets/sprites/mantyke/front.gif "Mantyke")
+![Mantyke](../assets/sprites/mantyke/front.gif "Mantyke: People organize tours to see this Pokémon frolic and skim the tops of waves with REMORAID.")
 
 Level Up:
 
@@ -16281,7 +16281,7 @@ Level Up:
 
 **[#459 - Snover](../pokemon/snover.md)**
 
-![Snover](../assets/sprites/snover/front.gif "Snover")
+![Snover](../assets/sprites/snover/front.gif "Snover: Seemingly curious about people, they gather around footsteps they find on snowy mountains.")
 
 Ability:
 
@@ -16314,7 +16314,7 @@ Level Up:
 
 **[#460 - Abomasnow](../pokemon/abomasnow.md)**
 
-![Abomasnow](../assets/sprites/abomasnow/front.gif "Abomasnow")
+![Abomasnow](../assets/sprites/abomasnow/front.gif "Abomasnow: They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.")
 
 Ability:
 
@@ -16348,7 +16348,7 @@ Level Up:
 
 **[#461 - Weavile](../pokemon/weavile.md)**
 
-![Weavile](../assets/sprites/weavile/front.gif "Weavile")
+![Weavile](../assets/sprites/weavile/front.gif "Weavile: Evolution made it even more devious. It communicates by clawing signs in boulders.")
 
 Ability (Complete):
 
@@ -16385,7 +16385,7 @@ Level Up:
 
 **[#462 - Magnezone](../pokemon/magnezone.md)**
 
-![Magnezone](../assets/sprites/magnezone/front.gif "Magnezone")
+![Magnezone](../assets/sprites/magnezone/front.gif "Magnezone: A group tried to use scientific means to make MAGNEZONE evolve, but their efforts ended in failure.")
 
 Moves:
 
@@ -16421,7 +16421,7 @@ Level Up:
 
 **[#463 - Lickilicky](../pokemon/lickilicky.md)**
 
-![Lickilicky](../assets/sprites/lickilicky/front.gif "Lickilicky")
+![Lickilicky](../assets/sprites/lickilicky/front.gif "Lickilicky: The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.")
 
 Level Up:
 
@@ -16451,7 +16451,7 @@ Level Up:
 
 **[#464 - Rhyperior](../pokemon/rhyperior.md)**
 
-![Rhyperior](../assets/sprites/rhyperior/front.gif "Rhyperior")
+![Rhyperior](../assets/sprites/rhyperior/front.gif "Rhyperior: It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly.")
 
 Ability:
 
@@ -16488,7 +16488,7 @@ Level Up:
 
 **[#465 - Tangrowth](../pokemon/tangrowth.md)**
 
-![Tangrowth](../assets/sprites/tangrowth/front.gif "Tangrowth")
+![Tangrowth](../assets/sprites/tangrowth/front.gif "Tangrowth: Its arms are made of plants that bind themselves to things. They grow back right away if cut.")
 
 Level Up:
 
@@ -16517,7 +16517,7 @@ Level Up:
 
 **[#466 - Electivire](../pokemon/electivire.md)**
 
-![Electivire](../assets/sprites/electivire/front.gif "Electivire")
+![Electivire](../assets/sprites/electivire/front.gif "Electivire: Heedless of enemy attacks, it closes in, shoves its tails onto the foe, then looses high voltage.")
 
 Ability:
 
@@ -16567,7 +16567,7 @@ Level Up:
 
 **[#467 - Magmortar](../pokemon/magmortar.md)**
 
-![Magmortar](../assets/sprites/magmortar/front.gif "Magmortar")
+![Magmortar](../assets/sprites/magmortar/front.gif "Magmortar: When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat.")
 
 Ability:
 
@@ -16603,7 +16603,7 @@ Level Up:
 
 **[#468 - Togekiss](../pokemon/togekiss.md)**
 
-![Togekiss](../assets/sprites/togekiss/front.gif "Togekiss")
+![Togekiss](../assets/sprites/togekiss/front.gif "Togekiss: It shares many blessings with people who respect one another’s rights and avoid needless strife.")
 
 Ability:
 
@@ -16631,7 +16631,7 @@ Level Up:
 
 **[#469 - Yanmega](../pokemon/yanmega.md)**
 
-![Yanmega](../assets/sprites/yanmega/front.gif "Yanmega")
+![Yanmega](../assets/sprites/yanmega/front.gif "Yanmega: Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed.")
 
 Moves:
 
@@ -16669,7 +16669,7 @@ Level Up:
 
 **[#470 - Leafeon](../pokemon/leafeon.md)**
 
-![Leafeon](../assets/sprites/leafeon/front.gif "Leafeon")
+![Leafeon](../assets/sprites/leafeon/front.gif "Leafeon: It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.")
 
 Moves:
 
@@ -16704,7 +16704,7 @@ Level Up:
 
 **[#471 - Glaceon](../pokemon/glaceon.md)**
 
-![Glaceon](../assets/sprites/glaceon/front.gif "Glaceon")
+![Glaceon](../assets/sprites/glaceon/front.gif "Glaceon: By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.")
 
 Base Stats (Complete):
 
@@ -16747,7 +16747,7 @@ Level Up:
 
 **[#472 - Gliscor](../pokemon/gliscor.md)**
 
-![Gliscor](../assets/sprites/gliscor/front.gif "Gliscor")
+![Gliscor](../assets/sprites/gliscor/front.gif "Gliscor: If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.")
 
 Ability:
 
@@ -16792,7 +16792,7 @@ Level Up:
 
 **[#473 - Mamoswine](../pokemon/mamoswine.md)**
 
-![Mamoswine](../assets/sprites/mamoswine/front.gif "Mamoswine")
+![Mamoswine](../assets/sprites/mamoswine/front.gif "Mamoswine: A frozen one was dug up from soil dating back 10,000 years. It woke up to much amazement.")
 
 Ability:
 
@@ -16829,7 +16829,7 @@ Level Up:
 
 **[#474 - Porygon-Z](../pokemon/porygon-z.md)**
 
-![Porygon-Z](../assets/sprites/porygon-z/front.gif "Porygon-Z")
+![Porygon-Z](../assets/sprites/porygon-z/front.gif "Porygon-Z: Its programming was modified to enable work in alien dimensions. It did not work as planned.")
 
 Level Up:
 
@@ -16859,7 +16859,7 @@ Level Up:
 
 **[#475 - Gallade](../pokemon/gallade.md)**
 
-![Gallade](../assets/sprites/gallade/front.gif "Gallade")
+![Gallade](../assets/sprites/gallade/front.gif "Gallade: When trying to protect someone, it extends its elbows as if they were swords and fights savagely.")
 
 Level Up:
 
@@ -16886,7 +16886,7 @@ Level Up:
 
 **[#476 - Probopass](../pokemon/probopass.md)**
 
-![Probopass](../assets/sprites/probopass/front.gif "Probopass")
+![Probopass](../assets/sprites/probopass/front.gif "Probopass: It freely controls three small units called Mini-Noses using magnetic force.")
 
 Base Stats (Complete):
 
@@ -16923,7 +16923,7 @@ Level Up:
 
 **[#477 - Dusknoir](../pokemon/dusknoir.md)**
 
-![Dusknoir](../assets/sprites/dusknoir/front.gif "Dusknoir")
+![Dusknoir](../assets/sprites/dusknoir/front.gif "Dusknoir: It is said to take lost spirits into its pliant body and guide them home.")
 
 Ability (Complete):
 
@@ -16973,7 +16973,7 @@ Level Up:
 
 **[#478 - Froslass](../pokemon/froslass.md)**
 
-![Froslass](../assets/sprites/froslass/front.gif "Froslass")
+![Froslass](../assets/sprites/froslass/front.gif "Froslass: It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey.")
 
 Ability (Complete):
 
@@ -17016,7 +17016,7 @@ Level Up:
 
 **[#479 - Rotom](../pokemon/rotom.md)**
 
-![Rotom](../assets/sprites/rotom/front.gif "Rotom")
+![Rotom](../assets/sprites/rotom/front.gif "Rotom: Its electric-like body can enter some kinds of machines and take control in order to make mischief.")
 
 Ability (Fan Rotom) (Complete):
 
@@ -17065,7 +17065,7 @@ Level Up:
 
 **[#480 - Uxie](../pokemon/uxie.md)**
 
-![Uxie](../assets/sprites/uxie/front.gif "Uxie")
+![Uxie](../assets/sprites/uxie/front.gif "Uxie: When UXIE flew, people gained the ability to solve problems. It was the birth of knowledge.")
 
 Type (Complete):
 
@@ -17096,7 +17096,7 @@ Level Up:
 
 **[#481 - Mesprit](../pokemon/mesprit.md)**
 
-![Mesprit](../assets/sprites/mesprit/front.gif "Mesprit")
+![Mesprit](../assets/sprites/mesprit/front.gif "Mesprit: When MESPRIT flew, people learned the joy and sadness of living. It was the birth of emotions.")
 
 Type (Complete):
 
@@ -17127,7 +17127,7 @@ Level Up:
 
 **[#482 - Azelf](../pokemon/azelf.md)**
 
-![Azelf](../assets/sprites/azelf/front.gif "Azelf")
+![Azelf](../assets/sprites/azelf/front.gif "Azelf: When AZELF flew, people gained the determination to do things. It was the birth of willpower.")
 
 Type (Complete):
 
@@ -17158,7 +17158,7 @@ Level Up:
 
 **[#483 - Dialga](../pokemon/dialga.md)**
 
-![Dialga](../assets/sprites/dialga/front.gif "Dialga")
+![Dialga](../assets/sprites/dialga/front.gif "Dialga: A legendary Pokémon of Sinnoh. It is said that time flows when DIALGA’s heart beats.")
 
 Level Up:
 
@@ -17181,7 +17181,7 @@ Level Up:
 
 **[#484 - Palkia](../pokemon/palkia.md)**
 
-![Palkia](../assets/sprites/palkia/front.gif "Palkia")
+![Palkia](../assets/sprites/palkia/front.gif "Palkia: A legendary Pokémon of Sinnoh. It is said that space becomes more stable with PALKIA’s every breath.")
 
 Level Up:
 
@@ -17204,7 +17204,7 @@ Level Up:
 
 **[#485 - Heatran](../pokemon/heatran.md)**
 
-![Heatran](../assets/sprites/heatran/front.gif "Heatran")
+![Heatran](../assets/sprites/heatran/front.gif "Heatran: Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.")
 
 Ability:
 
@@ -17234,7 +17234,7 @@ Level Up:
 
 **[#486 - Regigigas](../pokemon/regigigas.md)**
 
-![Regigigas](../assets/sprites/regigigas/front.gif "Regigigas")
+![Regigigas](../assets/sprites/regigigas/front.gif "Regigigas: It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.")
 
 Level Up:
 
@@ -17259,7 +17259,7 @@ Level Up:
 
 **[#487 - Giratina](../pokemon/giratina-altered.md)**
 
-![Giratina](../assets/sprites/giratina-altered/front.gif "Giratina")
+![Giratina](../assets/sprites/giratina-altered/front.gif "Giratina: It was banished for its violence. It silently gazed upon the old world from the Distortion World.")
 
 Held Item:
 
@@ -17288,7 +17288,7 @@ Level Up:
 
 **[#488 - Cresselia](../pokemon/cresselia.md)**
 
-![Cresselia](../assets/sprites/cresselia/front.gif "Cresselia")
+![Cresselia](../assets/sprites/cresselia/front.gif "Cresselia: On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.")
 
 Level Up:
 
@@ -17312,7 +17312,7 @@ Level Up:
 
 **[#489 - Phione](../pokemon/phione.md)**
 
-![Phione](../assets/sprites/phione/front.gif "Phione")
+![Phione](../assets/sprites/phione/front.gif "Phione: It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.")
 
 Level Up:
 
@@ -17335,7 +17335,7 @@ Level Up:
 
 **[#490 - Manaphy](../pokemon/manaphy.md)**
 
-![Manaphy](../assets/sprites/manaphy/front.gif "Manaphy")
+![Manaphy](../assets/sprites/manaphy/front.gif "Manaphy: It is born with a wondrous power that lets it bond with any kind of Pokémon.")
 
 Level Up:
 
@@ -17360,7 +17360,7 @@ Level Up:
 
 **[#491 - Darkrai](../pokemon/darkrai.md)**
 
-![Darkrai](../assets/sprites/darkrai/front.gif "Darkrai")
+![Darkrai](../assets/sprites/darkrai/front.gif "Darkrai: To protect itself, it afflicts those around it with nightmares. However, it means no harm.")
 
 Level Up:
 
@@ -17386,7 +17386,7 @@ Level Up:
 
 **[#492 - Shaymin](../pokemon/shaymin-land.md)**
 
-![Shaymin](../assets/sprites/shaymin-land/front.gif "Shaymin")
+![Shaymin](../assets/sprites/shaymin-land/front.gif "Shaymin: The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.")
 
 Level Up (Land Forme):
 
@@ -17428,7 +17428,7 @@ Level Up (Sky Forme):
 
 **[#493 - Arceus](../pokemon/arceus.md)**
 
-![Arceus](../assets/sprites/arceus/front.gif "Arceus")
+![Arceus](../assets/sprites/arceus/front.gif "Arceus: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.")
 
 Moves:
 

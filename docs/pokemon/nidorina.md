@@ -14,7 +14,13 @@ When it senses danger, it raises all the barbs on its body. These barbs grow slo
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Nidorina](../assets/sprites/nidorina/front.gif "Nidorina") | ![Nidorina](../assets/sprites/nidorina/front_shiny.png "Nidorina") | ![Nidorina](../assets/sprites/nidorina/back.png "Nidorina") | ![Nidorina](../assets/sprites/nidorina/back_shiny.png "Nidorina") |
+| ![Nidorina](../assets/sprites/nidorina/front.gif "Nidorina: When it senses danger, it raises all the barbs on its body. These barbs grow slower than NIDORINO’s.") | ![Nidorina](../assets/sprites/nidorina/front_shiny.png "Nidorina: When it senses danger, it raises all the barbs on its body. These barbs grow slower than NIDORINO’s.") | ![Nidorina](../assets/sprites/nidorina/back.png "Nidorina: When it senses danger, it raises all the barbs on its body. These barbs grow slower than NIDORINO’s.") | ![Nidorina](../assets/sprites/nidorina/back_shiny.png "Nidorina: When it senses danger, it raises all the barbs on its body. These barbs grow slower than NIDORINO’s.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

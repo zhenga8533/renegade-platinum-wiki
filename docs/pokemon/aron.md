@@ -14,7 +14,13 @@ It usually lives deep in mountains. However, hunger may drive it to eat railroad
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Aron](../assets/sprites/aron/front.gif "Aron") | ![Aron](../assets/sprites/aron/front_shiny.png "Aron") | ![Aron](../assets/sprites/aron/back.png "Aron") | ![Aron](../assets/sprites/aron/back_shiny.png "Aron") |
+| ![Aron](../assets/sprites/aron/front.gif "Aron: It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.") | ![Aron](../assets/sprites/aron/front_shiny.png "Aron: It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.") | ![Aron](../assets/sprites/aron/back.png "Aron: It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.") | ![Aron](../assets/sprites/aron/back_shiny.png "Aron: It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

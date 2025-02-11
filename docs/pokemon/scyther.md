@@ -14,13 +14,13 @@ The sharp scythes on its forearms become increasingly sharp by cutting through h
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Scyther](../assets/sprites/scyther/front.gif "Scyther") | ![Scyther](../assets/sprites/scyther/front_shiny.png "Scyther") | ![Scyther](../assets/sprites/scyther/back.png "Scyther") | ![Scyther](../assets/sprites/scyther/back_shiny.png "Scyther") |
+| ![Scyther](../assets/sprites/scyther/front.gif "Scyther: The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.") | ![Scyther](../assets/sprites/scyther/front_shiny.png "Scyther: The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.") | ![Scyther](../assets/sprites/scyther/back.png "Scyther: The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.") | ![Scyther](../assets/sprites/scyther/back_shiny.png "Scyther: The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Scyther](../assets/sprites/scyther/front_female.gif "Scyther") | ![Scyther](../assets/sprites/scyther/front_shiny_female.png "Scyther") | ![Scyther](../assets/sprites/scyther/back_female.png "Scyther") | ![Scyther](../assets/sprites/scyther/back_shiny_female.png "Scyther") |
+| ![Scyther](../assets/sprites/scyther/front_female.gif "Scyther: The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.") | ![Scyther](../assets/sprites/scyther/front_shiny_female.png "Scyther: The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.") | ![Scyther](../assets/sprites/scyther/back_female.png "Scyther: The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.") | ![Scyther](../assets/sprites/scyther/back_shiny_female.png "Scyther: The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.") |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Grimer](../assets/sprites/grimer/front.gif "Grimer") | ![Grimer](../assets/sprites/grimer/front_shiny.png "Grimer") | ![Grimer](../assets/sprites/grimer/back.png "Grimer") | ![Grimer](../assets/sprites/grimer/back_shiny.png "Grimer") |
+| ![Grimer](../assets/sprites/grimer/front.gif "Grimer: It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth.") | ![Grimer](../assets/sprites/grimer/front_shiny.png "Grimer: It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth.") | ![Grimer](../assets/sprites/grimer/back.png "Grimer: It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth.") | ![Grimer](../assets/sprites/grimer/back_shiny.png "Grimer: It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

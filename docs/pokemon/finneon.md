@@ -14,13 +14,13 @@ The line running down its side can store sunlight. It shines vividly at night.
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Finneon](../assets/sprites/finneon/front.gif "Finneon") | ![Finneon](../assets/sprites/finneon/front_shiny.png "Finneon") | ![Finneon](../assets/sprites/finneon/back.png "Finneon") | ![Finneon](../assets/sprites/finneon/back_shiny.png "Finneon") |
+| ![Finneon](../assets/sprites/finneon/front.gif "Finneon: The line running down its side can store sunlight. It shines vividly at night.") | ![Finneon](../assets/sprites/finneon/front_shiny.png "Finneon: The line running down its side can store sunlight. It shines vividly at night.") | ![Finneon](../assets/sprites/finneon/back.png "Finneon: The line running down its side can store sunlight. It shines vividly at night.") | ![Finneon](../assets/sprites/finneon/back_shiny.png "Finneon: The line running down its side can store sunlight. It shines vividly at night.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Finneon](../assets/sprites/finneon/front_female.gif "Finneon") | ![Finneon](../assets/sprites/finneon/front_shiny_female.png "Finneon") | ![Finneon](../assets/sprites/finneon/back_female.png "Finneon") | ![Finneon](../assets/sprites/finneon/back_shiny_female.png "Finneon") |
+| ![Finneon](../assets/sprites/finneon/front_female.gif "Finneon: The line running down its side can store sunlight. It shines vividly at night.") | ![Finneon](../assets/sprites/finneon/front_shiny_female.png "Finneon: The line running down its side can store sunlight. It shines vividly at night.") | ![Finneon](../assets/sprites/finneon/back_female.png "Finneon: The line running down its side can store sunlight. It shines vividly at night.") | ![Finneon](../assets/sprites/finneon/back_shiny_female.png "Finneon: The line running down its side can store sunlight. It shines vividly at night.") |
 
 ### Cries
 

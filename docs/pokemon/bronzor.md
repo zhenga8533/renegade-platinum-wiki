@@ -14,7 +14,13 @@ There are researchers who believe this Pokémon reflected like a mirror in the d
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Bronzor](../assets/sprites/bronzor/front.gif "Bronzor") | ![Bronzor](../assets/sprites/bronzor/front_shiny.png "Bronzor") | ![Bronzor](../assets/sprites/bronzor/back.png "Bronzor") | ![Bronzor](../assets/sprites/bronzor/back_shiny.png "Bronzor") |
+| ![Bronzor](../assets/sprites/bronzor/front.gif "Bronzor: There are researchers who believe this Pokémon reflected like a mirror in the distant past.") | ![Bronzor](../assets/sprites/bronzor/front_shiny.png "Bronzor: There are researchers who believe this Pokémon reflected like a mirror in the distant past.") | ![Bronzor](../assets/sprites/bronzor/back.png "Bronzor: There are researchers who believe this Pokémon reflected like a mirror in the distant past.") | ![Bronzor](../assets/sprites/bronzor/back_shiny.png "Bronzor: There are researchers who believe this Pokémon reflected like a mirror in the distant past.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

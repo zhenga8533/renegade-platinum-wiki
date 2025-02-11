@@ -14,7 +14,13 @@ The tip of its tail shines brightly. In the olden days, people sent signals usin
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Ampharos](../assets/sprites/ampharos/front.gif "Ampharos") | ![Ampharos](../assets/sprites/ampharos/front_shiny.png "Ampharos") | ![Ampharos](../assets/sprites/ampharos/back.png "Ampharos") | ![Ampharos](../assets/sprites/ampharos/back_shiny.png "Ampharos") |
+| ![Ampharos](../assets/sprites/ampharos/front.gif "Ampharos: The tip of its tail shines brightly. In the olden days, people sent signals using the tail’s light.") | ![Ampharos](../assets/sprites/ampharos/front_shiny.png "Ampharos: The tip of its tail shines brightly. In the olden days, people sent signals using the tail’s light.") | ![Ampharos](../assets/sprites/ampharos/back.png "Ampharos: The tip of its tail shines brightly. In the olden days, people sent signals using the tail’s light.") | ![Ampharos](../assets/sprites/ampharos/back_shiny.png "Ampharos: The tip of its tail shines brightly. In the olden days, people sent signals using the tail’s light.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ When they lined up side by side, no foe could break through. They shielded their
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Bastiodon](../assets/sprites/bastiodon/front.gif "Bastiodon") | ![Bastiodon](../assets/sprites/bastiodon/front_shiny.png "Bastiodon") | ![Bastiodon](../assets/sprites/bastiodon/back.png "Bastiodon") | ![Bastiodon](../assets/sprites/bastiodon/back_shiny.png "Bastiodon") |
+| ![Bastiodon](../assets/sprites/bastiodon/front.gif "Bastiodon: When they lined up side by side, no foe could break through. They shielded their young in that way.") | ![Bastiodon](../assets/sprites/bastiodon/front_shiny.png "Bastiodon: When they lined up side by side, no foe could break through. They shielded their young in that way.") | ![Bastiodon](../assets/sprites/bastiodon/back.png "Bastiodon: When they lined up side by side, no foe could break through. They shielded their young in that way.") | ![Bastiodon](../assets/sprites/bastiodon/back_shiny.png "Bastiodon: When they lined up side by side, no foe could break through. They shielded their young in that way.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,13 +14,13 @@ Its tail discharges electricity into the ground, protecting it from getting shoc
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Raichu](../assets/sprites/raichu/front.gif "Raichu") | ![Raichu](../assets/sprites/raichu/front_shiny.png "Raichu") | ![Raichu](../assets/sprites/raichu/back.png "Raichu") | ![Raichu](../assets/sprites/raichu/back_shiny.png "Raichu") |
+| ![Raichu](../assets/sprites/raichu/front.gif "Raichu: Its tail discharges electricity into the ground, protecting it from getting shocked.") | ![Raichu](../assets/sprites/raichu/front_shiny.png "Raichu: Its tail discharges electricity into the ground, protecting it from getting shocked.") | ![Raichu](../assets/sprites/raichu/back.png "Raichu: Its tail discharges electricity into the ground, protecting it from getting shocked.") | ![Raichu](../assets/sprites/raichu/back_shiny.png "Raichu: Its tail discharges electricity into the ground, protecting it from getting shocked.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Raichu](../assets/sprites/raichu/front_female.gif "Raichu") | ![Raichu](../assets/sprites/raichu/front_shiny_female.png "Raichu") | N/A | N/A |
+| ![Raichu](../assets/sprites/raichu/front_female.gif "Raichu: Its tail discharges electricity into the ground, protecting it from getting shocked.") | ![Raichu](../assets/sprites/raichu/front_shiny_female.png "Raichu: Its tail discharges electricity into the ground, protecting it from getting shocked.") | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It rolls across ice floes to reach shore because its body is poorly shaped for s
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Spheal](../assets/sprites/spheal/front.gif "Spheal") | ![Spheal](../assets/sprites/spheal/front_shiny.png "Spheal") | ![Spheal](../assets/sprites/spheal/back.png "Spheal") | ![Spheal](../assets/sprites/spheal/back_shiny.png "Spheal") |
+| ![Spheal](../assets/sprites/spheal/front.gif "Spheal: It rolls across ice floes to reach shore because its body is poorly shaped for swimming.") | ![Spheal](../assets/sprites/spheal/front_shiny.png "Spheal: It rolls across ice floes to reach shore because its body is poorly shaped for swimming.") | ![Spheal](../assets/sprites/spheal/back.png "Spheal: It rolls across ice floes to reach shore because its body is poorly shaped for swimming.") | ![Spheal](../assets/sprites/spheal/back_shiny.png "Spheal: It rolls across ice floes to reach shore because its body is poorly shaped for swimming.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

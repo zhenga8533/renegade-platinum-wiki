@@ -14,7 +14,13 @@ The leer that floats in darkness belongs to a GENGAR delighting in casting curse
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Gengar](../assets/sprites/gengar/front.gif "Gengar") | ![Gengar](../assets/sprites/gengar/front_shiny.png "Gengar") | ![Gengar](../assets/sprites/gengar/back.png "Gengar") | ![Gengar](../assets/sprites/gengar/back_shiny.png "Gengar") |
+| ![Gengar](../assets/sprites/gengar/front.gif "Gengar: The leer that floats in darkness belongs to a GENGAR delighting in casting curses on people.") | ![Gengar](../assets/sprites/gengar/front_shiny.png "Gengar: The leer that floats in darkness belongs to a GENGAR delighting in casting curses on people.") | ![Gengar](../assets/sprites/gengar/back.png "Gengar: The leer that floats in darkness belongs to a GENGAR delighting in casting curses on people.") | ![Gengar](../assets/sprites/gengar/back_shiny.png "Gengar: The leer that floats in darkness belongs to a GENGAR delighting in casting curses on people.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ The long tongue is always soggy with slobber. The saliva contains a solvent that
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Lickilicky](../assets/sprites/lickilicky/front.gif "Lickilicky") | ![Lickilicky](../assets/sprites/lickilicky/front_shiny.png "Lickilicky") | ![Lickilicky](../assets/sprites/lickilicky/back.png "Lickilicky") | ![Lickilicky](../assets/sprites/lickilicky/back_shiny.png "Lickilicky") |
+| ![Lickilicky](../assets/sprites/lickilicky/front.gif "Lickilicky: The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.") | ![Lickilicky](../assets/sprites/lickilicky/front_shiny.png "Lickilicky: The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.") | ![Lickilicky](../assets/sprites/lickilicky/back.png "Lickilicky: The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.") | ![Lickilicky](../assets/sprites/lickilicky/back_shiny.png "Lickilicky: The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

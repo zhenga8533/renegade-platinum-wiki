@@ -14,7 +14,13 @@ A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Larvitar](../assets/sprites/larvitar/front.gif "Larvitar") | ![Larvitar](../assets/sprites/larvitar/front_shiny.png "Larvitar") | ![Larvitar](../assets/sprites/larvitar/back.png "Larvitar") | ![Larvitar](../assets/sprites/larvitar/back_shiny.png "Larvitar") |
+| ![Larvitar](../assets/sprites/larvitar/front.gif "Larvitar: A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.") | ![Larvitar](../assets/sprites/larvitar/front_shiny.png "Larvitar: A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.") | ![Larvitar](../assets/sprites/larvitar/back.png "Larvitar: A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.") | ![Larvitar](../assets/sprites/larvitar/back_shiny.png "Larvitar: A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ Inhaled air is heated in the flame sac in its body to an intense fire over 3,000
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Flareon](../assets/sprites/flareon/front.gif "Flareon") | ![Flareon](../assets/sprites/flareon/front_shiny.png "Flareon") | ![Flareon](../assets/sprites/flareon/back.png "Flareon") | ![Flareon](../assets/sprites/flareon/back_shiny.png "Flareon") |
+| ![Flareon](../assets/sprites/flareon/front.gif "Flareon: Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.") | ![Flareon](../assets/sprites/flareon/front_shiny.png "Flareon: Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.") | ![Flareon](../assets/sprites/flareon/back.png "Flareon: Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.") | ![Flareon](../assets/sprites/flareon/back_shiny.png "Flareon: Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It discharges positive and negative electricity from its antenna tips to shock i
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Chinchou](../assets/sprites/chinchou/front.gif "Chinchou") | ![Chinchou](../assets/sprites/chinchou/front_shiny.png "Chinchou") | ![Chinchou](../assets/sprites/chinchou/back.png "Chinchou") | ![Chinchou](../assets/sprites/chinchou/back_shiny.png "Chinchou") |
+| ![Chinchou](../assets/sprites/chinchou/front.gif "Chinchou: It discharges positive and negative electricity from its antenna tips to shock its foes.") | ![Chinchou](../assets/sprites/chinchou/front_shiny.png "Chinchou: It discharges positive and negative electricity from its antenna tips to shock its foes.") | ![Chinchou](../assets/sprites/chinchou/back.png "Chinchou: It discharges positive and negative electricity from its antenna tips to shock its foes.") | ![Chinchou](../assets/sprites/chinchou/back_shiny.png "Chinchou: It discharges positive and negative electricity from its antenna tips to shock its foes.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

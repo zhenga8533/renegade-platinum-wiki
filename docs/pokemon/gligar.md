@@ -14,13 +14,13 @@ It glides as if sliding. It startles foes by clamping on to their faces, then ja
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Gligar](../assets/sprites/gligar/front.gif "Gligar") | ![Gligar](../assets/sprites/gligar/front_shiny.png "Gligar") | ![Gligar](../assets/sprites/gligar/back.png "Gligar") | ![Gligar](../assets/sprites/gligar/back_shiny.png "Gligar") |
+| ![Gligar](../assets/sprites/gligar/front.gif "Gligar: It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.") | ![Gligar](../assets/sprites/gligar/front_shiny.png "Gligar: It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.") | ![Gligar](../assets/sprites/gligar/back.png "Gligar: It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.") | ![Gligar](../assets/sprites/gligar/back_shiny.png "Gligar: It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Gligar](../assets/sprites/gligar/front_female.gif "Gligar") | ![Gligar](../assets/sprites/gligar/front_shiny_female.png "Gligar") | ![Gligar](../assets/sprites/gligar/back_female.png "Gligar") | ![Gligar](../assets/sprites/gligar/back_shiny_female.png "Gligar") |
+| ![Gligar](../assets/sprites/gligar/front_female.gif "Gligar: It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.") | ![Gligar](../assets/sprites/gligar/front_shiny_female.png "Gligar: It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.") | ![Gligar](../assets/sprites/gligar/back_female.png "Gligar: It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.") | ![Gligar](../assets/sprites/gligar/back_shiny_female.png "Gligar: It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.") |
 
 ### Cries
 

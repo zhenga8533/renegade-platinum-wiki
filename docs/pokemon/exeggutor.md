@@ -14,7 +14,13 @@ It is called “The Walking Jungle.” If a head grows too big, it falls off and
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Exeggutor](../assets/sprites/exeggutor/front.gif "Exeggutor") | ![Exeggutor](../assets/sprites/exeggutor/front_shiny.png "Exeggutor") | ![Exeggutor](../assets/sprites/exeggutor/back.png "Exeggutor") | ![Exeggutor](../assets/sprites/exeggutor/back_shiny.png "Exeggutor") |
+| ![Exeggutor](../assets/sprites/exeggutor/front.gif "Exeggutor: It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an EXEGGCUTE.") | ![Exeggutor](../assets/sprites/exeggutor/front_shiny.png "Exeggutor: It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an EXEGGCUTE.") | ![Exeggutor](../assets/sprites/exeggutor/back.png "Exeggutor: It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an EXEGGCUTE.") | ![Exeggutor](../assets/sprites/exeggutor/back_shiny.png "Exeggutor: It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an EXEGGCUTE.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

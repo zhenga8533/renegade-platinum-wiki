@@ -14,13 +14,13 @@ The more healthy the ROSELIA, the more pleasant its flowers’ aroma. Its scent 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Roselia](../assets/sprites/roselia/front.gif "Roselia") | ![Roselia](../assets/sprites/roselia/front_shiny.png "Roselia") | ![Roselia](../assets/sprites/roselia/back.png "Roselia") | ![Roselia](../assets/sprites/roselia/back_shiny.png "Roselia") |
+| ![Roselia](../assets/sprites/roselia/front.gif "Roselia: The more healthy the ROSELIA, the more pleasant its flowers’ aroma. Its scent deeply relaxes people.") | ![Roselia](../assets/sprites/roselia/front_shiny.png "Roselia: The more healthy the ROSELIA, the more pleasant its flowers’ aroma. Its scent deeply relaxes people.") | ![Roselia](../assets/sprites/roselia/back.png "Roselia: The more healthy the ROSELIA, the more pleasant its flowers’ aroma. Its scent deeply relaxes people.") | ![Roselia](../assets/sprites/roselia/back_shiny.png "Roselia: The more healthy the ROSELIA, the more pleasant its flowers’ aroma. Its scent deeply relaxes people.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Roselia](../assets/sprites/roselia/front_female.gif "Roselia") | ![Roselia](../assets/sprites/roselia/front_shiny_female.png "Roselia") | ![Roselia](../assets/sprites/roselia/back_female.png "Roselia") | ![Roselia](../assets/sprites/roselia/back_shiny_female.png "Roselia") |
+| ![Roselia](../assets/sprites/roselia/front_female.gif "Roselia: The more healthy the ROSELIA, the more pleasant its flowers’ aroma. Its scent deeply relaxes people.") | ![Roselia](../assets/sprites/roselia/front_shiny_female.png "Roselia: The more healthy the ROSELIA, the more pleasant its flowers’ aroma. Its scent deeply relaxes people.") | ![Roselia](../assets/sprites/roselia/back_female.png "Roselia: The more healthy the ROSELIA, the more pleasant its flowers’ aroma. Its scent deeply relaxes people.") | ![Roselia](../assets/sprites/roselia/back_shiny_female.png "Roselia: The more healthy the ROSELIA, the more pleasant its flowers’ aroma. Its scent deeply relaxes people.") |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It carries food rolled up in its tail. It has the habit of sharing food with peo
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Delibird](../assets/sprites/delibird/front.gif "Delibird") | ![Delibird](../assets/sprites/delibird/front_shiny.png "Delibird") | ![Delibird](../assets/sprites/delibird/back.png "Delibird") | ![Delibird](../assets/sprites/delibird/back_shiny.png "Delibird") |
+| ![Delibird](../assets/sprites/delibird/front.gif "Delibird: It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.") | ![Delibird](../assets/sprites/delibird/front_shiny.png "Delibird: It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.") | ![Delibird](../assets/sprites/delibird/back.png "Delibird: It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.") | ![Delibird](../assets/sprites/delibird/back_shiny.png "Delibird: It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,13 +14,13 @@ A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,80
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Torchic](../assets/sprites/torchic/front.gif "Torchic") | ![Torchic](../assets/sprites/torchic/front_shiny.png "Torchic") | ![Torchic](../assets/sprites/torchic/back.png "Torchic") | ![Torchic](../assets/sprites/torchic/back_shiny.png "Torchic") |
+| ![Torchic](../assets/sprites/torchic/front.gif "Torchic: A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.") | ![Torchic](../assets/sprites/torchic/front_shiny.png "Torchic: A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.") | ![Torchic](../assets/sprites/torchic/back.png "Torchic: A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.") | ![Torchic](../assets/sprites/torchic/back_shiny.png "Torchic: A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Torchic](../assets/sprites/torchic/front_female.gif "Torchic") | N/A | ![Torchic](../assets/sprites/torchic/back_female.png "Torchic") | ![Torchic](../assets/sprites/torchic/back_shiny_female.png "Torchic") |
+| ![Torchic](../assets/sprites/torchic/front_female.gif "Torchic: A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.") | ? | ![Torchic](../assets/sprites/torchic/back_female.png "Torchic: A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.") | ![Torchic](../assets/sprites/torchic/back_shiny_female.png "Torchic: A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.") |
 
 ### Cries
 

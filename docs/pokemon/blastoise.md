@@ -14,7 +14,13 @@ The jets of water it spouts from the rocket cannons on its shell can punch throu
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Blastoise](../assets/sprites/blastoise/front.gif "Blastoise") | ![Blastoise](../assets/sprites/blastoise/front_shiny.png "Blastoise") | ![Blastoise](../assets/sprites/blastoise/back.png "Blastoise") | ![Blastoise](../assets/sprites/blastoise/back_shiny.png "Blastoise") |
+| ![Blastoise](../assets/sprites/blastoise/front.gif "Blastoise: The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.") | ![Blastoise](../assets/sprites/blastoise/front_shiny.png "Blastoise: The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.") | ![Blastoise](../assets/sprites/blastoise/back.png "Blastoise: The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.") | ![Blastoise](../assets/sprites/blastoise/back_shiny.png "Blastoise: The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

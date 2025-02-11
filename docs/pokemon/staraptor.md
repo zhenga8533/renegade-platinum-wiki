@@ -14,13 +14,13 @@ It never stops attacking even if it is injured. It fusses over the shape of its 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Staraptor](../assets/sprites/staraptor/front.gif "Staraptor") | ![Staraptor](../assets/sprites/staraptor/front_shiny.png "Staraptor") | ![Staraptor](../assets/sprites/staraptor/back.png "Staraptor") | ![Staraptor](../assets/sprites/staraptor/back_shiny.png "Staraptor") |
+| ![Staraptor](../assets/sprites/staraptor/front.gif "Staraptor: It never stops attacking even if it is injured. It fusses over the shape of its comb.") | ![Staraptor](../assets/sprites/staraptor/front_shiny.png "Staraptor: It never stops attacking even if it is injured. It fusses over the shape of its comb.") | ![Staraptor](../assets/sprites/staraptor/back.png "Staraptor: It never stops attacking even if it is injured. It fusses over the shape of its comb.") | ![Staraptor](../assets/sprites/staraptor/back_shiny.png "Staraptor: It never stops attacking even if it is injured. It fusses over the shape of its comb.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Staraptor](../assets/sprites/staraptor/front_female.gif "Staraptor") | ![Staraptor](../assets/sprites/staraptor/front_shiny_female.png "Staraptor") | N/A | N/A |
+| ![Staraptor](../assets/sprites/staraptor/front_female.gif "Staraptor: It never stops attacking even if it is injured. It fusses over the shape of its comb.") | ![Staraptor](../assets/sprites/staraptor/front_shiny_female.png "Staraptor: It never stops attacking even if it is injured. It fusses over the shape of its comb.") | ? | ? |
 
 ### Cries
 

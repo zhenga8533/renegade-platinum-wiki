@@ -14,13 +14,13 @@ A comparison revealed that BIDOOF’s front teeth grow at the same rate as RATTA
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Bidoof](../assets/sprites/bidoof/front.gif "Bidoof") | ![Bidoof](../assets/sprites/bidoof/front_shiny.png "Bidoof") | ![Bidoof](../assets/sprites/bidoof/back.png "Bidoof") | ![Bidoof](../assets/sprites/bidoof/back_shiny.png "Bidoof") |
+| ![Bidoof](../assets/sprites/bidoof/front.gif "Bidoof: A comparison revealed that BIDOOF’s front teeth grow at the same rate as RATTATA’s.") | ![Bidoof](../assets/sprites/bidoof/front_shiny.png "Bidoof: A comparison revealed that BIDOOF’s front teeth grow at the same rate as RATTATA’s.") | ![Bidoof](../assets/sprites/bidoof/back.png "Bidoof: A comparison revealed that BIDOOF’s front teeth grow at the same rate as RATTATA’s.") | ![Bidoof](../assets/sprites/bidoof/back_shiny.png "Bidoof: A comparison revealed that BIDOOF’s front teeth grow at the same rate as RATTATA’s.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Bidoof](../assets/sprites/bidoof/front_female.gif "Bidoof") | ![Bidoof](../assets/sprites/bidoof/front_shiny_female.png "Bidoof") | ![Bidoof](../assets/sprites/bidoof/back_female.png "Bidoof") | ![Bidoof](../assets/sprites/bidoof/back_shiny_female.png "Bidoof") |
+| ![Bidoof](../assets/sprites/bidoof/front_female.gif "Bidoof: A comparison revealed that BIDOOF’s front teeth grow at the same rate as RATTATA’s.") | ![Bidoof](../assets/sprites/bidoof/front_shiny_female.png "Bidoof: A comparison revealed that BIDOOF’s front teeth grow at the same rate as RATTATA’s.") | ![Bidoof](../assets/sprites/bidoof/back_female.png "Bidoof: A comparison revealed that BIDOOF’s front teeth grow at the same rate as RATTATA’s.") | ![Bidoof](../assets/sprites/bidoof/back_shiny_female.png "Bidoof: A comparison revealed that BIDOOF’s front teeth grow at the same rate as RATTATA’s.") |
 
 ### Cries
 

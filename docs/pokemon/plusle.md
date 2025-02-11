@@ -14,7 +14,13 @@ It cheers on friends with pom-poms made of sparks. It drains power from telephon
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Plusle](../assets/sprites/plusle/front.gif "Plusle") | ![Plusle](../assets/sprites/plusle/front_shiny.png "Plusle") | ![Plusle](../assets/sprites/plusle/back.png "Plusle") | ![Plusle](../assets/sprites/plusle/back_shiny.png "Plusle") |
+| ![Plusle](../assets/sprites/plusle/front.gif "Plusle: It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.") | ![Plusle](../assets/sprites/plusle/front_shiny.png "Plusle: It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.") | ![Plusle](../assets/sprites/plusle/back.png "Plusle: It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.") | ![Plusle](../assets/sprites/plusle/back_shiny.png "Plusle: It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It hides its spiteful tendency of hooking its claws into the nose of its Trainer
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Glameow](../assets/sprites/glameow/front.gif "Glameow") | ![Glameow](../assets/sprites/glameow/front_shiny.png "Glameow") | ![Glameow](../assets/sprites/glameow/back.png "Glameow") | ![Glameow](../assets/sprites/glameow/back_shiny.png "Glameow") |
+| ![Glameow](../assets/sprites/glameow/front.gif "Glameow: It hides its spiteful tendency of hooking its claws into the nose of its Trainer if it isn’t fed.") | ![Glameow](../assets/sprites/glameow/front_shiny.png "Glameow: It hides its spiteful tendency of hooking its claws into the nose of its Trainer if it isn’t fed.") | ![Glameow](../assets/sprites/glameow/back.png "Glameow: It hides its spiteful tendency of hooking its claws into the nose of its Trainer if it isn’t fed.") | ![Glameow](../assets/sprites/glameow/back_shiny.png "Glameow: It hides its spiteful tendency of hooking its claws into the nose of its Trainer if it isn’t fed.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

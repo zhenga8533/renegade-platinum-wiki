@@ -14,7 +14,13 @@ Possessing a sturdy build, it takes pride in its strength, taking down foes with
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Drapion](../assets/sprites/drapion/front.gif "Drapion") | ![Drapion](../assets/sprites/drapion/front_shiny.png "Drapion") | ![Drapion](../assets/sprites/drapion/back.png "Drapion") | ![Drapion](../assets/sprites/drapion/back_shiny.png "Drapion") |
+| ![Drapion](../assets/sprites/drapion/front.gif "Drapion: Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins.") | ![Drapion](../assets/sprites/drapion/front_shiny.png "Drapion: Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins.") | ![Drapion](../assets/sprites/drapion/back.png "Drapion: Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins.") | ![Drapion](../assets/sprites/drapion/back_shiny.png "Drapion: Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

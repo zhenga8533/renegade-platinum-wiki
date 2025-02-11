@@ -14,7 +14,13 @@ It attaches silk to its prey and sets it free. Later, it tracks the silk to the 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Ariados](../assets/sprites/ariados/front.gif "Ariados") | ![Ariados](../assets/sprites/ariados/front_shiny.png "Ariados") | ![Ariados](../assets/sprites/ariados/back.png "Ariados") | ![Ariados](../assets/sprites/ariados/back_shiny.png "Ariados") |
+| ![Ariados](../assets/sprites/ariados/front.gif "Ariados: It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.") | ![Ariados](../assets/sprites/ariados/front_shiny.png "Ariados: It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.") | ![Ariados](../assets/sprites/ariados/back.png "Ariados: It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.") | ![Ariados](../assets/sprites/ariados/back_shiny.png "Ariados: It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

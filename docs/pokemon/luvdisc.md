@@ -14,7 +14,13 @@ It lives in warm seas. It is said that a couple finding this Pokémon will be bl
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Luvdisc](../assets/sprites/luvdisc/front.gif "Luvdisc") | ![Luvdisc](../assets/sprites/luvdisc/front_shiny.png "Luvdisc") | ![Luvdisc](../assets/sprites/luvdisc/back.png "Luvdisc") | ![Luvdisc](../assets/sprites/luvdisc/back_shiny.png "Luvdisc") |
+| ![Luvdisc](../assets/sprites/luvdisc/front.gif "Luvdisc: It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.") | ![Luvdisc](../assets/sprites/luvdisc/front_shiny.png "Luvdisc: It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.") | ![Luvdisc](../assets/sprites/luvdisc/back.png "Luvdisc: It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.") | ![Luvdisc](../assets/sprites/luvdisc/back_shiny.png "Luvdisc: It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

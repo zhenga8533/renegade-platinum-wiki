@@ -14,7 +14,13 @@ Being bitten by SHELLDER gave it intelligence comparable to that of award-winnin
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Slowking](../assets/sprites/slowking/front.gif "Slowking") | ![Slowking](../assets/sprites/slowking/front_shiny.png "Slowking") | ![Slowking](../assets/sprites/slowking/back.png "Slowking") | ![Slowking](../assets/sprites/slowking/back_shiny.png "Slowking") |
+| ![Slowking](../assets/sprites/slowking/front.gif "Slowking: Being bitten by SHELLDER gave it intelligence comparable to that of award-winning scientists.") | ![Slowking](../assets/sprites/slowking/front_shiny.png "Slowking: Being bitten by SHELLDER gave it intelligence comparable to that of award-winning scientists.") | ![Slowking](../assets/sprites/slowking/back.png "Slowking: Being bitten by SHELLDER gave it intelligence comparable to that of award-winning scientists.") | ![Slowking](../assets/sprites/slowking/back_shiny.png "Slowking: Being bitten by SHELLDER gave it intelligence comparable to that of award-winning scientists.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

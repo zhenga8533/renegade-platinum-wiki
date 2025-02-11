@@ -14,7 +14,13 @@ Lighter-than-air gases in its body keep it aloft. The gases not only smell, they
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Koffing](../assets/sprites/koffing/front.gif "Koffing") | ![Koffing](../assets/sprites/koffing/front_shiny.png "Koffing") | ![Koffing](../assets/sprites/koffing/back.png "Koffing") | ![Koffing](../assets/sprites/koffing/back_shiny.png "Koffing") |
+| ![Koffing](../assets/sprites/koffing/front.gif "Koffing: Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.") | ![Koffing](../assets/sprites/koffing/front_shiny.png "Koffing: Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.") | ![Koffing](../assets/sprites/koffing/back.png "Koffing: Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.") | ![Koffing](../assets/sprites/koffing/back_shiny.png "Koffing: Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

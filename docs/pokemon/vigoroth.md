@@ -14,7 +14,13 @@ Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Vigoroth](../assets/sprites/vigoroth/front.gif "Vigoroth") | ![Vigoroth](../assets/sprites/vigoroth/front_shiny.png "Vigoroth") | ![Vigoroth](../assets/sprites/vigoroth/back.png "Vigoroth") | ![Vigoroth](../assets/sprites/vigoroth/back_shiny.png "Vigoroth") |
+| ![Vigoroth](../assets/sprites/vigoroth/front.gif "Vigoroth: Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.") | ![Vigoroth](../assets/sprites/vigoroth/front_shiny.png "Vigoroth: Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.") | ![Vigoroth](../assets/sprites/vigoroth/back.png "Vigoroth: Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.") | ![Vigoroth](../assets/sprites/vigoroth/back_shiny.png "Vigoroth: Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

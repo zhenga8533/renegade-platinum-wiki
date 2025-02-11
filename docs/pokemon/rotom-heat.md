@@ -14,7 +14,13 @@ Its electric-like body can enter some kinds of machines and take control in orde
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Rotom Heat](../assets/sprites/rotom-heat/front.png "Rotom Heat") | ![Rotom Heat](../assets/sprites/rotom-heat/front_shiny.png "Rotom Heat") | ![Rotom Heat](../assets/sprites/rotom-heat/back.png "Rotom Heat") | ![Rotom Heat](../assets/sprites/rotom-heat/back_shiny.png "Rotom Heat") |
+| ![Rotom Heat](../assets/sprites/rotom-heat/front.png "Rotom Heat: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom Heat](../assets/sprites/rotom-heat/front_shiny.png "Rotom Heat: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom Heat](../assets/sprites/rotom-heat/back.png "Rotom Heat: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom Heat](../assets/sprites/rotom-heat/back_shiny.png "Rotom Heat: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

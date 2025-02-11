@@ -14,13 +14,13 @@ If it hears festive music, all its muscles fill with energy. It can’t help bre
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Ludicolo](../assets/sprites/ludicolo/front.gif "Ludicolo") | ![Ludicolo](../assets/sprites/ludicolo/front_shiny.png "Ludicolo") | ![Ludicolo](../assets/sprites/ludicolo/back.png "Ludicolo") | ![Ludicolo](../assets/sprites/ludicolo/back_shiny.png "Ludicolo") |
+| ![Ludicolo](../assets/sprites/ludicolo/front.gif "Ludicolo: If it hears festive music, all its muscles fill with energy. It can’t help breaking out into a dance.") | ![Ludicolo](../assets/sprites/ludicolo/front_shiny.png "Ludicolo: If it hears festive music, all its muscles fill with energy. It can’t help breaking out into a dance.") | ![Ludicolo](../assets/sprites/ludicolo/back.png "Ludicolo: If it hears festive music, all its muscles fill with energy. It can’t help breaking out into a dance.") | ![Ludicolo](../assets/sprites/ludicolo/back_shiny.png "Ludicolo: If it hears festive music, all its muscles fill with energy. It can’t help breaking out into a dance.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Ludicolo](../assets/sprites/ludicolo/front_female.gif "Ludicolo") | ![Ludicolo](../assets/sprites/ludicolo/front_shiny_female.png "Ludicolo") | ![Ludicolo](../assets/sprites/ludicolo/back_female.png "Ludicolo") | ![Ludicolo](../assets/sprites/ludicolo/back_shiny_female.png "Ludicolo") |
+| ![Ludicolo](../assets/sprites/ludicolo/front_female.gif "Ludicolo: If it hears festive music, all its muscles fill with energy. It can’t help breaking out into a dance.") | ![Ludicolo](../assets/sprites/ludicolo/front_shiny_female.png "Ludicolo: If it hears festive music, all its muscles fill with energy. It can’t help breaking out into a dance.") | ![Ludicolo](../assets/sprites/ludicolo/back_female.png "Ludicolo: If it hears festive music, all its muscles fill with energy. It can’t help breaking out into a dance.") | ![Ludicolo](../assets/sprites/ludicolo/back_shiny_female.png "Ludicolo: If it hears festive music, all its muscles fill with energy. It can’t help breaking out into a dance.") |
 
 ### Cries
 

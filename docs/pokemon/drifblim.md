@@ -14,7 +14,13 @@ At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Drifblim](../assets/sprites/drifblim/front.gif "Drifblim") | ![Drifblim](../assets/sprites/drifblim/front_shiny.png "Drifblim") | ![Drifblim](../assets/sprites/drifblim/back.png "Drifblim") | ![Drifblim](../assets/sprites/drifblim/back_shiny.png "Drifblim") |
+| ![Drifblim](../assets/sprites/drifblim/front.gif "Drifblim: At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.") | ![Drifblim](../assets/sprites/drifblim/front_shiny.png "Drifblim: At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.") | ![Drifblim](../assets/sprites/drifblim/back.png "Drifblim: At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.") | ![Drifblim](../assets/sprites/drifblim/back_shiny.png "Drifblim: At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

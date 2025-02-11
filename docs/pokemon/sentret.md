@@ -14,7 +14,13 @@ It has a very nervous nature. It stands up high on its tail so it can scan wide 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Sentret](../assets/sprites/sentret/front.gif "Sentret") | ![Sentret](../assets/sprites/sentret/front_shiny.png "Sentret") | ![Sentret](../assets/sprites/sentret/back.png "Sentret") | ![Sentret](../assets/sprites/sentret/back_shiny.png "Sentret") |
+| ![Sentret](../assets/sprites/sentret/front.gif "Sentret: It has a very nervous nature. It stands up high on its tail so it can scan wide areas.") | ![Sentret](../assets/sprites/sentret/front_shiny.png "Sentret: It has a very nervous nature. It stands up high on its tail so it can scan wide areas.") | ![Sentret](../assets/sprites/sentret/back.png "Sentret: It has a very nervous nature. It stands up high on its tail so it can scan wide areas.") | ![Sentret](../assets/sprites/sentret/back_shiny.png "Sentret: It has a very nervous nature. It stands up high on its tail so it can scan wide areas.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

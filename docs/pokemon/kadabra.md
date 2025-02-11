@@ -14,13 +14,13 @@ It stares at its silver spoon to focus its mind. It emits more alpha waves while
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Kadabra](../assets/sprites/kadabra/front.gif "Kadabra") | ![Kadabra](../assets/sprites/kadabra/front_shiny.png "Kadabra") | ![Kadabra](../assets/sprites/kadabra/back.png "Kadabra") | ![Kadabra](../assets/sprites/kadabra/back_shiny.png "Kadabra") |
+| ![Kadabra](../assets/sprites/kadabra/front.gif "Kadabra: It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.") | ![Kadabra](../assets/sprites/kadabra/front_shiny.png "Kadabra: It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.") | ![Kadabra](../assets/sprites/kadabra/back.png "Kadabra: It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.") | ![Kadabra](../assets/sprites/kadabra/back_shiny.png "Kadabra: It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Kadabra](../assets/sprites/kadabra/front_female.gif "Kadabra") | ![Kadabra](../assets/sprites/kadabra/front_shiny_female.png "Kadabra") | ![Kadabra](../assets/sprites/kadabra/back_female.png "Kadabra") | ![Kadabra](../assets/sprites/kadabra/back_shiny_female.png "Kadabra") |
+| ![Kadabra](../assets/sprites/kadabra/front_female.gif "Kadabra: It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.") | ![Kadabra](../assets/sprites/kadabra/front_shiny_female.png "Kadabra: It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.") | ![Kadabra](../assets/sprites/kadabra/back_female.png "Kadabra: It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.") | ![Kadabra](../assets/sprites/kadabra/back_shiny_female.png "Kadabra: It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.") |
 
 ### Cries
 

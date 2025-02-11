@@ -14,7 +14,13 @@ It is said that when it roars, a volcano erupts somewhere around the globe.
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Entei](../assets/sprites/entei/front.gif "Entei") | ![Entei](../assets/sprites/entei/front_shiny.png "Entei") | ![Entei](../assets/sprites/entei/back.png "Entei") | ![Entei](../assets/sprites/entei/back_shiny.png "Entei") |
+| ![Entei](../assets/sprites/entei/front.gif "Entei: It is said that when it roars, a volcano erupts somewhere around the globe.") | ![Entei](../assets/sprites/entei/front_shiny.png "Entei: It is said that when it roars, a volcano erupts somewhere around the globe.") | ![Entei](../assets/sprites/entei/back.png "Entei: It is said that when it roars, a volcano erupts somewhere around the globe.") | ![Entei](../assets/sprites/entei/back_shiny.png "Entei: It is said that when it roars, a volcano erupts somewhere around the globe.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

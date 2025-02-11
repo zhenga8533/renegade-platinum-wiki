@@ -14,7 +14,13 @@ A discarded bug shell that came to life. Peering into the crack on its back is s
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Shedinja](../assets/sprites/shedinja/front.gif "Shedinja") | ![Shedinja](../assets/sprites/shedinja/front_shiny.png "Shedinja") | ![Shedinja](../assets/sprites/shedinja/back.png "Shedinja") | ![Shedinja](../assets/sprites/shedinja/back_shiny.png "Shedinja") |
+| ![Shedinja](../assets/sprites/shedinja/front.gif "Shedinja: A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit.") | ![Shedinja](../assets/sprites/shedinja/front_shiny.png "Shedinja: A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit.") | ![Shedinja](../assets/sprites/shedinja/back.png "Shedinja: A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit.") | ![Shedinja](../assets/sprites/shedinja/back_shiny.png "Shedinja: A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

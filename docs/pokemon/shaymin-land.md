@@ -14,7 +14,13 @@ The flowers all over its body burst into bloom if it is lovingly hugged and sens
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Shaymin Land](../assets/sprites/shaymin-land/front.gif "Shaymin Land") | ![Shaymin Land](../assets/sprites/shaymin-land/front_shiny.png "Shaymin Land") | ![Shaymin Land](../assets/sprites/shaymin-land/back.png "Shaymin Land") | ![Shaymin Land](../assets/sprites/shaymin-land/back_shiny.png "Shaymin Land") |
+| ![Shaymin Land](../assets/sprites/shaymin-land/front.gif "Shaymin Land: The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.") | ![Shaymin Land](../assets/sprites/shaymin-land/front_shiny.png "Shaymin Land: The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.") | ![Shaymin Land](../assets/sprites/shaymin-land/back.png "Shaymin Land: The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.") | ![Shaymin Land](../assets/sprites/shaymin-land/back_shiny.png "Shaymin Land: The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

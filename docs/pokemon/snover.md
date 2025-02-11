@@ -14,13 +14,13 @@ Seemingly curious about people, they gather around footsteps they find on snowy 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Snover](../assets/sprites/snover/front.gif "Snover") | ![Snover](../assets/sprites/snover/front_shiny.png "Snover") | ![Snover](../assets/sprites/snover/back.png "Snover") | ![Snover](../assets/sprites/snover/back_shiny.png "Snover") |
+| ![Snover](../assets/sprites/snover/front.gif "Snover: Seemingly curious about people, they gather around footsteps they find on snowy mountains.") | ![Snover](../assets/sprites/snover/front_shiny.png "Snover: Seemingly curious about people, they gather around footsteps they find on snowy mountains.") | ![Snover](../assets/sprites/snover/back.png "Snover: Seemingly curious about people, they gather around footsteps they find on snowy mountains.") | ![Snover](../assets/sprites/snover/back_shiny.png "Snover: Seemingly curious about people, they gather around footsteps they find on snowy mountains.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Snover](../assets/sprites/snover/front_female.gif "Snover") | ![Snover](../assets/sprites/snover/front_shiny_female.png "Snover") | ![Snover](../assets/sprites/snover/back_female.png "Snover") | ![Snover](../assets/sprites/snover/back_shiny_female.png "Snover") |
+| ![Snover](../assets/sprites/snover/front_female.gif "Snover: Seemingly curious about people, they gather around footsteps they find on snowy mountains.") | ![Snover](../assets/sprites/snover/front_shiny_female.png "Snover: Seemingly curious about people, they gather around footsteps they find on snowy mountains.") | ![Snover](../assets/sprites/snover/back_female.png "Snover: Seemingly curious about people, they gather around footsteps they find on snowy mountains.") | ![Snover](../assets/sprites/snover/back_shiny_female.png "Snover: Seemingly curious about people, they gather around footsteps they find on snowy mountains.") |
 
 ### Cries
 

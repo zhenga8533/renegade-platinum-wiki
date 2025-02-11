@@ -14,7 +14,13 @@ It lives in burrows dug on sandy beaches. Its pincers fully grow back if they ar
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Krabby](../assets/sprites/krabby/front.gif "Krabby") | ![Krabby](../assets/sprites/krabby/front_shiny.png "Krabby") | ![Krabby](../assets/sprites/krabby/back.png "Krabby") | ![Krabby](../assets/sprites/krabby/back_shiny.png "Krabby") |
+| ![Krabby](../assets/sprites/krabby/front.gif "Krabby: It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.") | ![Krabby](../assets/sprites/krabby/front_shiny.png "Krabby: It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.") | ![Krabby](../assets/sprites/krabby/back.png "Krabby: It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.") | ![Krabby](../assets/sprites/krabby/back_shiny.png "Krabby: It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

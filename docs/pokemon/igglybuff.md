@@ -14,7 +14,13 @@ It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Igglybuff](../assets/sprites/igglybuff/front.gif "Igglybuff") | ![Igglybuff](../assets/sprites/igglybuff/front_shiny.png "Igglybuff") | ![Igglybuff](../assets/sprites/igglybuff/back.png "Igglybuff") | ![Igglybuff](../assets/sprites/igglybuff/back_shiny.png "Igglybuff") |
+| ![Igglybuff](../assets/sprites/igglybuff/front.gif "Igglybuff: It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.") | ![Igglybuff](../assets/sprites/igglybuff/front_shiny.png "Igglybuff: It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.") | ![Igglybuff](../assets/sprites/igglybuff/back.png "Igglybuff: It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.") | ![Igglybuff](../assets/sprites/igglybuff/back_shiny.png "Igglybuff: It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It burrows through the ground at a speed of 50 mph while feeding on large boulde
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Onix](../assets/sprites/onix/front.gif "Onix") | ![Onix](../assets/sprites/onix/front_shiny.png "Onix") | ![Onix](../assets/sprites/onix/back.png "Onix") | ![Onix](../assets/sprites/onix/back_shiny.png "Onix") |
+| ![Onix](../assets/sprites/onix/front.gif "Onix: It burrows through the ground at a speed of 50 mph while feeding on large boulders. ") | ![Onix](../assets/sprites/onix/front_shiny.png "Onix: It burrows through the ground at a speed of 50 mph while feeding on large boulders. ") | ![Onix](../assets/sprites/onix/back.png "Onix: It burrows through the ground at a speed of 50 mph while feeding on large boulders. ") | ![Onix](../assets/sprites/onix/back_shiny.png "Onix: It burrows through the ground at a speed of 50 mph while feeding on large boulders. ") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

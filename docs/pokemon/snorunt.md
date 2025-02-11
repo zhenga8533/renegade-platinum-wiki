@@ -14,7 +14,13 @@ It is said that several SNORUNT gather under giant leaves and live together in h
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Snorunt](../assets/sprites/snorunt/front.gif "Snorunt") | ![Snorunt](../assets/sprites/snorunt/front_shiny.png "Snorunt") | ![Snorunt](../assets/sprites/snorunt/back.png "Snorunt") | ![Snorunt](../assets/sprites/snorunt/back_shiny.png "Snorunt") |
+| ![Snorunt](../assets/sprites/snorunt/front.gif "Snorunt: It is said that several SNORUNT gather under giant leaves and live together in harmony.") | ![Snorunt](../assets/sprites/snorunt/front_shiny.png "Snorunt: It is said that several SNORUNT gather under giant leaves and live together in harmony.") | ![Snorunt](../assets/sprites/snorunt/back.png "Snorunt: It is said that several SNORUNT gather under giant leaves and live together in harmony.") | ![Snorunt](../assets/sprites/snorunt/back_shiny.png "Snorunt: It is said that several SNORUNT gather under giant leaves and live together in harmony.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

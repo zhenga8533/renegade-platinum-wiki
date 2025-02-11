@@ -14,7 +14,13 @@ It fights by keeping its shell tightly shut for protection and by shooting spike
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Cloyster](../assets/sprites/cloyster/front.gif "Cloyster") | ![Cloyster](../assets/sprites/cloyster/front_shiny.png "Cloyster") | ![Cloyster](../assets/sprites/cloyster/back.png "Cloyster") | ![Cloyster](../assets/sprites/cloyster/back_shiny.png "Cloyster") |
+| ![Cloyster](../assets/sprites/cloyster/front.gif "Cloyster: It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.") | ![Cloyster](../assets/sprites/cloyster/front_shiny.png "Cloyster: It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.") | ![Cloyster](../assets/sprites/cloyster/back.png "Cloyster: It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.") | ![Cloyster](../assets/sprites/cloyster/back_shiny.png "Cloyster: It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

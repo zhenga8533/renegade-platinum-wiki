@@ -14,7 +14,13 @@ It windmills its arms to slightly boost its punches. Foes have been known to esc
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Electabuzz](../assets/sprites/electabuzz/front.gif "Electabuzz") | ![Electabuzz](../assets/sprites/electabuzz/front_shiny.png "Electabuzz") | ![Electabuzz](../assets/sprites/electabuzz/back.png "Electabuzz") | ![Electabuzz](../assets/sprites/electabuzz/back_shiny.png "Electabuzz") |
+| ![Electabuzz](../assets/sprites/electabuzz/front.gif "Electabuzz: It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.") | ![Electabuzz](../assets/sprites/electabuzz/front_shiny.png "Electabuzz: It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.") | ![Electabuzz](../assets/sprites/electabuzz/back.png "Electabuzz: It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.") | ![Electabuzz](../assets/sprites/electabuzz/back_shiny.png "Electabuzz: It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

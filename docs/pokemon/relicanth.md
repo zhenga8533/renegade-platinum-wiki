@@ -14,13 +14,13 @@ A rare Pokémon discovered during a deep-sea exploration. It has not changed in 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Relicanth](../assets/sprites/relicanth/front.gif "Relicanth") | ![Relicanth](../assets/sprites/relicanth/front_shiny.png "Relicanth") | ![Relicanth](../assets/sprites/relicanth/back.png "Relicanth") | ![Relicanth](../assets/sprites/relicanth/back_shiny.png "Relicanth") |
+| ![Relicanth](../assets/sprites/relicanth/front.gif "Relicanth: A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.") | ![Relicanth](../assets/sprites/relicanth/front_shiny.png "Relicanth: A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.") | ![Relicanth](../assets/sprites/relicanth/back.png "Relicanth: A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.") | ![Relicanth](../assets/sprites/relicanth/back_shiny.png "Relicanth: A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Relicanth](../assets/sprites/relicanth/front_female.gif "Relicanth") | ![Relicanth](../assets/sprites/relicanth/front_shiny_female.png "Relicanth") | ![Relicanth](../assets/sprites/relicanth/back_female.png "Relicanth") | ![Relicanth](../assets/sprites/relicanth/back_shiny_female.png "Relicanth") |
+| ![Relicanth](../assets/sprites/relicanth/front_female.gif "Relicanth: A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.") | ![Relicanth](../assets/sprites/relicanth/front_shiny_female.png "Relicanth: A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.") | ![Relicanth](../assets/sprites/relicanth/back_female.png "Relicanth: A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.") | ![Relicanth](../assets/sprites/relicanth/back_shiny_female.png "Relicanth: A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.") |
 
 ### Cries
 

@@ -14,7 +14,13 @@ Its body is as hard as bedrock. By venting pressurized gas, it can launch itself
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Pupitar](../assets/sprites/pupitar/front.gif "Pupitar") | ![Pupitar](../assets/sprites/pupitar/front_shiny.png "Pupitar") | ![Pupitar](../assets/sprites/pupitar/back.png "Pupitar") | ![Pupitar](../assets/sprites/pupitar/back_shiny.png "Pupitar") |
+| ![Pupitar](../assets/sprites/pupitar/front.gif "Pupitar: Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.") | ![Pupitar](../assets/sprites/pupitar/front_shiny.png "Pupitar: Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.") | ![Pupitar](../assets/sprites/pupitar/back.png "Pupitar: Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.") | ![Pupitar](../assets/sprites/pupitar/back_shiny.png "Pupitar: Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

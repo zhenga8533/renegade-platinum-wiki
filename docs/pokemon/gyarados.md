@@ -14,13 +14,13 @@ Once it begins to rampage, a GYARADOS will burn everything down, even in a harsh
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Gyarados](../assets/sprites/gyarados/front.gif "Gyarados") | ![Gyarados](../assets/sprites/gyarados/front_shiny.png "Gyarados") | ![Gyarados](../assets/sprites/gyarados/back.png "Gyarados") | ![Gyarados](../assets/sprites/gyarados/back_shiny.png "Gyarados") |
+| ![Gyarados](../assets/sprites/gyarados/front.gif "Gyarados: Once it begins to rampage, a GYARADOS will burn everything down, even in a harsh storm.") | ![Gyarados](../assets/sprites/gyarados/front_shiny.png "Gyarados: Once it begins to rampage, a GYARADOS will burn everything down, even in a harsh storm.") | ![Gyarados](../assets/sprites/gyarados/back.png "Gyarados: Once it begins to rampage, a GYARADOS will burn everything down, even in a harsh storm.") | ![Gyarados](../assets/sprites/gyarados/back_shiny.png "Gyarados: Once it begins to rampage, a GYARADOS will burn everything down, even in a harsh storm.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Gyarados](../assets/sprites/gyarados/front_female.gif "Gyarados") | ![Gyarados](../assets/sprites/gyarados/front_shiny_female.png "Gyarados") | ![Gyarados](../assets/sprites/gyarados/back_female.png "Gyarados") | ![Gyarados](../assets/sprites/gyarados/back_shiny_female.png "Gyarados") |
+| ![Gyarados](../assets/sprites/gyarados/front_female.gif "Gyarados: Once it begins to rampage, a GYARADOS will burn everything down, even in a harsh storm.") | ![Gyarados](../assets/sprites/gyarados/front_shiny_female.png "Gyarados: Once it begins to rampage, a GYARADOS will burn everything down, even in a harsh storm.") | ![Gyarados](../assets/sprites/gyarados/back_female.png "Gyarados: Once it begins to rampage, a GYARADOS will burn everything down, even in a harsh storm.") | ![Gyarados](../assets/sprites/gyarados/back_shiny_female.png "Gyarados: Once it begins to rampage, a GYARADOS will burn everything down, even in a harsh storm.") |
 
 ### Cries
 

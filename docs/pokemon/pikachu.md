@@ -14,13 +14,13 @@ It occasionally uses an electric shock to recharge a fellow PIKACHU that is in a
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Pikachu](../assets/sprites/pikachu/front.gif "Pikachu") | ![Pikachu](../assets/sprites/pikachu/front_shiny.png "Pikachu") | ![Pikachu](../assets/sprites/pikachu/back.png "Pikachu") | ![Pikachu](../assets/sprites/pikachu/back_shiny.png "Pikachu") |
+| ![Pikachu](../assets/sprites/pikachu/front.gif "Pikachu: It occasionally uses an electric shock to recharge a fellow PIKACHU that is in a weakened state.") | ![Pikachu](../assets/sprites/pikachu/front_shiny.png "Pikachu: It occasionally uses an electric shock to recharge a fellow PIKACHU that is in a weakened state.") | ![Pikachu](../assets/sprites/pikachu/back.png "Pikachu: It occasionally uses an electric shock to recharge a fellow PIKACHU that is in a weakened state.") | ![Pikachu](../assets/sprites/pikachu/back_shiny.png "Pikachu: It occasionally uses an electric shock to recharge a fellow PIKACHU that is in a weakened state.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Pikachu](../assets/sprites/pikachu/front_female.gif "Pikachu") | ![Pikachu](../assets/sprites/pikachu/front_shiny_female.png "Pikachu") | ![Pikachu](../assets/sprites/pikachu/back_female.png "Pikachu") | ![Pikachu](../assets/sprites/pikachu/back_shiny_female.png "Pikachu") |
+| ![Pikachu](../assets/sprites/pikachu/front_female.gif "Pikachu: It occasionally uses an electric shock to recharge a fellow PIKACHU that is in a weakened state.") | ![Pikachu](../assets/sprites/pikachu/front_shiny_female.png "Pikachu: It occasionally uses an electric shock to recharge a fellow PIKACHU that is in a weakened state.") | ![Pikachu](../assets/sprites/pikachu/back_female.png "Pikachu: It occasionally uses an electric shock to recharge a fellow PIKACHU that is in a weakened state.") | ![Pikachu](../assets/sprites/pikachu/back_shiny_female.png "Pikachu: It occasionally uses an electric shock to recharge a fellow PIKACHU that is in a weakened state.") |
 
 ### Cries
 

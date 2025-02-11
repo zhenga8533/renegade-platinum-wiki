@@ -14,13 +14,13 @@ It is said that when one runs at high speed, its wings create blades of wind tha
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Garchomp](../assets/sprites/garchomp/front.gif "Garchomp") | ![Garchomp](../assets/sprites/garchomp/front_shiny.png "Garchomp") | ![Garchomp](../assets/sprites/garchomp/back.png "Garchomp") | ![Garchomp](../assets/sprites/garchomp/back_shiny.png "Garchomp") |
+| ![Garchomp](../assets/sprites/garchomp/front.gif "Garchomp: It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.") | ![Garchomp](../assets/sprites/garchomp/front_shiny.png "Garchomp: It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.") | ![Garchomp](../assets/sprites/garchomp/back.png "Garchomp: It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.") | ![Garchomp](../assets/sprites/garchomp/back_shiny.png "Garchomp: It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Garchomp](../assets/sprites/garchomp/front_female.gif "Garchomp") | ![Garchomp](../assets/sprites/garchomp/front_shiny_female.png "Garchomp") | N/A | N/A |
+| ![Garchomp](../assets/sprites/garchomp/front_female.gif "Garchomp: It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.") | ![Garchomp](../assets/sprites/garchomp/front_shiny_female.png "Garchomp: It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.") | ? | ? |
 
 ### Cries
 

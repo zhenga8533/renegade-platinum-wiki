@@ -14,7 +14,13 @@ A Pokémon that was resurrected from a fossil using modern science. It swam in a
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Omanyte](../assets/sprites/omanyte/front.gif "Omanyte") | ![Omanyte](../assets/sprites/omanyte/front_shiny.png "Omanyte") | ![Omanyte](../assets/sprites/omanyte/back.png "Omanyte") | ![Omanyte](../assets/sprites/omanyte/back_shiny.png "Omanyte") |
+| ![Omanyte](../assets/sprites/omanyte/front.gif "Omanyte: A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.") | ![Omanyte](../assets/sprites/omanyte/front_shiny.png "Omanyte: A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.") | ![Omanyte](../assets/sprites/omanyte/back.png "Omanyte: A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.") | ![Omanyte](../assets/sprites/omanyte/back_shiny.png "Omanyte: A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

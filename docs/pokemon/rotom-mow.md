@@ -14,7 +14,13 @@ Its electric-like body can enter some kinds of machines and take control in orde
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Rotom Mow](../assets/sprites/rotom-mow/front.png "Rotom Mow") | ![Rotom Mow](../assets/sprites/rotom-mow/front_shiny.png "Rotom Mow") | ![Rotom Mow](../assets/sprites/rotom-mow/back.png "Rotom Mow") | ![Rotom Mow](../assets/sprites/rotom-mow/back_shiny.png "Rotom Mow") |
+| ![Rotom Mow](../assets/sprites/rotom-mow/front.png "Rotom Mow: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom Mow](../assets/sprites/rotom-mow/front_shiny.png "Rotom Mow: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom Mow](../assets/sprites/rotom-mow/back.png "Rotom Mow: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom Mow](../assets/sprites/rotom-mow/back_shiny.png "Rotom Mow: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

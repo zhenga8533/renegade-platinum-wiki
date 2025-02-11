@@ -14,13 +14,13 @@ It whittles its constantly growing fangs by gnawing on hard things. It can chew 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Raticate](../assets/sprites/raticate/front.gif "Raticate") | ![Raticate](../assets/sprites/raticate/front_shiny.png "Raticate") | ![Raticate](../assets/sprites/raticate/back.png "Raticate") | ![Raticate](../assets/sprites/raticate/back_shiny.png "Raticate") |
+| ![Raticate](../assets/sprites/raticate/front.gif "Raticate: It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.") | ![Raticate](../assets/sprites/raticate/front_shiny.png "Raticate: It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.") | ![Raticate](../assets/sprites/raticate/back.png "Raticate: It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.") | ![Raticate](../assets/sprites/raticate/back_shiny.png "Raticate: It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Raticate](../assets/sprites/raticate/front_female.gif "Raticate") | ![Raticate](../assets/sprites/raticate/front_shiny_female.png "Raticate") | ![Raticate](../assets/sprites/raticate/back_female.png "Raticate") | ![Raticate](../assets/sprites/raticate/back_shiny_female.png "Raticate") |
+| ![Raticate](../assets/sprites/raticate/front_female.gif "Raticate: It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.") | ![Raticate](../assets/sprites/raticate/front_shiny_female.png "Raticate: It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.") | ![Raticate](../assets/sprites/raticate/back_female.png "Raticate: It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.") | ![Raticate](../assets/sprites/raticate/back_shiny_female.png "Raticate: It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.") |
 
 ### Cries
 

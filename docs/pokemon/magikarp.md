@@ -14,13 +14,13 @@ A MAGIKARP living for many years can leap a mountain using Splash. The move rema
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Magikarp](../assets/sprites/magikarp/front.gif "Magikarp") | ![Magikarp](../assets/sprites/magikarp/front_shiny.png "Magikarp") | ![Magikarp](../assets/sprites/magikarp/back.png "Magikarp") | ![Magikarp](../assets/sprites/magikarp/back_shiny.png "Magikarp") |
+| ![Magikarp](../assets/sprites/magikarp/front.gif "Magikarp: A MAGIKARP living for many years can leap a mountain using Splash. The move remains useless, though.") | ![Magikarp](../assets/sprites/magikarp/front_shiny.png "Magikarp: A MAGIKARP living for many years can leap a mountain using Splash. The move remains useless, though.") | ![Magikarp](../assets/sprites/magikarp/back.png "Magikarp: A MAGIKARP living for many years can leap a mountain using Splash. The move remains useless, though.") | ![Magikarp](../assets/sprites/magikarp/back_shiny.png "Magikarp: A MAGIKARP living for many years can leap a mountain using Splash. The move remains useless, though.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Magikarp](../assets/sprites/magikarp/front_female.gif "Magikarp") | ![Magikarp](../assets/sprites/magikarp/front_shiny_female.png "Magikarp") | ![Magikarp](../assets/sprites/magikarp/back_female.png "Magikarp") | ![Magikarp](../assets/sprites/magikarp/back_shiny_female.png "Magikarp") |
+| ![Magikarp](../assets/sprites/magikarp/front_female.gif "Magikarp: A MAGIKARP living for many years can leap a mountain using Splash. The move remains useless, though.") | ![Magikarp](../assets/sprites/magikarp/front_shiny_female.png "Magikarp: A MAGIKARP living for many years can leap a mountain using Splash. The move remains useless, though.") | ![Magikarp](../assets/sprites/magikarp/back_female.png "Magikarp: A MAGIKARP living for many years can leap a mountain using Splash. The move remains useless, though.") | ![Magikarp](../assets/sprites/magikarp/back_shiny_female.png "Magikarp: A MAGIKARP living for many years can leap a mountain using Splash. The move remains useless, though.") |
 
 ### Cries
 

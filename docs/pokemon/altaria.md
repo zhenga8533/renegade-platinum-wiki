@@ -14,7 +14,13 @@ If it bonds with a person, it will gently envelop the friend with its soft wings
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Altaria](../assets/sprites/altaria/front.gif "Altaria") | ![Altaria](../assets/sprites/altaria/front_shiny.png "Altaria") | ![Altaria](../assets/sprites/altaria/back.png "Altaria") | ![Altaria](../assets/sprites/altaria/back_shiny.png "Altaria") |
+| ![Altaria](../assets/sprites/altaria/front.gif "Altaria: If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.") | ![Altaria](../assets/sprites/altaria/front_shiny.png "Altaria: If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.") | ![Altaria](../assets/sprites/altaria/back.png "Altaria: If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.") | ![Altaria](../assets/sprites/altaria/back_shiny.png "Altaria: If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

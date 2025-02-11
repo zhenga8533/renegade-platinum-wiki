@@ -14,7 +14,13 @@ Because it turns active on nights of the full moon, it is said to have some link
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Lunatone](../assets/sprites/lunatone/front.gif "Lunatone") | ![Lunatone](../assets/sprites/lunatone/front_shiny.png "Lunatone") | ![Lunatone](../assets/sprites/lunatone/back.png "Lunatone") | ![Lunatone](../assets/sprites/lunatone/back_shiny.png "Lunatone") |
+| ![Lunatone](../assets/sprites/lunatone/front.gif "Lunatone: Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.") | ![Lunatone](../assets/sprites/lunatone/front_shiny.png "Lunatone: Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.") | ![Lunatone](../assets/sprites/lunatone/back.png "Lunatone: Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.") | ![Lunatone](../assets/sprites/lunatone/back_shiny.png "Lunatone: Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

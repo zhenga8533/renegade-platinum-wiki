@@ -14,7 +14,13 @@ It can tell what people are dreaming by sniffing with its big nose. It loves fun
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Drowzee](../assets/sprites/drowzee/front.gif "Drowzee") | ![Drowzee](../assets/sprites/drowzee/front_shiny.png "Drowzee") | ![Drowzee](../assets/sprites/drowzee/back.png "Drowzee") | ![Drowzee](../assets/sprites/drowzee/back_shiny.png "Drowzee") |
+| ![Drowzee](../assets/sprites/drowzee/front.gif "Drowzee: It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.") | ![Drowzee](../assets/sprites/drowzee/front_shiny.png "Drowzee: It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.") | ![Drowzee](../assets/sprites/drowzee/back.png "Drowzee: It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.") | ![Drowzee](../assets/sprites/drowzee/back_shiny.png "Drowzee: It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It is thought that this Pokémon became extinct because its spiral shell grew to
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Omastar](../assets/sprites/omastar/front.gif "Omastar") | ![Omastar](../assets/sprites/omastar/front_shiny.png "Omastar") | ![Omastar](../assets/sprites/omastar/back.png "Omastar") | ![Omastar](../assets/sprites/omastar/back_shiny.png "Omastar") |
+| ![Omastar](../assets/sprites/omastar/front.gif "Omastar: It is thought that this Pokémon became extinct because its spiral shell grew too large.") | ![Omastar](../assets/sprites/omastar/front_shiny.png "Omastar: It is thought that this Pokémon became extinct because its spiral shell grew too large.") | ![Omastar](../assets/sprites/omastar/back.png "Omastar: It is thought that this Pokémon became extinct because its spiral shell grew too large.") | ![Omastar](../assets/sprites/omastar/back_shiny.png "Omastar: It is thought that this Pokémon became extinct because its spiral shell grew too large.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ When it wavers its big, round eyes, it begins singing a lullaby that makes every
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Jigglypuff](../assets/sprites/jigglypuff/front.gif "Jigglypuff") | ![Jigglypuff](../assets/sprites/jigglypuff/front_shiny.png "Jigglypuff") | ![Jigglypuff](../assets/sprites/jigglypuff/back.png "Jigglypuff") | ![Jigglypuff](../assets/sprites/jigglypuff/back_shiny.png "Jigglypuff") |
+| ![Jigglypuff](../assets/sprites/jigglypuff/front.gif "Jigglypuff: When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.") | ![Jigglypuff](../assets/sprites/jigglypuff/front_shiny.png "Jigglypuff: When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.") | ![Jigglypuff](../assets/sprites/jigglypuff/back.png "Jigglypuff: When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.") | ![Jigglypuff](../assets/sprites/jigglypuff/back_shiny.png "Jigglypuff: When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

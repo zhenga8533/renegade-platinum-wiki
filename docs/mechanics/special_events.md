@@ -24,9 +24,9 @@ Level: 1
 
 **[#1 Bulbasaur](../pokemon/bulbasaur.md), [#4 Charmander](../pokemon/charmander.md), [#7 Squirtle](../pokemon/squirtle.md)**
 
-![bulbasaur](../assets/sprites/bulbasaur/front.gif "bulbasaur")
-![charmander](../assets/sprites/charmander/front.gif "charmander")
-![squirtle](../assets/sprites/squirtle/front.gif "squirtle")
+![bulbasaur](../assets/sprites/bulbasaur/front.gif "bulbasaur: For some time after its birth, it grows by gaining nourishment from the seed on its back.")
+![charmander](../assets/sprites/charmander/front.gif "charmander: The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.")
+![squirtle](../assets/sprites/squirtle/front.gif "squirtle: It shelters itself in its shell, then strikes back with spouts of water at every opportunity.")
 
 ```
 Location: Jubilife City Pokémon Center
@@ -42,7 +42,7 @@ Level: 5
 
 **[#131 Lapras](../pokemon/lapras.md)**
 
-![lapras](../assets/sprites/lapras/front.gif "lapras")
+![lapras](../assets/sprites/lapras/front.gif "lapras: It loves crossing the sea with people and Pokémon on its back. It understands human speech.")
 
 ```
 Location: Pastoria City
@@ -54,7 +54,7 @@ Level: 35
 
 **[#133 Eevee](../pokemon/eevee.md)**
 
-![eevee](../assets/sprites/eevee/front.gif "eevee")
+![eevee](../assets/sprites/eevee/front.gif "eevee: Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.")
 
 ```
 Location: Twinleaf Town
@@ -67,7 +67,7 @@ Level: 5
 
 **[#137 Porygon](../pokemon/porygon.md)**
 
-![porygon](../assets/sprites/porygon/front.gif "porygon")
+![porygon](../assets/sprites/porygon/front.gif "porygon: A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.")
 
 ```
 Location: Eterna Galactic Building
@@ -79,13 +79,13 @@ Level: 22
 
 **[#138 Omanyte](../pokemon/omanyte.md), [#140 Kabuto](../pokemon/kabuto.md), [#142 Aerodactyl](../pokemon/aerodactyl.md), [#345 Lileep](../pokemon/lileep.md), [#347 Anorith](../pokemon/anorith.md), [#408 Cranidos](../pokemon/cranidos.md), [#410 Shieldon](../pokemon/shieldon.md)**
 
-![omanyte](../assets/sprites/omanyte/front.gif "omanyte")
-![kabuto](../assets/sprites/kabuto/front.gif "kabuto")
-![aerodactyl](../assets/sprites/aerodactyl/front.gif "aerodactyl")
-![lileep](../assets/sprites/lileep/front.gif "lileep")
-![anorith](../assets/sprites/anorith/front.gif "anorith")
-![cranidos](../assets/sprites/cranidos/front.gif "cranidos")
-![shieldon](../assets/sprites/shieldon/front.gif "shieldon")
+![omanyte](../assets/sprites/omanyte/front.gif "omanyte: A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.")
+![kabuto](../assets/sprites/kabuto/front.gif "kabuto: It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.")
+![aerodactyl](../assets/sprites/aerodactyl/front.gif "aerodactyl: A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.")
+![lileep](../assets/sprites/lileep/front.gif "lileep: It lived on the seafloor 100 million years ago and was reanimated scientifically.")
+![anorith](../assets/sprites/anorith/front.gif "anorith: A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.")
+![cranidos](../assets/sprites/cranidos/front.gif "cranidos: A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts.")
+![shieldon](../assets/sprites/shieldon/front.gif "shieldon: It is outstandingly armored. As a result, it can eat grass and berries without having to fight.")
 
 ```
 Location: Eterna City
@@ -98,9 +98,9 @@ Level: 20
 
 **[#152 Chikorita](../pokemon/chikorita.md), [#155 Cyndaquil](../pokemon/cyndaquil.md), [#158 Totodile](../pokemon/totodile.md)**
 
-![chikorita](../assets/sprites/chikorita/front.gif "chikorita")
-![cyndaquil](../assets/sprites/cyndaquil/front.gif "cyndaquil")
-![totodile](../assets/sprites/totodile/front.gif "totodile")
+![chikorita](../assets/sprites/chikorita/front.gif "chikorita: It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.")
+![cyndaquil](../assets/sprites/cyndaquil/front.gif "cyndaquil: It has a timid nature. If it is startled, the flames on its back burn more vigorously.")
+![totodile](../assets/sprites/totodile/front.gif "totodile: It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.")
 
 ```
 Location: Floaroma Town Pokémon Center
@@ -116,9 +116,9 @@ Level: 15
 
 **[#252 Treecko](../pokemon/treecko.md), [#255 Torchic](../pokemon/torchic.md), [#258 Mudkip](../pokemon/mudkip.md)**
 
-![treecko](../assets/sprites/treecko/front.gif "treecko")
-![torchic](../assets/sprites/torchic/front.gif "torchic")
-![mudkip](../assets/sprites/mudkip/front.gif "mudkip")
+![treecko](../assets/sprites/treecko/front.gif "treecko: The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.")
+![torchic](../assets/sprites/torchic/front.gif "torchic: A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.")
+![mudkip](../assets/sprites/mudkip/front.gif "mudkip: To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.")
 
 ```
 Location: Oreburgh City Pokémon Center
@@ -134,7 +134,7 @@ Level: 10
 
 **[#374 Beldum](../pokemon/beldum.md)**
 
-![beldum](../assets/sprites/beldum/front.gif "beldum")
+![beldum](../assets/sprites/beldum/front.gif "beldum: It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.")
 
 ```
 Location: Oreburgh City
@@ -146,9 +146,9 @@ Level: 10
 
 **[#387 Turtwig](../pokemon/turtwig.md), [#390 Chimchar](../pokemon/chimchar.md), [#393 Piplup](../pokemon/piplup.md)**
 
-![turtwig](../assets/sprites/turtwig/front.gif "turtwig")
-![chimchar](../assets/sprites/chimchar/front.gif "chimchar")
-![piplup](../assets/sprites/piplup/front.gif "piplup")
+![turtwig](../assets/sprites/turtwig/front.gif "turtwig: The shell on its back is made of soil. On a very healthy TURTWIG, the shell should feel moist.")
+![chimchar](../assets/sprites/chimchar/front.gif "chimchar: It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.")
+![piplup](../assets/sprites/piplup/front.gif "piplup: A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.")
 
 ```
 Location: Sandgem Town
@@ -167,7 +167,7 @@ Level: 5
 
 **[#94 Gengar](../pokemon/gengar.md)**
 
-![gengar](../assets/sprites/gengar/front.gif "gengar")
+![gengar](../assets/sprites/gengar/front.gif "gengar: The leer that floats in darkness belongs to a GENGAR delighting in casting curses on people.")
 
 ```
 Location: Old Chateau
@@ -180,7 +180,7 @@ Level: 20
 
 **[#442 Spiritomb](../pokemon/spiritomb.md)**
 
-![spiritomb](../assets/sprites/spiritomb/front.gif "spiritomb")
+![spiritomb](../assets/sprites/spiritomb/front.gif "spiritomb: Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.")
 
 ```
 Location: Route 209
@@ -192,7 +192,7 @@ Level: 30
 
 **[#444 Gabite](../pokemon/gabite.md)**
 
-![gabite](../assets/sprites/gabite/front.gif "gabite")
+![gabite](../assets/sprites/gabite/front.gif "gabite: It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.")
 
 ```
 Location: Wayward Cave
@@ -205,7 +205,7 @@ Level: 25
 
 **[#479 Rotom](../pokemon/rotom.md)**
 
-![rotom](../assets/sprites/rotom/front.gif "rotom")
+![rotom](../assets/sprites/rotom/front.gif "rotom: Its electric-like body can enter some kinds of machines and take control in order to make mischief.")
 
 ```
 Location: Old Chateau
@@ -222,7 +222,7 @@ Level: 20
 
 **[#144 Articuno](../pokemon/articuno.md)**
 
-![articuno](../assets/sprites/articuno/front.gif "articuno")
+![articuno](../assets/sprites/articuno/front.gif "articuno: A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.")
 
 ```
 Location: Mt. Coronet (Summit)
@@ -237,7 +237,7 @@ Level: 60
 
 **[#145 Zapdos](../pokemon/zapdos.md)**
 
-![zapdos](../assets/sprites/zapdos/front.gif "zapdos")
+![zapdos](../assets/sprites/zapdos/front.gif "zapdos: A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.")
 
 ```
 Location: Valley Windworks
@@ -252,7 +252,7 @@ Level: 60
 
 **[#146 Moltres](../pokemon/moltres.md)**
 
-![moltres](../assets/sprites/moltres/front.gif "moltres")
+![moltres](../assets/sprites/moltres/front.gif "moltres: One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.")
 
 ```
 Location: Victory Road
@@ -267,7 +267,7 @@ Level: 60
 
 **[#150 Mewtwo](../pokemon/mewtwo.md)**
 
-![mewtwo](../assets/sprites/mewtwo/front.gif "mewtwo")
+![mewtwo](../assets/sprites/mewtwo/front.gif "mewtwo: A Pokémon created by recombining MEW’s genes. It’s said to have the most savage heart among Pokémon.")
 
 ```
 Location: Oreburgh Gate
@@ -283,7 +283,7 @@ Level: 70
 
 **[#151 Mew](../pokemon/mew.md)**
 
-![mew](../assets/sprites/mew/front.gif "mew")
+![mew](../assets/sprites/mew/front.gif "mew: Because it can use all kinds of moves, many scientists believe MEW to be the ancestor of Pokémon.")
 
 ```
 Location: Route 201
@@ -303,7 +303,7 @@ Level: 40
 
 **[#243 Raikou](../pokemon/raikou.md)**
 
-![raikou](../assets/sprites/raikou/front.gif "raikou")
+![raikou](../assets/sprites/raikou/front.gif "raikou: It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.")
 
 ```
 Location: Route 208
@@ -318,7 +318,7 @@ Level: 60
 
 **[#244 Entei](../pokemon/entei.md)**
 
-![entei](../assets/sprites/entei/front.gif "entei")
+![entei](../assets/sprites/entei/front.gif "entei: It is said that when it roars, a volcano erupts somewhere around the globe.")
 
 ```
 Location: Route 211 (East)
@@ -333,7 +333,7 @@ Level: 60
 
 **[#245 Suicune](../pokemon/suicune.md)**
 
-![suicune](../assets/sprites/suicune/front.gif "suicune")
+![suicune](../assets/sprites/suicune/front.gif "suicune: It races around the world to purify fouled water. It dashes away with the north wind.")
 
 ```
 Location: Route 213
@@ -348,7 +348,7 @@ Level: 60
 
 **[#249 Lugia](../pokemon/lugia.md)**
 
-![lugia](../assets/sprites/lugia/front.gif "lugia")
+![lugia](../assets/sprites/lugia/front.gif "lugia: It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.")
 
 ```
 Location: Route 220
@@ -365,7 +365,7 @@ Level: 70
 
 **[#250 Ho-oh](../pokemon/ho-oh.md)**
 
-![ho-oh](../assets/sprites/ho-oh/front.gif "ho-oh")
+![ho-oh](../assets/sprites/ho-oh/front.gif "ho-oh: Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness.")
 
 ```
 Location: Lost Tower
@@ -383,7 +383,7 @@ Level: 70
 
 **[#251 Celebi](../pokemon/celebi.md)**
 
-![celebi](../assets/sprites/celebi/front.gif "celebi")
+![celebi](../assets/sprites/celebi/front.gif "celebi: It has the power to travel across time, but it is said to appear only in peaceful times.")
 
 ```
 Location: Eterna Forest
@@ -401,7 +401,7 @@ Level: 40
 
 **[#377 Regirock](../pokemon/regirock.md)**
 
-![regirock](../assets/sprites/regirock/front.gif "regirock")
+![regirock](../assets/sprites/regirock/front.gif "regirock: Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.")
 
 ```
 Location: Route 228
@@ -416,7 +416,7 @@ Level: 60
 
 **[#378 Regice](../pokemon/regice.md)**
 
-![regice](../assets/sprites/regice/front.gif "regice")
+![regice](../assets/sprites/regice/front.gif "regice: Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.")
 
 ```
 Location: Mt. Coronet (Route 216 Entrance)
@@ -431,7 +431,7 @@ Level: 60
 
 **[#379 Registeel](../pokemon/registeel.md)**
 
-![registeel](../assets/sprites/registeel/front.gif "registeel")
+![registeel](../assets/sprites/registeel/front.gif "registeel: Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.")
 
 ```
 Location: Iron Island (B3F)
@@ -446,7 +446,7 @@ Level: 60
 
 **[#380 Latias](../pokemon/latias.md)**
 
-![latias](../assets/sprites/latias/front.gif "latias")
+![latias](../assets/sprites/latias/front.gif "latias: Its body is covered with a down that can refract light in such a way that it becomes invisible.")
 
 ```
 Location: Fullmoon Island
@@ -461,7 +461,7 @@ Level: 68
 
 **[#381 Latios](../pokemon/latios.md)**
 
-![latios](../assets/sprites/latios/front.gif "latios")
+![latios](../assets/sprites/latios/front.gif "latios: A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.")
 
 ```
 Location: Fullmoon Island
@@ -476,7 +476,7 @@ Level: 68
 
 **[#382 Kyogre](../pokemon/kyogre.md)**
 
-![kyogre](../assets/sprites/kyogre/front.gif "kyogre")
+![kyogre](../assets/sprites/kyogre/front.gif "kyogre: It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.")
 
 ```
 Location: Mt. Coronet (B1F)
@@ -493,7 +493,7 @@ Level: 70
 
 **[#383 Groudon](../pokemon/groudon.md)**
 
-![groudon](../assets/sprites/groudon/front.gif "groudon")
+![groudon](../assets/sprites/groudon/front.gif "groudon: It had been asleep in underground magma ever since it fiercely fought KYOGRE long ago.")
 
 ```
 Location: Stark Mountain (Interior)
@@ -510,7 +510,7 @@ Level: 70
 
 **[#384 Rayquaza](../pokemon/rayquaza.md)**
 
-![rayquaza](../assets/sprites/rayquaza/front.gif "rayquaza")
+![rayquaza](../assets/sprites/rayquaza/front.gif "rayquaza: It lives in the ozone layer far above the clouds and cannot be seen from the ground.")
 
 ```
 Location: Pokémon League
@@ -527,7 +527,7 @@ Level: 70
 
 **[#385 Jirachi](../pokemon/jirachi.md)**
 
-![jirachi](../assets/sprites/jirachi/front.gif "jirachi")
+![jirachi](../assets/sprites/jirachi/front.gif "jirachi: It is said to have the ability to grant any wish for just one week every thousand years.")
 
 ```
 Location: Solaceon Ruins
@@ -543,7 +543,7 @@ Level: 40
 
 **[#386 Deoxys](../pokemon/deoxys-normal.md)**
 
-![deoxys-normal](../assets/sprites/deoxys-normal/front.gif "deoxys-normal")
+![deoxys-normal](../assets/sprites/deoxys-normal/front.gif "deoxys-normal: An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.")
 
 ```
 Location: Veilstone City
@@ -558,7 +558,7 @@ Level: 70
 
 **[#480 Uxie](../pokemon/uxie.md)**
 
-![uxie](../assets/sprites/uxie/front.gif "uxie")
+![uxie](../assets/sprites/uxie/front.gif "uxie: When UXIE flew, people gained the ability to solve problems. It was the birth of knowledge.")
 
 ```
 Location: Acuity Cavern
@@ -573,7 +573,7 @@ Level: 60
 
 **[#481 Mesprit](../pokemon/mesprit.md)**
 
-![mesprit](../assets/sprites/mesprit/front.gif "mesprit")
+![mesprit](../assets/sprites/mesprit/front.gif "mesprit: When MESPRIT flew, people learned the joy and sadness of living. It was the birth of emotions.")
 
 ```
 Location: Verity Cavern
@@ -588,7 +588,7 @@ Level: 60
 
 **[#482 Azelf](../pokemon/azelf.md)**
 
-![azelf](../assets/sprites/azelf/front.gif "azelf")
+![azelf](../assets/sprites/azelf/front.gif "azelf: When AZELF flew, people gained the determination to do things. It was the birth of willpower.")
 
 ```
 Location: Valor Cavern
@@ -603,7 +603,7 @@ Level: 60
 
 **[#483 Dialga](../pokemon/dialga.md)**
 
-![dialga](../assets/sprites/dialga/front.gif "dialga")
+![dialga](../assets/sprites/dialga/front.gif "dialga: A legendary Pokémon of Sinnoh. It is said that time flows when DIALGA’s heart beats.")
 
 ```
 Location: Spear Pillar
@@ -618,7 +618,7 @@ Level: 70
 
 **[#484 Palkia](../pokemon/palkia.md)**
 
-![palkia](../assets/sprites/palkia/front.gif "palkia")
+![palkia](../assets/sprites/palkia/front.gif "palkia: A legendary Pokémon of Sinnoh. It is said that space becomes more stable with PALKIA’s every breath.")
 
 ```
 Location: Spear Pillar
@@ -634,7 +634,7 @@ Level: 70
 
 **[#485 Heatran](../pokemon/heatran.md)**
 
-![heatran](../assets/sprites/heatran/front.gif "heatran")
+![heatran](../assets/sprites/heatran/front.gif "heatran: Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.")
 
 ```
 Location: Stark Mountain (Furthest Room - Interior)
@@ -650,7 +650,7 @@ Level: 68
 
 **[#486 Regigigas](../pokemon/regigigas.md)**
 
-![regigigas](../assets/sprites/regigigas/front.gif "regigigas")
+![regigigas](../assets/sprites/regigigas/front.gif "regigigas: It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.")
 
 ```
 Location: Snowpoint Temple (B6F)
@@ -665,7 +665,7 @@ Level: 70
 
 **[#487 Giratina](../pokemon/giratina-altered.md)**
 
-![giratina-altered](../assets/sprites/giratina-altered/front.gif "giratina-altered")
+![giratina-altered](../assets/sprites/giratina-altered/front.gif "giratina-altered: It was banished for its violence. It silently gazed upon the old world from the Distortion World.")
 
 ```
 Location: Distortion World / Turnback Cave
@@ -678,7 +678,7 @@ Level: 70
 
 **[#488 Cresselia](../pokemon/cresselia.md)**
 
-![cresselia](../assets/sprites/cresselia/front.gif "cresselia")
+![cresselia](../assets/sprites/cresselia/front.gif "cresselia: On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.")
 
 ```
 Location: Fullmoon Island
@@ -692,7 +692,7 @@ Level: 68
 
 **[#489 Phione](../pokemon/phione.md)**
 
-![phione](../assets/sprites/phione/front.gif "phione")
+![phione](../assets/sprites/phione/front.gif "phione: It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.")
 
 ```
 Location: N/A
@@ -704,7 +704,7 @@ Level: N/A
 
 **[#490 Manaphy](../pokemon/manaphy.md)**
 
-![manaphy](../assets/sprites/manaphy/front.gif "manaphy")
+![manaphy](../assets/sprites/manaphy/front.gif "manaphy: It is born with a wondrous power that lets it bond with any kind of Pokémon.")
 
 ```
 Location: Pokémon Mansion
@@ -716,7 +716,7 @@ Level: N/A
 
 **[#491 Darkrai](../pokemon/darkrai.md)**
 
-![darkrai](../assets/sprites/darkrai/front.gif "darkrai")
+![darkrai](../assets/sprites/darkrai/front.gif "darkrai: To protect itself, it afflicts those around it with nightmares. However, it means no harm.")
 
 ```
 Location: Newmoon Island
@@ -732,7 +732,7 @@ Level: 68
 
 **[#492 Shaymin](../pokemon/shaymin-land.md)**
 
-![shaymin-land](../assets/sprites/shaymin-land/front.gif "shaymin-land")
+![shaymin-land](../assets/sprites/shaymin-land/front.gif "shaymin-land: The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.")
 
 ```
 Location: Flower Paradise
@@ -750,7 +750,7 @@ Level: 30
 
 **[#493 Arceus](../pokemon/arceus.md)**
 
-![arceus](../assets/sprites/arceus/front.gif "arceus")
+![arceus](../assets/sprites/arceus/front.gif "arceus: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.")
 
 ```
 Location: Hall of Origin

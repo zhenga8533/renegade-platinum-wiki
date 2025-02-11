@@ -14,7 +14,13 @@ Some Pokémon are born on a TORTERRA’s back and spend their entire life there.
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Torterra](../assets/sprites/torterra/front.gif "Torterra") | ![Torterra](../assets/sprites/torterra/front_shiny.png "Torterra") | ![Torterra](../assets/sprites/torterra/back.png "Torterra") | ![Torterra](../assets/sprites/torterra/back_shiny.png "Torterra") |
+| ![Torterra](../assets/sprites/torterra/front.gif "Torterra: Some Pokémon are born on a TORTERRA’s back and spend their entire life there.") | ![Torterra](../assets/sprites/torterra/front_shiny.png "Torterra: Some Pokémon are born on a TORTERRA’s back and spend their entire life there.") | ![Torterra](../assets/sprites/torterra/back.png "Torterra: Some Pokémon are born on a TORTERRA’s back and spend their entire life there.") | ![Torterra](../assets/sprites/torterra/back_shiny.png "Torterra: Some Pokémon are born on a TORTERRA’s back and spend their entire life there.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

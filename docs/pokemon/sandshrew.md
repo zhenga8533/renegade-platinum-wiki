@@ -14,7 +14,13 @@ To protect itself from attackers, it curls up into a ball. It lives in arid regi
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Sandshrew](../assets/sprites/sandshrew/front.gif "Sandshrew") | ![Sandshrew](../assets/sprites/sandshrew/front_shiny.png "Sandshrew") | ![Sandshrew](../assets/sprites/sandshrew/back.png "Sandshrew") | ![Sandshrew](../assets/sprites/sandshrew/back_shiny.png "Sandshrew") |
+| ![Sandshrew](../assets/sprites/sandshrew/front.gif "Sandshrew: To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.") | ![Sandshrew](../assets/sprites/sandshrew/front_shiny.png "Sandshrew: To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.") | ![Sandshrew](../assets/sprites/sandshrew/back.png "Sandshrew: To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.") | ![Sandshrew](../assets/sprites/sandshrew/back_shiny.png "Sandshrew: To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

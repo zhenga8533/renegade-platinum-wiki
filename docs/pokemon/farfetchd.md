@@ -14,7 +14,13 @@ It can’t live without the stalk it holds. That’s why it defends the stalk fr
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Farfetchd](../assets/sprites/farfetchd/front.gif "Farfetchd") | ![Farfetchd](../assets/sprites/farfetchd/front_shiny.png "Farfetchd") | ![Farfetchd](../assets/sprites/farfetchd/back.png "Farfetchd") | ![Farfetchd](../assets/sprites/farfetchd/back_shiny.png "Farfetchd") |
+| ![Farfetchd](../assets/sprites/farfetchd/front.gif "Farfetchd: It can’t live without the stalk it holds. That’s why it defends the stalk from attackers with its life.") | ![Farfetchd](../assets/sprites/farfetchd/front_shiny.png "Farfetchd: It can’t live without the stalk it holds. That’s why it defends the stalk from attackers with its life.") | ![Farfetchd](../assets/sprites/farfetchd/back.png "Farfetchd: It can’t live without the stalk it holds. That’s why it defends the stalk from attackers with its life.") | ![Farfetchd](../assets/sprites/farfetchd/back_shiny.png "Farfetchd: It can’t live without the stalk it holds. That’s why it defends the stalk from attackers with its life.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

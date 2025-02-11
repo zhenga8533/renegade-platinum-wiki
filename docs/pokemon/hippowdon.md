@@ -14,13 +14,13 @@ It is surprisingly quick to anger. It holds its mouth agape as a display of its 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Hippowdon](../assets/sprites/hippowdon/front.gif "Hippowdon") | ![Hippowdon](../assets/sprites/hippowdon/front_shiny.png "Hippowdon") | ![Hippowdon](../assets/sprites/hippowdon/back.png "Hippowdon") | ![Hippowdon](../assets/sprites/hippowdon/back_shiny.png "Hippowdon") |
+| ![Hippowdon](../assets/sprites/hippowdon/front.gif "Hippowdon: It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.") | ![Hippowdon](../assets/sprites/hippowdon/front_shiny.png "Hippowdon: It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.") | ![Hippowdon](../assets/sprites/hippowdon/back.png "Hippowdon: It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.") | ![Hippowdon](../assets/sprites/hippowdon/back_shiny.png "Hippowdon: It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Hippowdon](../assets/sprites/hippowdon/front_female.gif "Hippowdon") | ![Hippowdon](../assets/sprites/hippowdon/front_shiny_female.png "Hippowdon") | ![Hippowdon](../assets/sprites/hippowdon/back_female.png "Hippowdon") | ![Hippowdon](../assets/sprites/hippowdon/back_shiny_female.png "Hippowdon") |
+| ![Hippowdon](../assets/sprites/hippowdon/front_female.gif "Hippowdon: It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.") | ![Hippowdon](../assets/sprites/hippowdon/front_shiny_female.png "Hippowdon: It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.") | ![Hippowdon](../assets/sprites/hippowdon/back_female.png "Hippowdon: It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.") | ![Hippowdon](../assets/sprites/hippowdon/back_shiny_female.png "Hippowdon: It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.") |
 
 ### Cries
 

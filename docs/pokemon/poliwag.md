@@ -14,7 +14,13 @@ Its skin is so thin, its internal organs are visible. It has trouble walking on 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Poliwag](../assets/sprites/poliwag/front.gif "Poliwag") | ![Poliwag](../assets/sprites/poliwag/front_shiny.png "Poliwag") | ![Poliwag](../assets/sprites/poliwag/back.png "Poliwag") | ![Poliwag](../assets/sprites/poliwag/back_shiny.png "Poliwag") |
+| ![Poliwag](../assets/sprites/poliwag/front.gif "Poliwag: Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.") | ![Poliwag](../assets/sprites/poliwag/front_shiny.png "Poliwag: Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.") | ![Poliwag](../assets/sprites/poliwag/back.png "Poliwag: Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.") | ![Poliwag](../assets/sprites/poliwag/back_shiny.png "Poliwag: Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

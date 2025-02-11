@@ -14,7 +14,13 @@ It wraps silk around the branches of a tree. It drinks rainwater on its silk whi
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Silcoon](../assets/sprites/silcoon/front.gif "Silcoon") | ![Silcoon](../assets/sprites/silcoon/front_shiny.png "Silcoon") | ![Silcoon](../assets/sprites/silcoon/back.png "Silcoon") | ![Silcoon](../assets/sprites/silcoon/back_shiny.png "Silcoon") |
+| ![Silcoon](../assets/sprites/silcoon/front.gif "Silcoon: It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.") | ![Silcoon](../assets/sprites/silcoon/front_shiny.png "Silcoon: It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.") | ![Silcoon](../assets/sprites/silcoon/back.png "Silcoon: It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.") | ![Silcoon](../assets/sprites/silcoon/back_shiny.png "Silcoon: It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

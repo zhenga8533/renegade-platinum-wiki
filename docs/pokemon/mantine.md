@@ -14,7 +14,13 @@ While elegantly swimming in the sea, it ignores REMORAID that cling to its fins 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Mantine](../assets/sprites/mantine/front.gif "Mantine") | ![Mantine](../assets/sprites/mantine/front_shiny.png "Mantine") | ![Mantine](../assets/sprites/mantine/back.png "Mantine") | ![Mantine](../assets/sprites/mantine/back_shiny.png "Mantine") |
+| ![Mantine](../assets/sprites/mantine/front.gif "Mantine: While elegantly swimming in the sea, it ignores REMORAID that cling to its fins seeking food scraps.") | ![Mantine](../assets/sprites/mantine/front_shiny.png "Mantine: While elegantly swimming in the sea, it ignores REMORAID that cling to its fins seeking food scraps.") | ![Mantine](../assets/sprites/mantine/back.png "Mantine: While elegantly swimming in the sea, it ignores REMORAID that cling to its fins seeking food scraps.") | ![Mantine](../assets/sprites/mantine/back_shiny.png "Mantine: While elegantly swimming in the sea, it ignores REMORAID that cling to its fins seeking food scraps.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

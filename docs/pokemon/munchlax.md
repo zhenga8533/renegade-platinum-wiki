@@ -14,7 +14,13 @@ In its desperation to gulp down food, it forgets about the food it has hidden un
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Munchlax](../assets/sprites/munchlax/front.gif "Munchlax") | ![Munchlax](../assets/sprites/munchlax/front_shiny.png "Munchlax") | ![Munchlax](../assets/sprites/munchlax/back.png "Munchlax") | ![Munchlax](../assets/sprites/munchlax/back_shiny.png "Munchlax") |
+| ![Munchlax](../assets/sprites/munchlax/front.gif "Munchlax: In its desperation to gulp down food, it forgets about the food it has hidden under its fur.") | ![Munchlax](../assets/sprites/munchlax/front_shiny.png "Munchlax: In its desperation to gulp down food, it forgets about the food it has hidden under its fur.") | ![Munchlax](../assets/sprites/munchlax/back.png "Munchlax: In its desperation to gulp down food, it forgets about the food it has hidden under its fur.") | ![Munchlax](../assets/sprites/munchlax/back_shiny.png "Munchlax: In its desperation to gulp down food, it forgets about the food it has hidden under its fur.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

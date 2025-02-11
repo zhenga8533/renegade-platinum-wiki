@@ -14,7 +14,13 @@ It shoots the poison spines on its body in all directions. Its round form makes 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Qwilfish](../assets/sprites/qwilfish/front.gif "Qwilfish") | ![Qwilfish](../assets/sprites/qwilfish/front_shiny.png "Qwilfish") | ![Qwilfish](../assets/sprites/qwilfish/back.png "Qwilfish") | ![Qwilfish](../assets/sprites/qwilfish/back_shiny.png "Qwilfish") |
+| ![Qwilfish](../assets/sprites/qwilfish/front.gif "Qwilfish: It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.") | ![Qwilfish](../assets/sprites/qwilfish/front_shiny.png "Qwilfish: It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.") | ![Qwilfish](../assets/sprites/qwilfish/back.png "Qwilfish: It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.") | ![Qwilfish](../assets/sprites/qwilfish/back_shiny.png "Qwilfish: It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

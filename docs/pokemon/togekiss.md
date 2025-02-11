@@ -14,7 +14,13 @@ It shares many blessings with people who respect one another’s rights and avoi
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Togekiss](../assets/sprites/togekiss/front.gif "Togekiss") | ![Togekiss](../assets/sprites/togekiss/front_shiny.png "Togekiss") | ![Togekiss](../assets/sprites/togekiss/back.png "Togekiss") | ![Togekiss](../assets/sprites/togekiss/back_shiny.png "Togekiss") |
+| ![Togekiss](../assets/sprites/togekiss/front.gif "Togekiss: It shares many blessings with people who respect one another’s rights and avoid needless strife.") | ![Togekiss](../assets/sprites/togekiss/front_shiny.png "Togekiss: It shares many blessings with people who respect one another’s rights and avoid needless strife.") | ![Togekiss](../assets/sprites/togekiss/back.png "Togekiss: It shares many blessings with people who respect one another’s rights and avoid needless strife.") | ![Togekiss](../assets/sprites/togekiss/back_shiny.png "Togekiss: It shares many blessings with people who respect one another’s rights and avoid needless strife.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

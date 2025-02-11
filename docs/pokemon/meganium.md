@@ -14,13 +14,13 @@ Its breath has the fantastic ability to revive dead plants and flowers.
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Meganium](../assets/sprites/meganium/front.gif "Meganium") | ![Meganium](../assets/sprites/meganium/front_shiny.png "Meganium") | ![Meganium](../assets/sprites/meganium/back.png "Meganium") | ![Meganium](../assets/sprites/meganium/back_shiny.png "Meganium") |
+| ![Meganium](../assets/sprites/meganium/front.gif "Meganium: Its breath has the fantastic ability to revive dead plants and flowers.") | ![Meganium](../assets/sprites/meganium/front_shiny.png "Meganium: Its breath has the fantastic ability to revive dead plants and flowers.") | ![Meganium](../assets/sprites/meganium/back.png "Meganium: Its breath has the fantastic ability to revive dead plants and flowers.") | ![Meganium](../assets/sprites/meganium/back_shiny.png "Meganium: Its breath has the fantastic ability to revive dead plants and flowers.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Meganium](../assets/sprites/meganium/front_female.gif "Meganium") | ![Meganium](../assets/sprites/meganium/front_shiny_female.png "Meganium") | ![Meganium](../assets/sprites/meganium/back_female.png "Meganium") | ![Meganium](../assets/sprites/meganium/back_shiny_female.png "Meganium") |
+| ![Meganium](../assets/sprites/meganium/front_female.gif "Meganium: Its breath has the fantastic ability to revive dead plants and flowers.") | ![Meganium](../assets/sprites/meganium/front_shiny_female.png "Meganium: Its breath has the fantastic ability to revive dead plants and flowers.") | ![Meganium](../assets/sprites/meganium/back_female.png "Meganium: Its breath has the fantastic ability to revive dead plants and flowers.") | ![Meganium](../assets/sprites/meganium/back_shiny_female.png "Meganium: Its breath has the fantastic ability to revive dead plants and flowers.") |
 
 ### Cries
 

@@ -14,13 +14,13 @@ After a rainy day, the flower on its back smells stronger. The scent attracts ot
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Venusaur](../assets/sprites/venusaur/front.gif "Venusaur") | ![Venusaur](../assets/sprites/venusaur/front_shiny.png "Venusaur") | ![Venusaur](../assets/sprites/venusaur/back.png "Venusaur") | ![Venusaur](../assets/sprites/venusaur/back_shiny.png "Venusaur") |
+| ![Venusaur](../assets/sprites/venusaur/front.gif "Venusaur: After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.") | ![Venusaur](../assets/sprites/venusaur/front_shiny.png "Venusaur: After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.") | ![Venusaur](../assets/sprites/venusaur/back.png "Venusaur: After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.") | ![Venusaur](../assets/sprites/venusaur/back_shiny.png "Venusaur: After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Venusaur](../assets/sprites/venusaur/front_female.gif "Venusaur") | ![Venusaur](../assets/sprites/venusaur/front_shiny_female.png "Venusaur") | ![Venusaur](../assets/sprites/venusaur/back_female.png "Venusaur") | ![Venusaur](../assets/sprites/venusaur/back_shiny_female.png "Venusaur") |
+| ![Venusaur](../assets/sprites/venusaur/front_female.gif "Venusaur: After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.") | ![Venusaur](../assets/sprites/venusaur/front_shiny_female.png "Venusaur: After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.") | ![Venusaur](../assets/sprites/venusaur/back_female.png "Venusaur: After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.") | ![Venusaur](../assets/sprites/venusaur/back_shiny_female.png "Venusaur: After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.") |
 
 ### Cries
 

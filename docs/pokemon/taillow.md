@@ -14,7 +14,13 @@ It has a gutsy spirit that makes it bravely take on tough foes. It flies in sear
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Taillow](../assets/sprites/taillow/front.gif "Taillow") | ![Taillow](../assets/sprites/taillow/front_shiny.png "Taillow") | ![Taillow](../assets/sprites/taillow/back.png "Taillow") | ![Taillow](../assets/sprites/taillow/back_shiny.png "Taillow") |
+| ![Taillow](../assets/sprites/taillow/front.gif "Taillow: It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.") | ![Taillow](../assets/sprites/taillow/front_shiny.png "Taillow: It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.") | ![Taillow](../assets/sprites/taillow/back.png "Taillow: It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.") | ![Taillow](../assets/sprites/taillow/back_shiny.png "Taillow: It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

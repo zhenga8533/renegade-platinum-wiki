@@ -14,7 +14,13 @@ It is said that happiness will come to those who see a gathering of CLEFAIRY dan
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Clefairy](../assets/sprites/clefairy/front.gif "Clefairy") | ![Clefairy](../assets/sprites/clefairy/front_shiny.png "Clefairy") | ![Clefairy](../assets/sprites/clefairy/back.png "Clefairy") | ![Clefairy](../assets/sprites/clefairy/back_shiny.png "Clefairy") |
+| ![Clefairy](../assets/sprites/clefairy/front.gif "Clefairy: It is said that happiness will come to those who see a gathering of CLEFAIRY dancing under a full moon.") | ![Clefairy](../assets/sprites/clefairy/front_shiny.png "Clefairy: It is said that happiness will come to those who see a gathering of CLEFAIRY dancing under a full moon.") | ![Clefairy](../assets/sprites/clefairy/back.png "Clefairy: It is said that happiness will come to those who see a gathering of CLEFAIRY dancing under a full moon.") | ![Clefairy](../assets/sprites/clefairy/back_shiny.png "Clefairy: It is said that happiness will come to those who see a gathering of CLEFAIRY dancing under a full moon.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It races around the world to purify fouled water. It dashes away with the north 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Suicune](../assets/sprites/suicune/front.gif "Suicune") | ![Suicune](../assets/sprites/suicune/front_shiny.png "Suicune") | ![Suicune](../assets/sprites/suicune/back.png "Suicune") | ![Suicune](../assets/sprites/suicune/back_shiny.png "Suicune") |
+| ![Suicune](../assets/sprites/suicune/front.gif "Suicune: It races around the world to purify fouled water. It dashes away with the north wind.") | ![Suicune](../assets/sprites/suicune/front_shiny.png "Suicune: It races around the world to purify fouled water. It dashes away with the north wind.") | ![Suicune](../assets/sprites/suicune/back.png "Suicune: It races around the world to purify fouled water. It dashes away with the north wind.") | ![Suicune](../assets/sprites/suicune/back_shiny.png "Suicune: It races around the world to purify fouled water. It dashes away with the north wind.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

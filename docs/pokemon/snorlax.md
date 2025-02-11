@@ -14,7 +14,13 @@ When its belly is full, it becomes too lethargic to even lift a finger, so it is
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Snorlax](../assets/sprites/snorlax/front.gif "Snorlax") | ![Snorlax](../assets/sprites/snorlax/front_shiny.png "Snorlax") | ![Snorlax](../assets/sprites/snorlax/back.png "Snorlax") | ![Snorlax](../assets/sprites/snorlax/back_shiny.png "Snorlax") |
+| ![Snorlax](../assets/sprites/snorlax/front.gif "Snorlax: When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.") | ![Snorlax](../assets/sprites/snorlax/front_shiny.png "Snorlax: When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.") | ![Snorlax](../assets/sprites/snorlax/back.png "Snorlax: When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.") | ![Snorlax](../assets/sprites/snorlax/back_shiny.png "Snorlax: When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It looks just like a Poké Ball. It is dangerous because it may electrocute or e
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Voltorb](../assets/sprites/voltorb/front.gif "Voltorb") | ![Voltorb](../assets/sprites/voltorb/front_shiny.png "Voltorb") | ![Voltorb](../assets/sprites/voltorb/back.png "Voltorb") | ![Voltorb](../assets/sprites/voltorb/back_shiny.png "Voltorb") |
+| ![Voltorb](../assets/sprites/voltorb/front.gif "Voltorb: It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.") | ![Voltorb](../assets/sprites/voltorb/front_shiny.png "Voltorb: It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.") | ![Voltorb](../assets/sprites/voltorb/back.png "Voltorb: It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.") | ![Voltorb](../assets/sprites/voltorb/back_shiny.png "Voltorb: It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

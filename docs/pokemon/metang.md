@@ -14,7 +14,13 @@ It is formed by two BELDUM joining together. Its steel body won’t be scratched
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Metang](../assets/sprites/metang/front.gif "Metang") | ![Metang](../assets/sprites/metang/front_shiny.png "Metang") | ![Metang](../assets/sprites/metang/back.png "Metang") | ![Metang](../assets/sprites/metang/back_shiny.png "Metang") |
+| ![Metang](../assets/sprites/metang/front.gif "Metang: It is formed by two BELDUM joining together. Its steel body won’t be scratched if it collides with a jet.") | ![Metang](../assets/sprites/metang/front_shiny.png "Metang: It is formed by two BELDUM joining together. Its steel body won’t be scratched if it collides with a jet.") | ![Metang](../assets/sprites/metang/back.png "Metang: It is formed by two BELDUM joining together. Its steel body won’t be scratched if it collides with a jet.") | ![Metang](../assets/sprites/metang/back_shiny.png "Metang: It is formed by two BELDUM joining together. Its steel body won’t be scratched if it collides with a jet.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

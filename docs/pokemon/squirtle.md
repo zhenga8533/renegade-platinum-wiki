@@ -14,7 +14,13 @@ It shelters itself in its shell, then strikes back with spouts of water at every
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Squirtle](../assets/sprites/squirtle/front.gif "Squirtle") | ![Squirtle](../assets/sprites/squirtle/front_shiny.png "Squirtle") | ![Squirtle](../assets/sprites/squirtle/back.png "Squirtle") | ![Squirtle](../assets/sprites/squirtle/back_shiny.png "Squirtle") |
+| ![Squirtle](../assets/sprites/squirtle/front.gif "Squirtle: It shelters itself in its shell, then strikes back with spouts of water at every opportunity.") | ![Squirtle](../assets/sprites/squirtle/front_shiny.png "Squirtle: It shelters itself in its shell, then strikes back with spouts of water at every opportunity.") | ![Squirtle](../assets/sprites/squirtle/back.png "Squirtle: It shelters itself in its shell, then strikes back with spouts of water at every opportunity.") | ![Squirtle](../assets/sprites/squirtle/back_shiny.png "Squirtle: It shelters itself in its shell, then strikes back with spouts of water at every opportunity.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

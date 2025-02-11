@@ -14,7 +14,13 @@ It uses unique fighting moves with fire on its hands and feet. It will take on a
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Infernape](../assets/sprites/infernape/front.gif "Infernape") | ![Infernape](../assets/sprites/infernape/front_shiny.png "Infernape") | ![Infernape](../assets/sprites/infernape/back.png "Infernape") | ![Infernape](../assets/sprites/infernape/back_shiny.png "Infernape") |
+| ![Infernape](../assets/sprites/infernape/front.gif "Infernape: It uses unique fighting moves with fire on its hands and feet. It will take on any opponent.") | ![Infernape](../assets/sprites/infernape/front_shiny.png "Infernape: It uses unique fighting moves with fire on its hands and feet. It will take on any opponent.") | ![Infernape](../assets/sprites/infernape/back.png "Infernape: It uses unique fighting moves with fire on its hands and feet. It will take on any opponent.") | ![Infernape](../assets/sprites/infernape/back_shiny.png "Infernape: It uses unique fighting moves with fire on its hands and feet. It will take on any opponent.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

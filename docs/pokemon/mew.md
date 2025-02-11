@@ -14,7 +14,13 @@ Because it can use all kinds of moves, many scientists believe MEW to be the anc
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Mew](../assets/sprites/mew/front.gif "Mew") | ![Mew](../assets/sprites/mew/front_shiny.png "Mew") | ![Mew](../assets/sprites/mew/back.png "Mew") | ![Mew](../assets/sprites/mew/back_shiny.png "Mew") |
+| ![Mew](../assets/sprites/mew/front.gif "Mew: Because it can use all kinds of moves, many scientists believe MEW to be the ancestor of Pokémon.") | ![Mew](../assets/sprites/mew/front_shiny.png "Mew: Because it can use all kinds of moves, many scientists believe MEW to be the ancestor of Pokémon.") | ![Mew](../assets/sprites/mew/back.png "Mew: Because it can use all kinds of moves, many scientists believe MEW to be the ancestor of Pokémon.") | ![Mew](../assets/sprites/mew/back_shiny.png "Mew: Because it can use all kinds of moves, many scientists believe MEW to be the ancestor of Pokémon.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

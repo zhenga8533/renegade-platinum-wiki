@@ -14,13 +14,13 @@ Almost all its body is its stomach. Its harsh digestive juices quickly dissolve 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Gulpin](../assets/sprites/gulpin/front.gif "Gulpin") | ![Gulpin](../assets/sprites/gulpin/front_shiny.png "Gulpin") | ![Gulpin](../assets/sprites/gulpin/back.png "Gulpin") | ![Gulpin](../assets/sprites/gulpin/back_shiny.png "Gulpin") |
+| ![Gulpin](../assets/sprites/gulpin/front.gif "Gulpin: Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.") | ![Gulpin](../assets/sprites/gulpin/front_shiny.png "Gulpin: Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.") | ![Gulpin](../assets/sprites/gulpin/back.png "Gulpin: Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.") | ![Gulpin](../assets/sprites/gulpin/back_shiny.png "Gulpin: Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Gulpin](../assets/sprites/gulpin/front_female.gif "Gulpin") | ![Gulpin](../assets/sprites/gulpin/front_shiny_female.png "Gulpin") | ![Gulpin](../assets/sprites/gulpin/back_female.png "Gulpin") | ![Gulpin](../assets/sprites/gulpin/back_shiny_female.png "Gulpin") |
+| ![Gulpin](../assets/sprites/gulpin/front_female.gif "Gulpin: Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.") | ![Gulpin](../assets/sprites/gulpin/front_shiny_female.png "Gulpin: Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.") | ![Gulpin](../assets/sprites/gulpin/back_female.png "Gulpin: Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.") | ![Gulpin](../assets/sprites/gulpin/back_shiny_female.png "Gulpin: Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.") |
 
 ### Cries
 

@@ -14,7 +14,13 @@ To protect itself, it afflicts those around it with nightmares. However, it mean
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Darkrai](../assets/sprites/darkrai/front.gif "Darkrai") | ![Darkrai](../assets/sprites/darkrai/front_shiny.png "Darkrai") | ![Darkrai](../assets/sprites/darkrai/back.png "Darkrai") | ![Darkrai](../assets/sprites/darkrai/back_shiny.png "Darkrai") |
+| ![Darkrai](../assets/sprites/darkrai/front.gif "Darkrai: To protect itself, it afflicts those around it with nightmares. However, it means no harm.") | ![Darkrai](../assets/sprites/darkrai/front_shiny.png "Darkrai: To protect itself, it afflicts those around it with nightmares. However, it means no harm.") | ![Darkrai](../assets/sprites/darkrai/back.png "Darkrai: To protect itself, it afflicts those around it with nightmares. However, it means no harm.") | ![Darkrai](../assets/sprites/darkrai/back_shiny.png "Darkrai: To protect itself, it afflicts those around it with nightmares. However, it means no harm.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

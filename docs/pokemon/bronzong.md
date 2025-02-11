@@ -14,7 +14,13 @@ It brought rains by opening portals to another world. It was revered as a bringe
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Bronzong](../assets/sprites/bronzong/front.gif "Bronzong") | ![Bronzong](../assets/sprites/bronzong/front_shiny.png "Bronzong") | ![Bronzong](../assets/sprites/bronzong/back.png "Bronzong") | ![Bronzong](../assets/sprites/bronzong/back_shiny.png "Bronzong") |
+| ![Bronzong](../assets/sprites/bronzong/front.gif "Bronzong: It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests.") | ![Bronzong](../assets/sprites/bronzong/front_shiny.png "Bronzong: It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests.") | ![Bronzong](../assets/sprites/bronzong/back.png "Bronzong: It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests.") | ![Bronzong](../assets/sprites/bronzong/back_shiny.png "Bronzong: It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

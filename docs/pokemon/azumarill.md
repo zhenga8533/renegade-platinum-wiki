@@ -14,7 +14,13 @@ It can spend all day in water, since it can inhale and store a large volume of a
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Azumarill](../assets/sprites/azumarill/front.gif "Azumarill") | ![Azumarill](../assets/sprites/azumarill/front_shiny.png "Azumarill") | ![Azumarill](../assets/sprites/azumarill/back.png "Azumarill") | ![Azumarill](../assets/sprites/azumarill/back_shiny.png "Azumarill") |
+| ![Azumarill](../assets/sprites/azumarill/front.gif "Azumarill: It can spend all day in water, since it can inhale and store a large volume of air.") | ![Azumarill](../assets/sprites/azumarill/front_shiny.png "Azumarill: It can spend all day in water, since it can inhale and store a large volume of air.") | ![Azumarill](../assets/sprites/azumarill/back.png "Azumarill: It can spend all day in water, since it can inhale and store a large volume of air.") | ![Azumarill](../assets/sprites/azumarill/back_shiny.png "Azumarill: It can spend all day in water, since it can inhale and store a large volume of air.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

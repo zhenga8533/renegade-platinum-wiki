@@ -14,13 +14,13 @@ It gathers groups of others as their leader. Its cries make POLIWAG obey.
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Politoed](../assets/sprites/politoed/front.gif "Politoed") | ![Politoed](../assets/sprites/politoed/front_shiny.png "Politoed") | ![Politoed](../assets/sprites/politoed/back.png "Politoed") | ![Politoed](../assets/sprites/politoed/back_shiny.png "Politoed") |
+| ![Politoed](../assets/sprites/politoed/front.gif "Politoed: It gathers groups of others as their leader. Its cries make POLIWAG obey.") | ![Politoed](../assets/sprites/politoed/front_shiny.png "Politoed: It gathers groups of others as their leader. Its cries make POLIWAG obey.") | ![Politoed](../assets/sprites/politoed/back.png "Politoed: It gathers groups of others as their leader. Its cries make POLIWAG obey.") | ![Politoed](../assets/sprites/politoed/back_shiny.png "Politoed: It gathers groups of others as their leader. Its cries make POLIWAG obey.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Politoed](../assets/sprites/politoed/front_female.gif "Politoed") | ![Politoed](../assets/sprites/politoed/front_shiny_female.png "Politoed") | ![Politoed](../assets/sprites/politoed/back_female.png "Politoed") | ![Politoed](../assets/sprites/politoed/back_shiny_female.png "Politoed") |
+| ![Politoed](../assets/sprites/politoed/front_female.gif "Politoed: It gathers groups of others as their leader. Its cries make POLIWAG obey.") | ![Politoed](../assets/sprites/politoed/front_shiny_female.png "Politoed: It gathers groups of others as their leader. Its cries make POLIWAG obey.") | ![Politoed](../assets/sprites/politoed/back_female.png "Politoed: It gathers groups of others as their leader. Its cries make POLIWAG obey.") | ![Politoed](../assets/sprites/politoed/back_shiny_female.png "Politoed: It gathers groups of others as their leader. Its cries make POLIWAG obey.") |
 
 ### Cries
 

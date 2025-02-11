@@ -14,7 +14,13 @@ It discharges electricity from its mane. It creates a thundercloud overhead to d
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Manectric](../assets/sprites/manectric/front.gif "Manectric") | ![Manectric](../assets/sprites/manectric/front_shiny.png "Manectric") | ![Manectric](../assets/sprites/manectric/back.png "Manectric") | ![Manectric](../assets/sprites/manectric/back_shiny.png "Manectric") |
+| ![Manectric](../assets/sprites/manectric/front.gif "Manectric: It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.") | ![Manectric](../assets/sprites/manectric/front_shiny.png "Manectric: It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.") | ![Manectric](../assets/sprites/manectric/back.png "Manectric: It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.") | ![Manectric](../assets/sprites/manectric/back_shiny.png "Manectric: It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

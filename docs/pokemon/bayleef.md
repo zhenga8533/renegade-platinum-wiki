@@ -14,7 +14,13 @@ The buds that ring its neck give off a spicy aroma that perks people up.
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Bayleef](../assets/sprites/bayleef/front.gif "Bayleef") | ![Bayleef](../assets/sprites/bayleef/front_shiny.png "Bayleef") | ![Bayleef](../assets/sprites/bayleef/back.png "Bayleef") | ![Bayleef](../assets/sprites/bayleef/back_shiny.png "Bayleef") |
+| ![Bayleef](../assets/sprites/bayleef/front.gif "Bayleef: The buds that ring its neck give off a spicy aroma that perks people up.") | ![Bayleef](../assets/sprites/bayleef/front_shiny.png "Bayleef: The buds that ring its neck give off a spicy aroma that perks people up.") | ![Bayleef](../assets/sprites/bayleef/back.png "Bayleef: The buds that ring its neck give off a spicy aroma that perks people up.") | ![Bayleef](../assets/sprites/bayleef/back_shiny.png "Bayleef: The buds that ring its neck give off a spicy aroma that perks people up.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

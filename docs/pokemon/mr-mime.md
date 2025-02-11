@@ -14,7 +14,13 @@ It shapes an invisible wall in midair by minutely vibrating its fingertips to st
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Mr Mime](../assets/sprites/mr-mime/front.gif "Mr Mime") | ![Mr Mime](../assets/sprites/mr-mime/front_shiny.png "Mr Mime") | ![Mr Mime](../assets/sprites/mr-mime/back.png "Mr Mime") | ![Mr Mime](../assets/sprites/mr-mime/back_shiny.png "Mr Mime") |
+| ![Mr Mime](../assets/sprites/mr-mime/front.gif "Mr Mime: It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.") | ![Mr Mime](../assets/sprites/mr-mime/front_shiny.png "Mr Mime: It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.") | ![Mr Mime](../assets/sprites/mr-mime/back.png "Mr Mime: It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.") | ![Mr Mime](../assets/sprites/mr-mime/back_shiny.png "Mr Mime: It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

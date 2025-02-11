@@ -14,7 +14,13 @@ It digs into the ground with its tail and makes a mazelike nest. It can fly just
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Dunsparce](../assets/sprites/dunsparce/front.gif "Dunsparce") | ![Dunsparce](../assets/sprites/dunsparce/front_shiny.png "Dunsparce") | ![Dunsparce](../assets/sprites/dunsparce/back.png "Dunsparce") | ![Dunsparce](../assets/sprites/dunsparce/back_shiny.png "Dunsparce") |
+| ![Dunsparce](../assets/sprites/dunsparce/front.gif "Dunsparce: It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.") | ![Dunsparce](../assets/sprites/dunsparce/front_shiny.png "Dunsparce: It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.") | ![Dunsparce](../assets/sprites/dunsparce/back.png "Dunsparce: It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.") | ![Dunsparce](../assets/sprites/dunsparce/back_shiny.png "Dunsparce: It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

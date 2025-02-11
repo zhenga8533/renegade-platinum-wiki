@@ -14,7 +14,13 @@ Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Psyduck](../assets/sprites/psyduck/front.gif "Psyduck") | ![Psyduck](../assets/sprites/psyduck/front_shiny.png "Psyduck") | ![Psyduck](../assets/sprites/psyduck/back.png "Psyduck") | ![Psyduck](../assets/sprites/psyduck/back_shiny.png "Psyduck") |
+| ![Psyduck](../assets/sprites/psyduck/front.gif "Psyduck: Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.") | ![Psyduck](../assets/sprites/psyduck/front_shiny.png "Psyduck: Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.") | ![Psyduck](../assets/sprites/psyduck/back.png "Psyduck: Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.") | ![Psyduck](../assets/sprites/psyduck/back_shiny.png "Psyduck: Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

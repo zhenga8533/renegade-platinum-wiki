@@ -14,7 +14,13 @@ Its appearance changes with the weather. Recently, its molecules were found to b
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Castform Sunny](../assets/sprites/castform-sunny/front.png "Castform Sunny") | ![Castform Sunny](../assets/sprites/castform-sunny/front_shiny.png "Castform Sunny") | ![Castform Sunny](../assets/sprites/castform-sunny/back.png "Castform Sunny") | ![Castform Sunny](../assets/sprites/castform-sunny/back_shiny.png "Castform Sunny") |
+| ![Castform Sunny](../assets/sprites/castform-sunny/front.png "Castform Sunny: Its appearance changes with the weather. Recently, its molecules were found to be just like water.") | ![Castform Sunny](../assets/sprites/castform-sunny/front_shiny.png "Castform Sunny: Its appearance changes with the weather. Recently, its molecules were found to be just like water.") | ![Castform Sunny](../assets/sprites/castform-sunny/back.png "Castform Sunny: Its appearance changes with the weather. Recently, its molecules were found to be just like water.") | ![Castform Sunny](../assets/sprites/castform-sunny/back_shiny.png "Castform Sunny: Its appearance changes with the weather. Recently, its molecules were found to be just like water.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

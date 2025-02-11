@@ -14,7 +14,13 @@ Its tail bounces like a rubber ball. It flings that tail around to fight opponen
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Azurill](../assets/sprites/azurill/front.gif "Azurill") | ![Azurill](../assets/sprites/azurill/front_shiny.png "Azurill") | ![Azurill](../assets/sprites/azurill/back.png "Azurill") | ![Azurill](../assets/sprites/azurill/back_shiny.png "Azurill") |
+| ![Azurill](../assets/sprites/azurill/front.gif "Azurill: Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.") | ![Azurill](../assets/sprites/azurill/front_shiny.png "Azurill: Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.") | ![Azurill](../assets/sprites/azurill/back.png "Azurill: Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.") | ![Azurill](../assets/sprites/azurill/back_shiny.png "Azurill: Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

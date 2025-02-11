@@ -14,7 +14,13 @@ It is born with a wondrous power that lets it bond with any kind of Pokémon.
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Manaphy](../assets/sprites/manaphy/front.gif "Manaphy") | ![Manaphy](../assets/sprites/manaphy/front_shiny.png "Manaphy") | ![Manaphy](../assets/sprites/manaphy/back.png "Manaphy") | ![Manaphy](../assets/sprites/manaphy/back_shiny.png "Manaphy") |
+| ![Manaphy](../assets/sprites/manaphy/front.gif "Manaphy: It is born with a wondrous power that lets it bond with any kind of Pokémon.") | ![Manaphy](../assets/sprites/manaphy/front_shiny.png "Manaphy: It is born with a wondrous power that lets it bond with any kind of Pokémon.") | ![Manaphy](../assets/sprites/manaphy/back.png "Manaphy: It is born with a wondrous power that lets it bond with any kind of Pokémon.") | ![Manaphy](../assets/sprites/manaphy/back_shiny.png "Manaphy: It is born with a wondrous power that lets it bond with any kind of Pokémon.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

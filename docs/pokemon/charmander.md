@@ -14,7 +14,13 @@ The fire on the tip of its tail is a measure of its life. If healthy, its tail b
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Charmander](../assets/sprites/charmander/front.gif "Charmander") | ![Charmander](../assets/sprites/charmander/front_shiny.png "Charmander") | ![Charmander](../assets/sprites/charmander/back.png "Charmander") | ![Charmander](../assets/sprites/charmander/back_shiny.png "Charmander") |
+| ![Charmander](../assets/sprites/charmander/front.gif "Charmander: The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.") | ![Charmander](../assets/sprites/charmander/front_shiny.png "Charmander: The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.") | ![Charmander](../assets/sprites/charmander/back.png "Charmander: The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.") | ![Charmander](../assets/sprites/charmander/back_shiny.png "Charmander: The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

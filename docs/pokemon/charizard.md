@@ -14,7 +14,13 @@ It is said that CHARIZARD’s fire burns hotter if it has experienced harsh batt
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Charizard](../assets/sprites/charizard/front.gif "Charizard") | ![Charizard](../assets/sprites/charizard/front_shiny.png "Charizard") | ![Charizard](../assets/sprites/charizard/back.png "Charizard") | ![Charizard](../assets/sprites/charizard/back_shiny.png "Charizard") |
+| ![Charizard](../assets/sprites/charizard/front.gif "Charizard: It is said that CHARIZARD’s fire burns hotter if it has experienced harsh battles.") | ![Charizard](../assets/sprites/charizard/front_shiny.png "Charizard: It is said that CHARIZARD’s fire burns hotter if it has experienced harsh battles.") | ![Charizard](../assets/sprites/charizard/back.png "Charizard: It is said that CHARIZARD’s fire burns hotter if it has experienced harsh battles.") | ![Charizard](../assets/sprites/charizard/back_shiny.png "Charizard: It is said that CHARIZARD’s fire burns hotter if it has experienced harsh battles.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

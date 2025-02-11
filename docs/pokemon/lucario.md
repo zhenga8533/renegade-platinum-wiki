@@ -14,7 +14,13 @@ A well-trained one can sense auras to identify and take in the feelings of creat
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Lucario](../assets/sprites/lucario/front.gif "Lucario") | ![Lucario](../assets/sprites/lucario/front_shiny.png "Lucario") | ![Lucario](../assets/sprites/lucario/back.png "Lucario") | ![Lucario](../assets/sprites/lucario/back_shiny.png "Lucario") |
+| ![Lucario](../assets/sprites/lucario/front.gif "Lucario: A well-trained one can sense auras to identify and take in the feelings of creatures over half a mile away.") | ![Lucario](../assets/sprites/lucario/front_shiny.png "Lucario: A well-trained one can sense auras to identify and take in the feelings of creatures over half a mile away.") | ![Lucario](../assets/sprites/lucario/back.png "Lucario: A well-trained one can sense auras to identify and take in the feelings of creatures over half a mile away.") | ![Lucario](../assets/sprites/lucario/back_shiny.png "Lucario: A well-trained one can sense auras to identify and take in the feelings of creatures over half a mile away.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

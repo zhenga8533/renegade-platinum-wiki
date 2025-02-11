@@ -14,7 +14,13 @@ Its legs can stretch double. First-time foes are startled by its extensible reac
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Hitmonlee](../assets/sprites/hitmonlee/front.gif "Hitmonlee") | ![Hitmonlee](../assets/sprites/hitmonlee/front_shiny.png "Hitmonlee") | ![Hitmonlee](../assets/sprites/hitmonlee/back.png "Hitmonlee") | ![Hitmonlee](../assets/sprites/hitmonlee/back_shiny.png "Hitmonlee") |
+| ![Hitmonlee](../assets/sprites/hitmonlee/front.gif "Hitmonlee: Its legs can stretch double. First-time foes are startled by its extensible reach.") | ![Hitmonlee](../assets/sprites/hitmonlee/front_shiny.png "Hitmonlee: Its legs can stretch double. First-time foes are startled by its extensible reach.") | ![Hitmonlee](../assets/sprites/hitmonlee/back.png "Hitmonlee: Its legs can stretch double. First-time foes are startled by its extensible reach.") | ![Hitmonlee](../assets/sprites/hitmonlee/back_shiny.png "Hitmonlee: Its legs can stretch double. First-time foes are startled by its extensible reach.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

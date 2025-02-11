@@ -14,7 +14,13 @@ Its tongue is just like a human’s. As a result, it can cleverly mimic human sp
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Chatot](../assets/sprites/chatot/front.gif "Chatot") | ![Chatot](../assets/sprites/chatot/front_shiny.png "Chatot") | ![Chatot](../assets/sprites/chatot/back.png "Chatot") | ![Chatot](../assets/sprites/chatot/back_shiny.png "Chatot") |
+| ![Chatot](../assets/sprites/chatot/front.gif "Chatot: Its tongue is just like a human’s. As a result, it can cleverly mimic human speech.") | ![Chatot](../assets/sprites/chatot/front_shiny.png "Chatot: Its tongue is just like a human’s. As a result, it can cleverly mimic human speech.") | ![Chatot](../assets/sprites/chatot/back.png "Chatot: Its tongue is just like a human’s. As a result, it can cleverly mimic human speech.") | ![Chatot](../assets/sprites/chatot/back_shiny.png "Chatot: Its tongue is just like a human’s. As a result, it can cleverly mimic human speech.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

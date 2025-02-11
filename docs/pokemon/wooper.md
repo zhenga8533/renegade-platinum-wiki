@@ -14,13 +14,13 @@ When walking on land, it covers its body with a poisonous film that keeps its sk
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Wooper](../assets/sprites/wooper/front.gif "Wooper") | ![Wooper](../assets/sprites/wooper/front_shiny.png "Wooper") | ![Wooper](../assets/sprites/wooper/back.png "Wooper") | ![Wooper](../assets/sprites/wooper/back_shiny.png "Wooper") |
+| ![Wooper](../assets/sprites/wooper/front.gif "Wooper: When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.") | ![Wooper](../assets/sprites/wooper/front_shiny.png "Wooper: When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.") | ![Wooper](../assets/sprites/wooper/back.png "Wooper: When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.") | ![Wooper](../assets/sprites/wooper/back_shiny.png "Wooper: When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Wooper](../assets/sprites/wooper/front_female.gif "Wooper") | ![Wooper](../assets/sprites/wooper/front_shiny_female.png "Wooper") | ![Wooper](../assets/sprites/wooper/back_female.png "Wooper") | ![Wooper](../assets/sprites/wooper/back_shiny_female.png "Wooper") |
+| ![Wooper](../assets/sprites/wooper/front_female.gif "Wooper: When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.") | ![Wooper](../assets/sprites/wooper/front_shiny_female.png "Wooper: When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.") | ![Wooper](../assets/sprites/wooper/back_female.png "Wooper: When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.") | ![Wooper](../assets/sprites/wooper/back_shiny_female.png "Wooper: When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.") |
 
 ### Cries
 

@@ -14,7 +14,13 @@ When the heavy rainfall season ends, it is drawn out by warm sunlight to dance i
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Bellossom](../assets/sprites/bellossom/front.gif "Bellossom") | ![Bellossom](../assets/sprites/bellossom/front_shiny.png "Bellossom") | ![Bellossom](../assets/sprites/bellossom/back.png "Bellossom") | ![Bellossom](../assets/sprites/bellossom/back_shiny.png "Bellossom") |
+| ![Bellossom](../assets/sprites/bellossom/front.gif "Bellossom: When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.") | ![Bellossom](../assets/sprites/bellossom/front_shiny.png "Bellossom: When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.") | ![Bellossom](../assets/sprites/bellossom/back.png "Bellossom: When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.") | ![Bellossom](../assets/sprites/bellossom/back_shiny.png "Bellossom: When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

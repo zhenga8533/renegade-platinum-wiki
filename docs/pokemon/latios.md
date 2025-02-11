@@ -14,7 +14,13 @@ A highly intelligent Pokémon. By folding back its wings in flight, it can overt
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Latios](../assets/sprites/latios/front.gif "Latios") | ![Latios](../assets/sprites/latios/front_shiny.png "Latios") | ![Latios](../assets/sprites/latios/back.png "Latios") | ![Latios](../assets/sprites/latios/back_shiny.png "Latios") |
+| ![Latios](../assets/sprites/latios/front.gif "Latios: A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.") | ![Latios](../assets/sprites/latios/front_shiny.png "Latios: A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.") | ![Latios](../assets/sprites/latios/back.png "Latios: A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.") | ![Latios](../assets/sprites/latios/back_shiny.png "Latios: A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

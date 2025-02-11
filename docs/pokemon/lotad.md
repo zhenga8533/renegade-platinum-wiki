@@ -14,7 +14,13 @@ It looks like an aquatic plant and serves as a ferry to Pokémon that can’t sw
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Lotad](../assets/sprites/lotad/front.gif "Lotad") | ![Lotad](../assets/sprites/lotad/front_shiny.png "Lotad") | ![Lotad](../assets/sprites/lotad/back.png "Lotad") | ![Lotad](../assets/sprites/lotad/back_shiny.png "Lotad") |
+| ![Lotad](../assets/sprites/lotad/front.gif "Lotad: It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.") | ![Lotad](../assets/sprites/lotad/front_shiny.png "Lotad: It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.") | ![Lotad](../assets/sprites/lotad/back.png "Lotad: It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.") | ![Lotad](../assets/sprites/lotad/back_shiny.png "Lotad: It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

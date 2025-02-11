@@ -14,7 +14,13 @@ Tempered by pressure underground over tens of thousands of years, its body canno
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Registeel](../assets/sprites/registeel/front.gif "Registeel") | ![Registeel](../assets/sprites/registeel/front_shiny.png "Registeel") | ![Registeel](../assets/sprites/registeel/back.png "Registeel") | ![Registeel](../assets/sprites/registeel/back_shiny.png "Registeel") |
+| ![Registeel](../assets/sprites/registeel/front.gif "Registeel: Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.") | ![Registeel](../assets/sprites/registeel/front_shiny.png "Registeel: Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.") | ![Registeel](../assets/sprites/registeel/back.png "Registeel: Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.") | ![Registeel](../assets/sprites/registeel/back_shiny.png "Registeel: Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

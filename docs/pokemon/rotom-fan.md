@@ -14,7 +14,13 @@ Its electric-like body can enter some kinds of machines and take control in orde
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Rotom Fan](../assets/sprites/rotom-fan/front.png "Rotom Fan") | ![Rotom Fan](../assets/sprites/rotom-fan/front_shiny.png "Rotom Fan") | ![Rotom Fan](../assets/sprites/rotom-fan/back.png "Rotom Fan") | ![Rotom Fan](../assets/sprites/rotom-fan/back_shiny.png "Rotom Fan") |
+| ![Rotom Fan](../assets/sprites/rotom-fan/front.png "Rotom Fan: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom Fan](../assets/sprites/rotom-fan/front_shiny.png "Rotom Fan: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom Fan](../assets/sprites/rotom-fan/back.png "Rotom Fan: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom Fan](../assets/sprites/rotom-fan/back_shiny.png "Rotom Fan: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

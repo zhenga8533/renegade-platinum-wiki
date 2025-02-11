@@ -14,7 +14,13 @@ Its fur is so sensitive, it can sense minute shifts in the air and predict the w
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Espeon](../assets/sprites/espeon/front.gif "Espeon") | ![Espeon](../assets/sprites/espeon/front_shiny.png "Espeon") | ![Espeon](../assets/sprites/espeon/back.png "Espeon") | ![Espeon](../assets/sprites/espeon/back_shiny.png "Espeon") |
+| ![Espeon](../assets/sprites/espeon/front.gif "Espeon: Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.") | ![Espeon](../assets/sprites/espeon/front_shiny.png "Espeon: Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.") | ![Espeon](../assets/sprites/espeon/back.png "Espeon: Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.") | ![Espeon](../assets/sprites/espeon/back_shiny.png "Espeon: Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

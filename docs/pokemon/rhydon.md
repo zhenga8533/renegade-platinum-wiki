@@ -14,13 +14,13 @@ Standing on its hind legs freed its forelegs and made it smarter. It is very for
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Rhydon](../assets/sprites/rhydon/front.gif "Rhydon") | ![Rhydon](../assets/sprites/rhydon/front_shiny.png "Rhydon") | ![Rhydon](../assets/sprites/rhydon/back.png "Rhydon") | ![Rhydon](../assets/sprites/rhydon/back_shiny.png "Rhydon") |
+| ![Rhydon](../assets/sprites/rhydon/front.gif "Rhydon: Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.") | ![Rhydon](../assets/sprites/rhydon/front_shiny.png "Rhydon: Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.") | ![Rhydon](../assets/sprites/rhydon/back.png "Rhydon: Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.") | ![Rhydon](../assets/sprites/rhydon/back_shiny.png "Rhydon: Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Rhydon](../assets/sprites/rhydon/front_female.gif "Rhydon") | ![Rhydon](../assets/sprites/rhydon/front_shiny_female.png "Rhydon") | ![Rhydon](../assets/sprites/rhydon/back_female.png "Rhydon") | ![Rhydon](../assets/sprites/rhydon/back_shiny_female.png "Rhydon") |
+| ![Rhydon](../assets/sprites/rhydon/front_female.gif "Rhydon: Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.") | ![Rhydon](../assets/sprites/rhydon/front_shiny_female.png "Rhydon: Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.") | ![Rhydon](../assets/sprites/rhydon/back_female.png "Rhydon: Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.") | ![Rhydon](../assets/sprites/rhydon/back_shiny_female.png "Rhydon: Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.") |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It skillfully controls the intensity of the fire on its tail to keep its foes at
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Monferno](../assets/sprites/monferno/front.gif "Monferno") | ![Monferno](../assets/sprites/monferno/front_shiny.png "Monferno") | ![Monferno](../assets/sprites/monferno/back.png "Monferno") | ![Monferno](../assets/sprites/monferno/back_shiny.png "Monferno") |
+| ![Monferno](../assets/sprites/monferno/front.gif "Monferno: It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.") | ![Monferno](../assets/sprites/monferno/front_shiny.png "Monferno: It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.") | ![Monferno](../assets/sprites/monferno/back.png "Monferno: It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.") | ![Monferno](../assets/sprites/monferno/back_shiny.png "Monferno: It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,13 +14,19 @@ Long ago, its entire back was shielded with a sturdy shell. There are traces of 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Gastrodon](../assets/sprites/gastrodon/front.gif "Gastrodon") | ![Gastrodon](../assets/sprites/gastrodon/front_shiny.png "Gastrodon") | ![Gastrodon](../assets/sprites/gastrodon/back.png "Gastrodon") | ![Gastrodon](../assets/sprites/gastrodon/back_shiny.png "Gastrodon") |
+| ![Gastrodon](../assets/sprites/gastrodon/front.gif "Gastrodon: Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.") | ![Gastrodon](../assets/sprites/gastrodon/front_shiny.png "Gastrodon: Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.") | ![Gastrodon](../assets/sprites/gastrodon/back.png "Gastrodon: Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.") | ![Gastrodon](../assets/sprites/gastrodon/back_shiny.png "Gastrodon: Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Gastrodon East Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Gastrodon East](../assets/sprites/gastrodon-east/front.png "Gastrodon East") | ![Gastrodon East](../assets/sprites/gastrodon-east/front_shiny.png "Gastrodon East") | ![Gastrodon East](../assets/sprites/gastrodon-east/back.png "Gastrodon East") | ![Gastrodon East](../assets/sprites/gastrodon-east/back_shiny.png "Gastrodon East") |
+| ![Gastrodon East](../assets/sprites/gastrodon-east/front.png "Gastrodon East: Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.") | ![Gastrodon East](../assets/sprites/gastrodon-east/front_shiny.png "Gastrodon East: Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.") | ![Gastrodon East](../assets/sprites/gastrodon-east/back.png "Gastrodon East: Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.") | ![Gastrodon East](../assets/sprites/gastrodon-east/back_shiny.png "Gastrodon East: Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.") |
 
 ### Cries
 

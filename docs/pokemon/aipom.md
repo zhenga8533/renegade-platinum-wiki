@@ -14,13 +14,13 @@ It lives high among the treetops. It can use its tail as freely and cleverly as 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Aipom](../assets/sprites/aipom/front.gif "Aipom") | ![Aipom](../assets/sprites/aipom/front_shiny.png "Aipom") | ![Aipom](../assets/sprites/aipom/back.png "Aipom") | ![Aipom](../assets/sprites/aipom/back_shiny.png "Aipom") |
+| ![Aipom](../assets/sprites/aipom/front.gif "Aipom: It lives high among the treetops. It can use its tail as freely and cleverly as its hands.") | ![Aipom](../assets/sprites/aipom/front_shiny.png "Aipom: It lives high among the treetops. It can use its tail as freely and cleverly as its hands.") | ![Aipom](../assets/sprites/aipom/back.png "Aipom: It lives high among the treetops. It can use its tail as freely and cleverly as its hands.") | ![Aipom](../assets/sprites/aipom/back_shiny.png "Aipom: It lives high among the treetops. It can use its tail as freely and cleverly as its hands.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Aipom](../assets/sprites/aipom/front_female.gif "Aipom") | ![Aipom](../assets/sprites/aipom/front_shiny_female.png "Aipom") | ![Aipom](../assets/sprites/aipom/back_female.png "Aipom") | ![Aipom](../assets/sprites/aipom/back_shiny_female.png "Aipom") |
+| ![Aipom](../assets/sprites/aipom/front_female.gif "Aipom: It lives high among the treetops. It can use its tail as freely and cleverly as its hands.") | ![Aipom](../assets/sprites/aipom/front_shiny_female.png "Aipom: It lives high among the treetops. It can use its tail as freely and cleverly as its hands.") | ![Aipom](../assets/sprites/aipom/back_female.png "Aipom: It lives high among the treetops. It can use its tail as freely and cleverly as its hands.") | ![Aipom](../assets/sprites/aipom/back_shiny_female.png "Aipom: It lives high among the treetops. It can use its tail as freely and cleverly as its hands.") |
 
 ### Cries
 

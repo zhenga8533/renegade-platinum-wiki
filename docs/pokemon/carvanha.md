@@ -14,7 +14,13 @@ They swarm any foe that invades their territory. Their sharp fangs can tear out 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Carvanha](../assets/sprites/carvanha/front.gif "Carvanha") | ![Carvanha](../assets/sprites/carvanha/front_shiny.png "Carvanha") | ![Carvanha](../assets/sprites/carvanha/back.png "Carvanha") | ![Carvanha](../assets/sprites/carvanha/back_shiny.png "Carvanha") |
+| ![Carvanha](../assets/sprites/carvanha/front.gif "Carvanha: They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.") | ![Carvanha](../assets/sprites/carvanha/front_shiny.png "Carvanha: They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.") | ![Carvanha](../assets/sprites/carvanha/back.png "Carvanha: They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.") | ![Carvanha](../assets/sprites/carvanha/back_shiny.png "Carvanha: They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

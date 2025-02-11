@@ -14,7 +14,13 @@ Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Spiritomb](../assets/sprites/spiritomb/front.gif "Spiritomb") | ![Spiritomb](../assets/sprites/spiritomb/front_shiny.png "Spiritomb") | ![Spiritomb](../assets/sprites/spiritomb/back.png "Spiritomb") | ![Spiritomb](../assets/sprites/spiritomb/back_shiny.png "Spiritomb") |
+| ![Spiritomb](../assets/sprites/spiritomb/front.gif "Spiritomb: Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.") | ![Spiritomb](../assets/sprites/spiritomb/front_shiny.png "Spiritomb: Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.") | ![Spiritomb](../assets/sprites/spiritomb/back.png "Spiritomb: Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.") | ![Spiritomb](../assets/sprites/spiritomb/back_shiny.png "Spiritomb: Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

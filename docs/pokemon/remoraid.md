@@ -14,7 +14,13 @@ It forcefully squirts water. The water jet never misses prey even if the REMORAI
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Remoraid](../assets/sprites/remoraid/front.gif "Remoraid") | ![Remoraid](../assets/sprites/remoraid/front_shiny.png "Remoraid") | ![Remoraid](../assets/sprites/remoraid/back.png "Remoraid") | ![Remoraid](../assets/sprites/remoraid/back_shiny.png "Remoraid") |
+| ![Remoraid](../assets/sprites/remoraid/front.gif "Remoraid: It forcefully squirts water. The water jet never misses prey even if the REMORAID is deep in the sea.") | ![Remoraid](../assets/sprites/remoraid/front_shiny.png "Remoraid: It forcefully squirts water. The water jet never misses prey even if the REMORAID is deep in the sea.") | ![Remoraid](../assets/sprites/remoraid/back.png "Remoraid: It forcefully squirts water. The water jet never misses prey even if the REMORAID is deep in the sea.") | ![Remoraid](../assets/sprites/remoraid/back_shiny.png "Remoraid: It forcefully squirts water. The water jet never misses prey even if the REMORAID is deep in the sea.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

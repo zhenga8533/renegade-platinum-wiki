@@ -14,7 +14,13 @@ In snow, the pure white coat covering its body obscures it from predators.
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Dewgong](../assets/sprites/dewgong/front.gif "Dewgong") | ![Dewgong](../assets/sprites/dewgong/front_shiny.png "Dewgong") | ![Dewgong](../assets/sprites/dewgong/back.png "Dewgong") | ![Dewgong](../assets/sprites/dewgong/back_shiny.png "Dewgong") |
+| ![Dewgong](../assets/sprites/dewgong/front.gif "Dewgong: In snow, the pure white coat covering its body obscures it from predators.") | ![Dewgong](../assets/sprites/dewgong/front_shiny.png "Dewgong: In snow, the pure white coat covering its body obscures it from predators.") | ![Dewgong](../assets/sprites/dewgong/back.png "Dewgong: In snow, the pure white coat covering its body obscures it from predators.") | ![Dewgong](../assets/sprites/dewgong/back_shiny.png "Dewgong: In snow, the pure white coat covering its body obscures it from predators.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

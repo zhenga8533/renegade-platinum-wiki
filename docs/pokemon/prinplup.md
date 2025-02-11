@@ -14,7 +14,13 @@ Because every PRINPLUP considers itself to be the most important, they can never
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Prinplup](../assets/sprites/prinplup/front.gif "Prinplup") | ![Prinplup](../assets/sprites/prinplup/front_shiny.png "Prinplup") | ![Prinplup](../assets/sprites/prinplup/back.png "Prinplup") | ![Prinplup](../assets/sprites/prinplup/back_shiny.png "Prinplup") |
+| ![Prinplup](../assets/sprites/prinplup/front.gif "Prinplup: Because every PRINPLUP considers itself to be the most important, they can never form a group.") | ![Prinplup](../assets/sprites/prinplup/front_shiny.png "Prinplup: Because every PRINPLUP considers itself to be the most important, they can never form a group.") | ![Prinplup](../assets/sprites/prinplup/back.png "Prinplup: Because every PRINPLUP considers itself to be the most important, they can never form a group.") | ![Prinplup](../assets/sprites/prinplup/back_shiny.png "Prinplup: Because every PRINPLUP considers itself to be the most important, they can never form a group.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

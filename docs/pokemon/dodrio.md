@@ -14,13 +14,13 @@ When DODUO evolves into this odd breed, one of its heads splits into two. It run
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Dodrio](../assets/sprites/dodrio/front.gif "Dodrio") | ![Dodrio](../assets/sprites/dodrio/front_shiny.png "Dodrio") | ![Dodrio](../assets/sprites/dodrio/back.png "Dodrio") | ![Dodrio](../assets/sprites/dodrio/back_shiny.png "Dodrio") |
+| ![Dodrio](../assets/sprites/dodrio/front.gif "Dodrio: When DODUO evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.") | ![Dodrio](../assets/sprites/dodrio/front_shiny.png "Dodrio: When DODUO evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.") | ![Dodrio](../assets/sprites/dodrio/back.png "Dodrio: When DODUO evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.") | ![Dodrio](../assets/sprites/dodrio/back_shiny.png "Dodrio: When DODUO evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Dodrio](../assets/sprites/dodrio/front_female.gif "Dodrio") | ![Dodrio](../assets/sprites/dodrio/front_shiny_female.png "Dodrio") | ![Dodrio](../assets/sprites/dodrio/back_female.png "Dodrio") | ![Dodrio](../assets/sprites/dodrio/back_shiny_female.png "Dodrio") |
+| ![Dodrio](../assets/sprites/dodrio/front_female.gif "Dodrio: When DODUO evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.") | ![Dodrio](../assets/sprites/dodrio/front_shiny_female.png "Dodrio: When DODUO evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.") | ![Dodrio](../assets/sprites/dodrio/back_female.png "Dodrio: When DODUO evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.") | ![Dodrio](../assets/sprites/dodrio/back_shiny_female.png "Dodrio: When DODUO evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.") |
 
 ### Cries
 

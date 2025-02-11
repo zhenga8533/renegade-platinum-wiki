@@ -14,7 +14,13 @@ Its entire body is made of rock. If any part chips off in battle, it attaches ro
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Regirock](../assets/sprites/regirock/front.gif "Regirock") | ![Regirock](../assets/sprites/regirock/front_shiny.png "Regirock") | ![Regirock](../assets/sprites/regirock/back.png "Regirock") | ![Regirock](../assets/sprites/regirock/back_shiny.png "Regirock") |
+| ![Regirock](../assets/sprites/regirock/front.gif "Regirock: Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.") | ![Regirock](../assets/sprites/regirock/front_shiny.png "Regirock: Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.") | ![Regirock](../assets/sprites/regirock/back.png "Regirock: Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.") | ![Regirock](../assets/sprites/regirock/back_shiny.png "Regirock: Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

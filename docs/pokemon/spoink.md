@@ -14,7 +14,13 @@ It bounces constantly, using its tail like a spring. The shock of bouncing keeps
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Spoink](../assets/sprites/spoink/front.gif "Spoink") | ![Spoink](../assets/sprites/spoink/front_shiny.png "Spoink") | ![Spoink](../assets/sprites/spoink/back.png "Spoink") | ![Spoink](../assets/sprites/spoink/back_shiny.png "Spoink") |
+| ![Spoink](../assets/sprites/spoink/front.gif "Spoink: It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.") | ![Spoink](../assets/sprites/spoink/front_shiny.png "Spoink: It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.") | ![Spoink](../assets/sprites/spoink/back.png "Spoink: It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.") | ![Spoink](../assets/sprites/spoink/back_shiny.png "Spoink: It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

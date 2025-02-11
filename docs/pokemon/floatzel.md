@@ -14,13 +14,13 @@ It is a common sight around fishing ports. It is known to rescue people and carr
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Floatzel](../assets/sprites/floatzel/front.gif "Floatzel") | ![Floatzel](../assets/sprites/floatzel/front_shiny.png "Floatzel") | ![Floatzel](../assets/sprites/floatzel/back.png "Floatzel") | ![Floatzel](../assets/sprites/floatzel/back_shiny.png "Floatzel") |
+| ![Floatzel](../assets/sprites/floatzel/front.gif "Floatzel: It is a common sight around fishing ports. It is known to rescue people and carry off prey.") | ![Floatzel](../assets/sprites/floatzel/front_shiny.png "Floatzel: It is a common sight around fishing ports. It is known to rescue people and carry off prey.") | ![Floatzel](../assets/sprites/floatzel/back.png "Floatzel: It is a common sight around fishing ports. It is known to rescue people and carry off prey.") | ![Floatzel](../assets/sprites/floatzel/back_shiny.png "Floatzel: It is a common sight around fishing ports. It is known to rescue people and carry off prey.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Floatzel](../assets/sprites/floatzel/front_female.gif "Floatzel") | N/A | ![Floatzel](../assets/sprites/floatzel/back_female.png "Floatzel") | ![Floatzel](../assets/sprites/floatzel/back_shiny_female.png "Floatzel") |
+| ![Floatzel](../assets/sprites/floatzel/front_female.gif "Floatzel: It is a common sight around fishing ports. It is known to rescue people and carry off prey.") | ? | ![Floatzel](../assets/sprites/floatzel/back_female.png "Floatzel: It is a common sight around fishing ports. It is known to rescue people and carry off prey.") | ![Floatzel](../assets/sprites/floatzel/back_shiny_female.png "Floatzel: It is a common sight around fishing ports. It is known to rescue people and carry off prey.") |
 
 ### Cries
 

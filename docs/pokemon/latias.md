@@ -14,7 +14,13 @@ Its body is covered with a down that can refract light in such a way that it bec
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Latias](../assets/sprites/latias/front.gif "Latias") | ![Latias](../assets/sprites/latias/front_shiny.png "Latias") | ![Latias](../assets/sprites/latias/back.png "Latias") | ![Latias](../assets/sprites/latias/back_shiny.png "Latias") |
+| ![Latias](../assets/sprites/latias/front.gif "Latias: Its body is covered with a down that can refract light in such a way that it becomes invisible.") | ![Latias](../assets/sprites/latias/front_shiny.png "Latias: Its body is covered with a down that can refract light in such a way that it becomes invisible.") | ![Latias](../assets/sprites/latias/back.png "Latias: Its body is covered with a down that can refract light in such a way that it becomes invisible.") | ![Latias](../assets/sprites/latias/back_shiny.png "Latias: Its body is covered with a down that can refract light in such a way that it becomes invisible.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

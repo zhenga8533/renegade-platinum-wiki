@@ -14,13 +14,13 @@ Its arms are made of plants that bind themselves to things. They grow back right
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Tangrowth](../assets/sprites/tangrowth/front.gif "Tangrowth") | ![Tangrowth](../assets/sprites/tangrowth/front_shiny.png "Tangrowth") | ![Tangrowth](../assets/sprites/tangrowth/back.png "Tangrowth") | ![Tangrowth](../assets/sprites/tangrowth/back_shiny.png "Tangrowth") |
+| ![Tangrowth](../assets/sprites/tangrowth/front.gif "Tangrowth: Its arms are made of plants that bind themselves to things. They grow back right away if cut.") | ![Tangrowth](../assets/sprites/tangrowth/front_shiny.png "Tangrowth: Its arms are made of plants that bind themselves to things. They grow back right away if cut.") | ![Tangrowth](../assets/sprites/tangrowth/back.png "Tangrowth: Its arms are made of plants that bind themselves to things. They grow back right away if cut.") | ![Tangrowth](../assets/sprites/tangrowth/back_shiny.png "Tangrowth: Its arms are made of plants that bind themselves to things. They grow back right away if cut.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Tangrowth](../assets/sprites/tangrowth/front_female.gif "Tangrowth") | ![Tangrowth](../assets/sprites/tangrowth/front_shiny_female.png "Tangrowth") | ![Tangrowth](../assets/sprites/tangrowth/back_female.png "Tangrowth") | ![Tangrowth](../assets/sprites/tangrowth/back_shiny_female.png "Tangrowth") |
+| ![Tangrowth](../assets/sprites/tangrowth/front_female.gif "Tangrowth: Its arms are made of plants that bind themselves to things. They grow back right away if cut.") | ![Tangrowth](../assets/sprites/tangrowth/front_shiny_female.png "Tangrowth: Its arms are made of plants that bind themselves to things. They grow back right away if cut.") | ![Tangrowth](../assets/sprites/tangrowth/back_female.png "Tangrowth: Its arms are made of plants that bind themselves to things. They grow back right away if cut.") | ![Tangrowth](../assets/sprites/tangrowth/back_shiny_female.png "Tangrowth: Its arms are made of plants that bind themselves to things. They grow back right away if cut.") |
 
 ### Cries
 

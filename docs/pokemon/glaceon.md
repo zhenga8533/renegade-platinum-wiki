@@ -14,7 +14,13 @@ By controlling its body heat, it can freeze the atmosphere around it to make a d
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Glaceon](../assets/sprites/glaceon/front.gif "Glaceon") | ![Glaceon](../assets/sprites/glaceon/front_shiny.png "Glaceon") | ![Glaceon](../assets/sprites/glaceon/back.png "Glaceon") | ![Glaceon](../assets/sprites/glaceon/back_shiny.png "Glaceon") |
+| ![Glaceon](../assets/sprites/glaceon/front.gif "Glaceon: By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.") | ![Glaceon](../assets/sprites/glaceon/front_shiny.png "Glaceon: By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.") | ![Glaceon](../assets/sprites/glaceon/back.png "Glaceon: By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.") | ![Glaceon](../assets/sprites/glaceon/back_shiny.png "Glaceon: By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

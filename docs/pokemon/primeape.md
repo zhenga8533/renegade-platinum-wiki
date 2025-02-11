@@ -14,7 +14,13 @@ It grows angry if you see its eyes and gets angrier if you run. If you beat it, 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Primeape](../assets/sprites/primeape/front.gif "Primeape") | ![Primeape](../assets/sprites/primeape/front_shiny.png "Primeape") | ![Primeape](../assets/sprites/primeape/back.png "Primeape") | ![Primeape](../assets/sprites/primeape/back_shiny.png "Primeape") |
+| ![Primeape](../assets/sprites/primeape/front.gif "Primeape: It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.") | ![Primeape](../assets/sprites/primeape/front_shiny.png "Primeape: It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.") | ![Primeape](../assets/sprites/primeape/back.png "Primeape: It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.") | ![Primeape](../assets/sprites/primeape/back_shiny.png "Primeape: It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,13 +14,13 @@ The flames it breathes when angry contain toxins. If they cause a burn, it will 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Houndoom](../assets/sprites/houndoom/front.gif "Houndoom") | ![Houndoom](../assets/sprites/houndoom/front_shiny.png "Houndoom") | ![Houndoom](../assets/sprites/houndoom/back.png "Houndoom") | ![Houndoom](../assets/sprites/houndoom/back_shiny.png "Houndoom") |
+| ![Houndoom](../assets/sprites/houndoom/front.gif "Houndoom: The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.") | ![Houndoom](../assets/sprites/houndoom/front_shiny.png "Houndoom: The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.") | ![Houndoom](../assets/sprites/houndoom/back.png "Houndoom: The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.") | ![Houndoom](../assets/sprites/houndoom/back_shiny.png "Houndoom: The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Houndoom](../assets/sprites/houndoom/front_female.gif "Houndoom") | ![Houndoom](../assets/sprites/houndoom/front_shiny_female.png "Houndoom") | ![Houndoom](../assets/sprites/houndoom/back_female.png "Houndoom") | ![Houndoom](../assets/sprites/houndoom/back_shiny_female.png "Houndoom") |
+| ![Houndoom](../assets/sprites/houndoom/front_female.gif "Houndoom: The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.") | ![Houndoom](../assets/sprites/houndoom/front_shiny_female.png "Houndoom: The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.") | ![Houndoom](../assets/sprites/houndoom/back_female.png "Houndoom: The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.") | ![Houndoom](../assets/sprites/houndoom/back_shiny_female.png "Houndoom: The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.") |
 
 ### Cries
 

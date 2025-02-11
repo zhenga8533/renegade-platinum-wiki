@@ -14,7 +14,13 @@ It had been asleep in underground magma ever since it fiercely fought KYOGRE lon
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Groudon](../assets/sprites/groudon/front.gif "Groudon") | ![Groudon](../assets/sprites/groudon/front_shiny.png "Groudon") | ![Groudon](../assets/sprites/groudon/back.png "Groudon") | ![Groudon](../assets/sprites/groudon/back_shiny.png "Groudon") |
+| ![Groudon](../assets/sprites/groudon/front.gif "Groudon: It had been asleep in underground magma ever since it fiercely fought KYOGRE long ago.") | ![Groudon](../assets/sprites/groudon/front_shiny.png "Groudon: It had been asleep in underground magma ever since it fiercely fought KYOGRE long ago.") | ![Groudon](../assets/sprites/groudon/back.png "Groudon: It had been asleep in underground magma ever since it fiercely fought KYOGRE long ago.") | ![Groudon](../assets/sprites/groudon/back_shiny.png "Groudon: It had been asleep in underground magma ever since it fiercely fought KYOGRE long ago.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

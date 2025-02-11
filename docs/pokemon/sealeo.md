@@ -14,7 +14,13 @@ It habitually spins things on its nose. By doing so, it learns textures and odor
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Sealeo](../assets/sprites/sealeo/front.gif "Sealeo") | ![Sealeo](../assets/sprites/sealeo/front_shiny.png "Sealeo") | ![Sealeo](../assets/sprites/sealeo/back.png "Sealeo") | ![Sealeo](../assets/sprites/sealeo/back_shiny.png "Sealeo") |
+| ![Sealeo](../assets/sprites/sealeo/front.gif "Sealeo: It habitually spins things on its nose. By doing so, it learns textures and odors.") | ![Sealeo](../assets/sprites/sealeo/front_shiny.png "Sealeo: It habitually spins things on its nose. By doing so, it learns textures and odors.") | ![Sealeo](../assets/sprites/sealeo/back.png "Sealeo: It habitually spins things on its nose. By doing so, it learns textures and odors.") | ![Sealeo](../assets/sprites/sealeo/back_shiny.png "Sealeo: It habitually spins things on its nose. By doing so, it learns textures and odors.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

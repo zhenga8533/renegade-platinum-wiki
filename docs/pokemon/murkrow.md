@@ -14,13 +14,13 @@ If spotted, it will lure an unwary person into chasing it, then lose the pursuer
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Murkrow](../assets/sprites/murkrow/front.gif "Murkrow") | ![Murkrow](../assets/sprites/murkrow/front_shiny.png "Murkrow") | ![Murkrow](../assets/sprites/murkrow/back.png "Murkrow") | ![Murkrow](../assets/sprites/murkrow/back_shiny.png "Murkrow") |
+| ![Murkrow](../assets/sprites/murkrow/front.gif "Murkrow: If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails.") | ![Murkrow](../assets/sprites/murkrow/front_shiny.png "Murkrow: If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails.") | ![Murkrow](../assets/sprites/murkrow/back.png "Murkrow: If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails.") | ![Murkrow](../assets/sprites/murkrow/back_shiny.png "Murkrow: If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Murkrow](../assets/sprites/murkrow/front_female.gif "Murkrow") | ![Murkrow](../assets/sprites/murkrow/front_shiny_female.png "Murkrow") | ![Murkrow](../assets/sprites/murkrow/back_female.png "Murkrow") | ![Murkrow](../assets/sprites/murkrow/back_shiny_female.png "Murkrow") |
+| ![Murkrow](../assets/sprites/murkrow/front_female.gif "Murkrow: If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails.") | ![Murkrow](../assets/sprites/murkrow/front_shiny_female.png "Murkrow: If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails.") | ![Murkrow](../assets/sprites/murkrow/back_female.png "Murkrow: If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails.") | ![Murkrow](../assets/sprites/murkrow/back_shiny_female.png "Murkrow: If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails.") |
 
 ### Cries
 

@@ -14,7 +14,13 @@ The world’s laziest Pokémon. When it is lounging, it is actually saving energ
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Slaking](../assets/sprites/slaking/front.gif "Slaking") | ![Slaking](../assets/sprites/slaking/front_shiny.png "Slaking") | ![Slaking](../assets/sprites/slaking/back.png "Slaking") | ![Slaking](../assets/sprites/slaking/back_shiny.png "Slaking") |
+| ![Slaking](../assets/sprites/slaking/front.gif "Slaking: The world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back.") | ![Slaking](../assets/sprites/slaking/front_shiny.png "Slaking: The world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back.") | ![Slaking](../assets/sprites/slaking/back.png "Slaking: The world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back.") | ![Slaking](../assets/sprites/slaking/back_shiny.png "Slaking: The world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

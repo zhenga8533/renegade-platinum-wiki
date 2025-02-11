@@ -14,7 +14,13 @@ It grips prey with its pincers until the prey is torn in half. What it can’t t
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Pinsir](../assets/sprites/pinsir/front.gif "Pinsir") | ![Pinsir](../assets/sprites/pinsir/front_shiny.png "Pinsir") | ![Pinsir](../assets/sprites/pinsir/back.png "Pinsir") | ![Pinsir](../assets/sprites/pinsir/back_shiny.png "Pinsir") |
+| ![Pinsir](../assets/sprites/pinsir/front.gif "Pinsir: It grips prey with its pincers until the prey is torn in half. What it can’t tear, it tosses far.") | ![Pinsir](../assets/sprites/pinsir/front_shiny.png "Pinsir: It grips prey with its pincers until the prey is torn in half. What it can’t tear, it tosses far.") | ![Pinsir](../assets/sprites/pinsir/back.png "Pinsir: It grips prey with its pincers until the prey is torn in half. What it can’t tear, it tosses far.") | ![Pinsir](../assets/sprites/pinsir/back_shiny.png "Pinsir: It grips prey with its pincers until the prey is torn in half. What it can’t tear, it tosses far.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

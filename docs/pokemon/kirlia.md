@@ -14,7 +14,13 @@ If its Trainer becomes happy, it overflows with energy, dancing joyously while s
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Kirlia](../assets/sprites/kirlia/front.gif "Kirlia") | ![Kirlia](../assets/sprites/kirlia/front_shiny.png "Kirlia") | ![Kirlia](../assets/sprites/kirlia/back.png "Kirlia") | ![Kirlia](../assets/sprites/kirlia/back_shiny.png "Kirlia") |
+| ![Kirlia](../assets/sprites/kirlia/front.gif "Kirlia: If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.") | ![Kirlia](../assets/sprites/kirlia/front_shiny.png "Kirlia: If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.") | ![Kirlia](../assets/sprites/kirlia/back.png "Kirlia: If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.") | ![Kirlia](../assets/sprites/kirlia/back_shiny.png "Kirlia: If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

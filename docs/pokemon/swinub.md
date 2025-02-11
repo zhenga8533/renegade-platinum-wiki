@@ -14,7 +14,13 @@ It has a very sensitive nose. It can locate mushrooms, berries, and even hot spr
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Swinub](../assets/sprites/swinub/front.gif "Swinub") | ![Swinub](../assets/sprites/swinub/front_shiny.png "Swinub") | ![Swinub](../assets/sprites/swinub/back.png "Swinub") | ![Swinub](../assets/sprites/swinub/back_shiny.png "Swinub") |
+| ![Swinub](../assets/sprites/swinub/front.gif "Swinub: It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.") | ![Swinub](../assets/sprites/swinub/front_shiny.png "Swinub: It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.") | ![Swinub](../assets/sprites/swinub/back.png "Swinub: It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.") | ![Swinub](../assets/sprites/swinub/back_shiny.png "Swinub: It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

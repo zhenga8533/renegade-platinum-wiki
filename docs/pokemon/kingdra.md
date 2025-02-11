@@ -14,7 +14,13 @@ It lives in caves on the seafloor and creates giant whirlpools every time it mov
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Kingdra](../assets/sprites/kingdra/front.gif "Kingdra") | ![Kingdra](../assets/sprites/kingdra/front_shiny.png "Kingdra") | ![Kingdra](../assets/sprites/kingdra/back.png "Kingdra") | ![Kingdra](../assets/sprites/kingdra/back_shiny.png "Kingdra") |
+| ![Kingdra](../assets/sprites/kingdra/front.gif "Kingdra: It lives in caves on the seafloor and creates giant whirlpools every time it moves.") | ![Kingdra](../assets/sprites/kingdra/front_shiny.png "Kingdra: It lives in caves on the seafloor and creates giant whirlpools every time it moves.") | ![Kingdra](../assets/sprites/kingdra/back.png "Kingdra: It lives in caves on the seafloor and creates giant whirlpools every time it moves.") | ![Kingdra](../assets/sprites/kingdra/back_shiny.png "Kingdra: It lives in caves on the seafloor and creates giant whirlpools every time it moves.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

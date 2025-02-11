@@ -14,13 +14,13 @@ Toxic powder is scattered with each flap. At night, it is known to strip leaves 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Dustox](../assets/sprites/dustox/front.gif "Dustox") | ![Dustox](../assets/sprites/dustox/front_shiny.png "Dustox") | ![Dustox](../assets/sprites/dustox/back.png "Dustox") | ![Dustox](../assets/sprites/dustox/back_shiny.png "Dustox") |
+| ![Dustox](../assets/sprites/dustox/front.gif "Dustox: Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.") | ![Dustox](../assets/sprites/dustox/front_shiny.png "Dustox: Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.") | ![Dustox](../assets/sprites/dustox/back.png "Dustox: Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.") | ![Dustox](../assets/sprites/dustox/back_shiny.png "Dustox: Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Dustox](../assets/sprites/dustox/front_female.gif "Dustox") | ![Dustox](../assets/sprites/dustox/front_shiny_female.png "Dustox") | ![Dustox](../assets/sprites/dustox/back_female.png "Dustox") | ![Dustox](../assets/sprites/dustox/back_shiny_female.png "Dustox") |
+| ![Dustox](../assets/sprites/dustox/front_female.gif "Dustox: Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.") | ![Dustox](../assets/sprites/dustox/front_shiny_female.png "Dustox: Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.") | ![Dustox](../assets/sprites/dustox/back_female.png "Dustox: Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.") | ![Dustox](../assets/sprites/dustox/back_shiny_female.png "Dustox: Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.") |
 
 ### Cries
 

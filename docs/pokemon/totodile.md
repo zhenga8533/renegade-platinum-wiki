@@ -14,7 +14,13 @@ It has the habit of biting anything with its developed jaws. Even its Trainer ne
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Totodile](../assets/sprites/totodile/front.gif "Totodile") | ![Totodile](../assets/sprites/totodile/front_shiny.png "Totodile") | ![Totodile](../assets/sprites/totodile/back.png "Totodile") | ![Totodile](../assets/sprites/totodile/back_shiny.png "Totodile") |
+| ![Totodile](../assets/sprites/totodile/front.gif "Totodile: It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.") | ![Totodile](../assets/sprites/totodile/front_shiny.png "Totodile: It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.") | ![Totodile](../assets/sprites/totodile/back.png "Totodile: It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.") | ![Totodile](../assets/sprites/totodile/back_shiny.png "Totodile: It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

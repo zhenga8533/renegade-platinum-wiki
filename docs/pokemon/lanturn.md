@@ -14,7 +14,13 @@ LANTURN’s light can shine up from great depths. It is nicknamed “The Deep-Se
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Lanturn](../assets/sprites/lanturn/front.gif "Lanturn") | ![Lanturn](../assets/sprites/lanturn/front_shiny.png "Lanturn") | ![Lanturn](../assets/sprites/lanturn/back.png "Lanturn") | ![Lanturn](../assets/sprites/lanturn/back_shiny.png "Lanturn") |
+| ![Lanturn](../assets/sprites/lanturn/front.gif "Lanturn: LANTURN’s light can shine up from great depths. It is nicknamed “The Deep-Sea Star.”") | ![Lanturn](../assets/sprites/lanturn/front_shiny.png "Lanturn: LANTURN’s light can shine up from great depths. It is nicknamed “The Deep-Sea Star.”") | ![Lanturn](../assets/sprites/lanturn/back.png "Lanturn: LANTURN’s light can shine up from great depths. It is nicknamed “The Deep-Sea Star.”") | ![Lanturn](../assets/sprites/lanturn/back_shiny.png "Lanturn: LANTURN’s light can shine up from great depths. It is nicknamed “The Deep-Sea Star.”") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

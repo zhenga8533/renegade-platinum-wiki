@@ -14,7 +14,13 @@ Its short arms stretch when it throws punches. Its technique is equal to that of
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Breloom](../assets/sprites/breloom/front.gif "Breloom") | ![Breloom](../assets/sprites/breloom/front_shiny.png "Breloom") | ![Breloom](../assets/sprites/breloom/back.png "Breloom") | ![Breloom](../assets/sprites/breloom/back_shiny.png "Breloom") |
+| ![Breloom](../assets/sprites/breloom/front.gif "Breloom: Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.") | ![Breloom](../assets/sprites/breloom/front_shiny.png "Breloom: Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.") | ![Breloom](../assets/sprites/breloom/back.png "Breloom: Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.") | ![Breloom](../assets/sprites/breloom/back_shiny.png "Breloom: Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

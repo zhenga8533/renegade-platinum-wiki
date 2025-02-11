@@ -14,13 +14,13 @@ It desperately tries to keep its black tail hidden. It is said to be proof the t
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Wobbuffet](../assets/sprites/wobbuffet/front.gif "Wobbuffet") | ![Wobbuffet](../assets/sprites/wobbuffet/front_shiny.png "Wobbuffet") | ![Wobbuffet](../assets/sprites/wobbuffet/back.png "Wobbuffet") | ![Wobbuffet](../assets/sprites/wobbuffet/back_shiny.png "Wobbuffet") |
+| ![Wobbuffet](../assets/sprites/wobbuffet/front.gif "Wobbuffet: It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.") | ![Wobbuffet](../assets/sprites/wobbuffet/front_shiny.png "Wobbuffet: It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.") | ![Wobbuffet](../assets/sprites/wobbuffet/back.png "Wobbuffet: It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.") | ![Wobbuffet](../assets/sprites/wobbuffet/back_shiny.png "Wobbuffet: It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Wobbuffet](../assets/sprites/wobbuffet/front_female.gif "Wobbuffet") | ![Wobbuffet](../assets/sprites/wobbuffet/front_shiny_female.png "Wobbuffet") | ![Wobbuffet](../assets/sprites/wobbuffet/back_female.png "Wobbuffet") | ![Wobbuffet](../assets/sprites/wobbuffet/back_shiny_female.png "Wobbuffet") |
+| ![Wobbuffet](../assets/sprites/wobbuffet/front_female.gif "Wobbuffet: It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.") | ![Wobbuffet](../assets/sprites/wobbuffet/front_shiny_female.png "Wobbuffet: It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.") | ![Wobbuffet](../assets/sprites/wobbuffet/back_female.png "Wobbuffet: It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.") | ![Wobbuffet](../assets/sprites/wobbuffet/back_shiny_female.png "Wobbuffet: It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.") |
 
 ### Cries
 

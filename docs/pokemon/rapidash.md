@@ -14,7 +14,13 @@ When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful ap
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Rapidash](../assets/sprites/rapidash/front.gif "Rapidash") | ![Rapidash](../assets/sprites/rapidash/front_shiny.png "Rapidash") | ![Rapidash](../assets/sprites/rapidash/back.png "Rapidash") | ![Rapidash](../assets/sprites/rapidash/back_shiny.png "Rapidash") |
+| ![Rapidash](../assets/sprites/rapidash/front.gif "Rapidash: When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.") | ![Rapidash](../assets/sprites/rapidash/front_shiny.png "Rapidash: When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.") | ![Rapidash](../assets/sprites/rapidash/back.png "Rapidash: When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.") | ![Rapidash](../assets/sprites/rapidash/back_shiny.png "Rapidash: When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

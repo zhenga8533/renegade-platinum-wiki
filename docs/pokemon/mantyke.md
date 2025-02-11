@@ -14,7 +14,13 @@ People organize tours to see this Pokémon frolic and skim the tops of waves wit
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Mantyke](../assets/sprites/mantyke/front.gif "Mantyke") | ![Mantyke](../assets/sprites/mantyke/front_shiny.png "Mantyke") | ![Mantyke](../assets/sprites/mantyke/back.png "Mantyke") | ![Mantyke](../assets/sprites/mantyke/back_shiny.png "Mantyke") |
+| ![Mantyke](../assets/sprites/mantyke/front.gif "Mantyke: People organize tours to see this Pokémon frolic and skim the tops of waves with REMORAID.") | ![Mantyke](../assets/sprites/mantyke/front_shiny.png "Mantyke: People organize tours to see this Pokémon frolic and skim the tops of waves with REMORAID.") | ![Mantyke](../assets/sprites/mantyke/back.png "Mantyke: People organize tours to see this Pokémon frolic and skim the tops of waves with REMORAID.") | ![Mantyke](../assets/sprites/mantyke/back_shiny.png "Mantyke: People organize tours to see this Pokémon frolic and skim the tops of waves with REMORAID.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

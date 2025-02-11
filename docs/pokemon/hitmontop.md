@@ -14,7 +14,13 @@ It fights while spinning like a top. The centrifugal force boosts its destructiv
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Hitmontop](../assets/sprites/hitmontop/front.gif "Hitmontop") | ![Hitmontop](../assets/sprites/hitmontop/front_shiny.png "Hitmontop") | ![Hitmontop](../assets/sprites/hitmontop/back.png "Hitmontop") | ![Hitmontop](../assets/sprites/hitmontop/back_shiny.png "Hitmontop") |
+| ![Hitmontop](../assets/sprites/hitmontop/front.gif "Hitmontop: It fights while spinning like a top. The centrifugal force boosts its destructive power by ten.") | ![Hitmontop](../assets/sprites/hitmontop/front_shiny.png "Hitmontop: It fights while spinning like a top. The centrifugal force boosts its destructive power by ten.") | ![Hitmontop](../assets/sprites/hitmontop/back.png "Hitmontop: It fights while spinning like a top. The centrifugal force boosts its destructive power by ten.") | ![Hitmontop](../assets/sprites/hitmontop/back_shiny.png "Hitmontop: It fights while spinning like a top. The centrifugal force boosts its destructive power by ten.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

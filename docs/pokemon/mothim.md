@@ -14,7 +14,13 @@ While it loves floral honey, it won’t gather any itself. Instead, it plots to 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Mothim](../assets/sprites/mothim/front.gif "Mothim") | ![Mothim](../assets/sprites/mothim/front_shiny.png "Mothim") | ![Mothim](../assets/sprites/mothim/back.png "Mothim") | ![Mothim](../assets/sprites/mothim/back_shiny.png "Mothim") |
+| ![Mothim](../assets/sprites/mothim/front.gif "Mothim: While it loves floral honey, it won’t gather any itself. Instead, it plots to steal some from COMBEE.") | ![Mothim](../assets/sprites/mothim/front_shiny.png "Mothim: While it loves floral honey, it won’t gather any itself. Instead, it plots to steal some from COMBEE.") | ![Mothim](../assets/sprites/mothim/back.png "Mothim: While it loves floral honey, it won’t gather any itself. Instead, it plots to steal some from COMBEE.") | ![Mothim](../assets/sprites/mothim/back_shiny.png "Mothim: While it loves floral honey, it won’t gather any itself. Instead, it plots to steal some from COMBEE.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

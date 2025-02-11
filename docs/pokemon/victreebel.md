@@ -14,7 +14,13 @@ It pools in its mouth a fluid with a honeylike scent, which is really an acid th
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Victreebel](../assets/sprites/victreebel/front.gif "Victreebel") | ![Victreebel](../assets/sprites/victreebel/front_shiny.png "Victreebel") | ![Victreebel](../assets/sprites/victreebel/back.png "Victreebel") | ![Victreebel](../assets/sprites/victreebel/back_shiny.png "Victreebel") |
+| ![Victreebel](../assets/sprites/victreebel/front.gif "Victreebel: It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.") | ![Victreebel](../assets/sprites/victreebel/front_shiny.png "Victreebel: It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.") | ![Victreebel](../assets/sprites/victreebel/back.png "Victreebel: It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.") | ![Victreebel](../assets/sprites/victreebel/back_shiny.png "Victreebel: It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

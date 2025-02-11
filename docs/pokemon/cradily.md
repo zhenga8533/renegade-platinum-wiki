@@ -14,7 +14,13 @@ It lives in the shallows of warm seas. When the tide goes out, it digs up prey f
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Cradily](../assets/sprites/cradily/front.gif "Cradily") | ![Cradily](../assets/sprites/cradily/front_shiny.png "Cradily") | ![Cradily](../assets/sprites/cradily/back.png "Cradily") | ![Cradily](../assets/sprites/cradily/back_shiny.png "Cradily") |
+| ![Cradily](../assets/sprites/cradily/front.gif "Cradily: It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.") | ![Cradily](../assets/sprites/cradily/front_shiny.png "Cradily: It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.") | ![Cradily](../assets/sprites/cradily/back.png "Cradily: It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.") | ![Cradily](../assets/sprites/cradily/back_shiny.png "Cradily: It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

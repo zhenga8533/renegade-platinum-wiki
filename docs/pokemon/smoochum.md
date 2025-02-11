@@ -14,7 +14,13 @@ It tests everything by touching with its lips, which remember what it likes and 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Smoochum](../assets/sprites/smoochum/front.gif "Smoochum") | ![Smoochum](../assets/sprites/smoochum/front_shiny.png "Smoochum") | ![Smoochum](../assets/sprites/smoochum/back.png "Smoochum") | ![Smoochum](../assets/sprites/smoochum/back_shiny.png "Smoochum") |
+| ![Smoochum](../assets/sprites/smoochum/front.gif "Smoochum: It tests everything by touching with its lips, which remember what it likes and dislikes.") | ![Smoochum](../assets/sprites/smoochum/front_shiny.png "Smoochum: It tests everything by touching with its lips, which remember what it likes and dislikes.") | ![Smoochum](../assets/sprites/smoochum/back.png "Smoochum: It tests everything by touching with its lips, which remember what it likes and dislikes.") | ![Smoochum](../assets/sprites/smoochum/back_shiny.png "Smoochum: It tests everything by touching with its lips, which remember what it likes and dislikes.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

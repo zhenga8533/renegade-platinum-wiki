@@ -14,7 +14,13 @@ As a newborn, it can barely stand. However, through galloping, its legs are made
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Ponyta](../assets/sprites/ponyta/front.gif "Ponyta") | ![Ponyta](../assets/sprites/ponyta/front_shiny.png "Ponyta") | ![Ponyta](../assets/sprites/ponyta/back.png "Ponyta") | ![Ponyta](../assets/sprites/ponyta/back_shiny.png "Ponyta") |
+| ![Ponyta](../assets/sprites/ponyta/front.gif "Ponyta: As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.") | ![Ponyta](../assets/sprites/ponyta/front_shiny.png "Ponyta: As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.") | ![Ponyta](../assets/sprites/ponyta/back.png "Ponyta: As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.") | ![Ponyta](../assets/sprites/ponyta/back_shiny.png "Ponyta: As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

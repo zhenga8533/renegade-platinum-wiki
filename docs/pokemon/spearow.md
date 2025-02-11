@@ -14,7 +14,13 @@ It flaps its small wings busily to fly. Using its beak, it searches in grass for
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Spearow](../assets/sprites/spearow/front.gif "Spearow") | ![Spearow](../assets/sprites/spearow/front_shiny.png "Spearow") | ![Spearow](../assets/sprites/spearow/back.png "Spearow") | ![Spearow](../assets/sprites/spearow/back_shiny.png "Spearow") |
+| ![Spearow](../assets/sprites/spearow/front.gif "Spearow: It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.") | ![Spearow](../assets/sprites/spearow/front_shiny.png "Spearow: It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.") | ![Spearow](../assets/sprites/spearow/back.png "Spearow: It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.") | ![Spearow](../assets/sprites/spearow/back_shiny.png "Spearow: It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

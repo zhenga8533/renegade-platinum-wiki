@@ -14,13 +14,13 @@ Despite its looks, it is aggressive. It jabs with its long, thin mouth if distur
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Beautifly](../assets/sprites/beautifly/front.gif "Beautifly") | ![Beautifly](../assets/sprites/beautifly/front_shiny.png "Beautifly") | ![Beautifly](../assets/sprites/beautifly/back.png "Beautifly") | ![Beautifly](../assets/sprites/beautifly/back_shiny.png "Beautifly") |
+| ![Beautifly](../assets/sprites/beautifly/front.gif "Beautifly: Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.") | ![Beautifly](../assets/sprites/beautifly/front_shiny.png "Beautifly: Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.") | ![Beautifly](../assets/sprites/beautifly/back.png "Beautifly: Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.") | ![Beautifly](../assets/sprites/beautifly/back_shiny.png "Beautifly: Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Beautifly](../assets/sprites/beautifly/front_female.gif "Beautifly") | ![Beautifly](../assets/sprites/beautifly/front_shiny_female.png "Beautifly") | ![Beautifly](../assets/sprites/beautifly/back_female.png "Beautifly") | ![Beautifly](../assets/sprites/beautifly/back_shiny_female.png "Beautifly") |
+| ![Beautifly](../assets/sprites/beautifly/front_female.gif "Beautifly: Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.") | ![Beautifly](../assets/sprites/beautifly/front_shiny_female.png "Beautifly: Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.") | ![Beautifly](../assets/sprites/beautifly/back_female.png "Beautifly: Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.") | ![Beautifly](../assets/sprites/beautifly/back_shiny_female.png "Beautifly: Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.") |
 
 ### Cries
 

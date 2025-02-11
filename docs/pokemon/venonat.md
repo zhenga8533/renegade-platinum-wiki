@@ -14,7 +14,13 @@ Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Venonat](../assets/sprites/venonat/front.gif "Venonat") | ![Venonat](../assets/sprites/venonat/front_shiny.png "Venonat") | ![Venonat](../assets/sprites/venonat/back.png "Venonat") | ![Venonat](../assets/sprites/venonat/back_shiny.png "Venonat") |
+| ![Venonat](../assets/sprites/venonat/front.gif "Venonat: Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.") | ![Venonat](../assets/sprites/venonat/front_shiny.png "Venonat: Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.") | ![Venonat](../assets/sprites/venonat/back.png "Venonat: Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.") | ![Venonat](../assets/sprites/venonat/back_shiny.png "Venonat: Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

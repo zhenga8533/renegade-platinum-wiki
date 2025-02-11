@@ -14,7 +14,13 @@ Its hardy vitality enables it to adapt to any environment. Its pincers will neve
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Corphish](../assets/sprites/corphish/front.gif "Corphish") | ![Corphish](../assets/sprites/corphish/front_shiny.png "Corphish") | ![Corphish](../assets/sprites/corphish/back.png "Corphish") | ![Corphish](../assets/sprites/corphish/back_shiny.png "Corphish") |
+| ![Corphish](../assets/sprites/corphish/front.gif "Corphish: Its hardy vitality enables it to adapt to any environment. Its pincers will never release prey.") | ![Corphish](../assets/sprites/corphish/front_shiny.png "Corphish: Its hardy vitality enables it to adapt to any environment. Its pincers will never release prey.") | ![Corphish](../assets/sprites/corphish/back.png "Corphish: Its hardy vitality enables it to adapt to any environment. Its pincers will never release prey.") | ![Corphish](../assets/sprites/corphish/back_shiny.png "Corphish: Its hardy vitality enables it to adapt to any environment. Its pincers will never release prey.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

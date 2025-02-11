@@ -14,7 +14,13 @@ It lives in treetop colonies. If one becomes enraged, the whole colony rampages 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Mankey](../assets/sprites/mankey/front.gif "Mankey") | ![Mankey](../assets/sprites/mankey/front_shiny.png "Mankey") | ![Mankey](../assets/sprites/mankey/back.png "Mankey") | ![Mankey](../assets/sprites/mankey/back_shiny.png "Mankey") |
+| ![Mankey](../assets/sprites/mankey/front.gif "Mankey: It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.") | ![Mankey](../assets/sprites/mankey/front_shiny.png "Mankey: It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.") | ![Mankey](../assets/sprites/mankey/back.png "Mankey: It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.") | ![Mankey](../assets/sprites/mankey/back_shiny.png "Mankey: It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

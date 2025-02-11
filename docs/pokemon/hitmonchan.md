@@ -14,7 +14,13 @@ The arm-twisting punches it throws pulverize even concrete. It rests after three
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Hitmonchan](../assets/sprites/hitmonchan/front.gif "Hitmonchan") | ![Hitmonchan](../assets/sprites/hitmonchan/front_shiny.png "Hitmonchan") | ![Hitmonchan](../assets/sprites/hitmonchan/back.png "Hitmonchan") | ![Hitmonchan](../assets/sprites/hitmonchan/back_shiny.png "Hitmonchan") |
+| ![Hitmonchan](../assets/sprites/hitmonchan/front.gif "Hitmonchan: The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.") | ![Hitmonchan](../assets/sprites/hitmonchan/front_shiny.png "Hitmonchan: The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.") | ![Hitmonchan](../assets/sprites/hitmonchan/back.png "Hitmonchan: The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.") | ![Hitmonchan](../assets/sprites/hitmonchan/back_shiny.png "Hitmonchan: The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

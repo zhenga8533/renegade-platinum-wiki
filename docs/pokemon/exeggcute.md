@@ -14,7 +14,13 @@ Its six eggs converse using telepathy. They can quickly gather if they become se
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Exeggcute](../assets/sprites/exeggcute/front.gif "Exeggcute") | ![Exeggcute](../assets/sprites/exeggcute/front_shiny.png "Exeggcute") | ![Exeggcute](../assets/sprites/exeggcute/back.png "Exeggcute") | ![Exeggcute](../assets/sprites/exeggcute/back_shiny.png "Exeggcute") |
+| ![Exeggcute](../assets/sprites/exeggcute/front.gif "Exeggcute: Its six eggs converse using telepathy. They can quickly gather if they become separated.") | ![Exeggcute](../assets/sprites/exeggcute/front_shiny.png "Exeggcute: Its six eggs converse using telepathy. They can quickly gather if they become separated.") | ![Exeggcute](../assets/sprites/exeggcute/back.png "Exeggcute: Its six eggs converse using telepathy. They can quickly gather if they become separated.") | ![Exeggcute](../assets/sprites/exeggcute/back_shiny.png "Exeggcute: Its six eggs converse using telepathy. They can quickly gather if they become separated.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

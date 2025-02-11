@@ -14,7 +14,13 @@ When AZELF flew, people gained the determination to do things. It was the birth 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Azelf](../assets/sprites/azelf/front.gif "Azelf") | ![Azelf](../assets/sprites/azelf/front_shiny.png "Azelf") | ![Azelf](../assets/sprites/azelf/back.png "Azelf") | ![Azelf](../assets/sprites/azelf/back_shiny.png "Azelf") |
+| ![Azelf](../assets/sprites/azelf/front.gif "Azelf: When AZELF flew, people gained the determination to do things. It was the birth of willpower.") | ![Azelf](../assets/sprites/azelf/front_shiny.png "Azelf: When AZELF flew, people gained the determination to do things. It was the birth of willpower.") | ![Azelf](../assets/sprites/azelf/back.png "Azelf: When AZELF flew, people gained the determination to do things. It was the birth of willpower.") | ![Azelf](../assets/sprites/azelf/back_shiny.png "Azelf: When AZELF flew, people gained the determination to do things. It was the birth of willpower.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

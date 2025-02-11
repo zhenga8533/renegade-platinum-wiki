@@ -14,7 +14,13 @@ It spouts poison spores from the top of its head. These spores cause pain all ov
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Shroomish](../assets/sprites/shroomish/front.gif "Shroomish") | ![Shroomish](../assets/sprites/shroomish/front_shiny.png "Shroomish") | ![Shroomish](../assets/sprites/shroomish/back.png "Shroomish") | ![Shroomish](../assets/sprites/shroomish/back_shiny.png "Shroomish") |
+| ![Shroomish](../assets/sprites/shroomish/front.gif "Shroomish: It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.") | ![Shroomish](../assets/sprites/shroomish/front_shiny.png "Shroomish: It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.") | ![Shroomish](../assets/sprites/shroomish/back.png "Shroomish: It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.") | ![Shroomish](../assets/sprites/shroomish/back_shiny.png "Shroomish: It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

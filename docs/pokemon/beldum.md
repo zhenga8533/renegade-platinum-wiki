@@ -14,7 +14,13 @@ It converses with others by using magnetic pulses. In a swarm, they move in perf
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Beldum](../assets/sprites/beldum/front.gif "Beldum") | ![Beldum](../assets/sprites/beldum/front_shiny.png "Beldum") | ![Beldum](../assets/sprites/beldum/back.png "Beldum") | ![Beldum](../assets/sprites/beldum/back_shiny.png "Beldum") |
+| ![Beldum](../assets/sprites/beldum/front.gif "Beldum: It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.") | ![Beldum](../assets/sprites/beldum/front_shiny.png "Beldum: It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.") | ![Beldum](../assets/sprites/beldum/back.png "Beldum: It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.") | ![Beldum](../assets/sprites/beldum/back_shiny.png "Beldum: It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

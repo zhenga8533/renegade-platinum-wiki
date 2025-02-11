@@ -14,7 +14,13 @@ As soon as the tail claws close, its needle tips secrete poison. It can survive 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Skorupi](../assets/sprites/skorupi/front.gif "Skorupi") | ![Skorupi](../assets/sprites/skorupi/front_shiny.png "Skorupi") | ![Skorupi](../assets/sprites/skorupi/back.png "Skorupi") | ![Skorupi](../assets/sprites/skorupi/back_shiny.png "Skorupi") |
+| ![Skorupi](../assets/sprites/skorupi/front.gif "Skorupi: As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.") | ![Skorupi](../assets/sprites/skorupi/front_shiny.png "Skorupi: As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.") | ![Skorupi](../assets/sprites/skorupi/back.png "Skorupi: As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.") | ![Skorupi](../assets/sprites/skorupi/back_shiny.png "Skorupi: As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

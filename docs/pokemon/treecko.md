@@ -14,7 +14,13 @@ The soles of its feet are covered by countless tiny spikes, enabling it to walk 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Treecko](../assets/sprites/treecko/front.gif "Treecko") | ![Treecko](../assets/sprites/treecko/front_shiny.png "Treecko") | ![Treecko](../assets/sprites/treecko/back.png "Treecko") | ![Treecko](../assets/sprites/treecko/back_shiny.png "Treecko") |
+| ![Treecko](../assets/sprites/treecko/front.gif "Treecko: The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.") | ![Treecko](../assets/sprites/treecko/front_shiny.png "Treecko: The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.") | ![Treecko](../assets/sprites/treecko/back.png "Treecko: The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.") | ![Treecko](../assets/sprites/treecko/back_shiny.png "Treecko: The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

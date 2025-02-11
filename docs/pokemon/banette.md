@@ -14,7 +14,13 @@ A doll that became a Pokémon over its grudge from being junked. It seeks the ch
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Banette](../assets/sprites/banette/front.gif "Banette") | ![Banette](../assets/sprites/banette/front_shiny.png "Banette") | ![Banette](../assets/sprites/banette/back.png "Banette") | ![Banette](../assets/sprites/banette/back_shiny.png "Banette") |
+| ![Banette](../assets/sprites/banette/front.gif "Banette: A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.") | ![Banette](../assets/sprites/banette/front_shiny.png "Banette: A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.") | ![Banette](../assets/sprites/banette/back.png "Banette: A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.") | ![Banette](../assets/sprites/banette/back_shiny.png "Banette: A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

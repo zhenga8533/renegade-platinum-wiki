@@ -14,13 +14,13 @@ Its sharp fangs puncture the toughest of hides and have small holes for greedily
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Golbat](../assets/sprites/golbat/front.gif "Golbat") | ![Golbat](../assets/sprites/golbat/front_shiny.png "Golbat") | ![Golbat](../assets/sprites/golbat/back.png "Golbat") | ![Golbat](../assets/sprites/golbat/back_shiny.png "Golbat") |
+| ![Golbat](../assets/sprites/golbat/front.gif "Golbat: Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.") | ![Golbat](../assets/sprites/golbat/front_shiny.png "Golbat: Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.") | ![Golbat](../assets/sprites/golbat/back.png "Golbat: Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.") | ![Golbat](../assets/sprites/golbat/back_shiny.png "Golbat: Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Golbat](../assets/sprites/golbat/front_female.gif "Golbat") | ![Golbat](../assets/sprites/golbat/front_shiny_female.png "Golbat") | ![Golbat](../assets/sprites/golbat/back_female.png "Golbat") | ![Golbat](../assets/sprites/golbat/back_shiny_female.png "Golbat") |
+| ![Golbat](../assets/sprites/golbat/front_female.gif "Golbat: Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.") | ![Golbat](../assets/sprites/golbat/front_shiny_female.png "Golbat: Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.") | ![Golbat](../assets/sprites/golbat/back_female.png "Golbat: Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.") | ![Golbat](../assets/sprites/golbat/back_shiny_female.png "Golbat: Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.") |
 
 ### Cries
 

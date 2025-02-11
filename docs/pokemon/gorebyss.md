@@ -14,7 +14,13 @@ It lives at the bottom of the sea. In the springtime, its pink body turns more v
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Gorebyss](../assets/sprites/gorebyss/front.gif "Gorebyss") | ![Gorebyss](../assets/sprites/gorebyss/front_shiny.png "Gorebyss") | ![Gorebyss](../assets/sprites/gorebyss/back.png "Gorebyss") | ![Gorebyss](../assets/sprites/gorebyss/back_shiny.png "Gorebyss") |
+| ![Gorebyss](../assets/sprites/gorebyss/front.gif "Gorebyss: It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.") | ![Gorebyss](../assets/sprites/gorebyss/front_shiny.png "Gorebyss: It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.") | ![Gorebyss](../assets/sprites/gorebyss/back.png "Gorebyss: It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.") | ![Gorebyss](../assets/sprites/gorebyss/back_shiny.png "Gorebyss: It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

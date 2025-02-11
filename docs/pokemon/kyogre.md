@@ -14,7 +14,13 @@ It is said to have widened the seas by causing downpours. It had been asleep in 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Kyogre](../assets/sprites/kyogre/front.gif "Kyogre") | ![Kyogre](../assets/sprites/kyogre/front_shiny.png "Kyogre") | ![Kyogre](../assets/sprites/kyogre/back.png "Kyogre") | ![Kyogre](../assets/sprites/kyogre/back_shiny.png "Kyogre") |
+| ![Kyogre](../assets/sprites/kyogre/front.gif "Kyogre: It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.") | ![Kyogre](../assets/sprites/kyogre/front_shiny.png "Kyogre: It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.") | ![Kyogre](../assets/sprites/kyogre/back.png "Kyogre: It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.") | ![Kyogre](../assets/sprites/kyogre/back_shiny.png "Kyogre: It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

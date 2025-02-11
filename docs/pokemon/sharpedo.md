@@ -14,7 +14,13 @@ Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bull
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Sharpedo](../assets/sprites/sharpedo/front.gif "Sharpedo") | ![Sharpedo](../assets/sprites/sharpedo/front_shiny.png "Sharpedo") | ![Sharpedo](../assets/sprites/sharpedo/back.png "Sharpedo") | ![Sharpedo](../assets/sprites/sharpedo/back_shiny.png "Sharpedo") |
+| ![Sharpedo](../assets/sprites/sharpedo/front.gif "Sharpedo: Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”") | ![Sharpedo](../assets/sprites/sharpedo/front_shiny.png "Sharpedo: Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”") | ![Sharpedo](../assets/sprites/sharpedo/back.png "Sharpedo: Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”") | ![Sharpedo](../assets/sprites/sharpedo/back_shiny.png "Sharpedo: Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

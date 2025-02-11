@@ -14,13 +14,13 @@ It has volcanoes on its back. If magma builds up in its body, it shudders, then 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Camerupt](../assets/sprites/camerupt/front.gif "Camerupt") | ![Camerupt](../assets/sprites/camerupt/front_shiny.png "Camerupt") | ![Camerupt](../assets/sprites/camerupt/back.png "Camerupt") | ![Camerupt](../assets/sprites/camerupt/back_shiny.png "Camerupt") |
+| ![Camerupt](../assets/sprites/camerupt/front.gif "Camerupt: It has volcanoes on its back. If magma builds up in its body, it shudders, then erupts violently.") | ![Camerupt](../assets/sprites/camerupt/front_shiny.png "Camerupt: It has volcanoes on its back. If magma builds up in its body, it shudders, then erupts violently.") | ![Camerupt](../assets/sprites/camerupt/back.png "Camerupt: It has volcanoes on its back. If magma builds up in its body, it shudders, then erupts violently.") | ![Camerupt](../assets/sprites/camerupt/back_shiny.png "Camerupt: It has volcanoes on its back. If magma builds up in its body, it shudders, then erupts violently.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Camerupt](../assets/sprites/camerupt/front_female.gif "Camerupt") | ![Camerupt](../assets/sprites/camerupt/front_shiny_female.png "Camerupt") | ![Camerupt](../assets/sprites/camerupt/back_female.png "Camerupt") | ![Camerupt](../assets/sprites/camerupt/back_shiny_female.png "Camerupt") |
+| ![Camerupt](../assets/sprites/camerupt/front_female.gif "Camerupt: It has volcanoes on its back. If magma builds up in its body, it shudders, then erupts violently.") | ![Camerupt](../assets/sprites/camerupt/front_shiny_female.png "Camerupt: It has volcanoes on its back. If magma builds up in its body, it shudders, then erupts violently.") | ![Camerupt](../assets/sprites/camerupt/back_female.png "Camerupt: It has volcanoes on its back. If magma builds up in its body, it shudders, then erupts violently.") | ![Camerupt](../assets/sprites/camerupt/back_shiny_female.png "Camerupt: It has volcanoes on its back. If magma builds up in its body, it shudders, then erupts violently.") |
 
 ### Cries
 

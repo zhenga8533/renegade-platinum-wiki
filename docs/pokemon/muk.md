@@ -14,7 +14,13 @@ A toxic fluid seeps from its body. The fluid instantly kills plants and trees on
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Muk](../assets/sprites/muk/front.gif "Muk") | ![Muk](../assets/sprites/muk/front_shiny.png "Muk") | ![Muk](../assets/sprites/muk/back.png "Muk") | ![Muk](../assets/sprites/muk/back_shiny.png "Muk") |
+| ![Muk](../assets/sprites/muk/front.gif "Muk: A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.") | ![Muk](../assets/sprites/muk/front_shiny.png "Muk: A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.") | ![Muk](../assets/sprites/muk/back.png "Muk: A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.") | ![Muk](../assets/sprites/muk/back_shiny.png "Muk: A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

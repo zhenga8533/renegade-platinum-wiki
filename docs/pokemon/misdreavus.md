@@ -14,7 +14,13 @@ A Pokémon that startles people in the middle of the night. It gathers fear as i
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Misdreavus](../assets/sprites/misdreavus/front.gif "Misdreavus") | ![Misdreavus](../assets/sprites/misdreavus/front_shiny.png "Misdreavus") | ![Misdreavus](../assets/sprites/misdreavus/back.png "Misdreavus") | ![Misdreavus](../assets/sprites/misdreavus/back_shiny.png "Misdreavus") |
+| ![Misdreavus](../assets/sprites/misdreavus/front.gif "Misdreavus: A Pokémon that startles people in the middle of the night. It gathers fear as its energy.") | ![Misdreavus](../assets/sprites/misdreavus/front_shiny.png "Misdreavus: A Pokémon that startles people in the middle of the night. It gathers fear as its energy.") | ![Misdreavus](../assets/sprites/misdreavus/back.png "Misdreavus: A Pokémon that startles people in the middle of the night. It gathers fear as its energy.") | ![Misdreavus](../assets/sprites/misdreavus/back_shiny.png "Misdreavus: A Pokémon that startles people in the middle of the night. It gathers fear as its energy.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

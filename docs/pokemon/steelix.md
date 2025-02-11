@@ -14,13 +14,13 @@ It is thought its body transformed as a result of iron accumulating internally f
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Steelix](../assets/sprites/steelix/front.gif "Steelix") | ![Steelix](../assets/sprites/steelix/front_shiny.png "Steelix") | ![Steelix](../assets/sprites/steelix/back.png "Steelix") | ![Steelix](../assets/sprites/steelix/back_shiny.png "Steelix") |
+| ![Steelix](../assets/sprites/steelix/front.gif "Steelix: It is thought its body transformed as a result of iron accumulating internally from swallowing soil.") | ![Steelix](../assets/sprites/steelix/front_shiny.png "Steelix: It is thought its body transformed as a result of iron accumulating internally from swallowing soil.") | ![Steelix](../assets/sprites/steelix/back.png "Steelix: It is thought its body transformed as a result of iron accumulating internally from swallowing soil.") | ![Steelix](../assets/sprites/steelix/back_shiny.png "Steelix: It is thought its body transformed as a result of iron accumulating internally from swallowing soil.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Steelix](../assets/sprites/steelix/front_female.gif "Steelix") | ![Steelix](../assets/sprites/steelix/front_shiny_female.png "Steelix") | ![Steelix](../assets/sprites/steelix/back_female.png "Steelix") | ![Steelix](../assets/sprites/steelix/back_shiny_female.png "Steelix") |
+| ![Steelix](../assets/sprites/steelix/front_female.gif "Steelix: It is thought its body transformed as a result of iron accumulating internally from swallowing soil.") | ![Steelix](../assets/sprites/steelix/front_shiny_female.png "Steelix: It is thought its body transformed as a result of iron accumulating internally from swallowing soil.") | ![Steelix](../assets/sprites/steelix/back_female.png "Steelix: It is thought its body transformed as a result of iron accumulating internally from swallowing soil.") | ![Steelix](../assets/sprites/steelix/back_shiny_female.png "Steelix: It is thought its body transformed as a result of iron accumulating internally from swallowing soil.") |
 
 ### Cries
 

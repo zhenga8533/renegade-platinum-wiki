@@ -14,7 +14,13 @@ It suddenly falls out of the sky in the morning. A year after a cold summer, the
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Sunkern](../assets/sprites/sunkern/front.gif "Sunkern") | ![Sunkern](../assets/sprites/sunkern/front_shiny.png "Sunkern") | ![Sunkern](../assets/sprites/sunkern/back.png "Sunkern") | ![Sunkern](../assets/sprites/sunkern/back_shiny.png "Sunkern") |
+| ![Sunkern](../assets/sprites/sunkern/front.gif "Sunkern: It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.") | ![Sunkern](../assets/sprites/sunkern/front_shiny.png "Sunkern: It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.") | ![Sunkern](../assets/sprites/sunkern/back.png "Sunkern: It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.") | ![Sunkern](../assets/sprites/sunkern/back_shiny.png "Sunkern: It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

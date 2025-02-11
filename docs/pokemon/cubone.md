@@ -14,7 +14,13 @@ When it thinks of its dead mother, it cries. Its crying makes the skull it wears
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Cubone](../assets/sprites/cubone/front.gif "Cubone") | ![Cubone](../assets/sprites/cubone/front_shiny.png "Cubone") | ![Cubone](../assets/sprites/cubone/back.png "Cubone") | ![Cubone](../assets/sprites/cubone/back_shiny.png "Cubone") |
+| ![Cubone](../assets/sprites/cubone/front.gif "Cubone: When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.") | ![Cubone](../assets/sprites/cubone/front_shiny.png "Cubone: When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.") | ![Cubone](../assets/sprites/cubone/back.png "Cubone: When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.") | ![Cubone](../assets/sprites/cubone/back_shiny.png "Cubone: When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ Dreaming of one day flying, it practices by leaping off cliffs every day.
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Bagon](../assets/sprites/bagon/front.gif "Bagon") | ![Bagon](../assets/sprites/bagon/front_shiny.png "Bagon") | ![Bagon](../assets/sprites/bagon/back.png "Bagon") | ![Bagon](../assets/sprites/bagon/back_shiny.png "Bagon") |
+| ![Bagon](../assets/sprites/bagon/front.gif "Bagon: Dreaming of one day flying, it practices by leaping off cliffs every day.") | ![Bagon](../assets/sprites/bagon/front_shiny.png "Bagon: Dreaming of one day flying, it practices by leaping off cliffs every day.") | ![Bagon](../assets/sprites/bagon/back.png "Bagon: Dreaming of one day flying, it practices by leaping off cliffs every day.") | ![Bagon](../assets/sprites/bagon/back_shiny.png "Bagon: Dreaming of one day flying, it practices by leaping off cliffs every day.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

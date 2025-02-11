@@ -14,13 +14,13 @@ The honey it drools from its mouth smells so atrocious, it can curl noses more t
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Gloom](../assets/sprites/gloom/front.gif "Gloom") | ![Gloom](../assets/sprites/gloom/front_shiny.png "Gloom") | ![Gloom](../assets/sprites/gloom/back.png "Gloom") | ![Gloom](../assets/sprites/gloom/back_shiny.png "Gloom") |
+| ![Gloom](../assets/sprites/gloom/front.gif "Gloom: The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.") | ![Gloom](../assets/sprites/gloom/front_shiny.png "Gloom: The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.") | ![Gloom](../assets/sprites/gloom/back.png "Gloom: The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.") | ![Gloom](../assets/sprites/gloom/back_shiny.png "Gloom: The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Gloom](../assets/sprites/gloom/front_female.gif "Gloom") | ![Gloom](../assets/sprites/gloom/front_shiny_female.png "Gloom") | ![Gloom](../assets/sprites/gloom/back_female.png "Gloom") | ![Gloom](../assets/sprites/gloom/back_shiny_female.png "Gloom") |
+| ![Gloom](../assets/sprites/gloom/front_female.gif "Gloom: The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.") | ![Gloom](../assets/sprites/gloom/front_shiny_female.png "Gloom: The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.") | ![Gloom](../assets/sprites/gloom/back_female.png "Gloom: The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.") | ![Gloom](../assets/sprites/gloom/back_shiny_female.png "Gloom: The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.") |
 
 ### Cries
 

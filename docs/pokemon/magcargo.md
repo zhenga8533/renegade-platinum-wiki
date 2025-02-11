@@ -14,7 +14,13 @@ Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Magcargo](../assets/sprites/magcargo/front.gif "Magcargo") | ![Magcargo](../assets/sprites/magcargo/front_shiny.png "Magcargo") | ![Magcargo](../assets/sprites/magcargo/back.png "Magcargo") | ![Magcargo](../assets/sprites/magcargo/back_shiny.png "Magcargo") |
+| ![Magcargo](../assets/sprites/magcargo/front.gif "Magcargo: Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.") | ![Magcargo](../assets/sprites/magcargo/front_shiny.png "Magcargo: Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.") | ![Magcargo](../assets/sprites/magcargo/back.png "Magcargo: Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.") | ![Magcargo](../assets/sprites/magcargo/back_shiny.png "Magcargo: Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

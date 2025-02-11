@@ -14,7 +14,13 @@ The shell on its back is made of soil. On a very healthy TURTWIG, the shell shou
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Turtwig](../assets/sprites/turtwig/front.gif "Turtwig") | ![Turtwig](../assets/sprites/turtwig/front_shiny.png "Turtwig") | ![Turtwig](../assets/sprites/turtwig/back.png "Turtwig") | ![Turtwig](../assets/sprites/turtwig/back_shiny.png "Turtwig") |
+| ![Turtwig](../assets/sprites/turtwig/front.gif "Turtwig: The shell on its back is made of soil. On a very healthy TURTWIG, the shell should feel moist.") | ![Turtwig](../assets/sprites/turtwig/front_shiny.png "Turtwig: The shell on its back is made of soil. On a very healthy TURTWIG, the shell should feel moist.") | ![Turtwig](../assets/sprites/turtwig/back.png "Turtwig: The shell on its back is made of soil. On a very healthy TURTWIG, the shell should feel moist.") | ![Turtwig](../assets/sprites/turtwig/back_shiny.png "Turtwig: The shell on its back is made of soil. On a very healthy TURTWIG, the shell should feel moist.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

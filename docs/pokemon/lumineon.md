@@ -14,13 +14,13 @@ It crawls along the seafloor using its long front fins like legs. It competes fo
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Lumineon](../assets/sprites/lumineon/front.gif "Lumineon") | ![Lumineon](../assets/sprites/lumineon/front_shiny.png "Lumineon") | ![Lumineon](../assets/sprites/lumineon/back.png "Lumineon") | ![Lumineon](../assets/sprites/lumineon/back_shiny.png "Lumineon") |
+| ![Lumineon](../assets/sprites/lumineon/front.gif "Lumineon: It crawls along the seafloor using its long front fins like legs. It competes for food with LANTURN.") | ![Lumineon](../assets/sprites/lumineon/front_shiny.png "Lumineon: It crawls along the seafloor using its long front fins like legs. It competes for food with LANTURN.") | ![Lumineon](../assets/sprites/lumineon/back.png "Lumineon: It crawls along the seafloor using its long front fins like legs. It competes for food with LANTURN.") | ![Lumineon](../assets/sprites/lumineon/back_shiny.png "Lumineon: It crawls along the seafloor using its long front fins like legs. It competes for food with LANTURN.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Lumineon](../assets/sprites/lumineon/front_female.gif "Lumineon") | ![Lumineon](../assets/sprites/lumineon/front_shiny_female.png "Lumineon") | ![Lumineon](../assets/sprites/lumineon/back_female.png "Lumineon") | ![Lumineon](../assets/sprites/lumineon/back_shiny_female.png "Lumineon") |
+| ![Lumineon](../assets/sprites/lumineon/front_female.gif "Lumineon: It crawls along the seafloor using its long front fins like legs. It competes for food with LANTURN.") | ![Lumineon](../assets/sprites/lumineon/front_shiny_female.png "Lumineon: It crawls along the seafloor using its long front fins like legs. It competes for food with LANTURN.") | ![Lumineon](../assets/sprites/lumineon/back_female.png "Lumineon: It crawls along the seafloor using its long front fins like legs. It competes for food with LANTURN.") | ![Lumineon](../assets/sprites/lumineon/back_shiny_female.png "Lumineon: It crawls along the seafloor using its long front fins like legs. It competes for food with LANTURN.") |
 
 ### Cries
 

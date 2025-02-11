@@ -14,7 +14,13 @@ On nights around the quarter moon, the aurora from its tail extends and undulate
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Cresselia](../assets/sprites/cresselia/front.gif "Cresselia") | ![Cresselia](../assets/sprites/cresselia/front_shiny.png "Cresselia") | ![Cresselia](../assets/sprites/cresselia/back.png "Cresselia") | ![Cresselia](../assets/sprites/cresselia/back_shiny.png "Cresselia") |
+| ![Cresselia](../assets/sprites/cresselia/front.gif "Cresselia: On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.") | ![Cresselia](../assets/sprites/cresselia/front_shiny.png "Cresselia: On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.") | ![Cresselia](../assets/sprites/cresselia/back.png "Cresselia: On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.") | ![Cresselia](../assets/sprites/cresselia/back_shiny.png "Cresselia: On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

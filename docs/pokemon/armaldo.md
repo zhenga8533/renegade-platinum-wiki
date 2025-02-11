@@ -14,7 +14,13 @@ It went ashore after evolving. Its entire body is clad in a sturdy armor.
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Armaldo](../assets/sprites/armaldo/front.gif "Armaldo") | ![Armaldo](../assets/sprites/armaldo/front_shiny.png "Armaldo") | ![Armaldo](../assets/sprites/armaldo/back.png "Armaldo") | ![Armaldo](../assets/sprites/armaldo/back_shiny.png "Armaldo") |
+| ![Armaldo](../assets/sprites/armaldo/front.gif "Armaldo: It went ashore after evolving. Its entire body is clad in a sturdy armor.") | ![Armaldo](../assets/sprites/armaldo/front_shiny.png "Armaldo: It went ashore after evolving. Its entire body is clad in a sturdy armor.") | ![Armaldo](../assets/sprites/armaldo/back.png "Armaldo: It went ashore after evolving. Its entire body is clad in a sturdy armor.") | ![Armaldo](../assets/sprites/armaldo/back_shiny.png "Armaldo: It went ashore after evolving. Its entire body is clad in a sturdy armor.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

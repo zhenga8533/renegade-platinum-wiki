@@ -14,7 +14,13 @@ It is a messenger of the skies, carrying small Pokémon and eggs to safety in it
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Pelipper](../assets/sprites/pelipper/front.gif "Pelipper") | ![Pelipper](../assets/sprites/pelipper/front_shiny.png "Pelipper") | ![Pelipper](../assets/sprites/pelipper/back.png "Pelipper") | ![Pelipper](../assets/sprites/pelipper/back_shiny.png "Pelipper") |
+| ![Pelipper](../assets/sprites/pelipper/front.gif "Pelipper: It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.") | ![Pelipper](../assets/sprites/pelipper/front_shiny.png "Pelipper: It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.") | ![Pelipper](../assets/sprites/pelipper/back.png "Pelipper: It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.") | ![Pelipper](../assets/sprites/pelipper/back_shiny.png "Pelipper: It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

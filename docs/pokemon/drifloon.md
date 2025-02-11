@@ -14,7 +14,13 @@ Because of the way it floats aimlessly, an old folktale calls it a “Signpost f
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Drifloon](../assets/sprites/drifloon/front.gif "Drifloon") | ![Drifloon](../assets/sprites/drifloon/front_shiny.png "Drifloon") | ![Drifloon](../assets/sprites/drifloon/back.png "Drifloon") | ![Drifloon](../assets/sprites/drifloon/back_shiny.png "Drifloon") |
+| ![Drifloon](../assets/sprites/drifloon/front.gif "Drifloon: Because of the way it floats aimlessly, an old folktale calls it a “Signpost for Wandering Spirits.”") | ![Drifloon](../assets/sprites/drifloon/front_shiny.png "Drifloon: Because of the way it floats aimlessly, an old folktale calls it a “Signpost for Wandering Spirits.”") | ![Drifloon](../assets/sprites/drifloon/back.png "Drifloon: Because of the way it floats aimlessly, an old folktale calls it a “Signpost for Wandering Spirits.”") | ![Drifloon](../assets/sprites/drifloon/back_shiny.png "Drifloon: Because of the way it floats aimlessly, an old folktale calls it a “Signpost for Wandering Spirits.”") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

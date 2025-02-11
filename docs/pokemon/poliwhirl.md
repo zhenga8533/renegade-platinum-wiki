@@ -14,7 +14,13 @@ The spiral pattern on its belly subtly undulates. Staring at it gradually causes
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Poliwhirl](../assets/sprites/poliwhirl/front.gif "Poliwhirl") | ![Poliwhirl](../assets/sprites/poliwhirl/front_shiny.png "Poliwhirl") | ![Poliwhirl](../assets/sprites/poliwhirl/back.png "Poliwhirl") | ![Poliwhirl](../assets/sprites/poliwhirl/back_shiny.png "Poliwhirl") |
+| ![Poliwhirl](../assets/sprites/poliwhirl/front.gif "Poliwhirl: The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.") | ![Poliwhirl](../assets/sprites/poliwhirl/front_shiny.png "Poliwhirl: The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.") | ![Poliwhirl](../assets/sprites/poliwhirl/back.png "Poliwhirl: The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.") | ![Poliwhirl](../assets/sprites/poliwhirl/back_shiny.png "Poliwhirl: The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

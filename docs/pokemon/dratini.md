@@ -14,7 +14,13 @@ It is called the “Mirage Pokémon” because so few have seen it. Its shed ski
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Dratini](../assets/sprites/dratini/front.gif "Dratini") | ![Dratini](../assets/sprites/dratini/front_shiny.png "Dratini") | ![Dratini](../assets/sprites/dratini/back.png "Dratini") | ![Dratini](../assets/sprites/dratini/back_shiny.png "Dratini") |
+| ![Dratini](../assets/sprites/dratini/front.gif "Dratini: It is called the “Mirage Pokémon” because so few have seen it. Its shed skin has been found.") | ![Dratini](../assets/sprites/dratini/front_shiny.png "Dratini: It is called the “Mirage Pokémon” because so few have seen it. Its shed skin has been found.") | ![Dratini](../assets/sprites/dratini/back.png "Dratini: It is called the “Mirage Pokémon” because so few have seen it. Its shed skin has been found.") | ![Dratini](../assets/sprites/dratini/back_shiny.png "Dratini: It is called the “Mirage Pokémon” because so few have seen it. Its shed skin has been found.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

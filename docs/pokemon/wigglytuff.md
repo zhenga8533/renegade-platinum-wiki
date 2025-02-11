@@ -14,7 +14,13 @@ Its fine fur feels sublime to the touch. It can expand its body by inhaling air.
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Wigglytuff](../assets/sprites/wigglytuff/front.gif "Wigglytuff") | ![Wigglytuff](../assets/sprites/wigglytuff/front_shiny.png "Wigglytuff") | ![Wigglytuff](../assets/sprites/wigglytuff/back.png "Wigglytuff") | ![Wigglytuff](../assets/sprites/wigglytuff/back_shiny.png "Wigglytuff") |
+| ![Wigglytuff](../assets/sprites/wigglytuff/front.gif "Wigglytuff: Its fine fur feels sublime to the touch. It can expand its body by inhaling air.") | ![Wigglytuff](../assets/sprites/wigglytuff/front_shiny.png "Wigglytuff: Its fine fur feels sublime to the touch. It can expand its body by inhaling air.") | ![Wigglytuff](../assets/sprites/wigglytuff/back.png "Wigglytuff: Its fine fur feels sublime to the touch. It can expand its body by inhaling air.") | ![Wigglytuff](../assets/sprites/wigglytuff/back_shiny.png "Wigglytuff: Its fine fur feels sublime to the touch. It can expand its body by inhaling air.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

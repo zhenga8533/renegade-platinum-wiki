@@ -14,7 +14,13 @@ It is smart enough to hunt in packs. It uses a variety of cries for communicatin
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Houndour](../assets/sprites/houndour/front.gif "Houndour") | ![Houndour](../assets/sprites/houndour/front_shiny.png "Houndour") | ![Houndour](../assets/sprites/houndour/back.png "Houndour") | ![Houndour](../assets/sprites/houndour/back_shiny.png "Houndour") |
+| ![Houndour](../assets/sprites/houndour/front.gif "Houndour: It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.") | ![Houndour](../assets/sprites/houndour/front_shiny.png "Houndour: It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.") | ![Houndour](../assets/sprites/houndour/back.png "Houndour: It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.") | ![Houndour](../assets/sprites/houndour/back_shiny.png "Houndour: It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It has the peculiar power of being able to see emotions such as joy and rage in 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Riolu](../assets/sprites/riolu/front.gif "Riolu") | ![Riolu](../assets/sprites/riolu/front_shiny.png "Riolu") | ![Riolu](../assets/sprites/riolu/back.png "Riolu") | ![Riolu](../assets/sprites/riolu/back_shiny.png "Riolu") |
+| ![Riolu](../assets/sprites/riolu/front.gif "Riolu: It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.") | ![Riolu](../assets/sprites/riolu/front_shiny.png "Riolu: It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.") | ![Riolu](../assets/sprites/riolu/back.png "Riolu: It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.") | ![Riolu](../assets/sprites/riolu/back_shiny.png "Riolu: It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ Although slow, it is skilled at fishing with its tail. It does not feel pain if 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Slowpoke](../assets/sprites/slowpoke/front.gif "Slowpoke") | ![Slowpoke](../assets/sprites/slowpoke/front_shiny.png "Slowpoke") | ![Slowpoke](../assets/sprites/slowpoke/back.png "Slowpoke") | ![Slowpoke](../assets/sprites/slowpoke/back_shiny.png "Slowpoke") |
+| ![Slowpoke](../assets/sprites/slowpoke/front.gif "Slowpoke: Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.") | ![Slowpoke](../assets/sprites/slowpoke/front_shiny.png "Slowpoke: Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.") | ![Slowpoke](../assets/sprites/slowpoke/back.png "Slowpoke: Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.") | ![Slowpoke](../assets/sprites/slowpoke/back_shiny.png "Slowpoke: Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

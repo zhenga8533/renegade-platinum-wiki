@@ -14,7 +14,13 @@ It is a shabby and ugly Pokémon. However, it is very hardy and can survive on l
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Feebas](../assets/sprites/feebas/front.gif "Feebas") | ![Feebas](../assets/sprites/feebas/front_shiny.png "Feebas") | ![Feebas](../assets/sprites/feebas/back.png "Feebas") | ![Feebas](../assets/sprites/feebas/back_shiny.png "Feebas") |
+| ![Feebas](../assets/sprites/feebas/front.gif "Feebas: It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.") | ![Feebas](../assets/sprites/feebas/front_shiny.png "Feebas: It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.") | ![Feebas](../assets/sprites/feebas/back.png "Feebas: It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.") | ![Feebas](../assets/sprites/feebas/back_shiny.png "Feebas: It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

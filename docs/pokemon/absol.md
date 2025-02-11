@@ -14,7 +14,13 @@ Rumored to sense disasters with its horn, it became a target. It fled deep into 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Absol](../assets/sprites/absol/front.gif "Absol") | ![Absol](../assets/sprites/absol/front_shiny.png "Absol") | ![Absol](../assets/sprites/absol/back.png "Absol") | ![Absol](../assets/sprites/absol/back_shiny.png "Absol") |
+| ![Absol](../assets/sprites/absol/front.gif "Absol: Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.") | ![Absol](../assets/sprites/absol/front_shiny.png "Absol: Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.") | ![Absol](../assets/sprites/absol/back.png "Absol: Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.") | ![Absol](../assets/sprites/absol/back_shiny.png "Absol: Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

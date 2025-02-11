@@ -14,7 +14,13 @@ It is said to have fallen with lightning. It can fire thunderbolts from the rain
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Raikou](../assets/sprites/raikou/front.gif "Raikou") | ![Raikou](../assets/sprites/raikou/front_shiny.png "Raikou") | ![Raikou](../assets/sprites/raikou/back.png "Raikou") | ![Raikou](../assets/sprites/raikou/back_shiny.png "Raikou") |
+| ![Raikou](../assets/sprites/raikou/front.gif "Raikou: It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.") | ![Raikou](../assets/sprites/raikou/front_shiny.png "Raikou: It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.") | ![Raikou](../assets/sprites/raikou/back.png "Raikou: It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.") | ![Raikou](../assets/sprites/raikou/back_shiny.png "Raikou: It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

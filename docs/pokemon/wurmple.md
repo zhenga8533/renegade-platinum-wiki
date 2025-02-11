@@ -14,7 +14,13 @@ Often targeted by bird Pokémon, it desperately resists by releasing poison from
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Wurmple](../assets/sprites/wurmple/front.gif "Wurmple") | ![Wurmple](../assets/sprites/wurmple/front_shiny.png "Wurmple") | ![Wurmple](../assets/sprites/wurmple/back.png "Wurmple") | ![Wurmple](../assets/sprites/wurmple/back_shiny.png "Wurmple") |
+| ![Wurmple](../assets/sprites/wurmple/front.gif "Wurmple: Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.") | ![Wurmple](../assets/sprites/wurmple/front_shiny.png "Wurmple: Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.") | ![Wurmple](../assets/sprites/wurmple/back.png "Wurmple: Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.") | ![Wurmple](../assets/sprites/wurmple/back_shiny.png "Wurmple: Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

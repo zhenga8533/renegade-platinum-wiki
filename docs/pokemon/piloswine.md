@@ -14,13 +14,13 @@ Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicke
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Piloswine](../assets/sprites/piloswine/front.gif "Piloswine") | ![Piloswine](../assets/sprites/piloswine/front_shiny.png "Piloswine") | ![Piloswine](../assets/sprites/piloswine/back.png "Piloswine") | ![Piloswine](../assets/sprites/piloswine/back_shiny.png "Piloswine") |
+| ![Piloswine](../assets/sprites/piloswine/front.gif "Piloswine: Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.") | ![Piloswine](../assets/sprites/piloswine/front_shiny.png "Piloswine: Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.") | ![Piloswine](../assets/sprites/piloswine/back.png "Piloswine: Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.") | ![Piloswine](../assets/sprites/piloswine/back_shiny.png "Piloswine: Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Piloswine](../assets/sprites/piloswine/front_female.gif "Piloswine") | ![Piloswine](../assets/sprites/piloswine/front_shiny_female.png "Piloswine") | ![Piloswine](../assets/sprites/piloswine/back_female.png "Piloswine") | ![Piloswine](../assets/sprites/piloswine/back_shiny_female.png "Piloswine") |
+| ![Piloswine](../assets/sprites/piloswine/front_female.gif "Piloswine: Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.") | ![Piloswine](../assets/sprites/piloswine/front_shiny_female.png "Piloswine: Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.") | ![Piloswine](../assets/sprites/piloswine/back_female.png "Piloswine: Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.") | ![Piloswine](../assets/sprites/piloswine/back_shiny_female.png "Piloswine: Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.") |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It uses the leaf on its head to determine the temperature and humidity. It loves
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Chikorita](../assets/sprites/chikorita/front.gif "Chikorita") | ![Chikorita](../assets/sprites/chikorita/front_shiny.png "Chikorita") | ![Chikorita](../assets/sprites/chikorita/back.png "Chikorita") | ![Chikorita](../assets/sprites/chikorita/back_shiny.png "Chikorita") |
+| ![Chikorita](../assets/sprites/chikorita/front.gif "Chikorita: It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.") | ![Chikorita](../assets/sprites/chikorita/front_shiny.png "Chikorita: It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.") | ![Chikorita](../assets/sprites/chikorita/back.png "Chikorita: It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.") | ![Chikorita](../assets/sprites/chikorita/back_shiny.png "Chikorita: It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

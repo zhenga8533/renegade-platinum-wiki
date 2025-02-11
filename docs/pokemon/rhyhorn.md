@@ -14,13 +14,13 @@ Its powerful tackles can destroy anything. However, it is too slow witted to hel
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Rhyhorn](../assets/sprites/rhyhorn/front.gif "Rhyhorn") | ![Rhyhorn](../assets/sprites/rhyhorn/front_shiny.png "Rhyhorn") | ![Rhyhorn](../assets/sprites/rhyhorn/back.png "Rhyhorn") | ![Rhyhorn](../assets/sprites/rhyhorn/back_shiny.png "Rhyhorn") |
+| ![Rhyhorn](../assets/sprites/rhyhorn/front.gif "Rhyhorn: Its powerful tackles can destroy anything. However, it is too slow witted to help people work.") | ![Rhyhorn](../assets/sprites/rhyhorn/front_shiny.png "Rhyhorn: Its powerful tackles can destroy anything. However, it is too slow witted to help people work.") | ![Rhyhorn](../assets/sprites/rhyhorn/back.png "Rhyhorn: Its powerful tackles can destroy anything. However, it is too slow witted to help people work.") | ![Rhyhorn](../assets/sprites/rhyhorn/back_shiny.png "Rhyhorn: Its powerful tackles can destroy anything. However, it is too slow witted to help people work.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Rhyhorn](../assets/sprites/rhyhorn/front_female.gif "Rhyhorn") | ![Rhyhorn](../assets/sprites/rhyhorn/front_shiny_female.png "Rhyhorn") | ![Rhyhorn](../assets/sprites/rhyhorn/back_female.png "Rhyhorn") | ![Rhyhorn](../assets/sprites/rhyhorn/back_shiny_female.png "Rhyhorn") |
+| ![Rhyhorn](../assets/sprites/rhyhorn/front_female.gif "Rhyhorn: Its powerful tackles can destroy anything. However, it is too slow witted to help people work.") | ![Rhyhorn](../assets/sprites/rhyhorn/front_shiny_female.png "Rhyhorn: Its powerful tackles can destroy anything. However, it is too slow witted to help people work.") | ![Rhyhorn](../assets/sprites/rhyhorn/back_female.png "Rhyhorn: Its powerful tackles can destroy anything. However, it is too slow witted to help people work.") | ![Rhyhorn](../assets/sprites/rhyhorn/back_shiny_female.png "Rhyhorn: Its powerful tackles can destroy anything. However, it is too slow witted to help people work.") |
 
 ### Cries
 

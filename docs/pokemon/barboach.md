@@ -14,7 +14,13 @@ Its slimy body is hard to grasp. In one region, it is said to have been born fro
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Barboach](../assets/sprites/barboach/front.gif "Barboach") | ![Barboach](../assets/sprites/barboach/front_shiny.png "Barboach") | ![Barboach](../assets/sprites/barboach/back.png "Barboach") | ![Barboach](../assets/sprites/barboach/back_shiny.png "Barboach") |
+| ![Barboach](../assets/sprites/barboach/front.gif "Barboach: Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.") | ![Barboach](../assets/sprites/barboach/front_shiny.png "Barboach: Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.") | ![Barboach](../assets/sprites/barboach/back.png "Barboach: Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.") | ![Barboach](../assets/sprites/barboach/back_shiny.png "Barboach: Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

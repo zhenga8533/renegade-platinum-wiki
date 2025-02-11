@@ -14,7 +14,13 @@ A Pokémon with a loyal nature. It will remain motionless until it is given an o
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Growlithe](../assets/sprites/growlithe/front.gif "Growlithe") | ![Growlithe](../assets/sprites/growlithe/front_shiny.png "Growlithe") | ![Growlithe](../assets/sprites/growlithe/back.png "Growlithe") | ![Growlithe](../assets/sprites/growlithe/back_shiny.png "Growlithe") |
+| ![Growlithe](../assets/sprites/growlithe/front.gif "Growlithe: A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.") | ![Growlithe](../assets/sprites/growlithe/front_shiny.png "Growlithe: A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.") | ![Growlithe](../assets/sprites/growlithe/back.png "Growlithe: A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.") | ![Growlithe](../assets/sprites/growlithe/back_shiny.png "Growlithe: A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

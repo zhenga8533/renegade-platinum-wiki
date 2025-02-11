@@ -14,7 +14,13 @@ It has feuded with SEVIPER for many generations. Its sharp claws are its biggest
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Zangoose](../assets/sprites/zangoose/front.gif "Zangoose") | ![Zangoose](../assets/sprites/zangoose/front_shiny.png "Zangoose") | ![Zangoose](../assets/sprites/zangoose/back.png "Zangoose") | ![Zangoose](../assets/sprites/zangoose/back_shiny.png "Zangoose") |
+| ![Zangoose](../assets/sprites/zangoose/front.gif "Zangoose: It has feuded with SEVIPER for many generations. Its sharp claws are its biggest weapons.") | ![Zangoose](../assets/sprites/zangoose/front_shiny.png "Zangoose: It has feuded with SEVIPER for many generations. Its sharp claws are its biggest weapons.") | ![Zangoose](../assets/sprites/zangoose/back.png "Zangoose: It has feuded with SEVIPER for many generations. Its sharp claws are its biggest weapons.") | ![Zangoose](../assets/sprites/zangoose/back_shiny.png "Zangoose: It has feuded with SEVIPER for many generations. Its sharp claws are its biggest weapons.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

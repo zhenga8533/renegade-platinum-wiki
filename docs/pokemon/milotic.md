@@ -14,13 +14,13 @@ Its lovely scales are described as rainbow colored. They change color depending 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Milotic](../assets/sprites/milotic/front.gif "Milotic") | ![Milotic](../assets/sprites/milotic/front_shiny.png "Milotic") | ![Milotic](../assets/sprites/milotic/back.png "Milotic") | ![Milotic](../assets/sprites/milotic/back_shiny.png "Milotic") |
+| ![Milotic](../assets/sprites/milotic/front.gif "Milotic: Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.") | ![Milotic](../assets/sprites/milotic/front_shiny.png "Milotic: Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.") | ![Milotic](../assets/sprites/milotic/back.png "Milotic: Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.") | ![Milotic](../assets/sprites/milotic/back_shiny.png "Milotic: Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Milotic](../assets/sprites/milotic/front_female.gif "Milotic") | ![Milotic](../assets/sprites/milotic/front_shiny_female.png "Milotic") | ![Milotic](../assets/sprites/milotic/back_female.png "Milotic") | ![Milotic](../assets/sprites/milotic/back_shiny_female.png "Milotic") |
+| ![Milotic](../assets/sprites/milotic/front_female.gif "Milotic: Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.") | ![Milotic](../assets/sprites/milotic/front_shiny_female.png "Milotic: Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.") | ![Milotic](../assets/sprites/milotic/back_female.png "Milotic: Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.") | ![Milotic](../assets/sprites/milotic/back_shiny_female.png "Milotic: Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.") |
 
 ### Cries
 

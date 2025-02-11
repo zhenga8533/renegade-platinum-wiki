@@ -14,7 +14,13 @@ Its cry sounds like an incantation. It is said the cry may rarely be imbued with
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Mismagius](../assets/sprites/mismagius/front.gif "Mismagius") | ![Mismagius](../assets/sprites/mismagius/front_shiny.png "Mismagius") | ![Mismagius](../assets/sprites/mismagius/back.png "Mismagius") | ![Mismagius](../assets/sprites/mismagius/back_shiny.png "Mismagius") |
+| ![Mismagius](../assets/sprites/mismagius/front.gif "Mismagius: Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.") | ![Mismagius](../assets/sprites/mismagius/front_shiny.png "Mismagius: Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.") | ![Mismagius](../assets/sprites/mismagius/back.png "Mismagius: Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.") | ![Mismagius](../assets/sprites/mismagius/back_shiny.png "Mismagius: Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

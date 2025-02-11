@@ -14,7 +14,13 @@ It has a timid nature. If it is startled, the flames on its back burn more vigor
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Cyndaquil](../assets/sprites/cyndaquil/front.gif "Cyndaquil") | ![Cyndaquil](../assets/sprites/cyndaquil/front_shiny.png "Cyndaquil") | ![Cyndaquil](../assets/sprites/cyndaquil/back.png "Cyndaquil") | ![Cyndaquil](../assets/sprites/cyndaquil/back_shiny.png "Cyndaquil") |
+| ![Cyndaquil](../assets/sprites/cyndaquil/front.gif "Cyndaquil: It has a timid nature. If it is startled, the flames on its back burn more vigorously.") | ![Cyndaquil](../assets/sprites/cyndaquil/front_shiny.png "Cyndaquil: It has a timid nature. If it is startled, the flames on its back burn more vigorously.") | ![Cyndaquil](../assets/sprites/cyndaquil/back.png "Cyndaquil: It has a timid nature. If it is startled, the flames on its back burn more vigorously.") | ![Cyndaquil](../assets/sprites/cyndaquil/back_shiny.png "Cyndaquil: It has a timid nature. If it is startled, the flames on its back burn more vigorously.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

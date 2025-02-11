@@ -14,7 +14,13 @@ There is an orb inside its mouth. When it hops, the orb bounces all over and mak
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Chingling](../assets/sprites/chingling/front.gif "Chingling") | ![Chingling](../assets/sprites/chingling/front_shiny.png "Chingling") | ![Chingling](../assets/sprites/chingling/back.png "Chingling") | ![Chingling](../assets/sprites/chingling/back_shiny.png "Chingling") |
+| ![Chingling](../assets/sprites/chingling/front.gif "Chingling: There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.") | ![Chingling](../assets/sprites/chingling/front_shiny.png "Chingling: There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.") | ![Chingling](../assets/sprites/chingling/back.png "Chingling: There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.") | ![Chingling](../assets/sprites/chingling/back_shiny.png "Chingling: There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ When exposed to the moon’s aura, the rings on its body glow faintly and it gai
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Umbreon](../assets/sprites/umbreon/front.gif "Umbreon") | ![Umbreon](../assets/sprites/umbreon/front_shiny.png "Umbreon") | ![Umbreon](../assets/sprites/umbreon/back.png "Umbreon") | ![Umbreon](../assets/sprites/umbreon/back_shiny.png "Umbreon") |
+| ![Umbreon](../assets/sprites/umbreon/front.gif "Umbreon: When exposed to the moon’s aura, the rings on its body glow faintly and it gains a mysterious power.") | ![Umbreon](../assets/sprites/umbreon/front_shiny.png "Umbreon: When exposed to the moon’s aura, the rings on its body glow faintly and it gains a mysterious power.") | ![Umbreon](../assets/sprites/umbreon/back.png "Umbreon: When exposed to the moon’s aura, the rings on its body glow faintly and it gains a mysterious power.") | ![Umbreon](../assets/sprites/umbreon/back_shiny.png "Umbreon: When exposed to the moon’s aura, the rings on its body glow faintly and it gains a mysterious power.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

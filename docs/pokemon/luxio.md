@@ -14,13 +14,13 @@ Strong electricity courses through the tips of its sharp claws. A light scratch 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Luxio](../assets/sprites/luxio/front.gif "Luxio") | ![Luxio](../assets/sprites/luxio/front_shiny.png "Luxio") | ![Luxio](../assets/sprites/luxio/back.png "Luxio") | ![Luxio](../assets/sprites/luxio/back_shiny.png "Luxio") |
+| ![Luxio](../assets/sprites/luxio/front.gif "Luxio: Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.") | ![Luxio](../assets/sprites/luxio/front_shiny.png "Luxio: Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.") | ![Luxio](../assets/sprites/luxio/back.png "Luxio: Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.") | ![Luxio](../assets/sprites/luxio/back_shiny.png "Luxio: Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Luxio](../assets/sprites/luxio/front_female.gif "Luxio") | ![Luxio](../assets/sprites/luxio/front_shiny_female.png "Luxio") | ![Luxio](../assets/sprites/luxio/back_female.png "Luxio") | ![Luxio](../assets/sprites/luxio/back_shiny_female.png "Luxio") |
+| ![Luxio](../assets/sprites/luxio/front_female.gif "Luxio: Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.") | ![Luxio](../assets/sprites/luxio/front_shiny_female.png "Luxio: Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.") | ![Luxio](../assets/sprites/luxio/back_female.png "Luxio: Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.") | ![Luxio](../assets/sprites/luxio/back_shiny_female.png "Luxio: Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.") |
 
 ### Cries
 

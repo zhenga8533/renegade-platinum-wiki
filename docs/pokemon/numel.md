@@ -14,13 +14,13 @@ Its humped back stores intensely hot magma. In rain, the magma cools, slowing it
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Numel](../assets/sprites/numel/front.gif "Numel") | ![Numel](../assets/sprites/numel/front_shiny.png "Numel") | ![Numel](../assets/sprites/numel/back.png "Numel") | ![Numel](../assets/sprites/numel/back_shiny.png "Numel") |
+| ![Numel](../assets/sprites/numel/front.gif "Numel: Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.") | ![Numel](../assets/sprites/numel/front_shiny.png "Numel: Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.") | ![Numel](../assets/sprites/numel/back.png "Numel: Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.") | ![Numel](../assets/sprites/numel/back_shiny.png "Numel: Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Numel](../assets/sprites/numel/front_female.gif "Numel") | ![Numel](../assets/sprites/numel/front_shiny_female.png "Numel") | ![Numel](../assets/sprites/numel/back_female.png "Numel") | ![Numel](../assets/sprites/numel/back_shiny_female.png "Numel") |
+| ![Numel](../assets/sprites/numel/front_female.gif "Numel: Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.") | ![Numel](../assets/sprites/numel/front_shiny_female.png "Numel: Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.") | ![Numel](../assets/sprites/numel/back_female.png "Numel: Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.") | ![Numel](../assets/sprites/numel/back_shiny_female.png "Numel: Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.") |
 
 ### Cries
 

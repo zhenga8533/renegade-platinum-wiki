@@ -14,7 +14,13 @@ In the rocky mountains where CHARMELEON live, their fiery tails shine at night l
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Charmeleon](../assets/sprites/charmeleon/front.gif "Charmeleon") | ![Charmeleon](../assets/sprites/charmeleon/front_shiny.png "Charmeleon") | ![Charmeleon](../assets/sprites/charmeleon/back.png "Charmeleon") | ![Charmeleon](../assets/sprites/charmeleon/back_shiny.png "Charmeleon") |
+| ![Charmeleon](../assets/sprites/charmeleon/front.gif "Charmeleon: In the rocky mountains where CHARMELEON live, their fiery tails shine at night like stars.") | ![Charmeleon](../assets/sprites/charmeleon/front_shiny.png "Charmeleon: In the rocky mountains where CHARMELEON live, their fiery tails shine at night like stars.") | ![Charmeleon](../assets/sprites/charmeleon/back.png "Charmeleon: In the rocky mountains where CHARMELEON live, their fiery tails shine at night like stars.") | ![Charmeleon](../assets/sprites/charmeleon/back_shiny.png "Charmeleon: In the rocky mountains where CHARMELEON live, their fiery tails shine at night like stars.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ A new Pokémon species, rumored to be from the sun. It gives off light while spi
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Solrock](../assets/sprites/solrock/front.gif "Solrock") | ![Solrock](../assets/sprites/solrock/front_shiny.png "Solrock") | ![Solrock](../assets/sprites/solrock/back.png "Solrock") | ![Solrock](../assets/sprites/solrock/back_shiny.png "Solrock") |
+| ![Solrock](../assets/sprites/solrock/front.gif "Solrock: A new Pokémon species, rumored to be from the sun. It gives off light while spinning.") | ![Solrock](../assets/sprites/solrock/front_shiny.png "Solrock: A new Pokémon species, rumored to be from the sun. It gives off light while spinning.") | ![Solrock](../assets/sprites/solrock/back.png "Solrock: A new Pokémon species, rumored to be from the sun. It gives off light while spinning.") | ![Solrock](../assets/sprites/solrock/back_shiny.png "Solrock: A new Pokémon species, rumored to be from the sun. It gives off light while spinning.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

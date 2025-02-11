@@ -14,7 +14,13 @@ A Pokémon with a persistent nature, it chases its chosen prey until the prey be
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Poochyena](../assets/sprites/poochyena/front.gif "Poochyena") | ![Poochyena](../assets/sprites/poochyena/front_shiny.png "Poochyena") | ![Poochyena](../assets/sprites/poochyena/back.png "Poochyena") | ![Poochyena](../assets/sprites/poochyena/back_shiny.png "Poochyena") |
+| ![Poochyena](../assets/sprites/poochyena/front.gif "Poochyena: A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.") | ![Poochyena](../assets/sprites/poochyena/front_shiny.png "Poochyena: A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.") | ![Poochyena](../assets/sprites/poochyena/back.png "Poochyena: A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.") | ![Poochyena](../assets/sprites/poochyena/back_shiny.png "Poochyena: A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

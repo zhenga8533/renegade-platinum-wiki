@@ -14,7 +14,13 @@ Its magma-like blood circulates throughout its body. Its body’s heat can top 1
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Magby](../assets/sprites/magby/front.gif "Magby") | ![Magby](../assets/sprites/magby/front_shiny.png "Magby") | ![Magby](../assets/sprites/magby/back.png "Magby") | ![Magby](../assets/sprites/magby/back_shiny.png "Magby") |
+| ![Magby](../assets/sprites/magby/front.gif "Magby: Its magma-like blood circulates throughout its body. Its body’s heat can top 1,100 degrees F.") | ![Magby](../assets/sprites/magby/front_shiny.png "Magby: Its magma-like blood circulates throughout its body. Its body’s heat can top 1,100 degrees F.") | ![Magby](../assets/sprites/magby/back.png "Magby: Its magma-like blood circulates throughout its body. Its body’s heat can top 1,100 degrees F.") | ![Magby](../assets/sprites/magby/back_shiny.png "Magby: Its magma-like blood circulates throughout its body. Its body’s heat can top 1,100 degrees F.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

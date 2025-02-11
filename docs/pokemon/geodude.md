@@ -14,7 +14,13 @@ At rest, it looks just like a rock. Carelessly stepping on it will make it swing
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Geodude](../assets/sprites/geodude/front.gif "Geodude") | ![Geodude](../assets/sprites/geodude/front_shiny.png "Geodude") | ![Geodude](../assets/sprites/geodude/back.png "Geodude") | ![Geodude](../assets/sprites/geodude/back_shiny.png "Geodude") |
+| ![Geodude](../assets/sprites/geodude/front.gif "Geodude: At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.") | ![Geodude](../assets/sprites/geodude/front_shiny.png "Geodude: At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.") | ![Geodude](../assets/sprites/geodude/back.png "Geodude: At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.") | ![Geodude](../assets/sprites/geodude/back_shiny.png "Geodude: At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

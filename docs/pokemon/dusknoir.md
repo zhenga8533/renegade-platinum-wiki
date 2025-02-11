@@ -14,7 +14,13 @@ It is said to take lost spirits into its pliant body and guide them home.
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Dusknoir](../assets/sprites/dusknoir/front.gif "Dusknoir") | ![Dusknoir](../assets/sprites/dusknoir/front_shiny.png "Dusknoir") | ![Dusknoir](../assets/sprites/dusknoir/back.png "Dusknoir") | ![Dusknoir](../assets/sprites/dusknoir/back_shiny.png "Dusknoir") |
+| ![Dusknoir](../assets/sprites/dusknoir/front.gif "Dusknoir: It is said to take lost spirits into its pliant body and guide them home.") | ![Dusknoir](../assets/sprites/dusknoir/front_shiny.png "Dusknoir: It is said to take lost spirits into its pliant body and guide them home.") | ![Dusknoir](../assets/sprites/dusknoir/back.png "Dusknoir: It is said to take lost spirits into its pliant body and guide them home.") | ![Dusknoir](../assets/sprites/dusknoir/back_shiny.png "Dusknoir: It is said to take lost spirits into its pliant body and guide them home.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

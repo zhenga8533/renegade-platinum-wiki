@@ -14,7 +14,13 @@ While seeking iron for food, it digs tunnels by breaking through bedrock with it
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Aggron](../assets/sprites/aggron/front.gif "Aggron") | ![Aggron](../assets/sprites/aggron/front_shiny.png "Aggron") | ![Aggron](../assets/sprites/aggron/back.png "Aggron") | ![Aggron](../assets/sprites/aggron/back_shiny.png "Aggron") |
+| ![Aggron](../assets/sprites/aggron/front.gif "Aggron: While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.") | ![Aggron](../assets/sprites/aggron/front_shiny.png "Aggron: While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.") | ![Aggron](../assets/sprites/aggron/back.png "Aggron: While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.") | ![Aggron](../assets/sprites/aggron/back_shiny.png "Aggron: While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

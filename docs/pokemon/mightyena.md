@@ -14,7 +14,13 @@ It chases down prey in a pack. It will never disobey the commands of a skilled T
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Mightyena](../assets/sprites/mightyena/front.gif "Mightyena") | ![Mightyena](../assets/sprites/mightyena/front_shiny.png "Mightyena") | ![Mightyena](../assets/sprites/mightyena/back.png "Mightyena") | ![Mightyena](../assets/sprites/mightyena/back_shiny.png "Mightyena") |
+| ![Mightyena](../assets/sprites/mightyena/front.gif "Mightyena: It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.") | ![Mightyena](../assets/sprites/mightyena/front_shiny.png "Mightyena: It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.") | ![Mightyena](../assets/sprites/mightyena/back.png "Mightyena: It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.") | ![Mightyena](../assets/sprites/mightyena/back_shiny.png "Mightyena: It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ While awaiting evolution, it hides from predators under leaves and in nooks of b
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Kakuna](../assets/sprites/kakuna/front.gif "Kakuna") | ![Kakuna](../assets/sprites/kakuna/front_shiny.png "Kakuna") | ![Kakuna](../assets/sprites/kakuna/back.png "Kakuna") | ![Kakuna](../assets/sprites/kakuna/back_shiny.png "Kakuna") |
+| ![Kakuna](../assets/sprites/kakuna/front.gif "Kakuna: While awaiting evolution, it hides from predators under leaves and in nooks of branches.") | ![Kakuna](../assets/sprites/kakuna/front_shiny.png "Kakuna: While awaiting evolution, it hides from predators under leaves and in nooks of branches.") | ![Kakuna](../assets/sprites/kakuna/back.png "Kakuna: While awaiting evolution, it hides from predators under leaves and in nooks of branches.") | ![Kakuna](../assets/sprites/kakuna/back_shiny.png "Kakuna: While awaiting evolution, it hides from predators under leaves and in nooks of branches.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

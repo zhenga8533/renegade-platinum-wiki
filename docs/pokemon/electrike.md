@@ -14,7 +14,13 @@ Using electricity stored in its fur, it stimulates its muscles to heighten its r
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Electrike](../assets/sprites/electrike/front.gif "Electrike") | ![Electrike](../assets/sprites/electrike/front_shiny.png "Electrike") | ![Electrike](../assets/sprites/electrike/back.png "Electrike") | ![Electrike](../assets/sprites/electrike/back_shiny.png "Electrike") |
+| ![Electrike](../assets/sprites/electrike/front.gif "Electrike: Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.") | ![Electrike](../assets/sprites/electrike/front_shiny.png "Electrike: Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.") | ![Electrike](../assets/sprites/electrike/back.png "Electrike: Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.") | ![Electrike](../assets/sprites/electrike/back_shiny.png "Electrike: Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

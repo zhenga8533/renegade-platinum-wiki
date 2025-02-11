@@ -14,13 +14,13 @@ By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Shiftry](../assets/sprites/shiftry/front.gif "Shiftry") | ![Shiftry](../assets/sprites/shiftry/front_shiny.png "Shiftry") | ![Shiftry](../assets/sprites/shiftry/back.png "Shiftry") | ![Shiftry](../assets/sprites/shiftry/back_shiny.png "Shiftry") |
+| ![Shiftry](../assets/sprites/shiftry/front.gif "Shiftry: By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.") | ![Shiftry](../assets/sprites/shiftry/front_shiny.png "Shiftry: By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.") | ![Shiftry](../assets/sprites/shiftry/back.png "Shiftry: By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.") | ![Shiftry](../assets/sprites/shiftry/back_shiny.png "Shiftry: By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Shiftry](../assets/sprites/shiftry/front_female.gif "Shiftry") | ![Shiftry](../assets/sprites/shiftry/front_shiny_female.png "Shiftry") | ![Shiftry](../assets/sprites/shiftry/back_female.png "Shiftry") | ![Shiftry](../assets/sprites/shiftry/back_shiny_female.png "Shiftry") |
+| ![Shiftry](../assets/sprites/shiftry/front_female.gif "Shiftry: By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.") | ![Shiftry](../assets/sprites/shiftry/front_shiny_female.png "Shiftry: By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.") | ![Shiftry](../assets/sprites/shiftry/back_female.png "Shiftry: By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.") | ![Shiftry](../assets/sprites/shiftry/back_shiny_female.png "Shiftry: By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.") |
 
 ### Cries
 

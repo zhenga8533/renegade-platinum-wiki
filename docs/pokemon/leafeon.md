@@ -14,7 +14,13 @@ It basically does not fight. With cells similar to those of plants, it can perfo
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Leafeon](../assets/sprites/leafeon/front.gif "Leafeon") | ![Leafeon](../assets/sprites/leafeon/front_shiny.png "Leafeon") | ![Leafeon](../assets/sprites/leafeon/back.png "Leafeon") | ![Leafeon](../assets/sprites/leafeon/back_shiny.png "Leafeon") |
+| ![Leafeon](../assets/sprites/leafeon/front.gif "Leafeon: It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.") | ![Leafeon](../assets/sprites/leafeon/front_shiny.png "Leafeon: It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.") | ![Leafeon](../assets/sprites/leafeon/back.png "Leafeon: It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.") | ![Leafeon](../assets/sprites/leafeon/back_shiny.png "Leafeon: It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

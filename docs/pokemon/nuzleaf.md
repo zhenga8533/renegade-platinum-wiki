@@ -14,13 +14,13 @@ The sound of its grass flute makes its listeners uneasy. It lives deep in forest
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Nuzleaf](../assets/sprites/nuzleaf/front.gif "Nuzleaf") | ![Nuzleaf](../assets/sprites/nuzleaf/front_shiny.png "Nuzleaf") | ![Nuzleaf](../assets/sprites/nuzleaf/back.png "Nuzleaf") | ![Nuzleaf](../assets/sprites/nuzleaf/back_shiny.png "Nuzleaf") |
+| ![Nuzleaf](../assets/sprites/nuzleaf/front.gif "Nuzleaf: The sound of its grass flute makes its listeners uneasy. It lives deep in forests.") | ![Nuzleaf](../assets/sprites/nuzleaf/front_shiny.png "Nuzleaf: The sound of its grass flute makes its listeners uneasy. It lives deep in forests.") | ![Nuzleaf](../assets/sprites/nuzleaf/back.png "Nuzleaf: The sound of its grass flute makes its listeners uneasy. It lives deep in forests.") | ![Nuzleaf](../assets/sprites/nuzleaf/back_shiny.png "Nuzleaf: The sound of its grass flute makes its listeners uneasy. It lives deep in forests.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Nuzleaf](../assets/sprites/nuzleaf/front_female.gif "Nuzleaf") | ![Nuzleaf](../assets/sprites/nuzleaf/front_shiny_female.png "Nuzleaf") | ![Nuzleaf](../assets/sprites/nuzleaf/back_female.png "Nuzleaf") | ![Nuzleaf](../assets/sprites/nuzleaf/back_shiny_female.png "Nuzleaf") |
+| ![Nuzleaf](../assets/sprites/nuzleaf/front_female.gif "Nuzleaf: The sound of its grass flute makes its listeners uneasy. It lives deep in forests.") | ![Nuzleaf](../assets/sprites/nuzleaf/front_shiny_female.png "Nuzleaf: The sound of its grass flute makes its listeners uneasy. It lives deep in forests.") | ![Nuzleaf](../assets/sprites/nuzleaf/back_female.png "Nuzleaf: The sound of its grass flute makes its listeners uneasy. It lives deep in forests.") | ![Nuzleaf](../assets/sprites/nuzleaf/back_shiny_female.png "Nuzleaf: The sound of its grass flute makes its listeners uneasy. It lives deep in forests.") |
 
 ### Cries
 

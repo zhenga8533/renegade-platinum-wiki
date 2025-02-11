@@ -14,7 +14,13 @@ Attached to its head is a huge set of jaws formed by horns. It can chew through 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Mawile](../assets/sprites/mawile/front.gif "Mawile") | ![Mawile](../assets/sprites/mawile/front_shiny.png "Mawile") | ![Mawile](../assets/sprites/mawile/back.png "Mawile") | ![Mawile](../assets/sprites/mawile/back_shiny.png "Mawile") |
+| ![Mawile](../assets/sprites/mawile/front.gif "Mawile: Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.") | ![Mawile](../assets/sprites/mawile/front_shiny.png "Mawile: Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.") | ![Mawile](../assets/sprites/mawile/back.png "Mawile: Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.") | ![Mawile](../assets/sprites/mawile/back_shiny.png "Mawile: Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ A poor walker, it often falls down. However, its strong pride makes it puff up i
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Piplup](../assets/sprites/piplup/front.gif "Piplup") | ![Piplup](../assets/sprites/piplup/front_shiny.png "Piplup") | ![Piplup](../assets/sprites/piplup/back.png "Piplup") | ![Piplup](../assets/sprites/piplup/back_shiny.png "Piplup") |
+| ![Piplup](../assets/sprites/piplup/front.gif "Piplup: A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.") | ![Piplup](../assets/sprites/piplup/front_shiny.png "Piplup: A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.") | ![Piplup](../assets/sprites/piplup/back.png "Piplup: A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.") | ![Piplup](../assets/sprites/piplup/back_shiny.png "Piplup: A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

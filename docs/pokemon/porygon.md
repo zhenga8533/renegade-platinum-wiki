@@ -14,7 +14,13 @@ A man-made Pokémon created using advanced scientific means. It can move freely 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Porygon](../assets/sprites/porygon/front.gif "Porygon") | ![Porygon](../assets/sprites/porygon/front_shiny.png "Porygon") | ![Porygon](../assets/sprites/porygon/back.png "Porygon") | ![Porygon](../assets/sprites/porygon/back_shiny.png "Porygon") |
+| ![Porygon](../assets/sprites/porygon/front.gif "Porygon: A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.") | ![Porygon](../assets/sprites/porygon/front_shiny.png "Porygon: A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.") | ![Porygon](../assets/sprites/porygon/back.png "Porygon: A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.") | ![Porygon](../assets/sprites/porygon/back_shiny.png "Porygon: A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

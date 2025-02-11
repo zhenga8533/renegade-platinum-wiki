@@ -14,7 +14,13 @@ It is very agile. Before going to sleep, it extinguishes the flame on its tail t
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Chimchar](../assets/sprites/chimchar/front.gif "Chimchar") | ![Chimchar](../assets/sprites/chimchar/front_shiny.png "Chimchar") | ![Chimchar](../assets/sprites/chimchar/back.png "Chimchar") | ![Chimchar](../assets/sprites/chimchar/back_shiny.png "Chimchar") |
+| ![Chimchar](../assets/sprites/chimchar/front.gif "Chimchar: It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.") | ![Chimchar](../assets/sprites/chimchar/front_shiny.png "Chimchar: It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.") | ![Chimchar](../assets/sprites/chimchar/back.png "Chimchar: It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.") | ![Chimchar](../assets/sprites/chimchar/back_shiny.png "Chimchar: It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

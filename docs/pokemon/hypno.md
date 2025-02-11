@@ -14,13 +14,13 @@ Seeing its swinging pendulum can induce sleep in three seconds, even in someone 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Hypno](../assets/sprites/hypno/front.gif "Hypno") | ![Hypno](../assets/sprites/hypno/front_shiny.png "Hypno") | ![Hypno](../assets/sprites/hypno/back.png "Hypno") | ![Hypno](../assets/sprites/hypno/back_shiny.png "Hypno") |
+| ![Hypno](../assets/sprites/hypno/front.gif "Hypno: Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.") | ![Hypno](../assets/sprites/hypno/front_shiny.png "Hypno: Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.") | ![Hypno](../assets/sprites/hypno/back.png "Hypno: Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.") | ![Hypno](../assets/sprites/hypno/back_shiny.png "Hypno: Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Hypno](../assets/sprites/hypno/front_female.gif "Hypno") | ![Hypno](../assets/sprites/hypno/front_shiny_female.png "Hypno") | ![Hypno](../assets/sprites/hypno/back_female.png "Hypno") | ![Hypno](../assets/sprites/hypno/back_shiny_female.png "Hypno") |
+| ![Hypno](../assets/sprites/hypno/front_female.gif "Hypno: Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.") | ![Hypno](../assets/sprites/hypno/front_shiny_female.png "Hypno: Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.") | ![Hypno](../assets/sprites/hypno/back_female.png "Hypno: Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.") | ![Hypno](../assets/sprites/hypno/back_shiny_female.png "Hypno: Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.") |
 
 ### Cries
 

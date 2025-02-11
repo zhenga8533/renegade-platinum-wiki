@@ -14,7 +14,13 @@ A steel-hard shell protects its tender body. It quietly endures hardships while 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Metapod](../assets/sprites/metapod/front.gif "Metapod") | ![Metapod](../assets/sprites/metapod/front_shiny.png "Metapod") | ![Metapod](../assets/sprites/metapod/back.png "Metapod") | ![Metapod](../assets/sprites/metapod/back_shiny.png "Metapod") |
+| ![Metapod](../assets/sprites/metapod/front.gif "Metapod: A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.") | ![Metapod](../assets/sprites/metapod/front_shiny.png "Metapod: A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.") | ![Metapod](../assets/sprites/metapod/back.png "Metapod: A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.") | ![Metapod](../assets/sprites/metapod/back_shiny.png "Metapod: A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

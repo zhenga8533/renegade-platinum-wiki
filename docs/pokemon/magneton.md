@@ -14,7 +14,13 @@ Many mysteriously appear when more sunspots dot the sun. They stop TV sets from 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Magneton](../assets/sprites/magneton/front.gif "Magneton") | ![Magneton](../assets/sprites/magneton/front_shiny.png "Magneton") | ![Magneton](../assets/sprites/magneton/back.png "Magneton") | ![Magneton](../assets/sprites/magneton/back_shiny.png "Magneton") |
+| ![Magneton](../assets/sprites/magneton/front.gif "Magneton: Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.") | ![Magneton](../assets/sprites/magneton/front_shiny.png "Magneton: Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.") | ![Magneton](../assets/sprites/magneton/back.png "Magneton: Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.") | ![Magneton](../assets/sprites/magneton/back_shiny.png "Magneton: Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

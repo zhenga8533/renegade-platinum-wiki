@@ -14,7 +14,13 @@ An ancient clay figurine that came to life as a Pokémon from exposure to a myst
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Claydol](../assets/sprites/claydol/front.gif "Claydol") | ![Claydol](../assets/sprites/claydol/front_shiny.png "Claydol") | ![Claydol](../assets/sprites/claydol/back.png "Claydol") | ![Claydol](../assets/sprites/claydol/back_shiny.png "Claydol") |
+| ![Claydol](../assets/sprites/claydol/front.gif "Claydol: An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.") | ![Claydol](../assets/sprites/claydol/front_shiny.png "Claydol: An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.") | ![Claydol](../assets/sprites/claydol/back.png "Claydol: An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.") | ![Claydol](../assets/sprites/claydol/back_shiny.png "Claydol: An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

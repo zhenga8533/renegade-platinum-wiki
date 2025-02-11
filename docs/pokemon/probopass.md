@@ -14,7 +14,13 @@ It freely controls three small units called Mini-Noses using magnetic force.
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Probopass](../assets/sprites/probopass/front.gif "Probopass") | ![Probopass](../assets/sprites/probopass/front_shiny.png "Probopass") | ![Probopass](../assets/sprites/probopass/back.png "Probopass") | ![Probopass](../assets/sprites/probopass/back_shiny.png "Probopass") |
+| ![Probopass](../assets/sprites/probopass/front.gif "Probopass: It freely controls three small units called Mini-Noses using magnetic force.") | ![Probopass](../assets/sprites/probopass/front_shiny.png "Probopass: It freely controls three small units called Mini-Noses using magnetic force.") | ![Probopass](../assets/sprites/probopass/back.png "Probopass: It freely controls three small units called Mini-Noses using magnetic force.") | ![Probopass](../assets/sprites/probopass/back_shiny.png "Probopass: It freely controls three small units called Mini-Noses using magnetic force.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

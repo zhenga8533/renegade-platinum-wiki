@@ -14,7 +14,13 @@ For food, it digs up iron ore. It smashes its steely body against others to figh
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Lairon](../assets/sprites/lairon/front.gif "Lairon") | ![Lairon](../assets/sprites/lairon/front_shiny.png "Lairon") | ![Lairon](../assets/sprites/lairon/back.png "Lairon") | ![Lairon](../assets/sprites/lairon/back_shiny.png "Lairon") |
+| ![Lairon](../assets/sprites/lairon/front.gif "Lairon: For food, it digs up iron ore. It smashes its steely body against others to fight over territory.") | ![Lairon](../assets/sprites/lairon/front_shiny.png "Lairon: For food, it digs up iron ore. It smashes its steely body against others to fight over territory.") | ![Lairon](../assets/sprites/lairon/back.png "Lairon: For food, it digs up iron ore. It smashes its steely body against others to fight over territory.") | ![Lairon](../assets/sprites/lairon/back_shiny.png "Lairon: For food, it digs up iron ore. It smashes its steely body against others to fight over territory.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

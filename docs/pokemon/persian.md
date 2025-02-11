@@ -14,7 +14,13 @@ A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Persian](../assets/sprites/persian/front.gif "Persian") | ![Persian](../assets/sprites/persian/front_shiny.png "Persian") | ![Persian](../assets/sprites/persian/back.png "Persian") | ![Persian](../assets/sprites/persian/back_shiny.png "Persian") |
+| ![Persian](../assets/sprites/persian/front.gif "Persian: A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.") | ![Persian](../assets/sprites/persian/front_shiny.png "Persian: A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.") | ![Persian](../assets/sprites/persian/back.png "Persian: A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.") | ![Persian](../assets/sprites/persian/back_shiny.png "Persian: A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

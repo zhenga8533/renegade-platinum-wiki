@@ -14,7 +14,13 @@ It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch ca
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Haunter](../assets/sprites/haunter/front.gif "Haunter") | ![Haunter](../assets/sprites/haunter/front_shiny.png "Haunter") | ![Haunter](../assets/sprites/haunter/back.png "Haunter") | ![Haunter](../assets/sprites/haunter/back_shiny.png "Haunter") |
+| ![Haunter](../assets/sprites/haunter/front.gif "Haunter: It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.") | ![Haunter](../assets/sprites/haunter/front_shiny.png "Haunter: It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.") | ![Haunter](../assets/sprites/haunter/back.png "Haunter: It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.") | ![Haunter](../assets/sprites/haunter/back_shiny.png "Haunter: It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

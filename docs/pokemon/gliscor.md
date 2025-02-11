@@ -14,7 +14,13 @@ If it succeeds in catching even a faint breeze properly, it can circle the globe
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Gliscor](../assets/sprites/gliscor/front.gif "Gliscor") | ![Gliscor](../assets/sprites/gliscor/front_shiny.png "Gliscor") | ![Gliscor](../assets/sprites/gliscor/back.png "Gliscor") | ![Gliscor](../assets/sprites/gliscor/back_shiny.png "Gliscor") |
+| ![Gliscor](../assets/sprites/gliscor/front.gif "Gliscor: If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.") | ![Gliscor](../assets/sprites/gliscor/front_shiny.png "Gliscor: If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.") | ![Gliscor](../assets/sprites/gliscor/back.png "Gliscor: If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.") | ![Gliscor](../assets/sprites/gliscor/back_shiny.png "Gliscor: If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

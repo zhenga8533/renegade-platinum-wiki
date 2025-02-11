@@ -14,7 +14,13 @@ It extends its 80 tentacles to form an encircling poisonous net that is difficul
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Tentacruel](../assets/sprites/tentacruel/front.gif "Tentacruel") | ![Tentacruel](../assets/sprites/tentacruel/front_shiny.png "Tentacruel") | ![Tentacruel](../assets/sprites/tentacruel/back.png "Tentacruel") | ![Tentacruel](../assets/sprites/tentacruel/back_shiny.png "Tentacruel") |
+| ![Tentacruel](../assets/sprites/tentacruel/front.gif "Tentacruel: It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.") | ![Tentacruel](../assets/sprites/tentacruel/front_shiny.png "Tentacruel: It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.") | ![Tentacruel](../assets/sprites/tentacruel/back.png "Tentacruel: It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.") | ![Tentacruel](../assets/sprites/tentacruel/back_shiny.png "Tentacruel: It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,13 +14,13 @@ It checks its surroundings and location using reflections of the ultrasonic wave
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Zubat](../assets/sprites/zubat/front.gif "Zubat") | ![Zubat](../assets/sprites/zubat/front_shiny.png "Zubat") | ![Zubat](../assets/sprites/zubat/back.png "Zubat") | ![Zubat](../assets/sprites/zubat/back_shiny.png "Zubat") |
+| ![Zubat](../assets/sprites/zubat/front.gif "Zubat: It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.") | ![Zubat](../assets/sprites/zubat/front_shiny.png "Zubat: It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.") | ![Zubat](../assets/sprites/zubat/back.png "Zubat: It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.") | ![Zubat](../assets/sprites/zubat/back_shiny.png "Zubat: It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Zubat](../assets/sprites/zubat/front_female.gif "Zubat") | ![Zubat](../assets/sprites/zubat/front_shiny_female.png "Zubat") | ![Zubat](../assets/sprites/zubat/back_female.png "Zubat") | ![Zubat](../assets/sprites/zubat/back_shiny_female.png "Zubat") |
+| ![Zubat](../assets/sprites/zubat/front_female.gif "Zubat: It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.") | ![Zubat](../assets/sprites/zubat/front_shiny_female.png "Zubat: It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.") | ![Zubat](../assets/sprites/zubat/back_female.png "Zubat: It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.") | ![Zubat](../assets/sprites/zubat/back_shiny_female.png "Zubat: It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.") |
 
 ### Cries
 

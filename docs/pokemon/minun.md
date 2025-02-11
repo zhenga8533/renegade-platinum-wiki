@@ -14,7 +14,13 @@ It cheers on friends. If its friends are losing, its body lets off more and more
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Minun](../assets/sprites/minun/front.gif "Minun") | ![Minun](../assets/sprites/minun/front_shiny.png "Minun") | ![Minun](../assets/sprites/minun/back.png "Minun") | ![Minun](../assets/sprites/minun/back_shiny.png "Minun") |
+| ![Minun](../assets/sprites/minun/front.gif "Minun: It cheers on friends. If its friends are losing, its body lets off more and more sparks.") | ![Minun](../assets/sprites/minun/front_shiny.png "Minun: It cheers on friends. If its friends are losing, its body lets off more and more sparks.") | ![Minun](../assets/sprites/minun/back.png "Minun: It cheers on friends. If its friends are losing, its body lets off more and more sparks.") | ![Minun](../assets/sprites/minun/back_shiny.png "Minun: It cheers on friends. If its friends are losing, its body lets off more and more sparks.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

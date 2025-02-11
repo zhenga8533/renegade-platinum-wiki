@@ -14,7 +14,13 @@ It makes its nest in the shade of corals. If it senses danger, it spits murky in
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Horsea](../assets/sprites/horsea/front.gif "Horsea") | ![Horsea](../assets/sprites/horsea/front_shiny.png "Horsea") | ![Horsea](../assets/sprites/horsea/back.png "Horsea") | ![Horsea](../assets/sprites/horsea/back_shiny.png "Horsea") |
+| ![Horsea](../assets/sprites/horsea/front.gif "Horsea: It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.") | ![Horsea](../assets/sprites/horsea/front_shiny.png "Horsea: It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.") | ![Horsea](../assets/sprites/horsea/back.png "Horsea: It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.") | ![Horsea](../assets/sprites/horsea/back_shiny.png "Horsea: It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

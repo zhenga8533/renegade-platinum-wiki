@@ -14,7 +14,13 @@ A kindly Pokémon that lays highly nutritious eggs and shares them with injured 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Chansey](../assets/sprites/chansey/front.gif "Chansey") | ![Chansey](../assets/sprites/chansey/front_shiny.png "Chansey") | ![Chansey](../assets/sprites/chansey/back.png "Chansey") | ![Chansey](../assets/sprites/chansey/back_shiny.png "Chansey") |
+| ![Chansey](../assets/sprites/chansey/front.gif "Chansey: A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.") | ![Chansey](../assets/sprites/chansey/front_shiny.png "Chansey: A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.") | ![Chansey](../assets/sprites/chansey/back.png "Chansey: A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.") | ![Chansey](../assets/sprites/chansey/back_shiny.png "Chansey: A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ Born from gases, anyone would faint if engulfed by its gaseous body, which conta
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Gastly](../assets/sprites/gastly/front.gif "Gastly") | ![Gastly](../assets/sprites/gastly/front_shiny.png "Gastly") | ![Gastly](../assets/sprites/gastly/back.png "Gastly") | ![Gastly](../assets/sprites/gastly/back_shiny.png "Gastly") |
+| ![Gastly](../assets/sprites/gastly/front.gif "Gastly: Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.") | ![Gastly](../assets/sprites/gastly/front_shiny.png "Gastly: Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.") | ![Gastly](../assets/sprites/gastly/back.png "Gastly: Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.") | ![Gastly](../assets/sprites/gastly/back_shiny.png "Gastly: Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

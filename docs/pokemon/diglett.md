@@ -14,7 +14,13 @@ A Pokémon that lives underground. Because of its dark habitat, it is repelled b
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Diglett](../assets/sprites/diglett/front.gif "Diglett") | ![Diglett](../assets/sprites/diglett/front_shiny.png "Diglett") | ![Diglett](../assets/sprites/diglett/back.png "Diglett") | ![Diglett](../assets/sprites/diglett/back_shiny.png "Diglett") |
+| ![Diglett](../assets/sprites/diglett/front.gif "Diglett: A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.") | ![Diglett](../assets/sprites/diglett/front_shiny.png "Diglett: A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.") | ![Diglett](../assets/sprites/diglett/back.png "Diglett: A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.") | ![Diglett](../assets/sprites/diglett/back_shiny.png "Diglett: A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

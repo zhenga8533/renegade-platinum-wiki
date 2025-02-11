@@ -14,7 +14,13 @@ It has the power to travel across time, but it is said to appear only in peacefu
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Celebi](../assets/sprites/celebi/front.gif "Celebi") | ![Celebi](../assets/sprites/celebi/front_shiny.png "Celebi") | ![Celebi](../assets/sprites/celebi/back.png "Celebi") | ![Celebi](../assets/sprites/celebi/back_shiny.png "Celebi") |
+| ![Celebi](../assets/sprites/celebi/front.gif "Celebi: It has the power to travel across time, but it is said to appear only in peaceful times.") | ![Celebi](../assets/sprites/celebi/front_shiny.png "Celebi: It has the power to travel across time, but it is said to appear only in peaceful times.") | ![Celebi](../assets/sprites/celebi/back.png "Celebi: It has the power to travel across time, but it is said to appear only in peaceful times.") | ![Celebi](../assets/sprites/celebi/back_shiny.png "Celebi: It has the power to travel across time, but it is said to appear only in peaceful times.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

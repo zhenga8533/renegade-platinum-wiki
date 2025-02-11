@@ -14,13 +14,13 @@ Cautious in the extreme, its hardy vitality lets it live in any kind of environm
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Rattata](../assets/sprites/rattata/front.gif "Rattata") | ![Rattata](../assets/sprites/rattata/front_shiny.png "Rattata") | ![Rattata](../assets/sprites/rattata/back.png "Rattata") | ![Rattata](../assets/sprites/rattata/back_shiny.png "Rattata") |
+| ![Rattata](../assets/sprites/rattata/front.gif "Rattata: Cautious in the extreme, its hardy vitality lets it live in any kind of environment.") | ![Rattata](../assets/sprites/rattata/front_shiny.png "Rattata: Cautious in the extreme, its hardy vitality lets it live in any kind of environment.") | ![Rattata](../assets/sprites/rattata/back.png "Rattata: Cautious in the extreme, its hardy vitality lets it live in any kind of environment.") | ![Rattata](../assets/sprites/rattata/back_shiny.png "Rattata: Cautious in the extreme, its hardy vitality lets it live in any kind of environment.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Rattata](../assets/sprites/rattata/front_female.gif "Rattata") | ![Rattata](../assets/sprites/rattata/front_shiny_female.png "Rattata") | ![Rattata](../assets/sprites/rattata/back_female.png "Rattata") | ![Rattata](../assets/sprites/rattata/back_shiny_female.png "Rattata") |
+| ![Rattata](../assets/sprites/rattata/front_female.gif "Rattata: Cautious in the extreme, its hardy vitality lets it live in any kind of environment.") | ![Rattata](../assets/sprites/rattata/front_shiny_female.png "Rattata: Cautious in the extreme, its hardy vitality lets it live in any kind of environment.") | ![Rattata](../assets/sprites/rattata/back_female.png "Rattata: Cautious in the extreme, its hardy vitality lets it live in any kind of environment.") | ![Rattata](../assets/sprites/rattata/back_shiny_female.png "Rattata: Cautious in the extreme, its hardy vitality lets it live in any kind of environment.") |
 
 ### Cries
 

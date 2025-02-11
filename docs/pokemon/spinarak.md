@@ -14,7 +14,13 @@ It sets a trap by spinning a web with thin but strong silk. It waits motionlessl
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Spinarak](../assets/sprites/spinarak/front.gif "Spinarak") | ![Spinarak](../assets/sprites/spinarak/front_shiny.png "Spinarak") | ![Spinarak](../assets/sprites/spinarak/back.png "Spinarak") | ![Spinarak](../assets/sprites/spinarak/back_shiny.png "Spinarak") |
+| ![Spinarak](../assets/sprites/spinarak/front.gif "Spinarak: It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.") | ![Spinarak](../assets/sprites/spinarak/front_shiny.png "Spinarak: It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.") | ![Spinarak](../assets/sprites/spinarak/back.png "Spinarak: It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.") | ![Spinarak](../assets/sprites/spinarak/back_shiny.png "Spinarak: It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

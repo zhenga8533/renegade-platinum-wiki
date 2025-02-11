@@ -14,7 +14,13 @@ Blown by seasonal winds, it circles the globe, scattering cotton spores as it go
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Jumpluff](../assets/sprites/jumpluff/front.gif "Jumpluff") | ![Jumpluff](../assets/sprites/jumpluff/front_shiny.png "Jumpluff") | ![Jumpluff](../assets/sprites/jumpluff/back.png "Jumpluff") | ![Jumpluff](../assets/sprites/jumpluff/back_shiny.png "Jumpluff") |
+| ![Jumpluff](../assets/sprites/jumpluff/front.gif "Jumpluff: Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.") | ![Jumpluff](../assets/sprites/jumpluff/front_shiny.png "Jumpluff: Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.") | ![Jumpluff](../assets/sprites/jumpluff/back.png "Jumpluff: Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.") | ![Jumpluff](../assets/sprites/jumpluff/back_shiny.png "Jumpluff: Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

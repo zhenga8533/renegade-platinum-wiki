@@ -14,7 +14,13 @@ It loves crossing the sea with people and Pokémon on its back. It understands h
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Lapras](../assets/sprites/lapras/front.gif "Lapras") | ![Lapras](../assets/sprites/lapras/front_shiny.png "Lapras") | ![Lapras](../assets/sprites/lapras/back.png "Lapras") | ![Lapras](../assets/sprites/lapras/back_shiny.png "Lapras") |
+| ![Lapras](../assets/sprites/lapras/front.gif "Lapras: It loves crossing the sea with people and Pokémon on its back. It understands human speech.") | ![Lapras](../assets/sprites/lapras/front_shiny.png "Lapras: It loves crossing the sea with people and Pokémon on its back. It understands human speech.") | ![Lapras](../assets/sprites/lapras/back.png "Lapras: It loves crossing the sea with people and Pokémon on its back. It understands human speech.") | ![Lapras](../assets/sprites/lapras/back_shiny.png "Lapras: It loves crossing the sea with people and Pokémon on its back. It understands human speech.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

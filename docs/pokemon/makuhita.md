@@ -14,7 +14,13 @@ It toughens its body by slamming into thick trees. Many snapped trees can be fou
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Makuhita](../assets/sprites/makuhita/front.gif "Makuhita") | ![Makuhita](../assets/sprites/makuhita/front_shiny.png "Makuhita") | ![Makuhita](../assets/sprites/makuhita/back.png "Makuhita") | ![Makuhita](../assets/sprites/makuhita/back_shiny.png "Makuhita") |
+| ![Makuhita](../assets/sprites/makuhita/front.gif "Makuhita: It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.") | ![Makuhita](../assets/sprites/makuhita/front_shiny.png "Makuhita: It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.") | ![Makuhita](../assets/sprites/makuhita/back.png "Makuhita: It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.") | ![Makuhita](../assets/sprites/makuhita/back_shiny.png "Makuhita: It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

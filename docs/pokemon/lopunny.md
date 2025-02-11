@@ -14,7 +14,13 @@ The ears appear to be delicate. If they are touched roughly, it kicks with its g
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Lopunny](../assets/sprites/lopunny/front.gif "Lopunny") | ![Lopunny](../assets/sprites/lopunny/front_shiny.png "Lopunny") | ![Lopunny](../assets/sprites/lopunny/back.png "Lopunny") | ![Lopunny](../assets/sprites/lopunny/back_shiny.png "Lopunny") |
+| ![Lopunny](../assets/sprites/lopunny/front.gif "Lopunny: The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs.") | ![Lopunny](../assets/sprites/lopunny/front_shiny.png "Lopunny: The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs.") | ![Lopunny](../assets/sprites/lopunny/back.png "Lopunny: The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs.") | ![Lopunny](../assets/sprites/lopunny/back_shiny.png "Lopunny: The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

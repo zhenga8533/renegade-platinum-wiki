@@ -14,7 +14,13 @@ It prefers an arid atmosphere. It leaks water that looks like tears when adjusti
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Bonsly](../assets/sprites/bonsly/front.gif "Bonsly") | ![Bonsly](../assets/sprites/bonsly/front_shiny.png "Bonsly") | ![Bonsly](../assets/sprites/bonsly/back.png "Bonsly") | ![Bonsly](../assets/sprites/bonsly/back_shiny.png "Bonsly") |
+| ![Bonsly](../assets/sprites/bonsly/front.gif "Bonsly: It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.") | ![Bonsly](../assets/sprites/bonsly/front_shiny.png "Bonsly: It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.") | ![Bonsly](../assets/sprites/bonsly/back.png "Bonsly: It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.") | ![Bonsly](../assets/sprites/bonsly/back_shiny.png "Bonsly: It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

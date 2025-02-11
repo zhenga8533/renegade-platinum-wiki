@@ -14,7 +14,13 @@ It is seen swimming dynamically and elegantly using its well-developed limbs and
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Golduck](../assets/sprites/golduck/front.gif "Golduck") | ![Golduck](../assets/sprites/golduck/front_shiny.png "Golduck") | ![Golduck](../assets/sprites/golduck/back.png "Golduck") | ![Golduck](../assets/sprites/golduck/back_shiny.png "Golduck") |
+| ![Golduck](../assets/sprites/golduck/front.gif "Golduck: It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.") | ![Golduck](../assets/sprites/golduck/front_shiny.png "Golduck: It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.") | ![Golduck](../assets/sprites/golduck/back.png "Golduck: It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.") | ![Golduck](../assets/sprites/golduck/back_shiny.png "Golduck: It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

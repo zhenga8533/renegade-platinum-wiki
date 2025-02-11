@@ -14,7 +14,13 @@ It stores berries in its shell. The berries eventually ferment to become delicio
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Shuckle](../assets/sprites/shuckle/front.gif "Shuckle") | ![Shuckle](../assets/sprites/shuckle/front_shiny.png "Shuckle") | ![Shuckle](../assets/sprites/shuckle/back.png "Shuckle") | ![Shuckle](../assets/sprites/shuckle/back_shiny.png "Shuckle") |
+| ![Shuckle](../assets/sprites/shuckle/front.gif "Shuckle: It stores berries in its shell. The berries eventually ferment to become delicious juices.") | ![Shuckle](../assets/sprites/shuckle/front_shiny.png "Shuckle: It stores berries in its shell. The berries eventually ferment to become delicious juices.") | ![Shuckle](../assets/sprites/shuckle/back.png "Shuckle: It stores berries in its shell. The berries eventually ferment to become delicious juices.") | ![Shuckle](../assets/sprites/shuckle/back_shiny.png "Shuckle: It stores berries in its shell. The berries eventually ferment to become delicious juices.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

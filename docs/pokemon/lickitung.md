@@ -14,7 +14,13 @@ When it extends its over-six-foot- long tongue, its tail quivers. There is a pos
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Lickitung](../assets/sprites/lickitung/front.gif "Lickitung") | ![Lickitung](../assets/sprites/lickitung/front_shiny.png "Lickitung") | ![Lickitung](../assets/sprites/lickitung/back.png "Lickitung") | ![Lickitung](../assets/sprites/lickitung/back_shiny.png "Lickitung") |
+| ![Lickitung](../assets/sprites/lickitung/front.gif "Lickitung: When it extends its over-six-foot- long tongue, its tail quivers. There is a possibility they are connected.") | ![Lickitung](../assets/sprites/lickitung/front_shiny.png "Lickitung: When it extends its over-six-foot- long tongue, its tail quivers. There is a possibility they are connected.") | ![Lickitung](../assets/sprites/lickitung/back.png "Lickitung: When it extends its over-six-foot- long tongue, its tail quivers. There is a possibility they are connected.") | ![Lickitung](../assets/sprites/lickitung/back_shiny.png "Lickitung: When it extends its over-six-foot- long tongue, its tail quivers. There is a possibility they are connected.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

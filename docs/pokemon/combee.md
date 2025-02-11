@@ -14,13 +14,13 @@ The trio is together from birth. It constantly gathers honey from flowers to ple
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Combee](../assets/sprites/combee/front.gif "Combee") | ![Combee](../assets/sprites/combee/front_shiny.png "Combee") | ![Combee](../assets/sprites/combee/back.png "Combee") | ![Combee](../assets/sprites/combee/back_shiny.png "Combee") |
+| ![Combee](../assets/sprites/combee/front.gif "Combee: The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.") | ![Combee](../assets/sprites/combee/front_shiny.png "Combee: The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.") | ![Combee](../assets/sprites/combee/back.png "Combee: The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.") | ![Combee](../assets/sprites/combee/back_shiny.png "Combee: The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Combee](../assets/sprites/combee/front_female.gif "Combee") | ![Combee](../assets/sprites/combee/front_shiny_female.png "Combee") | N/A | N/A |
+| ![Combee](../assets/sprites/combee/front_female.gif "Combee: The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.") | ![Combee](../assets/sprites/combee/front_shiny_female.png "Combee: The trio is together from birth. It constantly gathers honey from flowers to please VESPIQUEN.") | ? | ? |
 
 ### Cries
 

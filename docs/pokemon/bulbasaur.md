@@ -14,7 +14,13 @@ For some time after its birth, it grows by gaining nourishment from the seed on 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Bulbasaur](../assets/sprites/bulbasaur/front.gif "Bulbasaur") | ![Bulbasaur](../assets/sprites/bulbasaur/front_shiny.png "Bulbasaur") | ![Bulbasaur](../assets/sprites/bulbasaur/back.png "Bulbasaur") | ![Bulbasaur](../assets/sprites/bulbasaur/back_shiny.png "Bulbasaur") |
+| ![Bulbasaur](../assets/sprites/bulbasaur/front.gif "Bulbasaur: For some time after its birth, it grows by gaining nourishment from the seed on its back.") | ![Bulbasaur](../assets/sprites/bulbasaur/front_shiny.png "Bulbasaur: For some time after its birth, it grows by gaining nourishment from the seed on its back.") | ![Bulbasaur](../assets/sprites/bulbasaur/back.png "Bulbasaur: For some time after its birth, it grows by gaining nourishment from the seed on its back.") | ![Bulbasaur](../assets/sprites/bulbasaur/back_shiny.png "Bulbasaur: For some time after its birth, it grows by gaining nourishment from the seed on its back.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

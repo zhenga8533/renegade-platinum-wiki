@@ -14,7 +14,13 @@ It was banished for its violence. It silently gazed upon the old world from the 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Giratina Altered](../assets/sprites/giratina-altered/front.gif "Giratina Altered") | ![Giratina Altered](../assets/sprites/giratina-altered/front_shiny.png "Giratina Altered") | ![Giratina Altered](../assets/sprites/giratina-altered/back.png "Giratina Altered") | ![Giratina Altered](../assets/sprites/giratina-altered/back_shiny.png "Giratina Altered") |
+| ![Giratina Altered](../assets/sprites/giratina-altered/front.gif "Giratina Altered: It was banished for its violence. It silently gazed upon the old world from the Distortion World.") | ![Giratina Altered](../assets/sprites/giratina-altered/front_shiny.png "Giratina Altered: It was banished for its violence. It silently gazed upon the old world from the Distortion World.") | ![Giratina Altered](../assets/sprites/giratina-altered/back.png "Giratina Altered: It was banished for its violence. It silently gazed upon the old world from the Distortion World.") | ![Giratina Altered](../assets/sprites/giratina-altered/back_shiny.png "Giratina Altered: It was banished for its violence. It silently gazed upon the old world from the Distortion World.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

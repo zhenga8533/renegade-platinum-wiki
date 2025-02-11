@@ -14,7 +14,13 @@ It can swim while towing a large ship. It bashes down foes with a swing of its t
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Swampert](../assets/sprites/swampert/front.gif "Swampert") | ![Swampert](../assets/sprites/swampert/front_shiny.png "Swampert") | ![Swampert](../assets/sprites/swampert/back.png "Swampert") | ![Swampert](../assets/sprites/swampert/back_shiny.png "Swampert") |
+| ![Swampert](../assets/sprites/swampert/front.gif "Swampert: It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.") | ![Swampert](../assets/sprites/swampert/front_shiny.png "Swampert: It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.") | ![Swampert](../assets/sprites/swampert/back.png "Swampert: It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.") | ![Swampert](../assets/sprites/swampert/back_shiny.png "Swampert: It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

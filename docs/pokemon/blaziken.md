@@ -14,13 +14,13 @@ Flames spout from its wrists, enveloping its knuckles. Its punches scorch its fo
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Blaziken](../assets/sprites/blaziken/front.gif "Blaziken") | ![Blaziken](../assets/sprites/blaziken/front_shiny.png "Blaziken") | ![Blaziken](../assets/sprites/blaziken/back.png "Blaziken") | ![Blaziken](../assets/sprites/blaziken/back_shiny.png "Blaziken") |
+| ![Blaziken](../assets/sprites/blaziken/front.gif "Blaziken: Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.") | ![Blaziken](../assets/sprites/blaziken/front_shiny.png "Blaziken: Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.") | ![Blaziken](../assets/sprites/blaziken/back.png "Blaziken: Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.") | ![Blaziken](../assets/sprites/blaziken/back_shiny.png "Blaziken: Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Blaziken](../assets/sprites/blaziken/front_female.gif "Blaziken") | ![Blaziken](../assets/sprites/blaziken/front_shiny_female.png "Blaziken") | ![Blaziken](../assets/sprites/blaziken/back_female.png "Blaziken") | ![Blaziken](../assets/sprites/blaziken/back_shiny_female.png "Blaziken") |
+| ![Blaziken](../assets/sprites/blaziken/front_female.gif "Blaziken: Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.") | ![Blaziken](../assets/sprites/blaziken/front_shiny_female.png "Blaziken: Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.") | ![Blaziken](../assets/sprites/blaziken/back_female.png "Blaziken: Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.") | ![Blaziken](../assets/sprites/blaziken/back_shiny_female.png "Blaziken: Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.") |
 
 ### Cries
 

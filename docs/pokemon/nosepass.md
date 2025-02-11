@@ -14,7 +14,13 @@ When endangered, it may protect itself by raising its magnetism and drawing iron
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Nosepass](../assets/sprites/nosepass/front.gif "Nosepass") | ![Nosepass](../assets/sprites/nosepass/front_shiny.png "Nosepass") | ![Nosepass](../assets/sprites/nosepass/back.png "Nosepass") | ![Nosepass](../assets/sprites/nosepass/back_shiny.png "Nosepass") |
+| ![Nosepass](../assets/sprites/nosepass/front.gif "Nosepass: When endangered, it may protect itself by raising its magnetism and drawing iron objects to its body.") | ![Nosepass](../assets/sprites/nosepass/front_shiny.png "Nosepass: When endangered, it may protect itself by raising its magnetism and drawing iron objects to its body.") | ![Nosepass](../assets/sprites/nosepass/back.png "Nosepass: When endangered, it may protect itself by raising its magnetism and drawing iron objects to its body.") | ![Nosepass](../assets/sprites/nosepass/back_shiny.png "Nosepass: When endangered, it may protect itself by raising its magnetism and drawing iron objects to its body.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

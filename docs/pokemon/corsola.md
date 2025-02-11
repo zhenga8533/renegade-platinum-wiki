@@ -14,7 +14,13 @@ Many live in the clean seas of the south. They apparently can’t live in pollut
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Corsola](../assets/sprites/corsola/front.gif "Corsola") | ![Corsola](../assets/sprites/corsola/front_shiny.png "Corsola") | ![Corsola](../assets/sprites/corsola/back.png "Corsola") | ![Corsola](../assets/sprites/corsola/back_shiny.png "Corsola") |
+| ![Corsola](../assets/sprites/corsola/front.gif "Corsola: Many live in the clean seas of the south. They apparently can’t live in polluted waters.") | ![Corsola](../assets/sprites/corsola/front_shiny.png "Corsola: Many live in the clean seas of the south. They apparently can’t live in polluted waters.") | ![Corsola](../assets/sprites/corsola/back.png "Corsola: Many live in the clean seas of the south. They apparently can’t live in polluted waters.") | ![Corsola](../assets/sprites/corsola/back_shiny.png "Corsola: Many live in the clean seas of the south. They apparently can’t live in polluted waters.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

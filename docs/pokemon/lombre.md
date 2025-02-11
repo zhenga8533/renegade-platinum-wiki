@@ -14,7 +14,13 @@ It has a mischievous spirit. If it spots an angler, it will tug on the fishing l
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Lombre](../assets/sprites/lombre/front.gif "Lombre") | ![Lombre](../assets/sprites/lombre/front_shiny.png "Lombre") | ![Lombre](../assets/sprites/lombre/back.png "Lombre") | ![Lombre](../assets/sprites/lombre/back_shiny.png "Lombre") |
+| ![Lombre](../assets/sprites/lombre/front.gif "Lombre: It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.") | ![Lombre](../assets/sprites/lombre/front_shiny.png "Lombre: It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.") | ![Lombre](../assets/sprites/lombre/back.png "Lombre: It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.") | ![Lombre](../assets/sprites/lombre/back_shiny.png "Lombre: It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

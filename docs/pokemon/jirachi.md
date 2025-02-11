@@ -14,7 +14,13 @@ It is said to have the ability to grant any wish for just one week every thousan
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Jirachi](../assets/sprites/jirachi/front.gif "Jirachi") | ![Jirachi](../assets/sprites/jirachi/front_shiny.png "Jirachi") | ![Jirachi](../assets/sprites/jirachi/back.png "Jirachi") | ![Jirachi](../assets/sprites/jirachi/back_shiny.png "Jirachi") |
+| ![Jirachi](../assets/sprites/jirachi/front.gif "Jirachi: It is said to have the ability to grant any wish for just one week every thousand years.") | ![Jirachi](../assets/sprites/jirachi/front_shiny.png "Jirachi: It is said to have the ability to grant any wish for just one week every thousand years.") | ![Jirachi](../assets/sprites/jirachi/back.png "Jirachi: It is said to have the ability to grant any wish for just one week every thousand years.") | ![Jirachi](../assets/sprites/jirachi/back_shiny.png "Jirachi: It is said to have the ability to grant any wish for just one week every thousand years.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

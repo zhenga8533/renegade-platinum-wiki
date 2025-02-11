@@ -14,115 +14,121 @@ It is said to have emerged from an egg in a place where there was nothing, then 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arceus](../assets/sprites/arceus/front.gif "Arceus") | ![Arceus](../assets/sprites/arceus/front_shiny.png "Arceus") | ![Arceus](../assets/sprites/arceus/back.png "Arceus") | ![Arceus](../assets/sprites/arceus/back_shiny.png "Arceus") |
+| ![Arceus](../assets/sprites/arceus/front.gif "Arceus: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus](../assets/sprites/arceus/front_shiny.png "Arceus: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus](../assets/sprites/arceus/back.png "Arceus: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus](../assets/sprites/arceus/back_shiny.png "Arceus: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Arceus Bug Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arceus Bug](../assets/sprites/arceus-bug/front.gif "Arceus Bug") | ![Arceus Bug](../assets/sprites/arceus-bug/front_shiny.png "Arceus Bug") | ![Arceus Bug](../assets/sprites/arceus-bug/back.png "Arceus Bug") | ![Arceus Bug](../assets/sprites/arceus-bug/back_shiny.png "Arceus Bug") |
+| ![Arceus Bug](../assets/sprites/arceus-bug/front.gif "Arceus Bug: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Bug](../assets/sprites/arceus-bug/front_shiny.png "Arceus Bug: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Bug](../assets/sprites/arceus-bug/back.png "Arceus Bug: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Bug](../assets/sprites/arceus-bug/back_shiny.png "Arceus Bug: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") |
 
 ### Arceus Dark Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arceus Dark](../assets/sprites/arceus-dark/front.gif "Arceus Dark") | ![Arceus Dark](../assets/sprites/arceus-dark/front_shiny.png "Arceus Dark") | ![Arceus Dark](../assets/sprites/arceus-dark/back.png "Arceus Dark") | ![Arceus Dark](../assets/sprites/arceus-dark/back_shiny.png "Arceus Dark") |
+| ![Arceus Dark](../assets/sprites/arceus-dark/front.gif "Arceus Dark: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Dark](../assets/sprites/arceus-dark/front_shiny.png "Arceus Dark: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Dark](../assets/sprites/arceus-dark/back.png "Arceus Dark: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Dark](../assets/sprites/arceus-dark/back_shiny.png "Arceus Dark: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") |
 
 ### Arceus Dragon Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arceus Dragon](../assets/sprites/arceus-dragon/front.gif "Arceus Dragon") | ![Arceus Dragon](../assets/sprites/arceus-dragon/front_shiny.png "Arceus Dragon") | ![Arceus Dragon](../assets/sprites/arceus-dragon/back.png "Arceus Dragon") | ![Arceus Dragon](../assets/sprites/arceus-dragon/back_shiny.png "Arceus Dragon") |
+| ![Arceus Dragon](../assets/sprites/arceus-dragon/front.gif "Arceus Dragon: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Dragon](../assets/sprites/arceus-dragon/front_shiny.png "Arceus Dragon: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Dragon](../assets/sprites/arceus-dragon/back.png "Arceus Dragon: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Dragon](../assets/sprites/arceus-dragon/back_shiny.png "Arceus Dragon: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") |
 
 ### Arceus Electric Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arceus Electric](../assets/sprites/arceus-electric/front.gif "Arceus Electric") | ![Arceus Electric](../assets/sprites/arceus-electric/front_shiny.png "Arceus Electric") | ![Arceus Electric](../assets/sprites/arceus-electric/back.png "Arceus Electric") | ![Arceus Electric](../assets/sprites/arceus-electric/back_shiny.png "Arceus Electric") |
+| ![Arceus Electric](../assets/sprites/arceus-electric/front.gif "Arceus Electric: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Electric](../assets/sprites/arceus-electric/front_shiny.png "Arceus Electric: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Electric](../assets/sprites/arceus-electric/back.png "Arceus Electric: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Electric](../assets/sprites/arceus-electric/back_shiny.png "Arceus Electric: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") |
 
 ### Arceus Fighting Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arceus Fighting](../assets/sprites/arceus-fighting/front.gif "Arceus Fighting") | ![Arceus Fighting](../assets/sprites/arceus-fighting/front_shiny.png "Arceus Fighting") | ![Arceus Fighting](../assets/sprites/arceus-fighting/back.png "Arceus Fighting") | ![Arceus Fighting](../assets/sprites/arceus-fighting/back_shiny.png "Arceus Fighting") |
+| ![Arceus Fighting](../assets/sprites/arceus-fighting/front.gif "Arceus Fighting: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Fighting](../assets/sprites/arceus-fighting/front_shiny.png "Arceus Fighting: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Fighting](../assets/sprites/arceus-fighting/back.png "Arceus Fighting: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Fighting](../assets/sprites/arceus-fighting/back_shiny.png "Arceus Fighting: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") |
 
 ### Arceus Fire Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arceus Fire](../assets/sprites/arceus-fire/front.gif "Arceus Fire") | ![Arceus Fire](../assets/sprites/arceus-fire/front_shiny.png "Arceus Fire") | ![Arceus Fire](../assets/sprites/arceus-fire/back.png "Arceus Fire") | ![Arceus Fire](../assets/sprites/arceus-fire/back_shiny.png "Arceus Fire") |
+| ![Arceus Fire](../assets/sprites/arceus-fire/front.gif "Arceus Fire: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Fire](../assets/sprites/arceus-fire/front_shiny.png "Arceus Fire: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Fire](../assets/sprites/arceus-fire/back.png "Arceus Fire: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Fire](../assets/sprites/arceus-fire/back_shiny.png "Arceus Fire: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") |
 
 ### Arceus Flying Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arceus Flying](../assets/sprites/arceus-flying/front.gif "Arceus Flying") | ![Arceus Flying](../assets/sprites/arceus-flying/front_shiny.png "Arceus Flying") | ![Arceus Flying](../assets/sprites/arceus-flying/back.png "Arceus Flying") | ![Arceus Flying](../assets/sprites/arceus-flying/back_shiny.png "Arceus Flying") |
+| ![Arceus Flying](../assets/sprites/arceus-flying/front.gif "Arceus Flying: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Flying](../assets/sprites/arceus-flying/front_shiny.png "Arceus Flying: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Flying](../assets/sprites/arceus-flying/back.png "Arceus Flying: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Flying](../assets/sprites/arceus-flying/back_shiny.png "Arceus Flying: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") |
 
 ### Arceus Ghost Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arceus Ghost](../assets/sprites/arceus-ghost/front.gif "Arceus Ghost") | ![Arceus Ghost](../assets/sprites/arceus-ghost/front_shiny.png "Arceus Ghost") | ![Arceus Ghost](../assets/sprites/arceus-ghost/back.png "Arceus Ghost") | ![Arceus Ghost](../assets/sprites/arceus-ghost/back_shiny.png "Arceus Ghost") |
+| ![Arceus Ghost](../assets/sprites/arceus-ghost/front.gif "Arceus Ghost: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Ghost](../assets/sprites/arceus-ghost/front_shiny.png "Arceus Ghost: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Ghost](../assets/sprites/arceus-ghost/back.png "Arceus Ghost: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Ghost](../assets/sprites/arceus-ghost/back_shiny.png "Arceus Ghost: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") |
 
 ### Arceus Grass Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arceus Grass](../assets/sprites/arceus-grass/front.gif "Arceus Grass") | ![Arceus Grass](../assets/sprites/arceus-grass/front_shiny.png "Arceus Grass") | ![Arceus Grass](../assets/sprites/arceus-grass/back.png "Arceus Grass") | ![Arceus Grass](../assets/sprites/arceus-grass/back_shiny.png "Arceus Grass") |
+| ![Arceus Grass](../assets/sprites/arceus-grass/front.gif "Arceus Grass: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Grass](../assets/sprites/arceus-grass/front_shiny.png "Arceus Grass: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Grass](../assets/sprites/arceus-grass/back.png "Arceus Grass: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Grass](../assets/sprites/arceus-grass/back_shiny.png "Arceus Grass: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") |
 
 ### Arceus Ground Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arceus Ground](../assets/sprites/arceus-ground/front.gif "Arceus Ground") | ![Arceus Ground](../assets/sprites/arceus-ground/front_shiny.png "Arceus Ground") | ![Arceus Ground](../assets/sprites/arceus-ground/back.png "Arceus Ground") | ![Arceus Ground](../assets/sprites/arceus-ground/back_shiny.png "Arceus Ground") |
+| ![Arceus Ground](../assets/sprites/arceus-ground/front.gif "Arceus Ground: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Ground](../assets/sprites/arceus-ground/front_shiny.png "Arceus Ground: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Ground](../assets/sprites/arceus-ground/back.png "Arceus Ground: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Ground](../assets/sprites/arceus-ground/back_shiny.png "Arceus Ground: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") |
 
 ### Arceus Ice Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arceus Ice](../assets/sprites/arceus-ice/front.gif "Arceus Ice") | ![Arceus Ice](../assets/sprites/arceus-ice/front_shiny.png "Arceus Ice") | ![Arceus Ice](../assets/sprites/arceus-ice/back.png "Arceus Ice") | ![Arceus Ice](../assets/sprites/arceus-ice/back_shiny.png "Arceus Ice") |
+| ![Arceus Ice](../assets/sprites/arceus-ice/front.gif "Arceus Ice: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Ice](../assets/sprites/arceus-ice/front_shiny.png "Arceus Ice: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Ice](../assets/sprites/arceus-ice/back.png "Arceus Ice: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Ice](../assets/sprites/arceus-ice/back_shiny.png "Arceus Ice: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") |
 
 ### Arceus Poison Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arceus Poison](../assets/sprites/arceus-poison/front.gif "Arceus Poison") | ![Arceus Poison](../assets/sprites/arceus-poison/front_shiny.png "Arceus Poison") | ![Arceus Poison](../assets/sprites/arceus-poison/back.png "Arceus Poison") | ![Arceus Poison](../assets/sprites/arceus-poison/back_shiny.png "Arceus Poison") |
+| ![Arceus Poison](../assets/sprites/arceus-poison/front.gif "Arceus Poison: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Poison](../assets/sprites/arceus-poison/front_shiny.png "Arceus Poison: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Poison](../assets/sprites/arceus-poison/back.png "Arceus Poison: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Poison](../assets/sprites/arceus-poison/back_shiny.png "Arceus Poison: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") |
 
 ### Arceus Psychic Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arceus Psychic](../assets/sprites/arceus-psychic/front.gif "Arceus Psychic") | ![Arceus Psychic](../assets/sprites/arceus-psychic/front_shiny.png "Arceus Psychic") | ![Arceus Psychic](../assets/sprites/arceus-psychic/back.png "Arceus Psychic") | ![Arceus Psychic](../assets/sprites/arceus-psychic/back_shiny.png "Arceus Psychic") |
+| ![Arceus Psychic](../assets/sprites/arceus-psychic/front.gif "Arceus Psychic: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Psychic](../assets/sprites/arceus-psychic/front_shiny.png "Arceus Psychic: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Psychic](../assets/sprites/arceus-psychic/back.png "Arceus Psychic: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Psychic](../assets/sprites/arceus-psychic/back_shiny.png "Arceus Psychic: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") |
 
 ### Arceus Rock Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arceus Rock](../assets/sprites/arceus-rock/front.gif "Arceus Rock") | ![Arceus Rock](../assets/sprites/arceus-rock/front_shiny.png "Arceus Rock") | ![Arceus Rock](../assets/sprites/arceus-rock/back.png "Arceus Rock") | ![Arceus Rock](../assets/sprites/arceus-rock/back_shiny.png "Arceus Rock") |
+| ![Arceus Rock](../assets/sprites/arceus-rock/front.gif "Arceus Rock: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Rock](../assets/sprites/arceus-rock/front_shiny.png "Arceus Rock: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Rock](../assets/sprites/arceus-rock/back.png "Arceus Rock: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Rock](../assets/sprites/arceus-rock/back_shiny.png "Arceus Rock: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") |
 
 ### Arceus Steel Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arceus Steel](../assets/sprites/arceus-steel/front.gif "Arceus Steel") | ![Arceus Steel](../assets/sprites/arceus-steel/front_shiny.png "Arceus Steel") | ![Arceus Steel](../assets/sprites/arceus-steel/back.png "Arceus Steel") | ![Arceus Steel](../assets/sprites/arceus-steel/back_shiny.png "Arceus Steel") |
+| ![Arceus Steel](../assets/sprites/arceus-steel/front.gif "Arceus Steel: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Steel](../assets/sprites/arceus-steel/front_shiny.png "Arceus Steel: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Steel](../assets/sprites/arceus-steel/back.png "Arceus Steel: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Steel](../assets/sprites/arceus-steel/back_shiny.png "Arceus Steel: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") |
 
 ### Arceus Water Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arceus Water](../assets/sprites/arceus-water/front.gif "Arceus Water") | ![Arceus Water](../assets/sprites/arceus-water/front_shiny.png "Arceus Water") | ![Arceus Water](../assets/sprites/arceus-water/back.png "Arceus Water") | ![Arceus Water](../assets/sprites/arceus-water/back_shiny.png "Arceus Water") |
+| ![Arceus Water](../assets/sprites/arceus-water/front.gif "Arceus Water: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Water](../assets/sprites/arceus-water/front_shiny.png "Arceus Water: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Water](../assets/sprites/arceus-water/back.png "Arceus Water: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Water](../assets/sprites/arceus-water/back_shiny.png "Arceus Water: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") |
 
 ### Arceus Unknown Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arceus Unknown](../assets/sprites/arceus-unknown/front.png "Arceus Unknown") | ![Arceus Unknown](../assets/sprites/arceus-unknown/front_shiny.png "Arceus Unknown") | ![Arceus Unknown](../assets/sprites/arceus-unknown/back.png "Arceus Unknown") | ![Arceus Unknown](../assets/sprites/arceus-unknown/back_shiny.png "Arceus Unknown") |
+| ![Arceus Unknown](../assets/sprites/arceus-unknown/front.png "Arceus Unknown: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Unknown](../assets/sprites/arceus-unknown/front_shiny.png "Arceus Unknown: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Unknown](../assets/sprites/arceus-unknown/back.png "Arceus Unknown: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Unknown](../assets/sprites/arceus-unknown/back_shiny.png "Arceus Unknown: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") |
 
 ### Arceus Fairy Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Arceus Fairy](../assets/sprites/arceus-fairy/front.png "Arceus Fairy") | ![Arceus Fairy](../assets/sprites/arceus-fairy/front_shiny.png "Arceus Fairy") | ![Arceus Fairy](../assets/sprites/arceus-fairy/back.png "Arceus Fairy") | ![Arceus Fairy](../assets/sprites/arceus-fairy/back_shiny.png "Arceus Fairy") |
+| ![Arceus Fairy](../assets/sprites/arceus-fairy/front.png "Arceus Fairy: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Fairy](../assets/sprites/arceus-fairy/front_shiny.png "Arceus Fairy: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Fairy](../assets/sprites/arceus-fairy/back.png "Arceus Fairy: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") | ![Arceus Fairy](../assets/sprites/arceus-fairy/back_shiny.png "Arceus Fairy: It is said to have emerged from an egg in a place where there was nothing, then shaped the world.") |
 
 ### Cries
 

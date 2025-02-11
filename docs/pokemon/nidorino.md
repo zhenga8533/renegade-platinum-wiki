@@ -14,7 +14,13 @@ It has a violent disposition and stabs foes with its horn, which oozes poison up
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Nidorino](../assets/sprites/nidorino/front.gif "Nidorino") | ![Nidorino](../assets/sprites/nidorino/front_shiny.png "Nidorino") | ![Nidorino](../assets/sprites/nidorino/back.png "Nidorino") | ![Nidorino](../assets/sprites/nidorino/back_shiny.png "Nidorino") |
+| ![Nidorino](../assets/sprites/nidorino/front.gif "Nidorino: It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.") | ![Nidorino](../assets/sprites/nidorino/front_shiny.png "Nidorino: It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.") | ![Nidorino](../assets/sprites/nidorino/back.png "Nidorino: It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.") | ![Nidorino](../assets/sprites/nidorino/back_shiny.png "Nidorino: It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

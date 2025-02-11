@@ -14,7 +14,13 @@ It lets honey soak into its paws so it can lick them all the time. Every set of 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Teddiursa](../assets/sprites/teddiursa/front.gif "Teddiursa") | ![Teddiursa](../assets/sprites/teddiursa/front_shiny.png "Teddiursa") | ![Teddiursa](../assets/sprites/teddiursa/back.png "Teddiursa") | ![Teddiursa](../assets/sprites/teddiursa/back_shiny.png "Teddiursa") |
+| ![Teddiursa](../assets/sprites/teddiursa/front.gif "Teddiursa: It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.") | ![Teddiursa](../assets/sprites/teddiursa/front_shiny.png "Teddiursa: It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.") | ![Teddiursa](../assets/sprites/teddiursa/back.png "Teddiursa: It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.") | ![Teddiursa](../assets/sprites/teddiursa/back_shiny.png "Teddiursa: It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

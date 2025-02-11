@@ -14,13 +14,13 @@ Because they are weak individually, they form groups. However, they bicker if th
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Starly](../assets/sprites/starly/front.gif "Starly") | ![Starly](../assets/sprites/starly/front_shiny.png "Starly") | ![Starly](../assets/sprites/starly/back.png "Starly") | ![Starly](../assets/sprites/starly/back_shiny.png "Starly") |
+| ![Starly](../assets/sprites/starly/front.gif "Starly: Because they are weak individually, they form groups. However, they bicker if the group grows too big.") | ![Starly](../assets/sprites/starly/front_shiny.png "Starly: Because they are weak individually, they form groups. However, they bicker if the group grows too big.") | ![Starly](../assets/sprites/starly/back.png "Starly: Because they are weak individually, they form groups. However, they bicker if the group grows too big.") | ![Starly](../assets/sprites/starly/back_shiny.png "Starly: Because they are weak individually, they form groups. However, they bicker if the group grows too big.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Starly](../assets/sprites/starly/front_female.gif "Starly") | ![Starly](../assets/sprites/starly/front_shiny_female.png "Starly") | ![Starly](../assets/sprites/starly/back_female.png "Starly") | ![Starly](../assets/sprites/starly/back_shiny_female.png "Starly") |
+| ![Starly](../assets/sprites/starly/front_female.gif "Starly: Because they are weak individually, they form groups. However, they bicker if the group grows too big.") | ![Starly](../assets/sprites/starly/front_shiny_female.png "Starly: Because they are weak individually, they form groups. However, they bicker if the group grows too big.") | ![Starly](../assets/sprites/starly/back_female.png "Starly: Because they are weak individually, they form groups. However, they bicker if the group grows too big.") | ![Starly](../assets/sprites/starly/back_shiny_female.png "Starly: Because they are weak individually, they form groups. However, they bicker if the group grows too big.") |
 
 ### Cries
 

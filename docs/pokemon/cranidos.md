@@ -14,7 +14,13 @@ A lifelong jungle dweller from 100 million years ago, it would snap obstructing 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Cranidos](../assets/sprites/cranidos/front.gif "Cranidos") | ![Cranidos](../assets/sprites/cranidos/front_shiny.png "Cranidos") | ![Cranidos](../assets/sprites/cranidos/back.png "Cranidos") | ![Cranidos](../assets/sprites/cranidos/back_shiny.png "Cranidos") |
+| ![Cranidos](../assets/sprites/cranidos/front.gif "Cranidos: A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts.") | ![Cranidos](../assets/sprites/cranidos/front_shiny.png "Cranidos: A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts.") | ![Cranidos](../assets/sprites/cranidos/back.png "Cranidos: A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts.") | ![Cranidos](../assets/sprites/cranidos/back_shiny.png "Cranidos: A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

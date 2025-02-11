@@ -14,7 +14,13 @@ It grows underground, sensing its surroundings using antennae instead of its vir
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Nincada](../assets/sprites/nincada/front.gif "Nincada") | ![Nincada](../assets/sprites/nincada/front_shiny.png "Nincada") | ![Nincada](../assets/sprites/nincada/back.png "Nincada") | ![Nincada](../assets/sprites/nincada/back_shiny.png "Nincada") |
+| ![Nincada](../assets/sprites/nincada/front.gif "Nincada: It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.") | ![Nincada](../assets/sprites/nincada/front_shiny.png "Nincada: It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.") | ![Nincada](../assets/sprites/nincada/back.png "Nincada: It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.") | ![Nincada](../assets/sprites/nincada/back_shiny.png "Nincada: It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

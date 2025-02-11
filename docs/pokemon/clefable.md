@@ -14,7 +14,13 @@ It is very wary and rarely shows itself to people. Its ears can hear a pin drop 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Clefable](../assets/sprites/clefable/front.gif "Clefable") | ![Clefable](../assets/sprites/clefable/front_shiny.png "Clefable") | ![Clefable](../assets/sprites/clefable/back.png "Clefable") | ![Clefable](../assets/sprites/clefable/back_shiny.png "Clefable") |
+| ![Clefable](../assets/sprites/clefable/front.gif "Clefable: It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.") | ![Clefable](../assets/sprites/clefable/front_shiny.png "Clefable: It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.") | ![Clefable](../assets/sprites/clefable/back.png "Clefable: It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.") | ![Clefable](../assets/sprites/clefable/back_shiny.png "Clefable: It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

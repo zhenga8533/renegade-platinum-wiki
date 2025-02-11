@@ -14,7 +14,13 @@ It can’t stop itself from chasing moving things, and it runs in a circle, chas
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Skitty](../assets/sprites/skitty/front.gif "Skitty") | ![Skitty](../assets/sprites/skitty/front_shiny.png "Skitty") | ![Skitty](../assets/sprites/skitty/back.png "Skitty") | ![Skitty](../assets/sprites/skitty/back_shiny.png "Skitty") |
+| ![Skitty](../assets/sprites/skitty/front.gif "Skitty: It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.") | ![Skitty](../assets/sprites/skitty/front_shiny.png "Skitty: It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.") | ![Skitty](../assets/sprites/skitty/back.png "Skitty: It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.") | ![Skitty](../assets/sprites/skitty/back_shiny.png "Skitty: It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

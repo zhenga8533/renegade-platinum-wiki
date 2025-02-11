@@ -14,7 +14,13 @@ It is thought that this Pokémon came onto land because its prey adapted to life
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Kabutops](../assets/sprites/kabutops/front.gif "Kabutops") | ![Kabutops](../assets/sprites/kabutops/front_shiny.png "Kabutops") | ![Kabutops](../assets/sprites/kabutops/back.png "Kabutops") | ![Kabutops](../assets/sprites/kabutops/back_shiny.png "Kabutops") |
+| ![Kabutops](../assets/sprites/kabutops/front.gif "Kabutops: It is thought that this Pokémon came onto land because its prey adapted to life on land.") | ![Kabutops](../assets/sprites/kabutops/front_shiny.png "Kabutops: It is thought that this Pokémon came onto land because its prey adapted to life on land.") | ![Kabutops](../assets/sprites/kabutops/back.png "Kabutops: It is thought that this Pokémon came onto land because its prey adapted to life on land.") | ![Kabutops](../assets/sprites/kabutops/back_shiny.png "Kabutops: It is thought that this Pokémon came onto land because its prey adapted to life on land.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

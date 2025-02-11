@@ -14,13 +14,19 @@ If it senses strong sunlight, it opens its folded petals to absorb the sun’s r
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Cherrim](../assets/sprites/cherrim/front.gif "Cherrim") | ![Cherrim](../assets/sprites/cherrim/front_shiny.png "Cherrim") | ![Cherrim](../assets/sprites/cherrim/back.png "Cherrim") | ![Cherrim](../assets/sprites/cherrim/back_shiny.png "Cherrim") |
+| ![Cherrim](../assets/sprites/cherrim/front.gif "Cherrim: If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.") | ![Cherrim](../assets/sprites/cherrim/front_shiny.png "Cherrim: If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.") | ![Cherrim](../assets/sprites/cherrim/back.png "Cherrim: If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.") | ![Cherrim](../assets/sprites/cherrim/back_shiny.png "Cherrim: If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cherrim Sunshine Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Cherrim Sunshine](../assets/sprites/cherrim-sunshine/front.png "Cherrim Sunshine") | ![Cherrim Sunshine](../assets/sprites/cherrim-sunshine/front_shiny.png "Cherrim Sunshine") | ![Cherrim Sunshine](../assets/sprites/cherrim-sunshine/back.png "Cherrim Sunshine") | ![Cherrim Sunshine](../assets/sprites/cherrim-sunshine/back_shiny.png "Cherrim Sunshine") |
+| ![Cherrim Sunshine](../assets/sprites/cherrim-sunshine/front.png "Cherrim Sunshine: If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.") | ![Cherrim Sunshine](../assets/sprites/cherrim-sunshine/front_shiny.png "Cherrim Sunshine: If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.") | ![Cherrim Sunshine](../assets/sprites/cherrim-sunshine/back.png "Cherrim Sunshine: If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.") | ![Cherrim Sunshine](../assets/sprites/cherrim-sunshine/back_shiny.png "Cherrim Sunshine: If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.") |
 
 ### Cries
 

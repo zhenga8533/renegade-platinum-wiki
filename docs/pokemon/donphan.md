@@ -14,13 +14,13 @@ It attacks by curling up, then rolling into its foe. It can blow apart a house i
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Donphan](../assets/sprites/donphan/front.gif "Donphan") | ![Donphan](../assets/sprites/donphan/front_shiny.png "Donphan") | ![Donphan](../assets/sprites/donphan/back.png "Donphan") | ![Donphan](../assets/sprites/donphan/back_shiny.png "Donphan") |
+| ![Donphan](../assets/sprites/donphan/front.gif "Donphan: It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.") | ![Donphan](../assets/sprites/donphan/front_shiny.png "Donphan: It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.") | ![Donphan](../assets/sprites/donphan/back.png "Donphan: It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.") | ![Donphan](../assets/sprites/donphan/back_shiny.png "Donphan: It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Donphan](../assets/sprites/donphan/front_female.gif "Donphan") | ![Donphan](../assets/sprites/donphan/front_shiny_female.png "Donphan") | ![Donphan](../assets/sprites/donphan/back_female.png "Donphan") | ![Donphan](../assets/sprites/donphan/back_shiny_female.png "Donphan") |
+| ![Donphan](../assets/sprites/donphan/front_female.gif "Donphan: It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.") | ![Donphan](../assets/sprites/donphan/front_shiny_female.png "Donphan: It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.") | ![Donphan](../assets/sprites/donphan/back_female.png "Donphan: It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.") | ![Donphan](../assets/sprites/donphan/back_shiny_female.png "Donphan: It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.") |
 
 ### Cries
 

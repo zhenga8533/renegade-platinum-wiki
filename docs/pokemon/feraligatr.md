@@ -14,7 +14,13 @@ It usually moves slowly, but it goes at blinding speed when it attacks and bites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Feraligatr](../assets/sprites/feraligatr/front.gif "Feraligatr") | ![Feraligatr](../assets/sprites/feraligatr/front_shiny.png "Feraligatr") | ![Feraligatr](../assets/sprites/feraligatr/back.png "Feraligatr") | ![Feraligatr](../assets/sprites/feraligatr/back_shiny.png "Feraligatr") |
+| ![Feraligatr](../assets/sprites/feraligatr/front.gif "Feraligatr: It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.") | ![Feraligatr](../assets/sprites/feraligatr/front_shiny.png "Feraligatr: It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.") | ![Feraligatr](../assets/sprites/feraligatr/back.png "Feraligatr: It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.") | ![Feraligatr](../assets/sprites/feraligatr/back_shiny.png "Feraligatr: It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

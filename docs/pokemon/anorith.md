@@ -14,7 +14,13 @@ A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and h
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Anorith](../assets/sprites/anorith/front.gif "Anorith") | ![Anorith](../assets/sprites/anorith/front_shiny.png "Anorith") | ![Anorith](../assets/sprites/anorith/back.png "Anorith") | ![Anorith](../assets/sprites/anorith/back_shiny.png "Anorith") |
+| ![Anorith](../assets/sprites/anorith/front.gif "Anorith: A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.") | ![Anorith](../assets/sprites/anorith/front_shiny.png "Anorith: A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.") | ![Anorith](../assets/sprites/anorith/back.png "Anorith: A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.") | ![Anorith](../assets/sprites/anorith/back_shiny.png "Anorith: A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

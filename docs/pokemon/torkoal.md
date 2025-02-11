@@ -14,7 +14,13 @@ It burns coal inside its shell for energy. It blows out black soot if it is enda
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Torkoal](../assets/sprites/torkoal/front.gif "Torkoal") | ![Torkoal](../assets/sprites/torkoal/front_shiny.png "Torkoal") | ![Torkoal](../assets/sprites/torkoal/back.png "Torkoal") | ![Torkoal](../assets/sprites/torkoal/back_shiny.png "Torkoal") |
+| ![Torkoal](../assets/sprites/torkoal/front.gif "Torkoal: It burns coal inside its shell for energy. It blows out black soot if it is endangered.") | ![Torkoal](../assets/sprites/torkoal/front_shiny.png "Torkoal: It burns coal inside its shell for energy. It blows out black soot if it is endangered.") | ![Torkoal](../assets/sprites/torkoal/back.png "Torkoal: It burns coal inside its shell for energy. It blows out black soot if it is endangered.") | ![Torkoal](../assets/sprites/torkoal/back_shiny.png "Torkoal: It burns coal inside its shell for energy. It blows out black soot if it is endangered.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

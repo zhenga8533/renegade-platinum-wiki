@@ -14,7 +14,13 @@ Its nine tails are said to be imbued with a mystic power. It can live for a thou
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Ninetales](../assets/sprites/ninetales/front.gif "Ninetales") | ![Ninetales](../assets/sprites/ninetales/front_shiny.png "Ninetales") | ![Ninetales](../assets/sprites/ninetales/back.png "Ninetales") | ![Ninetales](../assets/sprites/ninetales/back_shiny.png "Ninetales") |
+| ![Ninetales](../assets/sprites/ninetales/front.gif "Ninetales: Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.") | ![Ninetales](../assets/sprites/ninetales/front_shiny.png "Ninetales: Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.") | ![Ninetales](../assets/sprites/ninetales/back.png "Ninetales: Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.") | ![Ninetales](../assets/sprites/ninetales/back_shiny.png "Ninetales: Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

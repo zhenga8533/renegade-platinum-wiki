@@ -14,7 +14,13 @@ It shatters ice with its big tusks. Its thick blubber repels not only the cold, 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Walrein](../assets/sprites/walrein/front.gif "Walrein") | ![Walrein](../assets/sprites/walrein/front_shiny.png "Walrein") | ![Walrein](../assets/sprites/walrein/back.png "Walrein") | ![Walrein](../assets/sprites/walrein/back_shiny.png "Walrein") |
+| ![Walrein](../assets/sprites/walrein/front.gif "Walrein: It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.") | ![Walrein](../assets/sprites/walrein/front_shiny.png "Walrein: It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.") | ![Walrein](../assets/sprites/walrein/back.png "Walrein: It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.") | ![Walrein](../assets/sprites/walrein/back_shiny.png "Walrein: It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

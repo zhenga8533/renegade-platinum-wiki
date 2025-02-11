@@ -14,7 +14,13 @@ It communicates with others by lighting up its rear at night. It loves ILLUMISE�
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Volbeat](../assets/sprites/volbeat/front.gif "Volbeat") | ![Volbeat](../assets/sprites/volbeat/front_shiny.png "Volbeat") | ![Volbeat](../assets/sprites/volbeat/back.png "Volbeat") | ![Volbeat](../assets/sprites/volbeat/back_shiny.png "Volbeat") |
+| ![Volbeat](../assets/sprites/volbeat/front.gif "Volbeat: It communicates with others by lighting up its rear at night. It loves ILLUMISE’s sweet aroma.") | ![Volbeat](../assets/sprites/volbeat/front_shiny.png "Volbeat: It communicates with others by lighting up its rear at night. It loves ILLUMISE’s sweet aroma.") | ![Volbeat](../assets/sprites/volbeat/back.png "Volbeat: It communicates with others by lighting up its rear at night. It loves ILLUMISE’s sweet aroma.") | ![Volbeat](../assets/sprites/volbeat/back_shiny.png "Volbeat: It communicates with others by lighting up its rear at night. It loves ILLUMISE’s sweet aroma.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

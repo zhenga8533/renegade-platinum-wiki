@@ -14,13 +14,13 @@ To avoid being attacked, it does nothing but mimic a tree. It hates water and fl
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Sudowoodo](../assets/sprites/sudowoodo/front.gif "Sudowoodo") | ![Sudowoodo](../assets/sprites/sudowoodo/front_shiny.png "Sudowoodo") | ![Sudowoodo](../assets/sprites/sudowoodo/back.png "Sudowoodo") | ![Sudowoodo](../assets/sprites/sudowoodo/back_shiny.png "Sudowoodo") |
+| ![Sudowoodo](../assets/sprites/sudowoodo/front.gif "Sudowoodo: To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.") | ![Sudowoodo](../assets/sprites/sudowoodo/front_shiny.png "Sudowoodo: To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.") | ![Sudowoodo](../assets/sprites/sudowoodo/back.png "Sudowoodo: To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.") | ![Sudowoodo](../assets/sprites/sudowoodo/back_shiny.png "Sudowoodo: To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Sudowoodo](../assets/sprites/sudowoodo/front_female.gif "Sudowoodo") | ![Sudowoodo](../assets/sprites/sudowoodo/front_shiny_female.png "Sudowoodo") | ![Sudowoodo](../assets/sprites/sudowoodo/back_female.png "Sudowoodo") | ![Sudowoodo](../assets/sprites/sudowoodo/back_shiny_female.png "Sudowoodo") |
+| ![Sudowoodo](../assets/sprites/sudowoodo/front_female.gif "Sudowoodo: To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.") | ![Sudowoodo](../assets/sprites/sudowoodo/front_shiny_female.png "Sudowoodo: To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.") | ![Sudowoodo](../assets/sprites/sudowoodo/back_female.png "Sudowoodo: To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.") | ![Sudowoodo](../assets/sprites/sudowoodo/back_shiny_female.png "Sudowoodo: To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.") |
 
 ### Cries
 

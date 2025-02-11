@@ -14,7 +14,13 @@ The leaves that grow on its arms can slice down thick trees. It is without peer 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Sceptile](../assets/sprites/sceptile/front.gif "Sceptile") | ![Sceptile](../assets/sprites/sceptile/front_shiny.png "Sceptile") | ![Sceptile](../assets/sprites/sceptile/back.png "Sceptile") | ![Sceptile](../assets/sprites/sceptile/back_shiny.png "Sceptile") |
+| ![Sceptile](../assets/sprites/sceptile/front.gif "Sceptile: The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.") | ![Sceptile](../assets/sprites/sceptile/front_shiny.png "Sceptile: The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.") | ![Sceptile](../assets/sprites/sceptile/back.png "Sceptile: The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.") | ![Sceptile](../assets/sprites/sceptile/back_shiny.png "Sceptile: The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

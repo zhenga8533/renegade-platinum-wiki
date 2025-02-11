@@ -14,7 +14,13 @@ The shock waves from its cries can tip over trucks. It stamps its feet to power 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Loudred](../assets/sprites/loudred/front.gif "Loudred") | ![Loudred](../assets/sprites/loudred/front_shiny.png "Loudred") | ![Loudred](../assets/sprites/loudred/back.png "Loudred") | ![Loudred](../assets/sprites/loudred/back_shiny.png "Loudred") |
+| ![Loudred](../assets/sprites/loudred/front.gif "Loudred: The shock waves from its cries can tip over trucks. It stamps its feet to power up.") | ![Loudred](../assets/sprites/loudred/front_shiny.png "Loudred: The shock waves from its cries can tip over trucks. It stamps its feet to power up.") | ![Loudred](../assets/sprites/loudred/back.png "Loudred: The shock waves from its cries can tip over trucks. It stamps its feet to power up.") | ![Loudred](../assets/sprites/loudred/back_shiny.png "Loudred: The shock waves from its cries can tip over trucks. It stamps its feet to power up.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

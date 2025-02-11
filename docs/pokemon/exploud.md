@@ -14,7 +14,13 @@ Its howls can be heard over six miles away. It emits all sorts of noises from th
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Exploud](../assets/sprites/exploud/front.gif "Exploud") | ![Exploud](../assets/sprites/exploud/front_shiny.png "Exploud") | ![Exploud](../assets/sprites/exploud/back.png "Exploud") | ![Exploud](../assets/sprites/exploud/back_shiny.png "Exploud") |
+| ![Exploud](../assets/sprites/exploud/front.gif "Exploud: Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.") | ![Exploud](../assets/sprites/exploud/front_shiny.png "Exploud: Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.") | ![Exploud](../assets/sprites/exploud/back.png "Exploud: Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.") | ![Exploud](../assets/sprites/exploud/back_shiny.png "Exploud: Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

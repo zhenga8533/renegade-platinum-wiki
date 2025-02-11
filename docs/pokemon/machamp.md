@@ -14,7 +14,13 @@ Its four muscled arms slam foes with powerful punches and chops at blinding spee
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Machamp](../assets/sprites/machamp/front.gif "Machamp") | ![Machamp](../assets/sprites/machamp/front_shiny.png "Machamp") | ![Machamp](../assets/sprites/machamp/back.png "Machamp") | ![Machamp](../assets/sprites/machamp/back_shiny.png "Machamp") |
+| ![Machamp](../assets/sprites/machamp/front.gif "Machamp: Its four muscled arms slam foes with powerful punches and chops at blinding speed.") | ![Machamp](../assets/sprites/machamp/front_shiny.png "Machamp: Its four muscled arms slam foes with powerful punches and chops at blinding speed.") | ![Machamp](../assets/sprites/machamp/back.png "Machamp: Its four muscled arms slam foes with powerful punches and chops at blinding speed.") | ![Machamp](../assets/sprites/machamp/back_shiny.png "Machamp: Its four muscled arms slam foes with powerful punches and chops at blinding speed.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

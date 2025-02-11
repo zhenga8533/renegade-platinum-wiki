@@ -14,13 +14,13 @@ It spins its two tails like a screw to propel itself through water. The tails al
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Buizel](../assets/sprites/buizel/front.gif "Buizel") | ![Buizel](../assets/sprites/buizel/front_shiny.png "Buizel") | ![Buizel](../assets/sprites/buizel/back.png "Buizel") | ![Buizel](../assets/sprites/buizel/back_shiny.png "Buizel") |
+| ![Buizel](../assets/sprites/buizel/front.gif "Buizel: It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.") | ![Buizel](../assets/sprites/buizel/front_shiny.png "Buizel: It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.") | ![Buizel](../assets/sprites/buizel/back.png "Buizel: It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.") | ![Buizel](../assets/sprites/buizel/back_shiny.png "Buizel: It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Buizel](../assets/sprites/buizel/front_female.gif "Buizel") | N/A | ![Buizel](../assets/sprites/buizel/back_female.png "Buizel") | ![Buizel](../assets/sprites/buizel/back_shiny_female.png "Buizel") |
+| ![Buizel](../assets/sprites/buizel/front_female.gif "Buizel: It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.") | ? | ![Buizel](../assets/sprites/buizel/back_female.png "Buizel: It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.") | ![Buizel](../assets/sprites/buizel/back_shiny_female.png "Buizel: It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.") |
 
 ### Cries
 

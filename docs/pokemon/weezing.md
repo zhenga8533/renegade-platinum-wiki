@@ -14,7 +14,13 @@ It grows by feeding on gases released by garbage. Though very rare, triplets hav
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Weezing](../assets/sprites/weezing/front.gif "Weezing") | ![Weezing](../assets/sprites/weezing/front_shiny.png "Weezing") | ![Weezing](../assets/sprites/weezing/back.png "Weezing") | ![Weezing](../assets/sprites/weezing/back_shiny.png "Weezing") |
+| ![Weezing](../assets/sprites/weezing/front.gif "Weezing: It grows by feeding on gases released by garbage. Though very rare, triplets have been found.") | ![Weezing](../assets/sprites/weezing/front_shiny.png "Weezing: It grows by feeding on gases released by garbage. Though very rare, triplets have been found.") | ![Weezing](../assets/sprites/weezing/back.png "Weezing: It grows by feeding on gases released by garbage. Though very rare, triplets have been found.") | ![Weezing](../assets/sprites/weezing/back_shiny.png "Weezing: It grows by feeding on gases released by garbage. Though very rare, triplets have been found.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

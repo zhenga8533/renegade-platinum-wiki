@@ -14,13 +14,13 @@ It is so timid, it can’t move if it isn’t with a swarm of others. It conveys
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Ledyba](../assets/sprites/ledyba/front.gif "Ledyba") | ![Ledyba](../assets/sprites/ledyba/front_shiny.png "Ledyba") | ![Ledyba](../assets/sprites/ledyba/back.png "Ledyba") | ![Ledyba](../assets/sprites/ledyba/back_shiny.png "Ledyba") |
+| ![Ledyba](../assets/sprites/ledyba/front.gif "Ledyba: It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent.") | ![Ledyba](../assets/sprites/ledyba/front_shiny.png "Ledyba: It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent.") | ![Ledyba](../assets/sprites/ledyba/back.png "Ledyba: It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent.") | ![Ledyba](../assets/sprites/ledyba/back_shiny.png "Ledyba: It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Ledyba](../assets/sprites/ledyba/front_female.gif "Ledyba") | ![Ledyba](../assets/sprites/ledyba/front_shiny_female.png "Ledyba") | ![Ledyba](../assets/sprites/ledyba/back_female.png "Ledyba") | ![Ledyba](../assets/sprites/ledyba/back_shiny_female.png "Ledyba") |
+| ![Ledyba](../assets/sprites/ledyba/front_female.gif "Ledyba: It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent.") | ![Ledyba](../assets/sprites/ledyba/front_shiny_female.png "Ledyba: It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent.") | ![Ledyba](../assets/sprites/ledyba/back_female.png "Ledyba: It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent.") | ![Ledyba](../assets/sprites/ledyba/back_shiny_female.png "Ledyba: It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent.") |
 
 ### Cries
 

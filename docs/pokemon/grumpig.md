@@ -14,7 +14,13 @@ It uses black pearls to amplify its psycho-power. It does an odd dance to gain c
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Grumpig](../assets/sprites/grumpig/front.gif "Grumpig") | ![Grumpig](../assets/sprites/grumpig/front_shiny.png "Grumpig") | ![Grumpig](../assets/sprites/grumpig/back.png "Grumpig") | ![Grumpig](../assets/sprites/grumpig/back_shiny.png "Grumpig") |
+| ![Grumpig](../assets/sprites/grumpig/front.gif "Grumpig: It uses black pearls to amplify its psycho-power. It does an odd dance to gain control over foes.") | ![Grumpig](../assets/sprites/grumpig/front_shiny.png "Grumpig: It uses black pearls to amplify its psycho-power. It does an odd dance to gain control over foes.") | ![Grumpig](../assets/sprites/grumpig/back.png "Grumpig: It uses black pearls to amplify its psycho-power. It does an odd dance to gain control over foes.") | ![Grumpig](../assets/sprites/grumpig/back_shiny.png "Grumpig: It uses black pearls to amplify its psycho-power. It does an odd dance to gain control over foes.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It intimidates foes with the heat of its flames. The fire burns more strongly wh
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Quilava](../assets/sprites/quilava/front.gif "Quilava") | ![Quilava](../assets/sprites/quilava/front_shiny.png "Quilava") | ![Quilava](../assets/sprites/quilava/back.png "Quilava") | ![Quilava](../assets/sprites/quilava/back_shiny.png "Quilava") |
+| ![Quilava](../assets/sprites/quilava/front.gif "Quilava: It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.") | ![Quilava](../assets/sprites/quilava/front_shiny.png "Quilava: It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.") | ![Quilava](../assets/sprites/quilava/back.png "Quilava: It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.") | ![Quilava](../assets/sprites/quilava/back_shiny.png "Quilava: It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

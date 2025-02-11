@@ -14,7 +14,13 @@ On sunny days, it lands on beaches to bounce like a ball and play. It spouts wat
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Wailmer](../assets/sprites/wailmer/front.gif "Wailmer") | ![Wailmer](../assets/sprites/wailmer/front_shiny.png "Wailmer") | ![Wailmer](../assets/sprites/wailmer/back.png "Wailmer") | ![Wailmer](../assets/sprites/wailmer/back_shiny.png "Wailmer") |
+| ![Wailmer](../assets/sprites/wailmer/front.gif "Wailmer: On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.") | ![Wailmer](../assets/sprites/wailmer/front_shiny.png "Wailmer: On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.") | ![Wailmer](../assets/sprites/wailmer/back.png "Wailmer: On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.") | ![Wailmer](../assets/sprites/wailmer/back_shiny.png "Wailmer: On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

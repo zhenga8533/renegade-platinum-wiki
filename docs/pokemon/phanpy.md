@@ -14,7 +14,13 @@ It is strong despite its compact size. It can easily pick up and carry an adult 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Phanpy](../assets/sprites/phanpy/front.gif "Phanpy") | ![Phanpy](../assets/sprites/phanpy/front_shiny.png "Phanpy") | ![Phanpy](../assets/sprites/phanpy/back.png "Phanpy") | ![Phanpy](../assets/sprites/phanpy/back_shiny.png "Phanpy") |
+| ![Phanpy](../assets/sprites/phanpy/front.gif "Phanpy: It is strong despite its compact size. It can easily pick up and carry an adult human on its back.") | ![Phanpy](../assets/sprites/phanpy/front_shiny.png "Phanpy: It is strong despite its compact size. It can easily pick up and carry an adult human on its back.") | ![Phanpy](../assets/sprites/phanpy/back.png "Phanpy: It is strong despite its compact size. It can easily pick up and carry an adult human on its back.") | ![Phanpy](../assets/sprites/phanpy/back_shiny.png "Phanpy: It is strong despite its compact size. It can easily pick up and carry an adult human on its back.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

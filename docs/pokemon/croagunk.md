@@ -14,13 +14,13 @@ It rarely fights fairly, but that is strictly to ensure survival. It is popular 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Croagunk](../assets/sprites/croagunk/front.gif "Croagunk") | ![Croagunk](../assets/sprites/croagunk/front_shiny.png "Croagunk") | ![Croagunk](../assets/sprites/croagunk/back.png "Croagunk") | ![Croagunk](../assets/sprites/croagunk/back_shiny.png "Croagunk") |
+| ![Croagunk](../assets/sprites/croagunk/front.gif "Croagunk: It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot.") | ![Croagunk](../assets/sprites/croagunk/front_shiny.png "Croagunk: It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot.") | ![Croagunk](../assets/sprites/croagunk/back.png "Croagunk: It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot.") | ![Croagunk](../assets/sprites/croagunk/back_shiny.png "Croagunk: It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Croagunk](../assets/sprites/croagunk/front_female.gif "Croagunk") | ![Croagunk](../assets/sprites/croagunk/front_shiny_female.png "Croagunk") | ![Croagunk](../assets/sprites/croagunk/back_female.png "Croagunk") | ![Croagunk](../assets/sprites/croagunk/back_shiny_female.png "Croagunk") |
+| ![Croagunk](../assets/sprites/croagunk/front_female.gif "Croagunk: It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot.") | ![Croagunk](../assets/sprites/croagunk/front_shiny_female.png "Croagunk: It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot.") | ![Croagunk](../assets/sprites/croagunk/back_female.png "Croagunk: It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot.") | ![Croagunk](../assets/sprites/croagunk/back_shiny_female.png "Croagunk: It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot.") |
 
 ### Cries
 

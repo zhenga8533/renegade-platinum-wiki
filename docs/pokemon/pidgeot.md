@@ -14,7 +14,13 @@ By flapping its wings with all its might, PIDGEOT can make a gust of wind capabl
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Pidgeot](../assets/sprites/pidgeot/front.gif "Pidgeot") | ![Pidgeot](../assets/sprites/pidgeot/front_shiny.png "Pidgeot") | ![Pidgeot](../assets/sprites/pidgeot/back.png "Pidgeot") | ![Pidgeot](../assets/sprites/pidgeot/back_shiny.png "Pidgeot") |
+| ![Pidgeot](../assets/sprites/pidgeot/front.gif "Pidgeot: By flapping its wings with all its might, PIDGEOT can make a gust of wind capable of bending tall trees.") | ![Pidgeot](../assets/sprites/pidgeot/front_shiny.png "Pidgeot: By flapping its wings with all its might, PIDGEOT can make a gust of wind capable of bending tall trees.") | ![Pidgeot](../assets/sprites/pidgeot/back.png "Pidgeot: By flapping its wings with all its might, PIDGEOT can make a gust of wind capable of bending tall trees.") | ![Pidgeot](../assets/sprites/pidgeot/back_shiny.png "Pidgeot: By flapping its wings with all its might, PIDGEOT can make a gust of wind capable of bending tall trees.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

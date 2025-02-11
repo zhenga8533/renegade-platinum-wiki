@@ -14,13 +14,13 @@ The brains in its two heads appear to communicate emotions to each other with a 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Doduo](../assets/sprites/doduo/front.gif "Doduo") | ![Doduo](../assets/sprites/doduo/front_shiny.png "Doduo") | ![Doduo](../assets/sprites/doduo/back.png "Doduo") | ![Doduo](../assets/sprites/doduo/back_shiny.png "Doduo") |
+| ![Doduo](../assets/sprites/doduo/front.gif "Doduo: The brains in its two heads appear to communicate emotions to each other with a telepathic power.") | ![Doduo](../assets/sprites/doduo/front_shiny.png "Doduo: The brains in its two heads appear to communicate emotions to each other with a telepathic power.") | ![Doduo](../assets/sprites/doduo/back.png "Doduo: The brains in its two heads appear to communicate emotions to each other with a telepathic power.") | ![Doduo](../assets/sprites/doduo/back_shiny.png "Doduo: The brains in its two heads appear to communicate emotions to each other with a telepathic power.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Doduo](../assets/sprites/doduo/front_female.gif "Doduo") | ![Doduo](../assets/sprites/doduo/front_shiny_female.png "Doduo") | ![Doduo](../assets/sprites/doduo/back_female.png "Doduo") | ![Doduo](../assets/sprites/doduo/back_shiny_female.png "Doduo") |
+| ![Doduo](../assets/sprites/doduo/front_female.gif "Doduo: The brains in its two heads appear to communicate emotions to each other with a telepathic power.") | ![Doduo](../assets/sprites/doduo/front_shiny_female.png "Doduo: The brains in its two heads appear to communicate emotions to each other with a telepathic power.") | ![Doduo](../assets/sprites/doduo/back_female.png "Doduo: The brains in its two heads appear to communicate emotions to each other with a telepathic power.") | ![Doduo](../assets/sprites/doduo/back_shiny_female.png "Doduo: The brains in its two heads appear to communicate emotions to each other with a telepathic power.") |
 
 ### Cries
 

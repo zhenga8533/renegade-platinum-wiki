@@ -14,7 +14,13 @@ When the bud on its back starts swelling, a sweet aroma wafts to indicate the fl
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Ivysaur](../assets/sprites/ivysaur/front.gif "Ivysaur") | ![Ivysaur](../assets/sprites/ivysaur/front_shiny.png "Ivysaur") | ![Ivysaur](../assets/sprites/ivysaur/back.png "Ivysaur") | ![Ivysaur](../assets/sprites/ivysaur/back_shiny.png "Ivysaur") |
+| ![Ivysaur](../assets/sprites/ivysaur/front.gif "Ivysaur: When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.") | ![Ivysaur](../assets/sprites/ivysaur/front_shiny.png "Ivysaur: When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.") | ![Ivysaur](../assets/sprites/ivysaur/back.png "Ivysaur: When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.") | ![Ivysaur](../assets/sprites/ivysaur/back_shiny.png "Ivysaur: When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

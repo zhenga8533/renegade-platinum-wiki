@@ -14,7 +14,13 @@ If its coat becomes fully charged with electricity, its tail lights up. It fires
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Flaaffy](../assets/sprites/flaaffy/front.gif "Flaaffy") | ![Flaaffy](../assets/sprites/flaaffy/front_shiny.png "Flaaffy") | ![Flaaffy](../assets/sprites/flaaffy/back.png "Flaaffy") | ![Flaaffy](../assets/sprites/flaaffy/back_shiny.png "Flaaffy") |
+| ![Flaaffy](../assets/sprites/flaaffy/front.gif "Flaaffy: If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact.") | ![Flaaffy](../assets/sprites/flaaffy/front_shiny.png "Flaaffy: If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact.") | ![Flaaffy](../assets/sprites/flaaffy/back.png "Flaaffy: If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact.") | ![Flaaffy](../assets/sprites/flaaffy/back_shiny.png "Flaaffy: If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

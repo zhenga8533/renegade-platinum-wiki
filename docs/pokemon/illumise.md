@@ -14,7 +14,13 @@ With its sweet aroma, it guides VOLBEAT to draw signs with light in the night sk
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Illumise](../assets/sprites/illumise/front.gif "Illumise") | ![Illumise](../assets/sprites/illumise/front_shiny.png "Illumise") | ![Illumise](../assets/sprites/illumise/back.png "Illumise") | ![Illumise](../assets/sprites/illumise/back_shiny.png "Illumise") |
+| ![Illumise](../assets/sprites/illumise/front.gif "Illumise: With its sweet aroma, it guides VOLBEAT to draw signs with light in the night sky.") | ![Illumise](../assets/sprites/illumise/front_shiny.png "Illumise: With its sweet aroma, it guides VOLBEAT to draw signs with light in the night sky.") | ![Illumise](../assets/sprites/illumise/back.png "Illumise: With its sweet aroma, it guides VOLBEAT to draw signs with light in the night sky.") | ![Illumise](../assets/sprites/illumise/back_shiny.png "Illumise: With its sweet aroma, it guides VOLBEAT to draw signs with light in the night sky.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

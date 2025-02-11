@@ -14,7 +14,13 @@ The small ball is not only filled with nutrients, it is also tasty. STARLY try t
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Cherubi](../assets/sprites/cherubi/front.gif "Cherubi") | ![Cherubi](../assets/sprites/cherubi/front_shiny.png "Cherubi") | ![Cherubi](../assets/sprites/cherubi/back.png "Cherubi") | ![Cherubi](../assets/sprites/cherubi/back_shiny.png "Cherubi") |
+| ![Cherubi](../assets/sprites/cherubi/front.gif "Cherubi: The small ball is not only filled with nutrients, it is also tasty. STARLY try to peck it off.") | ![Cherubi](../assets/sprites/cherubi/front_shiny.png "Cherubi: The small ball is not only filled with nutrients, it is also tasty. STARLY try to peck it off.") | ![Cherubi](../assets/sprites/cherubi/back.png "Cherubi: The small ball is not only filled with nutrients, it is also tasty. STARLY try to peck it off.") | ![Cherubi](../assets/sprites/cherubi/back_shiny.png "Cherubi: The small ball is not only filled with nutrients, it is also tasty. STARLY try to peck it off.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

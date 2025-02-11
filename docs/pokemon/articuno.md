@@ -14,7 +14,13 @@ A legendary bird Pokémon. It can create blizzards by freezing moisture in the a
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Articuno](../assets/sprites/articuno/front.gif "Articuno") | ![Articuno](../assets/sprites/articuno/front_shiny.png "Articuno") | ![Articuno](../assets/sprites/articuno/back.png "Articuno") | ![Articuno](../assets/sprites/articuno/back_shiny.png "Articuno") |
+| ![Articuno](../assets/sprites/articuno/front.gif "Articuno: A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.") | ![Articuno](../assets/sprites/articuno/front_shiny.png "Articuno: A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.") | ![Articuno](../assets/sprites/articuno/back.png "Articuno: A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.") | ![Articuno](../assets/sprites/articuno/back_shiny.png "Articuno: A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ Mushrooms named tochukaso grow on its back. They grow along with the host PARAS.
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Paras](../assets/sprites/paras/front.gif "Paras") | ![Paras](../assets/sprites/paras/front_shiny.png "Paras") | ![Paras](../assets/sprites/paras/back.png "Paras") | ![Paras](../assets/sprites/paras/back_shiny.png "Paras") |
+| ![Paras](../assets/sprites/paras/front.gif "Paras: Mushrooms named tochukaso grow on its back. They grow along with the host PARAS.") | ![Paras](../assets/sprites/paras/front_shiny.png "Paras: Mushrooms named tochukaso grow on its back. They grow along with the host PARAS.") | ![Paras](../assets/sprites/paras/back.png "Paras: Mushrooms named tochukaso grow on its back. They grow along with the host PARAS.") | ![Paras](../assets/sprites/paras/back_shiny.png "Paras: Mushrooms named tochukaso grow on its back. They grow along with the host PARAS.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

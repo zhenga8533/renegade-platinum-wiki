@@ -14,7 +14,13 @@ It never forgets any attack it endured while in the cocoon. After evolution, it 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Cascoon](../assets/sprites/cascoon/front.gif "Cascoon") | ![Cascoon](../assets/sprites/cascoon/front_shiny.png "Cascoon") | ![Cascoon](../assets/sprites/cascoon/back.png "Cascoon") | ![Cascoon](../assets/sprites/cascoon/back_shiny.png "Cascoon") |
+| ![Cascoon](../assets/sprites/cascoon/front.gif "Cascoon: It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.") | ![Cascoon](../assets/sprites/cascoon/front_shiny.png "Cascoon: It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.") | ![Cascoon](../assets/sprites/cascoon/back.png "Cascoon: It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.") | ![Cascoon](../assets/sprites/cascoon/back_shiny.png "Cascoon: It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

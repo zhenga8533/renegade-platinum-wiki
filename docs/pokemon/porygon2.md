@@ -14,7 +14,13 @@ It was upgraded to enable the exploration of other planets. However, it failed t
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Porygon2](../assets/sprites/porygon2/front.gif "Porygon2") | ![Porygon2](../assets/sprites/porygon2/front_shiny.png "Porygon2") | ![Porygon2](../assets/sprites/porygon2/back.png "Porygon2") | ![Porygon2](../assets/sprites/porygon2/back_shiny.png "Porygon2") |
+| ![Porygon2](../assets/sprites/porygon2/front.gif "Porygon2: It was upgraded to enable the exploration of other planets. However, it failed to measure up.") | ![Porygon2](../assets/sprites/porygon2/front_shiny.png "Porygon2: It was upgraded to enable the exploration of other planets. However, it failed to measure up.") | ![Porygon2](../assets/sprites/porygon2/back.png "Porygon2: It was upgraded to enable the exploration of other planets. However, it failed to measure up.") | ![Porygon2](../assets/sprites/porygon2/back_shiny.png "Porygon2: It was upgraded to enable the exploration of other planets. However, it failed to measure up.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

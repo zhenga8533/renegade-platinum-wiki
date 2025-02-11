@@ -14,7 +14,13 @@ It violently shudders its wings, generating ultrasonic waves to induce headaches
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Vibrava](../assets/sprites/vibrava/front.gif "Vibrava") | ![Vibrava](../assets/sprites/vibrava/front_shiny.png "Vibrava") | ![Vibrava](../assets/sprites/vibrava/back.png "Vibrava") | ![Vibrava](../assets/sprites/vibrava/back_shiny.png "Vibrava") |
+| ![Vibrava](../assets/sprites/vibrava/front.gif "Vibrava: It violently shudders its wings, generating ultrasonic waves to induce headaches in people.") | ![Vibrava](../assets/sprites/vibrava/front_shiny.png "Vibrava: It violently shudders its wings, generating ultrasonic waves to induce headaches in people.") | ![Vibrava](../assets/sprites/vibrava/back.png "Vibrava: It violently shudders its wings, generating ultrasonic waves to induce headaches in people.") | ![Vibrava](../assets/sprites/vibrava/back_shiny.png "Vibrava: It violently shudders its wings, generating ultrasonic waves to induce headaches in people.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

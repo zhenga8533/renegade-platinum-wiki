@@ -14,7 +14,13 @@ If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Tyranitar](../assets/sprites/tyranitar/front.gif "Tyranitar") | ![Tyranitar](../assets/sprites/tyranitar/front_shiny.png "Tyranitar") | ![Tyranitar](../assets/sprites/tyranitar/back.png "Tyranitar") | ![Tyranitar](../assets/sprites/tyranitar/back_shiny.png "Tyranitar") |
+| ![Tyranitar](../assets/sprites/tyranitar/front.gif "Tyranitar: If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.") | ![Tyranitar](../assets/sprites/tyranitar/front_shiny.png "Tyranitar: If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.") | ![Tyranitar](../assets/sprites/tyranitar/back.png "Tyranitar: If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.") | ![Tyranitar](../assets/sprites/tyranitar/back_shiny.png "Tyranitar: If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,13 +14,13 @@ Split into two, the tails are so adept at handling and doing things, AMBIPOM rar
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Ambipom](../assets/sprites/ambipom/front.gif "Ambipom") | ![Ambipom](../assets/sprites/ambipom/front_shiny.png "Ambipom") | ![Ambipom](../assets/sprites/ambipom/back.png "Ambipom") | ![Ambipom](../assets/sprites/ambipom/back_shiny.png "Ambipom") |
+| ![Ambipom](../assets/sprites/ambipom/front.gif "Ambipom: Split into two, the tails are so adept at handling and doing things, AMBIPOM rarely uses its hands.") | ![Ambipom](../assets/sprites/ambipom/front_shiny.png "Ambipom: Split into two, the tails are so adept at handling and doing things, AMBIPOM rarely uses its hands.") | ![Ambipom](../assets/sprites/ambipom/back.png "Ambipom: Split into two, the tails are so adept at handling and doing things, AMBIPOM rarely uses its hands.") | ![Ambipom](../assets/sprites/ambipom/back_shiny.png "Ambipom: Split into two, the tails are so adept at handling and doing things, AMBIPOM rarely uses its hands.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Ambipom](../assets/sprites/ambipom/front_female.gif "Ambipom") | ![Ambipom](../assets/sprites/ambipom/front_shiny_female.png "Ambipom") | ![Ambipom](../assets/sprites/ambipom/back_female.png "Ambipom") | ![Ambipom](../assets/sprites/ambipom/back_shiny_female.png "Ambipom") |
+| ![Ambipom](../assets/sprites/ambipom/front_female.gif "Ambipom: Split into two, the tails are so adept at handling and doing things, AMBIPOM rarely uses its hands.") | ![Ambipom](../assets/sprites/ambipom/front_shiny_female.png "Ambipom: Split into two, the tails are so adept at handling and doing things, AMBIPOM rarely uses its hands.") | ![Ambipom](../assets/sprites/ambipom/back_female.png "Ambipom: Split into two, the tails are so adept at handling and doing things, AMBIPOM rarely uses its hands.") | ![Ambipom](../assets/sprites/ambipom/back_shiny_female.png "Ambipom: Split into two, the tails are so adept at handling and doing things, AMBIPOM rarely uses its hands.") |
 
 ### Cries
 

@@ -14,7 +14,13 @@ Its cries sound like human speech. However, it is impossible to tell what it is 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Jynx](../assets/sprites/jynx/front.gif "Jynx") | ![Jynx](../assets/sprites/jynx/front_shiny.png "Jynx") | ![Jynx](../assets/sprites/jynx/back.png "Jynx") | ![Jynx](../assets/sprites/jynx/back_shiny.png "Jynx") |
+| ![Jynx](../assets/sprites/jynx/front.gif "Jynx: Its cries sound like human speech. However, it is impossible to tell what it is trying to say.") | ![Jynx](../assets/sprites/jynx/front_shiny.png "Jynx: Its cries sound like human speech. However, it is impossible to tell what it is trying to say.") | ![Jynx](../assets/sprites/jynx/back.png "Jynx: Its cries sound like human speech. However, it is impossible to tell what it is trying to say.") | ![Jynx](../assets/sprites/jynx/back_shiny.png "Jynx: Its cries sound like human speech. However, it is impossible to tell what it is trying to say.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

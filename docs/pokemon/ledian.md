@@ -14,13 +14,13 @@ It uses starlight as energy. When more stars appear at night, the patterns on it
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Ledian](../assets/sprites/ledian/front.gif "Ledian") | ![Ledian](../assets/sprites/ledian/front_shiny.png "Ledian") | ![Ledian](../assets/sprites/ledian/back.png "Ledian") | ![Ledian](../assets/sprites/ledian/back_shiny.png "Ledian") |
+| ![Ledian](../assets/sprites/ledian/front.gif "Ledian: It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.") | ![Ledian](../assets/sprites/ledian/front_shiny.png "Ledian: It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.") | ![Ledian](../assets/sprites/ledian/back.png "Ledian: It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.") | ![Ledian](../assets/sprites/ledian/back_shiny.png "Ledian: It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Ledian](../assets/sprites/ledian/front_female.gif "Ledian") | ![Ledian](../assets/sprites/ledian/front_shiny_female.png "Ledian") | ![Ledian](../assets/sprites/ledian/back_female.png "Ledian") | ![Ledian](../assets/sprites/ledian/back_shiny_female.png "Ledian") |
+| ![Ledian](../assets/sprites/ledian/front_female.gif "Ledian: It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.") | ![Ledian](../assets/sprites/ledian/front_shiny_female.png "Ledian: It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.") | ![Ledian](../assets/sprites/ledian/back_female.png "Ledian: It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.") | ![Ledian](../assets/sprites/ledian/back_shiny_female.png "Ledian: It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.") |
 
 ### Cries
 

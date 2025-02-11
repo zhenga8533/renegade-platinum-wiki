@@ -14,7 +14,13 @@ It sprays a foul fluid from its rear. Its stench spreads over a mile radius, dri
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Stunky](../assets/sprites/stunky/front.gif "Stunky") | ![Stunky](../assets/sprites/stunky/front_shiny.png "Stunky") | ![Stunky](../assets/sprites/stunky/back.png "Stunky") | ![Stunky](../assets/sprites/stunky/back_shiny.png "Stunky") |
+| ![Stunky](../assets/sprites/stunky/front.gif "Stunky: It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.") | ![Stunky](../assets/sprites/stunky/front_shiny.png "Stunky: It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.") | ![Stunky](../assets/sprites/stunky/back.png "Stunky: It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.") | ![Stunky](../assets/sprites/stunky/back_shiny.png "Stunky: It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

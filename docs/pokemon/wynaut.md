@@ -14,7 +14,13 @@ It grows strong by pushing up against others en masse. It loves eating sweet fru
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Wynaut](../assets/sprites/wynaut/front.gif "Wynaut") | ![Wynaut](../assets/sprites/wynaut/front_shiny.png "Wynaut") | ![Wynaut](../assets/sprites/wynaut/back.png "Wynaut") | ![Wynaut](../assets/sprites/wynaut/back_shiny.png "Wynaut") |
+| ![Wynaut](../assets/sprites/wynaut/front.gif "Wynaut: It grows strong by pushing up against others en masse. It loves eating sweet fruit.") | ![Wynaut](../assets/sprites/wynaut/front_shiny.png "Wynaut: It grows strong by pushing up against others en masse. It loves eating sweet fruit.") | ![Wynaut](../assets/sprites/wynaut/back.png "Wynaut: It grows strong by pushing up against others en masse. It loves eating sweet fruit.") | ![Wynaut](../assets/sprites/wynaut/back_shiny.png "Wynaut: It grows strong by pushing up against others en masse. It loves eating sweet fruit.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

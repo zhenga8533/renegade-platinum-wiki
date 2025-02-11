@@ -14,7 +14,13 @@ Because it moves so quickly, it sometimes becomes unseeable. It congregates arou
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Ninjask](../assets/sprites/ninjask/front.gif "Ninjask") | ![Ninjask](../assets/sprites/ninjask/front_shiny.png "Ninjask") | ![Ninjask](../assets/sprites/ninjask/back.png "Ninjask") | ![Ninjask](../assets/sprites/ninjask/back_shiny.png "Ninjask") |
+| ![Ninjask](../assets/sprites/ninjask/front.gif "Ninjask: Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.") | ![Ninjask](../assets/sprites/ninjask/front_shiny.png "Ninjask: Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.") | ![Ninjask](../assets/sprites/ninjask/back.png "Ninjask: Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.") | ![Ninjask](../assets/sprites/ninjask/back_shiny.png "Ninjask: Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

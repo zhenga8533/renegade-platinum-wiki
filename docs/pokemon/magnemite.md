@@ -14,7 +14,13 @@ The faster the units at its sides rotate, the greater the magnetic force they ge
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Magnemite](../assets/sprites/magnemite/front.gif "Magnemite") | ![Magnemite](../assets/sprites/magnemite/front_shiny.png "Magnemite") | ![Magnemite](../assets/sprites/magnemite/back.png "Magnemite") | ![Magnemite](../assets/sprites/magnemite/back_shiny.png "Magnemite") |
+| ![Magnemite](../assets/sprites/magnemite/front.gif "Magnemite: The faster the units at its sides rotate, the greater the magnetic force they generate.") | ![Magnemite](../assets/sprites/magnemite/front_shiny.png "Magnemite: The faster the units at its sides rotate, the greater the magnetic force they generate.") | ![Magnemite](../assets/sprites/magnemite/back.png "Magnemite: The faster the units at its sides rotate, the greater the magnetic force they generate.") | ![Magnemite](../assets/sprites/magnemite/back_shiny.png "Magnemite: The faster the units at its sides rotate, the greater the magnetic force they generate.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

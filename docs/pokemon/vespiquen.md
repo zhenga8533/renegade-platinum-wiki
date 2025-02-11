@@ -14,7 +14,13 @@ It releases various pheromones to make the grubs in its body do its bidding whil
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Vespiquen](../assets/sprites/vespiquen/front.gif "Vespiquen") | ![Vespiquen](../assets/sprites/vespiquen/front_shiny.png "Vespiquen") | ![Vespiquen](../assets/sprites/vespiquen/back.png "Vespiquen") | ![Vespiquen](../assets/sprites/vespiquen/back_shiny.png "Vespiquen") |
+| ![Vespiquen](../assets/sprites/vespiquen/front.gif "Vespiquen: It releases various pheromones to make the grubs in its body do its bidding while fighting foes.") | ![Vespiquen](../assets/sprites/vespiquen/front_shiny.png "Vespiquen: It releases various pheromones to make the grubs in its body do its bidding while fighting foes.") | ![Vespiquen](../assets/sprites/vespiquen/back.png "Vespiquen: It releases various pheromones to make the grubs in its body do its bidding while fighting foes.") | ![Vespiquen](../assets/sprites/vespiquen/back_shiny.png "Vespiquen: It releases various pheromones to make the grubs in its body do its bidding while fighting foes.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

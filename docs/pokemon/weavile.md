@@ -14,13 +14,13 @@ Evolution made it even more devious. It communicates by clawing signs in boulder
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Weavile](../assets/sprites/weavile/front.gif "Weavile") | ![Weavile](../assets/sprites/weavile/front_shiny.png "Weavile") | ![Weavile](../assets/sprites/weavile/back.png "Weavile") | ![Weavile](../assets/sprites/weavile/back_shiny.png "Weavile") |
+| ![Weavile](../assets/sprites/weavile/front.gif "Weavile: Evolution made it even more devious. It communicates by clawing signs in boulders.") | ![Weavile](../assets/sprites/weavile/front_shiny.png "Weavile: Evolution made it even more devious. It communicates by clawing signs in boulders.") | ![Weavile](../assets/sprites/weavile/back.png "Weavile: Evolution made it even more devious. It communicates by clawing signs in boulders.") | ![Weavile](../assets/sprites/weavile/back_shiny.png "Weavile: Evolution made it even more devious. It communicates by clawing signs in boulders.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Weavile](../assets/sprites/weavile/front_female.gif "Weavile") | ![Weavile](../assets/sprites/weavile/front_shiny_female.png "Weavile") | ![Weavile](../assets/sprites/weavile/back_female.png "Weavile") | ![Weavile](../assets/sprites/weavile/back_shiny_female.png "Weavile") |
+| ![Weavile](../assets/sprites/weavile/front_female.gif "Weavile: Evolution made it even more devious. It communicates by clawing signs in boulders.") | ![Weavile](../assets/sprites/weavile/front_shiny_female.png "Weavile: Evolution made it even more devious. It communicates by clawing signs in boulders.") | ![Weavile](../assets/sprites/weavile/back_female.png "Weavile: Evolution made it even more devious. It communicates by clawing signs in boulders.") | ![Weavile](../assets/sprites/weavile/back_shiny_female.png "Weavile: Evolution made it even more devious. It communicates by clawing signs in boulders.") |
 
 ### Cries
 

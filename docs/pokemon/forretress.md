@@ -14,7 +14,13 @@ It is encased in a steel shell. Its peering eyes are all that can be seen of its
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Forretress](../assets/sprites/forretress/front.gif "Forretress") | ![Forretress](../assets/sprites/forretress/front_shiny.png "Forretress") | ![Forretress](../assets/sprites/forretress/back.png "Forretress") | ![Forretress](../assets/sprites/forretress/back_shiny.png "Forretress") |
+| ![Forretress](../assets/sprites/forretress/front.gif "Forretress: It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.") | ![Forretress](../assets/sprites/forretress/front_shiny.png "Forretress: It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.") | ![Forretress](../assets/sprites/forretress/back.png "Forretress: It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.") | ![Forretress](../assets/sprites/forretress/back_shiny.png "Forretress: It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

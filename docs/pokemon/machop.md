@@ -14,7 +14,13 @@ Though small in stature, it is powerful enough to easily heft and throw a number
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Machop](../assets/sprites/machop/front.gif "Machop") | ![Machop](../assets/sprites/machop/front_shiny.png "Machop") | ![Machop](../assets/sprites/machop/back.png "Machop") | ![Machop](../assets/sprites/machop/back_shiny.png "Machop") |
+| ![Machop](../assets/sprites/machop/front.gif "Machop: Though small in stature, it is powerful enough to easily heft and throw a number of GEODUDE at once.") | ![Machop](../assets/sprites/machop/front_shiny.png "Machop: Though small in stature, it is powerful enough to easily heft and throw a number of GEODUDE at once.") | ![Machop](../assets/sprites/machop/back.png "Machop: Though small in stature, it is powerful enough to easily heft and throw a number of GEODUDE at once.") | ![Machop](../assets/sprites/machop/back_shiny.png "Machop: Though small in stature, it is powerful enough to easily heft and throw a number of GEODUDE at once.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

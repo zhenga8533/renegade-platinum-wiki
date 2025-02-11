@@ -14,7 +14,13 @@ It swims backward by opening and closing its two shells. Its large tongue is alw
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Shellder](../assets/sprites/shellder/front.gif "Shellder") | ![Shellder](../assets/sprites/shellder/front_shiny.png "Shellder") | ![Shellder](../assets/sprites/shellder/back.png "Shellder") | ![Shellder](../assets/sprites/shellder/back_shiny.png "Shellder") |
+| ![Shellder](../assets/sprites/shellder/front.gif "Shellder: It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.") | ![Shellder](../assets/sprites/shellder/front_shiny.png "Shellder: It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.") | ![Shellder](../assets/sprites/shellder/back.png "Shellder: It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.") | ![Shellder](../assets/sprites/shellder/back_shiny.png "Shellder: It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

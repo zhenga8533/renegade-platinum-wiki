@@ -14,7 +14,13 @@ It freezes prey by blowing its -58 degrees F breath. It is said to then secretly
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Froslass](../assets/sprites/froslass/front.gif "Froslass") | ![Froslass](../assets/sprites/froslass/front_shiny.png "Froslass") | ![Froslass](../assets/sprites/froslass/back.png "Froslass") | ![Froslass](../assets/sprites/froslass/back_shiny.png "Froslass") |
+| ![Froslass](../assets/sprites/froslass/front.gif "Froslass: It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey.") | ![Froslass](../assets/sprites/froslass/front_shiny.png "Froslass: It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey.") | ![Froslass](../assets/sprites/froslass/back.png "Froslass: It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey.") | ![Froslass](../assets/sprites/froslass/back_shiny.png "Froslass: It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

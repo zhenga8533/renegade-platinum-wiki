@@ -14,7 +14,13 @@ If its body takes on an aura, the weather changes instantly. It is said to live 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Dragonair](../assets/sprites/dragonair/front.gif "Dragonair") | ![Dragonair](../assets/sprites/dragonair/front_shiny.png "Dragonair") | ![Dragonair](../assets/sprites/dragonair/back.png "Dragonair") | ![Dragonair](../assets/sprites/dragonair/back_shiny.png "Dragonair") |
+| ![Dragonair](../assets/sprites/dragonair/front.gif "Dragonair: If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.") | ![Dragonair](../assets/sprites/dragonair/front_shiny.png "Dragonair: If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.") | ![Dragonair](../assets/sprites/dragonair/back.png "Dragonair: If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.") | ![Dragonair](../assets/sprites/dragonair/back_shiny.png "Dragonair: If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ When it breathes deeply, heat waves form around its body, making it hard to see 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Magmar](../assets/sprites/magmar/front.gif "Magmar") | ![Magmar](../assets/sprites/magmar/front_shiny.png "Magmar") | ![Magmar](../assets/sprites/magmar/back.png "Magmar") | ![Magmar](../assets/sprites/magmar/back_shiny.png "Magmar") |
+| ![Magmar](../assets/sprites/magmar/front.gif "Magmar: When it breathes deeply, heat waves form around its body, making it hard to see clearly.") | ![Magmar](../assets/sprites/magmar/front_shiny.png "Magmar: When it breathes deeply, heat waves form around its body, making it hard to see clearly.") | ![Magmar](../assets/sprites/magmar/back.png "Magmar: When it breathes deeply, heat waves form around its body, making it hard to see clearly.") | ![Magmar](../assets/sprites/magmar/back_shiny.png "Magmar: When it breathes deeply, heat waves form around its body, making it hard to see clearly.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ When it dangles from a tree branch, it looks just like an acorn. It enjoys scari
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Seedot](../assets/sprites/seedot/front.gif "Seedot") | ![Seedot](../assets/sprites/seedot/front_shiny.png "Seedot") | ![Seedot](../assets/sprites/seedot/back.png "Seedot") | ![Seedot](../assets/sprites/seedot/back_shiny.png "Seedot") |
+| ![Seedot](../assets/sprites/seedot/front.gif "Seedot: When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.") | ![Seedot](../assets/sprites/seedot/front_shiny.png "Seedot: When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.") | ![Seedot](../assets/sprites/seedot/back.png "Seedot: When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.") | ![Seedot](../assets/sprites/seedot/back_shiny.png "Seedot: When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

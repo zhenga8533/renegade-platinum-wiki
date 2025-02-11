@@ -14,13 +14,13 @@ It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by stick
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Octillery](../assets/sprites/octillery/front.gif "Octillery") | ![Octillery](../assets/sprites/octillery/front_shiny.png "Octillery") | ![Octillery](../assets/sprites/octillery/back.png "Octillery") | ![Octillery](../assets/sprites/octillery/back_shiny.png "Octillery") |
+| ![Octillery](../assets/sprites/octillery/front.gif "Octillery: It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.") | ![Octillery](../assets/sprites/octillery/front_shiny.png "Octillery: It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.") | ![Octillery](../assets/sprites/octillery/back.png "Octillery: It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.") | ![Octillery](../assets/sprites/octillery/back_shiny.png "Octillery: It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Octillery](../assets/sprites/octillery/front_female.gif "Octillery") | ![Octillery](../assets/sprites/octillery/front_shiny_female.png "Octillery") | ![Octillery](../assets/sprites/octillery/back_female.png "Octillery") | ![Octillery](../assets/sprites/octillery/back_shiny_female.png "Octillery") |
+| ![Octillery](../assets/sprites/octillery/front_female.gif "Octillery: It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.") | ![Octillery](../assets/sprites/octillery/front_shiny_female.png "Octillery: It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.") | ![Octillery](../assets/sprites/octillery/back_female.png "Octillery: It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.") | ![Octillery](../assets/sprites/octillery/back_shiny_female.png "Octillery: It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.") |
 
 ### Cries
 

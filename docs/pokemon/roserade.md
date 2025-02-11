@@ -14,13 +14,13 @@ Each of its hands contains different toxins, but both hands can jab with near-fa
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Roserade](../assets/sprites/roserade/front.gif "Roserade") | ![Roserade](../assets/sprites/roserade/front_shiny.png "Roserade") | ![Roserade](../assets/sprites/roserade/back.png "Roserade") | ![Roserade](../assets/sprites/roserade/back_shiny.png "Roserade") |
+| ![Roserade](../assets/sprites/roserade/front.gif "Roserade: Each of its hands contains different toxins, but both hands can jab with near-fatal power.") | ![Roserade](../assets/sprites/roserade/front_shiny.png "Roserade: Each of its hands contains different toxins, but both hands can jab with near-fatal power.") | ![Roserade](../assets/sprites/roserade/back.png "Roserade: Each of its hands contains different toxins, but both hands can jab with near-fatal power.") | ![Roserade](../assets/sprites/roserade/back_shiny.png "Roserade: Each of its hands contains different toxins, but both hands can jab with near-fatal power.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Roserade](../assets/sprites/roserade/front_female.gif "Roserade") | ![Roserade](../assets/sprites/roserade/front_shiny_female.png "Roserade") | ![Roserade](../assets/sprites/roserade/back_female.png "Roserade") | ![Roserade](../assets/sprites/roserade/back_shiny_female.png "Roserade") |
+| ![Roserade](../assets/sprites/roserade/front_female.gif "Roserade: Each of its hands contains different toxins, but both hands can jab with near-fatal power.") | ![Roserade](../assets/sprites/roserade/front_shiny_female.png "Roserade: Each of its hands contains different toxins, but both hands can jab with near-fatal power.") | ![Roserade](../assets/sprites/roserade/back_female.png "Roserade: Each of its hands contains different toxins, but both hands can jab with near-fatal power.") | ![Roserade](../assets/sprites/roserade/back_shiny_female.png "Roserade: Each of its hands contains different toxins, but both hands can jab with near-fatal power.") |
 
 ### Cries
 

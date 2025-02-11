@@ -81,9 +81,7 @@ def parse_pokemon_table(line: str, logger: Logger) -> str:
     nature_effect = nature_data.get(nature, "?")
 
     # Generate the Pokemon table
-    sprite = (
-        find_pokemon_sprite(name, "front").replace(f'"{name}"', f'"{name}: {pokemon_text}"').replace("../", "../../")
-    )
+    sprite = find_pokemon_sprite(name, "front", logger).replace("../", "../../")
     table = f"| {sprite} "
     table += f"| **Lv. {level}** [{name}](../../pokemon/{pokemon_id}.md/)<br>"
     table += f'**Ability:** <span class="tooltip" title="{ability_effect}">{ability}</span><br>'
@@ -114,11 +112,12 @@ def parse_pokemon_table(line: str, logger: Logger) -> str:
     return table
 
 
-def parse_trainer_roster(trainers: list) -> tuple:
+def parse_trainer_roster(trainers: list, logger: Logger) -> tuple:
     """
     Parse the trainer roster from the specified list of trainers.
 
     :param trainers: The list of trainers to parse.
+    :param logger: The logger to use.
     :return: The parsed markdown and roster.
     """
 
@@ -139,7 +138,7 @@ def parse_trainer_roster(trainers: list) -> tuple:
         for i, p in enumerate(pokemon.split(", "), 1):
             pokemon_name, level = p.split(" Lv. ")
             pokemon_id = format_id(pokemon_name)
-            pokemon_sprite = find_pokemon_sprite(pokemon_name, "front").replace("../", "../../")
+            pokemon_sprite = find_pokemon_sprite(pokemon_name, "front", logger).replace("../", "../../")
 
             md += f"\n\t{i}. Lv. {level} [{pokemon_name}](../pokemon/{pokemon_id}.md/)"
             trainer_rosters += (
@@ -170,12 +169,12 @@ def parse_trainers(trainers: list, rematches: list, important: dict, logger: Log
 
     # Parse each trainer type
     if len(trainers) > 0:
-        trainer_md, trainer_rosters = parse_trainer_roster(trainers)
+        trainer_md, trainer_rosters = parse_trainer_roster(trainers, logger)
         md += "<h3>Generic Trainers</h3>\n\n" + trainer_md
         trainer_rosters = "\n### Generic Trainers\n\n" + trainer_rosters + "\n"
 
     if len(rematches) > 0:
-        trainer_md, rematch_rosters = parse_trainer_roster(rematches)
+        trainer_md, rematch_rosters = parse_trainer_roster(rematches, logger)
         md += "<h3>Rematches</h3>\n\n" + trainer_md
         trainer_rosters += "\n### Rematches\n\n" + rematch_rosters + "\n"
 

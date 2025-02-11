@@ -14,7 +14,13 @@ Its fluffy coat swells to double when static electricity builds up. Touching it 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Mareep](../assets/sprites/mareep/front.gif "Mareep") | ![Mareep](../assets/sprites/mareep/front_shiny.png "Mareep") | ![Mareep](../assets/sprites/mareep/back.png "Mareep") | ![Mareep](../assets/sprites/mareep/back_shiny.png "Mareep") |
+| ![Mareep](../assets/sprites/mareep/front.gif "Mareep: Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.") | ![Mareep](../assets/sprites/mareep/front_shiny.png "Mareep: Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.") | ![Mareep](../assets/sprites/mareep/back.png "Mareep: Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.") | ![Mareep](../assets/sprites/mareep/back_shiny.png "Mareep: Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

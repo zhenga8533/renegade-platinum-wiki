@@ -14,7 +14,13 @@ It marks time precisely. Some countries consider it to be a wise friend, versed 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Hoothoot](../assets/sprites/hoothoot/front.gif "Hoothoot") | ![Hoothoot](../assets/sprites/hoothoot/front_shiny.png "Hoothoot") | ![Hoothoot](../assets/sprites/hoothoot/back.png "Hoothoot") | ![Hoothoot](../assets/sprites/hoothoot/back_shiny.png "Hoothoot") |
+| ![Hoothoot](../assets/sprites/hoothoot/front.gif "Hoothoot: It marks time precisely. Some countries consider it to be a wise friend, versed in the world’s ways.") | ![Hoothoot](../assets/sprites/hoothoot/front_shiny.png "Hoothoot: It marks time precisely. Some countries consider it to be a wise friend, versed in the world’s ways.") | ![Hoothoot](../assets/sprites/hoothoot/back.png "Hoothoot: It marks time precisely. Some countries consider it to be a wise friend, versed in the world’s ways.") | ![Hoothoot](../assets/sprites/hoothoot/back_shiny.png "Hoothoot: It marks time precisely. Some countries consider it to be a wise friend, versed in the world’s ways.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

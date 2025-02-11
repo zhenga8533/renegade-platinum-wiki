@@ -14,7 +14,13 @@ It appears as if it is skating on water. It draws prey with a sweet scent from t
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Surskit](../assets/sprites/surskit/front.gif "Surskit") | ![Surskit](../assets/sprites/surskit/front_shiny.png "Surskit") | ![Surskit](../assets/sprites/surskit/back.png "Surskit") | ![Surskit](../assets/sprites/surskit/back_shiny.png "Surskit") |
+| ![Surskit](../assets/sprites/surskit/front.gif "Surskit: It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.") | ![Surskit](../assets/sprites/surskit/front_shiny.png "Surskit: It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.") | ![Surskit](../assets/sprites/surskit/back.png "Surskit: It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.") | ![Surskit](../assets/sprites/surskit/back_shiny.png "Surskit: It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

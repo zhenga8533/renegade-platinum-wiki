@@ -14,7 +14,13 @@ A group tried to use scientific means to make MAGNEZONE evolve, but their effort
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Magnezone](../assets/sprites/magnezone/front.gif "Magnezone") | ![Magnezone](../assets/sprites/magnezone/front_shiny.png "Magnezone") | ![Magnezone](../assets/sprites/magnezone/back.png "Magnezone") | ![Magnezone](../assets/sprites/magnezone/back_shiny.png "Magnezone") |
+| ![Magnezone](../assets/sprites/magnezone/front.gif "Magnezone: A group tried to use scientific means to make MAGNEZONE evolve, but their efforts ended in failure.") | ![Magnezone](../assets/sprites/magnezone/front_shiny.png "Magnezone: A group tried to use scientific means to make MAGNEZONE evolve, but their efforts ended in failure.") | ![Magnezone](../assets/sprites/magnezone/back.png "Magnezone: A group tried to use scientific means to make MAGNEZONE evolve, but their efforts ended in failure.") | ![Magnezone](../assets/sprites/magnezone/back_shiny.png "Magnezone: A group tried to use scientific means to make MAGNEZONE evolve, but their efforts ended in failure.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

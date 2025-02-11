@@ -14,7 +14,13 @@ It charges prey at speeds over 60 mph. However, because it can only run straight
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Linoone](../assets/sprites/linoone/front.gif "Linoone") | ![Linoone](../assets/sprites/linoone/front_shiny.png "Linoone") | ![Linoone](../assets/sprites/linoone/back.png "Linoone") | ![Linoone](../assets/sprites/linoone/back_shiny.png "Linoone") |
+| ![Linoone](../assets/sprites/linoone/front.gif "Linoone: It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.") | ![Linoone](../assets/sprites/linoone/front_shiny.png "Linoone: It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.") | ![Linoone](../assets/sprites/linoone/back.png "Linoone: It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.") | ![Linoone](../assets/sprites/linoone/back_shiny.png "Linoone: It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

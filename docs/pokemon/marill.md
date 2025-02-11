@@ -14,7 +14,13 @@ The oil-filled end of its tail floats on water. It keeps MARILL from drowning ev
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Marill](../assets/sprites/marill/front.gif "Marill") | ![Marill](../assets/sprites/marill/front_shiny.png "Marill") | ![Marill](../assets/sprites/marill/back.png "Marill") | ![Marill](../assets/sprites/marill/back_shiny.png "Marill") |
+| ![Marill](../assets/sprites/marill/front.gif "Marill: The oil-filled end of its tail floats on water. It keeps MARILL from drowning even in a strong current.") | ![Marill](../assets/sprites/marill/front_shiny.png "Marill: The oil-filled end of its tail floats on water. It keeps MARILL from drowning even in a strong current.") | ![Marill](../assets/sprites/marill/back.png "Marill: The oil-filled end of its tail floats on water. It keeps MARILL from drowning even in a strong current.") | ![Marill](../assets/sprites/marill/back_shiny.png "Marill: The oil-filled end of its tail floats on water. It keeps MARILL from drowning even in a strong current.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

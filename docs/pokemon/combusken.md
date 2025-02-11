@@ -14,13 +14,13 @@ Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to i
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Combusken](../assets/sprites/combusken/front.gif "Combusken") | ![Combusken](../assets/sprites/combusken/front_shiny.png "Combusken") | ![Combusken](../assets/sprites/combusken/back.png "Combusken") | ![Combusken](../assets/sprites/combusken/back_shiny.png "Combusken") |
+| ![Combusken](../assets/sprites/combusken/front.gif "Combusken: Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.") | ![Combusken](../assets/sprites/combusken/front_shiny.png "Combusken: Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.") | ![Combusken](../assets/sprites/combusken/back.png "Combusken: Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.") | ![Combusken](../assets/sprites/combusken/back_shiny.png "Combusken: Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Combusken](../assets/sprites/combusken/front_female.gif "Combusken") | ![Combusken](../assets/sprites/combusken/front_shiny_female.png "Combusken") | ![Combusken](../assets/sprites/combusken/back_female.png "Combusken") | ![Combusken](../assets/sprites/combusken/back_shiny_female.png "Combusken") |
+| ![Combusken](../assets/sprites/combusken/front_female.gif "Combusken: Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.") | ![Combusken](../assets/sprites/combusken/front_shiny_female.png "Combusken: Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.") | ![Combusken](../assets/sprites/combusken/back_female.png "Combusken: Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.") | ![Combusken](../assets/sprites/combusken/back_shiny_female.png "Combusken: Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.") |
 
 ### Cries
 

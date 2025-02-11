@@ -14,7 +14,13 @@ It attacks using blasts of fire. It creates heat shimmers with intense fire to h
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Typhlosion](../assets/sprites/typhlosion/front.gif "Typhlosion") | ![Typhlosion](../assets/sprites/typhlosion/front_shiny.png "Typhlosion") | ![Typhlosion](../assets/sprites/typhlosion/back.png "Typhlosion") | ![Typhlosion](../assets/sprites/typhlosion/back_shiny.png "Typhlosion") |
+| ![Typhlosion](../assets/sprites/typhlosion/front.gif "Typhlosion: It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.") | ![Typhlosion](../assets/sprites/typhlosion/front_shiny.png "Typhlosion: It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.") | ![Typhlosion](../assets/sprites/typhlosion/back.png "Typhlosion: It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.") | ![Typhlosion](../assets/sprites/typhlosion/back_shiny.png "Typhlosion: It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

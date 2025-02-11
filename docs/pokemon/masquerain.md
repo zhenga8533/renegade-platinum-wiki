@@ -14,7 +14,13 @@ Its antennae have eye patterns on them. Its four wings enable it to hover and fl
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Masquerain](../assets/sprites/masquerain/front.gif "Masquerain") | ![Masquerain](../assets/sprites/masquerain/front_shiny.png "Masquerain") | ![Masquerain](../assets/sprites/masquerain/back.png "Masquerain") | ![Masquerain](../assets/sprites/masquerain/back_shiny.png "Masquerain") |
+| ![Masquerain](../assets/sprites/masquerain/front.gif "Masquerain: Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.") | ![Masquerain](../assets/sprites/masquerain/front_shiny.png "Masquerain: Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.") | ![Masquerain](../assets/sprites/masquerain/back.png "Masquerain: Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.") | ![Masquerain](../assets/sprites/masquerain/back_shiny.png "Masquerain: Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

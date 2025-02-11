@@ -14,7 +14,13 @@ It loves vengeful emotions and hangs in rows under the eaves of houses where ven
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Shuppet](../assets/sprites/shuppet/front.gif "Shuppet") | ![Shuppet](../assets/sprites/shuppet/front_shiny.png "Shuppet") | ![Shuppet](../assets/sprites/shuppet/back.png "Shuppet") | ![Shuppet](../assets/sprites/shuppet/back_shiny.png "Shuppet") |
+| ![Shuppet](../assets/sprites/shuppet/front.gif "Shuppet: It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.") | ![Shuppet](../assets/sprites/shuppet/front_shiny.png "Shuppet: It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.") | ![Shuppet](../assets/sprites/shuppet/back.png "Shuppet: It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.") | ![Shuppet](../assets/sprites/shuppet/back_shiny.png "Shuppet: It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

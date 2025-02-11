@@ -14,7 +14,13 @@ The blue vines shrouding its body are covered in a growth of fine hair. It is kn
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Tangela](../assets/sprites/tangela/front.gif "Tangela") | ![Tangela](../assets/sprites/tangela/front_shiny.png "Tangela") | ![Tangela](../assets/sprites/tangela/back.png "Tangela") | ![Tangela](../assets/sprites/tangela/back_shiny.png "Tangela") |
+| ![Tangela](../assets/sprites/tangela/front.gif "Tangela: The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.") | ![Tangela](../assets/sprites/tangela/front_shiny.png "Tangela: The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.") | ![Tangela](../assets/sprites/tangela/back.png "Tangela: The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.") | ![Tangela](../assets/sprites/tangela/back_shiny.png "Tangela: The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

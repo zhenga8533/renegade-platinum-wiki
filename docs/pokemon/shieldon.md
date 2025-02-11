@@ -14,7 +14,13 @@ It is outstandingly armored. As a result, it can eat grass and berries without h
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Shieldon](../assets/sprites/shieldon/front.gif "Shieldon") | ![Shieldon](../assets/sprites/shieldon/front_shiny.png "Shieldon") | ![Shieldon](../assets/sprites/shieldon/back.png "Shieldon") | ![Shieldon](../assets/sprites/shieldon/back_shiny.png "Shieldon") |
+| ![Shieldon](../assets/sprites/shieldon/front.gif "Shieldon: It is outstandingly armored. As a result, it can eat grass and berries without having to fight.") | ![Shieldon](../assets/sprites/shieldon/front_shiny.png "Shieldon: It is outstandingly armored. As a result, it can eat grass and berries without having to fight.") | ![Shieldon](../assets/sprites/shieldon/back.png "Shieldon: It is outstandingly armored. As a result, it can eat grass and berries without having to fight.") | ![Shieldon](../assets/sprites/shieldon/back_shiny.png "Shieldon: It is outstandingly armored. As a result, it can eat grass and berries without having to fight.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

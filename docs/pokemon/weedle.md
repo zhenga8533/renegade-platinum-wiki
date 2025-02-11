@@ -14,7 +14,13 @@ It eats its weight in leaves every day. It fends off attackers with the needle o
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Weedle](../assets/sprites/weedle/front.gif "Weedle") | ![Weedle](../assets/sprites/weedle/front_shiny.png "Weedle") | ![Weedle](../assets/sprites/weedle/back.png "Weedle") | ![Weedle](../assets/sprites/weedle/back_shiny.png "Weedle") |
+| ![Weedle](../assets/sprites/weedle/front.gif "Weedle: It eats its weight in leaves every day. It fends off attackers with the needle on its head.") | ![Weedle](../assets/sprites/weedle/front_shiny.png "Weedle: It eats its weight in leaves every day. It fends off attackers with the needle on its head.") | ![Weedle](../assets/sprites/weedle/back.png "Weedle: It eats its weight in leaves every day. It fends off attackers with the needle on its head.") | ![Weedle](../assets/sprites/weedle/back_shiny.png "Weedle: It eats its weight in leaves every day. It fends off attackers with the needle on its head.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Marshtomp](../assets/sprites/marshtomp/front.gif "Marshtomp") | ![Marshtomp](../assets/sprites/marshtomp/front_shiny.png "Marshtomp") | ![Marshtomp](../assets/sprites/marshtomp/back.png "Marshtomp") | ![Marshtomp](../assets/sprites/marshtomp/back_shiny.png "Marshtomp") |
+| ![Marshtomp](../assets/sprites/marshtomp/front.gif "Marshtomp: Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.") | ![Marshtomp](../assets/sprites/marshtomp/front_shiny.png "Marshtomp: Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.") | ![Marshtomp](../assets/sprites/marshtomp/back.png "Marshtomp: Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.") | ![Marshtomp](../assets/sprites/marshtomp/back_shiny.png "Marshtomp: Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

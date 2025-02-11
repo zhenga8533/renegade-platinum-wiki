@@ -14,7 +14,13 @@ Its three heads move alternately, driving it through tough soil to depths of ove
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Dugtrio](../assets/sprites/dugtrio/front.gif "Dugtrio") | ![Dugtrio](../assets/sprites/dugtrio/front_shiny.png "Dugtrio") | ![Dugtrio](../assets/sprites/dugtrio/back.png "Dugtrio") | ![Dugtrio](../assets/sprites/dugtrio/back_shiny.png "Dugtrio") |
+| ![Dugtrio](../assets/sprites/dugtrio/front.gif "Dugtrio: Its three heads move alternately, driving it through tough soil to depths of over 60 miles.") | ![Dugtrio](../assets/sprites/dugtrio/front_shiny.png "Dugtrio: Its three heads move alternately, driving it through tough soil to depths of over 60 miles.") | ![Dugtrio](../assets/sprites/dugtrio/back.png "Dugtrio: Its three heads move alternately, driving it through tough soil to depths of over 60 miles.") | ![Dugtrio](../assets/sprites/dugtrio/back_shiny.png "Dugtrio: Its three heads move alternately, driving it through tough soil to depths of over 60 miles.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

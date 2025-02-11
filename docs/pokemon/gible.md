@@ -14,13 +14,13 @@ It attacks using its huge mouth. While its attacks are powerful, it hurts itself
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Gible](../assets/sprites/gible/front.gif "Gible") | ![Gible](../assets/sprites/gible/front_shiny.png "Gible") | ![Gible](../assets/sprites/gible/back.png "Gible") | ![Gible](../assets/sprites/gible/back_shiny.png "Gible") |
+| ![Gible](../assets/sprites/gible/front.gif "Gible: It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.") | ![Gible](../assets/sprites/gible/front_shiny.png "Gible: It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.") | ![Gible](../assets/sprites/gible/back.png "Gible: It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.") | ![Gible](../assets/sprites/gible/back_shiny.png "Gible: It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Gible](../assets/sprites/gible/front_female.gif "Gible") | ![Gible](../assets/sprites/gible/front_shiny_female.png "Gible") | ![Gible](../assets/sprites/gible/back_female.png "Gible") | ![Gible](../assets/sprites/gible/back_shiny_female.png "Gible") |
+| ![Gible](../assets/sprites/gible/front_female.gif "Gible: It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.") | ![Gible](../assets/sprites/gible/front_shiny_female.png "Gible: It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.") | ![Gible](../assets/sprites/gible/back_female.png "Gible: It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.") | ![Gible](../assets/sprites/gible/back_shiny_female.png "Gible: It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.") |
 
 ### Cries
 

@@ -14,7 +14,13 @@ Once it bites down, it won’t let go until it loses its fangs. New fangs quickl
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Croconaw](../assets/sprites/croconaw/front.gif "Croconaw") | ![Croconaw](../assets/sprites/croconaw/front_shiny.png "Croconaw") | ![Croconaw](../assets/sprites/croconaw/back.png "Croconaw") | ![Croconaw](../assets/sprites/croconaw/back_shiny.png "Croconaw") |
+| ![Croconaw](../assets/sprites/croconaw/front.gif "Croconaw: Once it bites down, it won’t let go until it loses its fangs. New fangs quickly grow into place.") | ![Croconaw](../assets/sprites/croconaw/front_shiny.png "Croconaw: Once it bites down, it won’t let go until it loses its fangs. New fangs quickly grow into place.") | ![Croconaw](../assets/sprites/croconaw/back.png "Croconaw: Once it bites down, it won’t let go until it loses its fangs. New fangs quickly grow into place.") | ![Croconaw](../assets/sprites/croconaw/back_shiny.png "Croconaw: Once it bites down, it won’t let go until it loses its fangs. New fangs quickly grow into place.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

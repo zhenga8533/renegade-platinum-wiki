@@ -14,13 +14,13 @@ It has an easygoing nature. It doesn’t care if it bumps its head on boats and 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Quagsire](../assets/sprites/quagsire/front.gif "Quagsire") | ![Quagsire](../assets/sprites/quagsire/front_shiny.png "Quagsire") | ![Quagsire](../assets/sprites/quagsire/back.png "Quagsire") | ![Quagsire](../assets/sprites/quagsire/back_shiny.png "Quagsire") |
+| ![Quagsire](../assets/sprites/quagsire/front.gif "Quagsire: It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.") | ![Quagsire](../assets/sprites/quagsire/front_shiny.png "Quagsire: It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.") | ![Quagsire](../assets/sprites/quagsire/back.png "Quagsire: It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.") | ![Quagsire](../assets/sprites/quagsire/back_shiny.png "Quagsire: It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Quagsire](../assets/sprites/quagsire/front_female.gif "Quagsire") | ![Quagsire](../assets/sprites/quagsire/front_shiny_female.png "Quagsire") | ![Quagsire](../assets/sprites/quagsire/back_female.png "Quagsire") | ![Quagsire](../assets/sprites/quagsire/back_shiny_female.png "Quagsire") |
+| ![Quagsire](../assets/sprites/quagsire/front_female.gif "Quagsire: It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.") | ![Quagsire](../assets/sprites/quagsire/front_shiny_female.png "Quagsire: It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.") | ![Quagsire](../assets/sprites/quagsire/back_female.png "Quagsire: It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.") | ![Quagsire](../assets/sprites/quagsire/back_shiny_female.png "Quagsire: It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.") |
 
 ### Cries
 

@@ -14,7 +14,13 @@ The transformation of its legs into wings made it better at flying, but more clu
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Crobat](../assets/sprites/crobat/front.gif "Crobat") | ![Crobat](../assets/sprites/crobat/front_shiny.png "Crobat") | ![Crobat](../assets/sprites/crobat/back.png "Crobat") | ![Crobat](../assets/sprites/crobat/back_shiny.png "Crobat") |
+| ![Crobat](../assets/sprites/crobat/front.gif "Crobat: The transformation of its legs into wings made it better at flying, but more clumsy at walking.") | ![Crobat](../assets/sprites/crobat/front_shiny.png "Crobat: The transformation of its legs into wings made it better at flying, but more clumsy at walking.") | ![Crobat](../assets/sprites/crobat/back.png "Crobat: The transformation of its legs into wings made it better at flying, but more clumsy at walking.") | ![Crobat](../assets/sprites/crobat/back_shiny.png "Crobat: The transformation of its legs into wings made it better at flying, but more clumsy at walking.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

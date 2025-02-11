@@ -14,7 +14,13 @@ When trying to protect someone, it extends its elbows as if they were swords and
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Gallade](../assets/sprites/gallade/front.gif "Gallade") | ![Gallade](../assets/sprites/gallade/front_shiny.png "Gallade") | ![Gallade](../assets/sprites/gallade/back.png "Gallade") | ![Gallade](../assets/sprites/gallade/back_shiny.png "Gallade") |
+| ![Gallade](../assets/sprites/gallade/front.gif "Gallade: When trying to protect someone, it extends its elbows as if they were swords and fights savagely.") | ![Gallade](../assets/sprites/gallade/front_shiny.png "Gallade: When trying to protect someone, it extends its elbows as if they were swords and fights savagely.") | ![Gallade](../assets/sprites/gallade/back.png "Gallade: When trying to protect someone, it extends its elbows as if they were swords and fights savagely.") | ![Gallade](../assets/sprites/gallade/back_shiny.png "Gallade: When trying to protect someone, it extends its elbows as if they were swords and fights savagely.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

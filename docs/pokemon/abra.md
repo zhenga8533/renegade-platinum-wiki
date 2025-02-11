@@ -14,7 +14,13 @@ Using its psychic power is such a strain on its brain that it needs to sleep for
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Abra](../assets/sprites/abra/front.gif "Abra") | ![Abra](../assets/sprites/abra/front_shiny.png "Abra") | ![Abra](../assets/sprites/abra/back.png "Abra") | ![Abra](../assets/sprites/abra/back_shiny.png "Abra") |
+| ![Abra](../assets/sprites/abra/front.gif "Abra: Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.") | ![Abra](../assets/sprites/abra/front_shiny.png "Abra: Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.") | ![Abra](../assets/sprites/abra/back.png "Abra: Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.") | ![Abra](../assets/sprites/abra/back_shiny.png "Abra: Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

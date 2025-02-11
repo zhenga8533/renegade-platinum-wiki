@@ -14,7 +14,13 @@ The larger pincer has 10,000- horsepower strength. However, it is so heavy, it i
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Kingler](../assets/sprites/kingler/front.gif "Kingler") | ![Kingler](../assets/sprites/kingler/front_shiny.png "Kingler") | ![Kingler](../assets/sprites/kingler/back.png "Kingler") | ![Kingler](../assets/sprites/kingler/back_shiny.png "Kingler") |
+| ![Kingler](../assets/sprites/kingler/front.gif "Kingler: The larger pincer has 10,000- horsepower strength. However, it is so heavy, it is difficult to aim.") | ![Kingler](../assets/sprites/kingler/front_shiny.png "Kingler: The larger pincer has 10,000- horsepower strength. However, it is so heavy, it is difficult to aim.") | ![Kingler](../assets/sprites/kingler/back.png "Kingler: The larger pincer has 10,000- horsepower strength. However, it is so heavy, it is difficult to aim.") | ![Kingler](../assets/sprites/kingler/back_shiny.png "Kingler: The larger pincer has 10,000- horsepower strength. However, it is so heavy, it is difficult to aim.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

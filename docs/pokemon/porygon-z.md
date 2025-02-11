@@ -14,7 +14,13 @@ Its programming was modified to enable work in alien dimensions. It did not work
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Porygon Z](../assets/sprites/porygon-z/front.gif "Porygon Z") | ![Porygon Z](../assets/sprites/porygon-z/front_shiny.png "Porygon Z") | ![Porygon Z](../assets/sprites/porygon-z/back.png "Porygon Z") | ![Porygon Z](../assets/sprites/porygon-z/back_shiny.png "Porygon Z") |
+| ![Porygon Z](../assets/sprites/porygon-z/front.gif "Porygon Z: Its programming was modified to enable work in alien dimensions. It did not work as planned.") | ![Porygon Z](../assets/sprites/porygon-z/front_shiny.png "Porygon Z: Its programming was modified to enable work in alien dimensions. It did not work as planned.") | ![Porygon Z](../assets/sprites/porygon-z/back.png "Porygon Z: Its programming was modified to enable work in alien dimensions. It did not work as planned.") | ![Porygon Z](../assets/sprites/porygon-z/back_shiny.png "Porygon Z: Its programming was modified to enable work in alien dimensions. It did not work as planned.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

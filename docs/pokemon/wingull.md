@@ -14,7 +14,13 @@ It soars high in the sky, riding on updrafts like a glider. It carries food tuck
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Wingull](../assets/sprites/wingull/front.gif "Wingull") | ![Wingull](../assets/sprites/wingull/front_shiny.png "Wingull") | ![Wingull](../assets/sprites/wingull/back.png "Wingull") | ![Wingull](../assets/sprites/wingull/back_shiny.png "Wingull") |
+| ![Wingull](../assets/sprites/wingull/front.gif "Wingull: It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.") | ![Wingull](../assets/sprites/wingull/front_shiny.png "Wingull: It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.") | ![Wingull](../assets/sprites/wingull/back.png "Wingull: It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.") | ![Wingull](../assets/sprites/wingull/back_shiny.png "Wingull: It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

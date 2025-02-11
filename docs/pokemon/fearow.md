@@ -14,7 +14,13 @@ It has the stamina to fly all day on its broad wings. It fights by using its sha
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Fearow](../assets/sprites/fearow/front.gif "Fearow") | ![Fearow](../assets/sprites/fearow/front_shiny.png "Fearow") | ![Fearow](../assets/sprites/fearow/back.png "Fearow") | ![Fearow](../assets/sprites/fearow/back_shiny.png "Fearow") |
+| ![Fearow](../assets/sprites/fearow/front.gif "Fearow: It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.") | ![Fearow](../assets/sprites/fearow/front_shiny.png "Fearow: It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.") | ![Fearow](../assets/sprites/fearow/back.png "Fearow: It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.") | ![Fearow](../assets/sprites/fearow/back_shiny.png "Fearow: It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

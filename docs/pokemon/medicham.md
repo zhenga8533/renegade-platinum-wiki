@@ -14,13 +14,13 @@ It gains the ability to see the aura of its opponents by honing its mind through
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Medicham](../assets/sprites/medicham/front.gif "Medicham") | ![Medicham](../assets/sprites/medicham/front_shiny.png "Medicham") | ![Medicham](../assets/sprites/medicham/back.png "Medicham") | ![Medicham](../assets/sprites/medicham/back_shiny.png "Medicham") |
+| ![Medicham](../assets/sprites/medicham/front.gif "Medicham: It gains the ability to see the aura of its opponents by honing its mind through starvation.") | ![Medicham](../assets/sprites/medicham/front_shiny.png "Medicham: It gains the ability to see the aura of its opponents by honing its mind through starvation.") | ![Medicham](../assets/sprites/medicham/back.png "Medicham: It gains the ability to see the aura of its opponents by honing its mind through starvation.") | ![Medicham](../assets/sprites/medicham/back_shiny.png "Medicham: It gains the ability to see the aura of its opponents by honing its mind through starvation.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Medicham](../assets/sprites/medicham/front_female.gif "Medicham") | ![Medicham](../assets/sprites/medicham/front_shiny_female.png "Medicham") | ![Medicham](../assets/sprites/medicham/back_female.png "Medicham") | ![Medicham](../assets/sprites/medicham/back_shiny_female.png "Medicham") |
+| ![Medicham](../assets/sprites/medicham/front_female.gif "Medicham: It gains the ability to see the aura of its opponents by honing its mind through starvation.") | ![Medicham](../assets/sprites/medicham/front_shiny_female.png "Medicham: It gains the ability to see the aura of its opponents by honing its mind through starvation.") | ![Medicham](../assets/sprites/medicham/back_female.png "Medicham: It gains the ability to see the aura of its opponents by honing its mind through starvation.") | ![Medicham](../assets/sprites/medicham/back_shiny_female.png "Medicham: It gains the ability to see the aura of its opponents by honing its mind through starvation.") |
 
 ### Cries
 

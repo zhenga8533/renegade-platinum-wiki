@@ -14,7 +14,13 @@ It lived on the seafloor 100 million years ago and was reanimated scientifically
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Lileep](../assets/sprites/lileep/front.gif "Lileep") | ![Lileep](../assets/sprites/lileep/front_shiny.png "Lileep") | ![Lileep](../assets/sprites/lileep/back.png "Lileep") | ![Lileep](../assets/sprites/lileep/back_shiny.png "Lileep") |
+| ![Lileep](../assets/sprites/lileep/front.gif "Lileep: It lived on the seafloor 100 million years ago and was reanimated scientifically.") | ![Lileep](../assets/sprites/lileep/front_shiny.png "Lileep: It lived on the seafloor 100 million years ago and was reanimated scientifically.") | ![Lileep](../assets/sprites/lileep/back.png "Lileep: It lived on the seafloor 100 million years ago and was reanimated scientifically.") | ![Lileep](../assets/sprites/lileep/back_shiny.png "Lileep: It lived on the seafloor 100 million years ago and was reanimated scientifically.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

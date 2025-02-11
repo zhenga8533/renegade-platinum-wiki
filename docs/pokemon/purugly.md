@@ -14,7 +14,13 @@ It binds its body with its tails to make itself look bigger. If it locks eyes, i
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Purugly](../assets/sprites/purugly/front.gif "Purugly") | ![Purugly](../assets/sprites/purugly/front_shiny.png "Purugly") | ![Purugly](../assets/sprites/purugly/back.png "Purugly") | ![Purugly](../assets/sprites/purugly/back_shiny.png "Purugly") |
+| ![Purugly](../assets/sprites/purugly/front.gif "Purugly: It binds its body with its tails to make itself look bigger. If it locks eyes, it will glare ceaselessly.") | ![Purugly](../assets/sprites/purugly/front_shiny.png "Purugly: It binds its body with its tails to make itself look bigger. If it locks eyes, it will glare ceaselessly.") | ![Purugly](../assets/sprites/purugly/back.png "Purugly: It binds its body with its tails to make itself look bigger. If it locks eyes, it will glare ceaselessly.") | ![Purugly](../assets/sprites/purugly/back_shiny.png "Purugly: It binds its body with its tails to make itself look bigger. If it locks eyes, it will glare ceaselessly.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

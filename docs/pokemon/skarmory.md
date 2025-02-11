@@ -14,7 +14,13 @@ Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Skarmory](../assets/sprites/skarmory/front.gif "Skarmory") | ![Skarmory](../assets/sprites/skarmory/front_shiny.png "Skarmory") | ![Skarmory](../assets/sprites/skarmory/back.png "Skarmory") | ![Skarmory](../assets/sprites/skarmory/back_shiny.png "Skarmory") |
+| ![Skarmory](../assets/sprites/skarmory/front.gif "Skarmory: Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.") | ![Skarmory](../assets/sprites/skarmory/front_shiny.png "Skarmory: Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.") | ![Skarmory](../assets/sprites/skarmory/back.png "Skarmory: Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.") | ![Skarmory](../assets/sprites/skarmory/back_shiny.png "Skarmory: Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

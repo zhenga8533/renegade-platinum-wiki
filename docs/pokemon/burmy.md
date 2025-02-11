@@ -14,19 +14,25 @@ Even if it is born where there are no cocooning materials, it somehow always end
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Burmy](../assets/sprites/burmy/front.gif "Burmy") | ![Burmy](../assets/sprites/burmy/front_shiny.png "Burmy") | ![Burmy](../assets/sprites/burmy/back.png "Burmy") | ![Burmy](../assets/sprites/burmy/back_shiny.png "Burmy") |
+| ![Burmy](../assets/sprites/burmy/front.gif "Burmy: Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.") | ![Burmy](../assets/sprites/burmy/front_shiny.png "Burmy: Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.") | ![Burmy](../assets/sprites/burmy/back.png "Burmy: Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.") | ![Burmy](../assets/sprites/burmy/back_shiny.png "Burmy: Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Burmy Sandy Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Burmy Sandy](../assets/sprites/burmy-sandy/front.png "Burmy Sandy") | ![Burmy Sandy](../assets/sprites/burmy-sandy/front_shiny.png "Burmy Sandy") | ![Burmy Sandy](../assets/sprites/burmy-sandy/back.png "Burmy Sandy") | ![Burmy Sandy](../assets/sprites/burmy-sandy/back_shiny.png "Burmy Sandy") |
+| ![Burmy Sandy](../assets/sprites/burmy-sandy/front.png "Burmy Sandy: Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.") | ![Burmy Sandy](../assets/sprites/burmy-sandy/front_shiny.png "Burmy Sandy: Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.") | ![Burmy Sandy](../assets/sprites/burmy-sandy/back.png "Burmy Sandy: Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.") | ![Burmy Sandy](../assets/sprites/burmy-sandy/back_shiny.png "Burmy Sandy: Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.") |
 
 ### Burmy Trash Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Burmy Trash](../assets/sprites/burmy-trash/front.png "Burmy Trash") | ![Burmy Trash](../assets/sprites/burmy-trash/front_shiny.png "Burmy Trash") | ![Burmy Trash](../assets/sprites/burmy-trash/back.png "Burmy Trash") | ![Burmy Trash](../assets/sprites/burmy-trash/back_shiny.png "Burmy Trash") |
+| ![Burmy Trash](../assets/sprites/burmy-trash/front.png "Burmy Trash: Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.") | ![Burmy Trash](../assets/sprites/burmy-trash/front_shiny.png "Burmy Trash: Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.") | ![Burmy Trash](../assets/sprites/burmy-trash/back.png "Burmy Trash: Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.") | ![Burmy Trash](../assets/sprites/burmy-trash/back_shiny.png "Burmy Trash: Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.") |
 
 ### Cries
 

@@ -14,7 +14,13 @@ Its electric-like body can enter some kinds of machines and take control in orde
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Rotom Frost](../assets/sprites/rotom-frost/front.png "Rotom Frost") | ![Rotom Frost](../assets/sprites/rotom-frost/front_shiny.png "Rotom Frost") | ![Rotom Frost](../assets/sprites/rotom-frost/back.png "Rotom Frost") | ![Rotom Frost](../assets/sprites/rotom-frost/back_shiny.png "Rotom Frost") |
+| ![Rotom Frost](../assets/sprites/rotom-frost/front.png "Rotom Frost: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom Frost](../assets/sprites/rotom-frost/front_shiny.png "Rotom Frost: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom Frost](../assets/sprites/rotom-frost/back.png "Rotom Frost: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom Frost](../assets/sprites/rotom-frost/back_shiny.png "Rotom Frost: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

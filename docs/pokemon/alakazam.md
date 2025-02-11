@@ -14,13 +14,13 @@ The spoons clutched in its hands are said to have been created by its psychic po
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Alakazam](../assets/sprites/alakazam/front.gif "Alakazam") | ![Alakazam](../assets/sprites/alakazam/front_shiny.png "Alakazam") | ![Alakazam](../assets/sprites/alakazam/back.png "Alakazam") | ![Alakazam](../assets/sprites/alakazam/back_shiny.png "Alakazam") |
+| ![Alakazam](../assets/sprites/alakazam/front.gif "Alakazam: The spoons clutched in its hands are said to have been created by its psychic powers.") | ![Alakazam](../assets/sprites/alakazam/front_shiny.png "Alakazam: The spoons clutched in its hands are said to have been created by its psychic powers.") | ![Alakazam](../assets/sprites/alakazam/back.png "Alakazam: The spoons clutched in its hands are said to have been created by its psychic powers.") | ![Alakazam](../assets/sprites/alakazam/back_shiny.png "Alakazam: The spoons clutched in its hands are said to have been created by its psychic powers.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Alakazam](../assets/sprites/alakazam/front_female.gif "Alakazam") | ![Alakazam](../assets/sprites/alakazam/front_shiny_female.png "Alakazam") | ![Alakazam](../assets/sprites/alakazam/back_female.png "Alakazam") | ![Alakazam](../assets/sprites/alakazam/back_shiny_female.png "Alakazam") |
+| ![Alakazam](../assets/sprites/alakazam/front_female.gif "Alakazam: The spoons clutched in its hands are said to have been created by its psychic powers.") | ![Alakazam](../assets/sprites/alakazam/front_shiny_female.png "Alakazam: The spoons clutched in its hands are said to have been created by its psychic powers.") | ![Alakazam](../assets/sprites/alakazam/back_female.png "Alakazam: The spoons clutched in its hands are said to have been created by its psychic powers.") | ![Alakazam](../assets/sprites/alakazam/back_shiny_female.png "Alakazam: The spoons clutched in its hands are said to have been created by its psychic powers.") |
 
 ### Cries
 

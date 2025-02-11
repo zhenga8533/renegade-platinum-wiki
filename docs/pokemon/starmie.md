@@ -14,7 +14,13 @@ At the center of its body is a red core, which sends mysterious radio signals in
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Starmie](../assets/sprites/starmie/front.gif "Starmie") | ![Starmie](../assets/sprites/starmie/front_shiny.png "Starmie") | ![Starmie](../assets/sprites/starmie/back.png "Starmie") | ![Starmie](../assets/sprites/starmie/back_shiny.png "Starmie") |
+| ![Starmie](../assets/sprites/starmie/front.gif "Starmie: At the center of its body is a red core, which sends mysterious radio signals into the night sky.") | ![Starmie](../assets/sprites/starmie/front_shiny.png "Starmie: At the center of its body is a red core, which sends mysterious radio signals into the night sky.") | ![Starmie](../assets/sprites/starmie/back.png "Starmie: At the center of its body is a red core, which sends mysterious radio signals into the night sky.") | ![Starmie](../assets/sprites/starmie/back_shiny.png "Starmie: At the center of its body is a red core, which sends mysterious radio signals into the night sky.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

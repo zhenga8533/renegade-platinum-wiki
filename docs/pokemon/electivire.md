@@ -14,7 +14,13 @@ Heedless of enemy attacks, it closes in, shoves its tails onto the foe, then loo
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Electivire](../assets/sprites/electivire/front.gif "Electivire") | ![Electivire](../assets/sprites/electivire/front_shiny.png "Electivire") | ![Electivire](../assets/sprites/electivire/back.png "Electivire") | ![Electivire](../assets/sprites/electivire/back_shiny.png "Electivire") |
+| ![Electivire](../assets/sprites/electivire/front.gif "Electivire: Heedless of enemy attacks, it closes in, shoves its tails onto the foe, then looses high voltage.") | ![Electivire](../assets/sprites/electivire/front_shiny.png "Electivire: Heedless of enemy attacks, it closes in, shoves its tails onto the foe, then looses high voltage.") | ![Electivire](../assets/sprites/electivire/back.png "Electivire: Heedless of enemy attacks, it closes in, shoves its tails onto the foe, then looses high voltage.") | ![Electivire](../assets/sprites/electivire/back_shiny.png "Electivire: Heedless of enemy attacks, it closes in, shoves its tails onto the foe, then looses high voltage.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

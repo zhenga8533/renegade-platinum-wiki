@@ -14,7 +14,13 @@ Within its rugged shell, its cells have begun changing. The shell peels off the 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Shelgon](../assets/sprites/shelgon/front.gif "Shelgon") | ![Shelgon](../assets/sprites/shelgon/front_shiny.png "Shelgon") | ![Shelgon](../assets/sprites/shelgon/back.png "Shelgon") | ![Shelgon](../assets/sprites/shelgon/back_shiny.png "Shelgon") |
+| ![Shelgon](../assets/sprites/shelgon/front.gif "Shelgon: Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.") | ![Shelgon](../assets/sprites/shelgon/front_shiny.png "Shelgon: Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.") | ![Shelgon](../assets/sprites/shelgon/back.png "Shelgon: Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.") | ![Shelgon](../assets/sprites/shelgon/back_shiny.png "Shelgon: Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

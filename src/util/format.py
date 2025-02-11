@@ -1,11 +1,13 @@
-from util.file import verify_asset_path
+from util.file import load, verify_asset_path
 from util.logger import Logger
+import json
 import logging
+import os
 import re
 import string
 
 
-def find_pokemon_sprite(pokemon: str, view: str, logger: Logger = None) -> str:
+def find_pokemon_sprite(pokemon: str, view: str, logger: Logger) -> str:
     """
     Find the sprite of a Pokémon.
 
@@ -15,11 +17,24 @@ def find_pokemon_sprite(pokemon: str, view: str, logger: Logger = None) -> str:
     :return: The sprite of the Pokémon.
     """
 
-    sprite = f"../assets/sprites/{fix_pokemon_form(format_id(pokemon))}/{view}"
+    # Load Pokemon data
+    POKEMON_INPUT_PATH = os.getenv("POKEMON_INPUT_PATH")
+    pokemon_id = format_id(pokemon)
+    sprite = f"../assets/sprites/{pokemon_id}/{view}"
+    file_path = POKEMON_INPUT_PATH + pokemon_id + ".json"
+    if not os.path.exists(file_path):
+        file_path = file_path.replace(pokemon_id, pokemon_id.rsplit("-", 1)[0])
+    pokemon_data = json.loads(load(file_path, logger))
+    pokemon_text = pokemon_data["flavor_text_entries"].get("platinum", pokemon).replace("\n", " ")
+
     return (
-        f'![{pokemon}]({sprite}.gif "{pokemon}")'
+        f'![{pokemon}]({sprite}.gif "{pokemon}: {pokemon_text}")'
         if verify_asset_path(sprite + ".gif", logger)
-        else (f'![{pokemon}]({sprite}.png "{pokemon}")' if verify_asset_path(sprite + ".png", logger) else "")
+        else (
+            f'![{pokemon}]({sprite}.png "{pokemon}: {pokemon_text}")'
+            if verify_asset_path(sprite + ".png", logger)
+            else "?"
+        )
     )
 
 

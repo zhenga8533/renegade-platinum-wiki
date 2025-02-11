@@ -14,7 +14,13 @@ A legendary Pokémon that is said to live in thunderclouds. It freely controls l
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Zapdos](../assets/sprites/zapdos/front.gif "Zapdos") | ![Zapdos](../assets/sprites/zapdos/front_shiny.png "Zapdos") | ![Zapdos](../assets/sprites/zapdos/back.png "Zapdos") | ![Zapdos](../assets/sprites/zapdos/back_shiny.png "Zapdos") |
+| ![Zapdos](../assets/sprites/zapdos/front.gif "Zapdos: A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.") | ![Zapdos](../assets/sprites/zapdos/front_shiny.png "Zapdos: A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.") | ![Zapdos](../assets/sprites/zapdos/back.png "Zapdos: A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.") | ![Zapdos](../assets/sprites/zapdos/back_shiny.png "Zapdos: A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

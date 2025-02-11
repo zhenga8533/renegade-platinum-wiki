@@ -14,13 +14,13 @@ A smart and sneaky Pokémon. A pair may work together to steal eggs by having on
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Sneasel](../assets/sprites/sneasel/front.gif "Sneasel") | ![Sneasel](../assets/sprites/sneasel/front_shiny.png "Sneasel") | ![Sneasel](../assets/sprites/sneasel/back.png "Sneasel") | ![Sneasel](../assets/sprites/sneasel/back_shiny.png "Sneasel") |
+| ![Sneasel](../assets/sprites/sneasel/front.gif "Sneasel: A smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.") | ![Sneasel](../assets/sprites/sneasel/front_shiny.png "Sneasel: A smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.") | ![Sneasel](../assets/sprites/sneasel/back.png "Sneasel: A smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.") | ![Sneasel](../assets/sprites/sneasel/back_shiny.png "Sneasel: A smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Sneasel](../assets/sprites/sneasel/front_female.gif "Sneasel") | ![Sneasel](../assets/sprites/sneasel/front_shiny_female.png "Sneasel") | ![Sneasel](../assets/sprites/sneasel/back_female.png "Sneasel") | ![Sneasel](../assets/sprites/sneasel/back_shiny_female.png "Sneasel") |
+| ![Sneasel](../assets/sprites/sneasel/front_female.gif "Sneasel: A smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.") | ![Sneasel](../assets/sprites/sneasel/front_shiny_female.png "Sneasel: A smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.") | ![Sneasel](../assets/sprites/sneasel/back_female.png "Sneasel: A smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.") | ![Sneasel](../assets/sprites/sneasel/back_shiny_female.png "Sneasel: A smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.") |
 
 ### Cries
 

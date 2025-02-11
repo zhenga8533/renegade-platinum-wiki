@@ -14,7 +14,13 @@ It looks just like a pinecone. Its shell protects it from bird Pokémon that pec
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Pineco](../assets/sprites/pineco/front.gif "Pineco") | ![Pineco](../assets/sprites/pineco/front_shiny.png "Pineco") | ![Pineco](../assets/sprites/pineco/back.png "Pineco") | ![Pineco](../assets/sprites/pineco/back_shiny.png "Pineco") |
+| ![Pineco](../assets/sprites/pineco/front.gif "Pineco: It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.") | ![Pineco](../assets/sprites/pineco/front_shiny.png "Pineco: It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.") | ![Pineco](../assets/sprites/pineco/back.png "Pineco: It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.") | ![Pineco](../assets/sprites/pineco/back_shiny.png "Pineco: It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

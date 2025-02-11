@@ -14,7 +14,13 @@ It raises its offspring in its belly pouch. It lets the baby out to play only wh
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Kangaskhan](../assets/sprites/kangaskhan/front.gif "Kangaskhan") | ![Kangaskhan](../assets/sprites/kangaskhan/front_shiny.png "Kangaskhan") | ![Kangaskhan](../assets/sprites/kangaskhan/back.png "Kangaskhan") | ![Kangaskhan](../assets/sprites/kangaskhan/back_shiny.png "Kangaskhan") |
+| ![Kangaskhan](../assets/sprites/kangaskhan/front.gif "Kangaskhan: It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.") | ![Kangaskhan](../assets/sprites/kangaskhan/front_shiny.png "Kangaskhan: It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.") | ![Kangaskhan](../assets/sprites/kangaskhan/back.png "Kangaskhan: It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.") | ![Kangaskhan](../assets/sprites/kangaskhan/back_shiny.png "Kangaskhan: It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

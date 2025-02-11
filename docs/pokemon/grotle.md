@@ -14,7 +14,13 @@ It knows where pure water wells up. It carries fellow Pokémon there on its back
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Grotle](../assets/sprites/grotle/front.gif "Grotle") | ![Grotle](../assets/sprites/grotle/front_shiny.png "Grotle") | ![Grotle](../assets/sprites/grotle/back.png "Grotle") | ![Grotle](../assets/sprites/grotle/back_shiny.png "Grotle") |
+| ![Grotle](../assets/sprites/grotle/front.gif "Grotle: It knows where pure water wells up. It carries fellow Pokémon there on its back.") | ![Grotle](../assets/sprites/grotle/front_shiny.png "Grotle: It knows where pure water wells up. It carries fellow Pokémon there on its back.") | ![Grotle](../assets/sprites/grotle/back.png "Grotle: It knows where pure water wells up. It carries fellow Pokémon there on its back.") | ![Grotle](../assets/sprites/grotle/back_shiny.png "Grotle: It knows where pure water wells up. It carries fellow Pokémon there on its back.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

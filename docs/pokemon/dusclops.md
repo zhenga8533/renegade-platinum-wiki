@@ -14,7 +14,13 @@ It seeks drifting will-o’-the-wisps and sucks them into its empty body. What h
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Dusclops](../assets/sprites/dusclops/front.gif "Dusclops") | ![Dusclops](../assets/sprites/dusclops/front_shiny.png "Dusclops") | ![Dusclops](../assets/sprites/dusclops/back.png "Dusclops") | ![Dusclops](../assets/sprites/dusclops/back_shiny.png "Dusclops") |
+| ![Dusclops](../assets/sprites/dusclops/front.gif "Dusclops: It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.") | ![Dusclops](../assets/sprites/dusclops/front_shiny.png "Dusclops: It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.") | ![Dusclops](../assets/sprites/dusclops/back.png "Dusclops: It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.") | ![Dusclops](../assets/sprites/dusclops/back_shiny.png "Dusclops: It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

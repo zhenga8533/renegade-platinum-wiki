@@ -14,13 +14,13 @@ It loves the honey of flowers and can locate flower patches that have even tiny 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Butterfree](../assets/sprites/butterfree/front.gif "Butterfree") | ![Butterfree](../assets/sprites/butterfree/front_shiny.png "Butterfree") | ![Butterfree](../assets/sprites/butterfree/back.png "Butterfree") | ![Butterfree](../assets/sprites/butterfree/back_shiny.png "Butterfree") |
+| ![Butterfree](../assets/sprites/butterfree/front.gif "Butterfree: It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.") | ![Butterfree](../assets/sprites/butterfree/front_shiny.png "Butterfree: It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.") | ![Butterfree](../assets/sprites/butterfree/back.png "Butterfree: It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.") | ![Butterfree](../assets/sprites/butterfree/back_shiny.png "Butterfree: It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Butterfree](../assets/sprites/butterfree/front_female.gif "Butterfree") | ![Butterfree](../assets/sprites/butterfree/front_shiny_female.png "Butterfree") | ![Butterfree](../assets/sprites/butterfree/back_female.png "Butterfree") | ![Butterfree](../assets/sprites/butterfree/back_shiny_female.png "Butterfree") |
+| ![Butterfree](../assets/sprites/butterfree/front_female.gif "Butterfree: It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.") | ![Butterfree](../assets/sprites/butterfree/front_shiny_female.png "Butterfree: It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.") | ![Butterfree](../assets/sprites/butterfree/back_female.png "Butterfree: It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.") | ![Butterfree](../assets/sprites/butterfree/back_shiny_female.png "Butterfree: It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.") |
 
 ### Cries
 

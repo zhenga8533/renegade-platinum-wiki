@@ -14,13 +14,13 @@ Its petals are the largest in the world. As it walks, it scatters extremely alle
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Vileplume](../assets/sprites/vileplume/front.gif "Vileplume") | ![Vileplume](../assets/sprites/vileplume/front_shiny.png "Vileplume") | ![Vileplume](../assets/sprites/vileplume/back.png "Vileplume") | ![Vileplume](../assets/sprites/vileplume/back_shiny.png "Vileplume") |
+| ![Vileplume](../assets/sprites/vileplume/front.gif "Vileplume: Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.") | ![Vileplume](../assets/sprites/vileplume/front_shiny.png "Vileplume: Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.") | ![Vileplume](../assets/sprites/vileplume/back.png "Vileplume: Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.") | ![Vileplume](../assets/sprites/vileplume/back_shiny.png "Vileplume: Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Vileplume](../assets/sprites/vileplume/front_female.gif "Vileplume") | ![Vileplume](../assets/sprites/vileplume/front_shiny_female.png "Vileplume") | ![Vileplume](../assets/sprites/vileplume/back_female.png "Vileplume") | ![Vileplume](../assets/sprites/vileplume/back_shiny_female.png "Vileplume") |
+| ![Vileplume](../assets/sprites/vileplume/front_female.gif "Vileplume: Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.") | ![Vileplume](../assets/sprites/vileplume/front_shiny_female.png "Vileplume: Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.") | ![Vileplume](../assets/sprites/vileplume/back_female.png "Vileplume: Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.") | ![Vileplume](../assets/sprites/vileplume/back_shiny_female.png "Vileplume: Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.") |
 
 ### Cries
 

@@ -14,7 +14,13 @@ Its body is made of rugged steel. However, it is partially melted in spots becau
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Heatran](../assets/sprites/heatran/front.gif "Heatran") | ![Heatran](../assets/sprites/heatran/front_shiny.png "Heatran") | ![Heatran](../assets/sprites/heatran/back.png "Heatran") | ![Heatran](../assets/sprites/heatran/back_shiny.png "Heatran") |
+| ![Heatran](../assets/sprites/heatran/front.gif "Heatran: Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.") | ![Heatran](../assets/sprites/heatran/front_shiny.png "Heatran: Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.") | ![Heatran](../assets/sprites/heatran/back.png "Heatran: Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.") | ![Heatran](../assets/sprites/heatran/back_shiny.png "Heatran: Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

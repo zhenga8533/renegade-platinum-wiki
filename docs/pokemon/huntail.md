@@ -14,7 +14,13 @@ It lives deep in the sea. With a tail shaped like a small fish, it attracts unsu
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Huntail](../assets/sprites/huntail/front.gif "Huntail") | ![Huntail](../assets/sprites/huntail/front_shiny.png "Huntail") | ![Huntail](../assets/sprites/huntail/back.png "Huntail") | ![Huntail](../assets/sprites/huntail/back_shiny.png "Huntail") |
+| ![Huntail](../assets/sprites/huntail/front.gif "Huntail: It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.") | ![Huntail](../assets/sprites/huntail/front_shiny.png "Huntail: It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.") | ![Huntail](../assets/sprites/huntail/back.png "Huntail: It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.") | ![Huntail](../assets/sprites/huntail/back_shiny.png "Huntail: It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

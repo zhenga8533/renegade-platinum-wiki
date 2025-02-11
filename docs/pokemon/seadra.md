@@ -14,7 +14,13 @@ Its spines provide protection. Its fins and bones are prized as traditional medi
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Seadra](../assets/sprites/seadra/front.gif "Seadra") | ![Seadra](../assets/sprites/seadra/front_shiny.png "Seadra") | ![Seadra](../assets/sprites/seadra/back.png "Seadra") | ![Seadra](../assets/sprites/seadra/back_shiny.png "Seadra") |
+| ![Seadra](../assets/sprites/seadra/front.gif "Seadra: Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.") | ![Seadra](../assets/sprites/seadra/front_shiny.png "Seadra: Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.") | ![Seadra](../assets/sprites/seadra/back.png "Seadra: Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.") | ![Seadra](../assets/sprites/seadra/back_shiny.png "Seadra: Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

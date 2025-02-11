@@ -14,7 +14,13 @@ It makes a conical pit in desert sand and lies in wait at the bottom for prey to
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Trapinch](../assets/sprites/trapinch/front.gif "Trapinch") | ![Trapinch](../assets/sprites/trapinch/front_shiny.png "Trapinch") | ![Trapinch](../assets/sprites/trapinch/back.png "Trapinch") | ![Trapinch](../assets/sprites/trapinch/back_shiny.png "Trapinch") |
+| ![Trapinch](../assets/sprites/trapinch/front.gif "Trapinch: It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.") | ![Trapinch](../assets/sprites/trapinch/front_shiny.png "Trapinch: It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.") | ![Trapinch](../assets/sprites/trapinch/back.png "Trapinch: It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.") | ![Trapinch](../assets/sprites/trapinch/back_shiny.png "Trapinch: It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

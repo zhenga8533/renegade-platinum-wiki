@@ -14,7 +14,13 @@ It binds itself to trees in marshes. It attracts prey with its sweet- smelling d
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Carnivine](../assets/sprites/carnivine/front.gif "Carnivine") | ![Carnivine](../assets/sprites/carnivine/front_shiny.png "Carnivine") | ![Carnivine](../assets/sprites/carnivine/back.png "Carnivine") | ![Carnivine](../assets/sprites/carnivine/back_shiny.png "Carnivine") |
+| ![Carnivine](../assets/sprites/carnivine/front.gif "Carnivine: It binds itself to trees in marshes. It attracts prey with its sweet- smelling drool and gulps them down.") | ![Carnivine](../assets/sprites/carnivine/front_shiny.png "Carnivine: It binds itself to trees in marshes. It attracts prey with its sweet- smelling drool and gulps them down.") | ![Carnivine](../assets/sprites/carnivine/back.png "Carnivine: It binds itself to trees in marshes. It attracts prey with its sweet- smelling drool and gulps them down.") | ![Carnivine](../assets/sprites/carnivine/back_shiny.png "Carnivine: It binds itself to trees in marshes. It attracts prey with its sweet- smelling drool and gulps them down.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

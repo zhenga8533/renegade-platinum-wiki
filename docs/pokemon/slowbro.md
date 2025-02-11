@@ -14,7 +14,13 @@ Though usually dim witted, it seems to become inspired if the SHELLDER on its ta
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Slowbro](../assets/sprites/slowbro/front.gif "Slowbro") | ![Slowbro](../assets/sprites/slowbro/front_shiny.png "Slowbro") | ![Slowbro](../assets/sprites/slowbro/back.png "Slowbro") | ![Slowbro](../assets/sprites/slowbro/back_shiny.png "Slowbro") |
+| ![Slowbro](../assets/sprites/slowbro/front.gif "Slowbro: Though usually dim witted, it seems to become inspired if the SHELLDER on its tail bites down.") | ![Slowbro](../assets/sprites/slowbro/front_shiny.png "Slowbro: Though usually dim witted, it seems to become inspired if the SHELLDER on its tail bites down.") | ![Slowbro](../assets/sprites/slowbro/back.png "Slowbro: Though usually dim witted, it seems to become inspired if the SHELLDER on its tail bites down.") | ![Slowbro](../assets/sprites/slowbro/back_shiny.png "Slowbro: Though usually dim witted, it seems to become inspired if the SHELLDER on its tail bites down.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

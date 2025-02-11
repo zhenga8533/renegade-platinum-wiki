@@ -14,7 +14,13 @@ It drifts in warm seas. It always returns to where it was born, no matter how fa
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Phione](../assets/sprites/phione/front.gif "Phione") | ![Phione](../assets/sprites/phione/front_shiny.png "Phione") | ![Phione](../assets/sprites/phione/back.png "Phione") | ![Phione](../assets/sprites/phione/back_shiny.png "Phione") |
+| ![Phione](../assets/sprites/phione/front.gif "Phione: It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.") | ![Phione](../assets/sprites/phione/front_shiny.png "Phione: It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.") | ![Phione](../assets/sprites/phione/back.png "Phione: It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.") | ![Phione](../assets/sprites/phione/back_shiny.png "Phione: It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It gets energy from warm sunlight and is known for its habit of moving in pursui
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Sunflora](../assets/sprites/sunflora/front.gif "Sunflora") | ![Sunflora](../assets/sprites/sunflora/front_shiny.png "Sunflora") | ![Sunflora](../assets/sprites/sunflora/back.png "Sunflora") | ![Sunflora](../assets/sprites/sunflora/back_shiny.png "Sunflora") |
+| ![Sunflora](../assets/sprites/sunflora/front.gif "Sunflora: It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.") | ![Sunflora](../assets/sprites/sunflora/front_shiny.png "Sunflora: It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.") | ![Sunflora](../assets/sprites/sunflora/back.png "Sunflora: It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.") | ![Sunflora](../assets/sprites/sunflora/back_shiny.png "Sunflora: It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

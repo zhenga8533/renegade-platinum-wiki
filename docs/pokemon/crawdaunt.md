@@ -14,7 +14,13 @@ It is a ruffian that uses its pincers to pick up and toss out other Pokémon fro
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Crawdaunt](../assets/sprites/crawdaunt/front.gif "Crawdaunt") | ![Crawdaunt](../assets/sprites/crawdaunt/front_shiny.png "Crawdaunt") | ![Crawdaunt](../assets/sprites/crawdaunt/back.png "Crawdaunt") | ![Crawdaunt](../assets/sprites/crawdaunt/back_shiny.png "Crawdaunt") |
+| ![Crawdaunt](../assets/sprites/crawdaunt/front.gif "Crawdaunt: It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.") | ![Crawdaunt](../assets/sprites/crawdaunt/front_shiny.png "Crawdaunt: It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.") | ![Crawdaunt](../assets/sprites/crawdaunt/back.png "Crawdaunt: It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.") | ![Crawdaunt](../assets/sprites/crawdaunt/back_shiny.png "Crawdaunt: It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

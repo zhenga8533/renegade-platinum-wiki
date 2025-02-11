@@ -14,7 +14,13 @@ To alert it, the fin on its head senses the flow of water. It has the strength t
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Mudkip](../assets/sprites/mudkip/front.gif "Mudkip") | ![Mudkip](../assets/sprites/mudkip/front_shiny.png "Mudkip") | ![Mudkip](../assets/sprites/mudkip/back.png "Mudkip") | ![Mudkip](../assets/sprites/mudkip/back_shiny.png "Mudkip") |
+| ![Mudkip](../assets/sprites/mudkip/front.gif "Mudkip: To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.") | ![Mudkip](../assets/sprites/mudkip/front_shiny.png "Mudkip: To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.") | ![Mudkip](../assets/sprites/mudkip/back.png "Mudkip: To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.") | ![Mudkip](../assets/sprites/mudkip/back_shiny.png "Mudkip: To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

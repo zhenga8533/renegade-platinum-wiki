@@ -14,7 +14,13 @@ Its entire body is armored with hard scales. It will protect the young in its bu
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Nidoqueen](../assets/sprites/nidoqueen/front.gif "Nidoqueen") | ![Nidoqueen](../assets/sprites/nidoqueen/front_shiny.png "Nidoqueen") | ![Nidoqueen](../assets/sprites/nidoqueen/back.png "Nidoqueen") | ![Nidoqueen](../assets/sprites/nidoqueen/back_shiny.png "Nidoqueen") |
+| ![Nidoqueen](../assets/sprites/nidoqueen/front.gif "Nidoqueen: Its entire body is armored with hard scales. It will protect the young in its burrow with its life.") | ![Nidoqueen](../assets/sprites/nidoqueen/front_shiny.png "Nidoqueen: Its entire body is armored with hard scales. It will protect the young in its burrow with its life.") | ![Nidoqueen](../assets/sprites/nidoqueen/back.png "Nidoqueen: Its entire body is armored with hard scales. It will protect the young in its burrow with its life.") | ![Nidoqueen](../assets/sprites/nidoqueen/back_shiny.png "Nidoqueen: Its entire body is armored with hard scales. It will protect the young in its burrow with its life.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

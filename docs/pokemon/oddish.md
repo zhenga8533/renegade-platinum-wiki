@@ -14,7 +14,13 @@ It often plants its root feet in the ground during the day and sows seeds as it 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Oddish](../assets/sprites/oddish/front.gif "Oddish") | ![Oddish](../assets/sprites/oddish/front_shiny.png "Oddish") | ![Oddish](../assets/sprites/oddish/back.png "Oddish") | ![Oddish](../assets/sprites/oddish/back_shiny.png "Oddish") |
+| ![Oddish](../assets/sprites/oddish/front.gif "Oddish: It often plants its root feet in the ground during the day and sows seeds as it walks about at night.") | ![Oddish](../assets/sprites/oddish/front_shiny.png "Oddish: It often plants its root feet in the ground during the day and sows seeds as it walks about at night.") | ![Oddish](../assets/sprites/oddish/back.png "Oddish: It often plants its root feet in the ground during the day and sows seeds as it walks about at night.") | ![Oddish](../assets/sprites/oddish/back_shiny.png "Oddish: It often plants its root feet in the ground during the day and sows seeds as it walks about at night.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

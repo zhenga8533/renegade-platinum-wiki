@@ -14,7 +14,13 @@ A mushroom grown larger than the host’s body controls PARASECT. It scatters po
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Parasect](../assets/sprites/parasect/front.gif "Parasect") | ![Parasect](../assets/sprites/parasect/front_shiny.png "Parasect") | ![Parasect](../assets/sprites/parasect/back.png "Parasect") | ![Parasect](../assets/sprites/parasect/back_shiny.png "Parasect") |
+| ![Parasect](../assets/sprites/parasect/front.gif "Parasect: A mushroom grown larger than the host’s body controls PARASECT. It scatters poisonous spores.") | ![Parasect](../assets/sprites/parasect/front_shiny.png "Parasect: A mushroom grown larger than the host’s body controls PARASECT. It scatters poisonous spores.") | ![Parasect](../assets/sprites/parasect/back.png "Parasect: A mushroom grown larger than the host’s body controls PARASECT. It scatters poisonous spores.") | ![Parasect](../assets/sprites/parasect/back_shiny.png "Parasect: A mushroom grown larger than the host’s body controls PARASECT. It scatters poisonous spores.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

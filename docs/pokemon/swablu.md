@@ -14,7 +14,13 @@ It can’t relax if it or its surroundings are not clean. It wipes off dirt with
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Swablu](../assets/sprites/swablu/front.gif "Swablu") | ![Swablu](../assets/sprites/swablu/front_shiny.png "Swablu") | ![Swablu](../assets/sprites/swablu/back.png "Swablu") | ![Swablu](../assets/sprites/swablu/back_shiny.png "Swablu") |
+| ![Swablu](../assets/sprites/swablu/front.gif "Swablu: It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.") | ![Swablu](../assets/sprites/swablu/front_shiny.png "Swablu: It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.") | ![Swablu](../assets/sprites/swablu/back.png "Swablu: It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.") | ![Swablu](../assets/sprites/swablu/back_shiny.png "Swablu: It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

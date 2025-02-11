@@ -14,7 +14,13 @@ The mother puts its offspring to sleep by curling up around them. It corners foe
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Furret](../assets/sprites/furret/front.gif "Furret") | ![Furret](../assets/sprites/furret/front_shiny.png "Furret") | ![Furret](../assets/sprites/furret/back.png "Furret") | ![Furret](../assets/sprites/furret/back_shiny.png "Furret") |
+| ![Furret](../assets/sprites/furret/front.gif "Furret: The mother puts its offspring to sleep by curling up around them. It corners foes with speed.") | ![Furret](../assets/sprites/furret/front_shiny.png "Furret: The mother puts its offspring to sleep by curling up around them. It corners foes with speed.") | ![Furret](../assets/sprites/furret/back.png "Furret: The mother puts its offspring to sleep by curling up around them. It corners foes with speed.") | ![Furret](../assets/sprites/furret/back_shiny.png "Furret: The mother puts its offspring to sleep by curling up around them. It corners foes with speed.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

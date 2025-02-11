@@ -14,13 +14,13 @@ It swallows anything whole. It sweats toxic fluids from its follicles to douse f
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Swalot](../assets/sprites/swalot/front.gif "Swalot") | ![Swalot](../assets/sprites/swalot/front_shiny.png "Swalot") | ![Swalot](../assets/sprites/swalot/back.png "Swalot") | ![Swalot](../assets/sprites/swalot/back_shiny.png "Swalot") |
+| ![Swalot](../assets/sprites/swalot/front.gif "Swalot: It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.") | ![Swalot](../assets/sprites/swalot/front_shiny.png "Swalot: It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.") | ![Swalot](../assets/sprites/swalot/back.png "Swalot: It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.") | ![Swalot](../assets/sprites/swalot/back_shiny.png "Swalot: It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Swalot](../assets/sprites/swalot/front_female.gif "Swalot") | ![Swalot](../assets/sprites/swalot/front_shiny_female.png "Swalot") | ![Swalot](../assets/sprites/swalot/back_female.png "Swalot") | ![Swalot](../assets/sprites/swalot/back_shiny_female.png "Swalot") |
+| ![Swalot](../assets/sprites/swalot/front_female.gif "Swalot: It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.") | ![Swalot](../assets/sprites/swalot/front_shiny_female.png "Swalot: It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.") | ![Swalot](../assets/sprites/swalot/back_female.png "Swalot: It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.") | ![Swalot](../assets/sprites/swalot/back_shiny_female.png "Swalot: It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.") |
 
 ### Cries
 

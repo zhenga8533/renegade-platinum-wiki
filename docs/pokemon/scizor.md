@@ -14,13 +14,13 @@ It raises its pincers with eyelike markings for intimidation. It also swings the
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Scizor](../assets/sprites/scizor/front.gif "Scizor") | ![Scizor](../assets/sprites/scizor/front_shiny.png "Scizor") | ![Scizor](../assets/sprites/scizor/back.png "Scizor") | ![Scizor](../assets/sprites/scizor/back_shiny.png "Scizor") |
+| ![Scizor](../assets/sprites/scizor/front.gif "Scizor: It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.") | ![Scizor](../assets/sprites/scizor/front_shiny.png "Scizor: It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.") | ![Scizor](../assets/sprites/scizor/back.png "Scizor: It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.") | ![Scizor](../assets/sprites/scizor/back_shiny.png "Scizor: It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Scizor](../assets/sprites/scizor/front_female.gif "Scizor") | ![Scizor](../assets/sprites/scizor/front_shiny_female.png "Scizor") | N/A | N/A |
+| ![Scizor](../assets/sprites/scizor/front_female.gif "Scizor: It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.") | ![Scizor](../assets/sprites/scizor/front_shiny_female.png "Scizor: It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.") | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ When evolving, its body takes in surrounding materials. As a result, there are m
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Wormadam Plant](../assets/sprites/wormadam-plant/front.gif "Wormadam Plant") | ![Wormadam Plant](../assets/sprites/wormadam-plant/front_shiny.png "Wormadam Plant") | ![Wormadam Plant](../assets/sprites/wormadam-plant/back.png "Wormadam Plant") | ![Wormadam Plant](../assets/sprites/wormadam-plant/back_shiny.png "Wormadam Plant") |
+| ![Wormadam Plant](../assets/sprites/wormadam-plant/front.gif "Wormadam Plant: When evolving, its body takes in surrounding materials. As a result, there are many body variations.") | ![Wormadam Plant](../assets/sprites/wormadam-plant/front_shiny.png "Wormadam Plant: When evolving, its body takes in surrounding materials. As a result, there are many body variations.") | ![Wormadam Plant](../assets/sprites/wormadam-plant/back.png "Wormadam Plant: When evolving, its body takes in surrounding materials. As a result, there are many body variations.") | ![Wormadam Plant](../assets/sprites/wormadam-plant/back_shiny.png "Wormadam Plant: When evolving, its body takes in surrounding materials. As a result, there are many body variations.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

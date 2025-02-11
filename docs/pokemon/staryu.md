@@ -14,7 +14,13 @@ If its body is torn, it can grow back if the red core remains. The core flashes 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Staryu](../assets/sprites/staryu/front.gif "Staryu") | ![Staryu](../assets/sprites/staryu/front_shiny.png "Staryu") | ![Staryu](../assets/sprites/staryu/back.png "Staryu") | ![Staryu](../assets/sprites/staryu/back_shiny.png "Staryu") |
+| ![Staryu](../assets/sprites/staryu/front.gif "Staryu: If its body is torn, it can grow back if the red core remains. The core flashes at midnight.") | ![Staryu](../assets/sprites/staryu/front_shiny.png "Staryu: If its body is torn, it can grow back if the red core remains. The core flashes at midnight.") | ![Staryu](../assets/sprites/staryu/back.png "Staryu: If its body is torn, it can grow back if the red core remains. The core flashes at midnight.") | ![Staryu](../assets/sprites/staryu/back_shiny.png "Staryu: If its body is torn, it can grow back if the red core remains. The core flashes at midnight.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It is said to live 10,000 years. Its furry tail is popular as a symbol of longev
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Wartortle](../assets/sprites/wartortle/front.gif "Wartortle") | ![Wartortle](../assets/sprites/wartortle/front_shiny.png "Wartortle") | ![Wartortle](../assets/sprites/wartortle/back.png "Wartortle") | ![Wartortle](../assets/sprites/wartortle/back_shiny.png "Wartortle") |
+| ![Wartortle](../assets/sprites/wartortle/front.gif "Wartortle: It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.") | ![Wartortle](../assets/sprites/wartortle/front_shiny.png "Wartortle: It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.") | ![Wartortle](../assets/sprites/wartortle/back.png "Wartortle: It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.") | ![Wartortle](../assets/sprites/wartortle/back_shiny.png "Wartortle: It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

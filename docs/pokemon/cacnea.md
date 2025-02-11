@@ -14,7 +14,13 @@ By storing water in its body, this desert dweller can survive for 30 days withou
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Cacnea](../assets/sprites/cacnea/front.gif "Cacnea") | ![Cacnea](../assets/sprites/cacnea/front_shiny.png "Cacnea") | ![Cacnea](../assets/sprites/cacnea/back.png "Cacnea") | ![Cacnea](../assets/sprites/cacnea/back_shiny.png "Cacnea") |
+| ![Cacnea](../assets/sprites/cacnea/front.gif "Cacnea: By storing water in its body, this desert dweller can survive for 30 days without water.") | ![Cacnea](../assets/sprites/cacnea/front_shiny.png "Cacnea: By storing water in its body, this desert dweller can survive for 30 days without water.") | ![Cacnea](../assets/sprites/cacnea/back.png "Cacnea: By storing water in its body, this desert dweller can survive for 30 days without water.") | ![Cacnea](../assets/sprites/cacnea/back_shiny.png "Cacnea: By storing water in its body, this desert dweller can survive for 30 days without water.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

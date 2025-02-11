@@ -14,7 +14,13 @@ It lives in dense jungles. While  closing in on its prey, it leaps from branch t
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Grovyle](../assets/sprites/grovyle/front.gif "Grovyle") | ![Grovyle](../assets/sprites/grovyle/front_shiny.png "Grovyle") | ![Grovyle](../assets/sprites/grovyle/back.png "Grovyle") | ![Grovyle](../assets/sprites/grovyle/back_shiny.png "Grovyle") |
+| ![Grovyle](../assets/sprites/grovyle/front.gif "Grovyle: It lives in dense jungles. While  closing in on its prey, it leaps from branch to branch.") | ![Grovyle](../assets/sprites/grovyle/front_shiny.png "Grovyle: It lives in dense jungles. While  closing in on its prey, it leaps from branch to branch.") | ![Grovyle](../assets/sprites/grovyle/back.png "Grovyle: It lives in dense jungles. While  closing in on its prey, it leaps from branch to branch.") | ![Grovyle](../assets/sprites/grovyle/back_shiny.png "Grovyle: It lives in dense jungles. While  closing in on its prey, it leaps from branch to branch.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

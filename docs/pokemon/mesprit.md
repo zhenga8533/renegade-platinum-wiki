@@ -14,7 +14,13 @@ When MESPRIT flew, people learned the joy and sadness of living. It was the birt
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Mesprit](../assets/sprites/mesprit/front.gif "Mesprit") | ![Mesprit](../assets/sprites/mesprit/front_shiny.png "Mesprit") | ![Mesprit](../assets/sprites/mesprit/back.png "Mesprit") | ![Mesprit](../assets/sprites/mesprit/back_shiny.png "Mesprit") |
+| ![Mesprit](../assets/sprites/mesprit/front.gif "Mesprit: When MESPRIT flew, people learned the joy and sadness of living. It was the birth of emotions.") | ![Mesprit](../assets/sprites/mesprit/front_shiny.png "Mesprit: When MESPRIT flew, people learned the joy and sadness of living. It was the birth of emotions.") | ![Mesprit](../assets/sprites/mesprit/back.png "Mesprit: When MESPRIT flew, people learned the joy and sadness of living. It was the birth of emotions.") | ![Mesprit](../assets/sprites/mesprit/back_shiny.png "Mesprit: When MESPRIT flew, people learned the joy and sadness of living. It was the birth of emotions.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

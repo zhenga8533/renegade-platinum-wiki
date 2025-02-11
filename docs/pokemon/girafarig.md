@@ -14,13 +14,13 @@ The head on its tail contains a small brain. It can instinctively fight even whi
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Girafarig](../assets/sprites/girafarig/front.gif "Girafarig") | ![Girafarig](../assets/sprites/girafarig/front_shiny.png "Girafarig") | ![Girafarig](../assets/sprites/girafarig/back.png "Girafarig") | ![Girafarig](../assets/sprites/girafarig/back_shiny.png "Girafarig") |
+| ![Girafarig](../assets/sprites/girafarig/front.gif "Girafarig: The head on its tail contains a small brain. It can instinctively fight even while facing backward.") | ![Girafarig](../assets/sprites/girafarig/front_shiny.png "Girafarig: The head on its tail contains a small brain. It can instinctively fight even while facing backward.") | ![Girafarig](../assets/sprites/girafarig/back.png "Girafarig: The head on its tail contains a small brain. It can instinctively fight even while facing backward.") | ![Girafarig](../assets/sprites/girafarig/back_shiny.png "Girafarig: The head on its tail contains a small brain. It can instinctively fight even while facing backward.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Girafarig](../assets/sprites/girafarig/front_female.gif "Girafarig") | ![Girafarig](../assets/sprites/girafarig/front_shiny_female.png "Girafarig") | ![Girafarig](../assets/sprites/girafarig/back_female.png "Girafarig") | ![Girafarig](../assets/sprites/girafarig/back_shiny_female.png "Girafarig") |
+| ![Girafarig](../assets/sprites/girafarig/front_female.gif "Girafarig: The head on its tail contains a small brain. It can instinctively fight even while facing backward.") | ![Girafarig](../assets/sprites/girafarig/front_shiny_female.png "Girafarig: The head on its tail contains a small brain. It can instinctively fight even while facing backward.") | ![Girafarig](../assets/sprites/girafarig/back_female.png "Girafarig: The head on its tail contains a small brain. It can instinctively fight even while facing backward.") | ![Girafarig](../assets/sprites/girafarig/back_shiny_female.png "Girafarig: The head on its tail contains a small brain. It can instinctively fight even while facing backward.") |
 
 ### Cries
 

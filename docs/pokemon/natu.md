@@ -14,7 +14,13 @@ It picks food from cactus plants, deftly avoiding buds and spines. It seems to s
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Natu](../assets/sprites/natu/front.gif "Natu") | ![Natu](../assets/sprites/natu/front_shiny.png "Natu") | ![Natu](../assets/sprites/natu/back.png "Natu") | ![Natu](../assets/sprites/natu/back_shiny.png "Natu") |
+| ![Natu](../assets/sprites/natu/front.gif "Natu: It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.") | ![Natu](../assets/sprites/natu/front_shiny.png "Natu: It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.") | ![Natu](../assets/sprites/natu/back.png "Natu: It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.") | ![Natu](../assets/sprites/natu/back_shiny.png "Natu: It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

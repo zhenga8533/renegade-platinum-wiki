@@ -14,13 +14,13 @@ The extension and contraction of its muscles generates electricity. It glows whe
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Shinx](../assets/sprites/shinx/front.gif "Shinx") | ![Shinx](../assets/sprites/shinx/front_shiny.png "Shinx") | ![Shinx](../assets/sprites/shinx/back.png "Shinx") | ![Shinx](../assets/sprites/shinx/back_shiny.png "Shinx") |
+| ![Shinx](../assets/sprites/shinx/front.gif "Shinx: The extension and contraction of its muscles generates electricity. It glows when in trouble.") | ![Shinx](../assets/sprites/shinx/front_shiny.png "Shinx: The extension and contraction of its muscles generates electricity. It glows when in trouble.") | ![Shinx](../assets/sprites/shinx/back.png "Shinx: The extension and contraction of its muscles generates electricity. It glows when in trouble.") | ![Shinx](../assets/sprites/shinx/back_shiny.png "Shinx: The extension and contraction of its muscles generates electricity. It glows when in trouble.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Shinx](../assets/sprites/shinx/front_female.gif "Shinx") | ![Shinx](../assets/sprites/shinx/front_shiny_female.png "Shinx") | ![Shinx](../assets/sprites/shinx/back_female.png "Shinx") | ![Shinx](../assets/sprites/shinx/back_shiny_female.png "Shinx") |
+| ![Shinx](../assets/sprites/shinx/front_female.gif "Shinx: The extension and contraction of its muscles generates electricity. It glows when in trouble.") | ![Shinx](../assets/sprites/shinx/front_shiny_female.png "Shinx: The extension and contraction of its muscles generates electricity. It glows when in trouble.") | ![Shinx](../assets/sprites/shinx/back_female.png "Shinx: The extension and contraction of its muscles generates electricity. It glows when in trouble.") | ![Shinx](../assets/sprites/shinx/back_shiny_female.png "Shinx: The extension and contraction of its muscles generates electricity. It glows when in trouble.") |
 
 ### Cries
 

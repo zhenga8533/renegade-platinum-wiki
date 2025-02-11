@@ -14,7 +14,13 @@ To share its happiness, it flies around the world seeking kind­ hearted people.
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Togetic](../assets/sprites/togetic/front.gif "Togetic") | ![Togetic](../assets/sprites/togetic/front_shiny.png "Togetic") | ![Togetic](../assets/sprites/togetic/back.png "Togetic") | ![Togetic](../assets/sprites/togetic/back_shiny.png "Togetic") |
+| ![Togetic](../assets/sprites/togetic/front.gif "Togetic: To share its happiness, it flies around the world seeking kind­ hearted people.") | ![Togetic](../assets/sprites/togetic/front_shiny.png "Togetic: To share its happiness, it flies around the world seeking kind­ hearted people.") | ![Togetic](../assets/sprites/togetic/back.png "Togetic: To share its happiness, it flies around the world seeking kind­ hearted people.") | ![Togetic](../assets/sprites/togetic/back_shiny.png "Togetic: To share its happiness, it flies around the world seeking kind­ hearted people.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

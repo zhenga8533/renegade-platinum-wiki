@@ -14,7 +14,13 @@ A Pokémon that lives on icebergs. It swims in the sea using the point on its he
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Seel](../assets/sprites/seel/front.gif "Seel") | ![Seel](../assets/sprites/seel/front_shiny.png "Seel") | ![Seel](../assets/sprites/seel/back.png "Seel") | ![Seel](../assets/sprites/seel/back_shiny.png "Seel") |
+| ![Seel](../assets/sprites/seel/front.gif "Seel: A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.") | ![Seel](../assets/sprites/seel/front_shiny.png "Seel: A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.") | ![Seel](../assets/sprites/seel/back.png "Seel: A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.") | ![Seel](../assets/sprites/seel/back_shiny.png "Seel: A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

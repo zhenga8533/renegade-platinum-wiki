@@ -14,13 +14,13 @@ Its cries echo inside its hollow body to emerge as beautiful notes for startling
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Chimecho](../assets/sprites/chimecho/front.gif "Chimecho") | ![Chimecho](../assets/sprites/chimecho/front_shiny.png "Chimecho") | ![Chimecho](../assets/sprites/chimecho/back.png "Chimecho") | ![Chimecho](../assets/sprites/chimecho/back_shiny.png "Chimecho") |
+| ![Chimecho](../assets/sprites/chimecho/front.gif "Chimecho: Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.") | ![Chimecho](../assets/sprites/chimecho/front_shiny.png "Chimecho: Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.") | ![Chimecho](../assets/sprites/chimecho/back.png "Chimecho: Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.") | ![Chimecho](../assets/sprites/chimecho/back_shiny.png "Chimecho: Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| N/A | N/A | ![Chimecho](../assets/sprites/chimecho/back_female.png "Chimecho") | ![Chimecho](../assets/sprites/chimecho/back_shiny_female.png "Chimecho") |
+| ? | ? | ![Chimecho](../assets/sprites/chimecho/back_female.png "Chimecho: Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.") | ![Chimecho](../assets/sprites/chimecho/back_shiny_female.png "Chimecho: Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.") |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It is nocturnal in nature. If it spots something shiny, its eyes glitter brightl
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Meowth](../assets/sprites/meowth/front.gif "Meowth") | ![Meowth](../assets/sprites/meowth/front_shiny.png "Meowth") | ![Meowth](../assets/sprites/meowth/back.png "Meowth") | ![Meowth](../assets/sprites/meowth/back_shiny.png "Meowth") |
+| ![Meowth](../assets/sprites/meowth/front.gif "Meowth: It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.") | ![Meowth](../assets/sprites/meowth/front_shiny.png "Meowth: It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.") | ![Meowth](../assets/sprites/meowth/back.png "Meowth: It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.") | ![Meowth](../assets/sprites/meowth/back_shiny.png "Meowth: It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

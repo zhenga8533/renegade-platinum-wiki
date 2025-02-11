@@ -14,7 +14,13 @@ Its eyes are specially developed to enable it to see clearly even in murky darkn
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Noctowl](../assets/sprites/noctowl/front.gif "Noctowl") | ![Noctowl](../assets/sprites/noctowl/front_shiny.png "Noctowl") | ![Noctowl](../assets/sprites/noctowl/back.png "Noctowl") | ![Noctowl](../assets/sprites/noctowl/back_shiny.png "Noctowl") |
+| ![Noctowl](../assets/sprites/noctowl/front.gif "Noctowl: Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.") | ![Noctowl](../assets/sprites/noctowl/front_shiny.png "Noctowl: Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.") | ![Noctowl](../assets/sprites/noctowl/back.png "Noctowl: Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.") | ![Noctowl](../assets/sprites/noctowl/back_shiny.png "Noctowl: Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

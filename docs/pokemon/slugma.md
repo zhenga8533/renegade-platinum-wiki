@@ -14,7 +14,13 @@ Its body is made of magma. If it doesn’t keep moving, its body will cool and h
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Slugma](../assets/sprites/slugma/front.gif "Slugma") | ![Slugma](../assets/sprites/slugma/front_shiny.png "Slugma") | ![Slugma](../assets/sprites/slugma/back.png "Slugma") | ![Slugma](../assets/sprites/slugma/back_shiny.png "Slugma") |
+| ![Slugma](../assets/sprites/slugma/front.gif "Slugma: Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.") | ![Slugma](../assets/sprites/slugma/front_shiny.png "Slugma: Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.") | ![Slugma](../assets/sprites/slugma/back.png "Slugma: Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.") | ![Slugma](../assets/sprites/slugma/back_shiny.png "Slugma: Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

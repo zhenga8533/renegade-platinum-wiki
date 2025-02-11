@@ -14,7 +14,13 @@ The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on onl
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Wailord](../assets/sprites/wailord/front.gif "Wailord") | ![Wailord](../assets/sprites/wailord/front_shiny.png "Wailord") | ![Wailord](../assets/sprites/wailord/back.png "Wailord") | ![Wailord](../assets/sprites/wailord/back_shiny.png "Wailord") |
+| ![Wailord](../assets/sprites/wailord/front.gif "Wailord: The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.") | ![Wailord](../assets/sprites/wailord/front_shiny.png "Wailord: The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.") | ![Wailord](../assets/sprites/wailord/back.png "Wailord: The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.") | ![Wailord](../assets/sprites/wailord/back_shiny.png "Wailord: The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

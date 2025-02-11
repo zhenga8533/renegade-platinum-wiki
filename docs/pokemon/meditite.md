@@ -14,13 +14,13 @@ It always trains deep in mountains. It levitates when it heightens its spiritual
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Meditite](../assets/sprites/meditite/front.gif "Meditite") | ![Meditite](../assets/sprites/meditite/front_shiny.png "Meditite") | ![Meditite](../assets/sprites/meditite/back.png "Meditite") | ![Meditite](../assets/sprites/meditite/back_shiny.png "Meditite") |
+| ![Meditite](../assets/sprites/meditite/front.gif "Meditite: It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.") | ![Meditite](../assets/sprites/meditite/front_shiny.png "Meditite: It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.") | ![Meditite](../assets/sprites/meditite/back.png "Meditite: It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.") | ![Meditite](../assets/sprites/meditite/back_shiny.png "Meditite: It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Meditite](../assets/sprites/meditite/front_female.gif "Meditite") | ![Meditite](../assets/sprites/meditite/front_shiny_female.png "Meditite") | ![Meditite](../assets/sprites/meditite/back_female.png "Meditite") | ![Meditite](../assets/sprites/meditite/back_shiny_female.png "Meditite") |
+| ![Meditite](../assets/sprites/meditite/front_female.gif "Meditite: It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.") | ![Meditite](../assets/sprites/meditite/front_shiny_female.png "Meditite: It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.") | ![Meditite](../assets/sprites/meditite/back_female.png "Meditite: It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.") | ![Meditite](../assets/sprites/meditite/back_shiny_female.png "Meditite: It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.") |
 
 ### Cries
 

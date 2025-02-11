@@ -14,13 +14,13 @@ There is a village that hosts a contest based on the amazingly variable cries of
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Kricketune](../assets/sprites/kricketune/front.gif "Kricketune") | ![Kricketune](../assets/sprites/kricketune/front_shiny.png "Kricketune") | ![Kricketune](../assets/sprites/kricketune/back.png "Kricketune") | ![Kricketune](../assets/sprites/kricketune/back_shiny.png "Kricketune") |
+| ![Kricketune](../assets/sprites/kricketune/front.gif "Kricketune: There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.") | ![Kricketune](../assets/sprites/kricketune/front_shiny.png "Kricketune: There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.") | ![Kricketune](../assets/sprites/kricketune/back.png "Kricketune: There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.") | ![Kricketune](../assets/sprites/kricketune/back_shiny.png "Kricketune: There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Kricketune](../assets/sprites/kricketune/front_female.gif "Kricketune") | ![Kricketune](../assets/sprites/kricketune/front_shiny_female.png "Kricketune") | ![Kricketune](../assets/sprites/kricketune/back_female.png "Kricketune") | ![Kricketune](../assets/sprites/kricketune/back_shiny_female.png "Kricketune") |
+| ![Kricketune](../assets/sprites/kricketune/front_female.gif "Kricketune: There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.") | ![Kricketune](../assets/sprites/kricketune/front_shiny_female.png "Kricketune: There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.") | ![Kricketune](../assets/sprites/kricketune/back_female.png "Kricketune: There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.") | ![Kricketune](../assets/sprites/kricketune/back_shiny_female.png "Kricketune: There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.") |
 
 ### Cries
 

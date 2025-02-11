@@ -14,13 +14,13 @@ This odd Pokémon can see both the past and the future. It eyes the sun’s move
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Xatu](../assets/sprites/xatu/front.gif "Xatu") | ![Xatu](../assets/sprites/xatu/front_shiny.png "Xatu") | ![Xatu](../assets/sprites/xatu/back.png "Xatu") | ![Xatu](../assets/sprites/xatu/back_shiny.png "Xatu") |
+| ![Xatu](../assets/sprites/xatu/front.gif "Xatu: This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day.") | ![Xatu](../assets/sprites/xatu/front_shiny.png "Xatu: This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day.") | ![Xatu](../assets/sprites/xatu/back.png "Xatu: This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day.") | ![Xatu](../assets/sprites/xatu/back_shiny.png "Xatu: This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Xatu](../assets/sprites/xatu/front_female.gif "Xatu") | ![Xatu](../assets/sprites/xatu/front_shiny_female.png "Xatu") | N/A | N/A |
+| ![Xatu](../assets/sprites/xatu/front_female.gif "Xatu: This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day.") | ![Xatu](../assets/sprites/xatu/front_shiny_female.png "Xatu: This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day.") | ? | ? |
 
 ### Cries
 

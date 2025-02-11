@@ -14,7 +14,13 @@ It hides in the darkness of caves. Its diet of gems has transformed its eyes int
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Sableye](../assets/sprites/sableye/front.gif "Sableye") | ![Sableye](../assets/sprites/sableye/front_shiny.png "Sableye") | ![Sableye](../assets/sprites/sableye/back.png "Sableye") | ![Sableye](../assets/sprites/sableye/back_shiny.png "Sableye") |
+| ![Sableye](../assets/sprites/sableye/front.gif "Sableye: It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.") | ![Sableye](../assets/sprites/sableye/front_shiny.png "Sableye: It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.") | ![Sableye](../assets/sprites/sableye/back.png "Sableye: It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.") | ![Sableye](../assets/sprites/sableye/back_shiny.png "Sableye: It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

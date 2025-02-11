@@ -14,7 +14,13 @@ The eggs it lays are filled with happiness. Eating even one bite will bring a sm
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Blissey](../assets/sprites/blissey/front.gif "Blissey") | ![Blissey](../assets/sprites/blissey/front_shiny.png "Blissey") | ![Blissey](../assets/sprites/blissey/back.png "Blissey") | ![Blissey](../assets/sprites/blissey/back_shiny.png "Blissey") |
+| ![Blissey](../assets/sprites/blissey/front.gif "Blissey: The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.") | ![Blissey](../assets/sprites/blissey/front_shiny.png "Blissey: The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.") | ![Blissey](../assets/sprites/blissey/back.png "Blissey: The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.") | ![Blissey](../assets/sprites/blissey/back_shiny.png "Blissey: The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

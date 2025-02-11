@@ -14,7 +14,13 @@ It is extremely protective of its territory. If any foe approaches, it attacks u
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Whiscash](../assets/sprites/whiscash/front.gif "Whiscash") | ![Whiscash](../assets/sprites/whiscash/front_shiny.png "Whiscash") | ![Whiscash](../assets/sprites/whiscash/back.png "Whiscash") | ![Whiscash](../assets/sprites/whiscash/back_shiny.png "Whiscash") |
+| ![Whiscash](../assets/sprites/whiscash/front.gif "Whiscash: It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.") | ![Whiscash](../assets/sprites/whiscash/front_shiny.png "Whiscash: It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.") | ![Whiscash](../assets/sprites/whiscash/back.png "Whiscash: It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.") | ![Whiscash](../assets/sprites/whiscash/back_shiny.png "Whiscash: It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

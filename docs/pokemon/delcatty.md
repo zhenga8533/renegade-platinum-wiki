@@ -14,7 +14,13 @@ It is highly popular among female Trainers for its sublime fur. It does not keep
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Delcatty](../assets/sprites/delcatty/front.gif "Delcatty") | ![Delcatty](../assets/sprites/delcatty/front_shiny.png "Delcatty") | ![Delcatty](../assets/sprites/delcatty/back.png "Delcatty") | ![Delcatty](../assets/sprites/delcatty/back_shiny.png "Delcatty") |
+| ![Delcatty](../assets/sprites/delcatty/front.gif "Delcatty: It is highly popular among female Trainers for its sublime fur. It does not keep a nest.") | ![Delcatty](../assets/sprites/delcatty/front_shiny.png "Delcatty: It is highly popular among female Trainers for its sublime fur. It does not keep a nest.") | ![Delcatty](../assets/sprites/delcatty/back.png "Delcatty: It is highly popular among female Trainers for its sublime fur. It does not keep a nest.") | ![Delcatty](../assets/sprites/delcatty/back_shiny.png "Delcatty: It is highly popular among female Trainers for its sublime fur. It does not keep a nest.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

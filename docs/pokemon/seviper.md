@@ -14,7 +14,13 @@ For many generations, it has feuded with ZANGOOSE. It whets its bladed tail on r
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Seviper](../assets/sprites/seviper/front.gif "Seviper") | ![Seviper](../assets/sprites/seviper/front_shiny.png "Seviper") | ![Seviper](../assets/sprites/seviper/back.png "Seviper") | ![Seviper](../assets/sprites/seviper/back_shiny.png "Seviper") |
+| ![Seviper](../assets/sprites/seviper/front.gif "Seviper: For many generations, it has feuded with ZANGOOSE. It whets its bladed tail on rocks for battle.") | ![Seviper](../assets/sprites/seviper/front_shiny.png "Seviper: For many generations, it has feuded with ZANGOOSE. It whets its bladed tail on rocks for battle.") | ![Seviper](../assets/sprites/seviper/back.png "Seviper: For many generations, it has feuded with ZANGOOSE. It whets its bladed tail on rocks for battle.") | ![Seviper](../assets/sprites/seviper/back_shiny.png "Seviper: For many generations, it has feuded with ZANGOOSE. It whets its bladed tail on rocks for battle.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

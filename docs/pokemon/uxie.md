@@ -14,7 +14,13 @@ When UXIE flew, people gained the ability to solve problems. It was the birth of
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Uxie](../assets/sprites/uxie/front.gif "Uxie") | ![Uxie](../assets/sprites/uxie/front_shiny.png "Uxie") | ![Uxie](../assets/sprites/uxie/back.png "Uxie") | ![Uxie](../assets/sprites/uxie/back_shiny.png "Uxie") |
+| ![Uxie](../assets/sprites/uxie/front.gif "Uxie: When UXIE flew, people gained the ability to solve problems. It was the birth of knowledge.") | ![Uxie](../assets/sprites/uxie/front_shiny.png "Uxie: When UXIE flew, people gained the ability to solve problems. It was the birth of knowledge.") | ![Uxie](../assets/sprites/uxie/back.png "Uxie: When UXIE flew, people gained the ability to solve problems. It was the birth of knowledge.") | ![Uxie](../assets/sprites/uxie/back_shiny.png "Uxie: When UXIE flew, people gained the ability to solve problems. It was the birth of knowledge.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ Its electric-like body can enter some kinds of machines and take control in orde
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Rotom Wash](../assets/sprites/rotom-wash/front.png "Rotom Wash") | ![Rotom Wash](../assets/sprites/rotom-wash/front_shiny.png "Rotom Wash") | ![Rotom Wash](../assets/sprites/rotom-wash/back.png "Rotom Wash") | ![Rotom Wash](../assets/sprites/rotom-wash/back_shiny.png "Rotom Wash") |
+| ![Rotom Wash](../assets/sprites/rotom-wash/front.png "Rotom Wash: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom Wash](../assets/sprites/rotom-wash/front_shiny.png "Rotom Wash: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom Wash](../assets/sprites/rotom-wash/back.png "Rotom Wash: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") | ![Rotom Wash](../assets/sprites/rotom-wash/back_shiny.png "Rotom Wash: Its electric-like body can enter some kinds of machines and take control in order to make mischief.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

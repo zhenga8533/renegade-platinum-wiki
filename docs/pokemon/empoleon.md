@@ -14,7 +14,13 @@ If anyone were to hurt its pride, it would slash them with wings that can cleave
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Empoleon](../assets/sprites/empoleon/front.gif "Empoleon") | ![Empoleon](../assets/sprites/empoleon/front_shiny.png "Empoleon") | ![Empoleon](../assets/sprites/empoleon/back.png "Empoleon") | ![Empoleon](../assets/sprites/empoleon/back_shiny.png "Empoleon") |
+| ![Empoleon](../assets/sprites/empoleon/front.gif "Empoleon: If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.") | ![Empoleon](../assets/sprites/empoleon/front_shiny.png "Empoleon: If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.") | ![Empoleon](../assets/sprites/empoleon/back.png "Empoleon: If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.") | ![Empoleon](../assets/sprites/empoleon/back_shiny.png "Empoleon: If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

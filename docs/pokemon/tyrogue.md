@@ -14,7 +14,13 @@ It is famous for its eagerness to fight and always nurses injuries from challeng
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Tyrogue](../assets/sprites/tyrogue/front.gif "Tyrogue") | ![Tyrogue](../assets/sprites/tyrogue/front_shiny.png "Tyrogue") | ![Tyrogue](../assets/sprites/tyrogue/back.png "Tyrogue") | ![Tyrogue](../assets/sprites/tyrogue/back_shiny.png "Tyrogue") |
+| ![Tyrogue](../assets/sprites/tyrogue/front.gif "Tyrogue: It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.") | ![Tyrogue](../assets/sprites/tyrogue/front_shiny.png "Tyrogue: It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.") | ![Tyrogue](../assets/sprites/tyrogue/back.png "Tyrogue: It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.") | ![Tyrogue](../assets/sprites/tyrogue/back_shiny.png "Tyrogue: It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

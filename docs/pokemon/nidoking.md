@@ -14,7 +14,13 @@ One swing of its mighty tail can snap a telephone pole as if it were a matchstic
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Nidoking](../assets/sprites/nidoking/front.gif "Nidoking") | ![Nidoking](../assets/sprites/nidoking/front_shiny.png "Nidoking") | ![Nidoking](../assets/sprites/nidoking/back.png "Nidoking") | ![Nidoking](../assets/sprites/nidoking/back_shiny.png "Nidoking") |
+| ![Nidoking](../assets/sprites/nidoking/front.gif "Nidoking: One swing of its mighty tail can snap a telephone pole as if it were a matchstick.") | ![Nidoking](../assets/sprites/nidoking/front_shiny.png "Nidoking: One swing of its mighty tail can snap a telephone pole as if it were a matchstick.") | ![Nidoking](../assets/sprites/nidoking/back.png "Nidoking: One swing of its mighty tail can snap a telephone pole as if it were a matchstick.") | ![Nidoking](../assets/sprites/nidoking/back_shiny.png "Nidoking: One swing of its mighty tail can snap a telephone pole as if it were a matchstick.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

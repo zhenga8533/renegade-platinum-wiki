@@ -14,13 +14,13 @@ It becomes active at night, seeking prey that is exhausted from the day’s dese
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Cacturne](../assets/sprites/cacturne/front.gif "Cacturne") | ![Cacturne](../assets/sprites/cacturne/front_shiny.png "Cacturne") | ![Cacturne](../assets/sprites/cacturne/back.png "Cacturne") | ![Cacturne](../assets/sprites/cacturne/back_shiny.png "Cacturne") |
+| ![Cacturne](../assets/sprites/cacturne/front.gif "Cacturne: It becomes active at night, seeking prey that is exhausted from the day’s desert heat.") | ![Cacturne](../assets/sprites/cacturne/front_shiny.png "Cacturne: It becomes active at night, seeking prey that is exhausted from the day’s desert heat.") | ![Cacturne](../assets/sprites/cacturne/back.png "Cacturne: It becomes active at night, seeking prey that is exhausted from the day’s desert heat.") | ![Cacturne](../assets/sprites/cacturne/back_shiny.png "Cacturne: It becomes active at night, seeking prey that is exhausted from the day’s desert heat.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Cacturne](../assets/sprites/cacturne/front_female.gif "Cacturne") | ![Cacturne](../assets/sprites/cacturne/front_shiny_female.png "Cacturne") | N/A | N/A |
+| ![Cacturne](../assets/sprites/cacturne/front_female.gif "Cacturne: It becomes active at night, seeking prey that is exhausted from the day’s desert heat.") | ![Cacturne](../assets/sprites/cacturne/front_shiny_female.png "Cacturne: It becomes active at night, seeking prey that is exhausted from the day’s desert heat.") | ? | ? |
 
 ### Cries
 

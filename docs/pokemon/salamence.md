@@ -14,7 +14,13 @@ As a result of its long-held dream of flying, its cellular structure changed, an
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Salamence](../assets/sprites/salamence/front.gif "Salamence") | ![Salamence](../assets/sprites/salamence/front_shiny.png "Salamence") | ![Salamence](../assets/sprites/salamence/back.png "Salamence") | ![Salamence](../assets/sprites/salamence/back_shiny.png "Salamence") |
+| ![Salamence](../assets/sprites/salamence/front.gif "Salamence: As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.") | ![Salamence](../assets/sprites/salamence/front_shiny.png "Salamence: As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.") | ![Salamence](../assets/sprites/salamence/back.png "Salamence: As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.") | ![Salamence](../assets/sprites/salamence/back_shiny.png "Salamence: As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

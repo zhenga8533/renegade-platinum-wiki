@@ -14,7 +14,13 @@ It drifts on winds. It is said that when HOPPIP gather in fields and mountains, 
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Hoppip](../assets/sprites/hoppip/front.gif "Hoppip") | ![Hoppip](../assets/sprites/hoppip/front_shiny.png "Hoppip") | ![Hoppip](../assets/sprites/hoppip/back.png "Hoppip") | ![Hoppip](../assets/sprites/hoppip/back_shiny.png "Hoppip") |
+| ![Hoppip](../assets/sprites/hoppip/front.gif "Hoppip: It drifts on winds. It is said that when HOPPIP gather in fields and mountains, spring is on the way.") | ![Hoppip](../assets/sprites/hoppip/front_shiny.png "Hoppip: It drifts on winds. It is said that when HOPPIP gather in fields and mountains, spring is on the way.") | ![Hoppip](../assets/sprites/hoppip/back.png "Hoppip: It drifts on winds. It is said that when HOPPIP gather in fields and mountains, spring is on the way.") | ![Hoppip](../assets/sprites/hoppip/back_shiny.png "Hoppip: It drifts on winds. It is said that when HOPPIP gather in fields and mountains, spring is on the way.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

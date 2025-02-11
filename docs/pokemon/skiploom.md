@@ -14,7 +14,13 @@ It blooms when the weather warms. It floats in the sky to soak up as much sunlig
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Skiploom](../assets/sprites/skiploom/front.gif "Skiploom") | ![Skiploom](../assets/sprites/skiploom/front_shiny.png "Skiploom") | ![Skiploom](../assets/sprites/skiploom/back.png "Skiploom") | ![Skiploom](../assets/sprites/skiploom/back_shiny.png "Skiploom") |
+| ![Skiploom](../assets/sprites/skiploom/front.gif "Skiploom: It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.") | ![Skiploom](../assets/sprites/skiploom/front_shiny.png "Skiploom: It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.") | ![Skiploom](../assets/sprites/skiploom/back.png "Skiploom: It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.") | ![Skiploom](../assets/sprites/skiploom/back_shiny.png "Skiploom: It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

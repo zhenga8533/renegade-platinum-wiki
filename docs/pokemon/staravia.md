@@ -14,13 +14,13 @@ Recognizing their own weakness, they always live in a group. When alone, a STARA
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Staravia](../assets/sprites/staravia/front.gif "Staravia") | ![Staravia](../assets/sprites/staravia/front_shiny.png "Staravia") | ![Staravia](../assets/sprites/staravia/back.png "Staravia") | ![Staravia](../assets/sprites/staravia/back_shiny.png "Staravia") |
+| ![Staravia](../assets/sprites/staravia/front.gif "Staravia: Recognizing their own weakness, they always live in a group. When alone, a STARAVIA cries noisily.") | ![Staravia](../assets/sprites/staravia/front_shiny.png "Staravia: Recognizing their own weakness, they always live in a group. When alone, a STARAVIA cries noisily.") | ![Staravia](../assets/sprites/staravia/back.png "Staravia: Recognizing their own weakness, they always live in a group. When alone, a STARAVIA cries noisily.") | ![Staravia](../assets/sprites/staravia/back_shiny.png "Staravia: Recognizing their own weakness, they always live in a group. When alone, a STARAVIA cries noisily.") |
 
 ### Female Sprites
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Staravia](../assets/sprites/staravia/front_female.gif "Staravia") | ![Staravia](../assets/sprites/staravia/front_shiny_female.png "Staravia") | ![Staravia](../assets/sprites/staravia/back_female.png "Staravia") | ![Staravia](../assets/sprites/staravia/back_shiny_female.png "Staravia") |
+| ![Staravia](../assets/sprites/staravia/front_female.gif "Staravia: Recognizing their own weakness, they always live in a group. When alone, a STARAVIA cries noisily.") | ![Staravia](../assets/sprites/staravia/front_shiny_female.png "Staravia: Recognizing their own weakness, they always live in a group. When alone, a STARAVIA cries noisily.") | ![Staravia](../assets/sprites/staravia/back_female.png "Staravia: Recognizing their own weakness, they always live in a group. When alone, a STARAVIA cries noisily.") | ![Staravia](../assets/sprites/staravia/back_shiny_female.png "Staravia: Recognizing their own weakness, they always live in a group. When alone, a STARAVIA cries noisily.") |
 
 ### Cries
 

@@ -14,7 +14,13 @@ Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just on
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Golem](../assets/sprites/golem/front.gif "Golem") | ![Golem](../assets/sprites/golem/front_shiny.png "Golem") | ![Golem](../assets/sprites/golem/back.png "Golem") | ![Golem](../assets/sprites/golem/back_shiny.png "Golem") |
+| ![Golem](../assets/sprites/golem/front.gif "Golem: Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just once a year.") | ![Golem](../assets/sprites/golem/front_shiny.png "Golem: Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just once a year.") | ![Golem](../assets/sprites/golem/back.png "Golem: Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just once a year.") | ![Golem](../assets/sprites/golem/back_shiny.png "Golem: Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just once a year.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

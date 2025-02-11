@@ -14,7 +14,13 @@ Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Whismur](../assets/sprites/whismur/front.gif "Whismur") | ![Whismur](../assets/sprites/whismur/front_shiny.png "Whismur") | ![Whismur](../assets/sprites/whismur/back.png "Whismur") | ![Whismur](../assets/sprites/whismur/back_shiny.png "Whismur") |
+| ![Whismur](../assets/sprites/whismur/front.gif "Whismur: Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.") | ![Whismur](../assets/sprites/whismur/front_shiny.png "Whismur: Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.") | ![Whismur](../assets/sprites/whismur/back.png "Whismur: Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.") | ![Whismur](../assets/sprites/whismur/back_shiny.png "Whismur: Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

@@ -14,7 +14,13 @@ It lives in the ozone layer far above the clouds and cannot be seen from the gro
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Rayquaza](../assets/sprites/rayquaza/front.gif "Rayquaza") | ![Rayquaza](../assets/sprites/rayquaza/front_shiny.png "Rayquaza") | ![Rayquaza](../assets/sprites/rayquaza/back.png "Rayquaza") | ![Rayquaza](../assets/sprites/rayquaza/back_shiny.png "Rayquaza") |
+| ![Rayquaza](../assets/sprites/rayquaza/front.gif "Rayquaza: It lives in the ozone layer far above the clouds and cannot be seen from the ground.") | ![Rayquaza](../assets/sprites/rayquaza/front_shiny.png "Rayquaza: It lives in the ozone layer far above the clouds and cannot be seen from the ground.") | ![Rayquaza](../assets/sprites/rayquaza/back.png "Rayquaza: It lives in the ozone layer far above the clouds and cannot be seen from the ground.") | ![Rayquaza](../assets/sprites/rayquaza/back_shiny.png "Rayquaza: It lives in the ozone layer far above the clouds and cannot be seen from the ground.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

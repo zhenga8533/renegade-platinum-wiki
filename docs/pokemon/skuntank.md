@@ -14,7 +14,13 @@ It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Skuntank](../assets/sprites/skuntank/front.gif "Skuntank") | ![Skuntank](../assets/sprites/skuntank/front_shiny.png "Skuntank") | ![Skuntank](../assets/sprites/skuntank/back.png "Skuntank") | ![Skuntank](../assets/sprites/skuntank/back_shiny.png "Skuntank") |
+| ![Skuntank](../assets/sprites/skuntank/front.gif "Skuntank: It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.") | ![Skuntank](../assets/sprites/skuntank/front_shiny.png "Skuntank: It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.") | ![Skuntank](../assets/sprites/skuntank/back.png "Skuntank: It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.") | ![Skuntank](../assets/sprites/skuntank/back_shiny.png "Skuntank: It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 

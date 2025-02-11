@@ -14,7 +14,13 @@ It flies over its wide territory in search of prey, downing it with its highly d
 
 | Front | Shiny | Back | Shiny |
 |-------|-------|------|-------|
-| ![Pidgeotto](../assets/sprites/pidgeotto/front.gif "Pidgeotto") | ![Pidgeotto](../assets/sprites/pidgeotto/front_shiny.png "Pidgeotto") | ![Pidgeotto](../assets/sprites/pidgeotto/back.png "Pidgeotto") | ![Pidgeotto](../assets/sprites/pidgeotto/back_shiny.png "Pidgeotto") |
+| ![Pidgeotto](../assets/sprites/pidgeotto/front.gif "Pidgeotto: It flies over its wide territory in search of prey, downing it with its highly developed claws.") | ![Pidgeotto](../assets/sprites/pidgeotto/front_shiny.png "Pidgeotto: It flies over its wide territory in search of prey, downing it with its highly developed claws.") | ![Pidgeotto](../assets/sprites/pidgeotto/back.png "Pidgeotto: It flies over its wide territory in search of prey, downing it with its highly developed claws.") | ![Pidgeotto](../assets/sprites/pidgeotto/back_shiny.png "Pidgeotto: It flies over its wide territory in search of prey, downing it with its highly developed claws.") |
+
+### Female Sprites
+
+| Front | Shiny | Back | Shiny |
+|-------|-------|------|-------|
+| ? | ? | ? | ? |
 
 ### Cries
 
