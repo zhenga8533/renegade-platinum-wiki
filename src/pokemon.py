@@ -531,7 +531,7 @@ def main():
         nav += f"          - {clean_name}: {POKEMON_PATH + name}.md\n"
 
     logger.log(logging.INFO, "Successfully generated Pokémon navigation")
-    save(f"{NAV_OUTPUT_PATH}pokemon_nav.md", nav, logger)
+    save(f"{NAV_OUTPUT_PATH}pokemon_nav.yml", nav, logger)
 
     # Generate markdown files for each Pokémon
     logger.log(logging.INFO, "Generating markdown files for each Pokémon")
