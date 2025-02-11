@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Eterna City — Trainer Rosters
 
 ---
 

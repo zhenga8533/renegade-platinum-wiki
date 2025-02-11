@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Seven Stars Restaurant — Trainer Rosters
 
 ### Generic Trainers
 

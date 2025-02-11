@@ -1,3 +1,5 @@
+# Maniac Tunnel — Wild Pokémon
+
 ### Walking
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |

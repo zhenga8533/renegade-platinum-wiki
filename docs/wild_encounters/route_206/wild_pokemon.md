@@ -1,3 +1,5 @@
+# Route 206 — Wild Pokémon
+
 ### Walking
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |

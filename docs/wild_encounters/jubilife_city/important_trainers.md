@@ -1,4 +1,4 @@
-# Important Trainers
+# Jubilife City — Important Trainers
 
 ### PKMN Trainer Dawn
 

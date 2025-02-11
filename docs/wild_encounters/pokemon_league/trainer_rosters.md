@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Pokémon League — Trainer Rosters
 
 ### Important Trainers
 

@@ -1,3 +1,5 @@
+# Resort Area — Wild Pokémon
+
 ### Surfing
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |

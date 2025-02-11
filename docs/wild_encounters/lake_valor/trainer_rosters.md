@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Lake Valor — Trainer Rosters
 
 ### Generic Trainers
 

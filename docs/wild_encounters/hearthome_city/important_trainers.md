@@ -1,4 +1,4 @@
-# Important Trainers
+# Hearthome City — Important Trainers
 
 
 ---

@@ -1,4 +1,4 @@
-# Important Trainers
+# Distortion World — Important Trainers
 
 ### Galactic Boss Cyrus
 

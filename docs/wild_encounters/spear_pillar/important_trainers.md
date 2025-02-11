@@ -1,4 +1,4 @@
-# Important Trainers
+# Spear Pillar — Important Trainers
 
 ### Commander Mars
 

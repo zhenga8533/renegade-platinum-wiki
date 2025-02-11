@@ -1,4 +1,4 @@
-# Important Trainers
+# Route 230 — Important Trainers
 
 ### Ace Trainer Luna
 

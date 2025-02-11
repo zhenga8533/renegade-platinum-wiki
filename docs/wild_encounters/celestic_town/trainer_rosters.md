@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Celestic Town — Trainer Rosters
 
 ### Generic Trainers
 

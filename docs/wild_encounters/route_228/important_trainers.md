@@ -1,4 +1,4 @@
-# Important Trainers
+# Route 228 — Important Trainers
 
 ### Ace Trainer Shade
 

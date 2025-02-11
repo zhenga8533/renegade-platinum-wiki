@@ -1,4 +1,4 @@
-# Important Trainers
+# Celestic Town — Important Trainers
 
 ### Galactic Boss Cyrus
 

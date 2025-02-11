@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Jubilife City Trainer School — Trainer Rosters
 
 ### Generic Trainers
 

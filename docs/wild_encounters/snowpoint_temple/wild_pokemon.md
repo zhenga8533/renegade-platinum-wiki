@@ -1,3 +1,5 @@
+# Snowpoint Temple — Wild Pokémon
+
 ### Walking
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |

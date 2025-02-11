@@ -1,4 +1,4 @@
-# Important Trainers
+# Wayward Cave — Important Trainers
 
 ### PKMN Trainer Mira
 

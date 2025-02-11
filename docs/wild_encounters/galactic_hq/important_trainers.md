@@ -1,4 +1,4 @@
-# Important Trainers
+# Galactic HQ — Important Trainers
 
 ### Galactic Boss Cyrus
 

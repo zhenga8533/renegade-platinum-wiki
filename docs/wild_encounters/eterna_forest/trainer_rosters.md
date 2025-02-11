@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Eterna Forest — Trainer Rosters
 
 ### Generic Trainers
 

@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Oreburgh Mine — Trainer Rosters
 
 ### Generic Trainers
 

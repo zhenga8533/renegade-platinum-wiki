@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Pokémon Center — Trainer Rosters
 
 ### Generic Trainers
 

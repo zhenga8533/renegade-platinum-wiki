@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Distortion World — Trainer Rosters
 
 ### Important Trainers
 

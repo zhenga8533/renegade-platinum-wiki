@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Solaceon Ruins — Trainer Rosters
 
 ### Generic Trainers
 

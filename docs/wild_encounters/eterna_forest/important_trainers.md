@@ -1,4 +1,4 @@
-# Important Trainers
+# Eterna Forest — Important Trainers
 
 ### PKMN Trainer Cheryl
 

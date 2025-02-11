@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Spear Pillar — Trainer Rosters
 
 ### Generic Trainers
 

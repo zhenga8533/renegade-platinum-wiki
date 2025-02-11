@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Floaroma Town — Trainer Rosters
 
 ### Generic Trainers
 

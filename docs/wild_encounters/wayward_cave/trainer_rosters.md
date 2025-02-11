@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Wayward Cave — Trainer Rosters
 
 ### Generic Trainers
 

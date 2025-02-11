@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Galactic HQ — Trainer Rosters
 
 ### Generic Trainers
 

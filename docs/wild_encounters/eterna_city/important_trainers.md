@@ -1,4 +1,4 @@
-# Important Trainers
+# Eterna City — Important Trainers
 
 
 ---

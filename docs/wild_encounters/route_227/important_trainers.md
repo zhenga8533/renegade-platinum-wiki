@@ -1,4 +1,4 @@
-# Important Trainers
+# Route 227 — Important Trainers
 
 ### Ace Trainer Slythe
 

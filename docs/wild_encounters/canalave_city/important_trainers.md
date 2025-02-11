@@ -1,4 +1,4 @@
-# Important Trainers
+# Canalave City — Important Trainers
 
 
 ---

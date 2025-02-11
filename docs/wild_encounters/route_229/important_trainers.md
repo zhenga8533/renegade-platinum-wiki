@@ -1,4 +1,4 @@
-# Important Trainers
+# Route 229 — Important Trainers
 
 ### Ace Trainer Gene
 

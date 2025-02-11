@@ -1,4 +1,4 @@
-# Trainer Rosters
+# Lost Tower — Trainer Rosters
 
 ### Generic Trainers
 

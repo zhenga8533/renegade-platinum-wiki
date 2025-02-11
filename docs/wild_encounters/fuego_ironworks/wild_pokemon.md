@@ -1,3 +1,5 @@
+# Fuego Ironworks — Wild Pokémon
+
 ### Walking
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |

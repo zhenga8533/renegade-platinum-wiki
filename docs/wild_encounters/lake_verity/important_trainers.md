@@ -1,4 +1,4 @@
-# Important Trainers
+# Lake Verity — Important Trainers
 
 ### Commander Mars
 

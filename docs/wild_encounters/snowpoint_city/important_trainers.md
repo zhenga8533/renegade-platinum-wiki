@@ -1,4 +1,4 @@
-# Important Trainers
+# Snowpoint City — Important Trainers
 
 
 ---

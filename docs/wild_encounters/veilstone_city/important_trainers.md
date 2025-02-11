@@ -1,4 +1,4 @@
-# Important Trainers
+# Veilstone City — Important Trainers
 
 
 ---

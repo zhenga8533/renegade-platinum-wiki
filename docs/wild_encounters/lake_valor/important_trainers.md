@@ -1,4 +1,4 @@
-# Important Trainers
+# Lake Valor — Important Trainers
 
 ### Commander Saturn
 

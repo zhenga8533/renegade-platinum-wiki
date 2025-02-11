@@ -302,11 +302,11 @@ def main():
         md += roster_md
 
         if trainer_rosters != "":
-            wild_rosters[location] = wild_rosters.get(location, "# Trainer Rosters\n")
+            wild_rosters[location] = wild_rosters.get(location, f"# {location} — Trainer Rosters\n")
             wild_rosters[location] += f"\n---\n\n## {section[:-1]}\n\n" if section else ""
             wild_rosters[location] += trainer_rosters
         if important_trainers != "":
-            wild_trainers[location] = wild_trainers.get(location, "# Important Trainers\n\n")
+            wild_trainers[location] = wild_trainers.get(location, f"# {location} — Important Trainers\n\n")
             wild_trainers[location] += f"\n---\n\n## {section[:-1]}\n\n" if section else ""
             wild_trainers[location] += important_trainers
 

@@ -76,7 +76,9 @@ def main():
 
             # Set wild encounters for the current location
             curr_location, section = line.split(" (", 1) if "(" in line else (line, None)
-            wild_encounters[curr_location] = wild_encounters.get(curr_location, "")
+            wild_encounters[curr_location] = wild_encounters.get(
+                curr_location, f"# {curr_location} — Wild Pokémon\n\n"
+            )
             wild_encounters[curr_location] += f"---\n\n## {section[:-1]}\n\n" if section else ""
             curr_encounter = None
         # List changes

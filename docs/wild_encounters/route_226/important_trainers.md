@@ -1,4 +1,4 @@
-# Important Trainers
+# Route 226 — Important Trainers
 
 ### Ace Trainer Wyver
 

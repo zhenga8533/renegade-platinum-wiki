@@ -1,3 +1,5 @@
+# Oreburgh Mine — Wild Pokémon
+
 ---
 
 ## 1F

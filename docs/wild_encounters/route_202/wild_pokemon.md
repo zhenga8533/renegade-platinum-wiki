@@ -1,3 +1,5 @@
+# Route 202 — Wild Pokémon
+
 ### Walking
 
 | Sprite | Pokémon | Encounter Type | Level | Chance |

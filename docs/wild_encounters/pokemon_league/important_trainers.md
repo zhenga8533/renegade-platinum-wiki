@@ -1,4 +1,4 @@
-# Important Trainers
+# Pokémon League — Important Trainers
 
 ### PKMN Trainer Barry
 

@@ -1,4 +1,4 @@
-# Important Trainers
+# Valley Windworks — Important Trainers
 
 ### Commander Mars
 
