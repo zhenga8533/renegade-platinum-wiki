@@ -52,18 +52,12 @@
 
 ## About The Project
 
-🧠 About This Project
-Renegade Platinum Wiki Generator is a custom-built Python utility designed to automate the generation of a full documentation site for the ROM hacks Renegade Platinum—popular reimaginings of Pokémon Platinum created by Drayano.
+Renegade Platinum Wiki is a fully browsable, static documentation site built to showcase all gameplay changes introduced in the Pokémon ROM hack Renegade Platinum, created by Drayano. These hacks reimagine Pokémon Platinum with a significantly rebalanced difficulty, competitive viability, and expanded content.
 
-These ROM hacks introduce hundreds of game changes including:
-
-- Overhauled base stats, typings, abilities, and movesets for all 493 Pokémon
-- New wild Pokémon encounter tables across every route, cave, and landmark
-- Reworked trainer rosters including Gym Leaders, Rivals, and the Elite Four
-- Changes to item locations, held items, and trade evolution mechanics
-- Revised move learnsets and move tutor compatibility
+The purpose of this project is to provide an organized and easily searchable reference for players, content creators, and developers who want to understand and navigate the massive overhaul these hacks provide.
 
 📦 What This Tool Does
+
 The Renegade Platinum Wiki Generator reads and parses structured raw data files (provided as .txt files in the src/files/ directory), processes them via custom Python scripts (in the src/ directory), and generates organized, readable Markdown documentation into the docs/ directory. The final site is rendered using MkDocs, producing a clean, static site that can be hosted anywhere or viewed locally.
 
 📚 What’s Included in the Wiki
@@ -75,6 +69,7 @@ The Renegade Platinum Wiki Generator reads and parses structured raw data files 
 - Code Reference: Includes documented Action Replay codes tailored for Renegade Platinum.
 
 🎯 Why This Exists
+
 ROM hacks like Renegade Platinum are massive in scope, and documenting every game mechanic manually is a monumental task. This project removes that overhead by automating the entire documentation pipeline. It’s especially useful for:
 
 - Players who want to explore and understand game mechanics in detail
