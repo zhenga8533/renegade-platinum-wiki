@@ -1,0 +1,124 @@
+o-----------------------------------o
+| Pokémon Renegade Platinum         |
+| Move Changes (v1.3.0)             |
+o-----------------------------------o
+
+=========================================================
+General Changes
+=========================================================
+- The numbers of all moves (power, accuracy, PP, effect chance, priority) are updated to match Ultra Sun and Ultra Moon.
+- Curse is now a Ghost-type move as in Ultra Sun and Ultra Moon.
+- Charm, Moonlight and Sweet Kiss are now Fairy-type as in Ultra Sun and Ultra Moon.
+
+=========================================================
+Move Replacements
+=========================================================
+The following moves have been replaced with moves from later generations.
+Moves under the "Old Move" column are now unavailable.
+
+Old Move                New Move
+---------               ---------
+Barrage                 Draining Kiss
+Brine                   Scald
+Constrict               Icicle Crash
+Horn Drill              Drill Run
+Lunar Dance             Moonblast
+Luster Purge            Dazzling Gleam
+Mist Ball               Disarming Voice
+Sand Tomb               Bulldoze
+Submission              Play Rough
+Twister                 Hurricane
+Volt Tackle             Wild Charge
+
+=========================================================
+Move Modifications
+=========================================================
+Some moves have had changes to their numerical values.
+There are also some cases where moves have lost effects because it can't be replicated in the Gen IV engine.
+
+Aurora Beam
+Power: 65 >> 75
+PP: 20 >> 15
+
+Blaze Kick
+Power: 85 >> 90
+Accuracy: 90 >> 100
+
+Bubble Beam
+Power: 65 >> 75
+PP: 20 >> 15
+
+Chatter
+Power: 65 >> 90
+PP: 20 >> 15
+
+Cross Poison
+Power: 70 >> 90
+PP: 20 >> 15
+
+Cut
+Power: 50 >> 60
+Accuracy: 95% >> 100%
+PP: 30 >> 25
+Type: Normal >> Grass
+Effect: No Effect >> High Critical Ratio
+
+Disarming Voice
+Power: 40 >> 50
+
+Draining Kiss
+Power: 50 >> 75
+Recovery: 75% >> 50% (Engine limitation)
+
+Flame Wheel
+Power: 60 >> 75
+PP: 25 >> 15
+
+Fly
+Power: 90 >> 100
+Accuracy: 95% >> 100%
+
+Hurricane
+Effect: Confusion (30%) >> No Effect (Engine limitation)
+
+Needle Arm
+Power: 60 >> 90
+
+Poison Fang
+Power: 50 >> 65
+Accuracy: 100 > 95
+
+Poison Tail
+Power: 50 >> 90
+PP: 25 >> 15
+
+Rock Climb
+Power: 90 >> 80
+Accuracy: 85% >> 95%
+PP: 20 >> 10
+Type: Normal >> Rock
+
+Rock Smash
+Power: 40 >> 60
+
+Scald
+Effect: Burn (30%) + Self thaw + Thaw enemy frozen Pokémon >> Burn (30%) + Self thaw (Engine limitation)
+
+Shadow Claw
+Power: 65 >> 80
+PP: 15 >> 15
+
+Shadow Punch
+Power: 60 >> 80
+PP: 20 >> 15
+
+Sludge
+Power: 65 >> 75
+PP: 20 >> 15
+
+Strength:
+Power: 80 >> 100
+Effect: No Effect >> May Raise Attack (10%)
+
+Wild Charge
+Power: 90 >> 100

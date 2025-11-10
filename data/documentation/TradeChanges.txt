@@ -1,0 +1,47 @@
+o-----------------------------------o
+| Pokémon Renegade Platinum         |
+| Trade Changes (v1.3.0)            |
+o-----------------------------------o
+
+=========================================================
+General Changes
+=========================================================
+- Each of the four trades has been modified to accept different Pokémon.
+- The trade that was previously in Snowpoint City has been moved to Floaroma Town.
+- The mechanic that causes traded Pokémon to not listen to you without certain badges has been removed. Traded Pokémon will now always listen to your commands.
+
+Oreburgh City
+---
+You will be asked for a Ponyta in exchange for a Spheal.
+
+Gaia the Spheal
+- Item: Never-Melt Ice
+- IVs: 31 HP / 31 Atk / 15 Def / 31 SAtk / 15 SDef / 15 Spd
+- Nature: Quiet
+
+Floaroma Town
+---
+You will be asked for a Cherubi in exchange for a Skorupi.
+
+Spike the Skorupi
+- Item: Poison Barb
+- IVs: 15 HP / 31 Atk / 31 Def / 15 SAtk / 15 SDef / 31 Spd
+- Nature: Jolly
+
+Eterna City
+---
+You will be asked for a Snorunt in exchange for a Chatot.
+
+Macaw the Chatot
+- Item: Sharp Beak
+- IVs: 15 HP / 15 Atk / 15 Def / 31 SAtk / 31 SDef / 31 Spd
+- Nature: Modest
+
+Route 226
+---
+You will be asked for a Magikarp in exchange for a (German) Magikarp.
+
+Foppa the Magikarp
+- Item: Starf Berry
+- IVs: 31 HP / 31 Atk / 31 Def / 31 SAtk / 31 SDef / 31 Spd
+- Nature: Adamant
