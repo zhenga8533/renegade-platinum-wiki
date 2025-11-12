@@ -17,7 +17,7 @@ POKEDB_DATA_DIR = "data/pokedb"
 POKEDB_GENERATIONS = ["gen4"]
 POKEDB_VERSION_GROUPS = ["platinum", "diamond_pearl", "heartgold_soulsilver"]
 POKEDB_GAME_VERSIONS = ["platinum", "diamond", "pearl", "heartgold", "soulsilver"]
-POKEDB_SPRITE_VERSION = "platinum"
+POKEDB_SPRITE_VERSION = "heartgold_soulsilver"
 
 VERSION_GROUP = "platinum"
 VERSION_GROUP_FRIENDLY = "Platinum"

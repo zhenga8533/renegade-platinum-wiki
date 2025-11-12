@@ -1,7 +1,8 @@
 data/*pokedb/
 data/locations/
 logs/
-docs/
+docs/locations/
+docs/pokedex/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
