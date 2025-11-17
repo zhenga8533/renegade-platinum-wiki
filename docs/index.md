@@ -1,16 +1,18 @@
-# Welcome to Pokémon Renegade Platinum
+# Welcome to Pokémon Renegade Plat!
+
+## :material-information: General Notes
 
 !!! info "About This Hack"
 
     Pokémon Renegade Platinum is an enhancement hack of Pokémon Platinum Version, similar to **Sacred Gold & Storm Silver** and **Blaze Black & Volt White**.
 
-    This hack keeps the same story flow as the original Pokémon Platinum but adds significant gameplay improvements, including:
+This hack keeps the same story flow as the original Pokémon Platinum but adds significant gameplay improvements, including:
 
-    - Access to all 493 Pokémon
-    - Revamped trainers with tougher boss fights
-    - Optional Pokémon buffs
-    - Removal of trade-only evolutions
-    - Numerous quality of life changes.
+- Access to all 493 Pokémon
+- Revamped trainers with tougher boss fights
+- Optional Pokémon buffs
+- Removal of trade-only evolutions
+- Numerous quality of life changes.
 
 ---
 

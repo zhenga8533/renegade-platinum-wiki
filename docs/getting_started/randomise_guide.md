@@ -75,9 +75,7 @@ You need the following:
     2. Export the files corresponding to the elements you randomized
     3. See the **File Mapping Table** below for file locations
 
----
-
-## File Mapping Table
+#### File Mapping Table
 
 !!! info "File Locations"
 
