@@ -9,7 +9,7 @@ This parser:
 from .base_parser import BaseParser
 
 
-class SpecialEventsParser(BaseParser):
+class TypeChangesParser(BaseParser):
     """Parser for  documentation.
 
     Args:

@@ -3,13 +3,14 @@ Parser for  documentation file.
 
 This parser:
 1. Reads data/documentation/.txt
-2. Generates a markdown file to docs/.md
+2. Updates pokemon Item data in data/pokedb/parsed/
+3. Generates a markdown file to docs/.md
 """
 
 from .base_parser import BaseParser
 
 
-class SpecialEventsParser(BaseParser):
+class PokemonChangesParser(BaseParser):
     """Parser for  documentation.
 
     Args:
