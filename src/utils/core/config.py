@@ -46,6 +46,54 @@ PARSERS_REGISTRY: dict[str, dict[str, Any]] = {
         "input_file": "Evolution Changes.txt",
         "output_dir": "docs/changes",
     },
+    "item_changes": {
+        "module": "src.parsers.item_changes_parser",
+        "class": "ItemChangesParser",
+        "input_file": "Item Changes.txt",
+        "output_dir": "docs/changes",
+    },
+    "move_changes": {
+        "module": "src.parsers.move_changes_parser",
+        "class": "MoveChangesParser",
+        "input_file": "Move Changes.txt",
+        "output_dir": "docs/changes",
+    },
+    "pokemon_changes": {
+        "module": "src.parsers.pokemon_changes_parser",
+        "class": "PokemonChangesParser",
+        "input_file": "Pokemon Changes.txt",
+        "output_dir": "docs/changes",
+    },
+    "special_events": {
+        "module": "src.parsers.special_events_parser",
+        "class": "SpecialEventsParser",
+        "input_file": "Special Events.txt",
+        "output_dir": "docs/reference",
+    },
+    "trade_changes": {
+        "module": "src.parsers.trade_changes_parser",
+        "class": "TradeChangesParser",
+        "input_file": "Trade Changes.txt",
+        "output_dir": "docs/changes",
+    },
+    "trainer_pokemon": {
+        "module": "src.parsers.trainer_pokemon_parser",
+        "class": "TrainerPokemonParser",
+        "input_file": "Trainer Pokemon.txt",
+        "output_dir": "docs/reference",
+    },
+    "type_changes": {
+        "module": "src.parsers.type_changes_parser",
+        "class": "TypeChangesParser",
+        "input_file": "Type Changes.txt",
+        "output_dir": "docs/changes",
+    },
+    "wild_pokemon": {
+        "module": "src.parsers.wild_pokemon_parser",
+        "class": "WildPokemonParser",
+        "input_file": "Wild Pokemon.txt",
+        "output_dir": "docs/reference",
+    },
 }
 
 PARSER_DEX_RELATIVE_PATH = ".."
