@@ -3,7 +3,7 @@ Parser for Special Events documentation file.
 
 This parser:
 1. Reads data/documentation/SpecialEvents.txt
-2. Generates a markdown file to docs/Special Events.md
+2. Generates a markdown file to docs/special_events.md
 """
 
 import re
@@ -47,6 +47,7 @@ class SpecialEventsParser(BaseParser):
         """
         next_line = self.peek_line(1)
 
+        # Matches: Next line is '---'
         if next_line == "---":
             self._markdown += f"### {line}\n"
             if not line.startswith("#"):
@@ -56,11 +57,14 @@ class SpecialEventsParser(BaseParser):
             self._markdown += f"\n{format_pokemon_card_grid(
                 pokemon, relative_path='../pokedex/pokemon'
             )}\n"
+        # Matches: '---'
         elif line == "---":
             self._markdown += "\n"
+        # Matches: 'Key: Value'
         elif match := re.match(r"^(.*): (.*)$", line):
             key, value = match.groups()
             self._markdown += f"**{key}**: {value}\n"
+        # Default: regular text line
         else:
             self.parse_default(line)
 
