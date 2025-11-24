@@ -83,52 +83,44 @@ class MoveChangesParser(BaseParser):
                 updated = False
 
                 # Update power
-                if hasattr(gen7_move, "power") and hasattr(parsed_move, "power"):
-                    gen7_power = self._get_version_value(gen7_move.power)
-                    parsed_power = self._get_version_value(parsed_move.power)
-                    if gen7_power != parsed_power:
-                        self._set_all_versions(parsed_move.power, gen7_power)
-                        updated = True
+                gen7_power = self._get_version_value(gen7_move.power)
+                parsed_power = self._get_version_value(parsed_move.power)
+                if gen7_power != parsed_power:
+                    self._set_all_versions(parsed_move.power, gen7_power)
+                    updated = True
 
                 # Update accuracy
-                if hasattr(gen7_move, "accuracy") and hasattr(parsed_move, "accuracy"):
-                    gen7_acc = self._get_version_value(gen7_move.accuracy)
-                    parsed_acc = self._get_version_value(parsed_move.accuracy)
-                    if gen7_acc != parsed_acc:
-                        self._set_all_versions(parsed_move.accuracy, gen7_acc)
-                        updated = True
+                gen7_acc = self._get_version_value(gen7_move.accuracy)
+                parsed_acc = self._get_version_value(parsed_move.accuracy)
+                if gen7_acc != parsed_acc:
+                    self._set_all_versions(parsed_move.accuracy, gen7_acc)
+                    updated = True
 
                 # Update PP
-                if hasattr(gen7_move, "pp") and hasattr(parsed_move, "pp"):
-                    gen7_pp = self._get_version_value(gen7_move.pp)
-                    parsed_pp = self._get_version_value(parsed_move.pp)
-                    if gen7_pp != parsed_pp:
-                        self._set_all_versions(parsed_move.pp, gen7_pp)
-                        updated = True
+                gen7_pp = self._get_version_value(gen7_move.pp)
+                parsed_pp = self._get_version_value(parsed_move.pp)
+                if gen7_pp != parsed_pp:
+                    self._set_all_versions(parsed_move.pp, gen7_pp)
+                    updated = True
 
                 # Update effect_chance
-                if hasattr(gen7_move, "effect_chance") and hasattr(
-                    parsed_move, "effect_chance"
-                ):
-                    gen7_chance = self._get_version_value(gen7_move.effect_chance)
-                    parsed_chance = self._get_version_value(parsed_move.effect_chance)
-                    if gen7_chance != parsed_chance:
-                        self._set_all_versions(parsed_move.effect_chance, gen7_chance)
-                        updated = True
+                gen7_chance = self._get_version_value(gen7_move.effect_chance)
+                parsed_chance = self._get_version_value(parsed_move.effect_chance)
+                if gen7_chance != parsed_chance:
+                    self._set_all_versions(parsed_move.effect_chance, gen7_chance)
+                    updated = True
 
                 # Update priority
-                if hasattr(gen7_move, "priority") and hasattr(parsed_move, "priority"):
-                    if gen7_move.priority != parsed_move.priority:
-                        parsed_move.priority = gen7_move.priority
-                        updated = True
+                if gen7_move.priority != parsed_move.priority:
+                    parsed_move.priority = gen7_move.priority
+                    updated = True
 
                 # Update type
-                if hasattr(gen7_move, "type") and hasattr(parsed_move, "type"):
-                    gen7_type = self._get_version_value(gen7_move.type)
-                    parsed_type = self._get_version_value(parsed_move.type)
-                    if gen7_type != parsed_type:
-                        self._set_all_versions(parsed_move.type, gen7_type)
-                        updated = True
+                gen7_type = self._get_version_value(gen7_move.type)
+                parsed_type = self._get_version_value(parsed_move.type)
+                if gen7_type != parsed_type:
+                    self._set_all_versions(parsed_move.type, gen7_type)
+                    updated = True
 
                 # Save if updated
                 if updated:

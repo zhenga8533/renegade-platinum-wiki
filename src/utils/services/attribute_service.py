@@ -197,16 +197,16 @@ class AttributeService:
         Args:
             pokemon_id (str): The ID of the Pokemon to update.
             pokemon_data (Pokemon): The Pokemon dataclass object.
-            value (str): The new ability string (e.g., "Overgrow / Overgrow / Chlorophyll").
+            value (str): The new ability string in format "Ability1 / Ability2" or "Ability1 / Ability2 / HiddenAbility".
 
         Returns:
             bool: True if the abilities were updated successfully, False otherwise.
         """
-        # Parse: "ability1 / ability2 / hidden_ability"
+        # Parse: "ability1 / ability2" or "ability1 / ability2 / hidden_ability"
         abilities = [name_to_id(a.strip()) for a in value.split(" / ")]
 
-        if len(abilities) != 3:
-            logger.warning(f"Invalid ability format (expected 3 abilities): {value}")
+        if len(abilities) not in [2, 3]:
+            logger.warning(f"Invalid ability format (expected 2 or 3 abilities): {value}")
             return False
 
         # Build new abilities list
@@ -214,7 +214,8 @@ class AttributeService:
         new_abilities = []
 
         for i, ability in enumerate(abilities):
-            if ability == "-" or not ability:
+            # Skip empty, dash, or "none" abilities
+            if ability == "-" or not ability or ability.lower() == "none":
                 continue
 
             # Validate ability exists in database
@@ -224,7 +225,10 @@ class AttributeService:
                     f"Ability '{ability}' not found in database. Skipping validation but saving anyway."
                 )
 
-            new_abilities.append({"name": ability, "is_hidden": i == 2, "slot": i + 1})
+            # For 2-ability format: both are regular abilities (slots 1 and 2, not hidden)
+            # For 3-ability format: first two are regular, third is hidden
+            is_hidden = (len(abilities) == 3 and i == 2)
+            new_abilities.append({"name": ability, "is_hidden": is_hidden, "slot": i + 1})
 
         # Update abilities
         pokemon_data.abilities = new_abilities

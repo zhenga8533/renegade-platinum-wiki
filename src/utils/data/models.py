@@ -1169,7 +1169,7 @@ class SpriteVersions:
 
     # Pre-declare attribute for static analysis (mypy/linter)
     # <-- EDIT HERE when switching generations
-    platinum: GenerationSprites
+    platinum: Optional[GenerationSprites]
 
     def __init__(self, data: dict[str, Any]):
         """Initialize the sprite version from config."""
@@ -1179,9 +1179,10 @@ class SpriteVersions:
         key = SPRITE_VERSION_KEY
         value = data.get(key)
 
+        # Sprite key is optional - set to None if not present
         if value is None:
-            raise ValueError(f"Missing required sprite key in data: {key}")
-        if isinstance(value, dict):
+            setattr(self, key, None)
+        elif isinstance(value, dict):
             # Ensure animated key exists with None default
             sprite_data = {**value}
             if 'animated' not in sprite_data:
