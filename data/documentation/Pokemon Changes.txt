@@ -21,6 +21,7 @@ Held Item Exceptions
 - Pelipper has a 5% chance to hold a Lucky Egg.
 - Absol has a 5% chance to hold a Life Orb.
 - Spiritomb has a 100% chance to hold a Smoke Ball.
+- Giratina has a 100% chance to hold a Griseous Orb.
 
 =========================================================
 Other Changes
@@ -443,7 +444,7 @@ Now compatible with HM02, Fly. (!!)
 
 Level Up:
 1 - Fury Attack
-10 - Twinneedle
+10 - Twineedle
 11 - Fury Attack
 13 - Rage
 15 - Toxic Spikes
@@ -2428,7 +2429,7 @@ Level Up:
 1 - Aurora Beam
 19 - Spike Cannon
 25 - Spikes
-31 - Twinneedle
+31 - Twineedle
 37 - Rock Blast
 43 - Icicle Crash
 
@@ -5462,7 +5463,7 @@ Base Stats (Complete):
 Old     48 HP / 72 Atk / 48 Def / 72 SAtk / 48 SDef / 48 Spd / 336 BST
 New     54 HP / 108 Atk / 54 Def / 108 SAtk / 54 SDef / 54 Spd / 432 BST
 
-Catch Rate
+Catch Rate:
 Old     225
 New     255
 
@@ -10225,7 +10226,7 @@ Ability (Complete):
 Old     Clear Body / None
 New     Rock Head / Clear Body
 
-Catch Rate
+Catch Rate:
 Old     3
 New     45
 
@@ -10242,7 +10243,7 @@ Ability (Complete):
 Old     Clear Body / None
 New     Iron Fist / Clear Body
 
-Catch Rate
+Catch Rate:
 Old     3
 New     45
 
@@ -10275,7 +10276,7 @@ Ability (Complete):
 Old     Clear Body / None
 New     Iron Fist / Clear Body
 
-Catch Rate
+Catch Rate:
 Old     3
 New     45
 
@@ -10841,7 +10842,7 @@ Level Up:
 397 - Staravia
 ===================
 Ability:
-Old     Intimdate / None
+Old     Intimidate / None
 New     Reckless / Intimidate
 
 Moves:
@@ -10868,7 +10869,7 @@ Level Up:
 398 - Staraptor
 ===================
 Ability:
-Old     Intimdate / None
+Old     Intimidate / None
 New     Reckless / Intimidate
 
 Moves:
@@ -13377,9 +13378,6 @@ Level Up:
 ===================
 487 - Giratina
 ===================
-Held Item:
-Now holds a Griseous Orb with a 100% rate.
-
 Level Up:
 1 - Dragon Breath
 1 - Scary Face
