@@ -116,7 +116,7 @@ Sludge
 Power: 65 >> 75
 PP: 20 >> 15
 
-Strength:
+Strength
 Power: 80 >> 100
 Effect: No Effect >> May Raise Attack (10%)
 
