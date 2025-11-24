@@ -1,10 +1,10 @@
 """
-Parser for  documentation file.
+Parser for Item Changes documentation file.
 
 This parser:
-1. Reads data/documentation/.txt
+1. Reads data/documentation/Item Changes.txt
 2. Updates pokemon Item data in data/pokedb/parsed/
-3. Generates a markdown file to docs/.md
+3. Generates a markdown file to docs/changes/item_changes.md
 """
 
 from .base_parser import BaseParser
@@ -17,12 +17,12 @@ class ItemChangesParser(BaseParser):
         BaseParser (_type_): Abstract base parser class
     """
 
-    def __init__(self, input_file: str, output_dir: str = "docs"):
-        """Initialize the  parser.
+    def __init__(self, input_file: str, output_dir: str = "docs/changes"):
+        """Initialize the Item Changes parser.
 
         Args:
             input_file (str): Path to the input file.
-            output_dir (str, optional): Path to the output directory. Defaults to "docs".
+            output_dir (str, optional): Path to the output directory. Defaults to "docs/changes".
         """
         super().__init__(input_file=input_file, output_dir=output_dir)
         self._sections = [""]

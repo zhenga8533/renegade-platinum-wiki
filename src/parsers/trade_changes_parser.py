@@ -3,7 +3,7 @@ Parser for Trade Changes documentation file.
 
 This parser:
 1. Reads data/documentation/Trade Changes.txt
-2. Generates a markdown file to docs/trade_changes.md
+2. Generates a markdown file to docs/changes/trade_changes.md
 """
 
 import re
@@ -23,12 +23,12 @@ class TradeChangesParser(BaseParser):
         BaseParser (_type_): Abstract base parser class
     """
 
-    def __init__(self, input_file: str, output_dir: str = "docs"):
+    def __init__(self, input_file: str, output_dir: str = "docs/changes"):
         """Initialize the Trade Changes parser.
 
         Args:
             input_file (str): Path to the input file.
-            output_dir (str, optional): Path to the output directory. Defaults to "docs".
+            output_dir (str, optional): Path to the output directory. Defaults to "docs/changes".
         """
         super().__init__(input_file=input_file, output_dir=output_dir)
         self._sections = ["General Changes"]

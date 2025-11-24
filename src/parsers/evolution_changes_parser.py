@@ -2,9 +2,9 @@
 Parser for Evolution Changes documentation file.
 
 This parser:
-1. Reads data/documentation/EvolutionChanges.txt
+1. Reads data/documentation/Evolution Changes.txt
 2. Updates pokemon evolution data in data/pokedb/parsed/
-3. Generates a markdown file to docs/evolution_changes.md
+3. Generates a markdown file to docs/changes/evolution_changes.md
 """
 
 import re

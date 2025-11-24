@@ -3,7 +3,7 @@ Parser for Special Events documentation file.
 
 This parser:
 1. Reads data/documentation/SpecialEvents.txt
-2. Generates a markdown file to docs/special_events.md
+2. Generates a markdown file to docs/reference/special_events.md
 """
 
 import re
@@ -21,12 +21,12 @@ class SpecialEventsParser(BaseParser):
         BaseParser (_type_): Abstract base parser class
     """
 
-    def __init__(self, input_file: str, output_dir: str = "docs"):
-        """Initialize the  parser.
+    def __init__(self, input_file: str, output_dir: str = "docs/reference"):
+        """Initialize the Special Events parser.
 
         Args:
             input_file (str): Path to the input file.
-            output_dir (str, optional): Path to the output directory. Defaults to "docs".
+            output_dir (str, optional): Path to the output directory. Defaults to "docs/reference".
         """
         super().__init__(input_file=input_file, output_dir=output_dir)
         self._sections = ["General Notes", "Gift Pokémon", "Legendary Encounters"]

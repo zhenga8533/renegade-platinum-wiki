@@ -1,27 +1,27 @@
 """
-Parser for  documentation file.
+Parser for Type Changes documentation file.
 
 This parser:
-1. Reads data/documentation/.txt
-2. Generates a markdown file to docs/.md
+1. Reads data/documentation/Type Changes.txt
+2. Generates a markdown file to docs/changes/type_changes.md
 """
 
 from .base_parser import BaseParser
 
 
 class TypeChangesParser(BaseParser):
-    """Parser for  documentation.
+    """Parser for Type Changes documentation.
 
     Args:
         BaseParser (_type_): Abstract base parser class
     """
 
-    def __init__(self, input_file: str, output_dir: str = "docs"):
-        """Initialize the  parser.
+    def __init__(self, input_file: str, output_dir: str = "docs/changes"):
+        """Initialize the Type Changes parser.
 
         Args:
             input_file (str): Path to the input file.
-            output_dir (str, optional): Path to the output directory. Defaults to "docs".
+            output_dir (str, optional): Path to the output directory. Defaults to "docs/changes".
         """
         super().__init__(input_file=input_file, output_dir=output_dir)
         self._sections = [""]
