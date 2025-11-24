@@ -36,8 +36,8 @@ class EvolutionChangesParser(BaseParser):
         super().__init__(input_file=input_file, output_dir=output_dir)
         self._sections = ["Item Interaction Changes", "Level Changes", "Method Changes"]
 
-        # Track if table header has been written for each section
-        self._table_started = False
+        # Table State
+        self._is_table_open = False
 
     def handle_section_change(self, new_section: str) -> None:
         """Handle logic when changing sections.
@@ -45,9 +45,8 @@ class EvolutionChangesParser(BaseParser):
         Args:
             new_section (str): Name of the new section being entered
         """
-        self._markdown += f"## {new_section}\n\n"
-        self._current_section = new_section
-        self._table_started = False
+        self._is_table_open = False
+        super().handle_section_change(new_section)
 
     def _start_table(self, headers: list[str]) -> None:
         """Start a markdown table with the given headers.
@@ -55,11 +54,11 @@ class EvolutionChangesParser(BaseParser):
         Args:
             headers (list[str]): Column headers for the table
         """
-        if not self._table_started:
+        if not self._is_table_open:
             self._markdown += (
                 create_table_header(headers, ["center", "center", "left"]) + "\n"
-            )
-            self._table_started = True
+            ) + "\n"
+            self._is_table_open = True
 
     def _update_evolution(
         self,
