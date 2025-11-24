@@ -7,6 +7,7 @@ o-----------------------------------o
 Modified Items
 =========================================================
 The following items now have a "Use" option like evolutionary stones:
+
 - Deep Sea Scale
 - Deep Sea Tooth
 - Dragon Scale
@@ -20,17 +21,20 @@ The following items now have a "Use" option like evolutionary stones:
 - Up-Grade
 
 The following items have had adjustments to their costs:
+
 - Poké Ball     ($200 >> $50)
 - Great Ball    ($600 >> $150)
 - Ultra Ball    ($1200 >> $300)
 
 The following items now cost zero and are thus unsellable:
+
 - All TMs
 
 =========================================================
 Modified TMs
 =========================================================
 The following TMs have had their moves changed (compatibility matches Ultra Sun and Ultra Moon plus extras as listed in Pokémon Changes):
+
 - TM55: Brine >> Scald
 - TM57: Charge Beam >> Wild Charge
 - TM62: Silver Wind >> Bug Buzz
@@ -39,6 +43,7 @@ The following TMs have had their moves changed (compatibility matches Ultra Sun 
 - TM88: Pluck >> Hurricane
 
 Additionally, all TMs will now have a quantity of 99 when obtained.
+
 - No TMs are available within Poké Marts.
 - An NPC at the Pokémon League can reset your inventory to have 99 of all TMs.
 
@@ -305,8 +310,11 @@ Zap Plate               Sunyshore City - Lighthouse
 Key Items
 =========================================================
 A * means the location has changed from the original Platinum.
+
 A ** means the key item is new to Renegade Platinum.
 
+Item                    Location                            Method
+---                     ---                                 ---
 Azure Flute             Hearthome City - Foreign Building   Gift from NPC       *
 Vs. Recorder            Jubilife City                       Gift from Looker
 Bicycle                 Twinleaf Town                       Gift from Mom       *

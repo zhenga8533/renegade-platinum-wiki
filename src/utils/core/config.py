@@ -14,7 +14,7 @@ from typing import Any
 POKEDB_REPO_URL = "https://github.com/zhenga8533/pokedb"
 POKEDB_BRANCH = "data"
 POKEDB_DATA_DIR = "data/pokedb"
-POKEDB_GENERATIONS = ["gen4"]
+POKEDB_GENERATIONS = ["gen4", "gen7"]
 POKEDB_VERSION_GROUPS = ["platinum", "diamond_pearl", "heartgold_soulsilver"]
 POKEDB_GAME_VERSIONS = ["platinum", "diamond", "pearl", "heartgold", "soulsilver"]
 POKEDB_SPRITE_VERSION = "heartgold_soulsilver"

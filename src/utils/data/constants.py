@@ -24,6 +24,8 @@ ITEM_DISPLAY_CASES: dict[str, str] = {
     "hm": "HM",
     "hp": "HP",
     "x-sp": "X Sp.",
+    "gs": "GS",
+    "ss": "S.S.",
 }
 
 ITEM_DISPLAY_ABBREVIATIONS: dict[str, str] = {
