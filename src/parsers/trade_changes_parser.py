@@ -8,6 +8,11 @@ This parser:
 
 import re
 
+from src.utils.formatters.markdown_formatter import (
+    format_pokemon,
+    format_pokemon_card_grid,
+)
+
 from .base_parser import BaseParser
 
 
@@ -38,18 +43,31 @@ class TradeChangesParser(BaseParser):
 
         # Matches: Next line is '---'
         if next_line == "---":
-            self._markdown += f"### {line}\n"
+            self._markdown += f"### {line}\n\n"
         # Matches: '---'
         elif line == "---":
             self._markdown += "\n"
-        elif match := re.match(r"^(\w+) the (\w+)$", line):
-            nickname, pokemon = match.groups()
+        # Matches: "You will be asked for a X in exchange for a Y."
         elif match := re.match(
-            r"^You will be asked for a (\w+) in exchange for a (.+?).$", line
+            r"^You will be asked for a (.+?) in exchange for a (.+?)\.$", line
         ):
             give, receive = match.groups()
-        elif match := re.match("^- (\w+): (.+?)$", line):
+
+            # Format the exchange text with Pokemon links
+            give_formatted = format_pokemon(give, has_sprite=False)
+            receive_formatted = format_pokemon(receive, has_sprite=False)
+
+            self._markdown += f"You will be asked for a {give_formatted} in exchange for a {receive_formatted}.\n\n"
+        # Matches: "Nickname the Pokemon"
+        elif match := re.match(r"^(\w+) the (.+?)$", line):
+            nickname, pokemon = match.groups()
+            self._markdown += format_pokemon_card_grid(
+                [pokemon], extra_info=[f"*{nickname}*"]
+            )
+        # Matches: "- Key: Value"
+        elif match := re.match(r"^- (.+?): (.+?)$", line):
             key, value = match.groups()
+            self._markdown += f"- **{key}**: {value}\n"
         # Default: regular text line
         else:
             self.parse_default(line)
