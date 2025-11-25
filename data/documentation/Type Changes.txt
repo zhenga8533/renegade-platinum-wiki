@@ -12,7 +12,7 @@ General Changes
 - For other type changes, they are only present in the Complete version of the hack. If you don't like these changes, use the Classic version patch instead.
 
 =========================================================
-Pokémon Type Changes (Complete version only)
+Pokémon Type Changes
 =========================================================
 
 Pokémon                 Old Type            New Type                Justification

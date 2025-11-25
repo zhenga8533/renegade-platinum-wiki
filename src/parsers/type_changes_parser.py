@@ -6,6 +6,10 @@ This parser:
 2. Generates a markdown file to docs/changes/type_changes.md
 """
 
+import re
+
+from src.utils.formatters.markdown_formatter import format_pokemon, format_type_badge
+
 from .base_parser import BaseParser
 
 
@@ -24,12 +28,71 @@ class TypeChangesParser(BaseParser):
             output_dir (str, optional): Path to the output directory. Defaults to "docs/changes".
         """
         super().__init__(input_file=input_file, output_dir=output_dir)
-        self._sections = [""]
+        self._sections = ["General Changes", "Pokémon Type Changes"]
 
-    def parse_(self, line: str) -> None:
-        """Parse a line from the .
+    def parse_general_changes(self, line: str) -> None:
+        """Parse a line from the General Changes section.
 
         Args:
-            line (str): A line from the .
+            line (str): A line from the General Changes section.
         """
         self.parse_default(line)
+
+    def parse_pokemon_type_changes(self, line: str) -> None:
+        """Parse a line from the Pokémon Type Changes section.
+
+        Args:
+            line (str): A line from the Pokémon Type Changes section.
+        """
+        if (
+            line
+            == "Pokémon                 Old Type            New Type                Justification"
+        ):
+            self._markdown += (
+                "| Number | Pokémon | Old Type | New Type | Justification |\n"
+            )
+        elif (
+            line
+            == "---                     ---                 ---                     ---"
+        ):
+            self._markdown += (
+                "|:-------|:-------:|:---------|:---------|:--------------|\n"
+            )
+        # Matches: #XXX Pokémon   Old Type   New Type   Justification
+        elif line.startswith("#"):
+            self._markdown += self._format_type_change_row(line)
+        # Default: regular text line
+        else:
+            self.parse_default(line)
+
+    def _format_type_change_row(self, line: str) -> str:
+        """Format a row in the type change table.
+
+        Args:
+            line (str): A line from the type change table.
+
+        Returns:
+            str: A formatted markdown table row.
+        """
+        pokemon, old_type, new_type, justification = re.split(r"\s{3,}", line)
+        number, pokemon = pokemon.split(" ", 1)
+        pokemon_html = format_pokemon(pokemon)
+
+        # Format old and new types with badges
+        old_types = old_type.split(" / ")
+        new_types = new_type.split(" / ")
+        old_type_badges = " ".join([format_type_badge(t) for t in old_types])
+        new_type_badges = " ".join([format_type_badge(t) for t in new_types])
+        old_type_html = f"<div class='badges-vstack'>{old_type_badges}</div>"
+        new_type_html = f"<div class='badges-vstack'>{new_type_badges}</div>"
+
+        # Format justification with line breaks
+        justification_lines = "<br>".join(
+            [
+                f"{idx+1}. {line.strip()}"
+                for idx, line in enumerate(justification.split("; "))
+            ]
+        )
+
+        md = f"| {number} | {pokemon_html} | {old_type_html} | {new_type_html} | {justification_lines} |\n"
+        return md
