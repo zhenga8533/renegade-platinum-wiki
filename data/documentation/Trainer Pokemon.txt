@@ -20,13 +20,13 @@ Area Changes
 =========================================================
 
 Route 201
-=================================================================================================================================================
+---
 PKMN Trainer Barry          Chimchar Lv. 5
 PKMN Trainer Barry          Piplup Lv. 5
 PKMN Trainer Barry          Turtwig Lv. 5
 
 Route 202
-=================================================================================================================================================
+---
 PKMN Trainer Dawn           Piplup Lv. 9
 PKMN Trainer Dawn           Turtwig Lv. 9
 PKMN Trainer Dawn           Chimchar Lv. 9
@@ -43,12 +43,12 @@ Youngster Tristan (5)       Noctowl Lv. 39, Staraptor Lv. 39
 Youngster Tristan (8)       Noctowl Lv. 59, Staraptor Lv. 59, Pidgeot Lv. 59
 
 Jubilife City Trainer School
-=================================================================================================================================================
+---
 Schoolkid Harrison          Abra Lv. 8, Psyduck Lv. 8
 Schoolkid Christine         Ralts Lv. 8, Staryu Lv. 8
 
 Route 204 ~ South
-=================================================================================================================================================
+---
 Lass Sarah                  Shinx Lv. 8, Nidoran♀ Lv. 8, Pidgey Lv. 8
 Lass Samantha (!)           Oddish Lv. 8, Budew Lv. 8, Bellsprout Lv. 8
 Youngster Tyler             Magikarp Lv. 11
@@ -59,7 +59,7 @@ Lass Samantha (5)           Luxio Lv. 38, Roselia Lv. 38, Weepinbell Lv. 38
 Lass Samantha (C)           Luxray Lv. 70, Roserade Lv. 70, Victreebel Lv. 70
 
 Route 203
-=================================================================================================================================================
+---
 PKMN Trainer Barry          Starly Lv. 10, Munchlax Lv. 10, Turtwig Lv. 11
 PKMN Trainer Barry          Starly Lv. 10, Munchlax Lv. 10, Chimchar Lv. 11
 PKMN Trainer Barry          Starly Lv. 10, Munchlax Lv. 10, Piplup Lv. 11
@@ -78,13 +78,13 @@ Lass Madeline (5)           Golduck Lv. 38, Sunflora Lv. 38, Lopunny Lv. 38
 Lass Madeline (8)           Golduck Lv. 59, Sunflora Lv. 59, Lopunny Lv. 59
 
 Oreburgh Gate
-=================================================================================================================================================
+---
 Camper Curtis               Seedot Lv. 10, Diglett Lv. 10
 Picnicker Diana             Whismur Lv. 10, Wooper Lv. 10
 Veteran Grant               Lucario Lv. 45, Golem Lv. 45, Staraptor Lv. 45
 
 Oreburgh City
-=================================================================================================================================================
+---
 Reporter Helen              Treecko Lv. 10, Torchic Lv. 10, Mudkip Lv. 10
 PKMN Trainer Steven         Skarmory Lv. 88, Aggron Lv. 88, Aerodactyl Lv. 88, Cradily Lv. 88, Armaldo Lv. 88, Metagross Lv. 89
 
@@ -97,12 +97,12 @@ Armaldo (Lv. 88) @ Passho Berry     /   ?           /   Battle Armor    /   Ston
 Metagross (Lv. 89) @ Life Orb       /   ?           /   Iron Fist       /   Meteor Mash, Zen Headbutt, Earthquake, Ice Punch
 
 Oreburgh Mine
-=================================================================================================================================================
+---
 Worker Mason                Aron Lv. 12, Phanpy Lv. 12, Riolu Lv. 12
 Worker Colin                Geodude Lv. 12, Whismur Lv. 12, Machop Lv. 12
 
 Oreburgh Gym
-=================================================================================================================================================
+---
 Youngster Jonathon          Rhyhorn Lv. 13, Omanyte Lv. 13, Kabuto Lv. 13
 Youngster Darius            Aron Lv. 13, Anorith Lv. 13, Lileep Lv. 13
 Leader Roark                Nosepass Lv. 15, Bonsly Lv. 15, Geodude Lv. 15, Onix Lv. 15, Larvitar Lv. 15, Cranidos Lv. 16
@@ -116,7 +116,7 @@ Larvitar (Lv. 15) @ Flame Orb       /   Jolly       /   Guts            /   Rock
 Cranidos (Lv. 16) @ Sitrus Berry    /   Hasty       /   Rock Head (!)   /   Zen Headbutt, Rock Tomb, Thunder Punch, Scary Face
 
 Jubilife City
-=================================================================================================================================================
+---
 Reporter Kayla              Bulbasaur Lv. 5, Charmander Lv. 5, Squirtle Lv. 5
 Galactic Grunt              Stunky Lv. 13, Silcoon Lv. 13
 Galactic Grunt              Glameow Lv. 13, Cascoon Lv. 13
@@ -128,7 +128,7 @@ PKMN Trainer Lucas          Snubbull Lv. 13, Turtwig Lv. 14
 PKMN Trainer Lucas          Snubbull Lv. 13, Chimchar Lv. 14
 
 Route 204 ~ North
-=================================================================================================================================================
+---
 Aroma Lady Taylor           Cherubi Lv. 13, Hoppip Lv. 13, Shroomish Lv. 13
 Bug Catcher Brandon (!)     Wurmple Lv. 14, Kricketune Lv. 14
 Twins Liv & Liz             Plusle Lv. 15, Minun Lv. 15
@@ -139,16 +139,16 @@ Bug Catcher Brandon (5)     Dustox Lv. 38, Kricketune Lv. 38, Scyther Lv. 38
 Bug Catcher Brandon (C)     Dustox Lv. 70, Kricketune Lv. 70, Scizor Lv. 70
 
 Floaroma Town
-=================================================================================================================================================
+---
 Reporter Jenny              Chikorita Lv. 15, Cyndaquil Lv. 15, Totodile Lv. 15
 
 Floaroma Meadow
-=================================================================================================================================================
+---
 Galactic Grunt              Zubat Lv. 15, Spinarak Lv. 15
 Galactic Grunt              Croagunk Lv. 15, Ledyba Lv. 15
 
 Valley Windworks
-=================================================================================================================================================
+---
 Galactic Grunt              Poochyena Lv. 14, Gulpin Lv. 14, Houndour Lv. 14
 Galactic Grunt              Grimer Lv. 15, Koffing Lv. 15
 Galactic Grunt              Kakuna Lv. 14, Pineco Lv. 14, Metapod Lv. 14
@@ -161,7 +161,7 @@ Yanma (Lv. 18) @ None               /   Timid       /   Speed Boost     /   Silv
 Purugly (Lv. 19) @ Sitrus Berry     /   Jolly       /   Thick Fat       /   Fake Out, Hypnosis, Facade, Feint Attack
 
 Route 205 ~ South
-=================================================================================================================================================
+---
 Hiker Daniel                Diglett Lv. 15, Shieldon Lv. 15, Numel Lv. 15
 Aroma Lady Elizabeth (!)    Chikorita Lv. 16, Bulbasaur Lv. 16
 Camper Jacob                Ponyta Lv. 15, Mareep Lv. 15, Buizel Lv. 15
@@ -183,7 +183,7 @@ Picnicker Karina (5)        Empoleon Lv. 39, Infernape Lv. 39
 Picnicker Karina (C)        Empoleon Lv. 71, Infernape Lv. 71
 
 Eterna Forest
-=================================================================================================================================================
+---
 PKMN Trainer Cheryl         Drifloon Lv. 19, Makuhita Lv. 19, Wailmer Lv. 19, Chansey Lv. 20
 Bug Catcher Jack            Surskit Lv. 16, Paras Lv. 16, Venonat Lv. 16
 Lass Briana                 Buneary Lv. 17, Marill Lv. 17
@@ -201,7 +201,7 @@ Wailmer (Lv. 19) @ None             /   Relaxed     /   Water Veil      /   Wate
 Chansey (Lv. 20) @ Sitrus Berry     /   Quiet       /   Serene Grace    /   Hyper Voice, Soft-Boiled, Ice Beam, Thunderbolt
 
 Route 205 ~ North
-=================================================================================================================================================
+---
 Fisherman Joseph (!)        Goldeen Lv. 18, Poliwag Lv. 18, Corphish Lv. 18
 Fisherman Andrew            Magikarp Lv. 18, Feebas Lv. 18, Magikarp Lv. 18
 Fisherman Zachary           Krabby Lv. 19, Finneon Lv. 19
@@ -211,7 +211,7 @@ Fisherman Joseph (5)        Seaking Lv. 38, Poliwhirl Lv. 38, Crawdaunt Lv. 38
 Fisherman Joseph (C)        Seaking Lv. 70, Politoed Lv. 70, Crawdaunt Lv. 70
 
 Route 211 ~ West
-=================================================================================================================================================
+---
 Ninja Boy Zach (!)          Zubat Lv. 19, Skorupi Lv. 19, Zubat Lv. 19
 Hiker Louis                 Geodude Lv. 19, Slugma Lv. 19, Beldum Lv. 19
 Bird Keeper Alexandra       Natu Lv. 20, Swablu Lv. 20, Staravia Lv. 20
@@ -222,7 +222,7 @@ Ninja Boy Zach (8)          Crobat Lv. 59, Drapion Lv. 59, Crobat Lv. 59
 Ninja Boy Zach (C)          Crobat Lv. 70, Drapion Lv. 70, Crobat Lv. 70
 
 Route 211 ~ East
-=================================================================================================================================================
+---
 Bird Keeper Katherine       Noctowl Lv. 22
 Ninja Boy Nick              Ninjask Lv. 20
 Black Belt Sean             Heracross Lv. 22
@@ -233,7 +233,7 @@ Ruin Maniac Harry (8)       Aerodactyl Lv. 61
 Ruin Maniac Harry (C)       Aerodactyl Lv. 72
 
 Route 216
-=================================================================================================================================================
+---
 Ace Trainer Blake           Porygon Lv. 23, Vigoroth Lv. 23
 Ace Trainer Maria           Quagsire Lv. 22, Quilava Lv. 22, Sudowoodo Lv. 22
 Ace Trainer Laura           Togetic Lv. 23, Swellow Lv. 23
@@ -254,7 +254,7 @@ Skier Andrea (8)            Abomasnow Lv. 61
 Skier Andrea (C)            Abomasnow Lv. 72
 
 Route 206
-=================================================================================================================================================
+---
 Cyclist Axel                Pichu Lv. 19, Pichu Lv. 19, Pikachu Lv. 19
 Cyclist Megan               Pidgeotto Lv. 21
 Cyclist James               Ponyta Lv. 20, Flaaffy Lv. 20
@@ -274,7 +274,7 @@ Cyclist Kayla (8)           Electrode Lv. 59, Magneton Lv. 59, Manectric Lv. 59
 Cyclist Kayla (C)           Electrode Lv. 70, Magnezone Lv. 70, Manectric Lv. 70
 
 Eterna Gym
-=================================================================================================================================================
+---
 Lass Caroline               Lotad Lv. 22, Cacnea Lv. 22, Exeggcute Lv. 22, Shroomish Lv. 22
 Aroma Lady Jenna            Weepinbell Lv. 23, Ivysaur Lv. 23, Gloom Lv. 23
 Aroma Lady Angela           Roselia Lv. 23, Bayleef Lv. 23, Skiploom Lv. 23
@@ -289,7 +289,7 @@ Breloom (Lv. 25) @ Muscle Band      /   Naughty     /   Technician      /   Bull
 Roserade (Lv. 26) @ Sitrus Berry    /   Timid       /   Technician      /   Magical Leaf, Sludge, Dazzling Gleam, Extrasensory
 
 Team Galactic Eterna Building
-=================================================================================================================================================
+---
 Galactic Grunt              Ledian Lv. 24, Ariados Lv. 24
 Galactic Grunt              Ekans Lv. 23, Glameow Lv. 23, Nidoran♀ Lv. 23
 Galactic Grunt              Koffing Lv. 23, Stunky Lv. 23, Nidoran♂ Lv. 23
@@ -306,7 +306,7 @@ Tangela (Lv. 26) @ None             /   Modest      /   Chlorophyll     /   Giga
 Skuntank (Lv. 27) @ Sitrus Berry    /   Adamant     /   Aftermath       /   Poison Jab, Night Slash, Focus Energy, Torment
 
 Route 207
-=================================================================================================================================================
+---
 Camper Anthony              Magby Lv. 24, Trapinch Lv. 24, Charmander Lv. 24
 Picnicker Lauren            Smoochum Lv. 24, Snubbull Lv. 24, Treecko Lv. 24
 Youngster Austin            Lombre Lv. 25, Gligar Lv. 25
@@ -342,7 +342,7 @@ Monferno (Lv. 30) @ Sitrus Berry    /   ?           /   Iron Fist       /   Flam
 Prinplup (Lv. 30) @ Sitrus Berry    /   ?           /   Torrent         /   Bubble Beam, Icy Wind, Brick Break, Shadow Claw (!)
 
 Wayward Cave
-=================================================================================================================================================
+---
 PKMN Trainer Mira           Togetic Lv. 27, Haunter Lv. 27, Porygon2 Lv. 27, Kadabra Lv. 28
 Hiker Reginald              Dugtrio Lv. 26
 Hiker Lorenzo               Rhyhorn Lv. 25, Sudowoodo Lv. 25
@@ -362,7 +362,7 @@ Porygon2 (Lv. 27) @ Expert Belt     /   Calm        /   Trace           /   Tri 
 Kadabra (Lv. 28) @ Life Orb         /   Modest      /   Magic Guard     /   Psybeam, Grass Knot, Dazzling Gleam, Recover
 
 Route 208
-=================================================================================================================================================
+---
 Hiker Robert                Marowak Lv. 28
 Hiker Jonathan              Hippopotas Lv. 26, Shuckle Lv. 26, Bronzor Lv. 26
 Black Belt Kyle             Machoke Lv. 29
@@ -385,7 +385,7 @@ Scizor (Lv. 31) @ Muscle Band       /   Adamant     /   Technician      /   X-Sc
 Drapion (Lv. 32) @ Scope Lens       /   Jolly       /   Sniper          /   Cross Poison, X-Scissor, Night Slash, Swords Dance
 
 Hearthome Gym
-=================================================================================================================================================
+---
 Youngster Donny             Gastly Lv. 27, Gastly Lv. 27, Gastly Lv. 27
 Lass Molly                  Misdreavus Lv. 29
 School Kid Chance           Duskull Lv. 26, Shuppet Lv. 26, Duskull Lv. 26
@@ -414,7 +414,7 @@ Monferno (Lv. 33) @ Sitrus Berry    /   ?           /   Iron Fist       /   Flam
 Prinplup (Lv. 33) @ Sitrus Berry    /   ?           /   Torrent         /   Scald, Icy Wind, Grass Knot, Aerial Ace         (!)
 
 Route 212 ~ North
-=================================================================================================================================================
+---
 Galactic Grunt              Mightyena Lv. 29, Arbok Lv. 29
 Galactic Grunt              Kricketune Lv. 30
 Galactic Grunt              Glameow Lv. 28, Koffing Lv. 28, Dustox Lv. 28
@@ -459,7 +459,7 @@ Raichu (Lv. 33) @ Wise Glasses      /   ?           /   Static          /   Fake
 Espeon (Lv. 33) @ Sitrus Berry      /   ?           /   Synchronize     /   Psychic, Power Gem, Dazzling Gleam, Protect
 
 Route 209
-=================================================================================================================================================
+---
 PKMN Breeder Albert (!)     Tyrogue Lv. 26, Chingling Lv. 26, Bonsly Lv. 26, Magby Lv. 26, Elekid Lv. 26, Mime Jr. Lv. 26
 Twins Emma & Lil            Vaporeon Lv. 30, Flareon Lv. 30
 Poké Kid Danielle (!)       Pichu Lv. 28, Pikachu Lv. 29, Raichu Lv. 30
@@ -481,7 +481,7 @@ PKMN Breeder Jennifer (8)   Azumarill Lv. 57, Togekiss Lv. 57, Clefable Lv. 57, 
 PKMN Breeder Jennifer (C)   Azumarill Lv. 68, Togekiss Lv. 68, Clefable Lv. 68, Wigglytuff Lv. 68, Jynx Lv. 68, Roserade Lv. 68
 
 Lost Tower
-=================================================================================================================================================
+---
 Youngster Oliver            Shellos Lv. 31, Barboach Lv. 31, Mothim Lv. 31
 Pokéfan Leonard             Plusle Lv. 31, Minun Lv. 31, Pachirisu Lv. 31
 Roughneck Kirby             Cleffa Lv. 33
@@ -490,11 +490,11 @@ Young Couple Mike & Nat     Murkrow Lv. 33, Misdreavus Lv. 33
 Belle & Pa Beth & Bob       Ponyta Lv. 33, Flaaffy Lv. 33
 
 Solaceon Ruins
-=================================================================================================================================================
+---
 Ruin Maniac Karl            Bronzor Lv. 31, Graveler Lv. 31, Sandslash Lv. 31
 
 Route 210 ~ South
-=================================================================================================================================================
+---
 Twins Teri & Tia            Furret Lv. 32, Linoone Lv. 32
 Jogger Wyatt                Electrode Lv. 33
 PKMN Breeder Kahlil         Riolu Lv. 31, Chingling Lv. 31, Munchlax Lv. 31
@@ -510,7 +510,7 @@ Rancher Marco (8)           Rapidash Lv. 59, Tauros Lv. 59, Miltank Lv. 59
 Rancher Marco (C)           Rapidash Lv. 70, Tauros Lv. 70, Miltank Lv. 70
 
 Route 215
-=================================================================================================================================================
+---
 Black Belt Derek            Combusken Lv. 34, Hitmonlee Lv. 34
 Black Belt Gregory          Primeape Lv. 34, Hitmonchan Lv. 34
 Black Belt Nathaniel        Machoke Lv. 34, Hitmontop Lv. 34
@@ -529,7 +529,7 @@ Ace Trainer Maya (7)        Lickilicky Lv. 62, Gardevoir Lv. 62, Roserade Lv. 62
 Ace Trainer Maya (S)        Lickilicky Lv. 77, Gardevoir Lv. 77, Roserade Lv. 77
 
 Veilstone Gym
-=================================================================================================================================================
+---
 Black Belt Colby            Machop Lv. 33, Meditite Lv. 33, Croagunk Lv. 33, Mankey Lv. 33, Makuhita Lv. 33
 Black Belt Darren           Primeape Lv. 35, Hariyama Lv. 35, Breloom Lv. 35
 Black Belt Jeffery          Heracross Lv. 36, Poliwrath Lv. 36
@@ -545,13 +545,13 @@ Gallade (Lv. 38) @ Light Clay       /   Brave       /   Steadfast           /   
 Lucario (Lv. 39) @ Focus Sash       /   Timid       /   Adaptability (!)    /   Aura Sphere, Flash Cannon, Dark Pulse, Agility
 
 Veilstone City
-=================================================================================================================================================
+---
 Dragon Tamer Nils           Dragonair Lv. 35, Shelgon Lv. 35, Vibrava Lv. 35, Kingdra Lv. 36
 Team Galactic Grunt         Weezing Lv. 35, Golbat Lv. 35, Venomoth Lv. 35
 Team Galactic Grunt         Skuntank Lv. 35, Dustox Lv. 35, Wormadam Lv. 35
 
 Route 214
-=================================================================================================================================================
+---
 PI Carlos (!)               Dugtrio Lv. 36
 Collector Douglas           Jolteon Lv. 33, Vaporeon Lv. 33, Flareon Lv. 33
 Collector Brady             Kangaskhan Lv. 33, Tropius Lv. 33, Swalot Lv. 33
@@ -571,7 +571,7 @@ Psychic Abigail (8)         Gardevoir Lv. 60, Chimecho Lv. 60, Girafarig Lv. 60
 Psychic Abigail (C)         Gardevoir Lv. 72, Chimecho Lv. 72, Girafarig Lv. 72
 
 Seven Stars Restaurant
-=================================================================================================================================================
+---
 Artist Ismael               Smeargle Lv. 37
 Beauty Harley               Golduck Lv. 37
 Rich Boy Roman              Arcanine Lv. 37
@@ -592,7 +592,7 @@ Scientist Emilio            Alakazam Lv. 37
 Pokémon Breeder Kaylee      Azumarill Lv. 37
 
 Route 213
-=================================================================================================================================================
+---
 Beauty Cyndy (!)            Delcatty Lv. 37, Persian Lv. 37
 Fisherman Kenneth           Carvanha Lv. 36, Remoraid Lv. 36, Horsea Lv. 36
 Tuber Jared (!)             Gastrodon Lv. 37
@@ -613,7 +613,7 @@ Tuber Chelsea (8)           Azumarill Lv. 59
 Tuber Chelsea (C)           Azumarill Lv. 69
 
 Route 212 ~ South
-=================================================================================================================================================
+---
 Parasol Lady Sabrina        Castform Lv. 39
 Scientist Shaun (!)         Magneton Lv. 37, Electrode Lv. 37, Porygon2 Lv. 37
 Pokémon Ranger Taylor (!)   Carnivine Lv. 39, Kecleon Lv. 39, Electabuzz Lv. 39
@@ -642,7 +642,7 @@ Parasol Lady Alexa (8)      Kingdra Lv. 60, Golduck Lv. 60
 Parasol Lady Alexa (C)      Kingdra Lv. 71, Golduck Lv. 71
 
 Pastoria City
-=================================================================================================================================================
+---
 PKMN Trainer Barry          Staraptor Lv. 41, Heracross Lv. 41, Snorlax Lv. 41, Azumarill Lv. 41, Arcanine Lv. 41, Torterra Lv. 42
 PKMN Trainer Barry          Staraptor Lv. 41, Heracross Lv. 41, Snorlax Lv. 41, Azumarill Lv. 41, Breloom Lv. 41, Infernape Lv. 42
 PKMN Trainer Barry          Staraptor Lv. 41, Heracross Lv. 41, Snorlax Lv. 41, Breloom Lv. 41, Arcanine Lv. 41, Empoleon Lv. 42
@@ -659,7 +659,7 @@ Infernape (Lv. 42) @ Sitrus Berry   /   ?           /   Iron Fist       /   Flam
 Empoleon (Lv. 42) @ Sitrus Berry    /   ?           /   Torrent         /   Scald, Flash Cannon, Agility, Swagger               (!)
 
 Pastoria Gym
-=================================================================================================================================================
+---
 Tuber Jacky                 Bibarel Lv. 39, Wartortle Lv. 39, Sealeo Lv. 39
 Fisherman Walter            Whiscash Lv. 39, Lanturn Lv. 39, Seaking Lv. 39
 Sailor Damian               Pelipper Lv. 39, Croconaw Lv. 39, Golduck Lv. 39
@@ -677,7 +677,7 @@ Sharpedo (Lv. 43) @ Focus Sash      /   Naive       /   Speed Boost         /   
 Floatzel (Lv. 44) @ Life Orb        /   Naive       /   Swift Swim          /   Aqua Tail, Crunch, Ice Punch, Aqua Jet
 
 Route 210 ~ North
-=================================================================================================================================================
+---
 Ninja Boy Fabian            Toxicroak Lv. 41
 Ninja Boy Brennan           Ninjask Lv. 41
 Ninja Boy Bruce             Skuntank Lv. 41
@@ -731,7 +731,7 @@ Infernape (Lv. 45) @ Sitrus Berry   /   ?           /   Iron Fist       /   Fire
 Empoleon (Lv. 45) @ Sitrus Berry    /   ?           /   Torrent         /   Surf, Flash Cannon, Grass Knot, Featherdance            (!)
 
 Celestic Town
-=================================================================================================================================================
+---
 Galactic Grunt              Houndoom Lv. 43, Golbat Lv. 43, Beedrill Lv. 43
 Galactic Boss Cyrus         Crobat Lv. 45, Honchkrow Lv. 45, Magnezone Lv. 45, Weavile Lv. 46
 
@@ -742,7 +742,7 @@ Magnezone (Lv. 45) @ Life Orb       /   ?           /   Magnet Pull     /   Thun
 Weavile (Lv. 46) @ Expert Belt      /   ?           /   Technician (!)  /   Feint Attack, Icicle Crash, Ice Shard, Swords Dance
 
 Route 218
-=================================================================================================================================================
+---
 Fisherman Miguel (!)        Huntail Lv. 44, Gorebyss Lv. 44
 Fisherman Luc               Crawdaunt Lv. 45
 Sailor Skyler               Omastar Lv. 43, Kabutops Lv. 43, Relicanth Lv. 43
@@ -753,18 +753,18 @@ Fisherman Miguel (C)        Clamperl Lv. 70, Huntail Lv. 70, Gorebyss Lv. 70
 Guitarist Tony (C)          Kricketune Lv. 71, Exploud Lv. 71
 
 Fuego Ironworks
-=================================================================================================================================================
+---
 Worker Dillan               Machop Lv. 42, Machoke Lv. 43, Machamp Lv. 44
 Worker Holden               Magnemite Lv. 42, Magnemite Lv. 42, Steelix Lv. 45
 Worker Conrad               Magmar Lv. 43, Magcargo Lv. 43, Rapidash Lv. 43
 
 Route 219
-=================================================================================================================================================
+---
 Tuber Mariel                Azumarill Lv. 43, Vaporeon Lv. 43
 Tuber Trenton               Poliwhirl Lv. 42, Gastrodon Lv. 42, Bibarel Lv. 42
 
 Route 220
-=================================================================================================================================================
+---
 Swimmer Jessica             Seadra Lv. 43, Luvdisc Lv. 43, Seaking Lv. 43
 Swimmer Erica               Lumineon Lv. 44, Corsola Lv. 44
 Swimmer Adrian              Octillery Lv. 43, Tentacruel Lv. 43, Slowking Lv. 43
@@ -774,7 +774,7 @@ Swimmer Erik                Politoed Lv. 44, Lanturn Lv. 44
 Swimmer Katelyn             Floatzel Lv. 43, Medicham Lv. 43, Seaking Lv. 43
 
 Route 221
-=================================================================================================================================================
+---
 Swimmer Dillon              Swampert Lv. 46
 Swimmer Vanessa             Milotic Lv. 46
 Fisherman Cory              Whiscash Lv. 44, Kingler Lv. 44, Gyarados Lv. 44
@@ -788,7 +788,7 @@ Ace Trainer Jake (C)        Claydol Lv. 72, Charizard Lv. 72, Exeggutor Lv. 72, 
 Collector Ivan (C)          Togekiss Lv. 72, Blissey Lv. 72
 
 Pal Park
-=================================================================================================================================================
+---
 Castle Valet Darach         Gallade Lv. 48, Empoleon Lv. 48, Alakazam Lv. 48, Metagross Lv. 48, Staraptor Lv. 48, Entei Lv. 48
 
 Castle Valet Darach
@@ -800,7 +800,7 @@ Staraptor (Lv. 48) @ King's Rock    /   ?           /   Reckless        /   Retu
 Entei (Lv. 48) @ Shuca Berry        /   ?           /   Pressure        /   Sacred Fire, Stone Edge, Extreme Speed, Iron Head
 
 Canalave City
-=================================================================================================================================================
+---
 PKMN Trainer Barry          Staraptor Lv. 48, Heracross Lv. 48, Snorlax Lv. 48, Azumarill Lv. 48, Arcanine Lv. 48, Torterra Lv. 49
 PKMN Trainer Barry          Staraptor Lv. 48, Heracross Lv. 48, Snorlax Lv. 48, Azumarill Lv. 48, Breloom Lv. 48, Infernape Lv. 49
 PKMN Trainer Barry          Staraptor Lv. 48, Heracross Lv. 48, Snorlax Lv. 48, Breloom Lv. 48, Arcanine Lv. 48, Empoleon Lv. 49
@@ -817,7 +817,7 @@ Infernape (Lv. 49) @ Sitrus Berry   /   ?           /   Iron Fist       /   Fire
 Empoleon (Lv. 49) @ Sitrus Berry    /   ?           /   Torrent         /   Surf, Flash Cannon, Grass Knot, Agility             (!)
 
 Iron Island
-=================================================================================================================================================
+---
 PKMN Trainer Riley          Absol Lv. 49, Ursaring Lv. 49, Metagross Lv. 49, Salamence Lv. 49, Slaking Lv. 49, Lucario Lv. 50
 Camper Lawrence             Charmeleon Lv. 46, Ambipom Lv. 46, Floatzel Lv. 46
 Picnicker Summer            Grovyle Lv. 46, Fearow Lv. 46, Raichu Lv. 46
@@ -843,7 +843,7 @@ Slaking (Lv. 49) @ Sitrus Berry     /   ?           /   Truant          /   Body
 Lucario (Lv. 50) @ Life Orb         /   ?           /   Adaptability    /   High Jump Kick, Meteor Mash, Blaze Kick, Bullet Punch
 
 Canalave Gym
-=================================================================================================================================================
+---
 Black Belt Ricky            Steelix Lv. 51
 Worker Gary                 Magnemite Lv. 46, Aron Lv. 46, Bronzor Lv. 46, Beldum Lv. 46, Shieldon Lv. 46
 Worker Jackson              Magneton Lv. 48, Lairon Lv. 48, Metang Lv. 48
@@ -862,7 +862,7 @@ Aggron (Lv. 52) @ Focus Sash        /   Naughty     /   Rock Head       /   Head
 Bastiodon (Lv. 53) @ Leftovers      /   Sassy       /   Soundproof      /   Iron Head, Toxic, Protect, Metal Burst
 
 Lake Valor
-=================================================================================================================================================
+---
 Galactic Grunt              Purugly Lv. 50
 Galactic Grunt              Houndoom Lv. 50
 Galactic Grunt              Skuntank Lv. 50
@@ -876,7 +876,7 @@ Rhydon (Lv. 52) @ Muscle Band       /   ?           /   Rock Head       /   Ston
 Toxicroak (Lv. 53) @ Life Orb       /   ?           /   Dry Skin        /   Gunk Shot, Cross Chop, Fake Out, Sucker Punch
 
 Lake Verity
-=================================================================================================================================================
+---
 Galactic Grunt              Beautifly Lv. 50, Butterfree Lv. 50
 Galactic Grunt              Dustox Lv. 50, Beedrill Lv. 50
 Galactic Grunt              Nidorino Lv. 49, Golbat Lv. 49, Wormadam Lv. 49
@@ -891,7 +891,7 @@ Kangaskhan (Lv. 52) @ Muscle Band   /   ?           /   Scrappy         /   Doub
 Purugly (Lv. 53) @ Sitrus Berry     /   ?           /   Thick Fat       /   Body Slam, Play Rough, Hypnosis, Fake Out
 
 Route 217
-=================================================================================================================================================
+---
 Ace Trainer Dalton (!)      Magmortar Lv. 52, Venusaur Lv. 52, Kingdra Lv. 52
 Skier Shawn                 Snover Lv. 49, Snover Lv. 49, Abomasnow Lv. 52
 Ninja Boy Matthew           Crobat Lv. 51
@@ -911,12 +911,12 @@ Skier Bjorn (C)             Mamoswine Lv. 72, Mamoswine Lv. 72, Mamoswine Lv. 72
 Ace Trainer Olivia (C)      Shiftry Lv. 72, Altaria Lv. 72, Blissey Lv. 72
 
 Snowpoint City
-=================================================================================================================================================
+---
 Ace Trainer Aran            Heracross Lv. 54, Typhlosion Lv. 54, Tyranitar Lv. 54
 Ace Trainer Nephenee        Blissey Lv. 54, Meganium Lv. 54, Feraligatr Lv. 54
 
 Snowpoint Gym
-=================================================================================================================================================
+---
 Ace Trainer Anton           Snorunt Lv. 51, Glalie Lv. 54, Glalie Lv. 54
 Ace Trainer Savannah        Seel Lv. 51, Jynx Lv. 54, Dewgong Lv. 54
 Ace Trainer Alicia          Spheal Lv. 51, Sealeo Lv. 53, Walrein Lv. 55
@@ -934,7 +934,7 @@ Mamoswine (Lv. 55) @ Passho Berry   /   Naive       /   Thick Fat           /   
 Froslass (Lv. 56) @ Life Orb        /   Modest      /   Levitate (!)        /   Blizzard, Shadow Ball, Thunderbolt, Attract
 
 Galactic HQ
-=================================================================================================================================================
+---
 Galactic Grunt              Golbat Lv. 53, Dustox Lv. 53, Parasect Lv. 53
 Galactic Grunt              Murkrow Lv. 54, Houndoom Lv. 54
 Galactic Grunt              Beautifly Lv. 53, Purugly Lv. 53, Vespiquen Lv. 53
@@ -966,32 +966,32 @@ Magmortar (Lv. 56) @ Choice Specs   /   ?           /   Flame Body      /   Fire
 Toxicroak (Lv. 57) @ Focus Sash     /   ?           /   Dry Skin        /   Cross Chop, Gunk Shot, Ice Punch, Fake Out
 
 Mt. Coronet ~ 3F
-=================================================================================================================================================
+---
 Galactic Grunt              Nidorina Lv. 54, Swalot Lv. 54, Persian Lv. 54
 Galactic Grunt              Nidorino Lv. 54, Drapion Lv. 54, Kricketune Lv. 54
 
 Mt. Coronet ~ 4F
-=================================================================================================================================================
+---
 Galactic Grunt              Houndoom Lv. 54, Golbat Lv. 54, Beedrill Lv. 54
 Galactic Grunt              Ledian Lv. 55, Weezing Lv. 55
 
 Mt. Coronet ~ Tunnel to Route 211 Entrance
-=================================================================================================================================================
+---
 Galactic Grunt              Golbat Lv. 56
 Galactic Grunt              Murkrow Lv. 54, Mightyena Lv. 54, Sneasel Lv. 54
 Galactic Grunt              Masquerain Lv. 55, Muk Lv. 55
 
 Mt. Coronet ~ 6F
-=================================================================================================================================================
+---
 Galactic Grunt              Golbat Lv. 55, Houndoom Lv. 55, Yanmega Lv. 55
 Galactic Grunt              Ariados Lv. 55, Persian Lv. 55, Forretress Lv. 55
 
 Mt. Coronet ~ 7F
-=================================================================================================================================================
+---
 Galactic Grunt              Murkrow Lv. 55, Golbat Lv. 55, Toxicroak Lv. 55, Pinsir Lv. 55
 
 Spear Pillar
-=================================================================================================================================================
+---
 Galactic Grunt              Toxicroak Lv. 56, Venomoth Lv. 56, Golbat Lv. 56
 Galactic Grunt              Persian Lv. 56, Beautifly Lv. 56, Hypno Lv. 56
 Commander Mars              Crobat Lv. 57, Yanmega Lv. 57, Bronzong Lv. 57, Electivire Lv. 57, Kangaskhan Lv. 57, Purugly Lv. 58
@@ -1018,7 +1018,7 @@ Gastrodon (Lv. 57) @ Wise Glasses   /   ?           /   Sticky Hold     /   Mudd
 Skuntank (Lv. 58) @ Sitrus Berry    /   ?           /   Aftermath       /   Gunk Shot, Crunch, Play Rough, Toxic
 
 Distortion World
-=================================================================================================================================================
+---
 Galactic Boss Cyrus         Palkia Lv. 70, Dialga Lv. 70
 Galactic Boss Cyrus         Crobat Lv. 59, Honchkrow Lv. 59, Houndoom Lv. 59, Gyarados Lv. 59, Magnezone Lv. 59, Weavile Lv. 60
 
@@ -1035,7 +1035,7 @@ Magnezone (Lv. 59) @ Wise Glasses   /   Modest      /   Magnet Pull     /   Thun
 Weavile (Lv. 60) @ Focus Sash       /   Jolly       /   Technician (!)  /   Feint Attack, Icicle Crash, Aerial Ace, Swords Dance
 
 Route 222
-=================================================================================================================================================
+---
 Rich Boy Trey (!)           Luxray Lv. 57, Sceptile Lv. 57, Linoone Lv. 57
 Beauty Nicola               Lopunny Lv. 57, Flareon Lv. 57, Meganium Lv. 57
 Policeman Thomas            Noctowl Lv. 59
@@ -1057,7 +1057,7 @@ Sailor Marc (S)             Lanturn Lv. 75, Machamp Lv. 75, Mantine Lv. 75
 Fisherman Alec (C)          Gyarados Lv. 70, Gyarados Lv. 70, Gyarados Lv. 70
 
 Sunyshore City
-=================================================================================================================================================
+---
 Arcade Star Dahlia          Blaziken Lv. 63, Dusknoir Lv. 63, Medicham Lv. 63, Togekiss Lv. 63, Ludicolo Lv. 63, Zapdos Lv. 63
 
 Blaziken (Lv. 63) @ Focus Sash      /   ?           /   Speed Boost     /   Swords Dance, Baton Pass, High Jump Kick, Blaze Kick
@@ -1068,7 +1068,7 @@ Ludicolo (Lv. 63) @ Life Orb        /   ?           /   Swift Swim      /   Hydr
 Zapdos (Lv. 63) @ Sitrus Berry      /   ?           /   Pressure        /   Thunderbolt, Heat Wave, Drill Peck, Light Screen
 
 Sunyshore Gym
-=================================================================================================================================================
+---
 School Kid Tiera            Plusle Lv. 56, Minun Lv. 56, Pachirisu Lv. 59
 School Kid Forrest          Elekid Lv. 56, Elekid Lv. 56, Electabuzz Lv. 59
 Guitarist Jerry             Electabuzz Lv. 60, Luxray Lv. 60
@@ -1088,7 +1088,7 @@ Luxray (Lv. 61) @ Choice Band       /   Naughty     /   Intimidate      /   Wild
 Electivire (Lv. 62) @ Life Orb      /   Jolly       /   Motor Drive     /   Wild Charge, Close Combat, Ice Punch, Earthquake
 
 Route 223
-=================================================================================================================================================
+---
 Swimmer Wesley (!)          Floatzel Lv. 59, Sharpedo Lv. 59, Qwilfish Lv. 59
 Swimmer Ricardo             Tentacruel Lv. 61
 Swimmer Francisco (!)       Ludicolo Lv. 59, Relicanth Lv. 59, Poliwrath Lv. 59
@@ -1111,7 +1111,7 @@ Swimmer Crystal (S)         Wailord Lv. 75, Seaking Lv. 75, Corsola Lv. 75
 Sailor Zachariah (S)        Kingler Lv. 74, Machamp Lv. 74, Gastrodon Lv. 74, Slowking Lv. 74
 
 Victory Road
-=================================================================================================================================================
+---
 Psychic Bryce               Gengar Lv. 63, Gardevoir Lv. 63, Exeggutor Lv. 63, Espeon Lv. 63
 Bird Keeper Hana            Noctowl Lv. 63, Dodrio Lv. 63, Farfetch'd Lv. 63, Pidgeot Lv. 63
 Ace Trainer Mariah          Blissey Lv. 63, Walrein Lv. 63, Aggron Lv. 63, Jumpluff Lv. 63, Mismagius Lv. 63
@@ -1128,7 +1128,7 @@ Veteran Edgar               Porygon-Z Lv. 64, Tangrowth Lv. 64, Empoleon Lv. 64,
 Dragon Tamer Clinton        Flygon Lv. 64, Gyarados Lv. 64, Dragonite Lv. 64, Aerodactyl Lv. 64
 
 Victory Road ~ East
-=================================================================================================================================================
+---
 PKMN Trainer Marley         Starmie Lv. 65, Electrode Lv. 65, Sceptile Lv. 65, Crobat Lv. 65, Weavile Lv. 65, Arcanine Lv. 66
 Ace Trainer Micah           Metagross Lv. 65, Ludicolo Lv. 65, Blaziken Lv. 65
 Ace Trainer Brandi          Nidoqueen Lv. 65, Kangaskhan Lv. 65, Jynx Lv. 65
@@ -1154,7 +1154,7 @@ Weavile (Lv. 65) @ Life Orb         /   ?           /   Technician      /   Crun
 Arcanine (Lv. 66) @ Sitrus Berry    /   ?           /   Intimidate      /   Flare Blitz, Close Combat, Crunch, Extreme Speed
 
 Route 224
-=================================================================================================================================================
+---
 Ace Trainer Ruben           Shiftry Lv. 67, Gyarados Lv. 67, Politoed Lv. 67, Leafeon Lv. 67
 Psychic Brittney            Hypno Lv. 66, Alakazam Lv. 66, Medicham Lv. 66, Lunatone Lv. 66
 Psychic Maxwell             Mismagius Lv. 66, Gengar Lv. 66, Slowbro Lv. 66, Solrock Lv. 66
@@ -1199,7 +1199,7 @@ Infernape (Lv. 70) @ Sitrus Berry   /   ?           /   Iron Fist       /   Blas
 Empoleon (Lv. 70) @ Sitrus Berry    /   ?           /   Torrent         /   Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam        (!)
 
 Pokémon League
-=================================================================================================================================================
+---
 Note: In the first round, each Elite Four member will use a random team out of the four listed when challenged.
 
 PKMN Trainer Barry          Staraptor Lv. 70, Heracross Lv. 70, Snorlax Lv. 70, Azumarill Lv. 70, Arcanine Lv. 70, Torterra Lv. 71
@@ -1449,7 +1449,7 @@ Milotic (Lv. 88) @ Flame Orb        /   ?           /   Marvel Scale        /   
 Rayquaza (Lv. 89) @ Focus Sash      /   ?           /   Air Lock            /   Outrage, Earthquake, Overheat, Dragon Dance
 
 Fight Area
-=================================================================================================================================================
+---
 Leader Volkner              Raichu Lv. 74, Jolteon Lv. 74, Electivire Lv. 75
 Elite Four Flint            Arcanine Lv. 74, Flareon Lv. 74, Magmortar Lv. 75
 PKMN Trainer Barry          Staraptor Lv. 74, Heracross Lv. 74, Snorlax Lv. 74, Azumarill Lv. 74, Arcanine Lv. 74, Torterra Lv. 75
@@ -1457,7 +1457,7 @@ PKMN Trainer Barry          Staraptor Lv. 74, Heracross Lv. 74, Snorlax Lv. 74, 
 PKMN Trainer Barry          Staraptor Lv. 74, Heracross Lv. 74, Snorlax Lv. 74, Breloom Lv. 74, Arcanine Lv. 74, Empoleon Lv. 75
 
 Route 225
-=================================================================================================================================================
+---
 Ace Trainer Rodolfo (!)         Starmie Lv. 73, Scizor Lv. 73, Sceptile Lv. 73, Ninetales Lv. 73
 PKMN Ranger Ashlee (!)          Linoone Lv. 73, Arbok Lv. 73, Butterfree Lv. 73
 Bird Keeper Audrey (!)          Farfetch'd Lv. 73, Swellow Lv. 73, Pidgeot Lv. 73
@@ -1485,7 +1485,7 @@ Tropius (Lv. 76) @ Leftovers        /   ?           /   Chlorophyll         /   
 Dragonite (Lv. 77) @ White Herb     /   ?           /   Marvel Scale (!)    /   Hurricane, Draco Meteor, Thunder, Ice Beam
 
 Route 226
-=================================================================================================================================================
+---
 Swimmer Lydia               Azumarill Lv. 73, Dewgong Lv. 73, Wailord Lv. 73
 Ace Trainer Graham          Tyrogue Lv. 74, Hitmonchan Lv. 74, Hitmonlee Lv. 74, Hitmontop Lv. 74
 Bird Keeper Geneva          Fearow Lv. 74, Xatu Lv. 74, Swellow Lv. 74
@@ -1502,7 +1502,7 @@ Garchomp (Lv. 76) @ Choice Scarf    /   ?           /   Rough Skin          /   
 Salamence (Lv. 77) @ Focus Sash     /   ?           /   Intimidate          /   Outrage, Aerial Ace, Dragon Dance, Earthquake
 
 Route 227
-=================================================================================================================================================
+---
 Ace Trainer Saul (!)        Tauros Lv. 78
 PKMN Ranger Felicia         Jumpluff Lv. 76, Lopunny Lv. 76
 Black Belt Griffin          Breloom Lv. 75, Medicham Lv. 75, Lucario Lv. 75
@@ -1530,7 +1530,7 @@ Cloyster (Lv. 77) @ Expert Belt     /   ?           /   Skill Link          /   
 Claydol (Lv. 78) @ Leftovers        /   ?           /   Levitate            /   Earth Power, Psychic, Ice Beam, Calm Mind
 
 Route 228
-=================================================================================================================================================
+---
 Ace Trainer Jose            Floatzel Lv. 76, Sandslash Lv. 76, Manectric Lv. 76
 Ace Trainer Moira (!)       Cacturne Lv. 76, Gastrodon Lv. 76, Claydol Lv. 76
 PKMN Ranger Kyler (!)       Exeggutor Lv. 75, Zangoose Lv. 75, Empoleon Lv. 75
@@ -1556,7 +1556,7 @@ Spiritomb (Lv. 76) @ Leftovers      /   ?           /   Pressure            /   
 Tyranitar (Lv. 77) @ Chople Berry   /   ?           /   Sand Stream         /   Crunch, Stone Edge, Iron Tail, Fire Punch
 
 Route 229
-=================================================================================================================================================
+---
 PKMN Ranger Deshawn         Spinda Lv. 74, Kecleon Lv. 74, Granbull Lv. 74
 Ace Trainer Felix           Dusknoir Lv. 76, Salamence Lv. 76
 Ace Trainer Dana            Mightyena Lv. 75, Gardevoir Lv. 75, Butterfree Lv. 75
@@ -1572,7 +1572,7 @@ Porygon-Z (Lv. 76) @ Life Orb       /   ?           /   Adaptability        /   
 Snorlax (Lv. 77) @ Leftovers        /   ?           /   Thick Fat           /   Body Slam, Earthquake, Curse, Slack Off
 
 Route 230
-=================================================================================================================================================
+---
 Swimmer Glenn (!)           Octillery Lv. 73, Politoed Lv. 73
 Swimmer Joanna (!)          Luvdisc Lv. 72, Corsola Lv. 72, Vaporeon Lv. 72
 Swimmer Kurt                Krabby Lv. 70, Corphish Lv. 70, Kingler Lv. 72, Crawdaunt Lv. 72
@@ -1594,11 +1594,11 @@ Mawile (Lv. 76) @ Focus Sash        /   ?           /   Huge Power (!)      /   
 Gardevoir (Lv. 77) @ Life Orb       /   ?           /   Synchronize         /   Moonblast, Psychic, Thunderbolt, Aura Sphere
 
 Stark Mountain ~ Outside
-=================================================================================================================================================
+---
 Dragon Tamer Darien         Dragonite Lv. 78
 
 Stark Mountain ~ Entrance
-=================================================================================================================================================
+---
 Commander Mars              Crobat Lv. 77, Yanmega Lv. 77, Bronzong Lv. 77, Electivire Lv. 77, Kangaskhan Lv. 77, Purugly Lv. 78
 Commander Jupiter           Bronzong Lv. 77, Sableye Lv. 77, Crobat Lv. 77, Tangrowth Lv. 77, Gastrodon Lv. 77, Skuntank Lv. 78
 
@@ -1619,7 +1619,7 @@ Gastrodon (Lv. 77) @ Wise Glasses   /   ?           /   Sticky Hold     /   Mudd
 Skuntank (Lv. 78) @ Sitrus Berry    /   ?           /   Aftermath       /   Gunk Shot, Crunch, Play Rough, Toxic
 
 Stark Mountain ~ Interior
-=================================================================================================================================================
+---
 Ace Trainer Keenan          Primeape Lv. 78, Banette Lv. 78, Electivire Lv. 78
 Ace Trainer Kassandra       Jumpluff Lv. 78, Ampharos Lv. 78, Steelix Lv. 78
 Ace Trainer Stefan          Tyranitar Lv. 78, Torterra Lv. 78, Aggron Lv. 78
@@ -1638,7 +1638,7 @@ Dragon Tamer Drake          Garchomp Lv. 78, Dragonite Lv. 78, Kingdra Lv. 78
 Black Belt Jarrett          Machamp Lv. 78, Blaziken Lv. 78, Poliwrath Lv. 78
 
 Battleground
-=================================================================================================================================================
+---
 Leader Roark                Sudowoodo Lv. 81, Probopass Lv. 81, Golem Lv. 81, Aerodactyl Lv. 81, Tyranitar Lv. 81, Rampardos Lv. 82
 Leader Gardenia             Cherrim Lv. 81, Tangrowth Lv. 81, Bellossom Lv. 81, Torterra Lv. 81, Breloom Lv. 81, Roserade Lv. 82
 Leader Fantina              Drifblim Lv. 81, Dusknoir Lv. 81, Banette Lv. 81, Spiritomb Lv. 81, Gengar Lv. 81, Mismagius Lv. 82
@@ -1669,46 +1669,46 @@ Commander Saturn            Bronzong Lv. 81, Octillery Lv. 81, Alakazam Lv. 81, 
 Galactic Boss Cyrus         Crobat Lv. 83, Honchkrow Lv. 83, Houndoom Lv. 83, Gyarados Lv. 83, Magnezone Lv. 83, Weavile Lv. 84
 
 Pokémon Center
-=================================================================================================================================================
-Reporter Kinsey             Drifloon Lv. 10, Shinx Lv. 10
-Reporter Kinsey (3)         Drifloon Lv. 30, Luxio Lv. 30
-Reporter Kinsey (5)         Drifblim Lv. 40, Luxray Lv. 40
-Reporter Kinsey (8)         Drifblim Lv. 60, Luxray Lv. 60
-Reporter Kinsey (C)         Drifblim Lv. 70, Luxray Lv. 70
-Reporter Kinsey (S)         Drifblim Lv. 80, Luxray Lv. 80
-Cameraman Tevin             Mime Jr. Lv. 10, Machop Lv. 10
-Cameraman Tevin (3)         Mime Jr. Lv. 30, Machoke Lv. 30
-Cameraman Tevin (5)         Mr. Mime Lv. 40, Machamp Lv. 40
-Cameraman Tevin (8)         Mr. Mime Lv. 60, Machamp Lv. 60
-Cameraman Tevin (C)         Mr. Mime Lv. 70, Machamp Lv. 70
-Cameraman Tevin (S)         Mr. Mime Lv. 80, Machamp Lv. 80
-Interviewers Roxy & Oli     Magnemite Lv. 10, Ralts Lv. 10
-Interviewers Roxy & Oli (3) Magneton Lv. 30, Kirlia Lv. 30
-Interviewers Roxy & Oli (5) Magnezone Lv. 40, Gardevoir Lv. 40
-Interviewers Roxy & Oli (8) Magnezone Lv. 60, Gardevoir Lv. 60
-Interviewers Roxy & Oli (C) Magnezone Lv. 70, Gardevoir Lv. 70
-Interviewers Roxy & Oli (S) Magnezone Lv. 80, Gardevoir Lv. 80
-Idol Grace                  Igglybuff Lv. 10, Cleffa Lv. 10
-Idol Grace (3)              Jigglypuff Lv. 30, Clefairy Lv. 30
-Idol Grace (5)              Wigglytuff Lv. 40, Clefable Lv. 40
-Idol Grace (8)              Wigglytuff Lv. 60, Clefable Lv. 60
-Idol Grace (C)              Wigglytuff Lv. 70, Clefable Lv. 70
-Idol Grace (S)              Wigglytuff Lv. 80, Clefable Lv. 80
-Guitarist Arturo            Kricketot Lv. 10, Voltorb Lv. 10
-Guitarist Arturo (3)        Kricketune Lv. 30, Electrode Lv. 30
-Guitarist Arturo (5)        Kricketune Lv. 40, Electrode Lv. 40
-Guitarist Arturo (8)        Kricketune Lv. 60, Electrode Lv. 60
-Guitarist Arturo (C)        Kricketune Lv. 70, Electrode Lv. 70
-Guitarist Arturo (S)        Kricketune Lv. 80, Electrode Lv. 80
-Poké Kid Ariel              Pichu Lv. 10, Pichu Lv. 10, Pichu Lv. 10
-Poké Kid Ariel (3)          Pichu Lv. 30, Pikachu Lv. 30, Pikachu Lv. 30
-Poké Kid Ariel (5)          Pichu Lv. 40, Pikachu Lv. 40, Raichu Lv. 40
-Poké Kid Ariel (8)          Pichu Lv. 60, Pikachu Lv. 60, Raichu Lv. 60
-Poké Kid Ariel (C)          Pichu Lv. 70, Pikachu Lv. 70, Raichu Lv. 70
-Poké Kid Ariel (S)          Pichu Lv. 80, Pikachu Lv. 80, Raichu Lv. 80
-Clown Lee                   Aipom Lv. 10, Abra Lv. 10
-Clown Lee (3)               Aipom Lv. 30, Kadabra Lv. 30
-Clown Lee (5)               Ambipom Lv. 40, Alakazam Lv. 40
-Clown Lee (8)               Ambipom Lv. 60, Alakazam Lv. 60
-Clown Lee (C)               Ambipom Lv. 70, Alakazam Lv. 70
-Clown Lee (S)               Ambipom Lv. 80, Alakazam Lv. 80
+---
+Reporter Kinsey              Drifloon Lv. 10, Shinx Lv. 10
+Reporter Kinsey (3)          Drifloon Lv. 30, Luxio Lv. 30
+Reporter Kinsey (5)          Drifblim Lv. 40, Luxray Lv. 40
+Reporter Kinsey (8)          Drifblim Lv. 60, Luxray Lv. 60
+Reporter Kinsey (C)          Drifblim Lv. 70, Luxray Lv. 70
+Reporter Kinsey (S)          Drifblim Lv. 80, Luxray Lv. 80
+Cameraman Tevin              Mime Jr. Lv. 10, Machop Lv. 10
+Cameraman Tevin (3)          Mime Jr. Lv. 30, Machoke Lv. 30
+Cameraman Tevin (5)          Mr. Mime Lv. 40, Machamp Lv. 40
+Cameraman Tevin (8)          Mr. Mime Lv. 60, Machamp Lv. 60
+Cameraman Tevin (C)          Mr. Mime Lv. 70, Machamp Lv. 70
+Cameraman Tevin (S)          Mr. Mime Lv. 80, Machamp Lv. 80
+Interviewers Roxy & Oli      Magnemite Lv. 10, Ralts Lv. 10
+Interviewers Roxy & Oli (3)  Magneton Lv. 30, Kirlia Lv. 30
+Interviewers Roxy & Oli (5)  Magnezone Lv. 40, Gardevoir Lv. 40
+Interviewers Roxy & Oli (8)  Magnezone Lv. 60, Gardevoir Lv. 60
+Interviewers Roxy & Oli (C)  Magnezone Lv. 70, Gardevoir Lv. 70
+Interviewers Roxy & Oli (S)  Magnezone Lv. 80, Gardevoir Lv. 80
+Idol Grace                   Igglybuff Lv. 10, Cleffa Lv. 10
+Idol Grace (3)               Jigglypuff Lv. 30, Clefairy Lv. 30
+Idol Grace (5)               Wigglytuff Lv. 40, Clefable Lv. 40
+Idol Grace (8)               Wigglytuff Lv. 60, Clefable Lv. 60
+Idol Grace (C)               Wigglytuff Lv. 70, Clefable Lv. 70
+Idol Grace (S)               Wigglytuff Lv. 80, Clefable Lv. 80
+Guitarist Arturo             Kricketot Lv. 10, Voltorb Lv. 10
+Guitarist Arturo (3)         Kricketune Lv. 30, Electrode Lv. 30
+Guitarist Arturo (5)         Kricketune Lv. 40, Electrode Lv. 40
+Guitarist Arturo (8)         Kricketune Lv. 60, Electrode Lv. 60
+Guitarist Arturo (C)         Kricketune Lv. 70, Electrode Lv. 70
+Guitarist Arturo (S)         Kricketune Lv. 80, Electrode Lv. 80
+Poké Kid Ariel               Pichu Lv. 10, Pichu Lv. 10, Pichu Lv. 10
+Poké Kid Ariel (3)           Pichu Lv. 30, Pikachu Lv. 30, Pikachu Lv. 30
+Poké Kid Ariel (5)           Pichu Lv. 40, Pikachu Lv. 40, Raichu Lv. 40
+Poké Kid Ariel (8)           Pichu Lv. 60, Pikachu Lv. 60, Raichu Lv. 60
+Poké Kid Ariel (C)           Pichu Lv. 70, Pikachu Lv. 70, Raichu Lv. 70
+Poké Kid Ariel (S)           Pichu Lv. 80, Pikachu Lv. 80, Raichu Lv. 80
+Clown Lee                    Aipom Lv. 10, Abra Lv. 10
+Clown Lee (3)                Aipom Lv. 30, Kadabra Lv. 30
+Clown Lee (5)                Ambipom Lv. 40, Alakazam Lv. 40
+Clown Lee (8)                Ambipom Lv. 60, Alakazam Lv. 60
+Clown Lee (C)                Ambipom Lv. 70, Alakazam Lv. 70
+Clown Lee (S)                Ambipom Lv. 80, Alakazam Lv. 80
