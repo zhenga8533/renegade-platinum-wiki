@@ -75,6 +75,95 @@ nav:
   - Wild Pokémon: reference/wild_pokemon.md
 - Locations:
   - Overview: locations/locations.md
+  - Acuity Lakefront: locations/data/acuity_lakefront.md
+  - Battleground: locations/data/battleground.md
+  - Canalave City: locations/data/canalave_city.md
+  - Canalave Gym: locations/data/canalave_gym.md
+  - Celestic Town: locations/data/celestic_town.md
+  - Distortion World: locations/data/distortion_world.md
+  - Eterna City: locations/data/eterna_city.md
+  - Eterna Forest: locations/data/eterna_forest.md
+  - Eterna Gym: locations/data/eterna_gym.md
+  - Fight Area: locations/data/fight_area.md
+  - Floaroma Meadow: locations/data/floaroma_meadow.md
+  - Floaroma Town: locations/data/floaroma_town.md
+  - Fuego Ironworks: locations/data/fuego_ironworks.md
+  - Galactic HQ: locations/data/galactic_hq.md
+  - Great Marsh: locations/data/great_marsh.md
+  - Hearthome Gym: locations/data/hearthome_gym.md
+  - Iron Island: locations/data/iron_island.md
+  - Jubilife City: locations/data/jubilife_city.md
+  - Jubilife City Trainer School: locations/data/jubilife_city_trainer_school.md
+  - Lake Acuity: locations/data/lake_acuity.md
+  - Lake Valor: locations/data/lake_valor.md
+  - Lake Verity: locations/data/lake_verity.md
+  - Lost Tower: locations/data/lost_tower.md
+  - Maniac Tunnel: locations/data/maniac_tunnel.md
+  - Mt. Coronet: locations/data/mt_coronet.md
+  - Old Chateau: locations/data/old_chateau.md
+  - Oreburgh City: locations/data/oreburgh_city.md
+  - Oreburgh Gate: locations/data/oreburgh_gate.md
+  - Oreburgh Gym: locations/data/oreburgh_gym.md
+  - Oreburgh Mine: locations/data/oreburgh_mine.md
+  - Pal Park: locations/data/pal_park.md
+  - Pastoria City: locations/data/pastoria_city.md
+  - Pastoria Gym: locations/data/pastoria_gym.md
+  - Pokémon Center: locations/data/pokmon_center.md
+  - Pokémon League: locations/data/pokmon_league.md
+  - Ravaged Path: locations/data/ravaged_path.md
+  - Resort Area: locations/data/resort_area.md
+  - Round 1: locations/data/round_1.md
+  - Round 2: locations/data/round_2.md
+  - Route 201: locations/data/route_201.md
+  - Route 202: locations/data/route_202.md
+  - Route 203: locations/data/route_203.md
+  - Route 204: locations/data/route_204.md
+  - Route 205: locations/data/route_205.md
+  - Route 206: locations/data/route_206.md
+  - Route 207: locations/data/route_207.md
+  - Route 208: locations/data/route_208.md
+  - Route 209: locations/data/route_209.md
+  - Route 210: locations/data/route_210.md
+  - Route 211: locations/data/route_211.md
+  - Route 212: locations/data/route_212.md
+  - Route 213: locations/data/route_213.md
+  - Route 214: locations/data/route_214.md
+  - Route 215: locations/data/route_215.md
+  - Route 216: locations/data/route_216.md
+  - Route 217: locations/data/route_217.md
+  - Route 218: locations/data/route_218.md
+  - Route 219: locations/data/route_219.md
+  - Route 220: locations/data/route_220.md
+  - Route 221: locations/data/route_221.md
+  - Route 222: locations/data/route_222.md
+  - Route 223: locations/data/route_223.md
+  - Route 224: locations/data/route_224.md
+  - Route 225: locations/data/route_225.md
+  - Route 226: locations/data/route_226.md
+  - Route 227: locations/data/route_227.md
+  - Route 228: locations/data/route_228.md
+  - Route 229: locations/data/route_229.md
+  - Route 230: locations/data/route_230.md
+  - Seven Stars Restaurant: locations/data/seven_stars_restaurant.md
+  - Snowpoint City: locations/data/snowpoint_city.md
+  - Snowpoint Gym: locations/data/snowpoint_gym.md
+  - Snowpoint Temple: locations/data/snowpoint_temple.md
+  - Solaceon Ruins: locations/data/solaceon_ruins.md
+  - Spear Pillar: locations/data/spear_pillar.md
+  - Stark Mountain: locations/data/stark_mountain.md
+  - Stark Mountain (Entrance): locations/data/stark_mountain_entrance.md
+  - Stark Mountain (Interior): locations/data/stark_mountain_interior.md
+  - Sunyshore City: locations/data/sunyshore_city.md
+  - Sunyshore Gym: locations/data/sunyshore_gym.md
+  - Team Galactic Eterna Building: locations/data/team_galactic_eterna_building.md
+  - Trophy Garden: locations/data/trophy_garden.md
+  - Twinleaf Town: locations/data/twinleaf_town.md
+  - Valley Windworks: locations/data/valley_windworks.md
+  - Valor Lakefront: locations/data/valor_lakefront.md
+  - Veilstone City: locations/data/veilstone_city.md
+  - Veilstone Gym: locations/data/veilstone_gym.md
+  - Victory Road: locations/data/victory_road.md
+  - Wayward Cave: locations/data/wayward_cave.md
 - Pokédex:
   - Pokémon:
     - Overview: pokedex/pokemon.md

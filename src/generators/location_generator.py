@@ -7,7 +7,7 @@ from trainer battles and wild encounters.
 This generator:
 1. Reads location data from data/locations/
 2. Generates individual markdown files for each location to docs/locations/
-3. Includes trainer battles, wild encounters, and hidden grottos
+3. Includes trainer battles and wild encounters
 4. Supports nested sublocations
 """
 
@@ -35,7 +35,6 @@ class LocationGenerator(BaseGenerator):
     Creates detailed pages for each location including:
     - Trainer battles with full team details
     - Wild encounters by method (grass, surf, fishing, etc.)
-    - Hidden Grotto encounters
     - Nested sublocations
     """
 
@@ -63,9 +62,8 @@ class LocationGenerator(BaseGenerator):
             "Location",
             "Trainers",
             "Wild Encounters",
-            "Hidden Grotto",
         ]
-        self.index_table_alignments = ["left", "center", "center", "center"]
+        self.index_table_alignments = ["left", "center", "center"]
 
         # Set up input directory
         self.input_dir = self.project_root / input_dir
@@ -189,15 +187,7 @@ class LocationGenerator(BaseGenerator):
             )
         wild_str = "✓" if has_wild else "—"
 
-        # Check for hidden grotto
-        has_grotto = bool(location_data.get("hidden_grotto"))
-        if not has_grotto and location_data.get("sublocations"):
-            has_grotto = self._has_hidden_grotto_in_sublocations(
-                location_data["sublocations"]
-            )
-        grotto_str = "✓" if has_grotto else "—"
-
-        return [link, trainer_str, wild_str, grotto_str]
+        return [link, trainer_str, wild_str]
 
     def generate_index(
         self,
@@ -271,7 +261,6 @@ class LocationGenerator(BaseGenerator):
         has_main_content = (
             location_data.get("trainers")
             or location_data.get("wild_encounters")
-            or location_data.get("hidden_grotto")
         )
 
         # If there are sublocations and main content, add "Main Area" header
@@ -303,7 +292,7 @@ class LocationGenerator(BaseGenerator):
     def _build_content_sections(
         self, data: Dict[str, Any], depth: int
     ) -> str:
-        """Build trainers, wild encounters, and hidden grotto sections with dynamic headers.
+        """Build trainers and wild encounters sections with dynamic headers.
 
         Args:
             data (Dict[str, Any]): Location or sublocation data.
@@ -328,13 +317,6 @@ class LocationGenerator(BaseGenerator):
             markdown += f"{header} Wild Encounters\n\n"
             markdown += self._build_wild_encounters_section(
                 data["wild_encounters"]
-            )
-
-        # Add hidden grotto section
-        if data.get("hidden_grotto"):
-            markdown += f"{header} Hidden Grotto\n\n"
-            markdown += self._build_hidden_grotto_section(
-                data["hidden_grotto"]
             )
 
         return markdown
@@ -368,7 +350,6 @@ class LocationGenerator(BaseGenerator):
             has_content = (
                 sublocation_data.get("trainers")
                 or sublocation_data.get("wild_encounters")
-                or sublocation_data.get("hidden_grotto")
             )
 
             # If there are nested sublocations and content, add "Main Section" header
@@ -402,36 +383,57 @@ class LocationGenerator(BaseGenerator):
         """
         markdown = ""
 
+        # Group trainers by name and sublocation to handle team variations
+        from collections import defaultdict
+        trainer_groups = defaultdict(list)
         for trainer in trainers:
-            # Trainer header
-            markdown += f"{trainer['name']}\n\n"
+            key = (trainer['name'], trainer.get('sublocation', ''))
+            trainer_groups[key].append(trainer)
 
-            # Trainer metadata
-            if trainer.get("reward"):
+        for (trainer_name, sublocation), trainer_list in trainer_groups.items():
+            # Trainer header
+            markdown += f"{trainer_name}\n\n"
+
+            # Trainer metadata (use first trainer's metadata)
+            first_trainer = trainer_list[0]
+            if first_trainer.get("reward"):
                 markdown += "**Reward:** "
                 markdown += ", ".join(
                     format_item(item, relative_path=GENERATOR_DEX_RELATIVE_PATH)
-                    for item in trainer["reward"]
+                    for item in first_trainer["reward"]
                 )
                 markdown += "\n\n"
 
-            if trainer.get("mode"):
-                markdown += f"**Mode:** {trainer['mode']}\n\n"
+            if first_trainer.get("mode"):
+                markdown += f"**Mode:** {first_trainer['mode']}\n\n"
 
-            if trainer.get("battle_type"):
-                markdown += f"**Battle Type:** {trainer['battle_type']}\n\n"
+            if first_trainer.get("battle_type"):
+                markdown += f"**Battle Type:** {first_trainer['battle_type']}\n\n"
 
-            if trainer.get("notes"):
-                markdown += f"{trainer['notes']}\n\n"
+            if first_trainer.get("notes"):
+                markdown += f"{first_trainer['notes']}\n\n"
 
             # Handle starter variations
-            if trainer.get("starter_variations"):
-                for starter, variation in trainer["starter_variations"].items():
+            if first_trainer.get("starter_variations"):
+                for starter, variation in first_trainer["starter_variations"].items():
                     markdown += f'=== "{starter}"\n\n'
                     markdown += self._build_team_table(variation["team"], indent=1)
+            # Handle multiple team variations
+            elif len(trainer_list) > 1:
+                for i, trainer in enumerate(trainer_list):
+                    # Use team_variation if present, otherwise use "Team N" format
+                    # If first team is "Default", rename to "Team 1"
+                    team_label = trainer.get("team_variation")
+                    if not team_label:
+                        team_label = f"Team {i+1}"
+                    elif team_label == "Default" and i == 0 and len(trainer_list) > 1:
+                        team_label = "Team 1"
+
+                    markdown += f'=== "{team_label}"\n\n'
+                    markdown += self._build_team_table(trainer["team"], indent=1)
             else:
-                # Regular team
-                markdown += self._build_team_table(trainer["team"])
+                # Single team
+                markdown += self._build_team_table(trainer_list[0]["team"])
 
         return markdown
 
@@ -449,31 +451,54 @@ class LocationGenerator(BaseGenerator):
             return ""
 
         tab = "\t" * indent
-        markdown = f"{tab}| Pokémon | Type(s) | Attributes | Moves |\n"
-        markdown += f"{tab}|:-------:|:-------:|:-----------|:------|\n"
 
-        for pokemon in team:
-            # Pokemon column
-            row = f"{tab}| {format_pokemon(pokemon['pokemon'], relative_path=GENERATOR_DEX_RELATIVE_PATH)} | "
+        # Check if this is a detailed team (has abilities/moves) or simple team
+        is_detailed = team and team[0].get("ability") is not None
 
-            # Type(s) column
-            badges = " ".join(format_type_badge(t) for t in pokemon["types"])
-            row += f"<div class='badges-vstack'>{badges}</div> | "
+        if is_detailed:
+            # Detailed format with abilities and moves
+            markdown = f"{tab}| Pokémon | Type(s) | Attributes | Moves |\n"
+            markdown += f"{tab}|:-------:|:-------:|:-----------|:------|\n"
 
-            # Attributes column
-            row += f"**Level:** {pokemon['level']}"
-            row += f"<br>**Ability:** {format_ability(pokemon['ability'], relative_path=GENERATOR_DEX_RELATIVE_PATH)}"
-            if pokemon.get("item"):
-                row += f"<br>**Item:** {format_item(pokemon['item'], relative_path=GENERATOR_DEX_RELATIVE_PATH)}"
-            row += " | "
+            for pokemon in team:
+                # Pokemon column
+                row = f"{tab}| {format_pokemon(pokemon['pokemon'], relative_path=GENERATOR_DEX_RELATIVE_PATH)} | "
 
-            # Moves column
-            for i, move in enumerate(pokemon["moves"]):
-                if i > 0:
-                    row += "<br>"
-                row += f"{i + 1}. {format_move(move, relative_path=GENERATOR_DEX_RELATIVE_PATH)}"
+                # Type(s) column
+                badges = " ".join(format_type_badge(t) for t in pokemon["types"])
+                row += f"<div class='badges-vstack'>{badges}</div> | "
 
-            markdown += row + " |\n"
+                # Attributes column
+                row += f"**Level:** {pokemon['level']}"
+                row += f"<br>**Ability:** {format_ability(pokemon['ability'], relative_path=GENERATOR_DEX_RELATIVE_PATH)}"
+                if pokemon.get("item"):
+                    row += f"<br>**Item:** {format_item(pokemon['item'], relative_path=GENERATOR_DEX_RELATIVE_PATH)}"
+                row += " | "
+
+                # Moves column
+                for i, move in enumerate(pokemon["moves"]):
+                    if i > 0:
+                        row += "<br>"
+                    row += f"{i + 1}. {format_move(move, relative_path=GENERATOR_DEX_RELATIVE_PATH)}"
+
+                markdown += row + " |\n"
+        else:
+            # Simple format with just Pokemon, Level, and Types
+            markdown = f"{tab}| Pokémon | Level | Type(s) |\n"
+            markdown += f"{tab}|:-------:|:------|:-------|\n"
+
+            for pokemon in team:
+                # Pokemon column
+                row = f"{tab}| {format_pokemon(pokemon['pokemon'], relative_path=GENERATOR_DEX_RELATIVE_PATH)} | "
+
+                # Level column
+                row += f"Lv. {pokemon['level']} | "
+
+                # Type(s) column
+                badges = " ".join(format_type_badge(t) for t in pokemon["types"])
+                row += f"<div class='badges-vstack'>{badges}</div> |"
+
+                markdown += row + "\n"
 
         markdown += "\n"
         return markdown
@@ -523,33 +548,6 @@ class LocationGenerator(BaseGenerator):
 
         return markdown
 
-    def _build_hidden_grotto_section(
-        self, hidden_grotto: Dict[str, List[Dict[str, Any]]]
-    ) -> str:
-        """Build markdown content for hidden grotto encounters.
-
-        Args:
-            hidden_grotto (Dict[str, List[Dict[str, Any]]]): Hidden grotto encounters by type.
-
-        Returns:
-            str: Markdown content for hidden grotto encounters.
-        """
-        markdown = ""
-
-        for encounter_type, encounters in hidden_grotto.items():
-            markdown += f'=== "{encounter_type}"\n\n'
-
-            pokemon_encounters = [e["pokemon"] for e in encounters]
-            pokemon_cards = format_pokemon_card_grid(
-                pokemon_encounters,
-                relative_path="../../pokedex/pokemon",
-                extra_info=[f"*{encounter_type.split(' ')[0]}*"]
-                * len(pokemon_encounters),
-            )
-            markdown += f"{'\n'.join(f'\t{l}'.rstrip() for l in pokemon_cards.splitlines())}\n\n"
-
-        return markdown
-
     def _count_trainers(self, location_data: Dict[str, Any]) -> int:
         """Count total trainers in a location including sublocations.
 
@@ -586,23 +584,6 @@ class LocationGenerator(BaseGenerator):
                 if self._has_wild_encounters_in_sublocations(
                     sublocation["sublocations"]
                 ):
-                    return True
-        return False
-
-    def _has_hidden_grotto_in_sublocations(self, sublocations: Dict[str, Any]) -> bool:
-        """Check if any sublocation has hidden grotto.
-
-        Args:
-            sublocations (Dict[str, Any]): Dictionary of sublocations.
-
-        Returns:
-            bool: True if any sublocation has hidden grotto.
-        """
-        for sublocation in sublocations.values():
-            if sublocation.get("hidden_grotto"):
-                return True
-            if sublocation.get("sublocations"):
-                if self._has_hidden_grotto_in_sublocations(sublocation["sublocations"]):
                     return True
         return False
 

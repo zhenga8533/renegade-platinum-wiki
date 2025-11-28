@@ -198,7 +198,7 @@
 | ![houndour](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/228.png){ .sprite }<br>[Houndour](../pokedex/pokemon/houndour.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> | 5 - 6 | 22% |
 
 
-### Route 204 ~ South
+#### Route 204 ~ South
 
 #### Morning
 
@@ -414,7 +414,7 @@
 | ![crawdaunt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/342.png){ .sprite }<br>[Crawdaunt](../pokedex/pokemon/crawdaunt.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> | 50 | 35% |
 
 
-### Oreburgh Gate ~ 1F
+#### Oreburgh Gate ~ 1F
 
 #### Morning
 
@@ -444,7 +444,7 @@
 | ![riolu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/447.png){ .sprite }<br>[Riolu](../pokedex/pokemon/riolu.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> | 7 - 9 | 10% |
 
 
-### Oreburgh Gate ~ B1F
+#### Oreburgh Gate ~ B1F
 
 #### Morning
 
@@ -551,7 +551,7 @@
 | ![munchlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/446.png){ .sprite }<br>[Munchlax](../pokedex/pokemon/munchlax.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> | 21 | 10% |
 
 
-### Oreburgh Mine ~ 1F
+#### Oreburgh Mine ~ 1F
 
 #### Morning
 
@@ -587,7 +587,7 @@
 | ![trapinch](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/328.png){ .sprite }<br>[Trapinch](../pokedex/pokemon/trapinch.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> | 9 - 10 | 10% |
 
 
-### Oreburgh Mine ~ B1F
+#### Oreburgh Mine ~ B1F
 
 #### Morning
 
@@ -623,7 +623,7 @@
 | ![trapinch](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/328.png){ .sprite }<br>[Trapinch](../pokedex/pokemon/trapinch.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> | 10 - 11 | 10% |
 
 
-### Route 204 ~ North
+#### Route 204 ~ North
 
 #### Morning
 
@@ -770,7 +770,7 @@
 | ![tangela](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/114.png){ .sprite }<br>[Tangela](../pokedex/pokemon/tangela.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span></div> | 12 | 10% |
 
 
-### Route 205 ~ South
+#### Route 205 ~ South
 
 #### Morning
 
@@ -897,7 +897,7 @@
 | ![dustox](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/269.png){ .sprite }<br>[Dustox](../pokedex/pokemon/dustox.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | 14 - 16 | 11% |
 
 
-### Eterna Forest (Outside)
+#### Eterna Forest ~ Outside
 
 #### Honey Tree
 
@@ -906,7 +906,7 @@
 | ![beedrill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/15.png){ .sprite }<br>[Beedrill](../pokedex/pokemon/beedrill.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | 15 | 100% |
 
 
-### Old Chateau (All Rooms)
+### Old Chateau
 
 #### Morning
 
@@ -942,7 +942,7 @@
 | ![haunter](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/93.png){ .sprite }<br>[Haunter](../pokedex/pokemon/haunter.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | 15 - 18 | 5% |
 
 
-### Route 205 ~ North
+#### Route 205 ~ North
 
 #### Morning
 
@@ -1059,7 +1059,7 @@
 | ![dragonair](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/148.png){ .sprite }<br>[Dragonair](../pokedex/pokemon/dragonair.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span></div> | 50 | 10% |
 
 
-### Route 211 ~ West
+#### Route 211 ~ West
 
 #### Morning
 
@@ -1101,7 +1101,7 @@
 | ![tyrogue](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/236.png){ .sprite }<br>[Tyrogue](../pokedex/pokemon/tyrogue.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> | 16 - 18 | 22% |
 
 
-### Mt. Coronet ~ Route 211 Entrance
+#### Mt. Coronet ~ Route 211 Entrance
 
 #### Morning
 
@@ -1146,7 +1146,7 @@
 | ![lunatone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/337.png){ .sprite }<br>[Lunatone](../pokedex/pokemon/lunatone.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> | 16 - 18 | 5% |
 
 
-### Route 211 ~ East
+#### Route 211 ~ East
 
 #### Morning
 
@@ -1198,7 +1198,7 @@
 | ![munchlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/446.png){ .sprite }<br>[Munchlax](../pokedex/pokemon/munchlax.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> | 18 | 10% |
 
 
-### Mt. Coronet ~ Tunnel to Route 211 Entrance
+#### Mt. Coronet ~ Tunnel to Route 211 Entrance
 
 #### Morning
 
@@ -1243,7 +1243,7 @@
 | ![lunatone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/337.png){ .sprite }<br>[Lunatone](../pokedex/pokemon/lunatone.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> | 18 - 19 | 5% |
 
 
-### Mt. Coronet ~ B1F
+#### Mt. Coronet ~ B1F
 
 #### Morning
 
@@ -1314,7 +1314,7 @@
 | ![feebas](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/349.png){ .sprite }<br>[Feebas](../pokedex/pokemon/feebas.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | 50 | 100% |
 
 
-### Mt. Coronet ~ Route 216 Entrance
+#### Mt. Coronet ~ Route 216 Entrance
 
 #### Morning
 
@@ -1454,7 +1454,7 @@
 | ![heracross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/214.png){ .sprite }<br>[Heracross](../pokedex/pokemon/heracross.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> | 21 | 10% |
 
 
-### Wayward Cave (Both)
+### Wayward Cave
 
 #### Morning
 
@@ -1496,7 +1496,7 @@
 | ![mawile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/303.png){ .sprite }<br>[Mawile](../pokedex/pokemon/mawile.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span></div> | 20 - 22 | 5% |
 
 
-### Mt. Coronet ~ Route 207 Entrance
+#### Mt. Coronet ~ Route 207 Entrance
 
 #### Morning
 
@@ -1658,7 +1658,7 @@
 | ![tangela](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/114.png){ .sprite }<br>[Tangela](../pokedex/pokemon/tangela.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span></div> | 23 | 10% |
 
 
-### Route 212 ~ North
+#### Route 212 ~ North
 
 #### Morning
 
@@ -1938,7 +1938,7 @@
 | ![unown](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/201.png){ .sprite }<br>[Unown](../pokedex/pokemon/unown.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> | 20 - 30 | 100% |
 
 
-### Route 210 ~ South
+#### Route 210 ~ South
 
 #### Morning
 
@@ -2331,7 +2331,7 @@
 | ![sharpedo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/319.png){ .sprite }<br>[Sharpedo](../pokedex/pokemon/sharpedo.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> | 50 | 10% |
 
 
-### Great Marsh ~ Area 1/2
+#### Great Marsh ~ Area 1/2
 
 #### Morning
 
@@ -2395,7 +2395,7 @@
 | ![sharpedo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/319.png){ .sprite }<br>[Sharpedo](../pokedex/pokemon/sharpedo.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> | 50 | 10% |
 
 
-### Great Marsh ~ Area 3/4
+#### Great Marsh ~ Area 3/4
 
 #### Morning
 
@@ -2462,7 +2462,7 @@
 | ![sharpedo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/319.png){ .sprite }<br>[Sharpedo](../pokedex/pokemon/sharpedo.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> | 50 | 10% |
 
 
-### Great Marsh ~ Area 5/6
+#### Great Marsh ~ Area 5/6
 
 #### Morning
 
@@ -2529,7 +2529,7 @@
 | ![sharpedo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/319.png){ .sprite }<br>[Sharpedo](../pokedex/pokemon/sharpedo.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> | 50 | 10% |
 
 
-### Route 212 ~ South
+#### Route 212 ~ South
 
 #### Morning
 
@@ -2614,14 +2614,14 @@
 
 | Pokémon | Type(s) | Level(s) | Chance |
 |:-------:|:-------:|:---------|:-------|
-| ![cherrim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/421.png){ .sprite }<br>[Cherrim](../pokedex/pokemon/cherrim.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span></div> | 33 | 30% |
-| ![shroomish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/285.png){ .sprite }<br>[Shroomish](../pokedex/pokemon/shroomish.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span></div> | 33 | 20% |
-| ![exeggcute](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/102.png){ .sprite }<br>[Exeggcute](../pokedex/pokemon/exeggcute.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> | 33 | 20% |
-| ![nuzleaf](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/274.png){ .sprite }<br>[Nuzleaf](../pokedex/pokemon/nuzleaf.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> | 33 | 20% |
-| ![tangela](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/114.png){ .sprite }<br>[Tangela](../pokedex/pokemon/tangela.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span></div> | 33 | 10% |
+| ![cherrim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/421.png){ .sprite }<br>[Cherrim](../pokedex/pokemon/cherrim.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span></div> | Unknown | 30% |
+| ![shroomish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/285.png){ .sprite }<br>[Shroomish](../pokedex/pokemon/shroomish.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span></div> | Unknown | 20% |
+| ![exeggcute](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/102.png){ .sprite }<br>[Exeggcute](../pokedex/pokemon/exeggcute.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> | Unknown | 20% |
+| ![nuzleaf](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/274.png){ .sprite }<br>[Nuzleaf](../pokedex/pokemon/nuzleaf.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> | Unknown | 20% |
+| ![tangela](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/114.png){ .sprite }<br>[Tangela](../pokedex/pokemon/tangela.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span></div> | Unknown | 10% |
 
 
-### Route 210 ~ North
+#### Route 210 ~ North
 
 #### Morning
 
@@ -2703,11 +2703,11 @@
 
 | Pokémon | Type(s) | Level(s) | Chance |
 |:-------:|:-------:|:---------|:-------|
-| ![staravia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/397.png){ .sprite }<br>[Staravia](../pokedex/pokemon/staravia.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | 33 | 30% |
-| ![pidgeotto](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/17.png){ .sprite }<br>[Pidgeotto](../pokedex/pokemon/pidgeotto.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | 33 | 20% |
-| ![noctowl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/164.png){ .sprite }<br>[Noctowl](../pokedex/pokemon/noctowl.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | 33 | 20% |
-| ![swellow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/277.png){ .sprite }<br>[Swellow](../pokedex/pokemon/swellow.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | 33 | 20% |
-| ![farfetchd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){ .sprite }<br>[Farfetchˈd](../pokedex/pokemon/farfetchd.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | 33 | 10% |
+| ![staravia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/397.png){ .sprite }<br>[Staravia](../pokedex/pokemon/staravia.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | Unknown | 30% |
+| ![pidgeotto](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/17.png){ .sprite }<br>[Pidgeotto](../pokedex/pokemon/pidgeotto.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | Unknown | 20% |
+| ![noctowl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/164.png){ .sprite }<br>[Noctowl](../pokedex/pokemon/noctowl.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | Unknown | 20% |
+| ![swellow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/277.png){ .sprite }<br>[Swellow](../pokedex/pokemon/swellow.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | Unknown | 20% |
+| ![farfetchd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){ .sprite }<br>[Farfetchˈd](../pokedex/pokemon/farfetchd.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | Unknown | 10% |
 
 
 ### Celestic Town
@@ -2856,10 +2856,10 @@ Wild Levels: 30 - 45 (Surf)
 
 | Pokémon | Type(s) | Level(s) | Chance |
 |:-------:|:-------:|:---------|:-------|
-| ![wingull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/278.png){ .sprite }<br>[Wingull](../pokedex/pokemon/wingull.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | 20 - 40 | 60% |
-| ![tentacool](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/72.png){ .sprite }<br>[Tentacool](../pokedex/pokemon/tentacool.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | 20 - 40 | 30% |
-| ![pelipper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/279.png){ .sprite }<br>[Pelipper](../pokedex/pokemon/pelipper.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | 20 - 40 | 5% |
-| ![tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){ .sprite }<br>[Tentacruel](../pokedex/pokemon/tentacruel.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | 20 - 40 | 5% |
+| ![wingull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/278.png){ .sprite }<br>[Wingull](../pokedex/pokemon/wingull.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | Unknown | 60% |
+| ![tentacool](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/72.png){ .sprite }<br>[Tentacool](../pokedex/pokemon/tentacool.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | Unknown | 30% |
+| ![pelipper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/279.png){ .sprite }<br>[Pelipper](../pokedex/pokemon/pelipper.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | Unknown | 5% |
+| ![tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){ .sprite }<br>[Tentacruel](../pokedex/pokemon/tentacruel.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | Unknown | 5% |
 
 #### Old Rod
 
@@ -2939,10 +2939,10 @@ Wild Levels: 30 - 45 (Surf)
 
 | Pokémon | Type(s) | Level(s) | Chance |
 |:-------:|:-------:|:---------|:-------|
-| ![shellos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/422.png){ .sprite }<br>[Shellos](../pokedex/pokemon/shellos.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | 20 - 40 | 60% |
-| ![tentacool](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/72.png){ .sprite }<br>[Tentacool](../pokedex/pokemon/tentacool.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | 20 - 40 | 30% |
-| ![gastrodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/423.png){ .sprite }<br>[Gastrodon](../pokedex/pokemon/gastrodon.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> | 20 - 40 | 5% |
-| ![tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){ .sprite }<br>[Tentacruel](../pokedex/pokemon/tentacruel.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | 20 - 40 | 5% |
+| ![shellos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/422.png){ .sprite }<br>[Shellos](../pokedex/pokemon/shellos.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | Unknown | 60% |
+| ![tentacool](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/72.png){ .sprite }<br>[Tentacool](../pokedex/pokemon/tentacool.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | Unknown | 30% |
+| ![gastrodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/423.png){ .sprite }<br>[Gastrodon](../pokedex/pokemon/gastrodon.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> | Unknown | 5% |
+| ![tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){ .sprite }<br>[Tentacruel](../pokedex/pokemon/tentacruel.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | Unknown | 5% |
 
 #### Old Rod
 
@@ -3102,7 +3102,7 @@ Wild Levels: 30 - 45 (Surf)
 | ![starmie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/121.png){ .sprite }<br>[Starmie](../pokedex/pokemon/starmie.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> | 50 | 10% |
 
 
-### Iron Island ~ Outside
+#### Iron Island ~ Outside
 
 #### Surf
 
@@ -3138,7 +3138,7 @@ Wild Levels: 30 - 45 (Surf)
 | ![qwilfish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/211.png){ .sprite }<br>[Qwilfish](../pokedex/pokemon/qwilfish.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | 50 | 10% |
 
 
-### Iron Island ~ Inside ~ 1F, B1F
+#### Iron Island ~ 1F, B1F
 
 #### Morning
 
@@ -3180,7 +3180,7 @@ Wild Levels: 30 - 45 (Surf)
 | ![steelix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/208.png){ .sprite }<br>[Steelix](../pokedex/pokemon/steelix.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> | 41 - 43 | 5% |
 
 
-### Iron Island ~ Inside ~ B2F, B3F
+#### Iron Island ~ B2F, B3F
 
 #### Morning
 
@@ -3419,7 +3419,7 @@ Wild Levels: 30 - 45 (Surf)
 | ![gyarados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/130.png){ .sprite }<br>[Gyarados](../pokedex/pokemon/gyarados.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | 50 | 100% |
 
 
-### Mt. Coronet ~ 2F
+#### Mt. Coronet ~ 2F
 
 #### Morning
 
@@ -3464,7 +3464,7 @@ Wild Levels: 30 - 45 (Surf)
 | ![lunatone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/337.png){ .sprite }<br>[Lunatone](../pokedex/pokemon/lunatone.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> | 49 - 51 | 5% |
 
 
-### Mt. Coronet ~ 3F
+#### Mt. Coronet ~ 3F
 
 #### Morning
 
@@ -3509,7 +3509,7 @@ Wild Levels: 30 - 45 (Surf)
 | ![lunatone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/337.png){ .sprite }<br>[Lunatone](../pokedex/pokemon/lunatone.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> | 49 - 51 | 5% |
 
 
-### Mt. Coronet ~ Snow Area
+#### Mt. Coronet ~ Snow Area
 
 #### Morning
 
@@ -3551,7 +3551,7 @@ Wild Levels: 30 - 45 (Surf)
 | ![clefable](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/36.png){ .sprite }<br>[Clefable](../pokedex/pokemon/clefable.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span></div> | 50 - 52 | 22% |
 
 
-### Mt. Coronet ~ 4F
+#### Mt. Coronet ~ 4F
 
 #### Morning
 
@@ -3627,7 +3627,7 @@ Wild Levels: 30 - 45 (Surf)
 | ![dragonair](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/148.png){ .sprite }<br>[Dragonair](../pokedex/pokemon/dragonair.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span></div> | 50 | 10% |
 
 
-### Mt. Coronet ~ Summit
+#### Mt. Coronet ~ Summit
 
 #### Morning
 
@@ -3669,7 +3669,7 @@ Wild Levels: 30 - 45 (Surf)
 | ![clefable](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/36.png){ .sprite }<br>[Clefable](../pokedex/pokemon/clefable.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span></div> | 51 - 53 | 22% |
 
 
-### Mt. Coronet ~ 5F
+#### Mt. Coronet ~ 5F
 
 #### Morning
 
@@ -3714,7 +3714,7 @@ Wild Levels: 30 - 45 (Surf)
 | ![lunatone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/337.png){ .sprite }<br>[Lunatone](../pokedex/pokemon/lunatone.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> | 51 - 53 | 5% |
 
 
-### Mt. Coronet ~ 6F
+#### Mt. Coronet ~ 6F
 
 #### Morning
 
@@ -3759,7 +3759,7 @@ Wild Levels: 30 - 45 (Surf)
 | ![lunatone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/337.png){ .sprite }<br>[Lunatone](../pokedex/pokemon/lunatone.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> | 51 - 53 | 5% |
 
 
-### Mt. Coronet ~ 7F
+#### Mt. Coronet ~ 7F
 
 #### Morning
 
@@ -3849,7 +3849,7 @@ Level: 53 - 54 (Walking), 45 - 55 (Surfing)
 
 | Pokémon | Type(s) | Level(s) | Chance |
 |:-------:|:-------:|:---------|:-------|
-| ![golduck](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/55.png){ .sprite }<br>[Golduck](../pokedex/pokemon/golduck.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> | 35 - 55 | 100% |
+| ![golduck](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/55.png){ .sprite }<br>[Golduck](../pokedex/pokemon/golduck.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> | Unknown | 100% |
 
 #### Old Rod
 
@@ -3912,8 +3912,8 @@ Level: 53 - 54 (Walking), 35 - 55 (Surfing)
 
 | Pokémon | Type(s) | Level(s) | Chance |
 |:-------:|:-------:|:---------|:-------|
-| ![surskit](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/283.png){ .sprite }<br>[Surskit](../pokedex/pokemon/surskit.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | 35 - 55 | 90% |
-| ![masquerain](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/284.png){ .sprite }<br>[Masquerain](../pokedex/pokemon/masquerain.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | 35 - 55 | 10% |
+| ![surskit](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/283.png){ .sprite }<br>[Surskit](../pokedex/pokemon/surskit.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | Unknown | 90% |
+| ![masquerain](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/284.png){ .sprite }<br>[Masquerain](../pokedex/pokemon/masquerain.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | Unknown | 10% |
 
 #### Old Rod
 
@@ -4019,10 +4019,10 @@ Level: 53 - 54 (Walking), 54 (Honey Tree), 35 - 55 (Surfing)
 
 | Pokémon | Type(s) | Level(s) | Chance |
 |:-------:|:-------:|:---------|:-------|
-| ![tentacool](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/72.png){ .sprite }<br>[Tentacool](../pokedex/pokemon/tentacool.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | 35 - 55 | 60% |
-| ![wingull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/278.png){ .sprite }<br>[Wingull](../pokedex/pokemon/wingull.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | 35 - 55 | 30% |
-| ![tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){ .sprite }<br>[Tentacruel](../pokedex/pokemon/tentacruel.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | 35 - 55 | 5% |
-| ![pelipper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/279.png){ .sprite }<br>[Pelipper](../pokedex/pokemon/pelipper.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | 35 - 55 | 5% |
+| ![tentacool](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/72.png){ .sprite }<br>[Tentacool](../pokedex/pokemon/tentacool.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | Unknown | 60% |
+| ![wingull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/278.png){ .sprite }<br>[Wingull](../pokedex/pokemon/wingull.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | Unknown | 30% |
+| ![tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){ .sprite }<br>[Tentacruel](../pokedex/pokemon/tentacruel.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | Unknown | 5% |
+| ![pelipper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/279.png){ .sprite }<br>[Pelipper](../pokedex/pokemon/pelipper.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | Unknown | 5% |
 
 #### Old Rod
 
@@ -4053,10 +4053,10 @@ Level: 53 - 54 (Walking), 54 (Honey Tree), 35 - 55 (Surfing)
 
 | Pokémon | Type(s) | Level(s) | Chance |
 |:-------:|:-------:|:---------|:-------|
-| ![tangela](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/114.png){ .sprite }<br>[Tangela](../pokedex/pokemon/tangela.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span></div> | 39 | 30% |
-| ![heracross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/214.png){ .sprite }<br>[Heracross](../pokedex/pokemon/heracross.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> | 39 | 30% |
-| ![farfetchd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){ .sprite }<br>[Farfetchˈd](../pokedex/pokemon/farfetchd.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | 39 | 30% |
-| ![snorlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/143.png){ .sprite }<br>[Snorlax](../pokedex/pokemon/snorlax.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> | 39 | 10% |
+| ![tangela](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/114.png){ .sprite }<br>[Tangela](../pokedex/pokemon/tangela.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span></div> | Unknown | 30% |
+| ![heracross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/214.png){ .sprite }<br>[Heracross](../pokedex/pokemon/heracross.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> | Unknown | 30% |
+| ![farfetchd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){ .sprite }<br>[Farfetchˈd](../pokedex/pokemon/farfetchd.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | Unknown | 30% |
+| ![snorlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/143.png){ .sprite }<br>[Snorlax](../pokedex/pokemon/snorlax.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> | Unknown | 10% |
 
 
 Sunyshore City
@@ -4065,9 +4065,9 @@ Level: 50 - 60 (Surfing)
 
 | Pokémon | Type(s) | Level(s) | Chance |
 |:-------:|:-------:|:---------|:-------|
-| ![tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){ .sprite }<br>[Tentacruel](../pokedex/pokemon/tentacruel.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | 35 - 55 | 60% |
-| ![pelipper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/279.png){ .sprite }<br>[Pelipper](../pokedex/pokemon/pelipper.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | 35 - 55 | 30% |
-| ![mantine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/226.png){ .sprite }<br>[Mantine](../pokedex/pokemon/mantine.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | 35 - 55 | 10% |
+| ![tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){ .sprite }<br>[Tentacruel](../pokedex/pokemon/tentacruel.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | Unknown | 60% |
+| ![pelipper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/279.png){ .sprite }<br>[Pelipper](../pokedex/pokemon/pelipper.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | Unknown | 30% |
+| ![mantine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/226.png){ .sprite }<br>[Mantine](../pokedex/pokemon/mantine.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | Unknown | 10% |
 
 #### Old Rod
 
@@ -4100,9 +4100,9 @@ Level: 50 - 60 (Surfing)
 
 | Pokémon | Type(s) | Level(s) | Chance |
 |:-------:|:-------:|:---------|:-------|
-| ![tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){ .sprite }<br>[Tentacruel](../pokedex/pokemon/tentacruel.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | 35 - 55 | 60% |
-| ![pelipper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/279.png){ .sprite }<br>[Pelipper](../pokedex/pokemon/pelipper.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | 35 - 55 | 30% |
-| ![mantine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/226.png){ .sprite }<br>[Mantine](../pokedex/pokemon/mantine.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | 35 - 55 | 10% |
+| ![tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){ .sprite }<br>[Tentacruel](../pokedex/pokemon/tentacruel.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | Unknown | 60% |
+| ![pelipper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/279.png){ .sprite }<br>[Pelipper](../pokedex/pokemon/pelipper.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | Unknown | 30% |
+| ![mantine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/226.png){ .sprite }<br>[Mantine](../pokedex/pokemon/mantine.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | Unknown | 10% |
 
 #### Old Rod
 
@@ -4136,9 +4136,9 @@ Level: 50 - 60 (Surfing)
 
 | Pokémon | Type(s) | Level(s) | Chance |
 |:-------:|:-------:|:---------|:-------|
-| ![tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){ .sprite }<br>[Tentacruel](../pokedex/pokemon/tentacruel.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | 35 - 55 | 60% |
-| ![pelipper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/279.png){ .sprite }<br>[Pelipper](../pokedex/pokemon/pelipper.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | 35 - 55 | 30% |
-| ![mantine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/226.png){ .sprite }<br>[Mantine](../pokedex/pokemon/mantine.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | 35 - 55 | 10% |
+| ![tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){ .sprite }<br>[Tentacruel](../pokedex/pokemon/tentacruel.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | Unknown | 60% |
+| ![pelipper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/279.png){ .sprite }<br>[Pelipper](../pokedex/pokemon/pelipper.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | Unknown | 30% |
+| ![mantine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/226.png){ .sprite }<br>[Mantine](../pokedex/pokemon/mantine.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | Unknown | 10% |
 
 #### Old Rod
 
@@ -4294,8 +4294,8 @@ Level: 59 (Walking), 50 - 60 (Surfing)
 
 | Pokémon | Type(s) | Level(s) | Chance |
 |:-------:|:-------:|:---------|:-------|
-| ![floatzel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/419.png){ .sprite }<br>[Floatzel](../pokedex/pokemon/floatzel.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | 35 - 55 | 65% |
-| ![golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){ .sprite }<br>[Golbat](../pokedex/pokemon/golbat.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | 35 - 55 | 35% |
+| ![floatzel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/419.png){ .sprite }<br>[Floatzel](../pokedex/pokemon/floatzel.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | Unknown | 65% |
+| ![golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){ .sprite }<br>[Golbat](../pokedex/pokemon/golbat.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | Unknown | 35% |
 
 #### Old Rod
 
@@ -4403,9 +4403,9 @@ Level: 59 (Walking), 50 - 60 (Surfing)
 
 | Pokémon | Type(s) | Level(s) | Chance |
 |:-------:|:-------:|:---------|:-------|
-| ![sealeo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/364.png){ .sprite }<br>[Sealeo](../pokedex/pokemon/sealeo.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | 35 - 55 | 60% |
-| ![dewgong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/87.png){ .sprite }<br>[Dewgong](../pokedex/pokemon/dewgong.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span></div> | 35 - 55 | 30% |
-| ![lapras](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/131.png){ .sprite }<br>[Lapras](../pokedex/pokemon/lapras.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span></div> | 35 - 55 | 10% |
+| ![sealeo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/364.png){ .sprite }<br>[Sealeo](../pokedex/pokemon/sealeo.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | Unknown | 60% |
+| ![dewgong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/87.png){ .sprite }<br>[Dewgong](../pokedex/pokemon/dewgong.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span></div> | Unknown | 30% |
+| ![lapras](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/131.png){ .sprite }<br>[Lapras](../pokedex/pokemon/lapras.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span></div> | Unknown | 10% |
 
 #### Old Rod
 
@@ -4513,9 +4513,9 @@ Level: 59 (Walking), 50 - 60 (Surfing)
 
 | Pokémon | Type(s) | Level(s) | Chance |
 |:-------:|:-------:|:---------|:-------|
-| ![tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){ .sprite }<br>[Tentacruel](../pokedex/pokemon/tentacruel.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | 35 - 55 | 60% |
-| ![pelipper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/279.png){ .sprite }<br>[Pelipper](../pokedex/pokemon/pelipper.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | 35 - 55 | 30% |
-| ![gastrodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/423.png){ .sprite }<br>[Gastrodon](../pokedex/pokemon/gastrodon.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> | 35 - 55 | 10% |
+| ![tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){ .sprite }<br>[Tentacruel](../pokedex/pokemon/tentacruel.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | Unknown | 60% |
+| ![pelipper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/279.png){ .sprite }<br>[Pelipper](../pokedex/pokemon/pelipper.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | Unknown | 30% |
+| ![gastrodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/423.png){ .sprite }<br>[Gastrodon](../pokedex/pokemon/gastrodon.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> | Unknown | 10% |
 
 #### Old Rod
 
@@ -4931,7 +4931,7 @@ Level: 65 - 66 (Walking)
 
 | Pokémon | Type(s) | Level(s) | Chance |
 |:-------:|:-------:|:---------|:-------|
-| ![magikarp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/129.png){ .sprite }<br>[Magikarp](../pokedex/pokemon/magikarp.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | 65 - 67 | 100% |
+| ![magikarp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/129.png){ .sprite }<br>[Magikarp](../pokedex/pokemon/magikarp.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | Unknown | 100% |
 
 #### Old Rod
 
@@ -5025,7 +5025,7 @@ Level: 65 - 66 (Walking)
 | ![wailord](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/321.png){ .sprite }<br>[Wailord](../pokedex/pokemon/wailord.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | 50 | 10% |
 
 
-### Stark Mountain (Outside)
+#### Stark Mountain ~ Outside
 
 #### Morning
 

@@ -178,12 +178,12 @@ Day         Buneary (30%), Shroomish (20%), Paras (20%), Slakoth (10%), Nincada 
 Night       Buneary (30%), Shroomish (20%), Murkrow (10%), Misdreavus (10%), Slakoth (10%), Nincada (10%), Taillow (10%)
 Poké Radar  Beautifly (11%), Dustox (11%)
 
-Eterna Forest (Outside)
+Eterna Forest ~ Outside
 Levels: 15 (Honey Tree)
 ==================================================================================================================================
 Honey Tree  Beedrill (100%)
 
-Old Chateau (All Rooms)
+Old Chateau
 Levels: 15 - 18 (Walking)
 ==================================================================================================================================
 Morning     Gastly (40%), Rattata (30%), Duskull (10%), Shuppet (10%), Raticate (5%), Haunter (5%)
@@ -277,7 +277,7 @@ Night       Stunky (20%), Slugma (20%), Mankey (20%), Magby (10%), Spoink (10%),
 Poké Radar  Torkoal (22%)
 Honey Tree  Combee (30%), Burmy (20%), Pineco (20%), Silcoon (10%), Cascoon (10%), Heracross (10%)
 
-Wayward Cave (Both)
+Wayward Cave
 Levels: 20 - 22
 ==================================================================================================================================
 Morning     Zubat (20%), Geodude (20%), Gible (20%), Baltoy (10%), Sandshrew (10%), Onix (10%), Sableye (5%), Mawile (5%)
@@ -560,14 +560,14 @@ Old Rod     Magikarp (60%), Finneon (30%), Qwilfish (10%)
 Good Rod    Magikarp (60%), Finneon (30%), Qwilfish (10%)
 Super Rod   Gyarados (60%), Lumineon (30%), Qwilfish (10%)
 
-Iron Island ~ Inside ~ 1F, B1F
+Iron Island ~ 1F, B1F
 Levels: 41 - 43
 ==================================================================================================================================
 Morning     Graveler (25%), Golbat (20%), Lairon (15%), Mawile (10%), Sableye (10%), Nosepass (10%), Rhydon (5%), Steelix (5%)
 Day         Graveler (25%), Golbat (20%), Lairon (15%), Mawile (10%), Sableye (10%), Nosepass (10%), Rhydon (5%), Steelix (5%)
 Night       Graveler (25%), Golbat (20%), Lairon (15%), Mawile (10%), Sableye (10%), Nosepass (10%), Rhydon (5%), Steelix (5%)
 
-Iron Island ~ Inside ~ B2F, B3F
+Iron Island ~ B2F, B3F
 Levels: 43 - 45
 ==================================================================================================================================
 Morning     Graveler (25%), Golbat (20%), Lairon (15%), Mawile (10%), Sableye (10%), Nosepass (10%), Rhydon (5%), Steelix (5%)
@@ -881,7 +881,7 @@ Old Rod     Magikarp (60%), Corsola (30%), Wailmer (10%)
 Good Rod    Magikarp (65%), Corsola (30%), Wailmer (10%)
 Super Rod   Gyarados (65%), Corsola (30%), Wailord (10%)
 
-Stark Mountain (Outside)
+Stark Mountain ~ Outside
 Levels: 66 - 68 (Walking)
 ==================================================================================================================================
 Morning     Fearow (20%), Rhydon (20%), Camerupt (10%), Machoke (10%), Skarmory (10%), Gligar (10%), Magmar (10%), Torkoal (10%)

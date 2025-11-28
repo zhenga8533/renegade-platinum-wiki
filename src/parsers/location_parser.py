@@ -157,6 +157,7 @@ class LocationParser(BaseParser):
         Handles patterns like:
         - "Route 1" -> ("Route 1", None)
         - "Castelia City - Battle Company" -> ("Castelia City", "Battle Company")
+        - "Eterna Forest ~ Outside" -> ("Eterna Forest", "Outside")
 
         Args:
             location_raw (str): The raw location string.
@@ -164,7 +165,10 @@ class LocationParser(BaseParser):
         Returns:
             tuple[str, Optional[str]]: (parent_location, sublocation_name)
         """
-        if " - " in location_raw:
+        if " ~ " in location_raw:
+            parts = location_raw.split(" ~ ", 1)
+            return parts[0], parts[1]
+        elif " - " in location_raw:
             parts = location_raw.split(" - ", 1)
             return parts[0], parts[1]
         return location_raw, None
