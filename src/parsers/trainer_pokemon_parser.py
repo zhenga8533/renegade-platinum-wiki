@@ -68,6 +68,26 @@ class TrainerPokemonParser(LocationParser):
             self._trainers[category] = {}
         self._category = category
 
+    def _get_trainer_extension(self, trainer_name: str, existing_teams_count: int) -> str:
+        """Get the extension name for a trainer team variation.
+
+        Args:
+            trainer_name (str): The trainer's name.
+            existing_teams_count (int): Number of teams already recorded for this trainer.
+
+        Returns:
+            str: The extension name (e.g., "Turtwig", "Trainer 2", "Default").
+        """
+        if trainer_name in self._starter_trainers:
+            # For starter trainers, use hardcoded order: Turtwig, Chimchar, Piplup
+            if existing_teams_count < len(self._starter_order):
+                return self._starter_order[existing_teams_count]
+            return "Default"
+        elif existing_teams_count > 0:
+            return f"Trainer {existing_teams_count + 1}"
+        else:
+            return "Default"
+
     def parse_general_changes(self, line: str) -> None:
         """Parse a line from the General Changes section.
 
@@ -189,18 +209,9 @@ class TrainerPokemonParser(LocationParser):
                 current_trainer = self._trainers[self._category][self._current_trainer]
 
                 # Determine extension for starter trainers or regular trainers
-                if self._current_trainer in self._starter_trainers:
-                    # For starter trainers, use hardcoded order: Turtwig, Chimchar, Piplup
-                    teams = len(current_trainer)
-                    extension = (
-                        self._starter_order[teams]
-                        if teams < len(self._starter_order)
-                        else "Default"
-                    )
-                elif teams := len(current_trainer):
-                    extension = f"Trainer {teams + 1}"
-                else:
-                    extension = "Default"
+                extension = self._get_trainer_extension(
+                    self._current_trainer, len(current_trainer)
+                )
 
                 current_trainer[extension] = {
                     "type": "detailed",
@@ -250,21 +261,12 @@ class TrainerPokemonParser(LocationParser):
         if match := re.match(r"^(.+?) \((.)\)$", trainer):
             trainer, extension = match.groups()
             extension = f"({extension})"
-        elif trainer in self._starter_trainers:
-            # For starter trainers, use hardcoded order: Turtwig, Chimchar, Piplup
-            teams = len(self._trainers[self._category].get(trainer, {}))
-            extension = (
-                self._starter_order[teams]
-                if teams < len(self._starter_order)
-                else "Default"
-            )
-        elif teams := len(self._trainers[self._category].get(trainer, {})):
-            extension = f"Trainer {teams + 1}"
         else:
-            extension = "Default"
+            teams = len(self._trainers[self._category].get(trainer, {}))
+            extension = self._get_trainer_extension(trainer, teams)
 
         # Setup trainer entry if it doesn't exist
-        if not trainer in self._trainers[self._category]:
+        if trainer not in self._trainers[self._category]:
             self._trainers[self._category][trainer] = {}
 
         # Store raw data
@@ -401,6 +403,95 @@ class TrainerPokemonParser(LocationParser):
                 trainer_data
             )
 
+    def _should_skip_detailed_trainer(self, existing_trainers: list[Dict[str, Any]]) -> bool:
+        """Check if detailed trainer data should be skipped.
+
+        Detailed breakdown in documentation is just reference info, not replacement teams.
+        This handles cases like Dawn/Lucas where simple teams are the actual teams.
+
+        Args:
+            existing_trainers (list[Dict[str, Any]]): List of existing trainer entries.
+
+        Returns:
+            bool: True if detailed trainer should be skipped, False otherwise.
+        """
+        if not existing_trainers:
+            return False
+
+        # If we found existing simple teams (team variations), don't add detailed version
+        for trainer in existing_trainers:
+            if not trainer.get("team"):
+                continue
+            # Check if first Pokemon has ability (indicates detailed team)
+            if "ability" in trainer["team"][0]:
+                return False
+
+        return True
+
+    def _get_target_location(self) -> Optional[Dict[str, Any]]:
+        """Get the target location or sublocation for adding trainer data.
+
+        Returns:
+            Optional[Dict[str, Any]]: The target location dictionary, or None if invalid.
+        """
+        if self._current_sublocation:
+            return self._get_or_create_sublocation(
+                self._locations_data[self._current_location], self._current_sublocation
+            )
+        return self._locations_data[self._current_location]
+
+    def _find_existing_trainers(
+        self, target: Dict[str, Any], trainer_name: str
+    ) -> list[Dict[str, Any]]:
+        """Find existing trainer entries in the target location.
+
+        Args:
+            target (Dict[str, Any]): Target location data.
+            trainer_name (str): The trainer's name.
+
+        Returns:
+            list[Dict[str, Any]]: List of existing trainer entries.
+        """
+        if "trainers" not in target:
+            target["trainers"] = []
+
+        return [
+            t
+            for t in target["trainers"]
+            if t["name"] == trainer_name
+            and t.get("sublocation") == self._current_sublocation
+        ]
+
+    def _prepare_trainer_data(
+        self, existing_trainers: list[Dict[str, Any]], target: Dict[str, Any]
+    ) -> Dict[str, Any]:
+        """Get or create trainer data entry for detailed Pokemon.
+
+        Args:
+            existing_trainers (list[Dict[str, Any]]): List of existing trainer entries.
+            target (Dict[str, Any]): Target location data.
+
+        Returns:
+            Dict[str, Any]: The trainer data dictionary.
+        """
+        if existing_trainers:
+            trainer_data = existing_trainers[0]
+            trainer_data["category"] = "Important Trainers"
+            # Clear team on first detailed Pokemon (will be repopulated)
+            if not trainer_data["team"] or "ability" not in trainer_data["team"][0]:
+                trainer_data["team"] = []
+            return trainer_data
+
+        # Create new trainer entry
+        trainer_data = {
+            "name": self._current_trainer,
+            "category": "Important Trainers",
+            "team": [],
+            "sublocation": self._current_sublocation,
+        }
+        target["trainers"].append(trainer_data)
+        return trainer_data
+
     def _add_detailed_trainer_to_location(
         self,
         trainer_name: str,
@@ -426,52 +517,20 @@ class TrainerPokemonParser(LocationParser):
         if self._current_location not in self._locations_data:
             self._initialize_location_data(self._current_location)
 
-        # Get or create target location/sublocation
-        if self._current_sublocation:
-            target = self._get_or_create_sublocation(
-                self._locations_data[self._current_location], self._current_sublocation
-            )
-        else:
-            target = self._locations_data[self._current_location]
-
-        if "trainers" not in target:
-            target["trainers"] = []
-
-        # Find existing trainer entries (there may be multiple for team variations)
-        existing_trainers = [
-            t
-            for t in target["trainers"]
-            if t["name"] == trainer_name
-            and t.get("sublocation") == self._current_sublocation
-        ]
-
-        # If we found existing simple teams (team variations), don't add detailed version
-        # The detailed breakdown in documentation is just reference info, not replacement teams
-        if existing_trainers and all(
-            "ability" not in t["team"][0] for t in existing_trainers if t["team"]
-        ):
-            # Skip adding detailed trainer data when simple team variations already exist
-            # This handles cases like Dawn/Lucas where simple teams are the actual teams
-            # and detailed Pokemon list is just supplementary info
+        # Get target location/sublocation
+        target = self._get_target_location()
+        if not target:
             return
 
-        # Find or create the trainer entry for detailed data
-        trainer_data = existing_trainers[0] if existing_trainers else None
+        # Find existing trainer entries
+        existing_trainers = self._find_existing_trainers(target, trainer_name)
 
-        if not trainer_data:
-            trainer_data = {
-                "name": trainer_name,
-                "category": "Important Trainers",
-                "team": [],
-                "sublocation": self._current_sublocation,
-            }
-            target["trainers"].append(trainer_data)
-        else:
-            # Update to Important Trainers category
-            trainer_data["category"] = "Important Trainers"
-            # Clear team on first detailed Pokemon (will be repopulated)
-            if not trainer_data["team"] or "ability" not in trainer_data["team"][0]:
-                trainer_data["team"] = []
+        # Skip if simple team variations already exist
+        if self._should_skip_detailed_trainer(existing_trainers):
+            return
+
+        # Get or create trainer data entry
+        trainer_data = self._prepare_trainer_data(existing_trainers, target)
 
         # Add Pokemon to team
         poke_data = PokeDBLoader.load_pokemon(pokemon)
