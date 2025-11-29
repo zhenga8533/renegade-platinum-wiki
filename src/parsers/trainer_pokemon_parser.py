@@ -192,9 +192,13 @@ class TrainerPokemonParser(LocationParser):
                 if self._current_trainer in self._starter_trainers:
                     # For starter trainers, use hardcoded order: Turtwig, Chimchar, Piplup
                     teams = len(current_trainer)
-                    extension = self._starter_order[teams] if teams < len(self._starter_order) else "Default"
+                    extension = (
+                        self._starter_order[teams]
+                        if teams < len(self._starter_order)
+                        else "Default"
+                    )
                 elif teams := len(current_trainer):
-                    extension = f"Team {teams + 1}"
+                    extension = f"Trainer {teams + 1}"
                 else:
                     extension = "Default"
 
@@ -249,9 +253,13 @@ class TrainerPokemonParser(LocationParser):
         elif trainer in self._starter_trainers:
             # For starter trainers, use hardcoded order: Turtwig, Chimchar, Piplup
             teams = len(self._trainers[self._category].get(trainer, {}))
-            extension = self._starter_order[teams] if teams < len(self._starter_order) else "Default"
+            extension = (
+                self._starter_order[teams]
+                if teams < len(self._starter_order)
+                else "Default"
+            )
         elif teams := len(self._trainers[self._category].get(trainer, {})):
-            extension = f"Team {teams + 1}"
+            extension = f"Trainer {teams + 1}"
         else:
             extension = "Default"
 
@@ -293,7 +301,11 @@ class TrainerPokemonParser(LocationParser):
                     md += self._format_team(teams["Default"]) + "\n\n"
                 else:
                     for extension, team_data in teams.items():
-                        md += f'=== "{extension}"\n\n'
+                        # Rename "Default" to "Trainer 1" when there are multiple teams
+                        display_name = (
+                            "Trainer 1" if extension == "Default" else extension
+                        )
+                        md += f'=== "{display_name}"\n\n'
                         formatted = self._format_team(team_data)
                         # Indent each line
                         md += (

@@ -485,14 +485,14 @@
 
 **Galactic Grunt**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![stunky](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/434.png){ .sprite }<br>[Stunky](../pokedex/pokemon/stunky.md) | Lv. 13 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> |
 	| ![silcoon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/266.png){ .sprite }<br>[Silcoon](../pokedex/pokemon/silcoon.md) | Lv. 13 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -622,14 +622,14 @@
 
 **Galactic Grunt**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![zubat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/41.png){ .sprite }<br>[Zubat](../pokedex/pokemon/zubat.md) | Lv. 15 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 	| ![spinarak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/167.png){ .sprite }<br>[Spinarak](../pokedex/pokemon/spinarak.md) | Lv. 15 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -644,7 +644,7 @@
 
 **Galactic Grunt**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -652,14 +652,14 @@
 	| ![gulpin](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/316.png){ .sprite }<br>[Gulpin](../pokedex/pokemon/gulpin.md) | Lv. 14 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 	| ![houndour](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/228.png){ .sprite }<br>[Houndour](../pokedex/pokemon/houndour.md) | Lv. 14 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![grimer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/88.png){ .sprite }<br>[Grimer](../pokedex/pokemon/grimer.md) | Lv. 15 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 	| ![koffing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/109.png){ .sprite }<br>[Koffing](../pokedex/pokemon/koffing.md) | Lv. 15 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 
-=== "Team 3"
+=== "Trainer 3"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -1381,14 +1381,14 @@
 
 **Galactic Grunt**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![ledian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/166.png){ .sprite }<br>[Ledian](../pokedex/pokemon/ledian.md) | Lv. 24 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 	| ![ariados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/168.png){ .sprite }<br>[Ariados](../pokedex/pokemon/ariados.md) | Lv. 24 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -1396,7 +1396,7 @@
 	| ![glameow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/431.png){ .sprite }<br>[Glameow](../pokedex/pokemon/glameow.md) | Lv. 23 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> |
 	| ![nidoran-f](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/29.png){ .sprite }<br>[Nidoran♀](../pokedex/pokemon/nidoran-f.md) | Lv. 23 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 
-=== "Team 3"
+=== "Trainer 3"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -1404,20 +1404,20 @@
 	| ![stunky](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/434.png){ .sprite }<br>[Stunky](../pokedex/pokemon/stunky.md) | Lv. 23 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> |
 	| ![nidoran-f](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/29.png){ .sprite }<br>[Nidoran♀](../pokedex/pokemon/nidoran-f.md) | Lv. 23 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 
-=== "Team 4"
+=== "Trainer 4"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![croagunk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/453.png){ .sprite }<br>[Croagunk](../pokedex/pokemon/croagunk.md) | Lv. 24 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> |
 	| ![golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){ .sprite }<br>[Golbat](../pokedex/pokemon/golbat.md) | Lv. 24 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 
-=== "Team 5"
+=== "Trainer 5"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![cleffa](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/173.png){ .sprite }<br>[Cleffa](../pokedex/pokemon/cleffa.md) | Lv. 23 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span></div> |
 
-=== "Team 6"
+=== "Trainer 6"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -1955,20 +1955,20 @@
 
 **Galactic Grunt**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![mightyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/262.png){ .sprite }<br>[Mightyena](../pokedex/pokemon/mightyena.md) | Lv. 29 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> |
 	| ![arbok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/24.png){ .sprite }<br>[Arbok](../pokedex/pokemon/arbok.md) | Lv. 29 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![kricketune](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/402.png){ .sprite }<br>[Kricketune](../pokedex/pokemon/kricketune.md) | Lv. 30 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span></div> |
 
-=== "Team 3"
+=== "Trainer 3"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -1976,46 +1976,46 @@
 	| ![koffing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/109.png){ .sprite }<br>[Koffing](../pokedex/pokemon/koffing.md) | Lv. 28 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 	| ![dustox](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/269.png){ .sprite }<br>[Dustox](../pokedex/pokemon/dustox.md) | Lv. 28 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 
-=== "Team 4"
+=== "Trainer 4"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![lunatone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/337.png){ .sprite }<br>[Lunatone](../pokedex/pokemon/lunatone.md) | Lv. 29 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> |
 	| ![solrock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/338.png){ .sprite }<br>[Solrock](../pokedex/pokemon/solrock.md) | Lv. 29 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> |
 
-=== "Team 5"
+=== "Trainer 5"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![solrock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/338.png){ .sprite }<br>[Solrock](../pokedex/pokemon/solrock.md) | Lv. 29 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> |
 	| ![lunatone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/337.png){ .sprite }<br>[Lunatone](../pokedex/pokemon/lunatone.md) | Lv. 29 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> |
 
-=== "Team 6"
+=== "Trainer 6"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![nincada](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/290.png){ .sprite }<br>[Nincada](../pokedex/pokemon/nincada.md) | Lv. 30 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> |
 
-=== "Team 7"
+=== "Trainer 7"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![ninjask](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/291.png){ .sprite }<br>[Ninjask](../pokedex/pokemon/ninjask.md) | Lv. 30 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 
-=== "Team 8"
+=== "Trainer 8"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![shedinja](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/292.png){ .sprite }<br>[Shedinja](../pokedex/pokemon/shedinja.md) | Lv. 30 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span></div> |
 
-=== "Team 9"
+=== "Trainer 9"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![beedrill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/15.png){ .sprite }<br>[Beedrill](../pokedex/pokemon/beedrill.md) | Lv. 29 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 	| ![golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){ .sprite }<br>[Golbat](../pokedex/pokemon/golbat.md) | Lv. 29 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 
-=== "Team 10"
+=== "Trainer 10"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -2023,13 +2023,13 @@
 	| ![seviper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/336.png){ .sprite }<br>[Seviper](../pokedex/pokemon/seviper.md) | Lv. 28 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> |
 	| ![butterfree](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/12.png){ .sprite }<br>[Butterfree](../pokedex/pokemon/butterfree.md) | Lv. 28 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 
-=== "Team 11"
+=== "Trainer 11"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![murkrow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/198.png){ .sprite }<br>[Murkrow](../pokedex/pokemon/murkrow.md) | Lv. 30 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 
-=== "Team 12"
+=== "Trainer 12"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -2716,7 +2716,7 @@
 
 **Team Galactic Grunt**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -2724,7 +2724,7 @@
 	| ![golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){ .sprite }<br>[Golbat](../pokedex/pokemon/golbat.md) | Lv. 35 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 	| ![venomoth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/49.png){ .sprite }<br>[Venomoth](../pokedex/pokemon/venomoth.md) | Lv. 35 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -4213,7 +4213,7 @@
 
 **Galactic Grunt**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -4221,7 +4221,7 @@
 	| ![houndoom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/229.png){ .sprite }<br>[Houndoom](../pokedex/pokemon/houndoom.md) | Lv. 46 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> |
 	| ![muk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/89.png){ .sprite }<br>[Muk](../pokedex/pokemon/muk.md) | Lv. 46 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -4333,19 +4333,19 @@
 
 **Galactic Grunt**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![purugly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/432.png){ .sprite }<br>[Purugly](../pokedex/pokemon/purugly.md) | Lv. 50 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![houndoom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/229.png){ .sprite }<br>[Houndoom](../pokedex/pokemon/houndoom.md) | Lv. 50 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> |
 
-=== "Team 3"
+=== "Trainer 3"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -4381,21 +4381,21 @@
 
 **Galactic Grunt**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![beautifly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/267.png){ .sprite }<br>[Beautifly](../pokedex/pokemon/beautifly.md) | Lv. 50 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 	| ![butterfree](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/12.png){ .sprite }<br>[Butterfree](../pokedex/pokemon/butterfree.md) | Lv. 50 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![dustox](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/269.png){ .sprite }<br>[Dustox](../pokedex/pokemon/dustox.md) | Lv. 50 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 	| ![beedrill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/15.png){ .sprite }<br>[Beedrill](../pokedex/pokemon/beedrill.md) | Lv. 50 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 
-=== "Team 3"
+=== "Trainer 3"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -4403,7 +4403,7 @@
 	| ![golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){ .sprite }<br>[Golbat](../pokedex/pokemon/golbat.md) | Lv. 49 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 	| ![wormadam-plant](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/413.png){ .sprite }<br>[Wormadam Plant](../pokedex/pokemon/wormadam-plant.md) | Lv. 49 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span></div> |
 
-=== "Team 4"
+=== "Trainer 4"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -4679,7 +4679,7 @@
 
 **Galactic Grunt**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -4687,14 +4687,14 @@
 	| ![dustox](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/269.png){ .sprite }<br>[Dustox](../pokedex/pokemon/dustox.md) | Lv. 53 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 	| ![parasect](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/47.png){ .sprite }<br>[Parasect](../pokedex/pokemon/parasect.md) | Lv. 53 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![murkrow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/198.png){ .sprite }<br>[Murkrow](../pokedex/pokemon/murkrow.md) | Lv. 54 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 	| ![houndoom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/229.png){ .sprite }<br>[Houndoom](../pokedex/pokemon/houndoom.md) | Lv. 54 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> |
 
-=== "Team 3"
+=== "Trainer 3"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -4702,28 +4702,28 @@
 	| ![purugly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/432.png){ .sprite }<br>[Purugly](../pokedex/pokemon/purugly.md) | Lv. 53 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> |
 	| ![vespiquen](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/416.png){ .sprite }<br>[Vespiquen](../pokedex/pokemon/vespiquen.md) | Lv. 53 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 
-=== "Team 4"
+=== "Trainer 4"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![toxicroak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/454.png){ .sprite }<br>[Toxicroak](../pokedex/pokemon/toxicroak.md) | Lv. 54 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> |
 	| ![skuntank](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/435.png){ .sprite }<br>[Skuntank](../pokedex/pokemon/skuntank.md) | Lv. 54 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> |
 
-=== "Team 5"
+=== "Trainer 5"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![scyther](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/123.png){ .sprite }<br>[Scyther](../pokedex/pokemon/scyther.md) | Lv. 54 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 	| ![skuntank](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/435.png){ .sprite }<br>[Skuntank](../pokedex/pokemon/skuntank.md) | Lv. 54 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> |
 
-=== "Team 6"
+=== "Trainer 6"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![pinsir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/127.png){ .sprite }<br>[Pinsir](../pokedex/pokemon/pinsir.md) | Lv. 54 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span></div> |
 	| ![toxicroak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/454.png){ .sprite }<br>[Toxicroak](../pokedex/pokemon/toxicroak.md) | Lv. 54 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> |
 
-=== "Team 7"
+=== "Trainer 7"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -4731,7 +4731,7 @@
 	| ![mightyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/262.png){ .sprite }<br>[Mightyena](../pokedex/pokemon/mightyena.md) | Lv. 53 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> |
 	| ![ariados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/168.png){ .sprite }<br>[Ariados](../pokedex/pokemon/ariados.md) | Lv. 53 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 
-=== "Team 8"
+=== "Trainer 8"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -4739,14 +4739,14 @@
 	| ![venomoth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/49.png){ .sprite }<br>[Venomoth](../pokedex/pokemon/venomoth.md) | Lv. 53 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 	| ![cacturne](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/332.png){ .sprite }<br>[Cacturne](../pokedex/pokemon/cacturne.md) | Lv. 53 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> |
 
-=== "Team 9"
+=== "Trainer 9"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![muk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/89.png){ .sprite }<br>[Muk](../pokedex/pokemon/muk.md) | Lv. 54 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 	| ![arbok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/24.png){ .sprite }<br>[Arbok](../pokedex/pokemon/arbok.md) | Lv. 54 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 
-=== "Team 10"
+=== "Trainer 10"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -4819,7 +4819,7 @@
 
 **Galactic Grunt**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -4827,7 +4827,7 @@
 	| ![swalot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/317.png){ .sprite }<br>[Swalot](../pokedex/pokemon/swalot.md) | Lv. 54 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 	| ![persian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/53.png){ .sprite }<br>[Persian](../pokedex/pokemon/persian.md) | Lv. 54 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -4842,7 +4842,7 @@
 
 **Galactic Grunt**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -4850,7 +4850,7 @@
 	| ![golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){ .sprite }<br>[Golbat](../pokedex/pokemon/golbat.md) | Lv. 54 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 	| ![beedrill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/15.png){ .sprite }<br>[Beedrill](../pokedex/pokemon/beedrill.md) | Lv. 54 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -4864,13 +4864,13 @@
 
 **Galactic Grunt**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){ .sprite }<br>[Golbat](../pokedex/pokemon/golbat.md) | Lv. 56 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -4878,7 +4878,7 @@
 	| ![mightyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/262.png){ .sprite }<br>[Mightyena](../pokedex/pokemon/mightyena.md) | Lv. 54 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> |
 	| ![sneasel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/215.png){ .sprite }<br>[Sneasel](../pokedex/pokemon/sneasel.md) | Lv. 54 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span></div> |
 
-=== "Team 3"
+=== "Trainer 3"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -4892,7 +4892,7 @@
 
 **Galactic Grunt**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -4900,7 +4900,7 @@
 	| ![houndoom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/229.png){ .sprite }<br>[Houndoom](../pokedex/pokemon/houndoom.md) | Lv. 55 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> |
 	| ![yanmega](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/469.png){ .sprite }<br>[Yanmega](../pokedex/pokemon/yanmega.md) | Lv. 55 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -4932,7 +4932,7 @@
 
 **Galactic Grunt**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -4940,7 +4940,7 @@
 	| ![venomoth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/49.png){ .sprite }<br>[Venomoth](../pokedex/pokemon/venomoth.md) | Lv. 56 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 	| ![golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){ .sprite }<br>[Golbat](../pokedex/pokemon/golbat.md) | Lv. 56 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -5038,14 +5038,14 @@
 
 **Galactic Boss Cyrus**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
 	| ![palkia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/484.png){ .sprite }<br>[Palkia](../pokedex/pokemon/palkia.md) | Lv. 70 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span></div> |
 	| ![dialga](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/483.png){ .sprite }<br>[Dialga](../pokedex/pokemon/dialga.md) | Lv. 70 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6051,7 +6051,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 
 **Elite Four Aaron**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6062,7 +6062,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![armaldo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/348.png){ .sprite }<br>[Armaldo](../pokedex/pokemon/armaldo.md) | Lv. 71 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span></div> |
 	| ![drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){ .sprite }<br>[Drapion](../pokedex/pokemon/drapion.md) | Lv. 72 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6073,7 +6073,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![armaldo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/348.png){ .sprite }<br>[Armaldo](../pokedex/pokemon/armaldo.md) | Lv. 71 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span></div> |
 	| ![drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){ .sprite }<br>[Drapion](../pokedex/pokemon/drapion.md) | Lv. 72 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> |
 
-=== "Team 3"
+=== "Trainer 3"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6084,7 +6084,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![dustox](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/269.png){ .sprite }<br>[Dustox](../pokedex/pokemon/dustox.md) | Lv. 71 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 	| ![drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){ .sprite }<br>[Drapion](../pokedex/pokemon/drapion.md) | Lv. 72 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> |
 
-=== "Team 4"
+=== "Trainer 4"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6097,7 +6097,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 
 **Elite Four Bertha**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6108,7 +6108,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![donphan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/232.png){ .sprite }<br>[Donphan](../pokedex/pokemon/donphan.md) | Lv. 72 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> |
 	| ![rhyperior](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/464.png){ .sprite }<br>[Rhyperior](../pokedex/pokemon/rhyperior.md) | Lv. 73 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6119,7 +6119,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![camerupt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/323.png){ .sprite }<br>[Camerupt](../pokedex/pokemon/camerupt.md) | Lv. 72 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> |
 	| ![rhyperior](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/464.png){ .sprite }<br>[Rhyperior](../pokedex/pokemon/rhyperior.md) | Lv. 73 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span></div> |
 
-=== "Team 3"
+=== "Trainer 3"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6130,7 +6130,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![claydol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/344.png){ .sprite }<br>[Claydol](../pokedex/pokemon/claydol.md) | Lv. 72 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> |
 	| ![rhyperior](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/464.png){ .sprite }<br>[Rhyperior](../pokedex/pokemon/rhyperior.md) | Lv. 73 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span></div> |
 
-=== "Team 4"
+=== "Trainer 4"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6143,7 +6143,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 
 **Elite Four Flint**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6154,7 +6154,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![infernape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/392.png){ .sprite }<br>[Infernape](../pokedex/pokemon/infernape.md) | Lv. 73 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> |
 	| ![magmortar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/467.png){ .sprite }<br>[Magmortar](../pokedex/pokemon/magmortar.md) | Lv. 74 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6165,7 +6165,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![infernape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/392.png){ .sprite }<br>[Infernape](../pokedex/pokemon/infernape.md) | Lv. 73 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> |
 	| ![magmortar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/467.png){ .sprite }<br>[Magmortar](../pokedex/pokemon/magmortar.md) | Lv. 74 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> |
 
-=== "Team 3"
+=== "Trainer 3"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6176,7 +6176,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![charizard](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/6.png){ .sprite }<br>[Charizard](../pokedex/pokemon/charizard.md) | Lv. 73 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span></div> |
 	| ![magmortar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/467.png){ .sprite }<br>[Magmortar](../pokedex/pokemon/magmortar.md) | Lv. 74 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> |
 
-=== "Team 4"
+=== "Trainer 4"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6189,7 +6189,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 
 **Elite Four Lucian**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6200,7 +6200,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![metagross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/376.png){ .sprite }<br>[Metagross](../pokedex/pokemon/metagross.md) | Lv. 74 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> |
 	| ![gallade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/475.png){ .sprite }<br>[Gallade](../pokedex/pokemon/gallade.md) | Lv. 75 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6211,7 +6211,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![exeggutor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/103.png){ .sprite }<br>[Exeggutor](../pokedex/pokemon/exeggutor.md) | Lv. 74 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> |
 	| ![gallade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/475.png){ .sprite }<br>[Gallade](../pokedex/pokemon/gallade.md) | Lv. 75 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> |
 
-=== "Team 3"
+=== "Trainer 3"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6222,7 +6222,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![bronzong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/437.png){ .sprite }<br>[Bronzong](../pokedex/pokemon/bronzong.md) | Lv. 74 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> |
 	| ![gallade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/475.png){ .sprite }<br>[Gallade](../pokedex/pokemon/gallade.md) | Lv. 75 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> |
 
-=== "Team 4"
+=== "Trainer 4"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6235,7 +6235,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 
 **Champion Cynthia**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6246,7 +6246,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![milotic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/350.png){ .sprite }<br>[Milotic](../pokedex/pokemon/milotic.md) | Lv. 77 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span></div> |
 	| ![garchomp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/445.png){ .sprite }<br>[Garchomp](../pokedex/pokemon/garchomp.md) | Lv. 78 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6257,7 +6257,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![lucario](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/448.png){ .sprite }<br>[Lucario](../pokedex/pokemon/lucario.md) | Lv. 77 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span></div> |
 	| ![garchomp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/445.png){ .sprite }<br>[Garchomp](../pokedex/pokemon/garchomp.md) | Lv. 78 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> |
 
-=== "Team 3"
+=== "Trainer 3"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6268,7 +6268,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![glaceon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/471.png){ .sprite }<br>[Glaceon](../pokedex/pokemon/glaceon.md) | Lv. 77 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span></div> |
 	| ![garchomp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/445.png){ .sprite }<br>[Garchomp](../pokedex/pokemon/garchomp.md) | Lv. 78 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> |
 
-=== "Team 4"
+=== "Trainer 4"
 
 	| Pokémon | Level | Type(s) |
 	|:-------:|:------|:-------|
@@ -6384,7 +6384,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 
 **(R1) Elite Four Aaron**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Attributes | Moves |
 	|:-------:|:-----------|:------|
@@ -6395,7 +6395,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![armaldo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/348.png){ .sprite }<br>[Armaldo](../pokedex/pokemon/armaldo.md) | **Level:** Lv. 71<br>**Item:**![Choice Band](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png){ .item-sprite } [Choice Band](../pokedex/items/choice-band.md)<br>**Nature:** Naughty<br>**Ability:** [Battle Armor](../pokedex/abilities/battle-armor.md)| [X Scissor](../pokedex/moves/x-scissor.md)<br>[Stone Edge](../pokedex/moves/stone-edge.md)<br>[Earthquake](../pokedex/moves/earthquake.md)<br>[Aqua Tail](../pokedex/moves/aqua-tail.md) |
 	| ![drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){ .sprite }<br>[Drapion](../pokedex/pokemon/drapion.md) | **Level:** Lv. 72<br>**Item:**![Scope Lens](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scope-lens.png){ .item-sprite } [Scope Lens](../pokedex/items/scope-lens.md)<br>**Nature:** Jolly<br>**Ability:** [Sniper](../pokedex/abilities/sniper.md)| [Cross Poison](../pokedex/moves/cross-poison.md)<br>[Night Slash](../pokedex/moves/night-slash.md)<br>[X Scissor](../pokedex/moves/x-scissor.md)<br>[Earthquake](../pokedex/moves/earthquake.md) |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Attributes | Moves |
 	|:-------:|:-----------|:------|
@@ -6406,7 +6406,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![armaldo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/348.png){ .sprite }<br>[Armaldo](../pokedex/pokemon/armaldo.md) | **Level:** Lv. 71<br>**Item:**![Choice Band](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png){ .item-sprite } [Choice Band](../pokedex/items/choice-band.md)<br>**Nature:** Adamant<br>**Ability:** [Battle Armor](../pokedex/abilities/battle-armor.md)| [X Scissor](../pokedex/moves/x-scissor.md)<br>[Stone Edge](../pokedex/moves/stone-edge.md)<br>[Earthquake](../pokedex/moves/earthquake.md)<br>[Aqua Tail](../pokedex/moves/aqua-tail.md) |
 	| ![drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){ .sprite }<br>[Drapion](../pokedex/pokemon/drapion.md) | **Level:** Lv. 72<br>**Item:**![Scope Lens](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scope-lens.png){ .item-sprite } [Scope Lens](../pokedex/items/scope-lens.md)<br>**Nature:** Naive<br>**Ability:** [Sniper](../pokedex/abilities/sniper.md)| [Cross Poison](../pokedex/moves/cross-poison.md)<br>[Night Slash](../pokedex/moves/night-slash.md)<br>[Aqua Tail](../pokedex/moves/aqua-tail.md)<br>[Earthquake](../pokedex/moves/earthquake.md) |
 
-=== "Team 3"
+=== "Trainer 3"
 
 	| Pokémon | Attributes | Moves |
 	|:-------:|:-----------|:------|
@@ -6417,7 +6417,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![dustox](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/269.png){ .sprite }<br>[Dustox](../pokedex/pokemon/dustox.md) | **Level:** Lv. 71<br>**Item:**![Light Clay](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-clay.png){ .item-sprite } [Light Clay](../pokedex/items/light-clay.md)<br>**Nature:** Bold<br>**Ability:** [Shield Dust](../pokedex/abilities/shield-dust.md)| [Bug Buzz](../pokedex/moves/bug-buzz.md)<br>[Sludge Bomb](../pokedex/moves/sludge-bomb.md)<br>[Light Screen](../pokedex/moves/light-screen.md)<br>[Moonlight](../pokedex/moves/moonlight.md) |
 	| ![drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){ .sprite }<br>[Drapion](../pokedex/pokemon/drapion.md) | **Level:** Lv. 72<br>**Item:**![Scope Lens](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scope-lens.png){ .item-sprite } [Scope Lens](../pokedex/items/scope-lens.md)<br>**Nature:** Naive<br>**Ability:** [Sniper](../pokedex/abilities/sniper.md)| [Cross Poison](../pokedex/moves/cross-poison.md)<br>[Night Slash](../pokedex/moves/night-slash.md)<br>[X Scissor](../pokedex/moves/x-scissor.md)<br>[Earthquake](../pokedex/moves/earthquake.md) |
 
-=== "Team 4"
+=== "Trainer 4"
 
 	| Pokémon | Attributes | Moves |
 	|:-------:|:-----------|:------|
@@ -6430,7 +6430,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 
 **(R1) Elite Four Bertha**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Attributes | Moves |
 	|:-------:|:-----------|:------|
@@ -6441,7 +6441,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![donphan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/232.png){ .sprite }<br>[Donphan](../pokedex/pokemon/donphan.md) | **Level:** Lv. 72<br>**Item:**![Rindo Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rindo-berry.png){ .item-sprite } [Rindo Berry](../pokedex/items/rindo-berry.md)<br>**Nature:** Impish<br>**Ability:** [Sand Veil](../pokedex/abilities/sand-veil.md)| [Earthquake](../pokedex/moves/earthquake.md)<br>[Play Rough](../pokedex/moves/play-rough.md)<br>[Head Smash](../pokedex/moves/head-smash.md)<br>[Superpower](../pokedex/moves/superpower.md) |
 	| ![rhyperior](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/464.png){ .sprite }<br>[Rhyperior](../pokedex/pokemon/rhyperior.md) | **Level:** Lv. 73<br>**Item:**![Choice Band](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png){ .item-sprite } [Choice Band](../pokedex/items/choice-band.md)<br>**Nature:** Brave<br>**Ability:** [Solid Rock](../pokedex/abilities/solid-rock.md)| [Earthquake](../pokedex/moves/earthquake.md)<br>[Stone Edge](../pokedex/moves/stone-edge.md)<br>[Megahorn](../pokedex/moves/megahorn.md)<br>[Ice Punch](../pokedex/moves/ice-punch.md) |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Attributes | Moves |
 	|:-------:|:-----------|:------|
@@ -6452,7 +6452,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![camerupt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/323.png){ .sprite }<br>[Camerupt](../pokedex/pokemon/camerupt.md) | **Level:** Lv. 72<br>**Item:**![Focus Sash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png){ .item-sprite } [Focus Sash](../pokedex/items/focus-sash.md)<br>**Nature:** Quiet<br>**Ability:** [Solid Rock](../pokedex/abilities/solid-rock.md)| [Overheat](../pokedex/moves/overheat.md)<br>[Earth Power](../pokedex/moves/earth-power.md)<br>[Yawn](../pokedex/moves/yawn.md)<br>[Explosion](../pokedex/moves/explosion.md) |
 	| ![rhyperior](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/464.png){ .sprite }<br>[Rhyperior](../pokedex/pokemon/rhyperior.md) | **Level:** Lv. 73<br>**Item:**![Choice Band](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png){ .item-sprite } [Choice Band](../pokedex/items/choice-band.md)<br>**Nature:** Naughty<br>**Ability:** [Solid Rock](../pokedex/abilities/solid-rock.md)| [Earthquake](../pokedex/moves/earthquake.md)<br>[Stone Edge](../pokedex/moves/stone-edge.md)<br>[Megahorn](../pokedex/moves/megahorn.md)<br>[Thunder Punch](../pokedex/moves/thunder-punch.md) |
 
-=== "Team 3"
+=== "Trainer 3"
 
 	| Pokémon | Attributes | Moves |
 	|:-------:|:-----------|:------|
@@ -6463,7 +6463,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![claydol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/344.png){ .sprite }<br>[Claydol](../pokedex/pokemon/claydol.md) | **Level:** Lv. 72<br>**Item:**![Light Clay](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-clay.png){ .item-sprite } [Light Clay](../pokedex/items/light-clay.md)<br>**Nature:** Sassy<br>**Ability:** [Levitate](../pokedex/abilities/levitate.md)| [Earthquake](../pokedex/moves/earthquake.md)<br>[Psychic](../pokedex/moves/psychic.md)<br>[Reflect](../pokedex/moves/reflect.md)<br>[Light Screen](../pokedex/moves/light-screen.md) |
 	| ![rhyperior](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/464.png){ .sprite }<br>[Rhyperior](../pokedex/pokemon/rhyperior.md) | **Level:** Lv. 73<br>**Item:**![Choice Band](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png){ .item-sprite } [Choice Band](../pokedex/items/choice-band.md)<br>**Nature:** Naughty<br>**Ability:** [Solid Rock](../pokedex/abilities/solid-rock.md)| [Earthquake](../pokedex/moves/earthquake.md)<br>[Stone Edge](../pokedex/moves/stone-edge.md)<br>[Megahorn](../pokedex/moves/megahorn.md)<br>[Fire Punch](../pokedex/moves/fire-punch.md) |
 
-=== "Team 4"
+=== "Trainer 4"
 
 	| Pokémon | Attributes | Moves |
 	|:-------:|:-----------|:------|
@@ -6476,7 +6476,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 
 **(R1) Elite Four Flint**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Attributes | Moves |
 	|:-------:|:-----------|:------|
@@ -6487,7 +6487,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![infernape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/392.png){ .sprite }<br>[Infernape](../pokedex/pokemon/infernape.md) | **Level:** Lv. 73<br>**Item:**![Expert Belt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png){ .item-sprite } [Expert Belt](../pokedex/items/expert-belt.md)<br>**Nature:** Hasty<br>**Ability:** [Iron Fist](../pokedex/abilities/iron-fist.md)| [Flare Blitz](../pokedex/moves/flare-blitz.md)<br>[Close Combat](../pokedex/moves/close-combat.md)<br>[Thunder Punch](../pokedex/moves/thunder-punch.md)<br>[Grass Knot](../pokedex/moves/grass-knot.md) |
 	| ![magmortar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/467.png){ .sprite }<br>[Magmortar](../pokedex/pokemon/magmortar.md) | **Level:** Lv. 74<br>**Item:**![Life Orb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png){ .item-sprite } [Life Orb](../pokedex/items/life-orb.md)<br>**Nature:** Timid<br>**Ability:** [Flame Body](../pokedex/abilities/flame-body.md)| [Fire Blast](../pokedex/moves/fire-blast.md)<br>[Thunderbolt](../pokedex/moves/thunderbolt.md)<br>[Aura Sphere](../pokedex/moves/aura-sphere.md)<br>[Solar Beam](../pokedex/moves/solar-beam.md) |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Attributes | Moves |
 	|:-------:|:-----------|:------|
@@ -6498,7 +6498,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![infernape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/392.png){ .sprite }<br>[Infernape](../pokedex/pokemon/infernape.md) | **Level:** Lv. 73<br>**Item:**![Expert Belt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png){ .item-sprite } [Expert Belt](../pokedex/items/expert-belt.md)<br>**Nature:** Adamant<br>**Ability:** [Iron Fist](../pokedex/abilities/iron-fist.md)| [Flare Blitz](../pokedex/moves/flare-blitz.md)<br>[Close Combat](../pokedex/moves/close-combat.md)<br>[Thunder Punch](../pokedex/moves/thunder-punch.md)<br>[Gunk Shot](../pokedex/moves/gunk-shot.md) |
 	| ![magmortar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/467.png){ .sprite }<br>[Magmortar](../pokedex/pokemon/magmortar.md) | **Level:** Lv. 74<br>**Item:**![Life Orb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png){ .item-sprite } [Life Orb](../pokedex/items/life-orb.md)<br>**Nature:** Modest<br>**Ability:** [Flame Body](../pokedex/abilities/flame-body.md)| [Fire Blast](../pokedex/moves/fire-blast.md)<br>[Thunderbolt](../pokedex/moves/thunderbolt.md)<br>[Aura Sphere](../pokedex/moves/aura-sphere.md)<br>[Solar Beam](../pokedex/moves/solar-beam.md) |
 
-=== "Team 3"
+=== "Trainer 3"
 
 	| Pokémon | Attributes | Moves |
 	|:-------:|:-----------|:------|
@@ -6509,7 +6509,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![charizard](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/6.png){ .sprite }<br>[Charizard](../pokedex/pokemon/charizard.md) | **Level:** Lv. 73<br>**Item:**![Choice Specs](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-specs.png){ .item-sprite } [Choice Specs](../pokedex/items/choice-specs.md)<br>**Nature:** Modest<br>**Ability:** [Drought](../pokedex/abilities/drought.md)| [Fire Blast](../pokedex/moves/fire-blast.md)<br>[Dragon Pulse](../pokedex/moves/dragon-pulse.md)<br>[Hurricane](../pokedex/moves/hurricane.md)<br>[Solar Beam](../pokedex/moves/solar-beam.md) |
 	| ![magmortar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/467.png){ .sprite }<br>[Magmortar](../pokedex/pokemon/magmortar.md) | **Level:** Lv. 74<br>**Item:**![Life Orb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png){ .item-sprite } [Life Orb](../pokedex/items/life-orb.md)<br>**Nature:** Modest<br>**Ability:** [Flame Body](../pokedex/abilities/flame-body.md)| [Fire Blast](../pokedex/moves/fire-blast.md)<br>[Thunderbolt](../pokedex/moves/thunderbolt.md)<br>[Aura Sphere](../pokedex/moves/aura-sphere.md)<br>[Solar Beam](../pokedex/moves/solar-beam.md) |
 
-=== "Team 4"
+=== "Trainer 4"
 
 	| Pokémon | Attributes | Moves |
 	|:-------:|:-----------|:------|
@@ -6522,7 +6522,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 
 **(R1) Elite Four Lucian**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Attributes | Moves |
 	|:-------:|:-----------|:------|
@@ -6533,7 +6533,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![metagross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/376.png){ .sprite }<br>[Metagross](../pokedex/pokemon/metagross.md) | **Level:** Lv. 74<br>**Item:**![Muscle Band](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png){ .item-sprite } [Muscle Band](../pokedex/items/muscle-band.md)<br>**Nature:** Naughty<br>**Ability:** [Iron Fist](../pokedex/abilities/iron-fist.md)| [Zen Headbutt](../pokedex/moves/zen-headbutt.md)<br>[Meteor Mash](../pokedex/moves/meteor-mash.md)<br>[Earthquake](../pokedex/moves/earthquake.md)<br>[Explosion](../pokedex/moves/explosion.md) |
 	| ![gallade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/475.png){ .sprite }<br>[Gallade](../pokedex/pokemon/gallade.md) | **Level:** Lv. 75<br>**Item:**![Scope Lens](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scope-lens.png){ .item-sprite } [Scope Lens](../pokedex/items/scope-lens.md)<br>**Nature:** Lonely<br>**Ability:** [Steadfast](../pokedex/abilities/steadfast.md)| [Psycho Cut](../pokedex/moves/psycho-cut.md)<br>[Close Combat](../pokedex/moves/close-combat.md)<br>[Leaf Blade](../pokedex/moves/leaf-blade.md)<br>[Night Slash](../pokedex/moves/night-slash.md) |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Attributes | Moves |
 	|:-------:|:-----------|:------|
@@ -6544,7 +6544,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![exeggutor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/103.png){ .sprite }<br>[Exeggutor](../pokedex/pokemon/exeggutor.md) | **Level:** Lv. 74<br>**Item:**![Occa Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/occa-berry.png){ .item-sprite } [Occa Berry](../pokedex/items/occa-berry.md)<br>**Nature:** Quiet<br>**Ability:** [Chlorophyll](../pokedex/abilities/chlorophyll.md)| [Psychic](../pokedex/moves/psychic.md)<br>[Giga Drain](../pokedex/moves/giga-drain.md)<br>[Sleep Powder](../pokedex/moves/sleep-powder.md)<br>[Leech Seed](../pokedex/moves/leech-seed.md) |
 	| ![gallade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/475.png){ .sprite }<br>[Gallade](../pokedex/pokemon/gallade.md) | **Level:** Lv. 75<br>**Item:**![Scope Lens](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scope-lens.png){ .item-sprite } [Scope Lens](../pokedex/items/scope-lens.md)<br>**Nature:** Jolly<br>**Ability:** [Steadfast](../pokedex/abilities/steadfast.md)| [Psycho Cut](../pokedex/moves/psycho-cut.md)<br>[Close Combat](../pokedex/moves/close-combat.md)<br>[Leaf Blade](../pokedex/moves/leaf-blade.md)<br>[Night Slash](../pokedex/moves/night-slash.md) |
 
-=== "Team 3"
+=== "Trainer 3"
 
 	| Pokémon | Attributes | Moves |
 	|:-------:|:-----------|:------|
@@ -6555,7 +6555,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![bronzong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/437.png){ .sprite }<br>[Bronzong](../pokedex/pokemon/bronzong.md) | **Level:** Lv. 74<br>**Item:**![Occa Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/occa-berry.png){ .item-sprite } [Occa Berry](../pokedex/items/occa-berry.md)<br>**Nature:** Relaxed<br>**Ability:** [Levitate](../pokedex/abilities/levitate.md)| [Psychic](../pokedex/moves/psychic.md)<br>[Flash Cannon](../pokedex/moves/flash-cannon.md)<br>[Earthquake](../pokedex/moves/earthquake.md)<br>[Hypnosis](../pokedex/moves/hypnosis.md) |
 	| ![gallade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/475.png){ .sprite }<br>[Gallade](../pokedex/pokemon/gallade.md) | **Level:** Lv. 75<br>**Item:**![Scope Lens](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scope-lens.png){ .item-sprite } [Scope Lens](../pokedex/items/scope-lens.md)<br>**Nature:** Jolly<br>**Ability:** [Steadfast](../pokedex/abilities/steadfast.md)| [Psycho Cut](../pokedex/moves/psycho-cut.md)<br>[Close Combat](../pokedex/moves/close-combat.md)<br>[Leaf Blade](../pokedex/moves/leaf-blade.md)<br>[Night Slash](../pokedex/moves/night-slash.md) |
 
-=== "Team 4"
+=== "Trainer 4"
 
 	| Pokémon | Attributes | Moves |
 	|:-------:|:-----------|:------|
@@ -6568,7 +6568,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 
 **(R1) Champion Cynthia**
 
-=== "Default"
+=== "Trainer 1"
 
 	| Pokémon | Attributes | Moves |
 	|:-------:|:-----------|:------|
@@ -6579,7 +6579,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![milotic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/350.png){ .sprite }<br>[Milotic](../pokedex/pokemon/milotic.md) | **Level:** Lv. 77<br>**Item:**![Leftovers](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png){ .item-sprite } [Leftovers](../pokedex/items/leftovers.md)<br>**Nature:** Calm<br>**Ability:** [Marvel Scale](../pokedex/abilities/marvel-scale.md)| [Surf](../pokedex/moves/surf.md)<br>[Ice Beam](../pokedex/moves/ice-beam.md)<br>[Recover](../pokedex/moves/recover.md)<br>[Hypnosis](../pokedex/moves/hypnosis.md) |
 	| ![garchomp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/445.png){ .sprite }<br>[Garchomp](../pokedex/pokemon/garchomp.md) | **Level:** Lv. 78<br>**Item:**![Yache Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yache-berry.png){ .item-sprite } [Yache Berry](../pokedex/items/yache-berry.md)<br>**Nature:** Jolly<br>**Ability:** [Rough Skin](../pokedex/abilities/rough-skin.md)| [Earthquake](../pokedex/moves/earthquake.md)<br>[Outrage](../pokedex/moves/outrage.md)<br>[Stone Edge](../pokedex/moves/stone-edge.md)<br>[Swords Dance](../pokedex/moves/swords-dance.md) |
 
-=== "Team 2"
+=== "Trainer 2"
 
 	| Pokémon | Attributes | Moves |
 	|:-------:|:-----------|:------|
@@ -6590,7 +6590,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![lucario](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/448.png){ .sprite }<br>[Lucario](../pokedex/pokemon/lucario.md) | **Level:** Lv. 77<br>**Item:**![Life Orb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png){ .item-sprite } [Life Orb](../pokedex/items/life-orb.md)<br>**Nature:** Timid<br>**Ability:** [Adaptability](../pokedex/abilities/adaptability.md)| [Aura Sphere](../pokedex/moves/aura-sphere.md)<br>[Flash Cannon](../pokedex/moves/flash-cannon.md)<br>[Dark Pulse](../pokedex/moves/dark-pulse.md)<br>[Vacuum Wave](../pokedex/moves/vacuum-wave.md) |
 	| ![garchomp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/445.png){ .sprite }<br>[Garchomp](../pokedex/pokemon/garchomp.md) | **Level:** Lv. 78<br>**Item:**![Yache Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yache-berry.png){ .item-sprite } [Yache Berry](../pokedex/items/yache-berry.md)<br>**Nature:** Hasty<br>**Ability:** [Rough Skin](../pokedex/abilities/rough-skin.md)| [Earthquake](../pokedex/moves/earthquake.md)<br>[Outrage](../pokedex/moves/outrage.md)<br>[Stone Edge](../pokedex/moves/stone-edge.md)<br>[Swords Dance](../pokedex/moves/swords-dance.md) |
 
-=== "Team 3"
+=== "Trainer 3"
 
 	| Pokémon | Attributes | Moves |
 	|:-------:|:-----------|:------|
@@ -6601,7 +6601,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![glaceon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/471.png){ .sprite }<br>[Glaceon](../pokedex/pokemon/glaceon.md) | **Level:** Lv. 77<br>**Item:**![Choice Specs](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-specs.png){ .item-sprite } [Choice Specs](../pokedex/items/choice-specs.md)<br>**Nature:** Modest<br>**Ability:** [Snow Cloak](../pokedex/abilities/snow-cloak.md)| [Blizzard](../pokedex/moves/blizzard.md)<br>[Earth Power](../pokedex/moves/earth-power.md)<br>[Extrasensory](../pokedex/moves/extrasensory.md)<br>[Shadow Ball](../pokedex/moves/shadow-ball.md) |
 	| ![garchomp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/445.png){ .sprite }<br>[Garchomp](../pokedex/pokemon/garchomp.md) | **Level:** Lv. 78<br>**Item:**![Yache Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yache-berry.png){ .item-sprite } [Yache Berry](../pokedex/items/yache-berry.md)<br>**Nature:** Hasty<br>**Ability:** [Rough Skin](../pokedex/abilities/rough-skin.md)| [Earthquake](../pokedex/moves/earthquake.md)<br>[Outrage](../pokedex/moves/outrage.md)<br>[Stone Edge](../pokedex/moves/stone-edge.md)<br>[Swords Dance](../pokedex/moves/swords-dance.md) |
 
-=== "Team 4"
+=== "Trainer 4"
 
 	| Pokémon | Attributes | Moves |
 	|:-------:|:-----------|:------|
