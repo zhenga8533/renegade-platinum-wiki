@@ -8,7 +8,7 @@ This parser:
 """
 
 import re
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, Optional
 
 from src.utils.core.loader import PokeDBLoader
 from src.utils.formatters.markdown_formatter import (
@@ -16,7 +16,6 @@ from src.utils.formatters.markdown_formatter import (
     format_item,
     format_move,
     format_pokemon,
-    format_pokemon_card_grid,
     format_type_badge,
 )
 
@@ -39,6 +38,14 @@ class TrainerPokemonParser(LocationParser):
         """
         super().__init__(input_file=input_file, output_dir=output_dir)
         self._sections = ["General Changes", "Area Changes"]
+
+        # Starter Pokémon - always ordered as Turtwig, Chimchar, Piplup
+        self._starter_trainers = [
+            "PKMN Trainer Barry",
+            "PKMN Trainer Dawn",
+            "PKMN Trainer Lucas",
+        ]
+        self._starter_order = ["Turtwig", "Chimchar", "Piplup"]
 
         # Area Changes States
         self._category = None
@@ -142,14 +149,16 @@ class TrainerPokemonParser(LocationParser):
             moves_list = [m.strip() for m in moves.strip().split(", ")]
 
             # Store raw Pokemon data
-            self._current_team_pokemon.append({
-                "pokemon": pokemon,
-                "level": int(level),
-                "item": item,
-                "nature": nature,
-                "ability": ability,
-                "moves": moves_list,
-            })
+            self._current_team_pokemon.append(
+                {
+                    "pokemon": pokemon,
+                    "level": int(level),
+                    "item": item,
+                    "nature": nature,
+                    "ability": ability,
+                    "moves": moves_list,
+                }
+            )
 
             # Add to JSON data
             if self._current_trainer:
@@ -178,15 +187,17 @@ class TrainerPokemonParser(LocationParser):
             # Save detailed team if we have one
             if self._current_team_pokemon and self._current_trainer:
                 current_trainer = self._trainers[self._category][self._current_trainer]
-                teams = len(current_trainer)
 
-                if teams > 0 and "Default" in current_trainer:
-                    self._trainers[self._category][self._current_trainer]["Team 1"] = (
-                        current_trainer["Default"]
-                    )
-                    del current_trainer["Default"]
+                # Determine extension for starter trainers or regular trainers
+                if self._current_trainer in self._starter_trainers:
+                    # For starter trainers, use hardcoded order: Turtwig, Chimchar, Piplup
+                    teams = len(current_trainer)
+                    extension = self._starter_order[teams] if teams < len(self._starter_order) else "Default"
+                elif teams := len(current_trainer):
+                    extension = f"Team {teams + 1}"
+                else:
+                    extension = "Default"
 
-                extension = f"Team {teams + 1}" if teams > 0 else "Default"
                 current_trainer[extension] = {
                     "type": "detailed",
                     "pokemon": self._current_team_pokemon,
@@ -209,25 +220,7 @@ class TrainerPokemonParser(LocationParser):
             trainer (str): Trainer name, possibly with variation marker like (!)
             team (str): Comma-separated list of "Pokemon Lv. XX"
         """
-        # Extract trainer name and extension if present
-        if match := re.match(r"^(.+?) \((.)\)$", trainer):
-            trainer, extension = match.groups()
-            extension = f"({extension})"
-        elif teams := len(self._trainers[self._category].get(trainer, {})):
-            extension = f"Team {teams + 1}"
-            if "Default" in self._trainers[self._category][trainer]:
-                self._trainers[self._category][trainer][f"Team 1"] = self._trainers[
-                    self._category
-                ][trainer]["Default"]
-                del self._trainers[self._category][trainer]["Default"]
-        else:
-            extension = "Default"
-
-        # Setup trainer entry if it doesn't exist
-        if not trainer in self._trainers[self._category]:
-            self._trainers[self._category][trainer] = {}
-
-        # Parse team Pokémon - store raw data
+        # Parse team Pokémon first to determine extension for starter trainers
         pokemon_list = []
         for slot in team.split(", "):
             if match := re.match(r"^(.+?) Lv. (\d+)$", slot):
@@ -238,14 +231,33 @@ class TrainerPokemonParser(LocationParser):
                     continue
 
                 types = poke_data.types if poke_data else []
-                pokemon_list.append({
-                    "pokemon": name,
-                    "level": int(level),
-                    "types": types,
-                    "poke_data": poke_data,  # Keep for markdown formatting
-                })
+                pokemon_list.append(
+                    {
+                        "pokemon": name,
+                        "level": int(level),
+                        "types": types,
+                        "poke_data": poke_data,  # Keep for markdown formatting
+                    }
+                )
             else:
                 self.logger.warning(f"Could not parse team slot: {slot}")
+
+        # Extract trainer name and extension if present
+        if match := re.match(r"^(.+?) \((.)\)$", trainer):
+            trainer, extension = match.groups()
+            extension = f"({extension})"
+        elif trainer in self._starter_trainers:
+            # For starter trainers, use hardcoded order: Turtwig, Chimchar, Piplup
+            teams = len(self._trainers[self._category].get(trainer, {}))
+            extension = self._starter_order[teams] if teams < len(self._starter_order) else "Default"
+        elif teams := len(self._trainers[self._category].get(trainer, {})):
+            extension = f"Team {teams + 1}"
+        else:
+            extension = "Default"
+
+        # Setup trainer entry if it doesn't exist
+        if not trainer in self._trainers[self._category]:
+            self._trainers[self._category][trainer] = {}
 
         # Store raw data
         self._trainers[self._category][trainer][extension] = {
@@ -284,9 +296,12 @@ class TrainerPokemonParser(LocationParser):
                         md += f'=== "{extension}"\n\n'
                         formatted = self._format_team(team_data)
                         # Indent each line
-                        md += "\n".join(
-                            f"\t{line}".rstrip() for line in formatted.splitlines()
-                        ) + "\n\n"
+                        md += (
+                            "\n".join(
+                                f"\t{line}".rstrip() for line in formatted.splitlines()
+                            )
+                            + "\n\n"
+                        )
 
         return md
 
@@ -412,13 +427,17 @@ class TrainerPokemonParser(LocationParser):
 
         # Find existing trainer entries (there may be multiple for team variations)
         existing_trainers = [
-            t for t in target["trainers"]
-            if t["name"] == trainer_name and t.get("sublocation") == self._current_sublocation
+            t
+            for t in target["trainers"]
+            if t["name"] == trainer_name
+            and t.get("sublocation") == self._current_sublocation
         ]
 
         # If we found existing simple teams (team variations), don't add detailed version
         # The detailed breakdown in documentation is just reference info, not replacement teams
-        if existing_trainers and all("ability" not in t["team"][0] for t in existing_trainers if t["team"]):
+        if existing_trainers and all(
+            "ability" not in t["team"][0] for t in existing_trainers if t["team"]
+        ):
             # Skip adding detailed trainer data when simple team variations already exist
             # This handles cases like Dawn/Lucas where simple teams are the actual teams
             # and detailed Pokemon list is just supplementary info
