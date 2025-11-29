@@ -1,0 +1,124 @@
+# Cross Poison
+
+## :material-chart-box: Stats
+
+<div class="grid cards" markdown>
+
+- **:material-tag: Type**
+
+	---
+
+	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+
+- **:material-shape: Category**
+
+	---
+
+	Physical
+
+- **:material-fire: Power**
+
+	---
+
+	90
+
+- **:material-target: Accuracy**
+
+	---
+
+	—
+
+- **:material-counter: PP**
+
+	---
+
+	15
+
+- **:material-priority-high: Priority**
+
+	---
+
+	0
+
+</div>
+
+## :material-information: Effect
+
+!!! info "Description"
+
+    Inflicts regular damage. User’s critical hit rate is one level higher when using this move. Has a 10% chance to poison the target.
+
+!!! tip "Quick Summary"
+
+    Has an increased chance for a critical hit and a 10% chance to poison the target.
+
+## :material-book-open: In-Game Description
+
+!!! quote "Platinum"
+
+    A slashing attack that may also leave the target poisoned. It has a high critical-hit ratio.
+
+## :material-pokeball: Learning Pokémon
+
+### :material-arrow-up-bold: Level-Up
+
+<div class="grid cards" markdown>
+
+-	[![Parasect](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/47.png){: .pokemon-sprite-img }](../pokemon/parasect.md)
+
+	***
+
+	**#047 [Parasect](../pokemon/parasect.md)**
+
+	Level 1
+
+-	[![Crobat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/169.png){: .pokemon-sprite-img }](../pokemon/crobat.md)
+
+	***
+
+	**#169 [Crobat](../pokemon/crobat.md)**
+
+	Level 1
+
+-	[![Skorupi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/451.png){: .pokemon-sprite-img }](../pokemon/skorupi.md)
+
+	***
+
+	**#451 [Skorupi](../pokemon/skorupi.md)**
+
+	Level 50
+
+-	[![Drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){: .pokemon-sprite-img }](../pokemon/drapion.md)
+
+	***
+
+	**#452 [Drapion](../pokemon/drapion.md)**
+
+	Level 58
+
+</div>
+
+### :material-egg-outline: Egg Moves
+
+<div class="grid cards" markdown>
+
+-	[![Paras](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/46.png){: .pokemon-sprite-img }](../pokemon/paras.md)
+
+	***
+
+	**#046 [Paras](../pokemon/paras.md)**
+
+-	[![Gligar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/207.png){: .pokemon-sprite-img }](../pokemon/gligar.md)
+
+	***
+
+	**#207 [Gligar](../pokemon/gligar.md)**
+
+-	[![Anorith](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/347.png){: .pokemon-sprite-img }](../pokemon/anorith.md)
+
+	***
+
+	**#347 [Anorith](../pokemon/anorith.md)**
+
+</div>
+

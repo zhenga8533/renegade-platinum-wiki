@@ -1,0 +1,188 @@
+# Copycat
+
+## :material-chart-box: Stats
+
+<div class="grid cards" markdown>
+
+- **:material-tag: Type**
+
+	---
+
+	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+
+- **:material-shape: Category**
+
+	---
+
+	Status
+
+- **:material-fire: Power**
+
+	---
+
+	—
+
+- **:material-target: Accuracy**
+
+	---
+
+	—
+
+- **:material-counter: PP**
+
+	---
+
+	—
+
+- **:material-priority-high: Priority**
+
+	---
+
+	0
+
+</div>
+
+## :material-information: Effect
+
+!!! info "Description"
+
+    Uses the last move that was used successfully by any Pokémon, including the user. This move cannot copy itself, nor roar nor whirlwind. This move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk.
+
+!!! tip "Quick Summary"
+
+    Uses the target’s last used move.
+
+## :material-book-open: In-Game Description
+
+!!! quote "Platinum"
+
+    The user mimics the move used immediately before it. The move fails if no other move has been used yet.
+
+## :material-pokeball: Learning Pokémon
+
+### :material-arrow-up-bold: Level-Up
+
+<div class="grid cards" markdown>
+
+-	[![Mr. Mime](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/122.png){: .pokemon-sprite-img }](../pokemon/mr-mime.md)
+
+	***
+
+	**#122 [Mr. Mime](../pokemon/mr-mime.md)**
+
+	Level 4
+
+-	[![Cleffa](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/173.png){: .pokemon-sprite-img }](../pokemon/cleffa.md)
+
+	***
+
+	**#173 [Cleffa](../pokemon/cleffa.md)**
+
+	Level 13
+
+-	[![Igglybuff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/174.png){: .pokemon-sprite-img }](../pokemon/igglybuff.md)
+
+	***
+
+	**#174 [Igglybuff](../pokemon/igglybuff.md)**
+
+	Level 17
+
+-	[![Sudowoodo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/185.png){: .pokemon-sprite-img }](../pokemon/sudowoodo.md)
+
+	***
+
+	**#185 [Sudowoodo](../pokemon/sudowoodo.md)**
+
+	Level 1
+
+-	[![Smoochum](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/238.png){: .pokemon-sprite-img }](../pokemon/smoochum.md)
+
+	***
+
+	**#238 [Smoochum](../pokemon/smoochum.md)**
+
+	Level 38
+
+-	[![Skitty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/300.png){: .pokemon-sprite-img }](../pokemon/skitty.md)
+
+	***
+
+	**#300 [Skitty](../pokemon/skitty.md)**
+
+	Level 11
+
+-	[![Skitty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/300.png){: .pokemon-sprite-img }](../pokemon/skitty.md)
+
+	***
+
+	**#300 [Skitty](../pokemon/skitty.md)**
+
+	Level 18
+
+-	[![Plusle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/311.png){: .pokemon-sprite-img }](../pokemon/plusle.md)
+
+	***
+
+	**#311 [Plusle](../pokemon/plusle.md)**
+
+	Level 24
+
+-	[![Minun](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/312.png){: .pokemon-sprite-img }](../pokemon/minun.md)
+
+	***
+
+	**#312 [Minun](../pokemon/minun.md)**
+
+	Level 24
+
+-	[![Spinda](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/327.png){: .pokemon-sprite-img }](../pokemon/spinda.md)
+
+	***
+
+	**#327 [Spinda](../pokemon/spinda.md)**
+
+	Level 10
+
+-	[![Bonsly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/438.png){: .pokemon-sprite-img }](../pokemon/bonsly.md)
+
+	***
+
+	**#438 [Bonsly](../pokemon/bonsly.md)**
+
+	Level 1
+
+-	[![Mime Jr.](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/439.png){: .pokemon-sprite-img }](../pokemon/mime-jr.md)
+
+	***
+
+	**#439 [Mime Jr.](../pokemon/mime-jr.md)**
+
+	Level 4
+
+-	[![Happiny](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/440.png){: .pokemon-sprite-img }](../pokemon/happiny.md)
+
+	***
+
+	**#440 [Happiny](../pokemon/happiny.md)**
+
+	Level 5
+
+-	[![Riolu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/447.png){: .pokemon-sprite-img }](../pokemon/riolu.md)
+
+	***
+
+	**#447 [Riolu](../pokemon/riolu.md)**
+
+	Level 29
+
+-	[![Mesprit](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/481.png){: .pokemon-sprite-img }](../pokemon/mesprit.md)
+
+	***
+
+	**#481 [Mesprit](../pokemon/mesprit.md)**
+
+	Level 61
+
+</div>
+

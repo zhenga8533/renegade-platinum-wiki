@@ -1,0 +1,50 @@
+# Smoke Ball
+
+!!! info "Item"
+
+	<div style="display: flex; align-items: flex-start; gap: 15px;">
+		<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/smoke-ball.png" alt="Smoke Ball" style="border: 1px solid; border-radius: 4px; padding: 4px; align-self: center; min-height: 60px; min-width: 60px;" />
+		<div>
+			<span markdown>**Category:** Held Items</span>
+			<br/>
+			<span markdown>**Flavor Text:** An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail.</span>
+		</div>
+	</div>
+
+## :material-information: Effect
+
+!!! tip "Quick Summary"
+
+    Held: Allows the Holder to escape from any wild battle.
+
+## :material-tag: Attributes
+
+<div class="grid cards" markdown>
+
+- **:material-shape: Category**
+
+	---
+
+	Held Items
+
+- **:material-currency-usd: Cost**
+
+	---
+
+	₽4,000
+
+- **:material-fire: Fling Power**
+
+	---
+
+	30
+
+</div>
+
+## :material-pokeball: Wild Pokémon Encounters
+
+The following Pokémon may hold this item when encountered in the wild:
+
+| Pokémon | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
+|:--------|:--------:|:-------:|:-----:|:---------:|:----------:|
+| [**#442 Spiritomb**](../pokemon/spiritomb.md) | 100% | — | — | — | — |

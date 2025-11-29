@@ -47,11 +47,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Bulbasaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/1.png){: .pokemon-sprite-img }](../pokemon/bulbasaur.md)
+-	[![Bulbasaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/1.png){: .pokemon-sprite-img }](../pokedex/pokemon/bulbasaur.md)
 
 	***
 
-	**#001 [Bulbasaur](../pokemon/bulbasaur.md)**
+	**#001 [Bulbasaur](../pokedex/pokemon/bulbasaur.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -83,11 +83,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Ivysaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/2.png){: .pokemon-sprite-img }](../pokemon/ivysaur.md)
+-	[![Ivysaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/2.png){: .pokemon-sprite-img }](../pokedex/pokemon/ivysaur.md)
 
 	***
 
-	**#002 [Ivysaur](../pokemon/ivysaur.md)**
+	**#002 [Ivysaur](../pokedex/pokemon/ivysaur.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -120,11 +120,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Venusaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/3.png){: .pokemon-sprite-img }](../pokemon/venusaur.md)
+-	[![Venusaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/3.png){: .pokemon-sprite-img }](../pokedex/pokemon/venusaur.md)
 
 	***
 
-	**#003 [Venusaur](../pokemon/venusaur.md)**
+	**#003 [Venusaur](../pokedex/pokemon/venusaur.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -164,11 +164,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Charmander](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/4.png){: .pokemon-sprite-img }](../pokemon/charmander.md)
+-	[![Charmander](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/4.png){: .pokemon-sprite-img }](../pokedex/pokemon/charmander.md)
 
 	***
 
-	**#004 [Charmander](../pokemon/charmander.md)**
+	**#004 [Charmander](../pokedex/pokemon/charmander.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -203,11 +203,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Charmeleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/5.png){: .pokemon-sprite-img }](../pokemon/charmeleon.md)
+-	[![Charmeleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/5.png){: .pokemon-sprite-img }](../pokedex/pokemon/charmeleon.md)
 
 	***
 
-	**#005 [Charmeleon](../pokemon/charmeleon.md)**
+	**#005 [Charmeleon](../pokedex/pokemon/charmeleon.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -243,11 +243,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Charizard](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/6.png){: .pokemon-sprite-img }](../pokemon/charizard.md)
+-	[![Charizard](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/6.png){: .pokemon-sprite-img }](../pokedex/pokemon/charizard.md)
 
 	***
 
-	**#006 [Charizard](../pokemon/charizard.md)**
+	**#006 [Charizard](../pokedex/pokemon/charizard.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -294,11 +294,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Squirtle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/7.png){: .pokemon-sprite-img }](../pokemon/squirtle.md)
+-	[![Squirtle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/7.png){: .pokemon-sprite-img }](../pokedex/pokemon/squirtle.md)
 
 	***
 
-	**#007 [Squirtle](../pokemon/squirtle.md)**
+	**#007 [Squirtle](../pokedex/pokemon/squirtle.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -329,11 +329,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Wartortle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/8.png){: .pokemon-sprite-img }](../pokemon/wartortle.md)
+-	[![Wartortle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/8.png){: .pokemon-sprite-img }](../pokedex/pokemon/wartortle.md)
 
 	***
 
-	**#008 [Wartortle](../pokemon/wartortle.md)**
+	**#008 [Wartortle](../pokedex/pokemon/wartortle.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -365,11 +365,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Blastoise](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/9.png){: .pokemon-sprite-img }](../pokemon/blastoise.md)
+-	[![Blastoise](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/9.png){: .pokemon-sprite-img }](../pokedex/pokemon/blastoise.md)
 
 	***
 
-	**#009 [Blastoise](../pokemon/blastoise.md)**
+	**#009 [Blastoise](../pokedex/pokemon/blastoise.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -414,11 +414,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Caterpie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/10.png){: .pokemon-sprite-img }](../pokemon/caterpie.md)
+-	[![Caterpie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/10.png){: .pokemon-sprite-img }](../pokedex/pokemon/caterpie.md)
 
 	***
 
-	**#010 [Caterpie](../pokemon/caterpie.md)**
+	**#010 [Caterpie](../pokedex/pokemon/caterpie.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -436,11 +436,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Metapod](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/11.png){: .pokemon-sprite-img }](../pokemon/metapod.md)
+-	[![Metapod](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/11.png){: .pokemon-sprite-img }](../pokedex/pokemon/metapod.md)
 
 	***
 
-	**#011 [Metapod](../pokemon/metapod.md)**
+	**#011 [Metapod](../pokedex/pokemon/metapod.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -458,11 +458,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Butterfree](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/12.png){: .pokemon-sprite-img }](../pokemon/butterfree.md)
+-	[![Butterfree](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/12.png){: .pokemon-sprite-img }](../pokedex/pokemon/butterfree.md)
 
 	***
 
-	**#012 [Butterfree](../pokemon/butterfree.md)**
+	**#012 [Butterfree](../pokedex/pokemon/butterfree.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -504,11 +504,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Weedle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/13.png){: .pokemon-sprite-img }](../pokemon/weedle.md)
+-	[![Weedle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/13.png){: .pokemon-sprite-img }](../pokedex/pokemon/weedle.md)
 
 	***
 
-	**#013 [Weedle](../pokemon/weedle.md)**
+	**#013 [Weedle](../pokedex/pokemon/weedle.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -526,11 +526,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Kakuna](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/14.png){: .pokemon-sprite-img }](../pokemon/kakuna.md)
+-	[![Kakuna](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/14.png){: .pokemon-sprite-img }](../pokedex/pokemon/kakuna.md)
 
 	***
 
-	**#014 [Kakuna](../pokemon/kakuna.md)**
+	**#014 [Kakuna](../pokedex/pokemon/kakuna.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -548,11 +548,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Beedrill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/15.png){: .pokemon-sprite-img }](../pokemon/beedrill.md)
+-	[![Beedrill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/15.png){: .pokemon-sprite-img }](../pokedex/pokemon/beedrill.md)
 
 	***
 
-	**#015 [Beedrill](../pokemon/beedrill.md)**
+	**#015 [Beedrill](../pokedex/pokemon/beedrill.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -594,11 +594,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Pidgey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/16.png){: .pokemon-sprite-img }](../pokemon/pidgey.md)
+-	[![Pidgey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/16.png){: .pokemon-sprite-img }](../pokedex/pokemon/pidgey.md)
 
 	***
 
-	**#016 [Pidgey](../pokemon/pidgey.md)**
+	**#016 [Pidgey](../pokedex/pokemon/pidgey.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -635,11 +635,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Pidgeotto](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/17.png){: .pokemon-sprite-img }](../pokemon/pidgeotto.md)
+-	[![Pidgeotto](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/17.png){: .pokemon-sprite-img }](../pokedex/pokemon/pidgeotto.md)
 
 	***
 
-	**#017 [Pidgeotto](../pokemon/pidgeotto.md)**
+	**#017 [Pidgeotto](../pokedex/pokemon/pidgeotto.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -676,11 +676,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Pidgeot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/18.png){: .pokemon-sprite-img }](../pokemon/pidgeot.md)
+-	[![Pidgeot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/18.png){: .pokemon-sprite-img }](../pokedex/pokemon/pidgeot.md)
 
 	***
 
-	**#018 [Pidgeot](../pokemon/pidgeot.md)**
+	**#018 [Pidgeot](../pokedex/pokemon/pidgeot.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -723,11 +723,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Rattata](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/19.png){: .pokemon-sprite-img }](../pokemon/rattata.md)
+-	[![Rattata](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/19.png){: .pokemon-sprite-img }](../pokedex/pokemon/rattata.md)
 
 	***
 
-	**#019 [Rattata](../pokemon/rattata.md)**
+	**#019 [Rattata](../pokedex/pokemon/rattata.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -758,11 +758,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Raticate](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/20.png){: .pokemon-sprite-img }](../pokemon/raticate.md)
+-	[![Raticate](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/20.png){: .pokemon-sprite-img }](../pokedex/pokemon/raticate.md)
 
 	***
 
-	**#020 [Raticate](../pokemon/raticate.md)**
+	**#020 [Raticate](../pokedex/pokemon/raticate.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -798,11 +798,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Spearow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/21.png){: .pokemon-sprite-img }](../pokemon/spearow.md)
+-	[![Spearow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/21.png){: .pokemon-sprite-img }](../pokedex/pokemon/spearow.md)
 
 	***
 
-	**#021 [Spearow](../pokemon/spearow.md)**
+	**#021 [Spearow](../pokedex/pokemon/spearow.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -838,11 +838,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Fearow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/22.png){: .pokemon-sprite-img }](../pokemon/fearow.md)
+-	[![Fearow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/22.png){: .pokemon-sprite-img }](../pokedex/pokemon/fearow.md)
 
 	***
 
-	**#022 [Fearow](../pokemon/fearow.md)**
+	**#022 [Fearow](../pokedex/pokemon/fearow.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -883,11 +883,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Ekans](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/23.png){: .pokemon-sprite-img }](../pokemon/ekans.md)
+-	[![Ekans](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/23.png){: .pokemon-sprite-img }](../pokedex/pokemon/ekans.md)
 
 	***
 
-	**#023 [Ekans](../pokemon/ekans.md)**
+	**#023 [Ekans](../pokedex/pokemon/ekans.md)**
 
 </div>**Level Up**:
 
@@ -915,11 +915,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Arbok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/24.png){: .pokemon-sprite-img }](../pokemon/arbok.md)
+-	[![Arbok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/24.png){: .pokemon-sprite-img }](../pokedex/pokemon/arbok.md)
 
 	***
 
-	**#024 [Arbok](../pokemon/arbok.md)**
+	**#024 [Arbok](../pokedex/pokemon/arbok.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -955,11 +955,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/25.png){: .pokemon-sprite-img }](../pokemon/pikachu.md)
+-	[![Pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/25.png){: .pokemon-sprite-img }](../pokedex/pokemon/pikachu.md)
 
 	***
 
-	**#025 [Pikachu](../pokemon/pikachu.md)**
+	**#025 [Pikachu](../pokedex/pokemon/pikachu.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -995,11 +995,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Raichu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/26.png){: .pokemon-sprite-img }](../pokemon/raichu.md)
+-	[![Raichu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/26.png){: .pokemon-sprite-img }](../pokedex/pokemon/raichu.md)
 
 	***
 
-	**#026 [Raichu](../pokemon/raichu.md)**
+	**#026 [Raichu](../pokedex/pokemon/raichu.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -1029,11 +1029,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Sandshrew](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/27.png){: .pokemon-sprite-img }](../pokemon/sandshrew.md)
+-	[![Sandshrew](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/27.png){: .pokemon-sprite-img }](../pokedex/pokemon/sandshrew.md)
 
 	***
 
-	**#027 [Sandshrew](../pokemon/sandshrew.md)**
+	**#027 [Sandshrew](../pokedex/pokemon/sandshrew.md)**
 
 </div>**Level Up**:
 
@@ -1064,11 +1064,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Sandslash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/28.png){: .pokemon-sprite-img }](../pokemon/sandslash.md)
+-	[![Sandslash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/28.png){: .pokemon-sprite-img }](../pokedex/pokemon/sandslash.md)
 
 	***
 
-	**#028 [Sandslash](../pokemon/sandslash.md)**
+	**#028 [Sandslash](../pokedex/pokemon/sandslash.md)**
 
 </div>**Level Up**:
 
@@ -1100,11 +1100,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Nidoran♀](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/29.png){: .pokemon-sprite-img }](../pokemon/nidoran-f.md)
+-	[![Nidoran♀](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/29.png){: .pokemon-sprite-img }](../pokedex/pokemon/nidoran-f.md)
 
 	***
 
-	**#029 [Nidoran♀](../pokemon/nidoran-f.md)**
+	**#029 [Nidoran♀](../pokedex/pokemon/nidoran-f.md)**
 
 </div>**Level Up**:
 
@@ -1131,11 +1131,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Nidorina](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/30.png){: .pokemon-sprite-img }](../pokemon/nidorina.md)
+-	[![Nidorina](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/30.png){: .pokemon-sprite-img }](../pokedex/pokemon/nidorina.md)
 
 	***
 
-	**#030 [Nidorina](../pokemon/nidorina.md)**
+	**#030 [Nidorina](../pokedex/pokemon/nidorina.md)**
 
 </div>**Level Up**:
 
@@ -1162,11 +1162,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Nidoqueen](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/31.png){: .pokemon-sprite-img }](../pokemon/nidoqueen.md)
+-	[![Nidoqueen](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/31.png){: .pokemon-sprite-img }](../pokedex/pokemon/nidoqueen.md)
 
 	***
 
-	**#031 [Nidoqueen](../pokemon/nidoqueen.md)**
+	**#031 [Nidoqueen](../pokedex/pokemon/nidoqueen.md)**
 
 </div>**Level Up**:
 
@@ -1187,11 +1187,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Nidoran♀](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/29.png){: .pokemon-sprite-img }](../pokemon/nidoran-f.md)
+-	[![Nidoran♀](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/29.png){: .pokemon-sprite-img }](../pokedex/pokemon/nidoran-f.md)
 
 	***
 
-	**#029 [Nidoran♀](../pokemon/nidoran-f.md)**
+	**#029 [Nidoran♀](../pokedex/pokemon/nidoran-f.md)**
 
 </div>**Level Up**:
 
@@ -1218,11 +1218,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Nidorino](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/33.png){: .pokemon-sprite-img }](../pokemon/nidorino.md)
+-	[![Nidorino](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/33.png){: .pokemon-sprite-img }](../pokedex/pokemon/nidorino.md)
 
 	***
 
-	**#033 [Nidorino](../pokemon/nidorino.md)**
+	**#033 [Nidorino](../pokedex/pokemon/nidorino.md)**
 
 </div>**Level Up**:
 
@@ -1249,11 +1249,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Nidoking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/34.png){: .pokemon-sprite-img }](../pokemon/nidoking.md)
+-	[![Nidoking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/34.png){: .pokemon-sprite-img }](../pokedex/pokemon/nidoking.md)
 
 	***
 
-	**#034 [Nidoking](../pokemon/nidoking.md)**
+	**#034 [Nidoking](../pokedex/pokemon/nidoking.md)**
 
 </div>**Level Up**:
 
@@ -1274,11 +1274,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Clefairy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/35.png){: .pokemon-sprite-img }](../pokemon/clefairy.md)
+-	[![Clefairy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/35.png){: .pokemon-sprite-img }](../pokedex/pokemon/clefairy.md)
 
 	***
 
-	**#035 [Clefairy](../pokemon/clefairy.md)**
+	**#035 [Clefairy](../pokedex/pokemon/clefairy.md)**
 
 </div>**Level Up**:
 
@@ -1310,11 +1310,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Clefable](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/36.png){: .pokemon-sprite-img }](../pokemon/clefable.md)
+-	[![Clefable](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/36.png){: .pokemon-sprite-img }](../pokedex/pokemon/clefable.md)
 
 	***
 
-	**#036 [Clefable](../pokemon/clefable.md)**
+	**#036 [Clefable](../pokedex/pokemon/clefable.md)**
 
 </div>**Level Up**:
 
@@ -1332,11 +1332,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Vulpix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/37.png){: .pokemon-sprite-img }](../pokemon/vulpix.md)
+-	[![Vulpix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/37.png){: .pokemon-sprite-img }](../pokedex/pokemon/vulpix.md)
 
 	***
 
-	**#037 [Vulpix](../pokemon/vulpix.md)**
+	**#037 [Vulpix](../pokedex/pokemon/vulpix.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -1374,11 +1374,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Ninetales](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/38.png){: .pokemon-sprite-img }](../pokemon/ninetales.md)
+-	[![Ninetales](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/38.png){: .pokemon-sprite-img }](../pokedex/pokemon/ninetales.md)
 
 	***
 
-	**#038 [Ninetales](../pokemon/ninetales.md)**
+	**#038 [Ninetales](../pokedex/pokemon/ninetales.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -1411,11 +1411,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Jigglypuff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/39.png){: .pokemon-sprite-img }](../pokemon/jigglypuff.md)
+-	[![Jigglypuff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/39.png){: .pokemon-sprite-img }](../pokedex/pokemon/jigglypuff.md)
 
 	***
 
-	**#039 [Jigglypuff](../pokemon/jigglypuff.md)**
+	**#039 [Jigglypuff](../pokedex/pokemon/jigglypuff.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -1453,11 +1453,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Wigglytuff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/40.png){: .pokemon-sprite-img }](../pokemon/wigglytuff.md)
+-	[![Wigglytuff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/40.png){: .pokemon-sprite-img }](../pokedex/pokemon/wigglytuff.md)
 
 	***
 
-	**#040 [Wigglytuff](../pokemon/wigglytuff.md)**
+	**#040 [Wigglytuff](../pokedex/pokemon/wigglytuff.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -1483,11 +1483,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Zubat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/41.png){: .pokemon-sprite-img }](../pokemon/zubat.md)
+-	[![Zubat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/41.png){: .pokemon-sprite-img }](../pokedex/pokemon/zubat.md)
 
 	***
 
-	**#041 [Zubat](../pokemon/zubat.md)**
+	**#041 [Zubat](../pokedex/pokemon/zubat.md)**
 
 </div>**Moves**:
 
@@ -1519,11 +1519,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){: .pokemon-sprite-img }](../pokemon/golbat.md)
+-	[![Golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){: .pokemon-sprite-img }](../pokedex/pokemon/golbat.md)
 
 	***
 
-	**#042 [Golbat](../pokemon/golbat.md)**
+	**#042 [Golbat](../pokedex/pokemon/golbat.md)**
 
 </div>**Moves**:
 
@@ -1557,11 +1557,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Oddish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/43.png){: .pokemon-sprite-img }](../pokemon/oddish.md)
+-	[![Oddish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/43.png){: .pokemon-sprite-img }](../pokedex/pokemon/oddish.md)
 
 	***
 
-	**#043 [Oddish](../pokemon/oddish.md)**
+	**#043 [Oddish](../pokedex/pokemon/oddish.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -1593,11 +1593,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Gloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/44.png){: .pokemon-sprite-img }](../pokemon/gloom.md)
+-	[![Gloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/44.png){: .pokemon-sprite-img }](../pokedex/pokemon/gloom.md)
 
 	***
 
-	**#044 [Gloom](../pokemon/gloom.md)**
+	**#044 [Gloom](../pokedex/pokemon/gloom.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -1629,11 +1629,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Vileplume](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/45.png){: .pokemon-sprite-img }](../pokemon/vileplume.md)
+-	[![Vileplume](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/45.png){: .pokemon-sprite-img }](../pokedex/pokemon/vileplume.md)
 
 	***
 
-	**#045 [Vileplume](../pokemon/vileplume.md)**
+	**#045 [Vileplume](../pokedex/pokemon/vileplume.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -1658,11 +1658,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Paras](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/46.png){: .pokemon-sprite-img }](../pokemon/paras.md)
+-	[![Paras](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/46.png){: .pokemon-sprite-img }](../pokedex/pokemon/paras.md)
 
 	***
 
-	**#046 [Paras](../pokemon/paras.md)**
+	**#046 [Paras](../pokedex/pokemon/paras.md)**
 
 </div>**Moves**:
 
@@ -1694,11 +1694,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Parasect](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/47.png){: .pokemon-sprite-img }](../pokemon/parasect.md)
+-	[![Parasect](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/47.png){: .pokemon-sprite-img }](../pokedex/pokemon/parasect.md)
 
 	***
 
-	**#047 [Parasect](../pokemon/parasect.md)**
+	**#047 [Parasect](../pokedex/pokemon/parasect.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -1735,11 +1735,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Venonat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/48.png){: .pokemon-sprite-img }](../pokemon/venonat.md)
+-	[![Venonat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/48.png){: .pokemon-sprite-img }](../pokedex/pokemon/venonat.md)
 
 	***
 
-	**#048 [Venonat](../pokemon/venonat.md)**
+	**#048 [Venonat](../pokedex/pokemon/venonat.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -1775,11 +1775,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Venomoth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/49.png){: .pokemon-sprite-img }](../pokemon/venomoth.md)
+-	[![Venomoth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/49.png){: .pokemon-sprite-img }](../pokedex/pokemon/venomoth.md)
 
 	***
 
-	**#049 [Venomoth](../pokemon/venomoth.md)**
+	**#049 [Venomoth](../pokedex/pokemon/venomoth.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -1822,11 +1822,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Diglett](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/50.png){: .pokemon-sprite-img }](../pokemon/diglett.md)
+-	[![Diglett](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/50.png){: .pokemon-sprite-img }](../pokedex/pokemon/diglett.md)
 
 	***
 
-	**#050 [Diglett](../pokemon/diglett.md)**
+	**#050 [Diglett](../pokedex/pokemon/diglett.md)**
 
 </div>**Level Up**:
 
@@ -1854,11 +1854,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Dugtrio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/51.png){: .pokemon-sprite-img }](../pokemon/dugtrio.md)
+-	[![Dugtrio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/51.png){: .pokemon-sprite-img }](../pokedex/pokemon/dugtrio.md)
 
 	***
 
-	**#051 [Dugtrio](../pokemon/dugtrio.md)**
+	**#051 [Dugtrio](../pokedex/pokemon/dugtrio.md)**
 
 </div>**Level Up**:
 
@@ -1888,11 +1888,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Meowth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/52.png){: .pokemon-sprite-img }](../pokemon/meowth.md)
+-	[![Meowth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/52.png){: .pokemon-sprite-img }](../pokedex/pokemon/meowth.md)
 
 	***
 
-	**#052 [Meowth](../pokemon/meowth.md)**
+	**#052 [Meowth](../pokedex/pokemon/meowth.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -1926,11 +1926,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Persian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/53.png){: .pokemon-sprite-img }](../pokemon/persian.md)
+-	[![Persian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/53.png){: .pokemon-sprite-img }](../pokedex/pokemon/persian.md)
 
 	***
 
-	**#053 [Persian](../pokemon/persian.md)**
+	**#053 [Persian](../pokedex/pokemon/persian.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -1968,11 +1968,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Psyduck](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/54.png){: .pokemon-sprite-img }](../pokemon/psyduck.md)
+-	[![Psyduck](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/54.png){: .pokemon-sprite-img }](../pokedex/pokemon/psyduck.md)
 
 	***
 
-	**#054 [Psyduck](../pokemon/psyduck.md)**
+	**#054 [Psyduck](../pokedex/pokemon/psyduck.md)**
 
 </div>**Level Up**:
 
@@ -2001,11 +2001,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Golduck](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/55.png){: .pokemon-sprite-img }](../pokemon/golduck.md)
+-	[![Golduck](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/55.png){: .pokemon-sprite-img }](../pokedex/pokemon/golduck.md)
 
 	***
 
-	**#055 [Golduck](../pokemon/golduck.md)**
+	**#055 [Golduck](../pokedex/pokemon/golduck.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -2041,11 +2041,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Mankey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/56.png){: .pokemon-sprite-img }](../pokemon/mankey.md)
+-	[![Mankey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/56.png){: .pokemon-sprite-img }](../pokedex/pokemon/mankey.md)
 
 	***
 
-	**#056 [Mankey](../pokemon/mankey.md)**
+	**#056 [Mankey](../pokedex/pokemon/mankey.md)**
 
 </div>**Level Up**:
 
@@ -2076,11 +2076,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Primeape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/57.png){: .pokemon-sprite-img }](../pokemon/primeape.md)
+-	[![Primeape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/57.png){: .pokemon-sprite-img }](../pokedex/pokemon/primeape.md)
 
 	***
 
-	**#057 [Primeape](../pokemon/primeape.md)**
+	**#057 [Primeape](../pokedex/pokemon/primeape.md)**
 
 </div>**Level Up**:
 
@@ -2112,11 +2112,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Growlithe](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/58.png){: .pokemon-sprite-img }](../pokemon/growlithe.md)
+-	[![Growlithe](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/58.png){: .pokemon-sprite-img }](../pokedex/pokemon/growlithe.md)
 
 	***
 
-	**#058 [Growlithe](../pokemon/growlithe.md)**
+	**#058 [Growlithe](../pokedex/pokemon/growlithe.md)**
 
 </div>**Level Up**:
 
@@ -2145,11 +2145,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Arcanine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/59.png){: .pokemon-sprite-img }](../pokemon/arcanine.md)
+-	[![Arcanine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/59.png){: .pokemon-sprite-img }](../pokedex/pokemon/arcanine.md)
 
 	***
 
-	**#059 [Arcanine](../pokemon/arcanine.md)**
+	**#059 [Arcanine](../pokedex/pokemon/arcanine.md)**
 
 </div>**Level Up**:
 
@@ -2170,11 +2170,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Poliwag](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/60.png){: .pokemon-sprite-img }](../pokemon/poliwag.md)
+-	[![Poliwag](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/60.png){: .pokemon-sprite-img }](../pokedex/pokemon/poliwag.md)
 
 	***
 
-	**#060 [Poliwag](../pokemon/poliwag.md)**
+	**#060 [Poliwag](../pokedex/pokemon/poliwag.md)**
 
 </div>Level Up
 | 1 | [Pound](../pokedex/moves/pound.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Physical | <input type="checkbox" disabled /> |
@@ -2197,11 +2197,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Poliwhirl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/61.png){: .pokemon-sprite-img }](../pokemon/poliwhirl.md)
+-	[![Poliwhirl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/61.png){: .pokemon-sprite-img }](../pokedex/pokemon/poliwhirl.md)
 
 	***
 
-	**#061 [Poliwhirl](../pokemon/poliwhirl.md)**
+	**#061 [Poliwhirl](../pokedex/pokemon/poliwhirl.md)**
 
 </div>**Evolution**:
 
@@ -2231,11 +2231,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Poliwrath](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/62.png){: .pokemon-sprite-img }](../pokemon/poliwrath.md)
+-	[![Poliwrath](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/62.png){: .pokemon-sprite-img }](../pokedex/pokemon/poliwrath.md)
 
 	***
 
-	**#062 [Poliwrath](../pokemon/poliwrath.md)**
+	**#062 [Poliwrath](../pokedex/pokemon/poliwrath.md)**
 
 </div>**Moves**:
 
@@ -2262,11 +2262,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Abra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/63.png){: .pokemon-sprite-img }](../pokemon/abra.md)
+-	[![Abra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/63.png){: .pokemon-sprite-img }](../pokedex/pokemon/abra.md)
 
 	***
 
-	**#063 [Abra](../pokemon/abra.md)**
+	**#063 [Abra](../pokedex/pokemon/abra.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -2282,11 +2282,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Kadabra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/64.png){: .pokemon-sprite-img }](../pokemon/kadabra.md)
+-	[![Kadabra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/64.png){: .pokemon-sprite-img }](../pokedex/pokemon/kadabra.md)
 
 	***
 
-	**#064 [Kadabra](../pokemon/kadabra.md)**
+	**#064 [Kadabra](../pokedex/pokemon/kadabra.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -2322,11 +2322,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Alakazam](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/65.png){: .pokemon-sprite-img }](../pokemon/alakazam.md)
+-	[![Alakazam](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/65.png){: .pokemon-sprite-img }](../pokedex/pokemon/alakazam.md)
 
 	***
 
-	**#065 [Alakazam](../pokemon/alakazam.md)**
+	**#065 [Alakazam](../pokedex/pokemon/alakazam.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -2361,11 +2361,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Machop](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/66.png){: .pokemon-sprite-img }](../pokemon/machop.md)
+-	[![Machop](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/66.png){: .pokemon-sprite-img }](../pokedex/pokemon/machop.md)
 
 	***
 
-	**#066 [Machop](../pokemon/machop.md)**
+	**#066 [Machop](../pokedex/pokemon/machop.md)**
 
 </div>**Level Up**:
 
@@ -2395,11 +2395,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Machoke](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/67.png){: .pokemon-sprite-img }](../pokemon/machoke.md)
+-	[![Machoke](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/67.png){: .pokemon-sprite-img }](../pokedex/pokemon/machoke.md)
 
 	***
 
-	**#067 [Machoke](../pokemon/machoke.md)**
+	**#067 [Machoke](../pokedex/pokemon/machoke.md)**
 
 </div>**Evolution**:
 
@@ -2433,11 +2433,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Machamp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/68.png){: .pokemon-sprite-img }](../pokemon/machamp.md)
+-	[![Machamp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/68.png){: .pokemon-sprite-img }](../pokedex/pokemon/machamp.md)
 
 	***
 
-	**#068 [Machamp](../pokemon/machamp.md)**
+	**#068 [Machamp](../pokedex/pokemon/machamp.md)**
 
 </div>**Level Up**:
 
@@ -2469,11 +2469,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Bellsprout](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/69.png){: .pokemon-sprite-img }](../pokemon/bellsprout.md)
+-	[![Bellsprout](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/69.png){: .pokemon-sprite-img }](../pokedex/pokemon/bellsprout.md)
 
 	***
 
-	**#069 [Bellsprout](../pokemon/bellsprout.md)**
+	**#069 [Bellsprout](../pokedex/pokemon/bellsprout.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -2505,11 +2505,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Weepinbell](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/70.png){: .pokemon-sprite-img }](../pokemon/weepinbell.md)
+-	[![Weepinbell](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/70.png){: .pokemon-sprite-img }](../pokedex/pokemon/weepinbell.md)
 
 	***
 
-	**#070 [Weepinbell](../pokemon/weepinbell.md)**
+	**#070 [Weepinbell](../pokedex/pokemon/weepinbell.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -2541,11 +2541,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Victreebel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/71.png){: .pokemon-sprite-img }](../pokemon/victreebel.md)
+-	[![Victreebel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/71.png){: .pokemon-sprite-img }](../pokedex/pokemon/victreebel.md)
 
 	***
 
-	**#071 [Victreebel](../pokemon/victreebel.md)**
+	**#071 [Victreebel](../pokedex/pokemon/victreebel.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -2573,11 +2573,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Tentacool](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/72.png){: .pokemon-sprite-img }](../pokemon/tentacool.md)
+-	[![Tentacool](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/72.png){: .pokemon-sprite-img }](../pokedex/pokemon/tentacool.md)
 
 	***
 
-	**#072 [Tentacool](../pokemon/tentacool.md)**
+	**#072 [Tentacool](../pokedex/pokemon/tentacool.md)**
 
 </div>**Level Up**:
 
@@ -2604,11 +2604,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){: .pokemon-sprite-img }](../pokemon/tentacruel.md)
+-	[![Tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){: .pokemon-sprite-img }](../pokedex/pokemon/tentacruel.md)
 
 	***
 
-	**#073 [Tentacruel](../pokemon/tentacruel.md)**
+	**#073 [Tentacruel](../pokedex/pokemon/tentacruel.md)**
 
 </div>**Level Up**:
 
@@ -2635,11 +2635,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Geodude](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/74.png){: .pokemon-sprite-img }](../pokemon/geodude.md)
+-	[![Geodude](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/74.png){: .pokemon-sprite-img }](../pokedex/pokemon/geodude.md)
 
 	***
 
-	**#074 [Geodude](../pokemon/geodude.md)**
+	**#074 [Geodude](../pokedex/pokemon/geodude.md)**
 
 </div>**Level Up**:
 
@@ -2667,11 +2667,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Graveler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/75.png){: .pokemon-sprite-img }](../pokemon/graveler.md)
+-	[![Graveler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/75.png){: .pokemon-sprite-img }](../pokedex/pokemon/graveler.md)
 
 	***
 
-	**#075 [Graveler](../pokemon/graveler.md)**
+	**#075 [Graveler](../pokedex/pokemon/graveler.md)**
 
 </div>**Evolution**:
 
@@ -2704,11 +2704,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Golem](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/76.png){: .pokemon-sprite-img }](../pokemon/golem.md)
+-	[![Golem](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/76.png){: .pokemon-sprite-img }](../pokedex/pokemon/golem.md)
 
 	***
 
-	**#076 [Golem](../pokemon/golem.md)**
+	**#076 [Golem](../pokedex/pokemon/golem.md)**
 
 </div>**Level Up**:
 
@@ -2740,11 +2740,11 @@ Each Pokémon is listed under its own section header below.
 
 <div class="grid cards" markdown>
 
--	[![Ponyta](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/77.png){: .pokemon-sprite-img }](../pokemon/ponyta.md)
+-	[![Ponyta](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/77.png){: .pokemon-sprite-img }](../pokedex/pokemon/ponyta.md)
 
 	***
 
-	**#077 [Ponyta](../pokemon/ponyta.md)**
+	**#077 [Ponyta](../pokedex/pokemon/ponyta.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -2780,11 +2780,11 @@ Now evolves into Rapidash at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Rapidash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/78.png){: .pokemon-sprite-img }](../pokemon/rapidash.md)
+-	[![Rapidash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/78.png){: .pokemon-sprite-img }](../pokedex/pokemon/rapidash.md)
 
 	***
 
-	**#078 [Rapidash](../pokemon/rapidash.md)**
+	**#078 [Rapidash](../pokedex/pokemon/rapidash.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -2820,11 +2820,11 @@ Now evolves into Rapidash at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Slowpoke](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/79.png){: .pokemon-sprite-img }](../pokemon/slowpoke.md)
+-	[![Slowpoke](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/79.png){: .pokemon-sprite-img }](../pokedex/pokemon/slowpoke.md)
 
 	***
 
-	**#079 [Slowpoke](../pokemon/slowpoke.md)**
+	**#079 [Slowpoke](../pokedex/pokemon/slowpoke.md)**
 
 </div>**Evolution**:
 
@@ -2862,11 +2862,11 @@ Now evolves into Slowbro at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Slowbro](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/80.png){: .pokemon-sprite-img }](../pokemon/slowbro.md)
+-	[![Slowbro](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/80.png){: .pokemon-sprite-img }](../pokedex/pokemon/slowbro.md)
 
 	***
 
-	**#080 [Slowbro](../pokemon/slowbro.md)**
+	**#080 [Slowbro](../pokedex/pokemon/slowbro.md)**
 
 </div>**Moves**:
 
@@ -2900,11 +2900,11 @@ Now evolves into Slowbro at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Magnemite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/81.png){: .pokemon-sprite-img }](../pokemon/magnemite.md)
+-	[![Magnemite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/81.png){: .pokemon-sprite-img }](../pokedex/pokemon/magnemite.md)
 
 	***
 
-	**#081 [Magnemite](../pokemon/magnemite.md)**
+	**#081 [Magnemite](../pokedex/pokemon/magnemite.md)**
 
 </div>**Moves**:
 
@@ -2938,11 +2938,11 @@ Now evolves into Slowbro at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Magneton](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/82.png){: .pokemon-sprite-img }](../pokemon/magneton.md)
+-	[![Magneton](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/82.png){: .pokemon-sprite-img }](../pokedex/pokemon/magneton.md)
 
 	***
 
-	**#082 [Magneton](../pokemon/magneton.md)**
+	**#082 [Magneton](../pokedex/pokemon/magneton.md)**
 
 </div>**Moves**:
 
@@ -2977,11 +2977,11 @@ Now evolves into Slowbro at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Farfetchˈd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){: .pokemon-sprite-img }](../pokemon/farfetchd.md)
+-	[![Farfetchˈd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){: .pokemon-sprite-img }](../pokedex/pokemon/farfetchd.md)
 
 	***
 
-	**#083 [Farfetchˈd](../pokemon/farfetchd.md)**
+	**#083 [Farfetchˈd](../pokedex/pokemon/farfetchd.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -3033,11 +3033,11 @@ Now evolves into Slowbro at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Doduo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/84.png){: .pokemon-sprite-img }](../pokemon/doduo.md)
+-	[![Doduo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/84.png){: .pokemon-sprite-img }](../pokedex/pokemon/doduo.md)
 
 	***
 
-	**#084 [Doduo](../pokemon/doduo.md)**
+	**#084 [Doduo](../pokedex/pokemon/doduo.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -3070,11 +3070,11 @@ Now evolves into Slowbro at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Dodrio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/85.png){: .pokemon-sprite-img }](../pokemon/dodrio.md)
+-	[![Dodrio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/85.png){: .pokemon-sprite-img }](../pokedex/pokemon/dodrio.md)
 
 	***
 
-	**#085 [Dodrio](../pokemon/dodrio.md)**
+	**#085 [Dodrio](../pokedex/pokemon/dodrio.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -3110,11 +3110,11 @@ Now evolves into Slowbro at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Seel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/86.png){: .pokemon-sprite-img }](../pokemon/seel.md)
+-	[![Seel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/86.png){: .pokemon-sprite-img }](../pokedex/pokemon/seel.md)
 
 	***
 
-	**#086 [Seel](../pokemon/seel.md)**
+	**#086 [Seel](../pokedex/pokemon/seel.md)**
 
 </div>**Level Up**:
 
@@ -3145,11 +3145,11 @@ Now evolves into Slowbro at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Dewgong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/87.png){: .pokemon-sprite-img }](../pokemon/dewgong.md)
+-	[![Dewgong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/87.png){: .pokemon-sprite-img }](../pokedex/pokemon/dewgong.md)
 
 	***
 
-	**#087 [Dewgong](../pokemon/dewgong.md)**
+	**#087 [Dewgong](../pokedex/pokemon/dewgong.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -3185,11 +3185,11 @@ Now evolves into Slowbro at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Grimer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/88.png){: .pokemon-sprite-img }](../pokemon/grimer.md)
+-	[![Grimer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/88.png){: .pokemon-sprite-img }](../pokedex/pokemon/grimer.md)
 
 	***
 
-	**#088 [Grimer](../pokemon/grimer.md)**
+	**#088 [Grimer](../pokedex/pokemon/grimer.md)**
 
 </div>**Evolution**:
 
@@ -3222,11 +3222,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Muk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/89.png){: .pokemon-sprite-img }](../pokemon/muk.md)
+-	[![Muk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/89.png){: .pokemon-sprite-img }](../pokedex/pokemon/muk.md)
 
 	***
 
-	**#089 [Muk](../pokemon/muk.md)**
+	**#089 [Muk](../pokedex/pokemon/muk.md)**
 
 </div>**Level Up**:
 
@@ -3257,11 +3257,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Shellder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/90.png){: .pokemon-sprite-img }](../pokemon/shellder.md)
+-	[![Shellder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/90.png){: .pokemon-sprite-img }](../pokedex/pokemon/shellder.md)
 
 	***
 
-	**#090 [Shellder](../pokemon/shellder.md)**
+	**#090 [Shellder](../pokedex/pokemon/shellder.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -3296,11 +3296,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Cloyster](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/91.png){: .pokemon-sprite-img }](../pokemon/cloyster.md)
+-	[![Cloyster](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/91.png){: .pokemon-sprite-img }](../pokedex/pokemon/cloyster.md)
 
 	***
 
-	**#091 [Cloyster](../pokemon/cloyster.md)**
+	**#091 [Cloyster](../pokedex/pokemon/cloyster.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -3330,11 +3330,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Gastly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/92.png){: .pokemon-sprite-img }](../pokemon/gastly.md)
+-	[![Gastly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/92.png){: .pokemon-sprite-img }](../pokedex/pokemon/gastly.md)
 
 	***
 
-	**#092 [Gastly](../pokemon/gastly.md)**
+	**#092 [Gastly](../pokedex/pokemon/gastly.md)**
 
 </div>**Level Up**:
 
@@ -3363,11 +3363,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Haunter](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/93.png){: .pokemon-sprite-img }](../pokemon/haunter.md)
+-	[![Haunter](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/93.png){: .pokemon-sprite-img }](../pokedex/pokemon/haunter.md)
 
 	***
 
-	**#093 [Haunter](../pokemon/haunter.md)**
+	**#093 [Haunter](../pokedex/pokemon/haunter.md)**
 
 </div>**Evolution**:
 
@@ -3401,11 +3401,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/94.png){: .pokemon-sprite-img }](../pokemon/gengar.md)
+-	[![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/94.png){: .pokemon-sprite-img }](../pokedex/pokemon/gengar.md)
 
 	***
 
-	**#094 [Gengar](../pokemon/gengar.md)**
+	**#094 [Gengar](../pokedex/pokemon/gengar.md)**
 
 </div>**Level Up**:
 
@@ -3436,11 +3436,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Onix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/95.png){: .pokemon-sprite-img }](../pokemon/onix.md)
+-	[![Onix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/95.png){: .pokemon-sprite-img }](../pokedex/pokemon/onix.md)
 
 	***
 
-	**#095 [Onix](../pokemon/onix.md)**
+	**#095 [Onix](../pokedex/pokemon/onix.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -3477,11 +3477,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Drowzee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/96.png){: .pokemon-sprite-img }](../pokemon/drowzee.md)
+-	[![Drowzee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/96.png){: .pokemon-sprite-img }](../pokedex/pokemon/drowzee.md)
 
 	***
 
-	**#096 [Drowzee](../pokemon/drowzee.md)**
+	**#096 [Drowzee](../pokedex/pokemon/drowzee.md)**
 
 </div>**Level Up**:
 
@@ -3511,11 +3511,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Hypno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/97.png){: .pokemon-sprite-img }](../pokemon/hypno.md)
+-	[![Hypno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/97.png){: .pokemon-sprite-img }](../pokedex/pokemon/hypno.md)
 
 	***
 
-	**#097 [Hypno](../pokemon/hypno.md)**
+	**#097 [Hypno](../pokedex/pokemon/hypno.md)**
 
 </div>**Level Up**:
 
@@ -3547,11 +3547,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Krabby](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/98.png){: .pokemon-sprite-img }](../pokemon/krabby.md)
+-	[![Krabby](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/98.png){: .pokemon-sprite-img }](../pokedex/pokemon/krabby.md)
 
 	***
 
-	**#098 [Krabby](../pokemon/krabby.md)**
+	**#098 [Krabby](../pokedex/pokemon/krabby.md)**
 
 </div>**Moves**:
 
@@ -3584,11 +3584,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Kingler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/99.png){: .pokemon-sprite-img }](../pokemon/kingler.md)
+-	[![Kingler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/99.png){: .pokemon-sprite-img }](../pokedex/pokemon/kingler.md)
 
 	***
 
-	**#099 [Kingler](../pokemon/kingler.md)**
+	**#099 [Kingler](../pokedex/pokemon/kingler.md)**
 
 </div>**Moves**:
 
@@ -3625,11 +3625,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Voltorb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/100.png){: .pokemon-sprite-img }](../pokemon/voltorb.md)
+-	[![Voltorb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/100.png){: .pokemon-sprite-img }](../pokedex/pokemon/voltorb.md)
 
 	***
 
-	**#100 [Voltorb](../pokemon/voltorb.md)**
+	**#100 [Voltorb](../pokedex/pokemon/voltorb.md)**
 
 </div>**Moves**:
 
@@ -3662,11 +3662,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Electrode](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/101.png){: .pokemon-sprite-img }](../pokemon/electrode.md)
+-	[![Electrode](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/101.png){: .pokemon-sprite-img }](../pokedex/pokemon/electrode.md)
 
 	***
 
-	**#101 [Electrode](../pokemon/electrode.md)**
+	**#101 [Electrode](../pokedex/pokemon/electrode.md)**
 
 </div>**Moves**:
 
@@ -3700,11 +3700,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Exeggcute](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/102.png){: .pokemon-sprite-img }](../pokemon/exeggcute.md)
+-	[![Exeggcute](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/102.png){: .pokemon-sprite-img }](../pokedex/pokemon/exeggcute.md)
 
 	***
 
-	**#102 [Exeggcute](../pokemon/exeggcute.md)**
+	**#102 [Exeggcute](../pokedex/pokemon/exeggcute.md)**
 
 </div>**Level Up**:
 
@@ -3733,11 +3733,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Exeggutor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/103.png){: .pokemon-sprite-img }](../pokemon/exeggutor.md)
+-	[![Exeggutor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/103.png){: .pokemon-sprite-img }](../pokedex/pokemon/exeggutor.md)
 
 	***
 
-	**#103 [Exeggutor](../pokemon/exeggutor.md)**
+	**#103 [Exeggutor](../pokedex/pokemon/exeggutor.md)**
 
 </div>**Level Up**:
 
@@ -3757,11 +3757,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Cubone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/104.png){: .pokemon-sprite-img }](../pokemon/cubone.md)
+-	[![Cubone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/104.png){: .pokemon-sprite-img }](../pokedex/pokemon/cubone.md)
 
 	***
 
-	**#104 [Cubone](../pokemon/cubone.md)**
+	**#104 [Cubone](../pokedex/pokemon/cubone.md)**
 
 </div>**Level Up**:
 
@@ -3791,11 +3791,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Marowak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/105.png){: .pokemon-sprite-img }](../pokemon/marowak.md)
+-	[![Marowak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/105.png){: .pokemon-sprite-img }](../pokedex/pokemon/marowak.md)
 
 	***
 
-	**#105 [Marowak](../pokemon/marowak.md)**
+	**#105 [Marowak](../pokedex/pokemon/marowak.md)**
 
 </div>**Level Up**:
 
@@ -3826,11 +3826,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Hitmonlee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/106.png){: .pokemon-sprite-img }](../pokemon/hitmonlee.md)
+-	[![Hitmonlee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/106.png){: .pokemon-sprite-img }](../pokedex/pokemon/hitmonlee.md)
 
 	***
 
-	**#106 [Hitmonlee](../pokemon/hitmonlee.md)**
+	**#106 [Hitmonlee](../pokedex/pokemon/hitmonlee.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -3862,11 +3862,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Hitmonchan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/107.png){: .pokemon-sprite-img }](../pokemon/hitmonchan.md)
+-	[![Hitmonchan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/107.png){: .pokemon-sprite-img }](../pokedex/pokemon/hitmonchan.md)
 
 	***
 
-	**#107 [Hitmonchan](../pokemon/hitmonchan.md)**
+	**#107 [Hitmonchan](../pokedex/pokemon/hitmonchan.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -3899,11 +3899,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Lickitung](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/108.png){: .pokemon-sprite-img }](../pokemon/lickitung.md)
+-	[![Lickitung](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/108.png){: .pokemon-sprite-img }](../pokedex/pokemon/lickitung.md)
 
 	***
 
-	**#108 [Lickitung](../pokemon/lickitung.md)**
+	**#108 [Lickitung](../pokedex/pokemon/lickitung.md)**
 
 </div>**Level Up**:
 
@@ -3934,11 +3934,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Koffing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/109.png){: .pokemon-sprite-img }](../pokemon/koffing.md)
+-	[![Koffing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/109.png){: .pokemon-sprite-img }](../pokedex/pokemon/koffing.md)
 
 	***
 
-	**#109 [Koffing](../pokemon/koffing.md)**
+	**#109 [Koffing](../pokedex/pokemon/koffing.md)**
 
 </div>**Level Up**:
 
@@ -3966,11 +3966,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Weezing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/110.png){: .pokemon-sprite-img }](../pokemon/weezing.md)
+-	[![Weezing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/110.png){: .pokemon-sprite-img }](../pokedex/pokemon/weezing.md)
 
 	***
 
-	**#110 [Weezing](../pokemon/weezing.md)**
+	**#110 [Weezing](../pokedex/pokemon/weezing.md)**
 
 </div>**Level Up**:
 
@@ -4000,11 +4000,11 @@ Now evolves into Muk at Level 35.
 
 <div class="grid cards" markdown>
 
--	[![Rhyhorn](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/111.png){: .pokemon-sprite-img }](../pokemon/rhyhorn.md)
+-	[![Rhyhorn](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/111.png){: .pokemon-sprite-img }](../pokedex/pokemon/rhyhorn.md)
 
 	***
 
-	**#111 [Rhyhorn](../pokemon/rhyhorn.md)**
+	**#111 [Rhyhorn](../pokedex/pokemon/rhyhorn.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -4041,11 +4041,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Rhydon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/112.png){: .pokemon-sprite-img }](../pokemon/rhydon.md)
+-	[![Rhydon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/112.png){: .pokemon-sprite-img }](../pokedex/pokemon/rhydon.md)
 
 	***
 
-	**#112 [Rhydon](../pokemon/rhydon.md)**
+	**#112 [Rhydon](../pokedex/pokemon/rhydon.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -4084,11 +4084,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Chansey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/113.png){: .pokemon-sprite-img }](../pokemon/chansey.md)
+-	[![Chansey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/113.png){: .pokemon-sprite-img }](../pokedex/pokemon/chansey.md)
 
 	***
 
-	**#113 [Chansey](../pokemon/chansey.md)**
+	**#113 [Chansey](../pokedex/pokemon/chansey.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -4124,11 +4124,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Tangela](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/114.png){: .pokemon-sprite-img }](../pokemon/tangela.md)
+-	[![Tangela](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/114.png){: .pokemon-sprite-img }](../pokedex/pokemon/tangela.md)
 
 	***
 
-	**#114 [Tangela](../pokemon/tangela.md)**
+	**#114 [Tangela](../pokedex/pokemon/tangela.md)**
 
 </div>**Level Up**:
 
@@ -4158,11 +4158,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Kangaskhan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/115.png){: .pokemon-sprite-img }](../pokemon/kangaskhan.md)
+-	[![Kangaskhan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/115.png){: .pokemon-sprite-img }](../pokedex/pokemon/kangaskhan.md)
 
 	***
 
-	**#115 [Kangaskhan](../pokemon/kangaskhan.md)**
+	**#115 [Kangaskhan](../pokedex/pokemon/kangaskhan.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -4195,11 +4195,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Horsea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/116.png){: .pokemon-sprite-img }](../pokemon/horsea.md)
+-	[![Horsea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/116.png){: .pokemon-sprite-img }](../pokedex/pokemon/horsea.md)
 
 	***
 
-	**#116 [Horsea](../pokemon/horsea.md)**
+	**#116 [Horsea](../pokedex/pokemon/horsea.md)**
 
 </div>**Level Up**:
 
@@ -4227,11 +4227,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Seadra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/117.png){: .pokemon-sprite-img }](../pokemon/seadra.md)
+-	[![Seadra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/117.png){: .pokemon-sprite-img }](../pokedex/pokemon/seadra.md)
 
 	***
 
-	**#117 [Seadra](../pokemon/seadra.md)**
+	**#117 [Seadra](../pokedex/pokemon/seadra.md)**
 
 </div>**Evolution**:
 
@@ -4264,11 +4264,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Goldeen](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/118.png){: .pokemon-sprite-img }](../pokemon/goldeen.md)
+-	[![Goldeen](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/118.png){: .pokemon-sprite-img }](../pokedex/pokemon/goldeen.md)
 
 	***
 
-	**#118 [Goldeen](../pokemon/goldeen.md)**
+	**#118 [Goldeen](../pokedex/pokemon/goldeen.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -4302,11 +4302,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Seaking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/119.png){: .pokemon-sprite-img }](../pokemon/seaking.md)
+-	[![Seaking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/119.png){: .pokemon-sprite-img }](../pokedex/pokemon/seaking.md)
 
 	***
 
-	**#119 [Seaking](../pokemon/seaking.md)**
+	**#119 [Seaking](../pokedex/pokemon/seaking.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -4341,11 +4341,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Staryu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/120.png){: .pokemon-sprite-img }](../pokemon/staryu.md)
+-	[![Staryu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/120.png){: .pokemon-sprite-img }](../pokedex/pokemon/staryu.md)
 
 	***
 
-	**#120 [Staryu](../pokemon/staryu.md)**
+	**#120 [Staryu](../pokedex/pokemon/staryu.md)**
 
 </div>**Level Up**:
 
@@ -4374,11 +4374,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Starmie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/121.png){: .pokemon-sprite-img }](../pokemon/starmie.md)
+-	[![Starmie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/121.png){: .pokemon-sprite-img }](../pokedex/pokemon/starmie.md)
 
 	***
 
-	**#121 [Starmie](../pokemon/starmie.md)**
+	**#121 [Starmie](../pokedex/pokemon/starmie.md)**
 
 </div>**Level Up**:
 
@@ -4396,11 +4396,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Mr. Mime](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/122.png){: .pokemon-sprite-img }](../pokemon/mr-mime.md)
+-	[![Mr. Mime](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/122.png){: .pokemon-sprite-img }](../pokedex/pokemon/mr-mime.md)
 
 	***
 
-	**#122 [Mr. Mime](../pokemon/mr-mime.md)**
+	**#122 [Mr. Mime](../pokedex/pokemon/mr-mime.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -4438,11 +4438,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Scyther](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/123.png){: .pokemon-sprite-img }](../pokemon/scyther.md)
+-	[![Scyther](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/123.png){: .pokemon-sprite-img }](../pokedex/pokemon/scyther.md)
 
 	***
 
-	**#123 [Scyther](../pokemon/scyther.md)**
+	**#123 [Scyther](../pokedex/pokemon/scyther.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -4486,11 +4486,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Jynx](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/124.png){: .pokemon-sprite-img }](../pokemon/jynx.md)
+-	[![Jynx](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/124.png){: .pokemon-sprite-img }](../pokedex/pokemon/jynx.md)
 
 	***
 
-	**#124 [Jynx](../pokemon/jynx.md)**
+	**#124 [Jynx](../pokedex/pokemon/jynx.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -4528,11 +4528,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Electabuzz](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/125.png){: .pokemon-sprite-img }](../pokemon/electabuzz.md)
+-	[![Electabuzz](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/125.png){: .pokemon-sprite-img }](../pokedex/pokemon/electabuzz.md)
 
 	***
 
-	**#125 [Electabuzz](../pokemon/electabuzz.md)**
+	**#125 [Electabuzz](../pokedex/pokemon/electabuzz.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -4568,11 +4568,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Magmar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/126.png){: .pokemon-sprite-img }](../pokemon/magmar.md)
+-	[![Magmar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/126.png){: .pokemon-sprite-img }](../pokedex/pokemon/magmar.md)
 
 	***
 
-	**#126 [Magmar](../pokemon/magmar.md)**
+	**#126 [Magmar](../pokedex/pokemon/magmar.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -4608,11 +4608,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Pinsir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/127.png){: .pokemon-sprite-img }](../pokemon/pinsir.md)
+-	[![Pinsir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/127.png){: .pokemon-sprite-img }](../pokedex/pokemon/pinsir.md)
 
 	***
 
-	**#127 [Pinsir](../pokemon/pinsir.md)**
+	**#127 [Pinsir](../pokedex/pokemon/pinsir.md)**
 
 </div>**Moves**:
 
@@ -4646,11 +4646,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Tauros](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/128.png){: .pokemon-sprite-img }](../pokemon/tauros.md)
+-	[![Tauros](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/128.png){: .pokemon-sprite-img }](../pokedex/pokemon/tauros.md)
 
 	***
 
-	**#128 [Tauros](../pokemon/tauros.md)**
+	**#128 [Tauros](../pokedex/pokemon/tauros.md)**
 
 </div>**Level Up**:
 
@@ -4681,11 +4681,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Magikarp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/129.png){: .pokemon-sprite-img }](../pokemon/magikarp.md)
+-	[![Magikarp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/129.png){: .pokemon-sprite-img }](../pokedex/pokemon/magikarp.md)
 
 	***
 
-	**#129 [Magikarp](../pokemon/magikarp.md)**
+	**#129 [Magikarp](../pokedex/pokemon/magikarp.md)**
 
 </div>**Level Up**:
 
@@ -4700,11 +4700,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Gyarados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/130.png){: .pokemon-sprite-img }](../pokemon/gyarados.md)
+-	[![Gyarados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/130.png){: .pokemon-sprite-img }](../pokedex/pokemon/gyarados.md)
 
 	***
 
-	**#130 [Gyarados](../pokemon/gyarados.md)**
+	**#130 [Gyarados](../pokedex/pokemon/gyarados.md)**
 
 </div>**Moves**:
 
@@ -4735,11 +4735,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Lapras](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/131.png){: .pokemon-sprite-img }](../pokemon/lapras.md)
+-	[![Lapras](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/131.png){: .pokemon-sprite-img }](../pokedex/pokemon/lapras.md)
 
 	***
 
-	**#131 [Lapras](../pokemon/lapras.md)**
+	**#131 [Lapras](../pokedex/pokemon/lapras.md)**
 
 </div>**Level Up**:
 
@@ -4771,11 +4771,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Ditto](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/132.png){: .pokemon-sprite-img }](../pokemon/ditto.md)
+-	[![Ditto](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/132.png){: .pokemon-sprite-img }](../pokedex/pokemon/ditto.md)
 
 	***
 
-	**#132 [Ditto](../pokemon/ditto.md)**
+	**#132 [Ditto](../pokedex/pokemon/ditto.md)**
 
 </div>**Level Up**:
 
@@ -4787,11 +4787,11 @@ Now evolves into Rhydon at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Eevee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/133.png){: .pokemon-sprite-img }](../pokemon/eevee.md)
+-	[![Eevee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/133.png){: .pokemon-sprite-img }](../pokedex/pokemon/eevee.md)
 
 	***
 
-	**#133 [Eevee](../pokemon/eevee.md)**
+	**#133 [Eevee](../pokedex/pokemon/eevee.md)**
 
 </div>**Evolution**:
 
@@ -4832,11 +4832,11 @@ Now only evolves into Glaceon with the Ice Stone.
 
 <div class="grid cards" markdown>
 
--	[![Vaporeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/134.png){: .pokemon-sprite-img }](../pokemon/vaporeon.md)
+-	[![Vaporeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/134.png){: .pokemon-sprite-img }](../pokedex/pokemon/vaporeon.md)
 
 	***
 
-	**#134 [Vaporeon](../pokemon/vaporeon.md)**
+	**#134 [Vaporeon](../pokedex/pokemon/vaporeon.md)**
 
 </div>**Moves**:
 
@@ -4870,11 +4870,11 @@ Now only evolves into Glaceon with the Ice Stone.
 
 <div class="grid cards" markdown>
 
--	[![Jolteon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/135.png){: .pokemon-sprite-img }](../pokemon/jolteon.md)
+-	[![Jolteon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/135.png){: .pokemon-sprite-img }](../pokedex/pokemon/jolteon.md)
 
 	***
 
-	**#135 [Jolteon](../pokemon/jolteon.md)**
+	**#135 [Jolteon](../pokedex/pokemon/jolteon.md)**
 
 </div>**Moves**:
 
@@ -4908,11 +4908,11 @@ Now only evolves into Glaceon with the Ice Stone.
 
 <div class="grid cards" markdown>
 
--	[![Flareon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/136.png){: .pokemon-sprite-img }](../pokemon/flareon.md)
+-	[![Flareon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/136.png){: .pokemon-sprite-img }](../pokedex/pokemon/flareon.md)
 
 	***
 
-	**#136 [Flareon](../pokemon/flareon.md)**
+	**#136 [Flareon](../pokedex/pokemon/flareon.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -4952,11 +4952,11 @@ Now only evolves into Glaceon with the Ice Stone.
 
 <div class="grid cards" markdown>
 
--	[![Porygon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/137.png){: .pokemon-sprite-img }](../pokemon/porygon.md)
+-	[![Porygon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/137.png){: .pokemon-sprite-img }](../pokedex/pokemon/porygon.md)
 
 	***
 
-	**#137 [Porygon](../pokemon/porygon.md)**
+	**#137 [Porygon](../pokedex/pokemon/porygon.md)**
 
 </div>**Evolution**:
 
@@ -4991,11 +4991,11 @@ Now only evolves into Glaceon with the Ice Stone.
 
 <div class="grid cards" markdown>
 
--	[![Omanyte](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/138.png){: .pokemon-sprite-img }](../pokemon/omanyte.md)
+-	[![Omanyte](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/138.png){: .pokemon-sprite-img }](../pokedex/pokemon/omanyte.md)
 
 	***
 
-	**#138 [Omanyte](../pokemon/omanyte.md)**
+	**#138 [Omanyte](../pokedex/pokemon/omanyte.md)**
 
 </div>**Evolution**:
 
@@ -5027,11 +5027,11 @@ Now evolves into Omastar at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Omastar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/139.png){: .pokemon-sprite-img }](../pokemon/omastar.md)
+-	[![Omastar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/139.png){: .pokemon-sprite-img }](../pokedex/pokemon/omastar.md)
 
 	***
 
-	**#139 [Omastar](../pokemon/omastar.md)**
+	**#139 [Omastar](../pokedex/pokemon/omastar.md)**
 
 </div>**Level Up**:
 
@@ -5062,11 +5062,11 @@ Now evolves into Omastar at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Kabuto](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/140.png){: .pokemon-sprite-img }](../pokemon/kabuto.md)
+-	[![Kabuto](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/140.png){: .pokemon-sprite-img }](../pokedex/pokemon/kabuto.md)
 
 	***
 
-	**#140 [Kabuto](../pokemon/kabuto.md)**
+	**#140 [Kabuto](../pokedex/pokemon/kabuto.md)**
 
 </div>**Evolution**:
 
@@ -5098,11 +5098,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Kabutops](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/141.png){: .pokemon-sprite-img }](../pokemon/kabutops.md)
+-	[![Kabutops](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/141.png){: .pokemon-sprite-img }](../pokedex/pokemon/kabutops.md)
 
 	***
 
-	**#141 [Kabutops](../pokemon/kabutops.md)**
+	**#141 [Kabutops](../pokedex/pokemon/kabutops.md)**
 
 </div>**Level Up**:
 
@@ -5134,11 +5134,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Aerodactyl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/142.png){: .pokemon-sprite-img }](../pokemon/aerodactyl.md)
+-	[![Aerodactyl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/142.png){: .pokemon-sprite-img }](../pokedex/pokemon/aerodactyl.md)
 
 	***
 
-	**#142 [Aerodactyl](../pokemon/aerodactyl.md)**
+	**#142 [Aerodactyl](../pokedex/pokemon/aerodactyl.md)**
 
 </div>**Moves**:
 
@@ -5174,11 +5174,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Snorlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/143.png){: .pokemon-sprite-img }](../pokemon/snorlax.md)
+-	[![Snorlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/143.png){: .pokemon-sprite-img }](../pokedex/pokemon/snorlax.md)
 
 	***
 
-	**#143 [Snorlax](../pokemon/snorlax.md)**
+	**#143 [Snorlax](../pokedex/pokemon/snorlax.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -5213,11 +5213,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Articuno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/144.png){: .pokemon-sprite-img }](../pokemon/articuno.md)
+-	[![Articuno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/144.png){: .pokemon-sprite-img }](../pokedex/pokemon/articuno.md)
 
 	***
 
-	**#144 [Articuno](../pokemon/articuno.md)**
+	**#144 [Articuno](../pokedex/pokemon/articuno.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -5252,11 +5252,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Zapdos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/145.png){: .pokemon-sprite-img }](../pokemon/zapdos.md)
+-	[![Zapdos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/145.png){: .pokemon-sprite-img }](../pokedex/pokemon/zapdos.md)
 
 	***
 
-	**#145 [Zapdos](../pokemon/zapdos.md)**
+	**#145 [Zapdos](../pokedex/pokemon/zapdos.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -5291,11 +5291,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Moltres](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/146.png){: .pokemon-sprite-img }](../pokemon/moltres.md)
+-	[![Moltres](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/146.png){: .pokemon-sprite-img }](../pokedex/pokemon/moltres.md)
 
 	***
 
-	**#146 [Moltres](../pokemon/moltres.md)**
+	**#146 [Moltres](../pokedex/pokemon/moltres.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -5330,11 +5330,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Dratini](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/147.png){: .pokemon-sprite-img }](../pokemon/dratini.md)
+-	[![Dratini](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/147.png){: .pokemon-sprite-img }](../pokedex/pokemon/dratini.md)
 
 	***
 
-	**#147 [Dratini](../pokemon/dratini.md)**
+	**#147 [Dratini](../pokedex/pokemon/dratini.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -5365,11 +5365,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Dragonair](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/148.png){: .pokemon-sprite-img }](../pokemon/dragonair.md)
+-	[![Dragonair](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/148.png){: .pokemon-sprite-img }](../pokedex/pokemon/dragonair.md)
 
 	***
 
-	**#148 [Dragonair](../pokemon/dragonair.md)**
+	**#148 [Dragonair](../pokedex/pokemon/dragonair.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -5404,11 +5404,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Dragonite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/149.png){: .pokemon-sprite-img }](../pokemon/dragonite.md)
+-	[![Dragonite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/149.png){: .pokemon-sprite-img }](../pokedex/pokemon/dragonite.md)
 
 	***
 
-	**#149 [Dragonite](../pokemon/dragonite.md)**
+	**#149 [Dragonite](../pokedex/pokemon/dragonite.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -5450,11 +5450,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Mewtwo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/150.png){: .pokemon-sprite-img }](../pokemon/mewtwo.md)
+-	[![Mewtwo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/150.png){: .pokemon-sprite-img }](../pokedex/pokemon/mewtwo.md)
 
 	***
 
-	**#150 [Mewtwo](../pokemon/mewtwo.md)**
+	**#150 [Mewtwo](../pokedex/pokemon/mewtwo.md)**
 
 </div>**Level Up**:
 
@@ -5484,11 +5484,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Mew](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/151.png){: .pokemon-sprite-img }](../pokemon/mew.md)
+-	[![Mew](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/151.png){: .pokemon-sprite-img }](../pokedex/pokemon/mew.md)
 
 	***
 
-	**#151 [Mew](../pokemon/mew.md)**
+	**#151 [Mew](../pokedex/pokemon/mew.md)**
 
 </div>**Moves**:
 
@@ -5518,11 +5518,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Chikorita](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/152.png){: .pokemon-sprite-img }](../pokemon/chikorita.md)
+-	[![Chikorita](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/152.png){: .pokemon-sprite-img }](../pokedex/pokemon/chikorita.md)
 
 	***
 
-	**#152 [Chikorita](../pokemon/chikorita.md)**
+	**#152 [Chikorita](../pokedex/pokemon/chikorita.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -5560,11 +5560,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Bayleef](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/153.png){: .pokemon-sprite-img }](../pokemon/bayleef.md)
+-	[![Bayleef](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/153.png){: .pokemon-sprite-img }](../pokedex/pokemon/bayleef.md)
 
 	***
 
-	**#153 [Bayleef](../pokemon/bayleef.md)**
+	**#153 [Bayleef](../pokedex/pokemon/bayleef.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -5603,11 +5603,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Meganium](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/154.png){: .pokemon-sprite-img }](../pokemon/meganium.md)
+-	[![Meganium](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/154.png){: .pokemon-sprite-img }](../pokedex/pokemon/meganium.md)
 
 	***
 
-	**#154 [Meganium](../pokemon/meganium.md)**
+	**#154 [Meganium](../pokedex/pokemon/meganium.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -5653,11 +5653,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Cyndaquil](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/155.png){: .pokemon-sprite-img }](../pokemon/cyndaquil.md)
+-	[![Cyndaquil](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/155.png){: .pokemon-sprite-img }](../pokedex/pokemon/cyndaquil.md)
 
 	***
 
-	**#155 [Cyndaquil](../pokemon/cyndaquil.md)**
+	**#155 [Cyndaquil](../pokedex/pokemon/cyndaquil.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -5690,11 +5690,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Quilava](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/156.png){: .pokemon-sprite-img }](../pokemon/quilava.md)
+-	[![Quilava](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/156.png){: .pokemon-sprite-img }](../pokedex/pokemon/quilava.md)
 
 	***
 
-	**#156 [Quilava](../pokemon/quilava.md)**
+	**#156 [Quilava](../pokedex/pokemon/quilava.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -5728,11 +5728,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Typhlosion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/157.png){: .pokemon-sprite-img }](../pokemon/typhlosion.md)
+-	[![Typhlosion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/157.png){: .pokemon-sprite-img }](../pokedex/pokemon/typhlosion.md)
 
 	***
 
-	**#157 [Typhlosion](../pokemon/typhlosion.md)**
+	**#157 [Typhlosion](../pokedex/pokemon/typhlosion.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -5772,11 +5772,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Totodile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/158.png){: .pokemon-sprite-img }](../pokemon/totodile.md)
+-	[![Totodile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/158.png){: .pokemon-sprite-img }](../pokedex/pokemon/totodile.md)
 
 	***
 
-	**#158 [Totodile](../pokemon/totodile.md)**
+	**#158 [Totodile](../pokedex/pokemon/totodile.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -5812,11 +5812,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Croconaw](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/159.png){: .pokemon-sprite-img }](../pokemon/croconaw.md)
+-	[![Croconaw](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/159.png){: .pokemon-sprite-img }](../pokedex/pokemon/croconaw.md)
 
 	***
 
-	**#159 [Croconaw](../pokemon/croconaw.md)**
+	**#159 [Croconaw](../pokedex/pokemon/croconaw.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -5853,11 +5853,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Feraligatr](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/160.png){: .pokemon-sprite-img }](../pokemon/feraligatr.md)
+-	[![Feraligatr](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/160.png){: .pokemon-sprite-img }](../pokedex/pokemon/feraligatr.md)
 
 	***
 
-	**#160 [Feraligatr](../pokemon/feraligatr.md)**
+	**#160 [Feraligatr](../pokedex/pokemon/feraligatr.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -5897,11 +5897,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Sentret](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/161.png){: .pokemon-sprite-img }](../pokemon/sentret.md)
+-	[![Sentret](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/161.png){: .pokemon-sprite-img }](../pokedex/pokemon/sentret.md)
 
 	***
 
-	**#161 [Sentret](../pokemon/sentret.md)**
+	**#161 [Sentret](../pokedex/pokemon/sentret.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -5934,11 +5934,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Furret](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/162.png){: .pokemon-sprite-img }](../pokemon/furret.md)
+-	[![Furret](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/162.png){: .pokemon-sprite-img }](../pokedex/pokemon/furret.md)
 
 	***
 
-	**#162 [Furret](../pokemon/furret.md)**
+	**#162 [Furret](../pokedex/pokemon/furret.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -5975,11 +5975,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Hoothoot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/163.png){: .pokemon-sprite-img }](../pokemon/hoothoot.md)
+-	[![Hoothoot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/163.png){: .pokemon-sprite-img }](../pokedex/pokemon/hoothoot.md)
 
 	***
 
-	**#163 [Hoothoot](../pokemon/hoothoot.md)**
+	**#163 [Hoothoot](../pokedex/pokemon/hoothoot.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -6017,11 +6017,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Noctowl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/164.png){: .pokemon-sprite-img }](../pokemon/noctowl.md)
+-	[![Noctowl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/164.png){: .pokemon-sprite-img }](../pokedex/pokemon/noctowl.md)
 
 	***
 
-	**#164 [Noctowl](../pokemon/noctowl.md)**
+	**#164 [Noctowl](../pokedex/pokemon/noctowl.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -6066,11 +6066,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Ledyba](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/165.png){: .pokemon-sprite-img }](../pokemon/ledyba.md)
+-	[![Ledyba](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/165.png){: .pokemon-sprite-img }](../pokedex/pokemon/ledyba.md)
 
 	***
 
-	**#165 [Ledyba](../pokemon/ledyba.md)**
+	**#165 [Ledyba](../pokedex/pokemon/ledyba.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -6110,11 +6110,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Ledian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/166.png){: .pokemon-sprite-img }](../pokemon/ledian.md)
+-	[![Ledian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/166.png){: .pokemon-sprite-img }](../pokedex/pokemon/ledian.md)
 
 	***
 
-	**#166 [Ledian](../pokemon/ledian.md)**
+	**#166 [Ledian](../pokedex/pokemon/ledian.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -6157,11 +6157,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Spinarak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/167.png){: .pokemon-sprite-img }](../pokemon/spinarak.md)
+-	[![Spinarak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/167.png){: .pokemon-sprite-img }](../pokedex/pokemon/spinarak.md)
 
 	***
 
-	**#167 [Spinarak](../pokemon/spinarak.md)**
+	**#167 [Spinarak](../pokedex/pokemon/spinarak.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -6199,11 +6199,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Ariados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/168.png){: .pokemon-sprite-img }](../pokemon/ariados.md)
+-	[![Ariados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/168.png){: .pokemon-sprite-img }](../pokedex/pokemon/ariados.md)
 
 	***
 
-	**#168 [Ariados](../pokemon/ariados.md)**
+	**#168 [Ariados](../pokedex/pokemon/ariados.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -6243,11 +6243,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Crobat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/169.png){: .pokemon-sprite-img }](../pokemon/crobat.md)
+-	[![Crobat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/169.png){: .pokemon-sprite-img }](../pokedex/pokemon/crobat.md)
 
 	***
 
-	**#169 [Crobat](../pokemon/crobat.md)**
+	**#169 [Crobat](../pokedex/pokemon/crobat.md)**
 
 </div>**Moves**:
 
@@ -6282,11 +6282,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Chinchou](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/170.png){: .pokemon-sprite-img }](../pokemon/chinchou.md)
+-	[![Chinchou](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/170.png){: .pokemon-sprite-img }](../pokedex/pokemon/chinchou.md)
 
 	***
 
-	**#170 [Chinchou](../pokemon/chinchou.md)**
+	**#170 [Chinchou](../pokedex/pokemon/chinchou.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -6318,11 +6318,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Lanturn](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/171.png){: .pokemon-sprite-img }](../pokemon/lanturn.md)
+-	[![Lanturn](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/171.png){: .pokemon-sprite-img }](../pokedex/pokemon/lanturn.md)
 
 	***
 
-	**#171 [Lanturn](../pokemon/lanturn.md)**
+	**#171 [Lanturn](../pokedex/pokemon/lanturn.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -6354,11 +6354,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Pichu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/172.png){: .pokemon-sprite-img }](../pokemon/pichu.md)
+-	[![Pichu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/172.png){: .pokemon-sprite-img }](../pokedex/pokemon/pichu.md)
 
 	***
 
-	**#172 [Pichu](../pokemon/pichu.md)**
+	**#172 [Pichu](../pokedex/pokemon/pichu.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -6389,11 +6389,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Cleffa](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/173.png){: .pokemon-sprite-img }](../pokemon/cleffa.md)
+-	[![Cleffa](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/173.png){: .pokemon-sprite-img }](../pokedex/pokemon/cleffa.md)
 
 	***
 
-	**#173 [Cleffa](../pokemon/cleffa.md)**
+	**#173 [Cleffa](../pokedex/pokemon/cleffa.md)**
 
 </div>**Base Happiness**:
 
@@ -6417,11 +6417,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Igglybuff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/174.png){: .pokemon-sprite-img }](../pokemon/igglybuff.md)
+-	[![Igglybuff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/174.png){: .pokemon-sprite-img }](../pokedex/pokemon/igglybuff.md)
 
 	***
 
-	**#174 [Igglybuff](../pokemon/igglybuff.md)**
+	**#174 [Igglybuff](../pokedex/pokemon/igglybuff.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -6448,11 +6448,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Togepi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/175.png){: .pokemon-sprite-img }](../pokemon/togepi.md)
+-	[![Togepi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/175.png){: .pokemon-sprite-img }](../pokedex/pokemon/togepi.md)
 
 	***
 
-	**#175 [Togepi](../pokemon/togepi.md)**
+	**#175 [Togepi](../pokedex/pokemon/togepi.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -6490,11 +6490,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Togetic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/176.png){: .pokemon-sprite-img }](../pokemon/togetic.md)
+-	[![Togetic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/176.png){: .pokemon-sprite-img }](../pokedex/pokemon/togetic.md)
 
 	***
 
-	**#176 [Togetic](../pokemon/togetic.md)**
+	**#176 [Togetic](../pokedex/pokemon/togetic.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -6534,11 +6534,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Natu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/177.png){: .pokemon-sprite-img }](../pokemon/natu.md)
+-	[![Natu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/177.png){: .pokemon-sprite-img }](../pokedex/pokemon/natu.md)
 
 	***
 
-	**#177 [Natu](../pokemon/natu.md)**
+	**#177 [Natu](../pokedex/pokemon/natu.md)**
 
 </div>**Level Up**:
 
@@ -6566,11 +6566,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Xatu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/178.png){: .pokemon-sprite-img }](../pokemon/xatu.md)
+-	[![Xatu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/178.png){: .pokemon-sprite-img }](../pokedex/pokemon/xatu.md)
 
 	***
 
-	**#178 [Xatu](../pokemon/xatu.md)**
+	**#178 [Xatu](../pokedex/pokemon/xatu.md)**
 
 </div>**Moves**:
 
@@ -6605,11 +6605,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Mareep](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/179.png){: .pokemon-sprite-img }](../pokemon/mareep.md)
+-	[![Mareep](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/179.png){: .pokemon-sprite-img }](../pokedex/pokemon/mareep.md)
 
 	***
 
-	**#179 [Mareep](../pokemon/mareep.md)**
+	**#179 [Mareep](../pokedex/pokemon/mareep.md)**
 
 </div>**Level Up**:
 
@@ -6636,11 +6636,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Flaaffy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/180.png){: .pokemon-sprite-img }](../pokemon/flaaffy.md)
+-	[![Flaaffy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/180.png){: .pokemon-sprite-img }](../pokedex/pokemon/flaaffy.md)
 
 	***
 
-	**#180 [Flaaffy](../pokemon/flaaffy.md)**
+	**#180 [Flaaffy](../pokedex/pokemon/flaaffy.md)**
 
 </div>**Level Up**:
 
@@ -6667,11 +6667,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Ampharos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/181.png){: .pokemon-sprite-img }](../pokemon/ampharos.md)
+-	[![Ampharos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/181.png){: .pokemon-sprite-img }](../pokedex/pokemon/ampharos.md)
 
 	***
 
-	**#181 [Ampharos](../pokemon/ampharos.md)**
+	**#181 [Ampharos](../pokedex/pokemon/ampharos.md)**
 
 </div>**Moves**:
 
@@ -6714,11 +6714,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Bellossom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/182.png){: .pokemon-sprite-img }](../pokemon/bellossom.md)
+-	[![Bellossom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/182.png){: .pokemon-sprite-img }](../pokedex/pokemon/bellossom.md)
 
 	***
 
-	**#182 [Bellossom](../pokemon/bellossom.md)**
+	**#182 [Bellossom](../pokedex/pokemon/bellossom.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -6748,11 +6748,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Marill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/183.png){: .pokemon-sprite-img }](../pokemon/marill.md)
+-	[![Marill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/183.png){: .pokemon-sprite-img }](../pokedex/pokemon/marill.md)
 
 	***
 
-	**#183 [Marill](../pokemon/marill.md)**
+	**#183 [Marill](../pokedex/pokemon/marill.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -6787,11 +6787,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Azumarill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/184.png){: .pokemon-sprite-img }](../pokemon/azumarill.md)
+-	[![Azumarill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/184.png){: .pokemon-sprite-img }](../pokedex/pokemon/azumarill.md)
 
 	***
 
-	**#184 [Azumarill](../pokemon/azumarill.md)**
+	**#184 [Azumarill](../pokedex/pokemon/azumarill.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -6833,11 +6833,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Sudowoodo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/185.png){: .pokemon-sprite-img }](../pokemon/sudowoodo.md)
+-	[![Sudowoodo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/185.png){: .pokemon-sprite-img }](../pokedex/pokemon/sudowoodo.md)
 
 	***
 
-	**#185 [Sudowoodo](../pokemon/sudowoodo.md)**
+	**#185 [Sudowoodo](../pokedex/pokemon/sudowoodo.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -6874,11 +6874,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Politoed](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/186.png){: .pokemon-sprite-img }](../pokemon/politoed.md)
+-	[![Politoed](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/186.png){: .pokemon-sprite-img }](../pokedex/pokemon/politoed.md)
 
 	***
 
-	**#186 [Politoed](../pokemon/politoed.md)**
+	**#186 [Politoed](../pokedex/pokemon/politoed.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -6902,11 +6902,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Hoppip](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/187.png){: .pokemon-sprite-img }](../pokemon/hoppip.md)
+-	[![Hoppip](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/187.png){: .pokemon-sprite-img }](../pokedex/pokemon/hoppip.md)
 
 	***
 
-	**#187 [Hoppip](../pokemon/hoppip.md)**
+	**#187 [Hoppip](../pokedex/pokemon/hoppip.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -6942,11 +6942,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Skiploom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/188.png){: .pokemon-sprite-img }](../pokemon/skiploom.md)
+-	[![Skiploom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/188.png){: .pokemon-sprite-img }](../pokedex/pokemon/skiploom.md)
 
 	***
 
-	**#188 [Skiploom](../pokemon/skiploom.md)**
+	**#188 [Skiploom](../pokedex/pokemon/skiploom.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -6982,11 +6982,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Jumpluff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/189.png){: .pokemon-sprite-img }](../pokemon/jumpluff.md)
+-	[![Jumpluff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/189.png){: .pokemon-sprite-img }](../pokedex/pokemon/jumpluff.md)
 
 	***
 
-	**#189 [Jumpluff](../pokemon/jumpluff.md)**
+	**#189 [Jumpluff](../pokedex/pokemon/jumpluff.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -7027,11 +7027,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Aipom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/190.png){: .pokemon-sprite-img }](../pokemon/aipom.md)
+-	[![Aipom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/190.png){: .pokemon-sprite-img }](../pokedex/pokemon/aipom.md)
 
 	***
 
-	**#190 [Aipom](../pokemon/aipom.md)**
+	**#190 [Aipom](../pokedex/pokemon/aipom.md)**
 
 </div>**Level Up**:
 
@@ -7061,11 +7061,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Sunkern](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/191.png){: .pokemon-sprite-img }](../pokemon/sunkern.md)
+-	[![Sunkern](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/191.png){: .pokemon-sprite-img }](../pokedex/pokemon/sunkern.md)
 
 	***
 
-	**#191 [Sunkern](../pokemon/sunkern.md)**
+	**#191 [Sunkern](../pokedex/pokemon/sunkern.md)**
 
 </div>**Level Up**:
 
@@ -7096,11 +7096,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Sunflora](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/192.png){: .pokemon-sprite-img }](../pokemon/sunflora.md)
+-	[![Sunflora](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/192.png){: .pokemon-sprite-img }](../pokedex/pokemon/sunflora.md)
 
 	***
 
-	**#192 [Sunflora](../pokemon/sunflora.md)**
+	**#192 [Sunflora](../pokedex/pokemon/sunflora.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -7136,11 +7136,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Yanma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/193.png){: .pokemon-sprite-img }](../pokemon/yanma.md)
+-	[![Yanma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/193.png){: .pokemon-sprite-img }](../pokedex/pokemon/yanma.md)
 
 	***
 
-	**#193 [Yanma](../pokemon/yanma.md)**
+	**#193 [Yanma](../pokedex/pokemon/yanma.md)**
 
 </div>**Moves**:
 
@@ -7175,11 +7175,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Wooper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/194.png){: .pokemon-sprite-img }](../pokemon/wooper.md)
+-	[![Wooper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/194.png){: .pokemon-sprite-img }](../pokedex/pokemon/wooper.md)
 
 	***
 
-	**#194 [Wooper](../pokemon/wooper.md)**
+	**#194 [Wooper](../pokedex/pokemon/wooper.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -7215,11 +7215,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Quagsire](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/195.png){: .pokemon-sprite-img }](../pokemon/quagsire.md)
+-	[![Quagsire](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/195.png){: .pokemon-sprite-img }](../pokedex/pokemon/quagsire.md)
 
 	***
 
-	**#195 [Quagsire](../pokemon/quagsire.md)**
+	**#195 [Quagsire](../pokedex/pokemon/quagsire.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -7255,11 +7255,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Espeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/196.png){: .pokemon-sprite-img }](../pokemon/espeon.md)
+-	[![Espeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/196.png){: .pokemon-sprite-img }](../pokedex/pokemon/espeon.md)
 
 	***
 
-	**#196 [Espeon](../pokemon/espeon.md)**
+	**#196 [Espeon](../pokedex/pokemon/espeon.md)**
 
 </div>**Level Up**:
 
@@ -7289,11 +7289,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Umbreon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/197.png){: .pokemon-sprite-img }](../pokemon/umbreon.md)
+-	[![Umbreon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/197.png){: .pokemon-sprite-img }](../pokedex/pokemon/umbreon.md)
 
 	***
 
-	**#197 [Umbreon](../pokemon/umbreon.md)**
+	**#197 [Umbreon](../pokedex/pokemon/umbreon.md)**
 
 </div>**Moves**:
 
@@ -7327,11 +7327,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Murkrow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/198.png){: .pokemon-sprite-img }](../pokemon/murkrow.md)
+-	[![Murkrow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/198.png){: .pokemon-sprite-img }](../pokedex/pokemon/murkrow.md)
 
 	***
 
-	**#198 [Murkrow](../pokemon/murkrow.md)**
+	**#198 [Murkrow](../pokedex/pokemon/murkrow.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -7366,11 +7366,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Slowking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/199.png){: .pokemon-sprite-img }](../pokemon/slowking.md)
+-	[![Slowking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/199.png){: .pokemon-sprite-img }](../pokedex/pokemon/slowking.md)
 
 	***
 
-	**#199 [Slowking](../pokemon/slowking.md)**
+	**#199 [Slowking](../pokedex/pokemon/slowking.md)**
 
 </div>**Moves**:
 
@@ -7406,11 +7406,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Misdreavus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/200.png){: .pokemon-sprite-img }](../pokemon/misdreavus.md)
+-	[![Misdreavus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/200.png){: .pokemon-sprite-img }](../pokedex/pokemon/misdreavus.md)
 
 	***
 
-	**#200 [Misdreavus](../pokemon/misdreavus.md)**
+	**#200 [Misdreavus](../pokedex/pokemon/misdreavus.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -7445,11 +7445,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Unown](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/201.png){: .pokemon-sprite-img }](../pokemon/unown.md)
+-	[![Unown](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/201.png){: .pokemon-sprite-img }](../pokedex/pokemon/unown.md)
 
 	***
 
-	**#201 [Unown](../pokemon/unown.md)**
+	**#201 [Unown](../pokedex/pokemon/unown.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -7472,11 +7472,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Wobbuffet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/202.png){: .pokemon-sprite-img }](../pokemon/wobbuffet.md)
+-	[![Wobbuffet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/202.png){: .pokemon-sprite-img }](../pokedex/pokemon/wobbuffet.md)
 
 	***
 
-	**#202 [Wobbuffet](../pokemon/wobbuffet.md)**
+	**#202 [Wobbuffet](../pokedex/pokemon/wobbuffet.md)**
 
 </div>**Level Up**:
 
@@ -7494,11 +7494,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Girafarig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/203.png){: .pokemon-sprite-img }](../pokemon/girafarig.md)
+-	[![Girafarig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/203.png){: .pokemon-sprite-img }](../pokedex/pokemon/girafarig.md)
 
 	***
 
-	**#203 [Girafarig](../pokemon/girafarig.md)**
+	**#203 [Girafarig](../pokedex/pokemon/girafarig.md)**
 
 </div>**Level Up**:
 
@@ -7529,11 +7529,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Pineco](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/204.png){: .pokemon-sprite-img }](../pokemon/pineco.md)
+-	[![Pineco](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/204.png){: .pokemon-sprite-img }](../pokedex/pokemon/pineco.md)
 
 	***
 
-	**#204 [Pineco](../pokemon/pineco.md)**
+	**#204 [Pineco](../pokedex/pokemon/pineco.md)**
 
 </div>**Moves**:
 
@@ -7566,11 +7566,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Forretress](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/205.png){: .pokemon-sprite-img }](../pokemon/forretress.md)
+-	[![Forretress](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/205.png){: .pokemon-sprite-img }](../pokedex/pokemon/forretress.md)
 
 	***
 
-	**#205 [Forretress](../pokemon/forretress.md)**
+	**#205 [Forretress](../pokedex/pokemon/forretress.md)**
 
 </div>**Moves**:
 
@@ -7606,11 +7606,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Dunsparce](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/206.png){: .pokemon-sprite-img }](../pokemon/dunsparce.md)
+-	[![Dunsparce](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/206.png){: .pokemon-sprite-img }](../pokedex/pokemon/dunsparce.md)
 
 	***
 
-	**#206 [Dunsparce](../pokemon/dunsparce.md)**
+	**#206 [Dunsparce](../pokedex/pokemon/dunsparce.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -7646,11 +7646,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Gligar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/207.png){: .pokemon-sprite-img }](../pokemon/gligar.md)
+-	[![Gligar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/207.png){: .pokemon-sprite-img }](../pokedex/pokemon/gligar.md)
 
 	***
 
-	**#207 [Gligar](../pokemon/gligar.md)**
+	**#207 [Gligar](../pokedex/pokemon/gligar.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -7688,11 +7688,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Steelix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/208.png){: .pokemon-sprite-img }](../pokemon/steelix.md)
+-	[![Steelix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/208.png){: .pokemon-sprite-img }](../pokedex/pokemon/steelix.md)
 
 	***
 
-	**#208 [Steelix](../pokemon/steelix.md)**
+	**#208 [Steelix](../pokedex/pokemon/steelix.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -7728,11 +7728,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Snubbull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/209.png){: .pokemon-sprite-img }](../pokemon/snubbull.md)
+-	[![Snubbull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/209.png){: .pokemon-sprite-img }](../pokedex/pokemon/snubbull.md)
 
 	***
 
-	**#209 [Snubbull](../pokemon/snubbull.md)**
+	**#209 [Snubbull](../pokedex/pokemon/snubbull.md)**
 
 </div>**Level Up**:
 
@@ -7763,11 +7763,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Granbull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/210.png){: .pokemon-sprite-img }](../pokemon/granbull.md)
+-	[![Granbull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/210.png){: .pokemon-sprite-img }](../pokedex/pokemon/granbull.md)
 
 	***
 
-	**#210 [Granbull](../pokemon/granbull.md)**
+	**#210 [Granbull](../pokedex/pokemon/granbull.md)**
 
 </div>**Level Up**:
 
@@ -7799,11 +7799,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Qwilfish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/211.png){: .pokemon-sprite-img }](../pokemon/qwilfish.md)
+-	[![Qwilfish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/211.png){: .pokemon-sprite-img }](../pokedex/pokemon/qwilfish.md)
 
 	***
 
-	**#211 [Qwilfish](../pokemon/qwilfish.md)**
+	**#211 [Qwilfish](../pokedex/pokemon/qwilfish.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -7840,11 +7840,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Scizor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/212.png){: .pokemon-sprite-img }](../pokemon/scizor.md)
+-	[![Scizor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/212.png){: .pokemon-sprite-img }](../pokedex/pokemon/scizor.md)
 
 	***
 
-	**#212 [Scizor](../pokemon/scizor.md)**
+	**#212 [Scizor](../pokedex/pokemon/scizor.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -7884,11 +7884,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Shuckle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/213.png){: .pokemon-sprite-img }](../pokemon/shuckle.md)
+-	[![Shuckle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/213.png){: .pokemon-sprite-img }](../pokedex/pokemon/shuckle.md)
 
 	***
 
-	**#213 [Shuckle](../pokemon/shuckle.md)**
+	**#213 [Shuckle](../pokedex/pokemon/shuckle.md)**
 
 </div>**Moves**:
 
@@ -7921,11 +7921,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Heracross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/214.png){: .pokemon-sprite-img }](../pokemon/heracross.md)
+-	[![Heracross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/214.png){: .pokemon-sprite-img }](../pokedex/pokemon/heracross.md)
 
 	***
 
-	**#214 [Heracross](../pokemon/heracross.md)**
+	**#214 [Heracross](../pokedex/pokemon/heracross.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -7967,11 +7967,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Sneasel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/215.png){: .pokemon-sprite-img }](../pokemon/sneasel.md)
+-	[![Sneasel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/215.png){: .pokemon-sprite-img }](../pokedex/pokemon/sneasel.md)
 
 	***
 
-	**#215 [Sneasel](../pokemon/sneasel.md)**
+	**#215 [Sneasel](../pokedex/pokemon/sneasel.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -8003,11 +8003,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Teddiursa](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/216.png){: .pokemon-sprite-img }](../pokemon/teddiursa.md)
+-	[![Teddiursa](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/216.png){: .pokemon-sprite-img }](../pokedex/pokemon/teddiursa.md)
 
 	***
 
-	**#216 [Teddiursa](../pokemon/teddiursa.md)**
+	**#216 [Teddiursa](../pokedex/pokemon/teddiursa.md)**
 
 </div>**Level Up**:
 
@@ -8039,11 +8039,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Ursaring](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/217.png){: .pokemon-sprite-img }](../pokemon/ursaring.md)
+-	[![Ursaring](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/217.png){: .pokemon-sprite-img }](../pokedex/pokemon/ursaring.md)
 
 	***
 
-	**#217 [Ursaring](../pokemon/ursaring.md)**
+	**#217 [Ursaring](../pokedex/pokemon/ursaring.md)**
 
 </div>**Level Up**:
 
@@ -8075,11 +8075,11 @@ Now evolves into Kabutops at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Slugma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/218.png){: .pokemon-sprite-img }](../pokemon/slugma.md)
+-	[![Slugma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/218.png){: .pokemon-sprite-img }](../pokedex/pokemon/slugma.md)
 
 	***
 
-	**#218 [Slugma](../pokemon/slugma.md)**
+	**#218 [Slugma](../pokedex/pokemon/slugma.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -8116,11 +8116,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Magcargo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/219.png){: .pokemon-sprite-img }](../pokemon/magcargo.md)
+-	[![Magcargo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/219.png){: .pokemon-sprite-img }](../pokedex/pokemon/magcargo.md)
 
 	***
 
-	**#219 [Magcargo](../pokemon/magcargo.md)**
+	**#219 [Magcargo](../pokedex/pokemon/magcargo.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -8155,11 +8155,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Swinub](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/220.png){: .pokemon-sprite-img }](../pokemon/swinub.md)
+-	[![Swinub](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/220.png){: .pokemon-sprite-img }](../pokedex/pokemon/swinub.md)
 
 	***
 
-	**#220 [Swinub](../pokemon/swinub.md)**
+	**#220 [Swinub](../pokedex/pokemon/swinub.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -8192,11 +8192,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Piloswine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/221.png){: .pokemon-sprite-img }](../pokemon/piloswine.md)
+-	[![Piloswine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/221.png){: .pokemon-sprite-img }](../pokedex/pokemon/piloswine.md)
 
 	***
 
-	**#221 [Piloswine](../pokemon/piloswine.md)**
+	**#221 [Piloswine](../pokedex/pokemon/piloswine.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -8231,11 +8231,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Corsola](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/222.png){: .pokemon-sprite-img }](../pokemon/corsola.md)
+-	[![Corsola](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/222.png){: .pokemon-sprite-img }](../pokedex/pokemon/corsola.md)
 
 	***
 
-	**#222 [Corsola](../pokemon/corsola.md)**
+	**#222 [Corsola](../pokedex/pokemon/corsola.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -8270,11 +8270,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Remoraid](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/223.png){: .pokemon-sprite-img }](../pokemon/remoraid.md)
+-	[![Remoraid](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/223.png){: .pokemon-sprite-img }](../pokedex/pokemon/remoraid.md)
 
 	***
 
-	**#223 [Remoraid](../pokemon/remoraid.md)**
+	**#223 [Remoraid](../pokedex/pokemon/remoraid.md)**
 
 </div>**Level Up**:
 
@@ -8302,11 +8302,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Octillery](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/224.png){: .pokemon-sprite-img }](../pokemon/octillery.md)
+-	[![Octillery](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/224.png){: .pokemon-sprite-img }](../pokedex/pokemon/octillery.md)
 
 	***
 
-	**#224 [Octillery](../pokemon/octillery.md)**
+	**#224 [Octillery](../pokedex/pokemon/octillery.md)**
 
 </div>**Level Up**:
 
@@ -8338,11 +8338,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Delibird](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/225.png){: .pokemon-sprite-img }](../pokemon/delibird.md)
+-	[![Delibird](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/225.png){: .pokemon-sprite-img }](../pokedex/pokemon/delibird.md)
 
 	***
 
-	**#225 [Delibird](../pokemon/delibird.md)**
+	**#225 [Delibird](../pokedex/pokemon/delibird.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -8386,11 +8386,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Mantine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/226.png){: .pokemon-sprite-img }](../pokemon/mantine.md)
+-	[![Mantine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/226.png){: .pokemon-sprite-img }](../pokedex/pokemon/mantine.md)
 
 	***
 
-	**#226 [Mantine](../pokemon/mantine.md)**
+	**#226 [Mantine](../pokedex/pokemon/mantine.md)**
 
 </div>**Moves**:
 
@@ -8427,11 +8427,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Skarmory](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/227.png){: .pokemon-sprite-img }](../pokemon/skarmory.md)
+-	[![Skarmory](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/227.png){: .pokemon-sprite-img }](../pokedex/pokemon/skarmory.md)
 
 	***
 
-	**#227 [Skarmory](../pokemon/skarmory.md)**
+	**#227 [Skarmory](../pokedex/pokemon/skarmory.md)**
 
 </div>**Moves**:
 
@@ -8467,11 +8467,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Houndour](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/228.png){: .pokemon-sprite-img }](../pokemon/houndour.md)
+-	[![Houndour](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/228.png){: .pokemon-sprite-img }](../pokedex/pokemon/houndour.md)
 
 	***
 
-	**#228 [Houndour](../pokemon/houndour.md)**
+	**#228 [Houndour](../pokedex/pokemon/houndour.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -8502,11 +8502,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Houndoom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/229.png){: .pokemon-sprite-img }](../pokemon/houndoom.md)
+-	[![Houndoom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/229.png){: .pokemon-sprite-img }](../pokedex/pokemon/houndoom.md)
 
 	***
 
-	**#229 [Houndoom](../pokemon/houndoom.md)**
+	**#229 [Houndoom](../pokedex/pokemon/houndoom.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -8538,11 +8538,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Kingdra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/230.png){: .pokemon-sprite-img }](../pokemon/kingdra.md)
+-	[![Kingdra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/230.png){: .pokemon-sprite-img }](../pokedex/pokemon/kingdra.md)
 
 	***
 
-	**#230 [Kingdra](../pokemon/kingdra.md)**
+	**#230 [Kingdra](../pokedex/pokemon/kingdra.md)**
 
 </div>**Level Up**:
 
@@ -8573,11 +8573,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Phanpy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/231.png){: .pokemon-sprite-img }](../pokemon/phanpy.md)
+-	[![Phanpy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/231.png){: .pokemon-sprite-img }](../pokedex/pokemon/phanpy.md)
 
 	***
 
-	**#231 [Phanpy](../pokemon/phanpy.md)**
+	**#231 [Phanpy](../pokedex/pokemon/phanpy.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -8611,11 +8611,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Donphan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/232.png){: .pokemon-sprite-img }](../pokemon/donphan.md)
+-	[![Donphan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/232.png){: .pokemon-sprite-img }](../pokedex/pokemon/donphan.md)
 
 	***
 
-	**#232 [Donphan](../pokemon/donphan.md)**
+	**#232 [Donphan](../pokedex/pokemon/donphan.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -8651,11 +8651,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Porygon2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/233.png){: .pokemon-sprite-img }](../pokemon/porygon2.md)
+-	[![Porygon2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/233.png){: .pokemon-sprite-img }](../pokedex/pokemon/porygon2.md)
 
 	***
 
-	**#233 [Porygon2](../pokemon/porygon2.md)**
+	**#233 [Porygon2](../pokedex/pokemon/porygon2.md)**
 
 </div>**Evolution**:
 
@@ -8690,11 +8690,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Stantler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/234.png){: .pokemon-sprite-img }](../pokemon/stantler.md)
+-	[![Stantler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/234.png){: .pokemon-sprite-img }](../pokedex/pokemon/stantler.md)
 
 	***
 
-	**#234 [Stantler](../pokemon/stantler.md)**
+	**#234 [Stantler](../pokedex/pokemon/stantler.md)**
 
 </div>**Level Up**:
 
@@ -8725,11 +8725,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Smeargle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/235.png){: .pokemon-sprite-img }](../pokemon/smeargle.md)
+-	[![Smeargle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/235.png){: .pokemon-sprite-img }](../pokedex/pokemon/smeargle.md)
 
 	***
 
-	**#235 [Smeargle](../pokemon/smeargle.md)**
+	**#235 [Smeargle](../pokedex/pokemon/smeargle.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -8764,11 +8764,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Tyrogue](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/236.png){: .pokemon-sprite-img }](../pokemon/tyrogue.md)
+-	[![Tyrogue](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/236.png){: .pokemon-sprite-img }](../pokedex/pokemon/tyrogue.md)
 
 	***
 
-	**#236 [Tyrogue](../pokemon/tyrogue.md)**
+	**#236 [Tyrogue](../pokedex/pokemon/tyrogue.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -8790,11 +8790,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Hitmontop](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/237.png){: .pokemon-sprite-img }](../pokemon/hitmontop.md)
+-	[![Hitmontop](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/237.png){: .pokemon-sprite-img }](../pokedex/pokemon/hitmontop.md)
 
 	***
 
-	**#237 [Hitmontop](../pokemon/hitmontop.md)**
+	**#237 [Hitmontop](../pokedex/pokemon/hitmontop.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -8826,11 +8826,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Smoochum](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/238.png){: .pokemon-sprite-img }](../pokemon/smoochum.md)
+-	[![Smoochum](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/238.png){: .pokemon-sprite-img }](../pokedex/pokemon/smoochum.md)
 
 	***
 
-	**#238 [Smoochum](../pokemon/smoochum.md)**
+	**#238 [Smoochum](../pokedex/pokemon/smoochum.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -8866,11 +8866,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Elekid](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/239.png){: .pokemon-sprite-img }](../pokemon/elekid.md)
+-	[![Elekid](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/239.png){: .pokemon-sprite-img }](../pokedex/pokemon/elekid.md)
 
 	***
 
-	**#239 [Elekid](../pokemon/elekid.md)**
+	**#239 [Elekid](../pokedex/pokemon/elekid.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -8902,11 +8902,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Magby](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/240.png){: .pokemon-sprite-img }](../pokemon/magby.md)
+-	[![Magby](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/240.png){: .pokemon-sprite-img }](../pokedex/pokemon/magby.md)
 
 	***
 
-	**#240 [Magby](../pokemon/magby.md)**
+	**#240 [Magby](../pokedex/pokemon/magby.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -8938,11 +8938,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Miltank](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/241.png){: .pokemon-sprite-img }](../pokemon/miltank.md)
+-	[![Miltank](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/241.png){: .pokemon-sprite-img }](../pokedex/pokemon/miltank.md)
 
 	***
 
-	**#241 [Miltank](../pokemon/miltank.md)**
+	**#241 [Miltank](../pokedex/pokemon/miltank.md)**
 
 </div>**Level Up**:
 
@@ -8968,11 +8968,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Blissey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/242.png){: .pokemon-sprite-img }](../pokemon/blissey.md)
+-	[![Blissey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/242.png){: .pokemon-sprite-img }](../pokedex/pokemon/blissey.md)
 
 	***
 
-	**#242 [Blissey](../pokemon/blissey.md)**
+	**#242 [Blissey](../pokedex/pokemon/blissey.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -9008,11 +9008,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Raikou](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/243.png){: .pokemon-sprite-img }](../pokemon/raikou.md)
+-	[![Raikou](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/243.png){: .pokemon-sprite-img }](../pokedex/pokemon/raikou.md)
 
 	***
 
-	**#243 [Raikou](../pokemon/raikou.md)**
+	**#243 [Raikou](../pokedex/pokemon/raikou.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -9044,11 +9044,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Entei](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/244.png){: .pokemon-sprite-img }](../pokemon/entei.md)
+-	[![Entei](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/244.png){: .pokemon-sprite-img }](../pokedex/pokemon/entei.md)
 
 	***
 
-	**#244 [Entei](../pokemon/entei.md)**
+	**#244 [Entei](../pokedex/pokemon/entei.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -9080,11 +9080,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Suicune](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/245.png){: .pokemon-sprite-img }](../pokemon/suicune.md)
+-	[![Suicune](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/245.png){: .pokemon-sprite-img }](../pokedex/pokemon/suicune.md)
 
 	***
 
-	**#245 [Suicune](../pokemon/suicune.md)**
+	**#245 [Suicune](../pokedex/pokemon/suicune.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -9120,11 +9120,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Larvitar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/246.png){: .pokemon-sprite-img }](../pokemon/larvitar.md)
+-	[![Larvitar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/246.png){: .pokemon-sprite-img }](../pokedex/pokemon/larvitar.md)
 
 	***
 
-	**#246 [Larvitar](../pokemon/larvitar.md)**
+	**#246 [Larvitar](../pokedex/pokemon/larvitar.md)**
 
 </div>**Level Up**:
 
@@ -9152,11 +9152,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Pupitar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/247.png){: .pokemon-sprite-img }](../pokemon/pupitar.md)
+-	[![Pupitar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/247.png){: .pokemon-sprite-img }](../pokedex/pokemon/pupitar.md)
 
 	***
 
-	**#247 [Pupitar](../pokemon/pupitar.md)**
+	**#247 [Pupitar](../pokedex/pokemon/pupitar.md)**
 
 </div>**Level Up**:
 
@@ -9184,11 +9184,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Tyranitar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/248.png){: .pokemon-sprite-img }](../pokemon/tyranitar.md)
+-	[![Tyranitar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/248.png){: .pokemon-sprite-img }](../pokedex/pokemon/tyranitar.md)
 
 	***
 
-	**#248 [Tyranitar](../pokemon/tyranitar.md)**
+	**#248 [Tyranitar](../pokedex/pokemon/tyranitar.md)**
 
 </div>**Level Up**:
 
@@ -9220,11 +9220,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Lugia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/249.png){: .pokemon-sprite-img }](../pokemon/lugia.md)
+-	[![Lugia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/249.png){: .pokemon-sprite-img }](../pokedex/pokemon/lugia.md)
 
 	***
 
-	**#249 [Lugia](../pokemon/lugia.md)**
+	**#249 [Lugia](../pokedex/pokemon/lugia.md)**
 
 </div>**Moves**:
 
@@ -9255,11 +9255,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Ho-Oh](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/250.png){: .pokemon-sprite-img }](../pokemon/ho-oh.md)
+-	[![Ho-Oh](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/250.png){: .pokemon-sprite-img }](../pokedex/pokemon/ho-oh.md)
 
 	***
 
-	**#250 [Ho-Oh](../pokemon/ho-oh.md)**
+	**#250 [Ho-Oh](../pokedex/pokemon/ho-oh.md)**
 
 </div>**Moves**:
 
@@ -9290,11 +9290,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Celebi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/251.png){: .pokemon-sprite-img }](../pokemon/celebi.md)
+-	[![Celebi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/251.png){: .pokemon-sprite-img }](../pokedex/pokemon/celebi.md)
 
 	***
 
-	**#251 [Celebi](../pokemon/celebi.md)**
+	**#251 [Celebi](../pokedex/pokemon/celebi.md)**
 
 </div>**Level Up**:
 
@@ -9321,11 +9321,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Treecko](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/252.png){: .pokemon-sprite-img }](../pokemon/treecko.md)
+-	[![Treecko](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/252.png){: .pokemon-sprite-img }](../pokedex/pokemon/treecko.md)
 
 	***
 
-	**#252 [Treecko](../pokemon/treecko.md)**
+	**#252 [Treecko](../pokedex/pokemon/treecko.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -9356,11 +9356,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Grovyle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/253.png){: .pokemon-sprite-img }](../pokemon/grovyle.md)
+-	[![Grovyle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/253.png){: .pokemon-sprite-img }](../pokedex/pokemon/grovyle.md)
 
 	***
 
-	**#253 [Grovyle](../pokemon/grovyle.md)**
+	**#253 [Grovyle](../pokedex/pokemon/grovyle.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -9392,11 +9392,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Sceptile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/254.png){: .pokemon-sprite-img }](../pokemon/sceptile.md)
+-	[![Sceptile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/254.png){: .pokemon-sprite-img }](../pokedex/pokemon/sceptile.md)
 
 	***
 
-	**#254 [Sceptile](../pokemon/sceptile.md)**
+	**#254 [Sceptile](../pokedex/pokemon/sceptile.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -9440,11 +9440,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Torchic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/255.png){: .pokemon-sprite-img }](../pokemon/torchic.md)
+-	[![Torchic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/255.png){: .pokemon-sprite-img }](../pokedex/pokemon/torchic.md)
 
 	***
 
-	**#255 [Torchic](../pokemon/torchic.md)**
+	**#255 [Torchic](../pokedex/pokemon/torchic.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -9476,11 +9476,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Combusken](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/256.png){: .pokemon-sprite-img }](../pokemon/combusken.md)
+-	[![Combusken](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/256.png){: .pokemon-sprite-img }](../pokedex/pokemon/combusken.md)
 
 	***
 
-	**#256 [Combusken](../pokemon/combusken.md)**
+	**#256 [Combusken](../pokedex/pokemon/combusken.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -9513,11 +9513,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Blaziken](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/257.png){: .pokemon-sprite-img }](../pokemon/blaziken.md)
+-	[![Blaziken](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/257.png){: .pokemon-sprite-img }](../pokedex/pokemon/blaziken.md)
 
 	***
 
-	**#257 [Blaziken](../pokemon/blaziken.md)**
+	**#257 [Blaziken](../pokedex/pokemon/blaziken.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -9555,11 +9555,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Mudkip](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/258.png){: .pokemon-sprite-img }](../pokemon/mudkip.md)
+-	[![Mudkip](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/258.png){: .pokemon-sprite-img }](../pokedex/pokemon/mudkip.md)
 
 	***
 
-	**#258 [Mudkip](../pokemon/mudkip.md)**
+	**#258 [Mudkip](../pokedex/pokemon/mudkip.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -9590,11 +9590,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Marshtomp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/259.png){: .pokemon-sprite-img }](../pokemon/marshtomp.md)
+-	[![Marshtomp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/259.png){: .pokemon-sprite-img }](../pokedex/pokemon/marshtomp.md)
 
 	***
 
-	**#259 [Marshtomp](../pokemon/marshtomp.md)**
+	**#259 [Marshtomp](../pokedex/pokemon/marshtomp.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -9627,11 +9627,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Swampert](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/260.png){: .pokemon-sprite-img }](../pokemon/swampert.md)
+-	[![Swampert](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/260.png){: .pokemon-sprite-img }](../pokedex/pokemon/swampert.md)
 
 	***
 
-	**#260 [Swampert](../pokemon/swampert.md)**
+	**#260 [Swampert](../pokedex/pokemon/swampert.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -9667,11 +9667,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Poochyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/261.png){: .pokemon-sprite-img }](../pokemon/poochyena.md)
+-	[![Poochyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/261.png){: .pokemon-sprite-img }](../pokedex/pokemon/poochyena.md)
 
 	***
 
-	**#261 [Poochyena](../pokemon/poochyena.md)**
+	**#261 [Poochyena](../pokedex/pokemon/poochyena.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -9702,11 +9702,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Mightyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/262.png){: .pokemon-sprite-img }](../pokemon/mightyena.md)
+-	[![Mightyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/262.png){: .pokemon-sprite-img }](../pokedex/pokemon/mightyena.md)
 
 	***
 
-	**#262 [Mightyena](../pokemon/mightyena.md)**
+	**#262 [Mightyena](../pokedex/pokemon/mightyena.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -9742,11 +9742,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Zigzagoon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/263.png){: .pokemon-sprite-img }](../pokemon/zigzagoon.md)
+-	[![Zigzagoon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/263.png){: .pokemon-sprite-img }](../pokedex/pokemon/zigzagoon.md)
 
 	***
 
-	**#263 [Zigzagoon](../pokemon/zigzagoon.md)**
+	**#263 [Zigzagoon](../pokedex/pokemon/zigzagoon.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -9781,11 +9781,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Linoone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/264.png){: .pokemon-sprite-img }](../pokemon/linoone.md)
+-	[![Linoone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/264.png){: .pokemon-sprite-img }](../pokedex/pokemon/linoone.md)
 
 	***
 
-	**#264 [Linoone](../pokemon/linoone.md)**
+	**#264 [Linoone](../pokedex/pokemon/linoone.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -9824,11 +9824,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Wurmple](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/265.png){: .pokemon-sprite-img }](../pokemon/wurmple.md)
+-	[![Wurmple](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/265.png){: .pokemon-sprite-img }](../pokedex/pokemon/wurmple.md)
 
 	***
 
-	**#265 [Wurmple](../pokemon/wurmple.md)**
+	**#265 [Wurmple](../pokedex/pokemon/wurmple.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -9847,11 +9847,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Silcoon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/266.png){: .pokemon-sprite-img }](../pokemon/silcoon.md)
+-	[![Silcoon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/266.png){: .pokemon-sprite-img }](../pokedex/pokemon/silcoon.md)
 
 	***
 
-	**#266 [Silcoon](../pokemon/silcoon.md)**
+	**#266 [Silcoon](../pokedex/pokemon/silcoon.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -9869,11 +9869,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Beautifly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/267.png){: .pokemon-sprite-img }](../pokemon/beautifly.md)
+-	[![Beautifly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/267.png){: .pokemon-sprite-img }](../pokedex/pokemon/beautifly.md)
 
 	***
 
-	**#267 [Beautifly](../pokemon/beautifly.md)**
+	**#267 [Beautifly](../pokedex/pokemon/beautifly.md)**
 
 </div>Ability;
  Swarm / None | Swarm / Rivalry |
@@ -9912,11 +9912,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Cascoon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/268.png){: .pokemon-sprite-img }](../pokemon/cascoon.md)
+-	[![Cascoon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/268.png){: .pokemon-sprite-img }](../pokedex/pokemon/cascoon.md)
 
 	***
 
-	**#268 [Cascoon](../pokemon/cascoon.md)**
+	**#268 [Cascoon](../pokedex/pokemon/cascoon.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -9934,11 +9934,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Dustox](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/269.png){: .pokemon-sprite-img }](../pokemon/dustox.md)
+-	[![Dustox](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/269.png){: .pokemon-sprite-img }](../pokedex/pokemon/dustox.md)
 
 	***
 
-	**#269 [Dustox](../pokemon/dustox.md)**
+	**#269 [Dustox](../pokedex/pokemon/dustox.md)**
 
 </div>Ability;
  Shield Dust / None | Shield Dust / Compound Eyes |
@@ -9977,11 +9977,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Lotad](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/270.png){: .pokemon-sprite-img }](../pokemon/lotad.md)
+-	[![Lotad](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/270.png){: .pokemon-sprite-img }](../pokedex/pokemon/lotad.md)
 
 	***
 
-	**#270 [Lotad](../pokemon/lotad.md)**
+	**#270 [Lotad](../pokedex/pokemon/lotad.md)**
 
 </div>**Level Up**:
 
@@ -10005,11 +10005,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Lombre](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/271.png){: .pokemon-sprite-img }](../pokemon/lombre.md)
+-	[![Lombre](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/271.png){: .pokemon-sprite-img }](../pokedex/pokemon/lombre.md)
 
 	***
 
-	**#271 [Lombre](../pokemon/lombre.md)**
+	**#271 [Lombre](../pokedex/pokemon/lombre.md)**
 
 </div>**Level Up**:
 
@@ -10036,11 +10036,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Ludicolo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/272.png){: .pokemon-sprite-img }](../pokemon/ludicolo.md)
+-	[![Ludicolo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/272.png){: .pokemon-sprite-img }](../pokedex/pokemon/ludicolo.md)
 
 	***
 
-	**#272 [Ludicolo](../pokemon/ludicolo.md)**
+	**#272 [Ludicolo](../pokedex/pokemon/ludicolo.md)**
 
 </div>**Level Up**:
 
@@ -10057,11 +10057,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Seedot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/273.png){: .pokemon-sprite-img }](../pokemon/seedot.md)
+-	[![Seedot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/273.png){: .pokemon-sprite-img }](../pokedex/pokemon/seedot.md)
 
 	***
 
-	**#273 [Seedot](../pokemon/seedot.md)**
+	**#273 [Seedot](../pokedex/pokemon/seedot.md)**
 
 </div>**Level Up**:
 
@@ -10081,11 +10081,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Nuzleaf](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/274.png){: .pokemon-sprite-img }](../pokemon/nuzleaf.md)
+-	[![Nuzleaf](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/274.png){: .pokemon-sprite-img }](../pokedex/pokemon/nuzleaf.md)
 
 	***
 
-	**#274 [Nuzleaf](../pokemon/nuzleaf.md)**
+	**#274 [Nuzleaf](../pokedex/pokemon/nuzleaf.md)**
 
 </div>**Level Up**:
 
@@ -10109,11 +10109,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Shiftry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/275.png){: .pokemon-sprite-img }](../pokemon/shiftry.md)
+-	[![Shiftry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/275.png){: .pokemon-sprite-img }](../pokedex/pokemon/shiftry.md)
 
 	***
 
-	**#275 [Shiftry](../pokemon/shiftry.md)**
+	**#275 [Shiftry](../pokedex/pokemon/shiftry.md)**
 
 </div>**Moves**:
 
@@ -10136,11 +10136,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Taillow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/276.png){: .pokemon-sprite-img }](../pokemon/taillow.md)
+-	[![Taillow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/276.png){: .pokemon-sprite-img }](../pokedex/pokemon/taillow.md)
 
 	***
 
-	**#276 [Taillow](../pokemon/taillow.md)**
+	**#276 [Taillow](../pokedex/pokemon/taillow.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -10173,11 +10173,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Swellow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/277.png){: .pokemon-sprite-img }](../pokemon/swellow.md)
+-	[![Swellow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/277.png){: .pokemon-sprite-img }](../pokedex/pokemon/swellow.md)
 
 	***
 
-	**#277 [Swellow](../pokemon/swellow.md)**
+	**#277 [Swellow](../pokedex/pokemon/swellow.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -10214,11 +10214,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Wingull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/278.png){: .pokemon-sprite-img }](../pokemon/wingull.md)
+-	[![Wingull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/278.png){: .pokemon-sprite-img }](../pokedex/pokemon/wingull.md)
 
 	***
 
-	**#278 [Wingull](../pokemon/wingull.md)**
+	**#278 [Wingull](../pokedex/pokemon/wingull.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -10253,11 +10253,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Pelipper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/279.png){: .pokemon-sprite-img }](../pokemon/pelipper.md)
+-	[![Pelipper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/279.png){: .pokemon-sprite-img }](../pokedex/pokemon/pelipper.md)
 
 	***
 
-	**#279 [Pelipper](../pokemon/pelipper.md)**
+	**#279 [Pelipper](../pokedex/pokemon/pelipper.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -10299,11 +10299,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Ralts](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/280.png){: .pokemon-sprite-img }](../pokemon/ralts.md)
+-	[![Ralts](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/280.png){: .pokemon-sprite-img }](../pokedex/pokemon/ralts.md)
 
 	***
 
-	**#280 [Ralts](../pokemon/ralts.md)**
+	**#280 [Ralts](../pokedex/pokemon/ralts.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -10335,11 +10335,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Kirlia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/281.png){: .pokemon-sprite-img }](../pokemon/kirlia.md)
+-	[![Kirlia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/281.png){: .pokemon-sprite-img }](../pokedex/pokemon/kirlia.md)
 
 	***
 
-	**#281 [Kirlia](../pokemon/kirlia.md)**
+	**#281 [Kirlia](../pokedex/pokemon/kirlia.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -10371,11 +10371,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Gardevoir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/282.png){: .pokemon-sprite-img }](../pokemon/gardevoir.md)
+-	[![Gardevoir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/282.png){: .pokemon-sprite-img }](../pokedex/pokemon/gardevoir.md)
 
 	***
 
-	**#282 [Gardevoir](../pokemon/gardevoir.md)**
+	**#282 [Gardevoir](../pokedex/pokemon/gardevoir.md)**
 
 </div>**Level Up**:
 
@@ -10405,11 +10405,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Surskit](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/283.png){: .pokemon-sprite-img }](../pokemon/surskit.md)
+-	[![Surskit](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/283.png){: .pokemon-sprite-img }](../pokedex/pokemon/surskit.md)
 
 	***
 
-	**#283 [Surskit](../pokemon/surskit.md)**
+	**#283 [Surskit](../pokedex/pokemon/surskit.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -10445,11 +10445,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Masquerain](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/284.png){: .pokemon-sprite-img }](../pokemon/masquerain.md)
+-	[![Masquerain](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/284.png){: .pokemon-sprite-img }](../pokedex/pokemon/masquerain.md)
 
 	***
 
-	**#284 [Masquerain](../pokemon/masquerain.md)**
+	**#284 [Masquerain](../pokedex/pokemon/masquerain.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -10494,11 +10494,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Shroomish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/285.png){: .pokemon-sprite-img }](../pokemon/shroomish.md)
+-	[![Shroomish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/285.png){: .pokemon-sprite-img }](../pokedex/pokemon/shroomish.md)
 
 	***
 
-	**#285 [Shroomish](../pokemon/shroomish.md)**
+	**#285 [Shroomish](../pokedex/pokemon/shroomish.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -10530,11 +10530,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Breloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/286.png){: .pokemon-sprite-img }](../pokemon/breloom.md)
+-	[![Breloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/286.png){: .pokemon-sprite-img }](../pokedex/pokemon/breloom.md)
 
 	***
 
-	**#286 [Breloom](../pokemon/breloom.md)**
+	**#286 [Breloom](../pokedex/pokemon/breloom.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -10572,11 +10572,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Slakoth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/287.png){: .pokemon-sprite-img }](../pokemon/slakoth.md)
+-	[![Slakoth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/287.png){: .pokemon-sprite-img }](../pokedex/pokemon/slakoth.md)
 
 	***
 
-	**#287 [Slakoth](../pokemon/slakoth.md)**
+	**#287 [Slakoth](../pokedex/pokemon/slakoth.md)**
 
 </div>**Level Up**:
 
@@ -10600,11 +10600,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Vigoroth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/288.png){: .pokemon-sprite-img }](../pokemon/vigoroth.md)
+-	[![Vigoroth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/288.png){: .pokemon-sprite-img }](../pokedex/pokemon/vigoroth.md)
 
 	***
 
-	**#288 [Vigoroth](../pokemon/vigoroth.md)**
+	**#288 [Vigoroth](../pokedex/pokemon/vigoroth.md)**
 
 </div>**Level Up**:
 
@@ -10629,11 +10629,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Slaking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/289.png){: .pokemon-sprite-img }](../pokemon/slaking.md)
+-	[![Slaking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/289.png){: .pokemon-sprite-img }](../pokedex/pokemon/slaking.md)
 
 	***
 
-	**#289 [Slaking](../pokemon/slaking.md)**
+	**#289 [Slaking](../pokedex/pokemon/slaking.md)**
 
 </div>**Level Up**:
 
@@ -10661,11 +10661,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Nincada](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/290.png){: .pokemon-sprite-img }](../pokemon/nincada.md)
+-	[![Nincada](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/290.png){: .pokemon-sprite-img }](../pokedex/pokemon/nincada.md)
 
 	***
 
-	**#290 [Nincada](../pokemon/nincada.md)**
+	**#290 [Nincada](../pokedex/pokemon/nincada.md)**
 
 </div>**Moves**:
 
@@ -10694,11 +10694,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Ninjask](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/291.png){: .pokemon-sprite-img }](../pokemon/ninjask.md)
+-	[![Ninjask](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/291.png){: .pokemon-sprite-img }](../pokedex/pokemon/ninjask.md)
 
 	***
 
-	**#291 [Ninjask](../pokemon/ninjask.md)**
+	**#291 [Ninjask](../pokedex/pokemon/ninjask.md)**
 
 </div>**Moves**:
 
@@ -10734,11 +10734,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Shedinja](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/292.png){: .pokemon-sprite-img }](../pokemon/shedinja.md)
+-	[![Shedinja](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/292.png){: .pokemon-sprite-img }](../pokedex/pokemon/shedinja.md)
 
 	***
 
-	**#292 [Shedinja](../pokemon/shedinja.md)**
+	**#292 [Shedinja](../pokedex/pokemon/shedinja.md)**
 
 </div>**Moves**:
 
@@ -10769,11 +10769,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Whismur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/293.png){: .pokemon-sprite-img }](../pokemon/whismur.md)
+-	[![Whismur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/293.png){: .pokemon-sprite-img }](../pokedex/pokemon/whismur.md)
 
 	***
 
-	**#293 [Whismur](../pokemon/whismur.md)**
+	**#293 [Whismur](../pokedex/pokemon/whismur.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -10808,11 +10808,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Loudred](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/294.png){: .pokemon-sprite-img }](../pokemon/loudred.md)
+-	[![Loudred](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/294.png){: .pokemon-sprite-img }](../pokedex/pokemon/loudred.md)
 
 	***
 
-	**#294 [Loudred](../pokemon/loudred.md)**
+	**#294 [Loudred](../pokedex/pokemon/loudred.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -10847,11 +10847,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Exploud](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/295.png){: .pokemon-sprite-img }](../pokemon/exploud.md)
+-	[![Exploud](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/295.png){: .pokemon-sprite-img }](../pokedex/pokemon/exploud.md)
 
 	***
 
-	**#295 [Exploud](../pokemon/exploud.md)**
+	**#295 [Exploud](../pokedex/pokemon/exploud.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -10891,11 +10891,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Makuhita](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/296.png){: .pokemon-sprite-img }](../pokemon/makuhita.md)
+-	[![Makuhita](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/296.png){: .pokemon-sprite-img }](../pokedex/pokemon/makuhita.md)
 
 	***
 
-	**#296 [Makuhita](../pokemon/makuhita.md)**
+	**#296 [Makuhita](../pokedex/pokemon/makuhita.md)**
 
 </div>**Level Up**:
 
@@ -10925,11 +10925,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Hariyama](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/297.png){: .pokemon-sprite-img }](../pokemon/hariyama.md)
+-	[![Hariyama](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/297.png){: .pokemon-sprite-img }](../pokedex/pokemon/hariyama.md)
 
 	***
 
-	**#297 [Hariyama](../pokemon/hariyama.md)**
+	**#297 [Hariyama](../pokedex/pokemon/hariyama.md)**
 
 </div>**Level Up**:
 
@@ -10960,11 +10960,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Azurill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/298.png){: .pokemon-sprite-img }](../pokemon/azurill.md)
+-	[![Azurill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/298.png){: .pokemon-sprite-img }](../pokedex/pokemon/azurill.md)
 
 	***
 
-	**#298 [Azurill](../pokemon/azurill.md)**
+	**#298 [Azurill](../pokedex/pokemon/azurill.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -10998,11 +10998,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Nosepass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/299.png){: .pokemon-sprite-img }](../pokemon/nosepass.md)
+-	[![Nosepass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/299.png){: .pokemon-sprite-img }](../pokedex/pokemon/nosepass.md)
 
 	***
 
-	**#299 [Nosepass](../pokemon/nosepass.md)**
+	**#299 [Nosepass](../pokedex/pokemon/nosepass.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -11035,11 +11035,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Skitty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/300.png){: .pokemon-sprite-img }](../pokemon/skitty.md)
+-	[![Skitty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/300.png){: .pokemon-sprite-img }](../pokedex/pokemon/skitty.md)
 
 	***
 
-	**#300 [Skitty](../pokemon/skitty.md)**
+	**#300 [Skitty](../pokedex/pokemon/skitty.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -11075,11 +11075,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Delcatty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/301.png){: .pokemon-sprite-img }](../pokemon/delcatty.md)
+-	[![Delcatty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/301.png){: .pokemon-sprite-img }](../pokedex/pokemon/delcatty.md)
 
 	***
 
-	**#301 [Delcatty](../pokemon/delcatty.md)**
+	**#301 [Delcatty](../pokedex/pokemon/delcatty.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -11102,11 +11102,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Sableye](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/302.png){: .pokemon-sprite-img }](../pokemon/sableye.md)
+-	[![Sableye](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/302.png){: .pokemon-sprite-img }](../pokedex/pokemon/sableye.md)
 
 	***
 
-	**#302 [Sableye](../pokemon/sableye.md)**
+	**#302 [Sableye](../pokedex/pokemon/sableye.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -11144,11 +11144,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Mawile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/303.png){: .pokemon-sprite-img }](../pokemon/mawile.md)
+-	[![Mawile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/303.png){: .pokemon-sprite-img }](../pokedex/pokemon/mawile.md)
 
 	***
 
-	**#303 [Mawile](../pokemon/mawile.md)**
+	**#303 [Mawile](../pokedex/pokemon/mawile.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -11188,11 +11188,11 @@ Now evolves into Magcargo at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Aron](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/304.png){: .pokemon-sprite-img }](../pokemon/aron.md)
+-	[![Aron](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/304.png){: .pokemon-sprite-img }](../pokedex/pokemon/aron.md)
 
 	***
 
-	**#304 [Aron](../pokemon/aron.md)**
+	**#304 [Aron](../pokedex/pokemon/aron.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -11229,11 +11229,11 @@ Now evolves into Lairon at Level 24.
 
 <div class="grid cards" markdown>
 
--	[![Lairon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/305.png){: .pokemon-sprite-img }](../pokemon/lairon.md)
+-	[![Lairon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/305.png){: .pokemon-sprite-img }](../pokedex/pokemon/lairon.md)
 
 	***
 
-	**#305 [Lairon](../pokemon/lairon.md)**
+	**#305 [Lairon](../pokedex/pokemon/lairon.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -11270,11 +11270,11 @@ Now evolves into Aggron at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Aggron](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/306.png){: .pokemon-sprite-img }](../pokemon/aggron.md)
+-	[![Aggron](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/306.png){: .pokemon-sprite-img }](../pokedex/pokemon/aggron.md)
 
 	***
 
-	**#306 [Aggron](../pokemon/aggron.md)**
+	**#306 [Aggron](../pokedex/pokemon/aggron.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -11310,11 +11310,11 @@ Now evolves into Aggron at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Meditite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/307.png){: .pokemon-sprite-img }](../pokemon/meditite.md)
+-	[![Meditite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/307.png){: .pokemon-sprite-img }](../pokedex/pokemon/meditite.md)
 
 	***
 
-	**#307 [Meditite](../pokemon/meditite.md)**
+	**#307 [Meditite](../pokedex/pokemon/meditite.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -11351,11 +11351,11 @@ Now evolves into Medicham at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Medicham](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/308.png){: .pokemon-sprite-img }](../pokemon/medicham.md)
+-	[![Medicham](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/308.png){: .pokemon-sprite-img }](../pokedex/pokemon/medicham.md)
 
 	***
 
-	**#308 [Medicham](../pokemon/medicham.md)**
+	**#308 [Medicham](../pokedex/pokemon/medicham.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -11391,11 +11391,11 @@ Now evolves into Medicham at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Electrike](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/309.png){: .pokemon-sprite-img }](../pokemon/electrike.md)
+-	[![Electrike](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/309.png){: .pokemon-sprite-img }](../pokedex/pokemon/electrike.md)
 
 	***
 
-	**#309 [Electrike](../pokemon/electrike.md)**
+	**#309 [Electrike](../pokedex/pokemon/electrike.md)**
 
 </div>**Level Up**:
 
@@ -11425,11 +11425,11 @@ Now evolves into Medicham at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Manectric](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/310.png){: .pokemon-sprite-img }](../pokemon/manectric.md)
+-	[![Manectric](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/310.png){: .pokemon-sprite-img }](../pokedex/pokemon/manectric.md)
 
 	***
 
-	**#310 [Manectric](../pokemon/manectric.md)**
+	**#310 [Manectric](../pokedex/pokemon/manectric.md)**
 
 </div>**Level Up**:
 
@@ -11459,11 +11459,11 @@ Now evolves into Medicham at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Plusle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/311.png){: .pokemon-sprite-img }](../pokemon/plusle.md)
+-	[![Plusle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/311.png){: .pokemon-sprite-img }](../pokedex/pokemon/plusle.md)
 
 	***
 
-	**#311 [Plusle](../pokemon/plusle.md)**
+	**#311 [Plusle](../pokedex/pokemon/plusle.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -11499,11 +11499,11 @@ Now evolves into Medicham at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Minun](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/312.png){: .pokemon-sprite-img }](../pokemon/minun.md)
+-	[![Minun](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/312.png){: .pokemon-sprite-img }](../pokedex/pokemon/minun.md)
 
 	***
 
-	**#312 [Minun](../pokemon/minun.md)**
+	**#312 [Minun](../pokedex/pokemon/minun.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -11539,11 +11539,11 @@ Now evolves into Medicham at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Volbeat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/313.png){: .pokemon-sprite-img }](../pokemon/volbeat.md)
+-	[![Volbeat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/313.png){: .pokemon-sprite-img }](../pokedex/pokemon/volbeat.md)
 
 	***
 
-	**#313 [Volbeat](../pokemon/volbeat.md)**
+	**#313 [Volbeat](../pokedex/pokemon/volbeat.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -11584,11 +11584,11 @@ Now evolves into Medicham at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Illumise](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/314.png){: .pokemon-sprite-img }](../pokemon/illumise.md)
+-	[![Illumise](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/314.png){: .pokemon-sprite-img }](../pokedex/pokemon/illumise.md)
 
 	***
 
-	**#314 [Illumise](../pokemon/illumise.md)**
+	**#314 [Illumise](../pokedex/pokemon/illumise.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -11629,11 +11629,11 @@ Now evolves into Medicham at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Roselia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/315.png){: .pokemon-sprite-img }](../pokemon/roselia.md)
+-	[![Roselia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/315.png){: .pokemon-sprite-img }](../pokedex/pokemon/roselia.md)
 
 	***
 
-	**#315 [Roselia](../pokemon/roselia.md)**
+	**#315 [Roselia](../pokedex/pokemon/roselia.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -11669,11 +11669,11 @@ Now evolves into Medicham at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Gulpin](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/316.png){: .pokemon-sprite-img }](../pokemon/gulpin.md)
+-	[![Gulpin](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/316.png){: .pokemon-sprite-img }](../pokedex/pokemon/gulpin.md)
 
 	***
 
-	**#316 [Gulpin](../pokemon/gulpin.md)**
+	**#316 [Gulpin](../pokedex/pokemon/gulpin.md)**
 
 </div>**Level Up**:
 
@@ -11701,11 +11701,11 @@ Now evolves into Medicham at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Swalot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/317.png){: .pokemon-sprite-img }](../pokemon/swalot.md)
+-	[![Swalot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/317.png){: .pokemon-sprite-img }](../pokedex/pokemon/swalot.md)
 
 	***
 
-	**#317 [Swalot](../pokemon/swalot.md)**
+	**#317 [Swalot](../pokedex/pokemon/swalot.md)**
 
 </div>**Level Up**:
 
@@ -11736,11 +11736,11 @@ Now evolves into Medicham at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Carvanha](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/318.png){: .pokemon-sprite-img }](../pokemon/carvanha.md)
+-	[![Carvanha](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/318.png){: .pokemon-sprite-img }](../pokedex/pokemon/carvanha.md)
 
 	***
 
-	**#318 [Carvanha](../pokemon/carvanha.md)**
+	**#318 [Carvanha](../pokedex/pokemon/carvanha.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -11772,11 +11772,11 @@ Now evolves into Medicham at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Sharpedo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/319.png){: .pokemon-sprite-img }](../pokemon/sharpedo.md)
+-	[![Sharpedo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/319.png){: .pokemon-sprite-img }](../pokedex/pokemon/sharpedo.md)
 
 	***
 
-	**#319 [Sharpedo](../pokemon/sharpedo.md)**
+	**#319 [Sharpedo](../pokedex/pokemon/sharpedo.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -11812,11 +11812,11 @@ Now evolves into Medicham at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Wailmer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/320.png){: .pokemon-sprite-img }](../pokemon/wailmer.md)
+-	[![Wailmer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/320.png){: .pokemon-sprite-img }](../pokedex/pokemon/wailmer.md)
 
 	***
 
-	**#320 [Wailmer](../pokemon/wailmer.md)**
+	**#320 [Wailmer](../pokedex/pokemon/wailmer.md)**
 
 </div>**Evolution**:
 
@@ -11851,11 +11851,11 @@ Now evolves into Wailord at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Wailord](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/321.png){: .pokemon-sprite-img }](../pokemon/wailord.md)
+-	[![Wailord](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/321.png){: .pokemon-sprite-img }](../pokedex/pokemon/wailord.md)
 
 	***
 
-	**#321 [Wailord](../pokemon/wailord.md)**
+	**#321 [Wailord](../pokedex/pokemon/wailord.md)**
 
 </div>**Level Up**:
 
@@ -11886,11 +11886,11 @@ Now evolves into Wailord at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Numel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/322.png){: .pokemon-sprite-img }](../pokemon/numel.md)
+-	[![Numel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/322.png){: .pokemon-sprite-img }](../pokedex/pokemon/numel.md)
 
 	***
 
-	**#322 [Numel](../pokemon/numel.md)**
+	**#322 [Numel](../pokedex/pokemon/numel.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -11920,11 +11920,11 @@ Now evolves into Wailord at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Camerupt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/323.png){: .pokemon-sprite-img }](../pokemon/camerupt.md)
+-	[![Camerupt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/323.png){: .pokemon-sprite-img }](../pokedex/pokemon/camerupt.md)
 
 	***
 
-	**#323 [Camerupt](../pokemon/camerupt.md)**
+	**#323 [Camerupt](../pokedex/pokemon/camerupt.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -11957,11 +11957,11 @@ Now evolves into Wailord at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Torkoal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/324.png){: .pokemon-sprite-img }](../pokemon/torkoal.md)
+-	[![Torkoal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/324.png){: .pokemon-sprite-img }](../pokedex/pokemon/torkoal.md)
 
 	***
 
-	**#324 [Torkoal](../pokemon/torkoal.md)**
+	**#324 [Torkoal](../pokedex/pokemon/torkoal.md)**
 
 </div>Ability
  White Smoke / Drought | Drought / White Smoke |
@@ -11993,11 +11993,11 @@ Now evolves into Wailord at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Spoink](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/325.png){: .pokemon-sprite-img }](../pokemon/spoink.md)
+-	[![Spoink](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/325.png){: .pokemon-sprite-img }](../pokedex/pokemon/spoink.md)
 
 	***
 
-	**#325 [Spoink](../pokemon/spoink.md)**
+	**#325 [Spoink](../pokedex/pokemon/spoink.md)**
 
 </div>**Level Up**:
 
@@ -12027,11 +12027,11 @@ Now evolves into Wailord at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Grumpig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/326.png){: .pokemon-sprite-img }](../pokemon/grumpig.md)
+-	[![Grumpig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/326.png){: .pokemon-sprite-img }](../pokedex/pokemon/grumpig.md)
 
 	***
 
-	**#326 [Grumpig](../pokemon/grumpig.md)**
+	**#326 [Grumpig](../pokedex/pokemon/grumpig.md)**
 
 </div>**Level Up**:
 
@@ -12062,11 +12062,11 @@ Now evolves into Wailord at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Spinda](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/327.png){: .pokemon-sprite-img }](../pokemon/spinda.md)
+-	[![Spinda](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/327.png){: .pokemon-sprite-img }](../pokedex/pokemon/spinda.md)
 
 	***
 
-	**#327 [Spinda](../pokemon/spinda.md)**
+	**#327 [Spinda](../pokedex/pokemon/spinda.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -12102,11 +12102,11 @@ Now evolves into Wailord at Level 36.
 
 <div class="grid cards" markdown>
 
--	[![Trapinch](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/328.png){: .pokemon-sprite-img }](../pokemon/trapinch.md)
+-	[![Trapinch](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/328.png){: .pokemon-sprite-img }](../pokedex/pokemon/trapinch.md)
 
 	***
 
-	**#328 [Trapinch](../pokemon/trapinch.md)**
+	**#328 [Trapinch](../pokedex/pokemon/trapinch.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -12149,11 +12149,11 @@ Now evolves into Vibrava at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Vibrava](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/329.png){: .pokemon-sprite-img }](../pokemon/vibrava.md)
+-	[![Vibrava](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/329.png){: .pokemon-sprite-img }](../pokedex/pokemon/vibrava.md)
 
 	***
 
-	**#329 [Vibrava](../pokemon/vibrava.md)**
+	**#329 [Vibrava](../pokedex/pokemon/vibrava.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -12201,11 +12201,11 @@ Now evolves into Vibrava at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Flygon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/330.png){: .pokemon-sprite-img }](../pokemon/flygon.md)
+-	[![Flygon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/330.png){: .pokemon-sprite-img }](../pokedex/pokemon/flygon.md)
 
 	***
 
-	**#330 [Flygon](../pokemon/flygon.md)**
+	**#330 [Flygon](../pokedex/pokemon/flygon.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -12256,11 +12256,11 @@ Now evolves into Vibrava at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Cacnea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/331.png){: .pokemon-sprite-img }](../pokemon/cacnea.md)
+-	[![Cacnea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/331.png){: .pokemon-sprite-img }](../pokedex/pokemon/cacnea.md)
 
 	***
 
-	**#331 [Cacnea](../pokemon/cacnea.md)**
+	**#331 [Cacnea](../pokedex/pokemon/cacnea.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -12295,11 +12295,11 @@ Now evolves into Vibrava at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Cacturne](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/332.png){: .pokemon-sprite-img }](../pokemon/cacturne.md)
+-	[![Cacturne](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/332.png){: .pokemon-sprite-img }](../pokedex/pokemon/cacturne.md)
 
 	***
 
-	**#332 [Cacturne](../pokemon/cacturne.md)**
+	**#332 [Cacturne](../pokedex/pokemon/cacturne.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -12335,11 +12335,11 @@ Now evolves into Vibrava at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Swablu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/333.png){: .pokemon-sprite-img }](../pokemon/swablu.md)
+-	[![Swablu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/333.png){: .pokemon-sprite-img }](../pokedex/pokemon/swablu.md)
 
 	***
 
-	**#333 [Swablu](../pokemon/swablu.md)**
+	**#333 [Swablu](../pokedex/pokemon/swablu.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -12380,11 +12380,11 @@ Now evolves into Vibrava at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Altaria](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/334.png){: .pokemon-sprite-img }](../pokemon/altaria.md)
+-	[![Altaria](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/334.png){: .pokemon-sprite-img }](../pokedex/pokemon/altaria.md)
 
 	***
 
-	**#334 [Altaria](../pokemon/altaria.md)**
+	**#334 [Altaria](../pokedex/pokemon/altaria.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -12428,11 +12428,11 @@ Now evolves into Vibrava at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Zangoose](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/335.png){: .pokemon-sprite-img }](../pokemon/zangoose.md)
+-	[![Zangoose](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/335.png){: .pokemon-sprite-img }](../pokedex/pokemon/zangoose.md)
 
 	***
 
-	**#335 [Zangoose](../pokemon/zangoose.md)**
+	**#335 [Zangoose](../pokedex/pokemon/zangoose.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -12466,11 +12466,11 @@ Now evolves into Vibrava at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Seviper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/336.png){: .pokemon-sprite-img }](../pokemon/seviper.md)
+-	[![Seviper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/336.png){: .pokemon-sprite-img }](../pokedex/pokemon/seviper.md)
 
 	***
 
-	**#336 [Seviper](../pokemon/seviper.md)**
+	**#336 [Seviper](../pokedex/pokemon/seviper.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -12505,11 +12505,11 @@ Now evolves into Vibrava at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Lunatone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/337.png){: .pokemon-sprite-img }](../pokemon/lunatone.md)
+-	[![Lunatone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/337.png){: .pokemon-sprite-img }](../pokedex/pokemon/lunatone.md)
 
 	***
 
-	**#337 [Lunatone](../pokemon/lunatone.md)**
+	**#337 [Lunatone](../pokedex/pokemon/lunatone.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -12542,11 +12542,11 @@ Now evolves into Vibrava at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Solrock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/338.png){: .pokemon-sprite-img }](../pokemon/solrock.md)
+-	[![Solrock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/338.png){: .pokemon-sprite-img }](../pokedex/pokemon/solrock.md)
 
 	***
 
-	**#338 [Solrock](../pokemon/solrock.md)**
+	**#338 [Solrock](../pokedex/pokemon/solrock.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -12578,11 +12578,11 @@ Now evolves into Vibrava at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Barboach](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/339.png){: .pokemon-sprite-img }](../pokemon/barboach.md)
+-	[![Barboach](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/339.png){: .pokemon-sprite-img }](../pokedex/pokemon/barboach.md)
 
 	***
 
-	**#339 [Barboach](../pokemon/barboach.md)**
+	**#339 [Barboach](../pokedex/pokemon/barboach.md)**
 
 </div>**Level Up**:
 
@@ -12611,11 +12611,11 @@ Now evolves into Vibrava at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Whiscash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/340.png){: .pokemon-sprite-img }](../pokemon/whiscash.md)
+-	[![Whiscash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/340.png){: .pokemon-sprite-img }](../pokedex/pokemon/whiscash.md)
 
 	***
 
-	**#340 [Whiscash](../pokemon/whiscash.md)**
+	**#340 [Whiscash](../pokedex/pokemon/whiscash.md)**
 
 </div>**Level Up**:
 
@@ -12647,11 +12647,11 @@ Now evolves into Vibrava at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Corphish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/341.png){: .pokemon-sprite-img }](../pokemon/corphish.md)
+-	[![Corphish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/341.png){: .pokemon-sprite-img }](../pokedex/pokemon/corphish.md)
 
 	***
 
-	**#341 [Corphish](../pokemon/corphish.md)**
+	**#341 [Corphish](../pokedex/pokemon/corphish.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -12685,11 +12685,11 @@ Now evolves into Vibrava at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Crawdaunt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/342.png){: .pokemon-sprite-img }](../pokemon/crawdaunt.md)
+-	[![Crawdaunt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/342.png){: .pokemon-sprite-img }](../pokedex/pokemon/crawdaunt.md)
 
 	***
 
-	**#342 [Crawdaunt](../pokemon/crawdaunt.md)**
+	**#342 [Crawdaunt](../pokedex/pokemon/crawdaunt.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -12724,11 +12724,11 @@ Now evolves into Vibrava at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Baltoy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/343.png){: .pokemon-sprite-img }](../pokemon/baltoy.md)
+-	[![Baltoy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/343.png){: .pokemon-sprite-img }](../pokedex/pokemon/baltoy.md)
 
 	***
 
-	**#343 [Baltoy](../pokemon/baltoy.md)**
+	**#343 [Baltoy](../pokedex/pokemon/baltoy.md)**
 
 </div>**Evolution**:
 
@@ -12761,11 +12761,11 @@ Now evolves into Claydol at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Claydol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/344.png){: .pokemon-sprite-img }](../pokemon/claydol.md)
+-	[![Claydol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/344.png){: .pokemon-sprite-img }](../pokedex/pokemon/claydol.md)
 
 	***
 
-	**#344 [Claydol](../pokemon/claydol.md)**
+	**#344 [Claydol](../pokedex/pokemon/claydol.md)**
 
 </div>**Moves**:
 
@@ -12801,11 +12801,11 @@ Now evolves into Claydol at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Lileep](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/345.png){: .pokemon-sprite-img }](../pokemon/lileep.md)
+-	[![Lileep](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/345.png){: .pokemon-sprite-img }](../pokedex/pokemon/lileep.md)
 
 	***
 
-	**#345 [Lileep](../pokemon/lileep.md)**
+	**#345 [Lileep](../pokedex/pokemon/lileep.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -12842,11 +12842,11 @@ Now evolves into Cradily at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Cradily](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/346.png){: .pokemon-sprite-img }](../pokemon/cradily.md)
+-	[![Cradily](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/346.png){: .pokemon-sprite-img }](../pokedex/pokemon/cradily.md)
 
 	***
 
-	**#346 [Cradily](../pokemon/cradily.md)**
+	**#346 [Cradily](../pokedex/pokemon/cradily.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -12880,11 +12880,11 @@ Now evolves into Cradily at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Anorith](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/347.png){: .pokemon-sprite-img }](../pokemon/anorith.md)
+-	[![Anorith](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/347.png){: .pokemon-sprite-img }](../pokedex/pokemon/anorith.md)
 
 	***
 
-	**#347 [Anorith](../pokemon/anorith.md)**
+	**#347 [Anorith](../pokedex/pokemon/anorith.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -12924,11 +12924,11 @@ Now evolves into Armaldo at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Armaldo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/348.png){: .pokemon-sprite-img }](../pokemon/armaldo.md)
+-	[![Armaldo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/348.png){: .pokemon-sprite-img }](../pokedex/pokemon/armaldo.md)
 
 	***
 
-	**#348 [Armaldo](../pokemon/armaldo.md)**
+	**#348 [Armaldo](../pokedex/pokemon/armaldo.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -12966,11 +12966,11 @@ Now evolves into Armaldo at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Feebas](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/349.png){: .pokemon-sprite-img }](../pokemon/feebas.md)
+-	[![Feebas](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/349.png){: .pokemon-sprite-img }](../pokedex/pokemon/feebas.md)
 
 	***
 
-	**#349 [Feebas](../pokemon/feebas.md)**
+	**#349 [Feebas](../pokedex/pokemon/feebas.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -12993,11 +12993,11 @@ Now evolves into Armaldo at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Milotic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/350.png){: .pokemon-sprite-img }](../pokemon/milotic.md)
+-	[![Milotic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/350.png){: .pokemon-sprite-img }](../pokedex/pokemon/milotic.md)
 
 	***
 
-	**#350 [Milotic](../pokemon/milotic.md)**
+	**#350 [Milotic](../pokedex/pokemon/milotic.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -13039,11 +13039,11 @@ Now evolves into Armaldo at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Castform](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/351.png){: .pokemon-sprite-img }](../pokemon/castform.md)
+-	[![Castform](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/351.png){: .pokemon-sprite-img }](../pokedex/pokemon/castform.md)
 
 	***
 
-	**#351 [Castform](../pokemon/castform.md)**
+	**#351 [Castform](../pokedex/pokemon/castform.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -13075,11 +13075,11 @@ Now evolves into Armaldo at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Kecleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/352.png){: .pokemon-sprite-img }](../pokemon/kecleon.md)
+-	[![Kecleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/352.png){: .pokemon-sprite-img }](../pokedex/pokemon/kecleon.md)
 
 	***
 
-	**#352 [Kecleon](../pokemon/kecleon.md)**
+	**#352 [Kecleon](../pokedex/pokemon/kecleon.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -13115,11 +13115,11 @@ Now evolves into Armaldo at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Shuppet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/353.png){: .pokemon-sprite-img }](../pokemon/shuppet.md)
+-	[![Shuppet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/353.png){: .pokemon-sprite-img }](../pokedex/pokemon/shuppet.md)
 
 	***
 
-	**#353 [Shuppet](../pokemon/shuppet.md)**
+	**#353 [Shuppet](../pokedex/pokemon/shuppet.md)**
 
 </div>**Evolution**:
 
@@ -13152,11 +13152,11 @@ Now evolves into Banette at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Banette](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/354.png){: .pokemon-sprite-img }](../pokemon/banette.md)
+-	[![Banette](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/354.png){: .pokemon-sprite-img }](../pokedex/pokemon/banette.md)
 
 	***
 
-	**#354 [Banette](../pokemon/banette.md)**
+	**#354 [Banette](../pokedex/pokemon/banette.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -13190,11 +13190,11 @@ Now evolves into Banette at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Duskull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/355.png){: .pokemon-sprite-img }](../pokemon/duskull.md)
+-	[![Duskull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/355.png){: .pokemon-sprite-img }](../pokedex/pokemon/duskull.md)
 
 	***
 
-	**#355 [Duskull](../pokemon/duskull.md)**
+	**#355 [Duskull](../pokedex/pokemon/duskull.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -13230,11 +13230,11 @@ Now evolves into Dusclops at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Dusclops](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/356.png){: .pokemon-sprite-img }](../pokemon/dusclops.md)
+-	[![Dusclops](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/356.png){: .pokemon-sprite-img }](../pokedex/pokemon/dusclops.md)
 
 	***
 
-	**#356 [Dusclops](../pokemon/dusclops.md)**
+	**#356 [Dusclops](../pokedex/pokemon/dusclops.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -13276,11 +13276,11 @@ Now evolves into Dusclops at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Tropius](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/357.png){: .pokemon-sprite-img }](../pokemon/tropius.md)
+-	[![Tropius](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/357.png){: .pokemon-sprite-img }](../pokedex/pokemon/tropius.md)
 
 	***
 
-	**#357 [Tropius](../pokemon/tropius.md)**
+	**#357 [Tropius](../pokedex/pokemon/tropius.md)**
 
 </div>**Base Experience (Complete)**:
 
@@ -13325,11 +13325,11 @@ Now evolves into Dusclops at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Chimecho](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/358.png){: .pokemon-sprite-img }](../pokemon/chimecho.md)
+-	[![Chimecho](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/358.png){: .pokemon-sprite-img }](../pokedex/pokemon/chimecho.md)
 
 	***
 
-	**#358 [Chimecho](../pokemon/chimecho.md)**
+	**#358 [Chimecho](../pokedex/pokemon/chimecho.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -13363,11 +13363,11 @@ Now evolves into Dusclops at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Absol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/359.png){: .pokemon-sprite-img }](../pokemon/absol.md)
+-	[![Absol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/359.png){: .pokemon-sprite-img }](../pokedex/pokemon/absol.md)
 
 	***
 
-	**#359 [Absol](../pokemon/absol.md)**
+	**#359 [Absol](../pokedex/pokemon/absol.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -13405,11 +13405,11 @@ Now evolves into Dusclops at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Wynaut](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/360.png){: .pokemon-sprite-img }](../pokemon/wynaut.md)
+-	[![Wynaut](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/360.png){: .pokemon-sprite-img }](../pokedex/pokemon/wynaut.md)
 
 	***
 
-	**#360 [Wynaut](../pokemon/wynaut.md)**
+	**#360 [Wynaut](../pokedex/pokemon/wynaut.md)**
 
 </div>**Level Up**:
 
@@ -13427,11 +13427,11 @@ Now evolves into Dusclops at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Snorunt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/361.png){: .pokemon-sprite-img }](../pokemon/snorunt.md)
+-	[![Snorunt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/361.png){: .pokemon-sprite-img }](../pokedex/pokemon/snorunt.md)
 
 	***
 
-	**#361 [Snorunt](../pokemon/snorunt.md)**
+	**#361 [Snorunt](../pokedex/pokemon/snorunt.md)**
 
 </div>**Evolution**:
 
@@ -13462,11 +13462,11 @@ Now evolves into Glalie at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Glalie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/362.png){: .pokemon-sprite-img }](../pokemon/glalie.md)
+-	[![Glalie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/362.png){: .pokemon-sprite-img }](../pokedex/pokemon/glalie.md)
 
 	***
 
-	**#362 [Glalie](../pokemon/glalie.md)**
+	**#362 [Glalie](../pokedex/pokemon/glalie.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -13515,11 +13515,11 @@ Now evolves into Glalie at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Spheal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/363.png){: .pokemon-sprite-img }](../pokemon/spheal.md)
+-	[![Spheal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/363.png){: .pokemon-sprite-img }](../pokedex/pokemon/spheal.md)
 
 	***
 
-	**#363 [Spheal](../pokemon/spheal.md)**
+	**#363 [Spheal](../pokedex/pokemon/spheal.md)**
 
 </div>**Evolution**:
 
@@ -13552,11 +13552,11 @@ Now evolves into Sealeo at Level 24.
 
 <div class="grid cards" markdown>
 
--	[![Sealeo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/364.png){: .pokemon-sprite-img }](../pokemon/sealeo.md)
+-	[![Sealeo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/364.png){: .pokemon-sprite-img }](../pokedex/pokemon/sealeo.md)
 
 	***
 
-	**#364 [Sealeo](../pokemon/sealeo.md)**
+	**#364 [Sealeo](../pokedex/pokemon/sealeo.md)**
 
 </div>**Evolution**:
 
@@ -13590,11 +13590,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Walrein](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/365.png){: .pokemon-sprite-img }](../pokemon/walrein.md)
+-	[![Walrein](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/365.png){: .pokemon-sprite-img }](../pokedex/pokemon/walrein.md)
 
 	***
 
-	**#365 [Walrein](../pokemon/walrein.md)**
+	**#365 [Walrein](../pokedex/pokemon/walrein.md)**
 
 </div>**Level Up**:
 
@@ -13626,11 +13626,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Clamperl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/366.png){: .pokemon-sprite-img }](../pokemon/clamperl.md)
+-	[![Clamperl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/366.png){: .pokemon-sprite-img }](../pokedex/pokemon/clamperl.md)
 
 	***
 
-	**#366 [Clamperl](../pokemon/clamperl.md)**
+	**#366 [Clamperl](../pokedex/pokemon/clamperl.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -13658,11 +13658,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Huntail](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/367.png){: .pokemon-sprite-img }](../pokemon/huntail.md)
+-	[![Huntail](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/367.png){: .pokemon-sprite-img }](../pokedex/pokemon/huntail.md)
 
 	***
 
-	**#367 [Huntail](../pokemon/huntail.md)**
+	**#367 [Huntail](../pokedex/pokemon/huntail.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -13693,11 +13693,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Gorebyss](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/368.png){: .pokemon-sprite-img }](../pokemon/gorebyss.md)
+-	[![Gorebyss](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/368.png){: .pokemon-sprite-img }](../pokedex/pokemon/gorebyss.md)
 
 	***
 
-	**#368 [Gorebyss](../pokemon/gorebyss.md)**
+	**#368 [Gorebyss](../pokedex/pokemon/gorebyss.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -13728,11 +13728,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Relicanth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/369.png){: .pokemon-sprite-img }](../pokemon/relicanth.md)
+-	[![Relicanth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/369.png){: .pokemon-sprite-img }](../pokedex/pokemon/relicanth.md)
 
 	***
 
-	**#369 [Relicanth](../pokemon/relicanth.md)**
+	**#369 [Relicanth](../pokedex/pokemon/relicanth.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -13768,11 +13768,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Luvdisc](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/370.png){: .pokemon-sprite-img }](../pokemon/luvdisc.md)
+-	[![Luvdisc](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/370.png){: .pokemon-sprite-img }](../pokedex/pokemon/luvdisc.md)
 
 	***
 
-	**#370 [Luvdisc](../pokemon/luvdisc.md)**
+	**#370 [Luvdisc](../pokedex/pokemon/luvdisc.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -13813,11 +13813,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Bagon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/371.png){: .pokemon-sprite-img }](../pokemon/bagon.md)
+-	[![Bagon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/371.png){: .pokemon-sprite-img }](../pokedex/pokemon/bagon.md)
 
 	***
 
-	**#371 [Bagon](../pokemon/bagon.md)**
+	**#371 [Bagon](../pokedex/pokemon/bagon.md)**
 
 </div>**Level Up**:
 
@@ -13846,11 +13846,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Shelgon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/372.png){: .pokemon-sprite-img }](../pokemon/shelgon.md)
+-	[![Shelgon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/372.png){: .pokemon-sprite-img }](../pokedex/pokemon/shelgon.md)
 
 	***
 
-	**#372 [Shelgon](../pokemon/shelgon.md)**
+	**#372 [Shelgon](../pokedex/pokemon/shelgon.md)**
 
 </div>**Level Up**:
 
@@ -13879,11 +13879,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Salamence](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/373.png){: .pokemon-sprite-img }](../pokemon/salamence.md)
+-	[![Salamence](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/373.png){: .pokemon-sprite-img }](../pokedex/pokemon/salamence.md)
 
 	***
 
-	**#373 [Salamence](../pokemon/salamence.md)**
+	**#373 [Salamence](../pokedex/pokemon/salamence.md)**
 
 </div>**Moves**:
 
@@ -13919,11 +13919,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Beldum](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/374.png){: .pokemon-sprite-img }](../pokemon/beldum.md)
+-	[![Beldum](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/374.png){: .pokemon-sprite-img }](../pokedex/pokemon/beldum.md)
 
 	***
 
-	**#374 [Beldum](../pokemon/beldum.md)**
+	**#374 [Beldum](../pokedex/pokemon/beldum.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -13944,11 +13944,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Metang](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/375.png){: .pokemon-sprite-img }](../pokemon/metang.md)
+-	[![Metang](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/375.png){: .pokemon-sprite-img }](../pokedex/pokemon/metang.md)
 
 	***
 
-	**#375 [Metang](../pokemon/metang.md)**
+	**#375 [Metang](../pokedex/pokemon/metang.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -13986,11 +13986,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Metagross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/376.png){: .pokemon-sprite-img }](../pokemon/metagross.md)
+-	[![Metagross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/376.png){: .pokemon-sprite-img }](../pokedex/pokemon/metagross.md)
 
 	***
 
-	**#376 [Metagross](../pokemon/metagross.md)**
+	**#376 [Metagross](../pokedex/pokemon/metagross.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -14031,11 +14031,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Regirock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/377.png){: .pokemon-sprite-img }](../pokemon/regirock.md)
+-	[![Regirock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/377.png){: .pokemon-sprite-img }](../pokedex/pokemon/regirock.md)
 
 	***
 
-	**#377 [Regirock](../pokemon/regirock.md)**
+	**#377 [Regirock](../pokedex/pokemon/regirock.md)**
 
 </div>**Level Up**:
 
@@ -14062,11 +14062,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Regice](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/378.png){: .pokemon-sprite-img }](../pokemon/regice.md)
+-	[![Regice](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/378.png){: .pokemon-sprite-img }](../pokedex/pokemon/regice.md)
 
 	***
 
-	**#378 [Regice](../pokemon/regice.md)**
+	**#378 [Regice](../pokedex/pokemon/regice.md)**
 
 </div>**Level Up**:
 
@@ -14093,11 +14093,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Registeel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/379.png){: .pokemon-sprite-img }](../pokemon/registeel.md)
+-	[![Registeel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/379.png){: .pokemon-sprite-img }](../pokedex/pokemon/registeel.md)
 
 	***
 
-	**#379 [Registeel](../pokemon/registeel.md)**
+	**#379 [Registeel](../pokedex/pokemon/registeel.md)**
 
 </div>**Level Up**:
 
@@ -14126,11 +14126,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Latias](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/380.png){: .pokemon-sprite-img }](../pokemon/latias.md)
+-	[![Latias](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/380.png){: .pokemon-sprite-img }](../pokedex/pokemon/latias.md)
 
 	***
 
-	**#380 [Latias](../pokemon/latias.md)**
+	**#380 [Latias](../pokedex/pokemon/latias.md)**
 
 </div>**Level Up**:
 
@@ -14157,11 +14157,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Latios](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/381.png){: .pokemon-sprite-img }](../pokemon/latios.md)
+-	[![Latios](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/381.png){: .pokemon-sprite-img }](../pokedex/pokemon/latios.md)
 
 	***
 
-	**#381 [Latios](../pokemon/latios.md)**
+	**#381 [Latios](../pokedex/pokemon/latios.md)**
 
 </div>**Level Up**:
 
@@ -14188,11 +14188,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Kyogre](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/382.png){: .pokemon-sprite-img }](../pokemon/kyogre.md)
+-	[![Kyogre](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/382.png){: .pokemon-sprite-img }](../pokedex/pokemon/kyogre.md)
 
 	***
 
-	**#382 [Kyogre](../pokemon/kyogre.md)**
+	**#382 [Kyogre](../pokedex/pokemon/kyogre.md)**
 
 </div>**Level Up**:
 
@@ -14217,11 +14217,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Groudon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/383.png){: .pokemon-sprite-img }](../pokemon/groudon.md)
+-	[![Groudon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/383.png){: .pokemon-sprite-img }](../pokedex/pokemon/groudon.md)
 
 	***
 
-	**#383 [Groudon](../pokemon/groudon.md)**
+	**#383 [Groudon](../pokedex/pokemon/groudon.md)**
 
 </div>**Level Up**:
 
@@ -14246,11 +14246,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Rayquaza](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/384.png){: .pokemon-sprite-img }](../pokemon/rayquaza.md)
+-	[![Rayquaza](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/384.png){: .pokemon-sprite-img }](../pokedex/pokemon/rayquaza.md)
 
 	***
 
-	**#384 [Rayquaza](../pokemon/rayquaza.md)**
+	**#384 [Rayquaza](../pokedex/pokemon/rayquaza.md)**
 
 </div>**Level Up**:
 
@@ -14274,11 +14274,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Jirachi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/385.png){: .pokemon-sprite-img }](../pokemon/jirachi.md)
+-	[![Jirachi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/385.png){: .pokemon-sprite-img }](../pokedex/pokemon/jirachi.md)
 
 	***
 
-	**#385 [Jirachi](../pokemon/jirachi.md)**
+	**#385 [Jirachi](../pokedex/pokemon/jirachi.md)**
 
 </div>**Level Up**:
 
@@ -14307,11 +14307,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Deoxys Normal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/386.png){: .pokemon-sprite-img }](../pokemon/deoxys-normal.md)
+-	[![Deoxys Normal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/386.png){: .pokemon-sprite-img }](../pokedex/pokemon/deoxys-normal.md)
 
 	***
 
-	**#386 [Deoxys Normal](../pokemon/deoxys-normal.md)**
+	**#386 [Deoxys Normal](../pokedex/pokemon/deoxys-normal.md)**
 
 </div>**Level Up (Normal Forme)**:
 
@@ -14395,11 +14395,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Turtwig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/387.png){: .pokemon-sprite-img }](../pokemon/turtwig.md)
+-	[![Turtwig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/387.png){: .pokemon-sprite-img }](../pokedex/pokemon/turtwig.md)
 
 	***
 
-	**#387 [Turtwig](../pokemon/turtwig.md)**
+	**#387 [Turtwig](../pokedex/pokemon/turtwig.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -14429,11 +14429,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Grotle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/388.png){: .pokemon-sprite-img }](../pokemon/grotle.md)
+-	[![Grotle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/388.png){: .pokemon-sprite-img }](../pokedex/pokemon/grotle.md)
 
 	***
 
-	**#388 [Grotle](../pokemon/grotle.md)**
+	**#388 [Grotle](../pokedex/pokemon/grotle.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -14464,11 +14464,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Torterra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/389.png){: .pokemon-sprite-img }](../pokemon/torterra.md)
+-	[![Torterra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/389.png){: .pokemon-sprite-img }](../pokedex/pokemon/torterra.md)
 
 	***
 
-	**#389 [Torterra](../pokemon/torterra.md)**
+	**#389 [Torterra](../pokedex/pokemon/torterra.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -14505,11 +14505,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Chimchar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/390.png){: .pokemon-sprite-img }](../pokemon/chimchar.md)
+-	[![Chimchar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/390.png){: .pokemon-sprite-img }](../pokedex/pokemon/chimchar.md)
 
 	***
 
-	**#390 [Chimchar](../pokemon/chimchar.md)**
+	**#390 [Chimchar](../pokedex/pokemon/chimchar.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -14539,11 +14539,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Monferno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/391.png){: .pokemon-sprite-img }](../pokemon/monferno.md)
+-	[![Monferno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/391.png){: .pokemon-sprite-img }](../pokedex/pokemon/monferno.md)
 
 	***
 
-	**#391 [Monferno](../pokemon/monferno.md)**
+	**#391 [Monferno](../pokedex/pokemon/monferno.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -14578,11 +14578,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Infernape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/392.png){: .pokemon-sprite-img }](../pokemon/infernape.md)
+-	[![Infernape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/392.png){: .pokemon-sprite-img }](../pokedex/pokemon/infernape.md)
 
 	***
 
-	**#392 [Infernape](../pokemon/infernape.md)**
+	**#392 [Infernape](../pokedex/pokemon/infernape.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -14622,11 +14622,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Piplup](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/393.png){: .pokemon-sprite-img }](../pokemon/piplup.md)
+-	[![Piplup](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/393.png){: .pokemon-sprite-img }](../pokedex/pokemon/piplup.md)
 
 	***
 
-	**#393 [Piplup](../pokemon/piplup.md)**
+	**#393 [Piplup](../pokedex/pokemon/piplup.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -14656,11 +14656,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Prinplup](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/394.png){: .pokemon-sprite-img }](../pokemon/prinplup.md)
+-	[![Prinplup](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/394.png){: .pokemon-sprite-img }](../pokedex/pokemon/prinplup.md)
 
 	***
 
-	**#394 [Prinplup](../pokemon/prinplup.md)**
+	**#394 [Prinplup](../pokedex/pokemon/prinplup.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -14691,11 +14691,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Empoleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/395.png){: .pokemon-sprite-img }](../pokemon/empoleon.md)
+-	[![Empoleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/395.png){: .pokemon-sprite-img }](../pokedex/pokemon/empoleon.md)
 
 	***
 
-	**#395 [Empoleon](../pokemon/empoleon.md)**
+	**#395 [Empoleon](../pokedex/pokemon/empoleon.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -14732,11 +14732,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Starly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/396.png){: .pokemon-sprite-img }](../pokemon/starly.md)
+-	[![Starly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/396.png){: .pokemon-sprite-img }](../pokedex/pokemon/starly.md)
 
 	***
 
-	**#396 [Starly](../pokemon/starly.md)**
+	**#396 [Starly](../pokedex/pokemon/starly.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -14770,11 +14770,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Staravia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/397.png){: .pokemon-sprite-img }](../pokemon/staravia.md)
+-	[![Staravia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/397.png){: .pokemon-sprite-img }](../pokedex/pokemon/staravia.md)
 
 	***
 
-	**#397 [Staravia](../pokemon/staravia.md)**
+	**#397 [Staravia](../pokedex/pokemon/staravia.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -14808,11 +14808,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Staraptor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/398.png){: .pokemon-sprite-img }](../pokemon/staraptor.md)
+-	[![Staraptor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/398.png){: .pokemon-sprite-img }](../pokedex/pokemon/staraptor.md)
 
 	***
 
-	**#398 [Staraptor](../pokemon/staraptor.md)**
+	**#398 [Staraptor](../pokedex/pokemon/staraptor.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -14849,11 +14849,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Bidoof](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/399.png){: .pokemon-sprite-img }](../pokemon/bidoof.md)
+-	[![Bidoof](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/399.png){: .pokemon-sprite-img }](../pokedex/pokemon/bidoof.md)
 
 	***
 
-	**#399 [Bidoof](../pokemon/bidoof.md)**
+	**#399 [Bidoof](../pokedex/pokemon/bidoof.md)**
 
 </div>**Moves**:
 
@@ -14884,11 +14884,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Bibarel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/400.png){: .pokemon-sprite-img }](../pokemon/bibarel.md)
+-	[![Bibarel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/400.png){: .pokemon-sprite-img }](../pokedex/pokemon/bibarel.md)
 
 	***
 
-	**#400 [Bibarel](../pokemon/bibarel.md)**
+	**#400 [Bibarel](../pokedex/pokemon/bibarel.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -14925,11 +14925,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Kricketot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/401.png){: .pokemon-sprite-img }](../pokemon/kricketot.md)
+-	[![Kricketot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/401.png){: .pokemon-sprite-img }](../pokedex/pokemon/kricketot.md)
 
 	***
 
-	**#401 [Kricketot](../pokemon/kricketot.md)**
+	**#401 [Kricketot](../pokedex/pokemon/kricketot.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -14950,11 +14950,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Kricketune](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/402.png){: .pokemon-sprite-img }](../pokemon/kricketune.md)
+-	[![Kricketune](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/402.png){: .pokemon-sprite-img }](../pokedex/pokemon/kricketune.md)
 
 	***
 
-	**#402 [Kricketune](../pokemon/kricketune.md)**
+	**#402 [Kricketune](../pokedex/pokemon/kricketune.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -14996,11 +14996,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Shinx](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/403.png){: .pokemon-sprite-img }](../pokemon/shinx.md)
+-	[![Shinx](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/403.png){: .pokemon-sprite-img }](../pokedex/pokemon/shinx.md)
 
 	***
 
-	**#403 [Shinx](../pokemon/shinx.md)**
+	**#403 [Shinx](../pokedex/pokemon/shinx.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15033,11 +15033,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Luxio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/404.png){: .pokemon-sprite-img }](../pokemon/luxio.md)
+-	[![Luxio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/404.png){: .pokemon-sprite-img }](../pokedex/pokemon/luxio.md)
 
 	***
 
-	**#404 [Luxio](../pokemon/luxio.md)**
+	**#404 [Luxio](../pokedex/pokemon/luxio.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15070,11 +15070,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Luxray](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/405.png){: .pokemon-sprite-img }](../pokemon/luxray.md)
+-	[![Luxray](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/405.png){: .pokemon-sprite-img }](../pokedex/pokemon/luxray.md)
 
 	***
 
-	**#405 [Luxray](../pokemon/luxray.md)**
+	**#405 [Luxray](../pokedex/pokemon/luxray.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15114,11 +15114,11 @@ Now evolves into Walrein at Level 40.
 
 <div class="grid cards" markdown>
 
--	[![Budew](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/406.png){: .pokemon-sprite-img }](../pokemon/budew.md)
+-	[![Budew](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/406.png){: .pokemon-sprite-img }](../pokedex/pokemon/budew.md)
 
 	***
 
-	**#406 [Budew](../pokemon/budew.md)**
+	**#406 [Budew](../pokedex/pokemon/budew.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15149,11 +15149,11 @@ Now evolves into Roselia when happy regardless of the time.
 
 <div class="grid cards" markdown>
 
--	[![Roserade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/407.png){: .pokemon-sprite-img }](../pokemon/roserade.md)
+-	[![Roserade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/407.png){: .pokemon-sprite-img }](../pokedex/pokemon/roserade.md)
 
 	***
 
-	**#407 [Roserade](../pokemon/roserade.md)**
+	**#407 [Roserade](../pokedex/pokemon/roserade.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15174,11 +15174,11 @@ Now evolves into Roselia when happy regardless of the time.
 
 <div class="grid cards" markdown>
 
--	[![Cranidos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/408.png){: .pokemon-sprite-img }](../pokemon/cranidos.md)
+-	[![Cranidos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/408.png){: .pokemon-sprite-img }](../pokedex/pokemon/cranidos.md)
 
 	***
 
-	**#408 [Cranidos](../pokemon/cranidos.md)**
+	**#408 [Cranidos](../pokedex/pokemon/cranidos.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15210,11 +15210,11 @@ Now evolves into Roselia when happy regardless of the time.
 
 <div class="grid cards" markdown>
 
--	[![Rampardos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/409.png){: .pokemon-sprite-img }](../pokemon/rampardos.md)
+-	[![Rampardos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/409.png){: .pokemon-sprite-img }](../pokedex/pokemon/rampardos.md)
 
 	***
 
-	**#409 [Rampardos](../pokemon/rampardos.md)**
+	**#409 [Rampardos](../pokedex/pokemon/rampardos.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15248,11 +15248,11 @@ Now evolves into Roselia when happy regardless of the time.
 
 <div class="grid cards" markdown>
 
--	[![Shieldon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/410.png){: .pokemon-sprite-img }](../pokemon/shieldon.md)
+-	[![Shieldon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/410.png){: .pokemon-sprite-img }](../pokedex/pokemon/shieldon.md)
 
 	***
 
-	**#410 [Shieldon](../pokemon/shieldon.md)**
+	**#410 [Shieldon](../pokedex/pokemon/shieldon.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15286,11 +15286,11 @@ Now evolves into Roselia when happy regardless of the time.
 
 <div class="grid cards" markdown>
 
--	[![Bastiodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/411.png){: .pokemon-sprite-img }](../pokemon/bastiodon.md)
+-	[![Bastiodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/411.png){: .pokemon-sprite-img }](../pokedex/pokemon/bastiodon.md)
 
 	***
 
-	**#411 [Bastiodon](../pokemon/bastiodon.md)**
+	**#411 [Bastiodon](../pokedex/pokemon/bastiodon.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15326,11 +15326,11 @@ Now evolves into Roselia when happy regardless of the time.
 
 <div class="grid cards" markdown>
 
--	[![Burmy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/412.png){: .pokemon-sprite-img }](../pokemon/burmy.md)
+-	[![Burmy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/412.png){: .pokemon-sprite-img }](../pokedex/pokemon/burmy.md)
 
 	***
 
-	**#412 [Burmy](../pokemon/burmy.md)**
+	**#412 [Burmy](../pokedex/pokemon/burmy.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15353,11 +15353,11 @@ Now evolves into Roselia when happy regardless of the time.
 
 <div class="grid cards" markdown>
 
--	[![Wormadam Plant](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/413.png){: .pokemon-sprite-img }](../pokemon/wormadam-plant.md)
+-	[![Wormadam Plant](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/413.png){: .pokemon-sprite-img }](../pokedex/pokemon/wormadam-plant.md)
 
 	***
 
-	**#413 [Wormadam Plant](../pokemon/wormadam-plant.md)**
+	**#413 [Wormadam Plant](../pokedex/pokemon/wormadam-plant.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15446,11 +15446,11 @@ Now evolves into Roselia when happy regardless of the time.
 
 <div class="grid cards" markdown>
 
--	[![Mothim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/414.png){: .pokemon-sprite-img }](../pokemon/mothim.md)
+-	[![Mothim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/414.png){: .pokemon-sprite-img }](../pokedex/pokemon/mothim.md)
 
 	***
 
-	**#414 [Mothim](../pokemon/mothim.md)**
+	**#414 [Mothim](../pokedex/pokemon/mothim.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15488,11 +15488,11 @@ Now evolves into Roselia when happy regardless of the time.
 
 <div class="grid cards" markdown>
 
--	[![Combee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/415.png){: .pokemon-sprite-img }](../pokemon/combee.md)
+-	[![Combee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/415.png){: .pokemon-sprite-img }](../pokedex/pokemon/combee.md)
 
 	***
 
-	**#415 [Combee](../pokemon/combee.md)**
+	**#415 [Combee](../pokedex/pokemon/combee.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15515,11 +15515,11 @@ Now evolves into Roselia when happy regardless of the time.
 
 <div class="grid cards" markdown>
 
--	[![Vespiquen](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/416.png){: .pokemon-sprite-img }](../pokemon/vespiquen.md)
+-	[![Vespiquen](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/416.png){: .pokemon-sprite-img }](../pokedex/pokemon/vespiquen.md)
 
 	***
 
-	**#416 [Vespiquen](../pokemon/vespiquen.md)**
+	**#416 [Vespiquen](../pokedex/pokemon/vespiquen.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15560,11 +15560,11 @@ Now compatible with HM02, Fly. (!!)
 
 <div class="grid cards" markdown>
 
--	[![Pachirisu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/417.png){: .pokemon-sprite-img }](../pokemon/pachirisu.md)
+-	[![Pachirisu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/417.png){: .pokemon-sprite-img }](../pokedex/pokemon/pachirisu.md)
 
 	***
 
-	**#417 [Pachirisu](../pokemon/pachirisu.md)**
+	**#417 [Pachirisu](../pokedex/pokemon/pachirisu.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15599,11 +15599,11 @@ Now compatible with HM02, Fly. (!!)
 
 <div class="grid cards" markdown>
 
--	[![Buizel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/418.png){: .pokemon-sprite-img }](../pokemon/buizel.md)
+-	[![Buizel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/418.png){: .pokemon-sprite-img }](../pokedex/pokemon/buizel.md)
 
 	***
 
-	**#418 [Buizel](../pokemon/buizel.md)**
+	**#418 [Buizel](../pokedex/pokemon/buizel.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15633,11 +15633,11 @@ Now compatible with HM02, Fly. (!!)
 
 <div class="grid cards" markdown>
 
--	[![Floatzel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/419.png){: .pokemon-sprite-img }](../pokemon/floatzel.md)
+-	[![Floatzel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/419.png){: .pokemon-sprite-img }](../pokedex/pokemon/floatzel.md)
 
 	***
 
-	**#419 [Floatzel](../pokemon/floatzel.md)**
+	**#419 [Floatzel](../pokedex/pokemon/floatzel.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15668,11 +15668,11 @@ Now compatible with HM02, Fly. (!!)
 
 <div class="grid cards" markdown>
 
--	[![Cherubi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/420.png){: .pokemon-sprite-img }](../pokemon/cherubi.md)
+-	[![Cherubi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/420.png){: .pokemon-sprite-img }](../pokedex/pokemon/cherubi.md)
 
 	***
 
-	**#420 [Cherubi](../pokemon/cherubi.md)**
+	**#420 [Cherubi](../pokedex/pokemon/cherubi.md)**
 
 </div>**Level Up**:
 
@@ -15698,11 +15698,11 @@ Now compatible with HM02, Fly. (!!)
 
 <div class="grid cards" markdown>
 
--	[![Cherrim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/421.png){: .pokemon-sprite-img }](../pokemon/cherrim.md)
+-	[![Cherrim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/421.png){: .pokemon-sprite-img }](../pokedex/pokemon/cherrim.md)
 
 	***
 
-	**#421 [Cherrim](../pokemon/cherrim.md)**
+	**#421 [Cherrim](../pokedex/pokemon/cherrim.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15734,11 +15734,11 @@ Now compatible with HM02, Fly. (!!)
 
 <div class="grid cards" markdown>
 
--	[![Shellos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/422.png){: .pokemon-sprite-img }](../pokemon/shellos.md)
+-	[![Shellos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/422.png){: .pokemon-sprite-img }](../pokedex/pokemon/shellos.md)
 
 	***
 
-	**#422 [Shellos](../pokemon/shellos.md)**
+	**#422 [Shellos](../pokedex/pokemon/shellos.md)**
 
 </div>**Level Up**:
 
@@ -15766,11 +15766,11 @@ Now compatible with HM02, Fly. (!!)
 
 <div class="grid cards" markdown>
 
--	[![Gastrodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/423.png){: .pokemon-sprite-img }](../pokemon/gastrodon.md)
+-	[![Gastrodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/423.png){: .pokemon-sprite-img }](../pokedex/pokemon/gastrodon.md)
 
 	***
 
-	**#423 [Gastrodon](../pokemon/gastrodon.md)**
+	**#423 [Gastrodon](../pokedex/pokemon/gastrodon.md)**
 
 </div>**Level Up**:
 
@@ -15799,11 +15799,11 @@ Now compatible with HM02, Fly. (!!)
 
 <div class="grid cards" markdown>
 
--	[![Ambipom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/424.png){: .pokemon-sprite-img }](../pokemon/ambipom.md)
+-	[![Ambipom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/424.png){: .pokemon-sprite-img }](../pokedex/pokemon/ambipom.md)
 
 	***
 
-	**#424 [Ambipom](../pokemon/ambipom.md)**
+	**#424 [Ambipom](../pokedex/pokemon/ambipom.md)**
 
 </div>**Level Up**:
 
@@ -15833,11 +15833,11 @@ Now compatible with HM02, Fly. (!!)
 
 <div class="grid cards" markdown>
 
--	[![Drifloon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/425.png){: .pokemon-sprite-img }](../pokemon/drifloon.md)
+-	[![Drifloon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/425.png){: .pokemon-sprite-img }](../pokedex/pokemon/drifloon.md)
 
 	***
 
-	**#425 [Drifloon](../pokemon/drifloon.md)**
+	**#425 [Drifloon](../pokedex/pokemon/drifloon.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15874,11 +15874,11 @@ Now compatible with HM02, Fly. (!!)
 
 <div class="grid cards" markdown>
 
--	[![Drifblim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/426.png){: .pokemon-sprite-img }](../pokemon/drifblim.md)
+-	[![Drifblim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/426.png){: .pokemon-sprite-img }](../pokedex/pokemon/drifblim.md)
 
 	***
 
-	**#426 [Drifblim](../pokemon/drifblim.md)**
+	**#426 [Drifblim](../pokedex/pokemon/drifblim.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15917,11 +15917,11 @@ Now compatible with HM02, Fly. (!!)
 
 <div class="grid cards" markdown>
 
--	[![Buneary](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/427.png){: .pokemon-sprite-img }](../pokemon/buneary.md)
+-	[![Buneary](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/427.png){: .pokemon-sprite-img }](../pokedex/pokemon/buneary.md)
 
 	***
 
-	**#427 [Buneary](../pokemon/buneary.md)**
+	**#427 [Buneary](../pokedex/pokemon/buneary.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -15954,11 +15954,11 @@ Now compatible with HM02, Fly. (!!)
 
 <div class="grid cards" markdown>
 
--	[![Lopunny](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/428.png){: .pokemon-sprite-img }](../pokemon/lopunny.md)
+-	[![Lopunny](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/428.png){: .pokemon-sprite-img }](../pokedex/pokemon/lopunny.md)
 
 	***
 
-	**#428 [Lopunny](../pokemon/lopunny.md)**
+	**#428 [Lopunny](../pokedex/pokemon/lopunny.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16000,11 +16000,11 @@ Now compatible with HM02, Fly. (!!)
 
 <div class="grid cards" markdown>
 
--	[![Mismagius](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/429.png){: .pokemon-sprite-img }](../pokemon/mismagius.md)
+-	[![Mismagius](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/429.png){: .pokemon-sprite-img }](../pokedex/pokemon/mismagius.md)
 
 	***
 
-	**#429 [Mismagius](../pokemon/mismagius.md)**
+	**#429 [Mismagius](../pokedex/pokemon/mismagius.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16029,11 +16029,11 @@ Now compatible with HM02, Fly. (!!)
 
 <div class="grid cards" markdown>
 
--	[![Honchkrow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/430.png){: .pokemon-sprite-img }](../pokemon/honchkrow.md)
+-	[![Honchkrow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/430.png){: .pokemon-sprite-img }](../pokedex/pokemon/honchkrow.md)
 
 	***
 
-	**#430 [Honchkrow](../pokemon/honchkrow.md)**
+	**#430 [Honchkrow](../pokedex/pokemon/honchkrow.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16062,11 +16062,11 @@ Now compatible with HM02, Fly. (!!)
 
 <div class="grid cards" markdown>
 
--	[![Glameow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/431.png){: .pokemon-sprite-img }](../pokemon/glameow.md)
+-	[![Glameow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/431.png){: .pokemon-sprite-img }](../pokedex/pokemon/glameow.md)
 
 	***
 
-	**#431 [Glameow](../pokemon/glameow.md)**
+	**#431 [Glameow](../pokedex/pokemon/glameow.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16104,11 +16104,11 @@ Now evolves into Purugly at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Purugly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/432.png){: .pokemon-sprite-img }](../pokemon/purugly.md)
+-	[![Purugly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/432.png){: .pokemon-sprite-img }](../pokedex/pokemon/purugly.md)
 
 	***
 
-	**#432 [Purugly](../pokemon/purugly.md)**
+	**#432 [Purugly](../pokedex/pokemon/purugly.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16143,11 +16143,11 @@ Now evolves into Purugly at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Chingling](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/433.png){: .pokemon-sprite-img }](../pokemon/chingling.md)
+-	[![Chingling](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/433.png){: .pokemon-sprite-img }](../pokedex/pokemon/chingling.md)
 
 	***
 
-	**#433 [Chingling](../pokemon/chingling.md)**
+	**#433 [Chingling](../pokedex/pokemon/chingling.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16179,11 +16179,11 @@ Now evolves into Chimecho when happy regardless of the time.
 
 <div class="grid cards" markdown>
 
--	[![Stunky](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/434.png){: .pokemon-sprite-img }](../pokemon/stunky.md)
+-	[![Stunky](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/434.png){: .pokemon-sprite-img }](../pokedex/pokemon/stunky.md)
 
 	***
 
-	**#434 [Stunky](../pokemon/stunky.md)**
+	**#434 [Stunky](../pokedex/pokemon/stunky.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16224,11 +16224,11 @@ Now evolves into Skuntank at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Skuntank](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/435.png){: .pokemon-sprite-img }](../pokemon/skuntank.md)
+-	[![Skuntank](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/435.png){: .pokemon-sprite-img }](../pokedex/pokemon/skuntank.md)
 
 	***
 
-	**#435 [Skuntank](../pokemon/skuntank.md)**
+	**#435 [Skuntank](../pokedex/pokemon/skuntank.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16266,11 +16266,11 @@ Now evolves into Skuntank at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Bronzor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/436.png){: .pokemon-sprite-img }](../pokemon/bronzor.md)
+-	[![Bronzor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/436.png){: .pokemon-sprite-img }](../pokedex/pokemon/bronzor.md)
 
 	***
 
-	**#436 [Bronzor](../pokemon/bronzor.md)**
+	**#436 [Bronzor](../pokedex/pokemon/bronzor.md)**
 
 </div>**Level Up**:
 
@@ -16298,11 +16298,11 @@ Now evolves into Skuntank at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Bronzong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/437.png){: .pokemon-sprite-img }](../pokemon/bronzong.md)
+-	[![Bronzong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/437.png){: .pokemon-sprite-img }](../pokedex/pokemon/bronzong.md)
 
 	***
 
-	**#437 [Bronzong](../pokemon/bronzong.md)**
+	**#437 [Bronzong](../pokedex/pokemon/bronzong.md)**
 
 </div>**Moves**:
 
@@ -16337,11 +16337,11 @@ Now evolves into Skuntank at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Bonsly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/438.png){: .pokemon-sprite-img }](../pokemon/bonsly.md)
+-	[![Bonsly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/438.png){: .pokemon-sprite-img }](../pokedex/pokemon/bonsly.md)
 
 	***
 
-	**#438 [Bonsly](../pokemon/bonsly.md)**
+	**#438 [Bonsly](../pokedex/pokemon/bonsly.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16374,11 +16374,11 @@ Now evolves into Skuntank at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Mime Jr.](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/439.png){: .pokemon-sprite-img }](../pokemon/mime-jr.md)
+-	[![Mime Jr.](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/439.png){: .pokemon-sprite-img }](../pokedex/pokemon/mime-jr.md)
 
 	***
 
-	**#439 [Mime Jr.](../pokemon/mime-jr.md)**
+	**#439 [Mime Jr.](../pokedex/pokemon/mime-jr.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16415,11 +16415,11 @@ Now evolves into Skuntank at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Happiny](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/440.png){: .pokemon-sprite-img }](../pokemon/happiny.md)
+-	[![Happiny](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/440.png){: .pokemon-sprite-img }](../pokedex/pokemon/happiny.md)
 
 	***
 
-	**#440 [Happiny](../pokemon/happiny.md)**
+	**#440 [Happiny](../pokedex/pokemon/happiny.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16444,11 +16444,11 @@ Now evolves into Skuntank at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Chatot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/441.png){: .pokemon-sprite-img }](../pokemon/chatot.md)
+-	[![Chatot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/441.png){: .pokemon-sprite-img }](../pokedex/pokemon/chatot.md)
 
 	***
 
-	**#441 [Chatot](../pokemon/chatot.md)**
+	**#441 [Chatot](../pokedex/pokemon/chatot.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16488,11 +16488,11 @@ Now evolves into Skuntank at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Spiritomb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/442.png){: .pokemon-sprite-img }](../pokemon/spiritomb.md)
+-	[![Spiritomb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/442.png){: .pokemon-sprite-img }](../pokedex/pokemon/spiritomb.md)
 
 	***
 
-	**#442 [Spiritomb](../pokemon/spiritomb.md)**
+	**#442 [Spiritomb](../pokedex/pokemon/spiritomb.md)**
 
 </div>**Level Up**:
 
@@ -16521,11 +16521,11 @@ Now evolves into Skuntank at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Gible](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/443.png){: .pokemon-sprite-img }](../pokemon/gible.md)
+-	[![Gible](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/443.png){: .pokemon-sprite-img }](../pokedex/pokemon/gible.md)
 
 	***
 
-	**#443 [Gible](../pokemon/gible.md)**
+	**#443 [Gible](../pokedex/pokemon/gible.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16558,11 +16558,11 @@ Now evolves into Skuntank at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Gabite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/444.png){: .pokemon-sprite-img }](../pokemon/gabite.md)
+-	[![Gabite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/444.png){: .pokemon-sprite-img }](../pokedex/pokemon/gabite.md)
 
 	***
 
-	**#444 [Gabite](../pokemon/gabite.md)**
+	**#444 [Gabite](../pokedex/pokemon/gabite.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16594,11 +16594,11 @@ Now evolves into Skuntank at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Garchomp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/445.png){: .pokemon-sprite-img }](../pokemon/garchomp.md)
+-	[![Garchomp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/445.png){: .pokemon-sprite-img }](../pokedex/pokemon/garchomp.md)
 
 	***
 
-	**#445 [Garchomp](../pokemon/garchomp.md)**
+	**#445 [Garchomp](../pokedex/pokemon/garchomp.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16637,11 +16637,11 @@ Now evolves into Skuntank at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Munchlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/446.png){: .pokemon-sprite-img }](../pokemon/munchlax.md)
+-	[![Munchlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/446.png){: .pokemon-sprite-img }](../pokedex/pokemon/munchlax.md)
 
 	***
 
-	**#446 [Munchlax](../pokemon/munchlax.md)**
+	**#446 [Munchlax](../pokedex/pokemon/munchlax.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16675,11 +16675,11 @@ Now evolves into Skuntank at Level 32.
 
 <div class="grid cards" markdown>
 
--	[![Riolu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/447.png){: .pokemon-sprite-img }](../pokemon/riolu.md)
+-	[![Riolu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/447.png){: .pokemon-sprite-img }](../pokedex/pokemon/riolu.md)
 
 	***
 
-	**#447 [Riolu](../pokemon/riolu.md)**
+	**#447 [Riolu](../pokedex/pokemon/riolu.md)**
 
 </div>**Evolution**:
 
@@ -16708,11 +16708,11 @@ Now evolves into Lucario when happy regardless of the time.
 
 <div class="grid cards" markdown>
 
--	[![Lucario](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/448.png){: .pokemon-sprite-img }](../pokemon/lucario.md)
+-	[![Lucario](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/448.png){: .pokemon-sprite-img }](../pokedex/pokemon/lucario.md)
 
 	***
 
-	**#448 [Lucario](../pokemon/lucario.md)**
+	**#448 [Lucario](../pokedex/pokemon/lucario.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16748,11 +16748,11 @@ Now evolves into Lucario when happy regardless of the time.
 
 <div class="grid cards" markdown>
 
--	[![Hippopotas](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/449.png){: .pokemon-sprite-img }](../pokemon/hippopotas.md)
+-	[![Hippopotas](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/449.png){: .pokemon-sprite-img }](../pokedex/pokemon/hippopotas.md)
 
 	***
 
-	**#449 [Hippopotas](../pokemon/hippopotas.md)**
+	**#449 [Hippopotas](../pokedex/pokemon/hippopotas.md)**
 
 </div>**Level Up**:
 
@@ -16779,11 +16779,11 @@ Now evolves into Lucario when happy regardless of the time.
 
 <div class="grid cards" markdown>
 
--	[![Hippowdon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/450.png){: .pokemon-sprite-img }](../pokemon/hippowdon.md)
+-	[![Hippowdon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/450.png){: .pokemon-sprite-img }](../pokedex/pokemon/hippowdon.md)
 
 	***
 
-	**#450 [Hippowdon](../pokemon/hippowdon.md)**
+	**#450 [Hippowdon](../pokedex/pokemon/hippowdon.md)**
 
 </div>**Level Up**:
 
@@ -16813,11 +16813,11 @@ Now evolves into Lucario when happy regardless of the time.
 
 <div class="grid cards" markdown>
 
--	[![Skorupi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/451.png){: .pokemon-sprite-img }](../pokemon/skorupi.md)
+-	[![Skorupi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/451.png){: .pokemon-sprite-img }](../pokedex/pokemon/skorupi.md)
 
 	***
 
-	**#451 [Skorupi](../pokemon/skorupi.md)**
+	**#451 [Skorupi](../pokedex/pokemon/skorupi.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16857,11 +16857,11 @@ Now evolves into Drapion at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){: .pokemon-sprite-img }](../pokemon/drapion.md)
+-	[![Drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){: .pokemon-sprite-img }](../pokedex/pokemon/drapion.md)
 
 	***
 
-	**#452 [Drapion](../pokemon/drapion.md)**
+	**#452 [Drapion](../pokedex/pokemon/drapion.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16900,11 +16900,11 @@ Now evolves into Drapion at Level 30.
 
 <div class="grid cards" markdown>
 
--	[![Croagunk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/453.png){: .pokemon-sprite-img }](../pokemon/croagunk.md)
+-	[![Croagunk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/453.png){: .pokemon-sprite-img }](../pokedex/pokemon/croagunk.md)
 
 	***
 
-	**#453 [Croagunk](../pokemon/croagunk.md)**
+	**#453 [Croagunk](../pokedex/pokemon/croagunk.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16946,11 +16946,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Toxicroak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/454.png){: .pokemon-sprite-img }](../pokemon/toxicroak.md)
+-	[![Toxicroak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/454.png){: .pokemon-sprite-img }](../pokedex/pokemon/toxicroak.md)
 
 	***
 
-	**#454 [Toxicroak](../pokemon/toxicroak.md)**
+	**#454 [Toxicroak](../pokedex/pokemon/toxicroak.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -16989,11 +16989,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Carnivine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/455.png){: .pokemon-sprite-img }](../pokemon/carnivine.md)
+-	[![Carnivine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/455.png){: .pokemon-sprite-img }](../pokedex/pokemon/carnivine.md)
 
 	***
 
-	**#455 [Carnivine](../pokemon/carnivine.md)**
+	**#455 [Carnivine](../pokedex/pokemon/carnivine.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -17032,11 +17032,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Finneon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/456.png){: .pokemon-sprite-img }](../pokemon/finneon.md)
+-	[![Finneon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/456.png){: .pokemon-sprite-img }](../pokedex/pokemon/finneon.md)
 
 	***
 
-	**#456 [Finneon](../pokemon/finneon.md)**
+	**#456 [Finneon](../pokedex/pokemon/finneon.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -17072,11 +17072,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Lumineon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/457.png){: .pokemon-sprite-img }](../pokemon/lumineon.md)
+-	[![Lumineon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/457.png){: .pokemon-sprite-img }](../pokedex/pokemon/lumineon.md)
 
 	***
 
-	**#457 [Lumineon](../pokemon/lumineon.md)**
+	**#457 [Lumineon](../pokedex/pokemon/lumineon.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -17115,11 +17115,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Mantyke](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/458.png){: .pokemon-sprite-img }](../pokemon/mantyke.md)
+-	[![Mantyke](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/458.png){: .pokemon-sprite-img }](../pokedex/pokemon/mantyke.md)
 
 	***
 
-	**#458 [Mantyke](../pokemon/mantyke.md)**
+	**#458 [Mantyke](../pokedex/pokemon/mantyke.md)**
 
 </div>**Level Up**:
 
@@ -17148,11 +17148,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Snover](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/459.png){: .pokemon-sprite-img }](../pokemon/snover.md)
+-	[![Snover](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/459.png){: .pokemon-sprite-img }](../pokedex/pokemon/snover.md)
 
 	***
 
-	**#459 [Snover](../pokemon/snover.md)**
+	**#459 [Snover](../pokedex/pokemon/snover.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -17184,11 +17184,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Abomasnow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/460.png){: .pokemon-sprite-img }](../pokemon/abomasnow.md)
+-	[![Abomasnow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/460.png){: .pokemon-sprite-img }](../pokedex/pokemon/abomasnow.md)
 
 	***
 
-	**#460 [Abomasnow](../pokemon/abomasnow.md)**
+	**#460 [Abomasnow](../pokedex/pokemon/abomasnow.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -17221,11 +17221,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Weavile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/461.png){: .pokemon-sprite-img }](../pokemon/weavile.md)
+-	[![Weavile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/461.png){: .pokemon-sprite-img }](../pokedex/pokemon/weavile.md)
 
 	***
 
-	**#461 [Weavile](../pokemon/weavile.md)**
+	**#461 [Weavile](../pokedex/pokemon/weavile.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -17261,11 +17261,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Magnezone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/462.png){: .pokemon-sprite-img }](../pokemon/magnezone.md)
+-	[![Magnezone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/462.png){: .pokemon-sprite-img }](../pokedex/pokemon/magnezone.md)
 
 	***
 
-	**#462 [Magnezone](../pokemon/magnezone.md)**
+	**#462 [Magnezone](../pokedex/pokemon/magnezone.md)**
 
 </div>**Moves**:
 
@@ -17301,11 +17301,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Lickilicky](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/463.png){: .pokemon-sprite-img }](../pokemon/lickilicky.md)
+-	[![Lickilicky](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/463.png){: .pokemon-sprite-img }](../pokedex/pokemon/lickilicky.md)
 
 	***
 
-	**#463 [Lickilicky](../pokemon/lickilicky.md)**
+	**#463 [Lickilicky](../pokedex/pokemon/lickilicky.md)**
 
 </div>**Level Up**:
 
@@ -17337,11 +17337,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Rhyperior](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/464.png){: .pokemon-sprite-img }](../pokemon/rhyperior.md)
+-	[![Rhyperior](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/464.png){: .pokemon-sprite-img }](../pokedex/pokemon/rhyperior.md)
 
 	***
 
-	**#464 [Rhyperior](../pokemon/rhyperior.md)**
+	**#464 [Rhyperior](../pokedex/pokemon/rhyperior.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -17377,11 +17377,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Tangrowth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/465.png){: .pokemon-sprite-img }](../pokemon/tangrowth.md)
+-	[![Tangrowth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/465.png){: .pokemon-sprite-img }](../pokedex/pokemon/tangrowth.md)
 
 	***
 
-	**#465 [Tangrowth](../pokemon/tangrowth.md)**
+	**#465 [Tangrowth](../pokedex/pokemon/tangrowth.md)**
 
 </div>**Level Up**:
 
@@ -17412,11 +17412,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Electivire](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/466.png){: .pokemon-sprite-img }](../pokemon/electivire.md)
+-	[![Electivire](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/466.png){: .pokemon-sprite-img }](../pokedex/pokemon/electivire.md)
 
 	***
 
-	**#466 [Electivire](../pokemon/electivire.md)**
+	**#466 [Electivire](../pokedex/pokemon/electivire.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -17458,11 +17458,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Magmortar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/467.png){: .pokemon-sprite-img }](../pokemon/magmortar.md)
+-	[![Magmortar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/467.png){: .pokemon-sprite-img }](../pokedex/pokemon/magmortar.md)
 
 	***
 
-	**#467 [Magmortar](../pokemon/magmortar.md)**
+	**#467 [Magmortar](../pokedex/pokemon/magmortar.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -17497,11 +17497,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Togekiss](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/468.png){: .pokemon-sprite-img }](../pokemon/togekiss.md)
+-	[![Togekiss](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/468.png){: .pokemon-sprite-img }](../pokedex/pokemon/togekiss.md)
 
 	***
 
-	**#468 [Togekiss](../pokemon/togekiss.md)**
+	**#468 [Togekiss](../pokedex/pokemon/togekiss.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -17526,11 +17526,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Yanmega](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/469.png){: .pokemon-sprite-img }](../pokemon/yanmega.md)
+-	[![Yanmega](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/469.png){: .pokemon-sprite-img }](../pokedex/pokemon/yanmega.md)
 
 	***
 
-	**#469 [Yanmega](../pokemon/yanmega.md)**
+	**#469 [Yanmega](../pokedex/pokemon/yanmega.md)**
 
 </div>**Moves**:
 
@@ -17568,11 +17568,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Leafeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/470.png){: .pokemon-sprite-img }](../pokemon/leafeon.md)
+-	[![Leafeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/470.png){: .pokemon-sprite-img }](../pokedex/pokemon/leafeon.md)
 
 	***
 
-	**#470 [Leafeon](../pokemon/leafeon.md)**
+	**#470 [Leafeon](../pokedex/pokemon/leafeon.md)**
 
 </div>**Moves**:
 
@@ -17607,11 +17607,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Glaceon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/471.png){: .pokemon-sprite-img }](../pokemon/glaceon.md)
+-	[![Glaceon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/471.png){: .pokemon-sprite-img }](../pokedex/pokemon/glaceon.md)
 
 	***
 
-	**#471 [Glaceon](../pokemon/glaceon.md)**
+	**#471 [Glaceon](../pokedex/pokemon/glaceon.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -17651,11 +17651,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Gliscor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/472.png){: .pokemon-sprite-img }](../pokemon/gliscor.md)
+-	[![Gliscor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/472.png){: .pokemon-sprite-img }](../pokedex/pokemon/gliscor.md)
 
 	***
 
-	**#472 [Gliscor](../pokemon/gliscor.md)**
+	**#472 [Gliscor](../pokedex/pokemon/gliscor.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -17697,11 +17697,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Mamoswine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/473.png){: .pokemon-sprite-img }](../pokemon/mamoswine.md)
+-	[![Mamoswine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/473.png){: .pokemon-sprite-img }](../pokedex/pokemon/mamoswine.md)
 
 	***
 
-	**#473 [Mamoswine](../pokemon/mamoswine.md)**
+	**#473 [Mamoswine](../pokedex/pokemon/mamoswine.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -17737,11 +17737,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Porygon Z](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/474.png){: .pokemon-sprite-img }](../pokemon/porygon-z.md)
+-	[![Porygon Z](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/474.png){: .pokemon-sprite-img }](../pokedex/pokemon/porygon-z.md)
 
 	***
 
-	**#474 [Porygon Z](../pokemon/porygon-z.md)**
+	**#474 [Porygon Z](../pokedex/pokemon/porygon-z.md)**
 
 </div>**Level Up**:
 
@@ -17773,11 +17773,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Gallade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/475.png){: .pokemon-sprite-img }](../pokemon/gallade.md)
+-	[![Gallade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/475.png){: .pokemon-sprite-img }](../pokedex/pokemon/gallade.md)
 
 	***
 
-	**#475 [Gallade](../pokemon/gallade.md)**
+	**#475 [Gallade](../pokedex/pokemon/gallade.md)**
 
 </div>**Level Up**:
 
@@ -17806,11 +17806,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Probopass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/476.png){: .pokemon-sprite-img }](../pokemon/probopass.md)
+-	[![Probopass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/476.png){: .pokemon-sprite-img }](../pokedex/pokemon/probopass.md)
 
 	***
 
-	**#476 [Probopass](../pokemon/probopass.md)**
+	**#476 [Probopass](../pokedex/pokemon/probopass.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -17846,11 +17846,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Dusknoir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/477.png){: .pokemon-sprite-img }](../pokemon/dusknoir.md)
+-	[![Dusknoir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/477.png){: .pokemon-sprite-img }](../pokedex/pokemon/dusknoir.md)
 
 	***
 
-	**#477 [Dusknoir](../pokemon/dusknoir.md)**
+	**#477 [Dusknoir](../pokedex/pokemon/dusknoir.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -17892,11 +17892,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Froslass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/478.png){: .pokemon-sprite-img }](../pokemon/froslass.md)
+-	[![Froslass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/478.png){: .pokemon-sprite-img }](../pokedex/pokemon/froslass.md)
 
 	***
 
-	**#478 [Froslass](../pokemon/froslass.md)**
+	**#478 [Froslass](../pokedex/pokemon/froslass.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -17933,11 +17933,11 @@ Now evolves into Toxicroak at Level 33.
 
 <div class="grid cards" markdown>
 
--	[![Rotom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/479.png){: .pokemon-sprite-img }](../pokemon/rotom.md)
+-	[![Rotom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/479.png){: .pokemon-sprite-img }](../pokedex/pokemon/rotom.md)
 
 	***
 
-	**#479 [Rotom](../pokemon/rotom.md)**
+	**#479 [Rotom](../pokedex/pokemon/rotom.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -17978,11 +17978,11 @@ All of Rotom's formes match their types as of Gen V.
 
 <div class="grid cards" markdown>
 
--	[![Uxie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/480.png){: .pokemon-sprite-img }](../pokemon/uxie.md)
+-	[![Uxie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/480.png){: .pokemon-sprite-img }](../pokedex/pokemon/uxie.md)
 
 	***
 
-	**#480 [Uxie](../pokemon/uxie.md)**
+	**#480 [Uxie](../pokedex/pokemon/uxie.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -18012,11 +18012,11 @@ All of Rotom's formes match their types as of Gen V.
 
 <div class="grid cards" markdown>
 
--	[![Mesprit](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/481.png){: .pokemon-sprite-img }](../pokemon/mesprit.md)
+-	[![Mesprit](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/481.png){: .pokemon-sprite-img }](../pokedex/pokemon/mesprit.md)
 
 	***
 
-	**#481 [Mesprit](../pokemon/mesprit.md)**
+	**#481 [Mesprit](../pokedex/pokemon/mesprit.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -18046,11 +18046,11 @@ All of Rotom's formes match their types as of Gen V.
 
 <div class="grid cards" markdown>
 
--	[![Azelf](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/482.png){: .pokemon-sprite-img }](../pokemon/azelf.md)
+-	[![Azelf](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/482.png){: .pokemon-sprite-img }](../pokedex/pokemon/azelf.md)
 
 	***
 
-	**#482 [Azelf](../pokemon/azelf.md)**
+	**#482 [Azelf](../pokedex/pokemon/azelf.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -18080,11 +18080,11 @@ All of Rotom's formes match their types as of Gen V.
 
 <div class="grid cards" markdown>
 
--	[![Dialga](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/483.png){: .pokemon-sprite-img }](../pokemon/dialga.md)
+-	[![Dialga](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/483.png){: .pokemon-sprite-img }](../pokedex/pokemon/dialga.md)
 
 	***
 
-	**#483 [Dialga](../pokemon/dialga.md)**
+	**#483 [Dialga](../pokedex/pokemon/dialga.md)**
 
 </div>**Level Up**:
 
@@ -18109,11 +18109,11 @@ All of Rotom's formes match their types as of Gen V.
 
 <div class="grid cards" markdown>
 
--	[![Palkia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/484.png){: .pokemon-sprite-img }](../pokemon/palkia.md)
+-	[![Palkia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/484.png){: .pokemon-sprite-img }](../pokedex/pokemon/palkia.md)
 
 	***
 
-	**#484 [Palkia](../pokemon/palkia.md)**
+	**#484 [Palkia](../pokedex/pokemon/palkia.md)**
 
 </div>**Level Up**:
 
@@ -18138,11 +18138,11 @@ All of Rotom's formes match their types as of Gen V.
 
 <div class="grid cards" markdown>
 
--	[![Heatran](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/485.png){: .pokemon-sprite-img }](../pokemon/heatran.md)
+-	[![Heatran](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/485.png){: .pokemon-sprite-img }](../pokedex/pokemon/heatran.md)
 
 	***
 
-	**#485 [Heatran](../pokemon/heatran.md)**
+	**#485 [Heatran](../pokedex/pokemon/heatran.md)**
 
 </div>| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -18171,11 +18171,11 @@ All of Rotom's formes match their types as of Gen V.
 
 <div class="grid cards" markdown>
 
--	[![Regigigas](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/486.png){: .pokemon-sprite-img }](../pokemon/regigigas.md)
+-	[![Regigigas](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/486.png){: .pokemon-sprite-img }](../pokedex/pokemon/regigigas.md)
 
 	***
 
-	**#486 [Regigigas](../pokemon/regigigas.md)**
+	**#486 [Regigigas](../pokedex/pokemon/regigigas.md)**
 
 </div>**Level Up**:
 
@@ -18202,11 +18202,11 @@ All of Rotom's formes match their types as of Gen V.
 
 <div class="grid cards" markdown>
 
--	[![Giratina Altered](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/487.png){: .pokemon-sprite-img }](../pokemon/giratina-altered.md)
+-	[![Giratina Altered](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/487.png){: .pokemon-sprite-img }](../pokedex/pokemon/giratina-altered.md)
 
 	***
 
-	**#487 [Giratina Altered](../pokemon/giratina-altered.md)**
+	**#487 [Giratina Altered](../pokedex/pokemon/giratina-altered.md)**
 
 </div>**Level Up**:
 
@@ -18231,11 +18231,11 @@ All of Rotom's formes match their types as of Gen V.
 
 <div class="grid cards" markdown>
 
--	[![Cresselia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/488.png){: .pokemon-sprite-img }](../pokemon/cresselia.md)
+-	[![Cresselia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/488.png){: .pokemon-sprite-img }](../pokedex/pokemon/cresselia.md)
 
 	***
 
-	**#488 [Cresselia](../pokemon/cresselia.md)**
+	**#488 [Cresselia](../pokedex/pokemon/cresselia.md)**
 
 </div>**Level Up**:
 
@@ -18261,11 +18261,11 @@ All of Rotom's formes match their types as of Gen V.
 
 <div class="grid cards" markdown>
 
--	[![Phione](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/489.png){: .pokemon-sprite-img }](../pokemon/phione.md)
+-	[![Phione](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/489.png){: .pokemon-sprite-img }](../pokedex/pokemon/phione.md)
 
 	***
 
-	**#489 [Phione](../pokemon/phione.md)**
+	**#489 [Phione](../pokedex/pokemon/phione.md)**
 
 </div>**Level Up**:
 
@@ -18290,11 +18290,11 @@ All of Rotom's formes match their types as of Gen V.
 
 <div class="grid cards" markdown>
 
--	[![Manaphy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/490.png){: .pokemon-sprite-img }](../pokemon/manaphy.md)
+-	[![Manaphy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/490.png){: .pokemon-sprite-img }](../pokedex/pokemon/manaphy.md)
 
 	***
 
-	**#490 [Manaphy](../pokemon/manaphy.md)**
+	**#490 [Manaphy](../pokedex/pokemon/manaphy.md)**
 
 </div>**Level Up**:
 
@@ -18321,11 +18321,11 @@ All of Rotom's formes match their types as of Gen V.
 
 <div class="grid cards" markdown>
 
--	[![Darkrai](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/491.png){: .pokemon-sprite-img }](../pokemon/darkrai.md)
+-	[![Darkrai](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/491.png){: .pokemon-sprite-img }](../pokedex/pokemon/darkrai.md)
 
 	***
 
-	**#491 [Darkrai](../pokemon/darkrai.md)**
+	**#491 [Darkrai](../pokedex/pokemon/darkrai.md)**
 
 </div>**Level Up**:
 
@@ -18353,11 +18353,11 @@ All of Rotom's formes match their types as of Gen V.
 
 <div class="grid cards" markdown>
 
--	[![Shaymin Land](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/492.png){: .pokemon-sprite-img }](../pokemon/shaymin-land.md)
+-	[![Shaymin Land](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/492.png){: .pokemon-sprite-img }](../pokedex/pokemon/shaymin-land.md)
 
 	***
 
-	**#492 [Shaymin Land](../pokemon/shaymin-land.md)**
+	**#492 [Shaymin Land](../pokedex/pokemon/shaymin-land.md)**
 
 </div>**Level Up (Land Forme)**:
 
@@ -18401,11 +18401,11 @@ All of Rotom's formes match their types as of Gen V.
 
 <div class="grid cards" markdown>
 
--	[![Arceus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/493.png){: .pokemon-sprite-img }](../pokemon/arceus.md)
+-	[![Arceus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/493.png){: .pokemon-sprite-img }](../pokedex/pokemon/arceus.md)
 
 	***
 
-	**#493 [Arceus](../pokemon/arceus.md)**
+	**#493 [Arceus](../pokedex/pokemon/arceus.md)**
 
 </div>**Moves**:
 

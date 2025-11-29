@@ -1,0 +1,37 @@
+# Old Chateau
+
+## Wild Encounters
+
+Morning
+
+| Pokémon | Type(s) | Level(s) | Chance |
+|:-------:|:-------:|:---------|:-------|
+| ![gastly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/92.png){ .sprite }<br>[Gastly](../../pokedex/pokemon/gastly.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | 15 - 18 | 40% |
+| ![rattata](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/19.png){ .sprite }<br>[Rattata](../../pokedex/pokemon/rattata.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> | 15 - 18 | 30% |
+| ![duskull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/355.png){ .sprite }<br>[Duskull](../../pokedex/pokemon/duskull.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span></div> | 15 - 18 | 10% |
+| ![shuppet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/353.png){ .sprite }<br>[Shuppet](../../pokedex/pokemon/shuppet.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span></div> | 15 - 18 | 10% |
+| ![raticate](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/20.png){ .sprite }<br>[Raticate](../../pokedex/pokemon/raticate.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> | 15 - 18 | 5% |
+| ![haunter](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/93.png){ .sprite }<br>[Haunter](../../pokedex/pokemon/haunter.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | 15 - 18 | 5% |
+
+Day
+
+| Pokémon | Type(s) | Level(s) | Chance |
+|:-------:|:-------:|:---------|:-------|
+| ![gastly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/92.png){ .sprite }<br>[Gastly](../../pokedex/pokemon/gastly.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | 15 - 18 | 40% |
+| ![rattata](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/19.png){ .sprite }<br>[Rattata](../../pokedex/pokemon/rattata.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> | 15 - 18 | 30% |
+| ![duskull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/355.png){ .sprite }<br>[Duskull](../../pokedex/pokemon/duskull.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span></div> | 15 - 18 | 10% |
+| ![shuppet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/353.png){ .sprite }<br>[Shuppet](../../pokedex/pokemon/shuppet.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span></div> | 15 - 18 | 10% |
+| ![raticate](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/20.png){ .sprite }<br>[Raticate](../../pokedex/pokemon/raticate.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> | 15 - 18 | 5% |
+| ![haunter](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/93.png){ .sprite }<br>[Haunter](../../pokedex/pokemon/haunter.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | 15 - 18 | 5% |
+
+Night
+
+| Pokémon | Type(s) | Level(s) | Chance |
+|:-------:|:-------:|:---------|:-------|
+| ![gastly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/92.png){ .sprite }<br>[Gastly](../../pokedex/pokemon/gastly.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | 15 - 18 | 40% |
+| ![rattata](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/19.png){ .sprite }<br>[Rattata](../../pokedex/pokemon/rattata.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> | 15 - 18 | 30% |
+| ![duskull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/355.png){ .sprite }<br>[Duskull](../../pokedex/pokemon/duskull.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span></div> | 15 - 18 | 10% |
+| ![shuppet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/353.png){ .sprite }<br>[Shuppet](../../pokedex/pokemon/shuppet.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span></div> | 15 - 18 | 10% |
+| ![raticate](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/20.png){ .sprite }<br>[Raticate](../../pokedex/pokemon/raticate.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> | 15 - 18 | 5% |
+| ![haunter](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/93.png){ .sprite }<br>[Haunter](../../pokedex/pokemon/haunter.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | 15 - 18 | 5% |
+

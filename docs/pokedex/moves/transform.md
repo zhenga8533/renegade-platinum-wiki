@@ -1,0 +1,84 @@
+# Transform
+
+## :material-chart-box: Stats
+
+<div class="grid cards" markdown>
+
+- **:material-tag: Type**
+
+	---
+
+	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+
+- **:material-shape: Category**
+
+	---
+
+	Status
+
+- **:material-fire: Power**
+
+	---
+
+	—
+
+- **:material-target: Accuracy**
+
+	---
+
+	—
+
+- **:material-counter: PP**
+
+	---
+
+	—
+
+- **:material-priority-high: Priority**
+
+	---
+
+	0
+
+</div>
+
+## :material-information: Effect
+
+!!! info "Description"
+
+    User copies the target’s species, weight, type, ability, calculated stats (except HP), and moves. Copied moves will all have 5 PP remaining. IVs are copied for the purposes of hidden power, but stats are not recalculated. choice band, choice scarf, and choice specs stay in effect, and the user must select a new move. This move cannot be copied by mirror move, nor forced by encore.
+
+!!! tip "Quick Summary"
+
+    User becomes a copy of the target until it leaves battle.
+
+## :material-book-open: In-Game Description
+
+!!! quote "Platinum"
+
+    The user transforms into a copy of the foe right down to having the same move set.
+
+## :material-pokeball: Learning Pokémon
+
+### :material-arrow-up-bold: Level-Up
+
+<div class="grid cards" markdown>
+
+-	[![Ditto](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/132.png){: .pokemon-sprite-img }](../pokemon/ditto.md)
+
+	***
+
+	**#132 [Ditto](../pokemon/ditto.md)**
+
+	Level 1
+
+-	[![Mew](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/151.png){: .pokemon-sprite-img }](../pokemon/mew.md)
+
+	***
+
+	**#151 [Mew](../pokemon/mew.md)**
+
+	Level 1
+
+</div>
+

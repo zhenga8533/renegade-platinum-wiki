@@ -68,7 +68,7 @@ In cases where a Pokémon being in the wild would not be thematically appropriat
 
 !!! tip "Finding Pokémon Locations"
 
-    - Check the [Wild Pokémon](encounters/wild_pokemon.md) and [Special Events](events/special_events.md) documentation
+    - Check the [Wild Pokémon](reference/wild_pokemon.md) and [Special Events](reference/special_events.md) documentation
     - Look in the **Pokédex** for correct wild locations (thanks to Mikelan98!)
 
 ---
@@ -85,7 +85,7 @@ Additionally, **all Trainers use the AI** that is normally only used by boss Tra
 
 !!! info "Trainer Details"
 
-    View what each Trainer has in the [Trainer Pokémon](trainers/trainer_pokemon.md) document. Note: The Battle Frontier has not been changed.
+    View what each Trainer has in the [Trainer Pokémon](reference/trainer_pokemon.md) document. Note: The Battle Frontier has not been changed.
 
 ---
 
@@ -156,7 +156,7 @@ Pokémon TM compatibility has been adjusted to match later generations, with **m
 
 !!! info "Documentation"
 
-    Details in [Pokémon Changes](pokemon/pokemon_changes.md) and [Type Changes](pokemon/type_changes.md) files
+    Details in [Pokémon Changes](changes/pokemon_changes.md) and [Type Changes](changes/type_changes.md) files
 
 ---
 
@@ -199,7 +199,7 @@ Pokémon TM compatibility has been adjusted to match later generations, with **m
 
 !!! info "TM Locations Reshuffled"
 
-    TMs are only found on the ground or from NPCs. See [Item Locations](items/item_locations.md) document.
+    TMs are only found on the ground or from NPCs. See [Item Changes](changes/item_changes.md) document.
 
 ### HM Reduction
 
@@ -285,7 +285,7 @@ Some new events change the story flow slightly:
 
 !!! info "Documentation"
 
-    Details in [NPC Changes](npcs/npc_changes.md) and [Special Events](events/special_events.md) files
+    Details in [NPC Changes](changes/npc_changes.md) and [Special Events](reference/special_events.md) files
 
 ---
 
@@ -312,7 +312,7 @@ Many Pokémon have had their evolution levels lowered for easier use:
 
 !!! info "Documentation"
 
-    Details in [Evolution Changes](pokemon/evolution_changes.md) file
+    Details in [Evolution Changes](changes/evolution_changes.md) file
 
 ---
 
@@ -339,7 +339,7 @@ A number of moves have had their stats adjusted:
 
 !!! info "Documentation"
 
-    Details in [Move Changes](moves/move_changes.md) file
+    Details in [Move Changes](changes/move_changes.md) file
 
 ---
 
@@ -358,7 +358,7 @@ A number of moves have had their stats adjusted:
 
 !!! info "Documentation"
 
-    See [Item Changes](items/item_changes.md) document for locations
+    See [Item Changes](changes/item_changes.md) document for locations
 
 ### Cheaper Poké Balls
 
@@ -391,7 +391,7 @@ A number of moves have had their stats adjusted:
 
 !!! info "Documentation"
 
-    Details in [Trade Changes](gameplay/trade_changes.md) file
+    Details in [Trade Changes](changes/trade_changes.md) file
 
 ---
 

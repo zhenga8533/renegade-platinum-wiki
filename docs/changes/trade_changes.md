@@ -14,11 +14,11 @@ You will be asked for a [Ponyta](../pokedex/pokemon/ponyta.md) in exchange for a
 
 <div class="grid cards" markdown>
 
--	[![Spheal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/363.png){: .pokemon-sprite-img }](../pokemon/spheal.md)
+-	[![Spheal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/363.png){: .pokemon-sprite-img }](../pokedex/pokemon/spheal.md)
 
 	***
 
-	**#363 [Spheal](../pokemon/spheal.md)**
+	**#363 [Spheal](../pokedex/pokemon/spheal.md)**
 
 	*Gaia*
 
@@ -34,11 +34,11 @@ You will be asked for a [Cherubi](../pokedex/pokemon/cherubi.md) in exchange for
 
 <div class="grid cards" markdown>
 
--	[![Skorupi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/451.png){: .pokemon-sprite-img }](../pokemon/skorupi.md)
+-	[![Skorupi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/451.png){: .pokemon-sprite-img }](../pokedex/pokemon/skorupi.md)
 
 	***
 
-	**#451 [Skorupi](../pokemon/skorupi.md)**
+	**#451 [Skorupi](../pokedex/pokemon/skorupi.md)**
 
 	*Spike*
 
@@ -54,11 +54,11 @@ You will be asked for a [Snorunt](../pokedex/pokemon/snorunt.md) in exchange for
 
 <div class="grid cards" markdown>
 
--	[![Chatot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/441.png){: .pokemon-sprite-img }](../pokemon/chatot.md)
+-	[![Chatot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/441.png){: .pokemon-sprite-img }](../pokedex/pokemon/chatot.md)
 
 	***
 
-	**#441 [Chatot](../pokemon/chatot.md)**
+	**#441 [Chatot](../pokedex/pokemon/chatot.md)**
 
 	*Macaw*
 
@@ -74,11 +74,11 @@ You will be asked for a [Magikarp](../pokedex/pokemon/magikarp.md) in exchange f
 
 <div class="grid cards" markdown>
 
--	[![Magikarp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/129.png){: .pokemon-sprite-img }](../pokemon/magikarp.md)
+-	[![Magikarp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/129.png){: .pokemon-sprite-img }](../pokedex/pokemon/magikarp.md)
 
 	***
 
-	**#129 [Magikarp](../pokemon/magikarp.md)**
+	**#129 [Magikarp](../pokedex/pokemon/magikarp.md)**
 
 	*Foppa*
 

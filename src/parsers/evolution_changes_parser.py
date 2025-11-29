@@ -57,7 +57,7 @@ class EvolutionChangesParser(BaseParser):
         if not self._is_table_open:
             self._markdown += (
                 create_table_header(headers, ["center", "center", "left"]) + "\n"
-            ) + "\n"
+            )
             self._is_table_open = True
 
     def _update_evolution(

@@ -62,7 +62,9 @@ class TradeChangesParser(BaseParser):
         elif match := re.match(r"^(\w+) the (.+?)$", line):
             nickname, pokemon = match.groups()
             self._markdown += format_pokemon_card_grid(
-                [pokemon], extra_info=[f"*{nickname}*"]
+                [pokemon],
+                extra_info=[f"*{nickname}*"],
+                relative_path="../pokedex/pokemon",
             )
         # Matches: "- Key: Value"
         elif match := re.match(r"^- (.+?): (.+?)$", line):

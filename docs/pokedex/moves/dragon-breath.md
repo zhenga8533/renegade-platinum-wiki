@@ -1,0 +1,214 @@
+# Dragon Breath
+
+## :material-chart-box: Stats
+
+<div class="grid cards" markdown>
+
+- **:material-tag: Type**
+
+	---
+
+	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+
+- **:material-shape: Category**
+
+	---
+
+	Special
+
+- **:material-fire: Power**
+
+	---
+
+	—
+
+- **:material-target: Accuracy**
+
+	---
+
+	—
+
+- **:material-counter: PP**
+
+	---
+
+	—
+
+- **:material-priority-high: Priority**
+
+	---
+
+	0
+
+</div>
+
+## :material-information: Effect
+
+!!! info "Description"
+
+    Inflicts regular damage. Has a 30% chance to paralyze the target.
+
+!!! tip "Quick Summary"
+
+    Has a 30% chance to paralyze the target.
+
+## :material-book-open: In-Game Description
+
+!!! quote "Platinum"
+
+    The user exhales a mighty gust that inflicts damage. It may also paralyze the target.
+
+## :material-pokeball: Learning Pokémon
+
+### :material-arrow-up-bold: Level-Up
+
+<div class="grid cards" markdown>
+
+-	[![Onix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/95.png){: .pokemon-sprite-img }](../pokemon/onix.md)
+
+	***
+
+	**#095 [Onix](../pokemon/onix.md)**
+
+	Level 33
+
+-	[![Steelix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/208.png){: .pokemon-sprite-img }](../pokemon/steelix.md)
+
+	***
+
+	**#208 [Steelix](../pokemon/steelix.md)**
+
+	Level 33
+
+-	[![Vibrava](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/329.png){: .pokemon-sprite-img }](../pokemon/vibrava.md)
+
+	***
+
+	**#329 [Vibrava](../pokemon/vibrava.md)**
+
+	Level 35
+
+-	[![Flygon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/330.png){: .pokemon-sprite-img }](../pokemon/flygon.md)
+
+	***
+
+	**#330 [Flygon](../pokemon/flygon.md)**
+
+	Level 35
+
+-	[![Altaria](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/334.png){: .pokemon-sprite-img }](../pokemon/altaria.md)
+
+	***
+
+	**#334 [Altaria](../pokemon/altaria.md)**
+
+	Level 35
+
+-	[![Bagon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/371.png){: .pokemon-sprite-img }](../pokemon/bagon.md)
+
+	***
+
+	**#371 [Bagon](../pokemon/bagon.md)**
+
+	Level 31
+
+-	[![Shelgon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/372.png){: .pokemon-sprite-img }](../pokemon/shelgon.md)
+
+	***
+
+	**#372 [Shelgon](../pokemon/shelgon.md)**
+
+	Level 32
+
+-	[![Salamence](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/373.png){: .pokemon-sprite-img }](../pokemon/salamence.md)
+
+	***
+
+	**#373 [Salamence](../pokemon/salamence.md)**
+
+	Level 32
+
+-	[![Latias](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/380.png){: .pokemon-sprite-img }](../pokemon/latias.md)
+
+	***
+
+	**#380 [Latias](../pokemon/latias.md)**
+
+	Level 20
+
+-	[![Latios](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/381.png){: .pokemon-sprite-img }](../pokemon/latios.md)
+
+	***
+
+	**#381 [Latios](../pokemon/latios.md)**
+
+	Level 20
+
+-	[![Dialga](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/483.png){: .pokemon-sprite-img }](../pokemon/dialga.md)
+
+	***
+
+	**#483 [Dialga](../pokemon/dialga.md)**
+
+	Level 1
+
+-	[![Palkia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/484.png){: .pokemon-sprite-img }](../pokemon/palkia.md)
+
+	***
+
+	**#484 [Palkia](../pokemon/palkia.md)**
+
+	Level 1
+
+-	[![Giratina Altered](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/487.png){: .pokemon-sprite-img }](../pokemon/giratina-altered.md)
+
+	***
+
+	**#487 [Giratina Altered](../pokemon/giratina-altered.md)**
+
+	Level 1
+
+</div>
+
+### :material-egg-outline: Egg Moves
+
+<div class="grid cards" markdown>
+
+-	[![Horsea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/116.png){: .pokemon-sprite-img }](../pokemon/horsea.md)
+
+	***
+
+	**#116 [Horsea](../pokemon/horsea.md)**
+
+-	[![Aerodactyl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/142.png){: .pokemon-sprite-img }](../pokemon/aerodactyl.md)
+
+	***
+
+	**#142 [Aerodactyl](../pokemon/aerodactyl.md)**
+
+-	[![Dratini](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/147.png){: .pokemon-sprite-img }](../pokemon/dratini.md)
+
+	***
+
+	**#147 [Dratini](../pokemon/dratini.md)**
+
+-	[![Treecko](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/252.png){: .pokemon-sprite-img }](../pokemon/treecko.md)
+
+	***
+
+	**#252 [Treecko](../pokemon/treecko.md)**
+
+-	[![Feebas](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/349.png){: .pokemon-sprite-img }](../pokemon/feebas.md)
+
+	***
+
+	**#349 [Feebas](../pokemon/feebas.md)**
+
+-	[![Gible](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/443.png){: .pokemon-sprite-img }](../pokemon/gible.md)
+
+	***
+
+	**#443 [Gible](../pokemon/gible.md)**
+
+</div>
+

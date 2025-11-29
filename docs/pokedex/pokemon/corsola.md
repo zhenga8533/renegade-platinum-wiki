@@ -1,0 +1,356 @@
+# Corsola
+
+<div class="pokemon-hero" style="background: linear-gradient(135deg, #6890F0dd 0%, #B8A03899 100%);">
+	<div class="pokemon-hero-overlay"></div>
+	<div class="pokemon-hero-content">
+		<div class="pokemon-hero-sprite">
+			<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/222.png" alt="corsola" class="sprite" />
+		</div>
+		<div class="pokemon-hero-genus">Coral Pokémon</div>
+		<div class="pokemon-hero-dex-number">#222</div>
+		<div class="badges-hstack"><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span></div>
+	</div>
+</div>
+
+## :material-information: Basic Information
+
+<div class="grid cards" markdown>
+
+- **:material-shield-star: Abilities**
+
+	---
+
+	- [Hustle](../../pokedex/abilities/hustle.md)
+	- [Natural Cure](../../pokedex/abilities/natural-cure.md)
+	- Regenerator :material-eye-off:
+
+- **:material-ruler: Physical Attributes**
+
+	---
+
+	**Height:** 0.6 m
+
+	**Weight:** 5.0 kg
+
+
+- **:material-book-education: Training**
+
+	---
+
+	**Base Experience:** 113
+
+	**Base Happiness:** 70
+
+	**Capture Rate:** 60
+
+	**Growth Rate:** Fast
+
+	**Habitat:** Sea
+
+	**EV Yield:** +1 Defense, +1 Special Defense
+
+
+- **:material-egg: Breeding**
+
+	---
+
+	**Gender Ratio:** 25.0% ♂ / 75.0% ♀
+
+	**Egg Groups:** Water1, Water3
+
+	**Hatch Counter:** 0 cycles
+
+- **:material-star-four-points: Classification**
+
+	---
+
+	**Generation:** Generation Ii
+
+	**Color:** Pink
+
+	**Shape:** Armor
+
+
+</div>
+
+## :material-treasure-chest: Wild Held Items
+
+These items can be found when catching or defeating this Pokémon in the wild:
+
+| Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
+|:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
+| ![Hard Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hard-stone.png){ .item-sprite } [Hard Stone](../../pokedex/items/hard-stone.md) | 5% | — | — | — | — |
+
+## :material-shield-half-full: Type Effectiveness
+
+<div class="grid cards" markdown>
+
+- **:material-alert: Weak To**
+
+	---
+
+	**4× Damage**
+
+	<span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span>
+	{: .badges-hstack }
+
+	**2× Damage**
+
+	<span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span>
+	{: .badges-hstack }
+
+- **:material-shield-check: Resists**
+
+	---
+
+	**¼× Damage**
+
+	<span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span>
+	{: .badges-hstack }
+
+	**½× Damage**
+
+	<span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span>
+	{: .badges-hstack }
+
+</div>
+
+## :material-chart-bar: Base Stats
+
+| Stat | Base | Min | Max | Distribution |
+|------|-----:|----:|----:|:-------------|
+| **HP** | **65** | 240 | 334 | <div style="background: var(--md-default-fg-color--lightest); border-radius: 4px; overflow: hidden; height: 20px; width: 100%;"><div style="background: linear-gradient(90deg, #4CAF50 0%, #8BC34A 100%); height: 100%; width: 25.49019607843137%;"></div></div> |
+| **Attack** | **45** | 85 | 207 | <div style="background: var(--md-default-fg-color--lightest); border-radius: 4px; overflow: hidden; height: 20px; width: 100%;"><div style="background: linear-gradient(90deg, #4CAF50 0%, #8BC34A 100%); height: 100%; width: 17.647058823529413%;"></div></div> |
+| **Defense** | **115** | 211 | 361 | <div style="background: var(--md-default-fg-color--lightest); border-radius: 4px; overflow: hidden; height: 20px; width: 100%;"><div style="background: linear-gradient(90deg, #4CAF50 0%, #8BC34A 100%); height: 100%; width: 45.09803921568628%;"></div></div> |
+| **Sp. Atk** | **90** | 166 | 306 | <div style="background: var(--md-default-fg-color--lightest); border-radius: 4px; overflow: hidden; height: 20px; width: 100%;"><div style="background: linear-gradient(90deg, #4CAF50 0%, #8BC34A 100%); height: 100%; width: 35.294117647058826%;"></div></div> |
+| **Sp. Def** | **115** | 211 | 361 | <div style="background: var(--md-default-fg-color--lightest); border-radius: 4px; overflow: hidden; height: 20px; width: 100%;"><div style="background: linear-gradient(90deg, #4CAF50 0%, #8BC34A 100%); height: 100%; width: 45.09803921568628%;"></div></div> |
+| **Speed** | **35** | 67 | 185 | <div style="background: var(--md-default-fg-color--lightest); border-radius: 4px; overflow: hidden; height: 20px; width: 100%;"><div style="background: linear-gradient(90deg, #4CAF50 0%, #8BC34A 100%); height: 100%; width: 13.725490196078432%;"></div></div> |
+| **Base Stat Total** | **465** | | | |
+
+> **Min/Max Stats:** Calculated at Level 100.
+>
+> - **Min**: 0 IVs, 0 EVs, hindering nature (0.9×) for non-HP stats
+>
+> - **Max**: 31 IVs, 252 EVs, beneficial nature (1.1×) for non-HP stats
+
+## :material-family-tree: Evolution Chain
+
+> :material-information: This Pokémon does not evolve.
+
+## :material-book-open: Pokédex Entries
+
+=== ":material-book: Platinum"
+
+	!!! quote ""
+
+		Many live in the clean seas of the south. They apparently can’t live in polluted waters.
+
+=== ":material-book: Diamond"
+
+	!!! quote ""
+
+		Many live in the clean seas of the south. They apparently can’t live in polluted waters.
+
+=== ":material-book: Pearl"
+
+	!!! quote ""
+
+		Many live in the clean seas of the south. They apparently can’t live in polluted waters.
+
+=== ":material-book: Heartgold"
+
+	!!! quote ""
+
+		It continuously sheds and grows. The tip of its head is prized as a treasure because of its beauty.
+
+=== ":material-book: Soulsilver"
+
+	!!! quote ""
+
+		In a south-sea nation, the people live in communities that are built on groups of these Pokémon.
+
+## :material-sword-cross: Moves
+
+=== ":material-arrow-up-bold: Level-Up"
+
+	| Level | Move | Type | Category | Power | Accuracy | PP |
+	|:------|:-----|:-----|:---------|:------|:---------|:---|
+	| 1 | [Tackle](../../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| 4 | [Harden](../../pokedex/moves/harden.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| 8 | [Bubble](../../pokedex/moves/bubble.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+	| 13 | [Recover](../../pokedex/moves/recover.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| 16 | [Refresh](../../pokedex/moves/refresh.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| 20 | [Rock Blast](../../pokedex/moves/rock-blast.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| 25 | [Bubble Beam](../../pokedex/moves/bubble-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 75 | — | 15 |
+	| 28 | [Lucky Chant](../../pokedex/moves/lucky-chant.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| 32 | [Ancient Power](../../pokedex/moves/ancient-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+	| 37 | [Aqua Ring](../../pokedex/moves/aqua-ring.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| 40 | [Spike Cannon](../../pokedex/moves/spike-cannon.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| 44 | [Power Gem](../../pokedex/moves/power-gem.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+	| 48 | [Mirror Coat](../../pokedex/moves/mirror-coat.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+	| 53 | [Earth Power](../../pokedex/moves/earth-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+
+=== ":material-disc: TM/HM"
+
+	| Move | Type | Category | Power | Accuracy | PP |
+	|:-----|:-----|:---------|:------|:---------|:---|
+	| [Attract](../../pokedex/moves/attract.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Blizzard](../../pokedex/moves/blizzard.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+	| [Brine](../../pokedex/moves/brine.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+	| [Calm Mind](../../pokedex/moves/calm-mind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Captivate](../../pokedex/moves/captivate.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Dig](../../pokedex/moves/dig.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| [Double Team](../../pokedex/moves/double-team.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Earthquake](../../pokedex/moves/earthquake.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| [Endure](../../pokedex/moves/endure.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Explosion](../../pokedex/moves/explosion.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| [Facade](../../pokedex/moves/facade.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| [Frustration](../../pokedex/moves/frustration.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| [Hail](../../pokedex/moves/hail.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Hidden Power](../../pokedex/moves/hidden-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+	| [Ice Beam](../../pokedex/moves/ice-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+	| [Light Screen](../../pokedex/moves/light-screen.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Natural Gift](../../pokedex/moves/natural-gift.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| [Protect](../../pokedex/moves/protect.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Psychic](../../pokedex/moves/psychic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+	| [Rain Dance](../../pokedex/moves/rain-dance.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Reflect](../../pokedex/moves/reflect.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Rest](../../pokedex/moves/rest.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Return](../../pokedex/moves/return.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| [Rock Polish](../../pokedex/moves/rock-polish.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Rock Slide](../../pokedex/moves/rock-slide.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| [Rock Smash](../../pokedex/moves/rock-smash.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 60 | — | — |
+	| [Rock Tomb](../../pokedex/moves/rock-tomb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| [Safeguard](../../pokedex/moves/safeguard.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Sandstorm](../../pokedex/moves/sandstorm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Secret Power](../../pokedex/moves/secret-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| [Shadow Ball](../../pokedex/moves/shadow-ball.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+	| [Sleep Talk](../../pokedex/moves/sleep-talk.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Stealth Rock](../../pokedex/moves/stealth-rock.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Stone Edge](../../pokedex/moves/stone-edge.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| [Strength](../../pokedex/moves/strength.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 100 | — | — |
+	| [Substitute](../../pokedex/moves/substitute.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Sunny Day](../../pokedex/moves/sunny-day.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Surf](../../pokedex/moves/surf.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+	| [Swagger](../../pokedex/moves/swagger.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Toxic](../../pokedex/moves/toxic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Water Pulse](../../pokedex/moves/water-pulse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+	| [Whirlpool](../../pokedex/moves/whirlpool.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+
+=== ":material-egg-outline: Egg Moves"
+
+	| Move | Type | Category | Power | Accuracy | PP |
+	|:-----|:-----|:---------|:------|:---------|:---|
+	| [Amnesia](../../pokedex/moves/amnesia.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Aqua Ring](../../pokedex/moves/aqua-ring.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Barrier](../../pokedex/moves/barrier.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Confuse Ray](../../pokedex/moves/confuse-ray.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Curse](../../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Icicle Spear](../../pokedex/moves/icicle-spear.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| [Ingrain](../../pokedex/moves/ingrain.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Mist](../../pokedex/moves/mist.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Nature Power](../../pokedex/moves/nature-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Rock Slide](../../pokedex/moves/rock-slide.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| [Screech](../../pokedex/moves/screech.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+
+=== ":material-school: Tutor"
+
+	| Move | Type | Category | Power | Accuracy | PP |
+	|:-----|:-----|:---------|:------|:---------|:---|
+	| [Ancient Power](../../pokedex/moves/ancient-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+	| [Earth Power](../../pokedex/moves/earth-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+	| [Endeavor](../../pokedex/moves/endeavor.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| [Headbutt](../../pokedex/moves/headbutt.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| [Icy Wind](../../pokedex/moves/icy-wind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+	| [Magic Coat](../../pokedex/moves/magic-coat.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Mud Slap](../../pokedex/moves/mud-slap.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+	| [Rollout](../../pokedex/moves/rollout.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| [Snore](../../pokedex/moves/snore.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+	| [Sucker Punch](../../pokedex/moves/sucker-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+
+## :material-image-multiple: Sprites
+
+=== "In-Game Sprites"
+
+	**Normal**
+
+	<div class="grid cards" markdown>
+
+	- ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png)
+
+		---
+
+		Front
+
+	- ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/222.png)
+
+		---
+
+		Back
+
+	</div>
+
+	**✨ Shiny**
+
+	<div class="grid cards" markdown>
+
+	- ![Front](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/222.png)
+
+		---
+
+		Front
+
+	- ![Back](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/222.png)
+
+		---
+
+		Back
+
+	</div>
+
+=== "Official Artwork"
+
+	<div class="grid cards" markdown>
+
+	- ![Normal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png)
+
+		---
+
+		Normal
+
+	- ![✨ Shiny](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/shiny/222.png)
+
+		---
+
+		✨ Shiny
+
+	</div>
+
+## :material-volume-high: Cries
+
+<div class="grid cards" markdown>
+
+- **:material-history: Legacy Cry**
+
+	---
+
+	<audio controls style="width: 100%;">
+		<source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/222.ogg" type="audio/ogg">
+		Your browser does not support the audio element.
+	</audio>
+
+	*Original legacy cry*
+
+- **:material-new-box: Latest Cry**
+
+	---
+
+	<audio controls style="width: 100%;">
+		<source src="https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/latest/222.ogg" type="audio/ogg">
+		Your browser does not support the audio element.
+	</audio>
+
+	*Updated cry from recent games*
+
+</div>
+

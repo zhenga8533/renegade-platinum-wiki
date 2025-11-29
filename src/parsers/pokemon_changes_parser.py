@@ -215,7 +215,9 @@ class PokemonChangesParser(BaseParser):
         if match := re.match(r"^(\d{3}) - (.+?)$", line):
             number, self._current_pokemon = match.groups()
             self._markdown += f"### {number} {self._current_pokemon}\n\n"
-            self._markdown += format_pokemon_card_grid([self._current_pokemon])
+            self._markdown += format_pokemon_card_grid(
+                [self._current_pokemon], relative_path="../pokedex/pokemon"
+            )
         # Matches: Attribute:
         elif line.endswith(":"):
             self._current_attribute = line[:-1]
