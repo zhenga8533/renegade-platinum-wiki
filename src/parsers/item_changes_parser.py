@@ -217,6 +217,10 @@ class ItemChangesParser(BaseParser):
         # Matches: Old Item  New Item
         elif match := re.match(r"^(.+?)\s{2,}(.+)$", line):
             old_item, new_item = match.groups()
+
+            # Copy the new item from gen7 if it doesn't exist
+            ItemService.copy_new_item(new_item)
+
             self._markdown += f"| {format_item(old_item)} | {format_item(new_item)} |\n"
         # Default: regular text line
         else:
