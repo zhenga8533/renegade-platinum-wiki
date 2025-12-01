@@ -68,7 +68,9 @@ class TrainerPokemonParser(LocationParser):
             self._trainers[category] = {}
         self._category = category
 
-    def _get_trainer_extension(self, trainer_name: str, existing_teams_count: int) -> str:
+    def _get_trainer_extension(
+        self, trainer_name: str, existing_teams_count: int
+    ) -> str:
         """Get the extension name for a trainer team variation.
 
         Args:
@@ -403,7 +405,9 @@ class TrainerPokemonParser(LocationParser):
                 trainer_data
             )
 
-    def _should_skip_detailed_trainer(self, existing_trainers: list[Dict[str, Any]]) -> bool:
+    def _should_skip_detailed_trainer(
+        self, existing_trainers: list[Dict[str, Any]]
+    ) -> bool:
         """Check if detailed trainer data should be skipped.
 
         Detailed breakdown in documentation is just reference info, not replacement teams.

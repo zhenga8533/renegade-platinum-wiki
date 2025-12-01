@@ -322,7 +322,7 @@ Blue Orb                Oreburgh City                       Gift from Steven    
 Coin Case               Veilstone City                      Gift from NPC
 Fashion Case            Jubilife City                       Gift from NPC
 Galactic Key            Galactic HQ                         Item on ground
-Gracidea Flower         Floaroma Town                       Gift from NPC
+Gracidea                Floaroma Town                       Gift from NPC
 Good Rod                Route 209                           Gift from NPC
 GS Ball                 Celestic Town                       Gift from event     **
 Jade Orb                Oreburgh City                       Gift from Steven    **
