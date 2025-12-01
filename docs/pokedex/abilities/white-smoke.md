@@ -18,5 +18,15 @@
 
 ## :material-pokeball: Pokémon with this Ability
 
-*No Pokémon have this ability.*
+### :material-star: Standard Ability
+
+<div class="grid cards" markdown>
+
+-	[![Torkoal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/324.png){: .pokemon-sprite-img }](../pokemon/torkoal.md)
+
+	***
+
+	**#324 [Torkoal](../pokemon/torkoal.md)**
+
+</div>
 

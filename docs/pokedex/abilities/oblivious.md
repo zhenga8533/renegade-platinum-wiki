@@ -90,27 +90,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Spheal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/363.png){: .pokemon-sprite-img }](../pokemon/spheal.md)
-
-	***
-
-	**#363 [Spheal](../pokemon/spheal.md)**
-
--	[![Sealeo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/364.png){: .pokemon-sprite-img }](../pokemon/sealeo.md)
-
-	***
-
-	**#364 [Sealeo](../pokemon/sealeo.md)**
-
--	[![Walrein](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/365.png){: .pokemon-sprite-img }](../pokemon/walrein.md)
-
-	***
-
-	**#365 [Walrein](../pokemon/walrein.md)**
-
-</div>
-

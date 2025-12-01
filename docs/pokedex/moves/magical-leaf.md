@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span>
 
 - **:material-shape: Category**
 
@@ -20,7 +20,7 @@
 
 	---
 
-	—
+	60
 
 - **:material-target: Accuracy**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 

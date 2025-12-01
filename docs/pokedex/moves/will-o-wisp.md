@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span>
 
 - **:material-shape: Category**
 
@@ -26,13 +26,13 @@
 
 	---
 
-	—
+	75%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	15
 
 - **:material-priority-high: Priority**
 

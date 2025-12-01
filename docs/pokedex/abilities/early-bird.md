@@ -70,23 +70,11 @@
 
 	**#274 [Nuzleaf](../pokemon/nuzleaf.md)**
 
-</div>
-
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Sunkern](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/191.png){: .pokemon-sprite-img }](../pokemon/sunkern.md)
+-	[![Shiftry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/275.png){: .pokemon-sprite-img }](../pokemon/shiftry.md)
 
 	***
 
-	**#191 [Sunkern](../pokemon/sunkern.md)**
-
--	[![Sunflora](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/192.png){: .pokemon-sprite-img }](../pokemon/sunflora.md)
-
-	***
-
-	**#192 [Sunflora](../pokemon/sunflora.md)**
+	**#275 [Shiftry](../pokemon/shiftry.md)**
 
 </div>
 

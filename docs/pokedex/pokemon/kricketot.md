@@ -193,9 +193,9 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	| Level | Move | Type | Category | Power | Accuracy | PP |
 	|:------|:-----|:-----|:---------|:------|:---------|:---|
-	| 1 | [Growl](../../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
-	| 1 | [Bide](../../pokedex/moves/bide.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
-	| 16 | [Bug Bite](../../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| 1 | [Growl](../../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 100 | 40 |
+	| 1 | [Bide](../../pokedex/moves/bide.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | 10 |
+	| 16 | [Bug Bite](../../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 60 | 100 | 20 |
 
 === ":material-disc: TM/HM"
 
@@ -209,12 +209,12 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	| Move | Type | Category | Power | Accuracy | PP |
 	|:-----|:-----|:---------|:------|:---------|:---|
-	| [Bug Bite](../../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
-	| [Endeavor](../../pokedex/moves/endeavor.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
-	| [Mud Slap](../../pokedex/moves/mud-slap.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
-	| [Snore](../../pokedex/moves/snore.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
-	| [String Shot](../../pokedex/moves/string-shot.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
-	| [Uproar](../../pokedex/moves/uproar.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+	| [Bug Bite](../../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 60 | 100 | 20 |
+	| [Endeavor](../../pokedex/moves/endeavor.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | 100 | 5 |
+	| [Mud Slap](../../pokedex/moves/mud-slap.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 20 | 100 | 10 |
+	| [Snore](../../pokedex/moves/snore.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 40 | 100 | 15 |
+	| [String Shot](../../pokedex/moves/string-shot.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 95 | 40 |
+	| [Uproar](../../pokedex/moves/uproar.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 50 | 100 | 10 |
 
 ## :material-image-multiple: Sprites
 

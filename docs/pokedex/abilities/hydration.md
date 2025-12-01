@@ -72,33 +72,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Lapras](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/131.png){: .pokemon-sprite-img }](../pokemon/lapras.md)
-
-	***
-
-	**#131 [Lapras](../pokemon/lapras.md)**
-
--	[![Vaporeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/134.png){: .pokemon-sprite-img }](../pokemon/vaporeon.md)
-
-	***
-
-	**#134 [Vaporeon](../pokemon/vaporeon.md)**
-
--	[![Barboach](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/339.png){: .pokemon-sprite-img }](../pokemon/barboach.md)
-
-	***
-
-	**#339 [Barboach](../pokemon/barboach.md)**
-
--	[![Whiscash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/340.png){: .pokemon-sprite-img }](../pokemon/whiscash.md)
-
-	***
-
-	**#340 [Whiscash](../pokemon/whiscash.md)**
-
-</div>
-

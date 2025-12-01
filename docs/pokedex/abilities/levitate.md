@@ -46,6 +46,18 @@
 
 	**#094 [Gengar](../pokemon/gengar.md)**
 
+-	[![Koffing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/109.png){: .pokemon-sprite-img }](../pokemon/koffing.md)
+
+	***
+
+	**#109 [Koffing](../pokemon/koffing.md)**
+
+-	[![Weezing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/110.png){: .pokemon-sprite-img }](../pokemon/weezing.md)
+
+	***
+
+	**#110 [Weezing](../pokemon/weezing.md)**
+
 -	[![Misdreavus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/200.png){: .pokemon-sprite-img }](../pokemon/misdreavus.md)
 
 	***

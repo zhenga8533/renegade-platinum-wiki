@@ -96,15 +96,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Nincada](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/290.png){: .pokemon-sprite-img }](../pokemon/nincada.md)
-
-	***
-
-	**#290 [Nincada](../pokemon/nincada.md)**
-
-</div>
-

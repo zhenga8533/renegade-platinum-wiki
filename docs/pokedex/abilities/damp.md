@@ -78,39 +78,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Paras](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/46.png){: .pokemon-sprite-img }](../pokemon/paras.md)
-
-	***
-
-	**#046 [Paras](../pokemon/paras.md)**
-
--	[![Parasect](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/47.png){: .pokemon-sprite-img }](../pokemon/parasect.md)
-
-	***
-
-	**#047 [Parasect](../pokemon/parasect.md)**
-
--	[![Horsea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/116.png){: .pokemon-sprite-img }](../pokemon/horsea.md)
-
-	***
-
-	**#116 [Horsea](../pokemon/horsea.md)**
-
--	[![Seadra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/117.png){: .pokemon-sprite-img }](../pokemon/seadra.md)
-
-	***
-
-	**#117 [Seadra](../pokemon/seadra.md)**
-
--	[![Kingdra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/230.png){: .pokemon-sprite-img }](../pokemon/kingdra.md)
-
-	***
-
-	**#230 [Kingdra](../pokemon/kingdra.md)**
-
-</div>
-

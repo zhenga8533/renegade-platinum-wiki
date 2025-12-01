@@ -54,27 +54,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Tentacool](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/72.png){: .pokemon-sprite-img }](../pokemon/tentacool.md)
-
-	***
-
-	**#072 [Tentacool](../pokemon/tentacool.md)**
-
--	[![Tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){: .pokemon-sprite-img }](../pokemon/tentacruel.md)
-
-	***
-
-	**#073 [Tentacruel](../pokemon/tentacruel.md)**
-
--	[![Surskit](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/283.png){: .pokemon-sprite-img }](../pokemon/surskit.md)
-
-	***
-
-	**#283 [Surskit](../pokemon/surskit.md)**
-
-</div>
-

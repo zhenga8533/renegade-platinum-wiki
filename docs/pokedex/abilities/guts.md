@@ -120,15 +120,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Flareon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/136.png){: .pokemon-sprite-img }](../pokemon/flareon.md)
-
-	***
-
-	**#136 [Flareon](../pokemon/flareon.md)**
-
-</div>
-

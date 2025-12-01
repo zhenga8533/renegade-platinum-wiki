@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	30
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	30
 
 - **:material-priority-high: Priority**
 

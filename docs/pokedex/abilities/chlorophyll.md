@@ -136,6 +136,12 @@
 
 	**#274 [Nuzleaf](../pokemon/nuzleaf.md)**
 
+-	[![Shiftry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/275.png){: .pokemon-sprite-img }](../pokemon/shiftry.md)
+
+	***
+
+	**#275 [Shiftry](../pokemon/shiftry.md)**
+
 -	[![Tropius](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/357.png){: .pokemon-sprite-img }](../pokemon/tropius.md)
 
 	***
@@ -153,18 +159,6 @@
 	***
 
 	**#465 [Tangrowth](../pokemon/tangrowth.md)**
-
-</div>
-
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Leafeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/470.png){: .pokemon-sprite-img }](../pokemon/leafeon.md)
-
-	***
-
-	**#470 [Leafeon](../pokemon/leafeon.md)**
 
 </div>
 

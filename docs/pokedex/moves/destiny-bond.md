@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	5
 
 - **:material-priority-high: Priority**
 

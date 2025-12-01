@@ -96,27 +96,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Drowzee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/96.png){: .pokemon-sprite-img }](../pokemon/drowzee.md)
-
-	***
-
-	**#096 [Drowzee](../pokemon/drowzee.md)**
-
--	[![Hypno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/97.png){: .pokemon-sprite-img }](../pokemon/hypno.md)
-
-	***
-
-	**#097 [Hypno](../pokemon/hypno.md)**
-
--	[![Umbreon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/197.png){: .pokemon-sprite-img }](../pokemon/umbreon.md)
-
-	***
-
-	**#197 [Umbreon](../pokemon/umbreon.md)**
-
-</div>
-

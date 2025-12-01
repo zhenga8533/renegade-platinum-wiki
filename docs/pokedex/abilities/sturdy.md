@@ -156,15 +156,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Regirock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/377.png){: .pokemon-sprite-img }](../pokemon/regirock.md)
-
-	***
-
-	**#377 [Regirock](../pokemon/regirock.md)**
-
-</div>
-

@@ -186,39 +186,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Psyduck](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/54.png){: .pokemon-sprite-img }](../pokemon/psyduck.md)
-
-	***
-
-	**#054 [Psyduck](../pokemon/psyduck.md)**
-
--	[![Golduck](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/55.png){: .pokemon-sprite-img }](../pokemon/golduck.md)
-
-	***
-
-	**#055 [Golduck](../pokemon/golduck.md)**
-
--	[![Poliwag](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/60.png){: .pokemon-sprite-img }](../pokemon/poliwag.md)
-
-	***
-
-	**#060 [Poliwag](../pokemon/poliwag.md)**
-
--	[![Poliwhirl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/61.png){: .pokemon-sprite-img }](../pokemon/poliwhirl.md)
-
-	***
-
-	**#061 [Poliwhirl](../pokemon/poliwhirl.md)**
-
--	[![Poliwrath](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/62.png){: .pokemon-sprite-img }](../pokemon/poliwrath.md)
-
-	***
-
-	**#062 [Poliwrath](../pokemon/poliwrath.md)**
-
-</div>
-

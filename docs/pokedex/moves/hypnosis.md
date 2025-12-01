@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span>
 
 - **:material-shape: Category**
 
@@ -26,13 +26,13 @@
 
 	---
 
-	—
+	70%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 

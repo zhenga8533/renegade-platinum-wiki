@@ -96,27 +96,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Lotad](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/270.png){: .pokemon-sprite-img }](../pokemon/lotad.md)
-
-	***
-
-	**#270 [Lotad](../pokemon/lotad.md)**
-
--	[![Lombre](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/271.png){: .pokemon-sprite-img }](../pokemon/lombre.md)
-
-	***
-
-	**#271 [Lombre](../pokemon/lombre.md)**
-
--	[![Ludicolo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/272.png){: .pokemon-sprite-img }](../pokemon/ludicolo.md)
-
-	***
-
-	**#272 [Ludicolo](../pokemon/ludicolo.md)**
-
-</div>
-

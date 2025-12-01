@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #4B4B7B 0%, #4B4B7Bdd 100%);">Shadow</span>
 
 - **:material-shape: Category**
 
@@ -20,13 +20,13 @@
 
 	---
 
-	—
+	95
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 

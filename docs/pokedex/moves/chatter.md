@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span>
 
 - **:material-shape: Category**
 
@@ -26,7 +26,7 @@
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 

@@ -110,6 +110,7 @@ Ace Trainer Jasmin
 | Pokémon | Level | Type(s) |
 |:-------:|:------|:-------|
 | ![drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){ .sprite }<br>[Drapion](../../pokedex/pokemon/drapion.md) | Lv. 78 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> |
+| ![hippowdon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/450.png){ .sprite }<br>[Hippowdon](../../pokedex/pokemon/hippowdon.md) | Lv. 78 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> |
 | ![magmortar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/467.png){ .sprite }<br>[Magmortar](../../pokedex/pokemon/magmortar.md) | Lv. 78 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> |
 
 Bird Keeper Krystal

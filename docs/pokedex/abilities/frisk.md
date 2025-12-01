@@ -54,27 +54,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Sentret](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/161.png){: .pokemon-sprite-img }](../pokemon/sentret.md)
-
-	***
-
-	**#161 [Sentret](../pokemon/sentret.md)**
-
--	[![Yanma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/193.png){: .pokemon-sprite-img }](../pokemon/yanma.md)
-
-	***
-
-	**#193 [Yanma](../pokemon/yanma.md)**
-
--	[![Yanmega](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/469.png){: .pokemon-sprite-img }](../pokemon/yanmega.md)
-
-	***
-
-	**#469 [Yanmega](../pokemon/yanmega.md)**
-
-</div>
-

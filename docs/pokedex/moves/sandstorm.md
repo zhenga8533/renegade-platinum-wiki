@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 

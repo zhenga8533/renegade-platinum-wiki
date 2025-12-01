@@ -66,33 +66,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Mantine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/226.png){: .pokemon-sprite-img }](../pokemon/mantine.md)
-
-	***
-
-	**#226 [Mantine](../pokemon/mantine.md)**
-
--	[![Finneon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/456.png){: .pokemon-sprite-img }](../pokemon/finneon.md)
-
-	***
-
-	**#456 [Finneon](../pokemon/finneon.md)**
-
--	[![Lumineon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/457.png){: .pokemon-sprite-img }](../pokemon/lumineon.md)
-
-	***
-
-	**#457 [Lumineon](../pokemon/lumineon.md)**
-
--	[![Mantyke](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/458.png){: .pokemon-sprite-img }](../pokemon/mantyke.md)
-
-	***
-
-	**#458 [Mantyke](../pokemon/mantyke.md)**
-
-</div>
-

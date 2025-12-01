@@ -73,6 +73,7 @@ Youngster Sebastian
 
 | Pokémon | Level | Type(s) |
 |:-------:|:------|:-------|
+| ![makuhita](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/296.png){ .sprite }<br>[Makuhita](../../pokedex/pokemon/makuhita.md) | Lv. 10 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> |
 | ![machop](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/66.png){ .sprite }<br>[Machop](../../pokedex/pokemon/machop.md) | Lv. 10 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> |
 
 Lass Kaitlin

@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	30
 
 - **:material-priority-high: Priority**
 

@@ -48,21 +48,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Lickitung](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/108.png){: .pokemon-sprite-img }](../pokemon/lickitung.md)
-
-	***
-
-	**#108 [Lickitung](../pokemon/lickitung.md)**
-
--	[![Lickilicky](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/463.png){: .pokemon-sprite-img }](../pokemon/lickilicky.md)
-
-	***
-
-	**#463 [Lickilicky](../pokemon/lickilicky.md)**
-
-</div>
-

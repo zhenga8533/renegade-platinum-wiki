@@ -42,21 +42,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Aipom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/190.png){: .pokemon-sprite-img }](../pokemon/aipom.md)
-
-	***
-
-	**#190 [Aipom](../pokemon/aipom.md)**
-
--	[![Ambipom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/424.png){: .pokemon-sprite-img }](../pokemon/ambipom.md)
-
-	***
-
-	**#424 [Ambipom](../pokemon/ambipom.md)**
-
-</div>
-

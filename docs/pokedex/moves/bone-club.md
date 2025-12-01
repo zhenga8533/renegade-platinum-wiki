@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	65
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	85%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 

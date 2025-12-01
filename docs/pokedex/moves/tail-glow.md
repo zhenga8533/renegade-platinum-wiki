@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span>
 
 - **:material-shape: Category**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	—
+	20
 
 - **:material-priority-high: Priority**
 

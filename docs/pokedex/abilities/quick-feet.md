@@ -54,27 +54,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Jolteon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/135.png){: .pokemon-sprite-img }](../pokemon/jolteon.md)
-
-	***
-
-	**#135 [Jolteon](../pokemon/jolteon.md)**
-
--	[![Zigzagoon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/263.png){: .pokemon-sprite-img }](../pokemon/zigzagoon.md)
-
-	***
-
-	**#263 [Zigzagoon](../pokemon/zigzagoon.md)**
-
--	[![Linoone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/264.png){: .pokemon-sprite-img }](../pokemon/linoone.md)
-
-	***
-
-	**#264 [Linoone](../pokemon/linoone.md)**
-
-</div>
-

@@ -72,21 +72,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Cubone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/104.png){: .pokemon-sprite-img }](../pokemon/cubone.md)
-
-	***
-
-	**#104 [Cubone](../pokemon/cubone.md)**
-
--	[![Marowak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/105.png){: .pokemon-sprite-img }](../pokemon/marowak.md)
-
-	***
-
-	**#105 [Marowak](../pokemon/marowak.md)**
-
-</div>
-

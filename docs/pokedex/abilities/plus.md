@@ -30,27 +30,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Mareep](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/179.png){: .pokemon-sprite-img }](../pokemon/mareep.md)
-
-	***
-
-	**#179 [Mareep](../pokemon/mareep.md)**
-
--	[![Flaaffy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/180.png){: .pokemon-sprite-img }](../pokemon/flaaffy.md)
-
-	***
-
-	**#180 [Flaaffy](../pokemon/flaaffy.md)**
-
--	[![Ampharos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/181.png){: .pokemon-sprite-img }](../pokemon/ampharos.md)
-
-	***
-
-	**#181 [Ampharos](../pokemon/ampharos.md)**
-
-</div>
-

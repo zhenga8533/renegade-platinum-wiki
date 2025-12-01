@@ -21,7 +21,6 @@
 	---
 
 	- [Shadow Tag](../../pokedex/abilities/shadow-tag.md)
-	- Telepathy :material-eye-off:
 
 - **:material-ruler: Physical Attributes**
 
@@ -184,10 +183,10 @@
 
 	| Level | Move | Type | Category | Power | Accuracy | PP |
 	|:------|:-----|:-----|:---------|:------|:---------|:---|
-	| 1 | [Counter](../../pokedex/moves/counter.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
-	| 1 | [Destiny Bond](../../pokedex/moves/destiny-bond.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
-	| 1 | [Safeguard](../../pokedex/moves/safeguard.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
-	| 1 | [Mirror Coat](../../pokedex/moves/mirror-coat.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
+	| 1 | [Counter](../../pokedex/moves/counter.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | 100 | 20 |
+	| 1 | [Destiny Bond](../../pokedex/moves/destiny-bond.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 5 |
+	| 1 | [Safeguard](../../pokedex/moves/safeguard.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 25 |
+	| 1 | [Mirror Coat](../../pokedex/moves/mirror-coat.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | 100 | 20 |
 
 === ":material-disc: TM/HM"
 

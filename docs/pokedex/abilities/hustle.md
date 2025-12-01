@@ -60,33 +60,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Nidoran♀](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/29.png){: .pokemon-sprite-img }](../pokemon/nidoran-f.md)
-
-	***
-
-	**#029 [Nidoran♀](../pokemon/nidoran-f.md)**
-
--	[![Nidorina](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/30.png){: .pokemon-sprite-img }](../pokemon/nidorina.md)
-
-	***
-
-	**#030 [Nidorina](../pokemon/nidorina.md)**
-
--	[![Nidoran♂](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/32.png){: .pokemon-sprite-img }](../pokemon/nidoran-m.md)
-
-	***
-
-	**#032 [Nidoran♂](../pokemon/nidoran-m.md)**
-
--	[![Nidorino](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/33.png){: .pokemon-sprite-img }](../pokemon/nidorino.md)
-
-	***
-
-	**#033 [Nidorino](../pokemon/nidorino.md)**
-
-</div>
-

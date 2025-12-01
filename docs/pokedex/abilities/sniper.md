@@ -78,21 +78,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Spinarak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/167.png){: .pokemon-sprite-img }](../pokemon/spinarak.md)
-
-	***
-
-	**#167 [Spinarak](../pokemon/spinarak.md)**
-
--	[![Ariados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/168.png){: .pokemon-sprite-img }](../pokemon/ariados.md)
-
-	***
-
-	**#168 [Ariados](../pokemon/ariados.md)**
-
-</div>
-

@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	90
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	90%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 

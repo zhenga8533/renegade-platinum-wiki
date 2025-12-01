@@ -54,33 +54,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Seel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/86.png){: .pokemon-sprite-img }](../pokemon/seel.md)
-
-	***
-
-	**#086 [Seel](../pokemon/seel.md)**
-
--	[![Dewgong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/87.png){: .pokemon-sprite-img }](../pokemon/dewgong.md)
-
-	***
-
-	**#087 [Dewgong](../pokemon/dewgong.md)**
-
--	[![Regice](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/378.png){: .pokemon-sprite-img }](../pokemon/regice.md)
-
-	***
-
-	**#378 [Regice](../pokemon/regice.md)**
-
--	[![Glaceon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/471.png){: .pokemon-sprite-img }](../pokemon/glaceon.md)
-
-	***
-
-	**#471 [Glaceon](../pokemon/glaceon.md)**
-
-</div>
-

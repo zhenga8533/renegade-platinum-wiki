@@ -30,15 +30,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Teddiursa](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/216.png){: .pokemon-sprite-img }](../pokemon/teddiursa.md)
-
-	***
-
-	**#216 [Teddiursa](../pokemon/teddiursa.md)**
-
-</div>
-

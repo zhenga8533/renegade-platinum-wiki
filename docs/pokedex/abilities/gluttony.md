@@ -60,33 +60,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Gulpin](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/316.png){: .pokemon-sprite-img }](../pokemon/gulpin.md)
-
-	***
-
-	**#316 [Gulpin](../pokemon/gulpin.md)**
-
--	[![Swalot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/317.png){: .pokemon-sprite-img }](../pokemon/swalot.md)
-
-	***
-
-	**#317 [Swalot](../pokemon/swalot.md)**
-
--	[![Spoink](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/325.png){: .pokemon-sprite-img }](../pokemon/spoink.md)
-
-	***
-
-	**#325 [Spoink](../pokemon/spoink.md)**
-
--	[![Grumpig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/326.png){: .pokemon-sprite-img }](../pokemon/grumpig.md)
-
-	***
-
-	**#326 [Grumpig](../pokemon/grumpig.md)**
-
-</div>
-

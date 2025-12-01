@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
 
 - **:material-shape: Category**
 
@@ -26,13 +26,13 @@
 
 	---
 
-	—
+	100%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 

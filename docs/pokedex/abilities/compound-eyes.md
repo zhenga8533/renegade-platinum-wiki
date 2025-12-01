@@ -60,15 +60,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Dustox](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/269.png){: .pokemon-sprite-img }](../pokemon/dustox.md)
-
-	***
-
-	**#269 [Dustox](../pokemon/dustox.md)**
-
-</div>
-

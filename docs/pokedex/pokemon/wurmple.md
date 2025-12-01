@@ -224,10 +224,10 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	| Level | Move | Type | Category | Power | Accuracy | PP |
 	|:------|:-----|:-----|:---------|:------|:---------|:---|
-	| 1 | [Tackle](../../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
-	| 1 | [String Shot](../../pokedex/moves/string-shot.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
-	| 5 | [Poison Sting](../../pokedex/moves/poison-sting.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
-	| 15 | [Bug Bite](../../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
+	| 1 | [Tackle](../../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 50 | 95 | 35 |
+	| 1 | [String Shot](../../pokedex/moves/string-shot.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 95 | 40 |
+	| 5 | [Poison Sting](../../pokedex/moves/poison-sting.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 15 | 100 | 35 |
+	| 15 | [Bug Bite](../../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 60 | 100 | 20 |
 
 === ":material-disc: TM/HM"
 
@@ -241,9 +241,9 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	| Move | Type | Category | Power | Accuracy | PP |
 	|:-----|:-----|:---------|:------|:---------|:---|
-	| [Bug Bite](../../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | — | — |
-	| [Snore](../../pokedex/moves/snore.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | — | — | — |
-	| [String Shot](../../pokedex/moves/string-shot.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | — |
+	| [Bug Bite](../../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 60 | 100 | 20 |
+	| [Snore](../../pokedex/moves/snore.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 40 | 100 | 15 |
+	| [String Shot](../../pokedex/moves/string-shot.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 95 | 40 |
 
 ## :material-image-multiple: Sprites
 

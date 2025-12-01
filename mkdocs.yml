@@ -1230,10 +1230,12 @@ nav:
       - Dusk Stone: pokedex/items/dusk-stone.md
       - Electirizer: pokedex/items/electirizer.md
       - Fire Stone: pokedex/items/fire-stone.md
+      - Ice Stone: pokedex/items/ice-stone.md
       - Leaf Stone: pokedex/items/leaf-stone.md
       - Magmarizer: pokedex/items/magmarizer.md
       - Moon Stone: pokedex/items/moon-stone.md
       - Oval Stone: pokedex/items/oval-stone.md
+      - Prism Scale: pokedex/items/prism-scale.md
       - Protector: pokedex/items/protector.md
       - Reaper Cloth: pokedex/items/reaper-cloth.md
       - Shiny Stone: pokedex/items/shiny-stone.md
@@ -1382,6 +1384,7 @@ nav:
       - Suite Key: pokedex/items/suite-key.md
       - Super Repel: pokedex/items/super-repel.md
       - Tamato Berry: pokedex/items/tamato-berry.md
+      - Tea: pokedex/items/tea.md
       - Tidal Bell: pokedex/items/tidal-bell.md
       - Tiny Mushroom: pokedex/items/tiny-mushroom.md
       - Tunnel Mail: pokedex/items/tunnel-mail.md

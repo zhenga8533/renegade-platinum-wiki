@@ -48,15 +48,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Clefable](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/36.png){: .pokemon-sprite-img }](../pokemon/clefable.md)
-
-	***
-
-	**#036 [Clefable](../pokemon/clefable.md)**
-
-</div>
-

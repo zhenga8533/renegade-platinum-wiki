@@ -96,15 +96,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Glameow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/431.png){: .pokemon-sprite-img }](../pokemon/glameow.md)
-
-	***
-
-	**#431 [Glameow](../pokemon/glameow.md)**
-
-</div>
-

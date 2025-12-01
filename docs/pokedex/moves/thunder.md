@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	120
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	70%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 

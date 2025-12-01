@@ -30,21 +30,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Electrike](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/309.png){: .pokemon-sprite-img }](../pokemon/electrike.md)
-
-	***
-
-	**#309 [Electrike](../pokemon/electrike.md)**
-
--	[![Manectric](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/310.png){: .pokemon-sprite-img }](../pokemon/manectric.md)
-
-	***
-
-	**#310 [Manectric](../pokemon/manectric.md)**
-
-</div>
-

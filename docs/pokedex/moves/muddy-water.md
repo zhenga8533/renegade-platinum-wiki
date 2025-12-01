@@ -8,7 +8,7 @@
 
 	---
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">???</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span>
 
 - **:material-shape: Category**
 
@@ -20,19 +20,19 @@
 
 	---
 
-	—
+	95
 
 - **:material-target: Accuracy**
 
 	---
 
-	—
+	85%
 
 - **:material-counter: PP**
 
 	---
 
-	—
+	10
 
 - **:material-priority-high: Priority**
 

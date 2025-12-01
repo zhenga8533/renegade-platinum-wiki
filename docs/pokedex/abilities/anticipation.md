@@ -54,15 +54,3 @@
 
 </div>
 
-### :material-eye-off: Hidden Ability
-
-<div class="grid cards" markdown>
-
--	[![Eevee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/133.png){: .pokemon-sprite-img }](../pokemon/eevee.md)
-
-	***
-
-	**#133 [Eevee](../pokemon/eevee.md)**
-
-</div>
-
