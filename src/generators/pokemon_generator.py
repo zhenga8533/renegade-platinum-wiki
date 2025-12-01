@@ -216,12 +216,12 @@ class PokemonGenerator(BaseGenerator):
         type_badges = " ".join([format_type_badge(t) for t in entry.types])
         types_cell = f'<div class="badges-vstack">{type_badges}</div>'
 
-        # Abilities (non-hidden only, max 2)
+        # Abilities
         abilities = [a.name for a in entry.abilities if not a.is_hidden]
         abilities_str = ", ".join(
             [
                 format_ability(a, relative_path=GENERATOR_INDEX_RELATIVE_PATH)
-                for a in abilities[:2]
+                for a in abilities
             ]
         )
 
@@ -397,6 +397,9 @@ class PokemonGenerator(BaseGenerator):
             ability_display = format_ability(
                 ability.name, is_linked=True, relative_path=GENERATOR_DEX_RELATIVE_PATH
             )
+            if ability_display == ability.name:
+                continue
+
             # Add hidden indicator if applicable
             if ability.is_hidden:
                 ability_display += " :material-eye-off:"
@@ -480,6 +483,9 @@ class PokemonGenerator(BaseGenerator):
             item_display = format_item(
                 item_id, relative_path=GENERATOR_DEX_RELATIVE_PATH
             )
+
+            if item_display == item_id:
+                continue
 
             # Build row with all game version rates
             row = [item_display]
@@ -920,25 +926,6 @@ class PokemonGenerator(BaseGenerator):
                             accuracy_str,
                             pp_str,
                         ]
-                    )
-            else:
-                # Fallback if move data not available
-                if include_level:
-                    level = str(move_learn.level_learned_at)
-                    rows.append(
-                        [
-                            level,
-                            format_display_name(move_learn.name),
-                            "—",
-                            "—",
-                            "—",
-                            "—",
-                            "—",
-                        ]
-                    )
-                else:
-                    rows.append(
-                        [format_display_name(move_learn.name), "—", "—", "—", "—", "—"]
                     )
 
         # Use standardized table utility
