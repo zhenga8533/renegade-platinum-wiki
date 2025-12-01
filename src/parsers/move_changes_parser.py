@@ -119,7 +119,12 @@ class MoveChangesParser(BaseParser):
                 gen7_type = self._get_version_value(gen7_move.type)
                 parsed_type = self._get_version_value(parsed_move.type)
                 if gen7_type != parsed_type:
-                    self._set_all_versions(parsed_move.type, gen7_type)
+                    if hasattr(parsed_move.type, "keys"):
+                        # Version group object - set all versions
+                        self._set_all_versions(parsed_move.type, gen7_type)
+                    else:
+                        # Plain value - set directly
+                        parsed_move.type = gen7_type
                     updated = True
 
                 # Save if updated
@@ -128,18 +133,32 @@ class MoveChangesParser(BaseParser):
                     self.logger.info(f"Updated move '{move_id}' to gen7 stats")
 
     def _get_version_value(self, field):
-        """Get a value from a field, handling both version groups and plain values."""
-        if hasattr(field, "__slots__"):
-            # Version group object - get first version's value
-            for version_key in field.__slots__:
-                return getattr(field, version_key, None)
+        """Get a value from a field, handling both version groups and plain values.
+
+        For version group objects, returns the first non-None value found.
+        For plain values, returns the value as-is.
+
+        Args:
+            field: A version group object or plain value
+
+        Returns:
+            The extracted value, or None if all version values are None
+        """
+        if hasattr(field, "keys"):
+            # Version group object - get first non-None version's value
+            for version_key in field.keys():
+                value = getattr(field, version_key, None)
+                if value is not None:
+                    return value
+            # If all values are None, return None
+            return None
         return field
 
     def _set_all_versions(self, field, value):
         """Set a value for all version groups in a field."""
-        if hasattr(field, "__slots__"):
+        if hasattr(field, "keys"):
             # Version group object - set all versions
-            for version_key in field.__slots__:
+            for version_key in field.keys():
                 setattr(field, version_key, value)
         # If not a version group object, can't set it here (handled by caller)
 

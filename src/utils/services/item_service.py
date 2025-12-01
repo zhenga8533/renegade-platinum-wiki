@@ -4,11 +4,14 @@ Service for updating item data.
 This service handles:
 1. Updating item costs
 2. Updating TM moves
+3. Copying new items from newer generations
 """
 
 from typing import Optional
 
-from src.utils.core.config import POKEDB_VERSION_GROUPS
+import orjson
+
+from src.utils.core.config import POKEDB_GENERATIONS, POKEDB_VERSION_GROUPS
 from src.utils.core.loader import PokeDBLoader
 from src.utils.core.logger import get_logger
 from src.utils.services.move_service import MoveService
@@ -47,6 +50,67 @@ class ItemService:
         logger.info(f"Updated {item_name} cost: ${old_cost} -> ${new_cost}")
 
         return True
+
+    @staticmethod
+    def copy_new_item(item_name: str) -> bool:
+        """Copy a new item from newer generation to parsed data folder.
+
+        Args:
+            item_name (str): Name of the item to copy
+
+        Returns:
+            bool: True if copied, False if skipped or error
+        """
+        # Normalize item name
+        item_id = name_to_id(item_name)
+
+        # Use PokeDBLoader to get paths
+        data_dir = PokeDBLoader.get_data_dir()
+        source_gen = POKEDB_GENERATIONS[-1]  # Use the latest generation as source
+        source_item_dir = data_dir.parent / source_gen / "item"
+        parsed_item_dir = PokeDBLoader.get_category_path("item")
+
+        # Construct file paths
+        source_path = source_item_dir / f"{item_id}.json"
+        dest_path = parsed_item_dir / f"{item_id}.json"
+
+        # Check if source exists
+        if not source_path.exists():
+            logger.warning(
+                f"Item '{item_name}' not found in {source_gen}: {source_path}"
+            )
+            return False
+
+        # Skip if destination already exists
+        if dest_path.exists():
+            logger.debug(f"Item '{item_name}' already exists in parsed data, skipping")
+            return True  # Return True since item exists
+
+        # Create destination directory if needed
+        parsed_item_dir.mkdir(parents=True, exist_ok=True)
+
+        # Load and save the item data
+        try:
+            # Load item data using orjson
+            with open(source_path, "rb") as f:
+                item_data = orjson.loads(f.read())
+
+            # Save to parsed folder using orjson
+            with open(dest_path, "wb") as f:
+                f.write(
+                    orjson.dumps(
+                        item_data,
+                        option=orjson.OPT_INDENT_2 | orjson.OPT_SORT_KEYS,
+                    )
+                )
+
+            logger.info(
+                f"Copied item '{item_name}' from {source_gen} to parsed"
+            )
+            return True
+        except (OSError, IOError, ValueError) as e:
+            logger.warning(f"Error copying item '{item_name}': {e}")
+            return False
 
     @staticmethod
     def update_tm_move(tm_name: str, new_move_name: str) -> bool:
@@ -98,7 +162,7 @@ class ItemService:
 
         # Update flavor_text for all version groups from the move's flavor text
         # Both move and TM flavor_text are GameVersionStringMap objects
-        if hasattr(move.flavor_text, "__slots__"):
+        if hasattr(move.flavor_text, "keys"):
             # It's a version group object
             for version_group in POKEDB_VERSION_GROUPS:
                 move_flavor = getattr(move.flavor_text, version_group, None)
