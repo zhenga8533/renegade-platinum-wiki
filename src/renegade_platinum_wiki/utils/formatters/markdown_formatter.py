@@ -7,10 +7,7 @@ like Pokemon displays with sprites and links.
 
 import re
 
-from renegade_platinum_wiki.utils.core.config import (
-    PARSER_DEX_RELATIVE_PATH,
-    POKEDB_SPRITE_VERSION,
-)
+from renegade_platinum_wiki.utils.core.config import PARSER_DEX_RELATIVE_PATH
 from renegade_platinum_wiki.utils.core.loader import PokeDBLoader
 from renegade_platinum_wiki.utils.data.constants import (
     TYPE_CATEGORY_COLORS,

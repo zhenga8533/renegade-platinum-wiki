@@ -7,13 +7,14 @@ layer (PokeDBLoader) and is therefore domain-aware rather than a pure utility.
 
 Import patterns:
 - Package-level imports for commonly used formatters:
-  from renegade_platinum_wiki.utils.formatters import create_table, format_type_badge
+  from bbvw2_wiki.utils.formatters import create_table, format_type_badge
 - Direct imports for specialized formatters:
-  from renegade_platinum_wiki.utils.formatters.yaml_formatter import update_pokedex_subsection
+  from bbvw2_wiki.utils.formatters.yaml_formatter import update_pokedex_subsection
 """
 
 from .markdown_formatter import (
     format_ability,
+    format_category_badge,
     format_checkbox,
     format_item,
     format_move,
@@ -32,6 +33,7 @@ from .yaml_formatter import (
 __all__ = [
     # Markdown formatters
     "format_ability",
+    "format_category_badge",
     "format_checkbox",
     "format_item",
     "format_move",
