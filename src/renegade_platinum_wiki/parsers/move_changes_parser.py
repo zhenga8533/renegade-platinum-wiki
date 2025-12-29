@@ -10,13 +10,11 @@ This parser:
 import re
 
 import orjson
-
-from renegade_platinum_wiki.utils.core.loader import PokeDBLoader
-from renegade_platinum_wiki.utils.data.models import Move
-from renegade_platinum_wiki.utils.formatters.markdown_formatter import format_move
-from renegade_platinum_wiki.utils.services.move_service import MoveService
-
-from .base_parser import BaseParser
+from rom_wiki_core.parsers.base_parser import BaseParser
+from rom_wiki_core.utils.core.loader import PokeDBLoader
+from rom_wiki_core.utils.data.models import Move
+from rom_wiki_core.utils.formatters.markdown_formatter import format_move
+from rom_wiki_core.utils.services.move_service import MoveService
 
 
 class MoveChangesParser(BaseParser):
@@ -122,10 +120,10 @@ class MoveChangesParser(BaseParser):
                     if hasattr(parsed_move.type, "keys"):
                         # Version group object - set all versions
                         self._set_all_versions(parsed_move.type, gen7_type)
-                    else:
-                        # Plain value - set directly
+                        updated = True
+                    elif gen7_type is not None:
                         parsed_move.type = gen7_type
-                    updated = True
+                        updated = True
 
                 # Save if updated
                 if updated:

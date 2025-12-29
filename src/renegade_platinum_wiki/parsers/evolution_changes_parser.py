@@ -9,17 +9,16 @@ This parser:
 
 import re
 
-from renegade_platinum_wiki.utils.core.loader import PokeDBLoader
-from renegade_platinum_wiki.utils.data.models import EvolutionDetails
-from renegade_platinum_wiki.utils.formatters.markdown_formatter import (
+from rom_wiki_core.parsers.base_parser import BaseParser
+from rom_wiki_core.utils.core.loader import PokeDBLoader
+from rom_wiki_core.utils.data.models import EvolutionDetails
+from rom_wiki_core.utils.formatters.markdown_formatter import (
     format_item,
     format_pokemon,
 )
-from renegade_platinum_wiki.utils.formatters.table_formatter import create_table_header
-from renegade_platinum_wiki.utils.services.evolution_service import EvolutionService
-from renegade_platinum_wiki.utils.text.text_util import name_to_id
-
-from .base_parser import BaseParser
+from rom_wiki_core.utils.formatters.table_formatter import create_table_header
+from rom_wiki_core.utils.services.evolution_service import EvolutionService
+from rom_wiki_core.utils.text.text_util import name_to_id
 
 
 class EvolutionChangesParser(BaseParser):

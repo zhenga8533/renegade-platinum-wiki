@@ -9,15 +9,14 @@ This parser:
 
 import re
 
-from renegade_platinum_wiki.utils.formatters.markdown_formatter import (
+from rom_wiki_core.parsers.base_parser import BaseParser
+from rom_wiki_core.utils.formatters.markdown_formatter import (
     format_checkbox,
     format_item,
     format_move,
 )
-from renegade_platinum_wiki.utils.formatters.table_formatter import create_table_header
-from renegade_platinum_wiki.utils.services.item_service import ItemService
-
-from .base_parser import BaseParser
+from rom_wiki_core.utils.formatters.table_formatter import create_table_header
+from rom_wiki_core.utils.services.item_service import ItemService
 
 
 class ItemChangesParser(BaseParser):

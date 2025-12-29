@@ -8,12 +8,11 @@ This parser:
 
 import re
 
-from renegade_platinum_wiki.utils.formatters.markdown_formatter import (
+from rom_wiki_core.parsers.base_parser import BaseParser
+from rom_wiki_core.utils.formatters.markdown_formatter import (
     format_pokemon,
     format_type_badge,
 )
-
-from .base_parser import BaseParser
 
 
 class TypeChangesParser(BaseParser):

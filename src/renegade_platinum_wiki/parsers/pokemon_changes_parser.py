@@ -10,11 +10,10 @@ This parser:
 import re
 
 import orjson
-
-from renegade_platinum_wiki.utils.core.config import VERSION_GROUP
-from renegade_platinum_wiki.utils.core.loader import PokeDBLoader
-from renegade_platinum_wiki.utils.data.models import Pokemon
-from renegade_platinum_wiki.utils.formatters.markdown_formatter import (
+from rom_wiki_core.parsers.base_parser import BaseParser
+from rom_wiki_core.utils.core.loader import PokeDBLoader
+from rom_wiki_core.utils.data.models import Pokemon
+from rom_wiki_core.utils.formatters.markdown_formatter import (
     format_ability,
     format_checkbox,
     format_item,
@@ -23,13 +22,9 @@ from renegade_platinum_wiki.utils.formatters.markdown_formatter import (
     format_pokemon_card_grid,
     format_type_badge,
 )
-from renegade_platinum_wiki.utils.services.attribute_service import AttributeService
-from renegade_platinum_wiki.utils.services.pokemon_item_service import (
-    PokemonItemService,
-)
-from renegade_platinum_wiki.utils.text.text_util import name_to_id
-
-from .base_parser import BaseParser
+from rom_wiki_core.utils.services.attribute_service import AttributeService
+from rom_wiki_core.utils.services.pokemon_item_service import PokemonItemService
+from rom_wiki_core.utils.text.text_util import name_to_id
 
 
 class PokemonChangesParser(BaseParser):
@@ -354,7 +349,7 @@ class PokemonChangesParser(BaseParser):
 
         # Load move data from PokeDB
         move_data = PokeDBLoader.load_move(move)
-        move_type = getattr(move_data.type, VERSION_GROUP, None) if move_data else None
+        move_type = getattr(move_data.type, self.config.version_group, None) if move_data else None
         move_type = move_type.title() if move_type else "Unknown"
         move_class = move_data.damage_class.title() if move_data else "Unknown"
 

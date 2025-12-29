@@ -10,16 +10,15 @@ This parser:
 import re
 from typing import Any, Dict, Optional
 
-from renegade_platinum_wiki.utils.core.loader import PokeDBLoader
-from renegade_platinum_wiki.utils.formatters.markdown_formatter import (
+from rom_wiki_core.parsers.location_parser import LocationParser
+from rom_wiki_core.utils.core.loader import PokeDBLoader
+from rom_wiki_core.utils.formatters.markdown_formatter import (
     format_ability,
     format_item,
     format_move,
     format_pokemon,
     format_type_badge,
 )
-
-from .location_parser import LocationParser
 
 
 class TrainerPokemonParser(LocationParser):
