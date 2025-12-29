@@ -25,7 +25,7 @@ CONFIG = WikiConfig(
     pokedb_repo_url="https://github.com/zhenga8533/pokedb",
     pokedb_branch="data",
     pokedb_data_dir=str(PROJECT_ROOT / "data" / "pokedb"),
-    pokedb_generations=["gen5", "gen8"],
+    pokedb_generations=["gen4", "gen7"],
     pokedb_version_groups=["platinum", "diamond_pearl", "heartgold_soulsilver"],
     pokedb_game_versions=["platinum", "diamond", "pearl", "heartgold", "soulsilver"],
     pokedb_sprite_version="heartgold_soulsilver",
@@ -67,7 +67,7 @@ CONFIG = WikiConfig(
             "module": "renegade_platinum_wiki.parsers.special_events_parser",
             "class": "SpecialEventsParser",
             "input_file": "Special Events.txt",
-            "output_dir": str(PROJECT_ROOT / "docs" / "changes"),
+            "output_dir": str(PROJECT_ROOT / "docs" / "reference"),
         },
         "trade_changes": {
             "module": "renegade_platinum_wiki.parsers.trade_changes_parser",
@@ -79,7 +79,7 @@ CONFIG = WikiConfig(
             "module": "renegade_platinum_wiki.parsers.trainer_pokemon_parser",
             "class": "TrainerPokemonParser",
             "input_file": "Trainer Pokemon.txt",
-            "output_dir": str(PROJECT_ROOT / "docs" / "changes"),
+            "output_dir": str(PROJECT_ROOT / "docs" / "reference"),
         },
         "type_changes": {
             "module": "renegade_platinum_wiki.parsers.type_changes_parser",
@@ -91,7 +91,7 @@ CONFIG = WikiConfig(
             "module": "renegade_platinum_wiki.parsers.wild_pokemon_parser",
             "class": "WildPokemonParser",
             "input_file": "Wild Pokemon.txt",
-            "output_dir": str(PROJECT_ROOT / "docs" / "changes"),
+            "output_dir": str(PROJECT_ROOT / "docs" / "reference"),
         },
     },
     # Parser configuration

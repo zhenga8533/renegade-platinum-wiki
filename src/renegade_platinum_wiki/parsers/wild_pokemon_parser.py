@@ -46,7 +46,6 @@ class WildPokemonParser(LocationParser):
             "Day": "Walking",
             "Night": "Walking",
             "Poké Radar": "Walking",
-            "Surf": "Surfing",
         }
 
         # Area Changes States
@@ -71,7 +70,7 @@ class WildPokemonParser(LocationParser):
         """
         next_line = self.peek_line(1) or ""
 
-        if next_line.startswith("Levels:"):
+        if next_line.startswith("Level"):
             # Initialize location data for JSON generation
             location_raw = line
 
@@ -115,7 +114,7 @@ class WildPokemonParser(LocationParser):
                 self._markdown += f"### {line}\n\n"
 
             self._levels = {}  # Reset levels for new location/sublocation
-        elif line.startswith("Levels:"):
+        elif line.startswith("Level"):
             levels = line.split(": ")
             if len(levels) < 2:
                 self.logger.warning(f"Could not parse levels from line: '{next_line}'")

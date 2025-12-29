@@ -359,7 +359,7 @@ class TrainerPokemonParser(LocationParser):
                 ability_md = format_ability(p["ability"])
 
                 lines.append(
-                    f"| {pokemon_md} | **Level:** Lv. {p['level']}<br>**Item:**{item_md}<br>**Nature:** {p['nature']}<br>**Ability:** {ability_md}| {moves_md} |"
+                    f"| {pokemon_md} | **Level:** Lv. {p['level']}<br>**Item:** {item_md}<br>**Nature:** {p['nature']}<br>**Ability:** {ability_md}| {moves_md} |"
                 )
             return "\n".join(lines)
 

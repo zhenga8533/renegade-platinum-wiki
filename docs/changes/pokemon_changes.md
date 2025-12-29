@@ -187,7 +187,7 @@ Each Pokémon is listed under its own section header below.
 | 5 | [Ember](../pokedex/moves/ember.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
 | 8 | [Smokescreen](../pokedex/moves/smokescreen.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 11 | [Metal Claw](../pokedex/moves/metal-claw.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> | Physical | <input type="checkbox" disabled /> |
-| 14 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 14 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 17 | [Dragon Rage](../pokedex/moves/dragon-rage.md) | <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | Special | <input type="checkbox" disabled /> |
 | 20 | [Fire Fang](../pokedex/moves/fire-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Physical | <input type="checkbox" disabled /> |
 | 23 | [Slash](../pokedex/moves/slash.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -226,7 +226,7 @@ Each Pokémon is listed under its own section header below.
 | 5 | [Ember](../pokedex/moves/ember.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
 | 8 | [Smokescreen](../pokedex/moves/smokescreen.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 11 | [Metal Claw](../pokedex/moves/metal-claw.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> | Physical | <input type="checkbox" disabled /> |
-| 14 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 14 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Dragon Breath](../pokedex/moves/dragon-breath.md) | <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | Special | <input type="checkbox" disabled /> |
 | 18 | [Dragon Rage](../pokedex/moves/dragon-rage.md) | <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | Special | <input type="checkbox" disabled /> |
 | 22 | [Fire Fang](../pokedex/moves/fire-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Physical | <input type="checkbox" disabled /> |
@@ -276,7 +276,7 @@ Each Pokémon is listed under its own section header below.
 | 5 | [Ember](../pokedex/moves/ember.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
 | 8 | [Smokescreen](../pokedex/moves/smokescreen.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 11 | [Metal Claw](../pokedex/moves/metal-claw.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> | Physical | <input type="checkbox" disabled /> |
-| 14 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 14 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Dragon Breath](../pokedex/moves/dragon-breath.md) | <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | Special | <input type="checkbox" disabled /> |
 | 18 | [Dragon Rage](../pokedex/moves/dragon-rage.md) | <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | Special | <input type="checkbox" disabled /> |
 | 22 | [Fire Fang](../pokedex/moves/fire-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Physical | <input type="checkbox" disabled /> |
@@ -313,7 +313,7 @@ Each Pokémon is listed under its own section header below.
 | 5 | [Water Gun](../pokedex/moves/water-gun.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 8 | [Withdraw](../pokedex/moves/withdraw.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Status | <input type="checkbox" disabled /> |
 | 11 | [Bubble](../pokedex/moves/bubble.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
-| 14 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 14 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 17 | [Rapid Spin](../pokedex/moves/rapid-spin.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 20 | [Water Pulse](../pokedex/moves/water-pulse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 23 | [Protect](../pokedex/moves/protect.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -348,7 +348,7 @@ Each Pokémon is listed under its own section header below.
 | 5 | [Water Gun](../pokedex/moves/water-gun.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 8 | [Withdraw](../pokedex/moves/withdraw.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Status | <input type="checkbox" disabled /> |
 | 11 | [Bubble](../pokedex/moves/bubble.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
-| 14 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 14 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Yawn](../pokedex/moves/yawn.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 18 | [Rapid Spin](../pokedex/moves/rapid-spin.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 22 | [Water Pulse](../pokedex/moves/water-pulse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
@@ -396,7 +396,7 @@ Each Pokémon is listed under its own section header below.
 | 5 | [Water Gun](../pokedex/moves/water-gun.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 8 | [Withdraw](../pokedex/moves/withdraw.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Status | <input type="checkbox" disabled /> |
 | 11 | [Bubble](../pokedex/moves/bubble.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
-| 14 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 14 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Yawn](../pokedex/moves/yawn.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 18 | [Rapid Spin](../pokedex/moves/rapid-spin.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 22 | [Water Pulse](../pokedex/moves/water-pulse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
@@ -481,7 +481,7 @@ Each Pokémon is listed under its own section header below.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Confusion](../pokedex/moves/confusion.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
-| 10 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
+| 10 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 11 | [Confusion](../pokedex/moves/confusion.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
 | 13 | [Poison Powder](../pokedex/moves/poison-powder.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Stun Spore](../pokedex/moves/stun-spore.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Status | <input type="checkbox" disabled /> |
@@ -614,8 +614,8 @@ Each Pokémon is listed under its own section header below.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 6 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 9 | [Wing Attack](../pokedex/moves/wing-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Physical | <input type="checkbox" disabled /> |
 | 12 | [Swift](../pokedex/moves/swift.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
@@ -655,8 +655,8 @@ Each Pokémon is listed under its own section header below.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 6 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 9 | [Wing Attack](../pokedex/moves/wing-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Physical | <input type="checkbox" disabled /> |
 | 12 | [Swift](../pokedex/moves/swift.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
@@ -702,8 +702,8 @@ Each Pokémon is listed under its own section header below.
 | 1 | [Heat Wave](../pokedex/moves/heat-wave.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Ominous Wind](../pokedex/moves/ominous-wind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 6 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 9 | [Wing Attack](../pokedex/moves/wing-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Physical | <input type="checkbox" disabled /> |
 | 12 | [Swift](../pokedex/moves/swift.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
@@ -740,7 +740,7 @@ Each Pokémon is listed under its own section header below.
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Tail Whip](../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Focus Energy](../pokedex/moves/focus-energy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Pursuit](../pokedex/moves/pursuit.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Hyper Fang](../pokedex/moves/hyper-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -779,7 +779,7 @@ Each Pokémon is listed under its own section header below.
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Tail Whip](../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Focus Energy](../pokedex/moves/focus-energy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Pursuit](../pokedex/moves/pursuit.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Hyper Fang](../pokedex/moves/hyper-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -896,7 +896,7 @@ Each Pokémon is listed under its own section header below.
 | 1 | [Wrap](../pokedex/moves/wrap.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 4 | [Poison Sting](../pokedex/moves/poison-sting.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled /> |
-| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Acid](../pokedex/moves/acid.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Special | <input type="checkbox" disabled /> |
 | 13 | [Glare](../pokedex/moves/glare.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 16 | [Poison Fang](../pokedex/moves/poison-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled /> |
@@ -935,7 +935,7 @@ Each Pokémon is listed under its own section header below.
 | 1 | [Wrap](../pokedex/moves/wrap.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 4 | [Poison Sting](../pokedex/moves/poison-sting.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled /> |
-| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Acid](../pokedex/moves/acid.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Special | <input type="checkbox" disabled /> |
 | 13 | [Glare](../pokedex/moves/glare.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 16 | [Poison Fang](../pokedex/moves/poison-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled /> |
@@ -1041,7 +1041,7 @@ Each Pokémon is listed under its own section header below.
 |:------|:-----|:-----|:------|:------|
 | 1 | [Scratch](../pokedex/moves/scratch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Defense Curl](../pokedex/moves/defense-curl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Poison Sting](../pokedex/moves/poison-sting.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled /> |
 | 7 | [Rollout](../pokedex/moves/rollout.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Physical | <input type="checkbox" disabled /> |
 | 9 | [Bulldoze](../pokedex/moves/bulldoze.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Physical | <input type="checkbox" disabled /> |
@@ -1076,7 +1076,7 @@ Each Pokémon is listed under its own section header below.
 |:------|:-----|:-----|:------|:------|
 | 1 | [Scratch](../pokedex/moves/scratch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Defense Curl](../pokedex/moves/defense-curl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Poison Sting](../pokedex/moves/poison-sting.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled /> |
 | 7 | [Rollout](../pokedex/moves/rollout.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Physical | <input type="checkbox" disabled /> |
 | 9 | [Bulldoze](../pokedex/moves/bulldoze.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Physical | <input type="checkbox" disabled /> |
@@ -1117,7 +1117,7 @@ Each Pokémon is listed under its own section header below.
 | 6 | [Fury Swipes](../pokedex/moves/fury-swipes.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 9 | [Double Kick](../pokedex/moves/double-kick.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 12 | [Poison Fang](../pokedex/moves/poison-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled /> |
-| 15 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 15 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 18 | [Helping Hand](../pokedex/moves/helping-hand.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 21 | [Toxic Spikes](../pokedex/moves/toxic-spikes.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Status | <input type="checkbox" disabled /> |
 | 24 | [Poison Jab](../pokedex/moves/poison-jab.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled /> |
@@ -1148,7 +1148,7 @@ Each Pokémon is listed under its own section header below.
 | 6 | [Fury Swipes](../pokedex/moves/fury-swipes.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 9 | [Double Kick](../pokedex/moves/double-kick.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 12 | [Poison Fang](../pokedex/moves/poison-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled /> |
-| 15 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 15 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 19 | [Helping Hand](../pokedex/moves/helping-hand.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 23 | [Toxic Spikes](../pokedex/moves/toxic-spikes.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Status | <input type="checkbox" disabled /> |
 | 27 | [Poison Jab](../pokedex/moves/poison-jab.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled /> |
@@ -1300,7 +1300,7 @@ Each Pokémon is listed under its own section header below.
 | 25 | [Cosmic Power](../pokedex/moves/cosmic-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 27 | [Lucky Chant](../pokedex/moves/lucky-chant.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 29 | [Moonblast](../pokedex/moves/moonblast.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Special | <input type="checkbox" disabled /> |
-| 31 | [Moonlight](../pokedex/moves/moonlight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 31 | [Moonlight](../pokedex/moves/moonlight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 33 | [Wish](../pokedex/moves/wish.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 35 | [Meteor Mash](../pokedex/moves/meteor-mash.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> | Physical | <input type="checkbox" disabled /> |
 | 37 | [Gravity](../pokedex/moves/gravity.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
@@ -1500,7 +1500,7 @@ Each Pokémon is listed under its own section header below.
 | 1 | [Absorb](../pokedex/moves/absorb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Supersonic](../pokedex/moves/supersonic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Astonish](../pokedex/moves/astonish.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Physical | <input type="checkbox" disabled /> |
-| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Wing Attack](../pokedex/moves/wing-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Poison Fang](../pokedex/moves/poison-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled /> |
 | 15 | [Confuse Ray](../pokedex/moves/confuse-ray.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
@@ -1537,7 +1537,7 @@ Each Pokémon is listed under its own section header below.
 | 1 | [Absorb](../pokedex/moves/absorb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Supersonic](../pokedex/moves/supersonic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Astonish](../pokedex/moves/astonish.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Physical | <input type="checkbox" disabled /> |
-| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Wing Attack](../pokedex/moves/wing-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Poison Fang](../pokedex/moves/poison-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled /> |
 | 15 | [Confuse Ray](../pokedex/moves/confuse-ray.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
@@ -1581,7 +1581,7 @@ Each Pokémon is listed under its own section header below.
 | 13 | [Mega Drain](../pokedex/moves/mega-drain.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 16 | [Lucky Chant](../pokedex/moves/lucky-chant.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 19 | [Sludge](../pokedex/moves/sludge.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Special | <input type="checkbox" disabled checked /> |
-| 22 | [Moonlight](../pokedex/moves/moonlight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 22 | [Moonlight](../pokedex/moves/moonlight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 25 | [Giga Drain](../pokedex/moves/giga-drain.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 28 | [Toxic](../pokedex/moves/toxic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Status | <input type="checkbox" disabled /> |
 | 31 | [Moonblast](../pokedex/moves/moonblast.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Special | <input type="checkbox" disabled /> |
@@ -1617,7 +1617,7 @@ Each Pokémon is listed under its own section header below.
 | 13 | [Mega Drain](../pokedex/moves/mega-drain.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 16 | [Lucky Chant](../pokedex/moves/lucky-chant.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 19 | [Sludge](../pokedex/moves/sludge.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Special | <input type="checkbox" disabled checked /> |
-| 23 | [Moonlight](../pokedex/moves/moonlight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 23 | [Moonlight](../pokedex/moves/moonlight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 27 | [Giga Drain](../pokedex/moves/giga-drain.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 31 | [Toxic](../pokedex/moves/toxic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Status | <input type="checkbox" disabled /> |
 | 35 | [Moonblast](../pokedex/moves/moonblast.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Special | <input type="checkbox" disabled /> |
@@ -1812,7 +1812,7 @@ Each Pokémon is listed under its own section header below.
 | 24 | [Leech Life](../pokedex/moves/leech-life.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Physical | <input type="checkbox" disabled /> |
 | 27 | [Zen Headbutt](../pokedex/moves/zen-headbutt.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Physical | <input type="checkbox" disabled /> |
 | 30 | [Signal Beam](../pokedex/moves/signal-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Special | <input type="checkbox" disabled /> |
-| 31 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
+| 31 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 34 | [Baton Pass](../pokedex/moves/baton-pass.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 38 | [Psychic](../pokedex/moves/psychic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
 | 42 | [Morning Sun](../pokedex/moves/morning-sun.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -1832,7 +1832,7 @@ Each Pokémon is listed under its own section header below.
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Scratch](../pokedex/moves/scratch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Mud Slap](../pokedex/moves/mud-slap.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Special | <input type="checkbox" disabled /> |
 | 4 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -1864,7 +1864,7 @@ Each Pokémon is listed under its own section header below.
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Scratch](../pokedex/moves/scratch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Mud Slap](../pokedex/moves/mud-slap.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Special | <input type="checkbox" disabled /> |
 | 4 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -1905,7 +1905,7 @@ Each Pokémon is listed under its own section header below.
 | 1 | [Scratch](../pokedex/moves/scratch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Assist](../pokedex/moves/assist.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 6 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 6 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 9 | [Fake Out](../pokedex/moves/fake-out.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 12 | [Fury Swipes](../pokedex/moves/fury-swipes.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 15 | [Screech](../pokedex/moves/screech.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -1946,7 +1946,7 @@ Each Pokémon is listed under its own section header below.
 | 1 | [Scratch](../pokedex/moves/scratch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Assist](../pokedex/moves/assist.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 6 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 6 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 9 | [Fake Out](../pokedex/moves/fake-out.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 12 | [Fury Swipes](../pokedex/moves/fury-swipes.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 15 | [Screech](../pokedex/moves/screech.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -2056,7 +2056,7 @@ Each Pokémon is listed under its own section header below.
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Focus Energy](../pokedex/moves/focus-energy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 5 | [Fury Swipes](../pokedex/moves/fury-swipes.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 8 | [Karate Chop](../pokedex/moves/karate-chop.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 8 | [Karate Chop](../pokedex/moves/karate-chop.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 11 | [Covet](../pokedex/moves/covet.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 14 | [Pursuit](../pokedex/moves/pursuit.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 17 | [Seismic Toss](../pokedex/moves/seismic-toss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
@@ -2091,7 +2091,7 @@ Each Pokémon is listed under its own section header below.
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Focus Energy](../pokedex/moves/focus-energy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 5 | [Fury Swipes](../pokedex/moves/fury-swipes.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 8 | [Karate Chop](../pokedex/moves/karate-chop.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 8 | [Karate Chop](../pokedex/moves/karate-chop.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 11 | [Fling](../pokedex/moves/fling.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 14 | [Pursuit](../pokedex/moves/pursuit.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 17 | [Seismic Toss](../pokedex/moves/seismic-toss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
@@ -2122,7 +2122,7 @@ Each Pokémon is listed under its own section header below.
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Roar](../pokedex/moves/roar.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Howl](../pokedex/moves/howl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -2158,7 +2158,7 @@ Each Pokémon is listed under its own section header below.
 | 1 | [Morning Sun](../pokedex/moves/morning-sun.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Thunder Fang](../pokedex/moves/thunder-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Play Rough](../pokedex/moves/play-rough.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Roar](../pokedex/moves/roar.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Odor Sleuth](../pokedex/moves/odor-sleuth.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Fire Fang](../pokedex/moves/fire-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Physical | <input type="checkbox" disabled /> |
@@ -2374,7 +2374,7 @@ Each Pokémon is listed under its own section header below.
 | 1 | [Low Kick](../pokedex/moves/low-kick.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Focus Energy](../pokedex/moves/focus-energy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 7 | [Karate Chop](../pokedex/moves/karate-chop.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 7 | [Karate Chop](../pokedex/moves/karate-chop.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Foresight](../pokedex/moves/foresight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Brick Break](../pokedex/moves/brick-break.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 15 | [Seismic Toss](../pokedex/moves/seismic-toss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
@@ -2412,7 +2412,7 @@ Each Pokémon is listed under its own section header below.
 | 1 | [Low Kick](../pokedex/moves/low-kick.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Focus Energy](../pokedex/moves/focus-energy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 7 | [Karate Chop](../pokedex/moves/karate-chop.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 7 | [Karate Chop](../pokedex/moves/karate-chop.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Foresight](../pokedex/moves/foresight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Brick Break](../pokedex/moves/brick-break.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 15 | [Seismic Toss](../pokedex/moves/seismic-toss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
@@ -2448,7 +2448,7 @@ Each Pokémon is listed under its own section header below.
 | 1 | [Low Kick](../pokedex/moves/low-kick.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Focus Energy](../pokedex/moves/focus-energy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 7 | [Karate Chop](../pokedex/moves/karate-chop.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 7 | [Karate Chop](../pokedex/moves/karate-chop.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Foresight](../pokedex/moves/foresight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Brick Break](../pokedex/moves/brick-break.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 15 | [Seismic Toss](../pokedex/moves/seismic-toss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
@@ -2839,7 +2839,7 @@ Now evolves into Slowbro at Level 33.
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
-| 1 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Yawn](../pokedex/moves/yawn.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 4 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -2876,7 +2876,7 @@ Now evolves into Slowbro at Level 33.
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
-| 1 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Yawn](../pokedex/moves/yawn.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 4 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -3008,7 +3008,7 @@ Now evolves into Slowbro at Level 33.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Peck](../pokedex/moves/peck.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Fury Cutter](../pokedex/moves/fury-cutter.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Physical | <input type="checkbox" disabled /> |
 | 7 | [Fury Attack](../pokedex/moves/fury-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -3199,7 +3199,7 @@ Now evolves into Muk at Level 35.
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
-| 1 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Pound](../pokedex/moves/pound.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Poison Gas](../pokedex/moves/poison-gas.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Status | <input type="checkbox" disabled /> |
 | 4 | [Harden](../pokedex/moves/harden.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -3234,7 +3234,7 @@ Now evolves into Muk at Level 35.
 |:------|:-----|:-----|:------|:------|
 | 1 | [Moonblast](../pokedex/moves/moonblast.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Haze](../pokedex/moves/haze.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Pound](../pokedex/moves/pound.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Poison Gas](../pokedex/moves/poison-gas.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Status | <input type="checkbox" disabled /> |
 | 4 | [Harden](../pokedex/moves/harden.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -3349,7 +3349,7 @@ Now evolves into Muk at Level 35.
 | 10 | [Smog](../pokedex/moves/smog.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Special | <input type="checkbox" disabled /> |
 | 13 | [Confuse Ray](../pokedex/moves/confuse-ray.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 16 | [Ominous Wind](../pokedex/moves/ominous-wind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Special | <input type="checkbox" disabled /> |
-| 19 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 19 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 22 | [Sucker Punch](../pokedex/moves/sucker-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 25 | [Shadow Ball](../pokedex/moves/shadow-ball.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Special | <input type="checkbox" disabled /> |
 | 28 | [Payback](../pokedex/moves/payback.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
@@ -3386,7 +3386,7 @@ Now evolves into Muk at Level 35.
 | 10 | [Smog](../pokedex/moves/smog.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Special | <input type="checkbox" disabled /> |
 | 13 | [Confuse Ray](../pokedex/moves/confuse-ray.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 16 | [Ominous Wind](../pokedex/moves/ominous-wind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Special | <input type="checkbox" disabled /> |
-| 19 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 19 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 22 | [Sucker Punch](../pokedex/moves/sucker-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 25 | [Shadow Punch](../pokedex/moves/shadow-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Physical | <input type="checkbox" disabled /> |
 | 26 | [Shadow Ball](../pokedex/moves/shadow-ball.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Special | <input type="checkbox" disabled /> |
@@ -3420,7 +3420,7 @@ Now evolves into Muk at Level 35.
 | 10 | [Smog](../pokedex/moves/smog.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Special | <input type="checkbox" disabled /> |
 | 13 | [Confuse Ray](../pokedex/moves/confuse-ray.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 16 | [Ominous Wind](../pokedex/moves/ominous-wind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Special | <input type="checkbox" disabled /> |
-| 19 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 19 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 22 | [Sucker Punch](../pokedex/moves/sucker-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 25 | [Shadow Punch](../pokedex/moves/shadow-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Physical | <input type="checkbox" disabled /> |
 | 26 | [Shadow Ball](../pokedex/moves/shadow-ball.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Special | <input type="checkbox" disabled /> |
@@ -3458,7 +3458,7 @@ Now evolves into Muk at Level 35.
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Harden](../pokedex/moves/harden.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Bind](../pokedex/moves/bind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 4 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 4 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Rock Throw](../pokedex/moves/rock-throw.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Bulldoze](../pokedex/moves/bulldoze.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Rock Tomb](../pokedex/moves/rock-tomb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Physical | <input type="checkbox" disabled /> |
@@ -4176,7 +4176,7 @@ Now evolves into Rhydon at Level 36.
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Fake Out](../pokedex/moves/fake-out.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 7 | [Tail Whip](../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 10 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 10 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Double Hit](../pokedex/moves/double-hit.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Rage](../pokedex/moves/rage.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 19 | [Focus Energy](../pokedex/moves/focus-energy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -4718,7 +4718,7 @@ Now evolves into Rhydon at Level 36.
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Bind](../pokedex/moves/bind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Rage](../pokedex/moves/rage.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 20 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 20 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 23 | [Dragon Rage](../pokedex/moves/dragon-rage.md) | <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | Special | <input type="checkbox" disabled /> |
 | 26 | [Ice Fang](../pokedex/moves/ice-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Physical | <input type="checkbox" disabled /> |
 | 29 | [Aqua Tail](../pokedex/moves/aqua-tail.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Physical | <input type="checkbox" disabled /> |
@@ -4812,9 +4812,9 @@ Now only evolves into Glaceon with the Ice Stone.
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Tail Whip](../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Covet](../pokedex/moves/covet.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 7 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 7 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Baton Pass](../pokedex/moves/baton-pass.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 16 | [Swift](../pokedex/moves/swift.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
@@ -4822,7 +4822,7 @@ Now only evolves into Glaceon with the Ice Stone.
 | 22 | [Wish](../pokedex/moves/wish.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 25 | [Take Down](../pokedex/moves/take-down.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 28 | [Fake Tears](../pokedex/moves/fake-tears.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Status | <input type="checkbox" disabled /> |
-| 31 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 31 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 34 | [Double Edge](../pokedex/moves/double-edge.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 37 | [Heal Bell](../pokedex/moves/heal-bell.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 40 | [Last Resort](../pokedex/moves/last-resort.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -4850,9 +4850,9 @@ Now only evolves into Glaceon with the Ice Stone.
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Tail Whip](../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Water Gun](../pokedex/moves/water-gun.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
-| 7 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 7 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Haze](../pokedex/moves/haze.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Status | <input type="checkbox" disabled /> |
 | 16 | [Water Pulse](../pokedex/moves/water-pulse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
@@ -4888,9 +4888,9 @@ Now only evolves into Glaceon with the Ice Stone.
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Tail Whip](../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Thunder Shock](../pokedex/moves/thunder-shock.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Special | <input type="checkbox" disabled /> |
-| 7 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 7 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Thunder Wave](../pokedex/moves/thunder-wave.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Status | <input type="checkbox" disabled /> |
 | 16 | [Shock Wave](../pokedex/moves/shock-wave.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Special | <input type="checkbox" disabled /> |
@@ -4932,9 +4932,9 @@ Now only evolves into Glaceon with the Ice Stone.
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Tail Whip](../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Ember](../pokedex/moves/ember.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
-| 7 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 7 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Smog](../pokedex/moves/smog.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Special | <input type="checkbox" disabled /> |
 | 16 | [Fire Fang](../pokedex/moves/fire-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Physical | <input type="checkbox" disabled /> |
@@ -5008,7 +5008,7 @@ Now evolves into Omastar at Level 30.
 | 1 | [Water Gun](../pokedex/moves/water-gun.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 4 | [Withdraw](../pokedex/moves/withdraw.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 10 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 10 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Rollout](../pokedex/moves/rollout.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Mud Shot](../pokedex/moves/mud-shot.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Special | <input type="checkbox" disabled /> |
 | 19 | [Aurora Beam](../pokedex/moves/aurora-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Special | <input type="checkbox" disabled /> |
@@ -5042,7 +5042,7 @@ Now evolves into Omastar at Level 30.
 | 1 | [Water Gun](../pokedex/moves/water-gun.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 4 | [Withdraw](../pokedex/moves/withdraw.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 10 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 10 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Rollout](../pokedex/moves/rollout.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Mud Shot](../pokedex/moves/mud-shot.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Special | <input type="checkbox" disabled /> |
 | 19 | [Aurora Beam](../pokedex/moves/aurora-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Special | <input type="checkbox" disabled /> |
@@ -5084,7 +5084,7 @@ Now evolves into Kabutops at Level 30.
 | 13 | [Rollout](../pokedex/moves/rollout.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Mud Shot](../pokedex/moves/mud-shot.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Special | <input type="checkbox" disabled /> |
 | 19 | [Rock Slide](../pokedex/moves/rock-slide.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Physical | <input type="checkbox" disabled /> |
-| 22 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 22 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 25 | [Ancient Power](../pokedex/moves/ancient-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Special | <input type="checkbox" disabled /> |
 | 28 | [Endure](../pokedex/moves/endure.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 31 | [Waterfall](../pokedex/moves/waterfall.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Physical | <input type="checkbox" disabled /> |
@@ -5117,7 +5117,7 @@ Now evolves into Kabutops at Level 30.
 | 13 | [Rollout](../pokedex/moves/rollout.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Mud Shot](../pokedex/moves/mud-shot.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Special | <input type="checkbox" disabled /> |
 | 19 | [Rock Slide](../pokedex/moves/rock-slide.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Physical | <input type="checkbox" disabled /> |
-| 22 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 22 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 25 | [Ancient Power](../pokedex/moves/ancient-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Special | <input type="checkbox" disabled /> |
 | 28 | [Endure](../pokedex/moves/endure.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 30 | [Slash](../pokedex/moves/slash.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -5152,7 +5152,7 @@ Now evolves into Kabutops at Level 30.
 | 1 | [Fire Fang](../pokedex/moves/fire-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Thunder Fang](../pokedex/moves/thunder-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Supersonic](../pokedex/moves/supersonic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Scary Face](../pokedex/moves/scary-face.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 9 | [Roar](../pokedex/moves/roar.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Agility](../pokedex/moves/agility.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
@@ -5231,7 +5231,7 @@ Now evolves into Kabutops at Level 30.
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
-| 1 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
+| 1 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Powder Snow](../pokedex/moves/powder-snow.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Mist](../pokedex/moves/mist.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Ice Shard](../pokedex/moves/ice-shard.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Physical | <input type="checkbox" disabled /> |
@@ -5794,7 +5794,7 @@ Now evolves into Kabutops at Level 30.
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 5 | [Water Gun](../pokedex/moves/water-gun.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 8 | [Rage](../pokedex/moves/rage.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 11 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 11 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 14 | [Scary Face](../pokedex/moves/scary-face.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 17 | [Ice Fang](../pokedex/moves/ice-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Physical | <input type="checkbox" disabled /> |
 | 20 | [Flail](../pokedex/moves/flail.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -5834,7 +5834,7 @@ Now evolves into Kabutops at Level 30.
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 5 | [Water Gun](../pokedex/moves/water-gun.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 8 | [Rage](../pokedex/moves/rage.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 11 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 11 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 14 | [Scary Face](../pokedex/moves/scary-face.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 17 | [Ice Fang](../pokedex/moves/ice-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Physical | <input type="checkbox" disabled /> |
 | 18 | [Aqua Jet](../pokedex/moves/aqua-jet.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Physical | <input type="checkbox" disabled /> |
@@ -5877,7 +5877,7 @@ Now evolves into Kabutops at Level 30.
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 5 | [Water Gun](../pokedex/moves/water-gun.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 8 | [Rage](../pokedex/moves/rage.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 11 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 11 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 14 | [Scary Face](../pokedex/moves/scary-face.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 17 | [Ice Fang](../pokedex/moves/ice-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Physical | <input type="checkbox" disabled /> |
 | 18 | [Aqua Jet](../pokedex/moves/aqua-jet.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Physical | <input type="checkbox" disabled /> |
@@ -6262,7 +6262,7 @@ Now evolves into Kabutops at Level 30.
 | 1 | [Absorb](../pokedex/moves/absorb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Supersonic](../pokedex/moves/supersonic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Astonish](../pokedex/moves/astonish.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Physical | <input type="checkbox" disabled /> |
-| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Wing Attack](../pokedex/moves/wing-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Poison Fang](../pokedex/moves/poison-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled /> |
 | 15 | [Confuse Ray](../pokedex/moves/confuse-ray.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
@@ -6379,8 +6379,8 @@ Now evolves into Kabutops at Level 30.
 | 1 | [Thunder Shock](../pokedex/moves/thunder-shock.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Tail Whip](../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Disarming Voice](../pokedex/moves/disarming-voice.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Special | <input type="checkbox" disabled /> |
-| 4 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 7 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 4 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
+| 7 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 11 | [Thunder Wave](../pokedex/moves/thunder-wave.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Nasty Plot](../pokedex/moves/nasty-plot.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Status | <input type="checkbox" disabled /> |
 | 15 | [Disarming Voice](../pokedex/moves/disarming-voice.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Special | <input type="checkbox" disabled /> |
@@ -6404,9 +6404,9 @@ Now evolves into Kabutops at Level 30.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Pound](../pokedex/moves/pound.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Disarming Voice](../pokedex/moves/disarming-voice.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Special | <input type="checkbox" disabled checked /> |
-| 1 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 4 | [Encore](../pokedex/moves/encore.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Sing](../pokedex/moves/sing.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 11 | [Copycat](../pokedex/moves/copycat.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -6436,11 +6436,11 @@ Now evolves into Kabutops at Level 30.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Sing](../pokedex/moves/sing.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Disarming Voice](../pokedex/moves/disarming-voice.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Special | <input type="checkbox" disabled checked /> |
 | 1 | [Defense Curl](../pokedex/moves/defense-curl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 4 | [Pound](../pokedex/moves/pound.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 7 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 7 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 11 | [Copycat](../pokedex/moves/copycat.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 15 | [Draining Kiss](../pokedex/moves/draining-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Special | <input type="checkbox" disabled checked /> |
 
@@ -6467,11 +6467,11 @@ Now evolves into Kabutops at Level 30.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Extrasensory](../pokedex/moves/extrasensory.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Disarming Voice](../pokedex/moves/disarming-voice.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Special | <input type="checkbox" disabled checked /> |
 | 5 | [Metronome](../pokedex/moves/metronome.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 8 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 8 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 11 | [Yawn](../pokedex/moves/yawn.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Encore](../pokedex/moves/encore.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 15 | [Draining Kiss](../pokedex/moves/draining-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Special | <input type="checkbox" disabled checked /> |
@@ -6510,11 +6510,11 @@ Now evolves into Kabutops at Level 30.
 |:------|:-----|:-----|:------|:------|
 | 1 | [Magical Leaf](../pokedex/moves/magical-leaf.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Extrasensory](../pokedex/moves/extrasensory.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Disarming Voice](../pokedex/moves/disarming-voice.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Special | <input type="checkbox" disabled checked /> |
 | 5 | [Metronome](../pokedex/moves/metronome.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 8 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 8 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 11 | [Yawn](../pokedex/moves/yawn.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Encore](../pokedex/moves/encore.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 15 | [Draining Kiss](../pokedex/moves/draining-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Special | <input type="checkbox" disabled checked /> |
@@ -7039,7 +7039,7 @@ Now evolves into Kabutops at Level 30.
 |:------|:-----|:-----|:------|:------|
 | 1 | [Scratch](../pokedex/moves/scratch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Tail Whip](../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 5 | [Astonish](../pokedex/moves/astonish.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Physical | <input type="checkbox" disabled /> |
 | 8 | [Tickle](../pokedex/moves/tickle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 11 | [Baton Pass](../pokedex/moves/baton-pass.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -7198,7 +7198,7 @@ Now evolves into Kabutops at Level 30.
 | 10 | [Slam](../pokedex/moves/slam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Double Kick](../pokedex/moves/double-kick.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 15 | [Mud Bomb](../pokedex/moves/mud-bomb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Special | <input type="checkbox" disabled /> |
-| 17 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 17 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 19 | [Amnesia](../pokedex/moves/amnesia.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 22 | [Aqua Tail](../pokedex/moves/aqua-tail.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Physical | <input type="checkbox" disabled /> |
 | 25 | [Yawn](../pokedex/moves/yawn.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -7238,7 +7238,7 @@ Now evolves into Kabutops at Level 30.
 | 10 | [Slam](../pokedex/moves/slam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Double Kick](../pokedex/moves/double-kick.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 15 | [Mud Bomb](../pokedex/moves/mud-bomb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Special | <input type="checkbox" disabled /> |
-| 17 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 17 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 19 | [Amnesia](../pokedex/moves/amnesia.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 23 | [Aqua Tail](../pokedex/moves/aqua-tail.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Physical | <input type="checkbox" disabled /> |
 | 27 | [Yawn](../pokedex/moves/yawn.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -7269,9 +7269,9 @@ Now evolves into Kabutops at Level 30.
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Tail Whip](../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Confusion](../pokedex/moves/confusion.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
-| 7 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 7 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Psych Up](../pokedex/moves/psych-up.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 16 | [Psybeam](../pokedex/moves/psybeam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
@@ -7307,9 +7307,9 @@ Now evolves into Kabutops at Level 30.
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Tail Whip](../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Pursuit](../pokedex/moves/pursuit.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
-| 7 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 7 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Mean Look](../pokedex/moves/mean-look.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 16 | [Feint Attack](../pokedex/moves/feint-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
@@ -7317,7 +7317,7 @@ Now evolves into Kabutops at Level 30.
 | 22 | [Confuse Ray](../pokedex/moves/confuse-ray.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 25 | [Crunch](../pokedex/moves/crunch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled checked /> |
 | 28 | [Play Rough](../pokedex/moves/play-rough.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Physical | <input type="checkbox" disabled checked /> |
-| 31 | [Moonlight](../pokedex/moves/moonlight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 31 | [Moonlight](../pokedex/moves/moonlight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 34 | [Sucker Punch](../pokedex/moves/sucker-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 37 | [Gunk Shot](../pokedex/moves/gunk-shot.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled checked /> |
 | 40 | [Last Resort](../pokedex/moves/last-resort.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -7382,7 +7382,7 @@ Now evolves into Kabutops at Level 30.
 |:------|:-----|:-----|:------|:------|
 | 1 | [Power Gem](../pokedex/moves/power-gem.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Hidden Power](../pokedex/moves/hidden-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
-| 1 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Yawn](../pokedex/moves/yawn.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 4 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -7483,7 +7483,7 @@ Now evolves into Kabutops at Level 30.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Splash](../pokedex/moves/splash.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Encore](../pokedex/moves/encore.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Counter](../pokedex/moves/counter.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Mirror Coat](../pokedex/moves/mirror-coat.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
@@ -7666,7 +7666,7 @@ Now evolves into Kabutops at Level 30.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Poison Sting](../pokedex/moves/poison-sting.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Harden](../pokedex/moves/harden.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 4 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 7 | [Fury Cutter](../pokedex/moves/fury-cutter.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Physical | <input type="checkbox" disabled /> |
@@ -7709,7 +7709,7 @@ Now evolves into Kabutops at Level 30.
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Harden](../pokedex/moves/harden.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Bind](../pokedex/moves/bind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 4 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 4 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Rock Throw](../pokedex/moves/rock-throw.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Bulldoze](../pokedex/moves/bulldoze.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Rock Tomb](../pokedex/moves/rock-tomb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Physical | <input type="checkbox" disabled /> |
@@ -7745,9 +7745,9 @@ Now evolves into Kabutops at Level 30.
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Scary Face](../pokedex/moves/scary-face.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 4 | [Tail Whip](../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 7 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 7 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Lick](../pokedex/moves/lick.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Physical | <input type="checkbox" disabled /> |
-| 13 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 13 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Headbutt](../pokedex/moves/headbutt.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 19 | [Roar](../pokedex/moves/roar.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 22 | [Rage](../pokedex/moves/rage.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -7780,9 +7780,9 @@ Now evolves into Kabutops at Level 30.
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Scary Face](../pokedex/moves/scary-face.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 4 | [Tail Whip](../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 7 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 7 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Lick](../pokedex/moves/lick.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Physical | <input type="checkbox" disabled /> |
-| 13 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 13 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Headbutt](../pokedex/moves/headbutt.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 19 | [Roar](../pokedex/moves/roar.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 22 | [Rage](../pokedex/moves/rage.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -8021,7 +8021,7 @@ Now evolves into Kabutops at Level 30.
 | 12 | [Covet](../pokedex/moves/covet.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 15 | [Sweet Scent](../pokedex/moves/sweet-scent.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 18 | [Metal Claw](../pokedex/moves/metal-claw.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> | Physical | <input type="checkbox" disabled /> |
-| 21 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 21 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 24 | [Slash](../pokedex/moves/slash.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 24 | [Night Slash](../pokedex/moves/night-slash.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 27 | [Yawn](../pokedex/moves/yawn.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -8444,7 +8444,7 @@ Now evolves into Magcargo at Level 32.
 | 1 | [Brave Bird](../pokedex/moves/brave-bird.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Peck](../pokedex/moves/peck.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Metal Claw](../pokedex/moves/metal-claw.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Air Cutter](../pokedex/moves/air-cutter.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 13 | [Fury Attack](../pokedex/moves/fury-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -8484,7 +8484,7 @@ Now evolves into Magcargo at Level 32.
 | 1 | [Ember](../pokedex/moves/ember.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Howl](../pokedex/moves/howl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Roar](../pokedex/moves/roar.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Smog](../pokedex/moves/smog.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Special | <input type="checkbox" disabled /> |
 | 16 | [Fire Fang](../pokedex/moves/fire-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Physical | <input type="checkbox" disabled /> |
@@ -8520,7 +8520,7 @@ Now evolves into Magcargo at Level 32.
 | 1 | [Ember](../pokedex/moves/ember.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Howl](../pokedex/moves/howl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Roar](../pokedex/moves/roar.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Smog](../pokedex/moves/smog.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Special | <input type="checkbox" disabled /> |
 | 16 | [Fire Fang](../pokedex/moves/fire-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Physical | <input type="checkbox" disabled /> |
@@ -8600,7 +8600,7 @@ Now evolves into Magcargo at Level 32.
 | 22 | [Slam](../pokedex/moves/slam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 25 | [Take Down](../pokedex/moves/take-down.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 28 | [Endure](../pokedex/moves/endure.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 31 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 31 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 34 | [Last Resort](../pokedex/moves/last-resort.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 37 | [Ice Shard](../pokedex/moves/ice-shard.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Physical | <input type="checkbox" disabled /> |
 | 40 | [Double Edge](../pokedex/moves/double-edge.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -8706,7 +8706,7 @@ Now evolves into Magcargo at Level 32.
 | 7 | [Astonish](../pokedex/moves/astonish.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Hypnosis](../pokedex/moves/hypnosis.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Stomp](../pokedex/moves/stomp.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 16 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 16 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 18 | [Confuse Ray](../pokedex/moves/confuse-ray.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 21 | [Take Down](../pokedex/moves/take-down.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 24 | [Calm Mind](../pokedex/moves/calm-mind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
@@ -8843,7 +8843,7 @@ Now evolves into Magcargo at Level 32.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Pound](../pokedex/moves/pound.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Lick](../pokedex/moves/lick.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Powder Snow](../pokedex/moves/powder-snow.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Special | <input type="checkbox" disabled /> |
 | 6 | [Confusion](../pokedex/moves/confusion.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
@@ -9024,7 +9024,7 @@ Now evolves into Magcargo at Level 32.
 |:------|:-----|:-----|:------|:------|
 | 1 | [Zap Cannon](../pokedex/moves/zap-cannon.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Extreme Speed](../pokedex/moves/extreme-speed.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Roar](../pokedex/moves/roar.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 6 | [Thunder Shock](../pokedex/moves/thunder-shock.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Special | <input type="checkbox" disabled /> |
@@ -9060,7 +9060,7 @@ Now evolves into Magcargo at Level 32.
 |:------|:-----|:-----|:------|:------|
 | 1 | [Sacred Fire](../pokedex/moves/sacred-fire.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Extreme Speed](../pokedex/moves/extreme-speed.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Roar](../pokedex/moves/roar.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 6 | [Ember](../pokedex/moves/ember.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
@@ -9100,11 +9100,11 @@ Now evolves into Magcargo at Level 32.
 |:------|:-----|:-----|:------|:------|
 | 1 | [Sheer Cold](../pokedex/moves/sheer-cold.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Extreme Speed](../pokedex/moves/extreme-speed.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Rain Dance](../pokedex/moves/rain-dance.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Status | <input type="checkbox" disabled /> |
 | 6 | [Bubble Beam](../pokedex/moves/bubble-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
-| 10 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
+| 10 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 14 | [Aurora Beam](../pokedex/moves/aurora-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Special | <input type="checkbox" disabled /> |
 | 18 | [Mist](../pokedex/moves/mist.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Status | <input type="checkbox" disabled /> |
 | 22 | [Mirror Coat](../pokedex/moves/mirror-coat.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
@@ -9131,7 +9131,7 @@ Now evolves into Magcargo at Level 32.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Screech](../pokedex/moves/screech.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 4 | [Sandstorm](../pokedex/moves/sandstorm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Pursuit](../pokedex/moves/pursuit.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
@@ -9163,7 +9163,7 @@ Now evolves into Magcargo at Level 32.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Screech](../pokedex/moves/screech.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 4 | [Sandstorm](../pokedex/moves/sandstorm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Pursuit](../pokedex/moves/pursuit.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
@@ -9198,7 +9198,7 @@ Now evolves into Magcargo at Level 32.
 | 1 | [Ice Fang](../pokedex/moves/ice-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Fire Fang](../pokedex/moves/fire-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Screech](../pokedex/moves/screech.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 4 | [Sandstorm](../pokedex/moves/sandstorm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Pursuit](../pokedex/moves/pursuit.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
@@ -9236,7 +9236,7 @@ Now evolves into Magcargo at Level 32.
 |:------|:-----|:-----|:------|:------|
 | 1 | [Whirlwind](../pokedex/moves/whirlwind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Weather Ball](../pokedex/moves/weather-ball.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
-| 1 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
+| 1 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Rain Dance](../pokedex/moves/rain-dance.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Status | <input type="checkbox" disabled /> |
 | 6 | [Calm Mind](../pokedex/moves/calm-mind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Extrasensory](../pokedex/moves/extrasensory.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
@@ -9271,7 +9271,7 @@ Now evolves into Magcargo at Level 32.
 |:------|:-----|:-----|:------|:------|
 | 1 | [Whirlwind](../pokedex/moves/whirlwind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Weather Ball](../pokedex/moves/weather-ball.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
-| 1 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
+| 1 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Sunny Day](../pokedex/moves/sunny-day.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Status | <input type="checkbox" disabled /> |
 | 6 | [Calm Mind](../pokedex/moves/calm-mind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Extrasensory](../pokedex/moves/extrasensory.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
@@ -9457,7 +9457,7 @@ Now evolves into Magcargo at Level 32.
 | 1 | [Scratch](../pokedex/moves/scratch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 5 | [Ember](../pokedex/moves/ember.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
-| 8 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 8 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 11 | [Peck](../pokedex/moves/peck.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Physical | <input type="checkbox" disabled /> |
 | 14 | [Fire Spin](../pokedex/moves/fire-spin.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
 | 17 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -9493,7 +9493,7 @@ Now evolves into Magcargo at Level 32.
 | 1 | [Scratch](../pokedex/moves/scratch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 5 | [Ember](../pokedex/moves/ember.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
-| 8 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 8 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 11 | [Peck](../pokedex/moves/peck.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Physical | <input type="checkbox" disabled /> |
 | 14 | [Bulk Up](../pokedex/moves/bulk-up.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Status | <input type="checkbox" disabled /> |
 | 16 | [Double Kick](../pokedex/moves/double-kick.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
@@ -9534,7 +9534,7 @@ Now evolves into Magcargo at Level 32.
 | 1 | [Scratch](../pokedex/moves/scratch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 5 | [Ember](../pokedex/moves/ember.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
-| 8 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 8 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 11 | [Peck](../pokedex/moves/peck.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Physical | <input type="checkbox" disabled /> |
 | 14 | [Bulk Up](../pokedex/moves/bulk-up.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Status | <input type="checkbox" disabled /> |
 | 16 | [Double Kick](../pokedex/moves/double-kick.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
@@ -9642,7 +9642,7 @@ Now evolves into Magcargo at Level 32.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Avalanche](../pokedex/moves/avalanche.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Mud Shot](../pokedex/moves/mud-shot.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -9683,8 +9683,8 @@ Now evolves into Magcargo at Level 32.
 |:------|:-----|:-----|:------|:------|
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Howl](../pokedex/moves/howl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
+| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Odor Sleuth](../pokedex/moves/odor-sleuth.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Assurance](../pokedex/moves/assurance.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Roar](../pokedex/moves/roar.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -9723,8 +9723,8 @@ Now evolves into Magcargo at Level 32.
 | 1 | [Poison Fang](../pokedex/moves/poison-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Howl](../pokedex/moves/howl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
+| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Odor Sleuth](../pokedex/moves/odor-sleuth.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Assurance](../pokedex/moves/assurance.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Roar](../pokedex/moves/roar.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -9763,7 +9763,7 @@ Now evolves into Magcargo at Level 32.
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Tail Whip](../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Covet](../pokedex/moves/covet.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Odor Sleuth](../pokedex/moves/odor-sleuth.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Headbutt](../pokedex/moves/headbutt.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -9805,7 +9805,7 @@ Now evolves into Magcargo at Level 32.
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Tail Whip](../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Covet](../pokedex/moves/covet.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Odor Sleuth](../pokedex/moves/odor-sleuth.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Headbutt](../pokedex/moves/headbutt.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -9893,7 +9893,7 @@ Now evolves into Magcargo at Level 32.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Absorb](../pokedex/moves/absorb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
-| 10 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
+| 10 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 11 | [Absorb](../pokedex/moves/absorb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 13 | [Stun Spore](../pokedex/moves/stun-spore.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Status | <input type="checkbox" disabled /> |
 | 15 | [Silver Wind](../pokedex/moves/silver-wind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Special | <input type="checkbox" disabled /> |
@@ -9958,13 +9958,13 @@ Now evolves into Magcargo at Level 32.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Confusion](../pokedex/moves/confusion.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
-| 10 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
+| 10 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 11 | [Confusion](../pokedex/moves/confusion.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
 | 13 | [Poison Powder](../pokedex/moves/poison-powder.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Status | <input type="checkbox" disabled /> |
 | 15 | [Silver Wind](../pokedex/moves/silver-wind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Special | <input type="checkbox" disabled /> |
 | 18 | [Psybeam](../pokedex/moves/psybeam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
 | 21 | [Signal Beam](../pokedex/moves/signal-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Special | <input type="checkbox" disabled /> |
-| 24 | [Moonlight](../pokedex/moves/moonlight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 24 | [Moonlight](../pokedex/moves/moonlight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 27 | [Bug Buzz](../pokedex/moves/bug-buzz.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Special | <input type="checkbox" disabled /> |
 | 30 | [Light Screen](../pokedex/moves/light-screen.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 33 | [Toxic](../pokedex/moves/toxic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Status | <input type="checkbox" disabled /> |
@@ -10327,7 +10327,7 @@ Now evolves into Magcargo at Level 32.
 | 28 | [Calm Mind](../pokedex/moves/calm-mind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 31 | [Moonblast](../pokedex/moves/moonblast.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Special | <input type="checkbox" disabled checked /> |
 | 34 | [Imprison](../pokedex/moves/imprison.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
-| 37 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 37 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 40 | [Dream Eater](../pokedex/moves/dream-eater.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
 | 43 | [Future Sight](../pokedex/moves/future-sight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
 
@@ -10363,7 +10363,7 @@ Now evolves into Magcargo at Level 32.
 | 31 | [Calm Mind](../pokedex/moves/calm-mind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 35 | [Moonblast](../pokedex/moves/moonblast.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Special | <input type="checkbox" disabled checked /> |
 | 39 | [Imprison](../pokedex/moves/imprison.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
-| 43 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 43 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 47 | [Dream Eater](../pokedex/moves/dream-eater.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
 | 51 | [Future Sight](../pokedex/moves/future-sight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
 
@@ -10473,7 +10473,7 @@ Now evolves into Magcargo at Level 32.
 | 1 | [Ominous Wind](../pokedex/moves/ominous-wind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Bubble](../pokedex/moves/bubble.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Sweet Scent](../pokedex/moves/sweet-scent.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
+| 1 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 6 | [Bug Bite](../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Physical | <input type="checkbox" disabled /> |
 | 9 | [Water Sport](../pokedex/moves/water-sport.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Status | <input type="checkbox" disabled /> |
@@ -10523,7 +10523,7 @@ Now evolves into Magcargo at Level 32.
 | 31 | [Energy Ball](../pokedex/moves/energy-ball.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 34 | [Toxic](../pokedex/moves/toxic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Status | <input type="checkbox" disabled /> |
 | 37 | [Worry Seed](../pokedex/moves/worry-seed.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Status | <input type="checkbox" disabled /> |
-| 40 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 40 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 43 | [Solar Beam](../pokedex/moves/solar-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 
 ### 286 Breloom
@@ -10679,7 +10679,7 @@ Now evolves into Magcargo at Level 32.
 | 1 | [Harden](../pokedex/moves/harden.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Absorb](../pokedex/moves/absorb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Bug Bite](../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Physical | <input type="checkbox" disabled /> |
-| 4 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 4 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Fury Swipes](../pokedex/moves/fury-swipes.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 11 | [Mud Slap](../pokedex/moves/mud-slap.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Special | <input type="checkbox" disabled /> |
 | 15 | [Leech Life](../pokedex/moves/leech-life.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Physical | <input type="checkbox" disabled /> |
@@ -10712,7 +10712,7 @@ Now evolves into Magcargo at Level 32.
 | 1 | [Harden](../pokedex/moves/harden.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Absorb](../pokedex/moves/absorb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Bug Bite](../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Physical | <input type="checkbox" disabled /> |
-| 4 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 4 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Fury Swipes](../pokedex/moves/fury-swipes.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 11 | [Agility](../pokedex/moves/agility.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 15 | [Leech Life](../pokedex/moves/leech-life.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Physical | <input type="checkbox" disabled /> |
@@ -10753,7 +10753,7 @@ Now evolves into Magcargo at Level 32.
 | 1 | [Harden](../pokedex/moves/harden.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Absorb](../pokedex/moves/absorb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Bug Bite](../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Physical | <input type="checkbox" disabled /> |
-| 4 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 4 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Fury Swipes](../pokedex/moves/fury-swipes.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 11 | [Spite](../pokedex/moves/spite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 15 | [Leech Life](../pokedex/moves/leech-life.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Physical | <input type="checkbox" disabled /> |
@@ -10833,7 +10833,7 @@ Now evolves into Magcargo at Level 32.
 | 13 | [Screech](../pokedex/moves/screech.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 16 | [Stomp](../pokedex/moves/stomp.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 19 | [Supersonic](../pokedex/moves/supersonic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 20 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 20 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 23 | [Extrasensory](../pokedex/moves/extrasensory.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
 | 27 | [Fake Tears](../pokedex/moves/fake-tears.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Status | <input type="checkbox" disabled /> |
 | 31 | [Hyper Voice](../pokedex/moves/hyper-voice.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
@@ -10875,7 +10875,7 @@ Now evolves into Magcargo at Level 32.
 | 13 | [Screech](../pokedex/moves/screech.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 16 | [Stomp](../pokedex/moves/stomp.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 19 | [Supersonic](../pokedex/moves/supersonic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 20 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 20 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 23 | [Extrasensory](../pokedex/moves/extrasensory.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
 | 27 | [Fake Tears](../pokedex/moves/fake-tears.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Status | <input type="checkbox" disabled /> |
 | 31 | [Hyper Voice](../pokedex/moves/hyper-voice.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
@@ -10903,7 +10903,7 @@ Now evolves into Magcargo at Level 32.
 |:------|:-----|:-----|:------|:------|
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Focus Energy](../pokedex/moves/focus-energy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 4 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 4 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Arm Thrust](../pokedex/moves/arm-thrust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 9 | [Fake Out](../pokedex/moves/fake-out.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 11 | [Force Palm](../pokedex/moves/force-palm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
@@ -10938,7 +10938,7 @@ Now evolves into Magcargo at Level 32.
 | 1 | [Bullet Punch](../pokedex/moves/bullet-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Focus Energy](../pokedex/moves/focus-energy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 4 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 4 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Arm Thrust](../pokedex/moves/arm-thrust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 9 | [Fake Out](../pokedex/moves/fake-out.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 11 | [Force Palm](../pokedex/moves/force-palm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
@@ -10987,7 +10987,7 @@ Now evolves into Magcargo at Level 32.
 | 1 | [Tail Whip](../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Water Sport](../pokedex/moves/water-sport.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Status | <input type="checkbox" disabled /> |
 | 6 | [Bubble](../pokedex/moves/bubble.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
-| 8 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 8 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Bubble Beam](../pokedex/moves/bubble-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 12 | [Sing](../pokedex/moves/sing.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 14 | [Helping Hand](../pokedex/moves/helping-hand.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -11065,7 +11065,7 @@ Now evolves into Magcargo at Level 32.
 | 23 | [Wake Up Slap](../pokedex/moves/wake-up-slap.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 25 | [Zen Headbutt](../pokedex/moves/zen-headbutt.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Physical | <input type="checkbox" disabled /> |
 | 27 | [Sucker Punch](../pokedex/moves/sucker-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
-| 29 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 29 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 31 | [Heal Bell](../pokedex/moves/heal-bell.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 33 | [Captivate](../pokedex/moves/captivate.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 35 | [Play Rough](../pokedex/moves/play-rough.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Physical | <input type="checkbox" disabled /> |
@@ -11166,7 +11166,7 @@ Now evolves into Magcargo at Level 32.
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Astonish](../pokedex/moves/astonish.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Physical | <input type="checkbox" disabled /> |
 | 4 | [Fake Tears](../pokedex/moves/fake-tears.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Status | <input type="checkbox" disabled /> |
-| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Sweet Scent](../pokedex/moves/sweet-scent.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Vice Grip](../pokedex/moves/vice-grip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Feint Attack](../pokedex/moves/feint-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
@@ -11408,7 +11408,7 @@ Now evolves into Medicham at Level 33.
 | 7 | [Odor Sleuth](../pokedex/moves/odor-sleuth.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Spark](../pokedex/moves/spark.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Physical | <input type="checkbox" disabled /> |
-| 16 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 16 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 19 | [Charge Beam](../pokedex/moves/charge-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Special | <input type="checkbox" disabled /> |
 | 22 | [Roar](../pokedex/moves/roar.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 25 | [Thunder Fang](../pokedex/moves/thunder-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Physical | <input type="checkbox" disabled /> |
@@ -11442,7 +11442,7 @@ Now evolves into Medicham at Level 33.
 | 7 | [Odor Sleuth](../pokedex/moves/odor-sleuth.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Spark](../pokedex/moves/spark.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Physical | <input type="checkbox" disabled /> |
-| 16 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 16 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 19 | [Charge Beam](../pokedex/moves/charge-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Special | <input type="checkbox" disabled /> |
 | 22 | [Roar](../pokedex/moves/roar.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 25 | [Thunder Fang](../pokedex/moves/thunder-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Physical | <input type="checkbox" disabled /> |
@@ -11487,7 +11487,7 @@ Now evolves into Medicham at Level 33.
 | 22 | [Charge](../pokedex/moves/charge.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Status | <input type="checkbox" disabled /> |
 | 25 | [Discharge](../pokedex/moves/discharge.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Special | <input type="checkbox" disabled /> |
 | 28 | [Copycat](../pokedex/moves/copycat.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 31 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 31 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 34 | [Thunderbolt](../pokedex/moves/thunderbolt.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Special | <input type="checkbox" disabled /> |
 | 37 | [Baton Pass](../pokedex/moves/baton-pass.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 40 | [Agility](../pokedex/moves/agility.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
@@ -11567,7 +11567,7 @@ Now evolves into Medicham at Level 33.
 | 12 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 15 | [Bug Bite](../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Physical | <input type="checkbox" disabled /> |
 | 18 | [Charge Beam](../pokedex/moves/charge-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Special | <input type="checkbox" disabled /> |
-| 21 | [Moonlight](../pokedex/moves/moonlight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 21 | [Moonlight](../pokedex/moves/moonlight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 24 | [Signal Beam](../pokedex/moves/signal-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Special | <input type="checkbox" disabled /> |
 | 27 | [Tail Glow](../pokedex/moves/tail-glow.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Status | <input type="checkbox" disabled /> |
 | 30 | [Protect](../pokedex/moves/protect.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -11608,11 +11608,11 @@ Now evolves into Medicham at Level 33.
 | 1 | [Trick](../pokedex/moves/trick.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 6 | [Sweet Scent](../pokedex/moves/sweet-scent.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 9 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 9 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 12 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 15 | [Silver Wind](../pokedex/moves/silver-wind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Special | <input type="checkbox" disabled /> |
 | 18 | [Draining Kiss](../pokedex/moves/draining-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Special | <input type="checkbox" disabled checked /> |
-| 21 | [Moonlight](../pokedex/moves/moonlight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 21 | [Moonlight](../pokedex/moves/moonlight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 24 | [Encore](../pokedex/moves/encore.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 27 | [Wish](../pokedex/moves/wish.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 30 | [Flatter](../pokedex/moves/flatter.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Status | <input type="checkbox" disabled /> |
@@ -11751,7 +11751,7 @@ Now evolves into Medicham at Level 33.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 4 | [Rage](../pokedex/moves/rage.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 7 | [Focus Energy](../pokedex/moves/focus-energy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Aqua Jet](../pokedex/moves/aqua-jet.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Physical | <input type="checkbox" disabled /> |
@@ -11789,7 +11789,7 @@ Now evolves into Medicham at Level 33.
 | 1 | [Feint](../pokedex/moves/feint.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Taunt](../pokedex/moves/taunt.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 4 | [Rage](../pokedex/moves/rage.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 7 | [Focus Energy](../pokedex/moves/focus-energy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Aqua Jet](../pokedex/moves/aqua-jet.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Physical | <input type="checkbox" disabled /> |
@@ -11826,7 +11826,7 @@ Now evolves into Wailord at Level 36.
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
-| 1 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Splash](../pokedex/moves/splash.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 4 | [Defense Curl](../pokedex/moves/defense-curl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -11861,7 +11861,7 @@ Now evolves into Wailord at Level 36.
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
-| 1 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Splash](../pokedex/moves/splash.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 4 | [Defense Curl](../pokedex/moves/defense-curl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -11909,7 +11909,7 @@ Now evolves into Wailord at Level 36.
 | 19 | [Amnesia](../pokedex/moves/amnesia.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 22 | [Lava Plume](../pokedex/moves/lava-plume.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
 | 25 | [Earth Power](../pokedex/moves/earth-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Special | <input type="checkbox" disabled /> |
-| 28 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 28 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 31 | [Take Down](../pokedex/moves/take-down.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 34 | [Flamethrower](../pokedex/moves/flamethrower.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
 | 37 | [Yawn](../pokedex/moves/yawn.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -11943,7 +11943,7 @@ Now evolves into Wailord at Level 36.
 | 19 | [Amnesia](../pokedex/moves/amnesia.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 22 | [Lava Plume](../pokedex/moves/lava-plume.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
 | 25 | [Earth Power](../pokedex/moves/earth-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Special | <input type="checkbox" disabled /> |
-| 28 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 28 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 31 | [Take Down](../pokedex/moves/take-down.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 33 | [Rock Slide](../pokedex/moves/rock-slide.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Physical | <input type="checkbox" disabled /> |
 | 35 | [Flamethrower](../pokedex/moves/flamethrower.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
@@ -11977,7 +11977,7 @@ Now evolves into Wailord at Level 36.
 | 10 | [Fire Spin](../pokedex/moves/fire-spin.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
 | 13 | [Smokescreen](../pokedex/moves/smokescreen.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 16 | [Flame Wheel](../pokedex/moves/flame-wheel.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Physical | <input type="checkbox" disabled /> |
-| 19 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 19 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 22 | [Body Slam](../pokedex/moves/body-slam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 25 | [Lava Plume](../pokedex/moves/lava-plume.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
 | 28 | [Protect](../pokedex/moves/protect.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -12126,8 +12126,8 @@ Now evolves into Vibrava at Level 30.
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Bug Bite](../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Bide](../pokedex/moves/bide.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Feint Attack](../pokedex/moves/feint-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
@@ -12178,7 +12178,7 @@ Now evolves into Vibrava at Level 30.
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Sonic Boom](../pokedex/moves/sonic-boom.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Bide](../pokedex/moves/bide.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Feint Attack](../pokedex/moves/feint-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
@@ -12231,7 +12231,7 @@ Now evolves into Vibrava at Level 30.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Dragon Dance](../pokedex/moves/dragon-dance.md) | <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Sonic Boom](../pokedex/moves/sonic-boom.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Bide](../pokedex/moves/bide.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Feint Attack](../pokedex/moves/feint-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
@@ -12275,7 +12275,7 @@ Now evolves into Vibrava at Level 30.
 | 4 | [Absorb](../pokedex/moves/absorb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 7 | [Growth](../pokedex/moves/growth.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Leech Seed](../pokedex/moves/leech-seed.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Status | <input type="checkbox" disabled /> |
-| 13 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 13 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 16 | [Bullet Seed](../pokedex/moves/bullet-seed.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Physical | <input type="checkbox" disabled /> |
 | 19 | [Feint Attack](../pokedex/moves/feint-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 22 | [Ingrain](../pokedex/moves/ingrain.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Status | <input type="checkbox" disabled /> |
@@ -12314,7 +12314,7 @@ Now evolves into Vibrava at Level 30.
 | 4 | [Absorb](../pokedex/moves/absorb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 7 | [Growth](../pokedex/moves/growth.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Leech Seed](../pokedex/moves/leech-seed.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Status | <input type="checkbox" disabled /> |
-| 13 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 13 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 16 | [Bullet Seed](../pokedex/moves/bullet-seed.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Physical | <input type="checkbox" disabled /> |
 | 19 | [Feint Attack](../pokedex/moves/feint-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 22 | [Ingrain](../pokedex/moves/ingrain.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Status | <input type="checkbox" disabled /> |
@@ -12484,7 +12484,7 @@ Now evolves into Vibrava at Level 30.
 |:------|:-----|:-----|:------|:------|
 | 1 | [Wrap](../pokedex/moves/wrap.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Swagger](../pokedex/moves/swagger.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 4 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 4 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 7 | [Lick](../pokedex/moves/lick.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Poison Fang](../pokedex/moves/poison-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Feint](../pokedex/moves/feint.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -13138,7 +13138,7 @@ Now evolves into Banette at Level 32.
 | 16 | [Will O Wisp](../pokedex/moves/will-o-wisp.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Status | <input type="checkbox" disabled /> |
 | 19 | [Feint Attack](../pokedex/moves/feint-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 22 | [Ominous Wind](../pokedex/moves/ominous-wind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Special | <input type="checkbox" disabled /> |
-| 25 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 25 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 28 | [Shadow Ball](../pokedex/moves/shadow-ball.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Special | <input type="checkbox" disabled /> |
 | 31 | [Embargo](../pokedex/moves/embargo.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Status | <input type="checkbox" disabled /> |
 | 34 | [Sucker Punch](../pokedex/moves/sucker-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
@@ -13175,7 +13175,7 @@ Now evolves into Banette at Level 32.
 | 16 | [Will O Wisp](../pokedex/moves/will-o-wisp.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Status | <input type="checkbox" disabled /> |
 | 19 | [Feint Attack](../pokedex/moves/feint-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 22 | [Ominous Wind](../pokedex/moves/ominous-wind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Special | <input type="checkbox" disabled /> |
-| 25 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 25 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 28 | [Shadow Ball](../pokedex/moves/shadow-ball.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Special | <input type="checkbox" disabled /> |
 | 31 | [Embargo](../pokedex/moves/embargo.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Status | <input type="checkbox" disabled /> |
 | 32 | [Shadow Claw](../pokedex/moves/shadow-claw.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Physical | <input type="checkbox" disabled /> |
@@ -13219,7 +13219,7 @@ Now evolves into Dusclops at Level 32.
 | 19 | [Pursuit](../pokedex/moves/pursuit.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 22 | [Will O Wisp](../pokedex/moves/will-o-wisp.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Status | <input type="checkbox" disabled /> |
 | 25 | [Payback](../pokedex/moves/payback.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
-| 28 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 28 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 31 | [Shadow Ball](../pokedex/moves/shadow-ball.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Special | <input type="checkbox" disabled /> |
 | 34 | [Confuse Ray](../pokedex/moves/confuse-ray.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 37 | [Mean Look](../pokedex/moves/mean-look.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -13264,7 +13264,7 @@ Now evolves into Dusclops at Level 32.
 | 19 | [Pursuit](../pokedex/moves/pursuit.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 22 | [Will O Wisp](../pokedex/moves/will-o-wisp.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Status | <input type="checkbox" disabled /> |
 | 25 | [Payback](../pokedex/moves/payback.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
-| 28 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 28 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 31 | [Shadow Ball](../pokedex/moves/shadow-ball.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Special | <input type="checkbox" disabled /> |
 | 32 | [Shadow Punch](../pokedex/moves/shadow-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Physical | <input type="checkbox" disabled /> |
 | 35 | [Confuse Ray](../pokedex/moves/confuse-ray.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
@@ -13300,7 +13300,7 @@ Now evolves into Dusclops at Level 32.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
+| 1 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Growth](../pokedex/moves/growth.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Razor Leaf](../pokedex/moves/razor-leaf.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Physical | <input type="checkbox" disabled /> |
 | 6 | [Sweet Scent](../pokedex/moves/sweet-scent.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -13386,7 +13386,7 @@ Now evolves into Dusclops at Level 32.
 | 7 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Pursuit](../pokedex/moves/pursuit.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Taunt](../pokedex/moves/taunt.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Status | <input type="checkbox" disabled /> |
-| 16 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 16 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 19 | [Double Team](../pokedex/moves/double-team.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 22 | [Slash](../pokedex/moves/slash.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 22 | [Night Slash](../pokedex/moves/night-slash.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
@@ -13416,7 +13416,7 @@ Now evolves into Dusclops at Level 32.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Splash](../pokedex/moves/splash.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Encore](../pokedex/moves/encore.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Counter](../pokedex/moves/counter.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Mirror Coat](../pokedex/moves/mirror-coat.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
@@ -13446,7 +13446,7 @@ Now evolves into Glalie at Level 32.
 | 6 | [Double Team](../pokedex/moves/double-team.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 9 | [Ice Shard](../pokedex/moves/ice-shard.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Physical | <input type="checkbox" disabled /> |
 | 12 | [Icy Wind](../pokedex/moves/icy-wind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Special | <input type="checkbox" disabled /> |
-| 15 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 15 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 18 | [Disable](../pokedex/moves/disable.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 21 | [Ice Fang](../pokedex/moves/ice-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Physical | <input type="checkbox" disabled /> |
 | 24 | [Headbutt](../pokedex/moves/headbutt.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -13497,7 +13497,7 @@ Now evolves into Glalie at Level 32.
 | 6 | [Double Team](../pokedex/moves/double-team.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 9 | [Ice Shard](../pokedex/moves/ice-shard.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Physical | <input type="checkbox" disabled /> |
 | 12 | [Icy Wind](../pokedex/moves/icy-wind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Special | <input type="checkbox" disabled /> |
-| 15 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 15 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 18 | [Disable](../pokedex/moves/disable.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 21 | [Ice Fang](../pokedex/moves/ice-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Physical | <input type="checkbox" disabled /> |
 | 24 | [Headbutt](../pokedex/moves/headbutt.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -13673,7 +13673,7 @@ Now evolves into Walrein at Level 40.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Whirlpool](../pokedex/moves/whirlpool.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Screech](../pokedex/moves/screech.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Scary Face](../pokedex/moves/scary-face.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Feint Attack](../pokedex/moves/feint-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
@@ -13791,7 +13791,7 @@ Now evolves into Walrein at Level 40.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 4 | [Water Gun](../pokedex/moves/water-gun.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 7 | [Agility](../pokedex/moves/agility.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Aqua Jet](../pokedex/moves/aqua-jet.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Physical | <input type="checkbox" disabled /> |
@@ -13800,7 +13800,7 @@ Now evolves into Walrein at Level 40.
 | 19 | [Draining Kiss](../pokedex/moves/draining-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Special | <input type="checkbox" disabled /> |
 | 22 | [Attract](../pokedex/moves/attract.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 25 | [Flail](../pokedex/moves/flail.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 28 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 28 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 31 | [Take Down](../pokedex/moves/take-down.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 34 | [Captivate](../pokedex/moves/captivate.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 37 | [Moonblast](../pokedex/moves/moonblast.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Special | <input type="checkbox" disabled checked /> |
@@ -13827,7 +13827,7 @@ Now evolves into Walrein at Level 40.
 | 1 | [Rage](../pokedex/moves/rage.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Ember](../pokedex/moves/ember.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
-| 10 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 10 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Dragon Breath](../pokedex/moves/dragon-breath.md) | <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | Special | <input type="checkbox" disabled /> |
 | 16 | [Headbutt](../pokedex/moves/headbutt.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 19 | [Focus Energy](../pokedex/moves/focus-energy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -13859,7 +13859,7 @@ Now evolves into Walrein at Level 40.
 | 1 | [Rage](../pokedex/moves/rage.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Ember](../pokedex/moves/ember.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
-| 10 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 10 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Dragon Breath](../pokedex/moves/dragon-breath.md) | <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | Special | <input type="checkbox" disabled /> |
 | 16 | [Headbutt](../pokedex/moves/headbutt.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 19 | [Focus Energy](../pokedex/moves/focus-energy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -13898,7 +13898,7 @@ Now evolves into Walrein at Level 40.
 | 1 | [Rage](../pokedex/moves/rage.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Ember](../pokedex/moves/ember.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Special | <input type="checkbox" disabled /> |
-| 10 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 10 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Dragon Breath](../pokedex/moves/dragon-breath.md) | <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | Special | <input type="checkbox" disabled /> |
 | 16 | [Headbutt](../pokedex/moves/headbutt.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 19 | [Focus Energy](../pokedex/moves/focus-energy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -14047,7 +14047,7 @@ Now evolves into Walrein at Level 40.
 | 6 | [Rock Throw](../pokedex/moves/rock-throw.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Charge Beam](../pokedex/moves/charge-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Special | <input type="checkbox" disabled /> |
 | 14 | [Block](../pokedex/moves/block.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 18 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 18 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 22 | [Ancient Power](../pokedex/moves/ancient-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Special | <input type="checkbox" disabled /> |
 | 26 | [Iron Defense](../pokedex/moves/iron-defense.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> | Status | <input type="checkbox" disabled /> |
 | 30 | [Hammer Arm](../pokedex/moves/hammer-arm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
@@ -14078,7 +14078,7 @@ Now evolves into Walrein at Level 40.
 | 6 | [Icy Wind](../pokedex/moves/icy-wind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Special | <input type="checkbox" disabled /> |
 | 10 | [Charge Beam](../pokedex/moves/charge-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Special | <input type="checkbox" disabled /> |
 | 14 | [Block](../pokedex/moves/block.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 18 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 18 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 22 | [Ancient Power](../pokedex/moves/ancient-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Special | <input type="checkbox" disabled /> |
 | 26 | [Amnesia](../pokedex/moves/amnesia.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 30 | [Hammer Arm](../pokedex/moves/hammer-arm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
@@ -14109,7 +14109,7 @@ Now evolves into Walrein at Level 40.
 | 6 | [Metal Claw](../pokedex/moves/metal-claw.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Charge Beam](../pokedex/moves/charge-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Special | <input type="checkbox" disabled /> |
 | 14 | [Block](../pokedex/moves/block.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 18 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 18 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 22 | [Ancient Power](../pokedex/moves/ancient-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> | Special | <input type="checkbox" disabled /> |
 | 26 | [Iron Defense](../pokedex/moves/iron-defense.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> | Status | <input type="checkbox" disabled /> |
 | 26 | [Amnesia](../pokedex/moves/amnesia.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
@@ -14141,7 +14141,7 @@ Now evolves into Walrein at Level 40.
 | 1 | [Psywave](../pokedex/moves/psywave.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Safeguard](../pokedex/moves/safeguard.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 6 | [Water Sport](../pokedex/moves/water-sport.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Status | <input type="checkbox" disabled /> |
-| 10 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 10 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 14 | [Refresh](../pokedex/moves/refresh.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 18 | [Dragon Breath](../pokedex/moves/dragon-breath.md) | <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | Special | <input type="checkbox" disabled /> |
 | 22 | [Magic Coat](../pokedex/moves/magic-coat.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
@@ -14413,9 +14413,9 @@ Now evolves into Walrein at Level 40.
 | 1 | [Withdraw](../pokedex/moves/withdraw.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Status | <input type="checkbox" disabled /> |
 | 5 | [Absorb](../pokedex/moves/absorb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 8 | [Razor Leaf](../pokedex/moves/razor-leaf.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Physical | <input type="checkbox" disabled /> |
-| 11 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 11 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 14 | [Bullet Seed](../pokedex/moves/bullet-seed.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Physical | <input type="checkbox" disabled /> |
-| 17 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 17 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 20 | [Mega Drain](../pokedex/moves/mega-drain.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 23 | [Seed Bomb](../pokedex/moves/seed-bomb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Physical | <input type="checkbox" disabled /> |
 | 26 | [Leech Seed](../pokedex/moves/leech-seed.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Status | <input type="checkbox" disabled /> |
@@ -14447,9 +14447,9 @@ Now evolves into Walrein at Level 40.
 | 1 | [Withdraw](../pokedex/moves/withdraw.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Status | <input type="checkbox" disabled /> |
 | 5 | [Absorb](../pokedex/moves/absorb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 8 | [Razor Leaf](../pokedex/moves/razor-leaf.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Physical | <input type="checkbox" disabled /> |
-| 11 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 11 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 14 | [Bullet Seed](../pokedex/moves/bullet-seed.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Physical | <input type="checkbox" disabled /> |
-| 17 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 17 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 18 | [Bulldoze](../pokedex/moves/bulldoze.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Physical | <input type="checkbox" disabled checked /> |
 | 21 | [Mega Drain](../pokedex/moves/mega-drain.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 25 | [Seed Bomb](../pokedex/moves/seed-bomb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Physical | <input type="checkbox" disabled /> |
@@ -14487,9 +14487,9 @@ Now evolves into Walrein at Level 40.
 | 1 | [Withdraw](../pokedex/moves/withdraw.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Status | <input type="checkbox" disabled /> |
 | 5 | [Absorb](../pokedex/moves/absorb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 8 | [Razor Leaf](../pokedex/moves/razor-leaf.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Physical | <input type="checkbox" disabled /> |
-| 11 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 11 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 14 | [Bullet Seed](../pokedex/moves/bullet-seed.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Physical | <input type="checkbox" disabled /> |
-| 17 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 17 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 18 | [Bulldoze](../pokedex/moves/bulldoze.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Physical | <input type="checkbox" disabled /> |
 | 21 | [Mega Drain](../pokedex/moves/mega-drain.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 25 | [Seed Bomb](../pokedex/moves/seed-bomb.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Physical | <input type="checkbox" disabled /> |
@@ -14877,7 +14877,7 @@ Now evolves into Walrein at Level 40.
 | 32 | [Swords Dance](../pokedex/moves/swords-dance.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 32 | [Amnesia](../pokedex/moves/amnesia.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 35 | [Superpower](../pokedex/moves/superpower.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
-| 38 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 38 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 41 | [Double Edge](../pokedex/moves/double-edge.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 
 ### 400 Bibarel
@@ -14918,7 +14918,7 @@ Now evolves into Walrein at Level 40.
 | 38 | [Swords Dance](../pokedex/moves/swords-dance.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 38 | [Amnesia](../pokedex/moves/amnesia.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 42 | [Superpower](../pokedex/moves/superpower.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
-| 46 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 46 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 50 | [Double Edge](../pokedex/moves/double-edge.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 
 ### 401 Kricketot
@@ -15015,7 +15015,7 @@ Now evolves into Walrein at Level 40.
 | 1 | [Howl](../pokedex/moves/howl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 6 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 9 | [Spark](../pokedex/moves/spark.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Physical | <input type="checkbox" disabled /> |
-| 12 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 12 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 15 | [Charge](../pokedex/moves/charge.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Status | <input type="checkbox" disabled /> |
 | 18 | [Double Kick](../pokedex/moves/double-kick.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 21 | [Thunder Fang](../pokedex/moves/thunder-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Physical | <input type="checkbox" disabled /> |
@@ -15052,7 +15052,7 @@ Now evolves into Walrein at Level 40.
 | 1 | [Howl](../pokedex/moves/howl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 6 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 9 | [Spark](../pokedex/moves/spark.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Physical | <input type="checkbox" disabled /> |
-| 12 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 12 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Charge](../pokedex/moves/charge.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Status | <input type="checkbox" disabled /> |
 | 20 | [Double Kick](../pokedex/moves/double-kick.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 24 | [Thunder Fang](../pokedex/moves/thunder-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Physical | <input type="checkbox" disabled /> |
@@ -15096,7 +15096,7 @@ Now evolves into Walrein at Level 40.
 | 1 | [Howl](../pokedex/moves/howl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 6 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 9 | [Spark](../pokedex/moves/spark.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Physical | <input type="checkbox" disabled /> |
-| 12 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 12 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Charge](../pokedex/moves/charge.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Status | <input type="checkbox" disabled /> |
 | 20 | [Double Kick](../pokedex/moves/double-kick.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 24 | [Thunder Fang](../pokedex/moves/thunder-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Physical | <input type="checkbox" disabled /> |
@@ -15472,7 +15472,7 @@ Now evolves into Roselia when happy regardless of the time.
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Bug Bite](../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Hidden Power](../pokedex/moves/hidden-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
-| 20 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
+| 20 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 23 | [Confusion](../pokedex/moves/confusion.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
 | 26 | [Bug Buzz](../pokedex/moves/bug-buzz.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Special | <input type="checkbox" disabled /> |
 | 29 | [Poison Powder](../pokedex/moves/poison-powder.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Status | <input type="checkbox" disabled /> |
@@ -15507,7 +15507,7 @@ Now evolves into Roselia when happy regardless of the time.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Sweet Scent](../pokedex/moves/sweet-scent.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
+| 1 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Bug Bite](../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Bug Buzz](../pokedex/moves/bug-buzz.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Special | <input type="checkbox" disabled /> |
 
@@ -15536,7 +15536,7 @@ Now compatible with HM02, Fly. (!!)
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Sweet Scent](../pokedex/moves/sweet-scent.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
+| 1 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Bug Bite](../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Bug Buzz](../pokedex/moves/bug-buzz.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Poison Sting](../pokedex/moves/poison-sting.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled /> |
@@ -15579,7 +15579,7 @@ Now compatible with HM02, Fly. (!!)
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Bide](../pokedex/moves/bide.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 5 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 9 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 9 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Spark](../pokedex/moves/spark.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Physical | <input type="checkbox" disabled /> |
 | 15 | [Endure](../pokedex/moves/endure.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 17 | [Charge Beam](../pokedex/moves/charge-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Special | <input type="checkbox" disabled /> |
@@ -15587,7 +15587,7 @@ Now compatible with HM02, Fly. (!!)
 | 23 | [Swift](../pokedex/moves/swift.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
 | 25 | [Discharge](../pokedex/moves/discharge.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Special | <input type="checkbox" disabled /> |
 | 27 | [Uproar](../pokedex/moves/uproar.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
-| 29 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 29 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 33 | [Thunder Wave](../pokedex/moves/thunder-wave.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Status | <input type="checkbox" disabled /> |
 | 35 | [Thunderbolt](../pokedex/moves/thunderbolt.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Special | <input type="checkbox" disabled /> |
 | 37 | [Fake Tears](../pokedex/moves/fake-tears.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Status | <input type="checkbox" disabled /> |
@@ -15811,7 +15811,7 @@ Now compatible with HM02, Fly. (!!)
 |:------|:-----|:-----|:------|:------|
 | 1 | [Scratch](../pokedex/moves/scratch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Tail Whip](../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 5 | [Astonish](../pokedex/moves/astonish.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Physical | <input type="checkbox" disabled /> |
 | 8 | [Tickle](../pokedex/moves/tickle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 11 | [Baton Pass](../pokedex/moves/baton-pass.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -15853,7 +15853,7 @@ Now compatible with HM02, Fly. (!!)
 |:------|:-----|:-----|:------|:------|
 | 1 | [Astonish](../pokedex/moves/astonish.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Physical | <input type="checkbox" disabled /> |
 | 4 | [Minimize](../pokedex/moves/minimize.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 7 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
+| 7 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 10 | [Focus Energy](../pokedex/moves/focus-energy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Payback](../pokedex/moves/payback.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Ominous Wind](../pokedex/moves/ominous-wind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Special | <input type="checkbox" disabled /> |
@@ -15896,7 +15896,7 @@ Now compatible with HM02, Fly. (!!)
 | 1 | [Destiny Bond](../pokedex/moves/destiny-bond.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Astonish](../pokedex/moves/astonish.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Physical | <input type="checkbox" disabled /> |
 | 4 | [Minimize](../pokedex/moves/minimize.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 7 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
+| 7 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 10 | [Focus Energy](../pokedex/moves/focus-energy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Payback](../pokedex/moves/payback.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Ominous Wind](../pokedex/moves/ominous-wind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Special | <input type="checkbox" disabled /> |
@@ -15944,7 +15944,7 @@ Now compatible with HM02, Fly. (!!)
 | 25 | [Dizzy Punch](../pokedex/moves/dizzy-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 28 | [Agility](../pokedex/moves/agility.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 31 | [Switcheroo](../pokedex/moves/switcheroo.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Status | <input type="checkbox" disabled /> |
-| 34 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 34 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 37 | [Flail](../pokedex/moves/flail.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 40 | [Bounce](../pokedex/moves/bounce.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Physical | <input type="checkbox" disabled /> |
 | 43 | [Focus Punch](../pokedex/moves/focus-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
@@ -15989,7 +15989,7 @@ Now compatible with HM02, Fly. (!!)
 | 25 | [Dizzy Punch](../pokedex/moves/dizzy-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 28 | [Agility](../pokedex/moves/agility.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 31 | [Switcheroo](../pokedex/moves/switcheroo.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Status | <input type="checkbox" disabled /> |
-| 34 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 34 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 37 | [Flail](../pokedex/moves/flail.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 40 | [Bounce](../pokedex/moves/bounce.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Physical | <input type="checkbox" disabled /> |
 | 43 | [Focus Punch](../pokedex/moves/focus-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
@@ -16088,7 +16088,7 @@ Now evolves into Purugly at Level 32.
 | 10 | [Hypnosis](../pokedex/moves/hypnosis.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Covet](../pokedex/moves/covet.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Feint Attack](../pokedex/moves/feint-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
-| 19 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 19 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 22 | [Slash](../pokedex/moves/slash.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 25 | [Assist](../pokedex/moves/assist.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 28 | [Knock Off](../pokedex/moves/knock-off.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
@@ -16126,7 +16126,7 @@ Now evolves into Purugly at Level 32.
 | 10 | [Hypnosis](../pokedex/moves/hypnosis.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 13 | [Covet](../pokedex/moves/covet.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Feint Attack](../pokedex/moves/feint-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
-| 19 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 19 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 22 | [Slash](../pokedex/moves/slash.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 25 | [Assist](../pokedex/moves/assist.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 28 | [Knock Off](../pokedex/moves/knock-off.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
@@ -16203,7 +16203,7 @@ Now evolves into Skuntank at Level 32.
 | 1 | [Focus Energy](../pokedex/moves/focus-energy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 4 | [Poison Gas](../pokedex/moves/poison-gas.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Screech](../pokedex/moves/screech.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 10 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 10 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Fury Swipes](../pokedex/moves/fury-swipes.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Smog](../pokedex/moves/smog.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Special | <input type="checkbox" disabled /> |
 | 19 | [Smokescreen](../pokedex/moves/smokescreen.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -16244,7 +16244,7 @@ Now evolves into Skuntank at Level 32.
 | 1 | [Focus Energy](../pokedex/moves/focus-energy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 4 | [Poison Gas](../pokedex/moves/poison-gas.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Screech](../pokedex/moves/screech.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 10 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 10 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Fury Swipes](../pokedex/moves/fury-swipes.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 16 | [Smog](../pokedex/moves/smog.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Special | <input type="checkbox" disabled /> |
 | 19 | [Smokescreen](../pokedex/moves/smokescreen.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -16434,11 +16434,11 @@ Now evolves into Skuntank at Level 32.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Pound](../pokedex/moves/pound.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Uproar](../pokedex/moves/uproar.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
 | 4 | [Copycat](../pokedex/moves/copycat.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Refresh](../pokedex/moves/refresh.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 10 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 10 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 
 ### 441 Chatot
 
@@ -16508,7 +16508,7 @@ Now evolves into Skuntank at Level 32.
 | 16 | [Will O Wisp](../pokedex/moves/will-o-wisp.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Status | <input type="checkbox" disabled /> |
 | 19 | [Ominous Wind](../pokedex/moves/ominous-wind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Special | <input type="checkbox" disabled /> |
 | 22 | [Disable](../pokedex/moves/disable.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 25 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 25 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 28 | [Shadow Ball](../pokedex/moves/shadow-ball.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Special | <input type="checkbox" disabled /> |
 | 31 | [Dark Pulse](../pokedex/moves/dark-pulse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Special | <input type="checkbox" disabled /> |
 | 34 | [Sucker Punch](../pokedex/moves/sucker-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
@@ -16537,7 +16537,7 @@ Now evolves into Skuntank at Level 32.
 |:------|:-----|:-----|:------|:------|
 | 1 | [Dragon Breath](../pokedex/moves/dragon-breath.md) | <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Dragon Breath](../pokedex/moves/dragon-breath.md) | <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | Special | <input type="checkbox" disabled /> |
 | 10 | [Bulldoze](../pokedex/moves/bulldoze.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Take Down](../pokedex/moves/take-down.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -16573,7 +16573,7 @@ Now evolves into Skuntank at Level 32.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Dragon Breath](../pokedex/moves/dragon-breath.md) | <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | Special | <input type="checkbox" disabled /> |
 | 10 | [Bulldoze](../pokedex/moves/bulldoze.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Take Down](../pokedex/moves/take-down.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -16614,7 +16614,7 @@ Now evolves into Skuntank at Level 32.
 |:------|:-----|:-----|:------|:------|
 | 1 | [Fire Fang](../pokedex/moves/fire-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 7 | [Dragon Breath](../pokedex/moves/dragon-breath.md) | <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | Special | <input type="checkbox" disabled /> |
 | 10 | [Bulldoze](../pokedex/moves/bulldoze.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Take Down](../pokedex/moves/take-down.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -16693,7 +16693,7 @@ Now evolves into Lucario when happy regardless of the time.
 | 1 | [Foresight](../pokedex/moves/foresight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Endure](../pokedex/moves/endure.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Low Kick](../pokedex/moves/low-kick.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
-| 4 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 4 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 7 | [Counter](../pokedex/moves/counter.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 10 | [Force Palm](../pokedex/moves/force-palm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Feint](../pokedex/moves/feint.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -16758,10 +16758,10 @@ Now evolves into Lucario when happy regardless of the time.
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
-| 1 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
+| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 11 | [Yawn](../pokedex/moves/yawn.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 15 | [Bulldoze](../pokedex/moves/bulldoze.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Physical | <input type="checkbox" disabled /> |
 | 19 | [Take Down](../pokedex/moves/take-down.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -16792,10 +16792,10 @@ Now evolves into Lucario when happy regardless of the time.
 | 1 | [Ice Fang](../pokedex/moves/ice-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Fire Fang](../pokedex/moves/fire-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Thunder Fang](../pokedex/moves/thunder-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
+| 7 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 11 | [Yawn](../pokedex/moves/yawn.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 15 | [Bulldoze](../pokedex/moves/bulldoze.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Physical | <input type="checkbox" disabled /> |
 | 19 | [Take Down](../pokedex/moves/take-down.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
@@ -16835,7 +16835,7 @@ Now evolves into Drapion at Level 30.
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Poison Sting](../pokedex/moves/poison-sting.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 6 | [Knock Off](../pokedex/moves/knock-off.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
@@ -16878,7 +16878,7 @@ Now evolves into Drapion at Level 30.
 | 1 | [Thunder Fang](../pokedex/moves/thunder-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Ice Fang](../pokedex/moves/ice-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Fire Fang](../pokedex/moves/fire-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Poison Sting](../pokedex/moves/poison-sting.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Leer](../pokedex/moves/leer.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 6 | [Knock Off](../pokedex/moves/knock-off.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
@@ -17009,7 +17009,7 @@ Now evolves into Toxicroak at Level 33.
 |:------|:-----|:-----|:------|:------|
 | 1 | [Bind](../pokedex/moves/bind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Growth](../pokedex/moves/growth.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 6 | [Vine Whip](../pokedex/moves/vine-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Physical | <input type="checkbox" disabled /> |
 | 9 | [Bug Bite](../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Physical | <input type="checkbox" disabled /> |
 | 12 | [Sweet Scent](../pokedex/moves/sweet-scent.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -17051,11 +17051,11 @@ Now evolves into Toxicroak at Level 33.
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
 | 1 | [Pound](../pokedex/moves/pound.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 6 | [Water Gun](../pokedex/moves/water-gun.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 9 | [Attract](../pokedex/moves/attract.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 12 | [Rain Dance](../pokedex/moves/rain-dance.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Status | <input type="checkbox" disabled /> |
-| 15 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
+| 15 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 18 | [Water Pulse](../pokedex/moves/water-pulse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 21 | [Psybeam](../pokedex/moves/psybeam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
 | 24 | [Captivate](../pokedex/moves/captivate.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -17094,11 +17094,11 @@ Now evolves into Toxicroak at Level 33.
 | 1 | [Icy Wind](../pokedex/moves/icy-wind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Ominous Wind](../pokedex/moves/ominous-wind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Pound](../pokedex/moves/pound.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 6 | [Water Gun](../pokedex/moves/water-gun.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 9 | [Attract](../pokedex/moves/attract.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 12 | [Rain Dance](../pokedex/moves/rain-dance.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Status | <input type="checkbox" disabled /> |
-| 15 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Special | <input type="checkbox" disabled /> |
+| 15 | [Gust](../pokedex/moves/gust.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
 | 18 | [Water Pulse](../pokedex/moves/water-pulse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 21 | [Psybeam](../pokedex/moves/psybeam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
 | 24 | [Captivate](../pokedex/moves/captivate.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
@@ -17587,9 +17587,9 @@ Now evolves into Toxicroak at Level 33.
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Tail Whip](../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Vine Whip](../pokedex/moves/vine-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Physical | <input type="checkbox" disabled checked /> |
-| 7 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 7 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Synthesis](../pokedex/moves/synthesis.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Status | <input type="checkbox" disabled /> |
 | 16 | [Razor Leaf](../pokedex/moves/razor-leaf.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Physical | <input type="checkbox" disabled /> |
@@ -17631,9 +17631,9 @@ Now evolves into Toxicroak at Level 33.
 | 1 | [Growl](../pokedex/moves/growl.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Tackle](../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Tail Whip](../pokedex/moves/tail-whip.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
-| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
+| 1 | [Bite](../pokedex/moves/bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Powder Snow](../pokedex/moves/powder-snow.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Special | <input type="checkbox" disabled checked /> |
-| 7 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 7 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 13 | [Mirror Coat](../pokedex/moves/mirror-coat.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
 | 16 | [Icy Wind](../pokedex/moves/icy-wind.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Special | <input type="checkbox" disabled /> |
@@ -17675,7 +17675,7 @@ Now evolves into Toxicroak at Level 33.
 | 1 | [Ice Fang](../pokedex/moves/ice-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Fire Fang](../pokedex/moves/fire-fang.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Poison Jab](../pokedex/moves/poison-jab.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Physical | <input type="checkbox" disabled /> |
-| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 1 | [Sand Attack](../pokedex/moves/sand-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Harden](../pokedex/moves/harden.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 4 | [Quick Attack](../pokedex/moves/quick-attack.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 7 | [Fury Cutter](../pokedex/moves/fury-cutter.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Physical | <input type="checkbox" disabled /> |
@@ -17880,7 +17880,7 @@ Now evolves into Toxicroak at Level 33.
 | 19 | [Pursuit](../pokedex/moves/pursuit.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
 | 22 | [Will O Wisp](../pokedex/moves/will-o-wisp.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | Status | <input type="checkbox" disabled /> |
 | 25 | [Payback](../pokedex/moves/payback.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | Physical | <input type="checkbox" disabled /> |
-| 28 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #777777 0%, #777777dd 100%);">Unknown</span> | Status | <input type="checkbox" disabled /> |
+| 28 | [Curse](../pokedex/moves/curse.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
 | 31 | [Shadow Ball](../pokedex/moves/shadow-ball.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Special | <input type="checkbox" disabled /> |
 | 32 | [Shadow Punch](../pokedex/moves/shadow-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Physical | <input type="checkbox" disabled /> |
 | 35 | [Confuse Ray](../pokedex/moves/confuse-ray.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | Status | <input type="checkbox" disabled /> |
@@ -18038,7 +18038,7 @@ All of Rotom's formes match their types as of Gen V.
 | 30 | [Natural Gift](../pokedex/moves/natural-gift.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 34 | [Copycat](../pokedex/moves/copycat.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 38 | [Extrasensory](../pokedex/moves/extrasensory.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
-| 42 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 42 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 46 | [Rest](../pokedex/moves/rest.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 50 | [Psychic](../pokedex/moves/psychic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
 
@@ -18252,7 +18252,7 @@ All of Rotom's formes match their types as of Gen V.
 | 26 | [Light Screen](../pokedex/moves/light-screen.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 30 | [Psycho Shift](../pokedex/moves/psycho-shift.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Status | <input type="checkbox" disabled /> |
 | 34 | [Psycho Cut](../pokedex/moves/psycho-cut.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Physical | <input type="checkbox" disabled /> |
-| 38 | [Moonlight](../pokedex/moves/moonlight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 38 | [Moonlight](../pokedex/moves/moonlight.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 42 | [Ice Beam](../pokedex/moves/ice-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | Special | <input type="checkbox" disabled /> |
 | 46 | [Psychic](../pokedex/moves/psychic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | Special | <input type="checkbox" disabled /> |
 | 50 | [Moonblast](../pokedex/moves/moonblast.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Special | <input type="checkbox" disabled /> |
@@ -18273,7 +18273,7 @@ All of Rotom's formes match their types as of Gen V.
 |:------|:-----|:-----|:------|:------|
 | 1 | [Bubble](../pokedex/moves/bubble.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Water Sport](../pokedex/moves/water-sport.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Status | <input type="checkbox" disabled /> |
-| 6 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 6 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Supersonic](../pokedex/moves/supersonic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 14 | [Bubble Beam](../pokedex/moves/bubble-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 18 | [Acid Armor](../pokedex/moves/acid-armor.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Status | <input type="checkbox" disabled /> |
@@ -18304,7 +18304,7 @@ All of Rotom's formes match their types as of Gen V.
 | 1 | [Tail Glow](../pokedex/moves/tail-glow.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | Status | <input type="checkbox" disabled /> |
 | 1 | [Bubble](../pokedex/moves/bubble.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Water Sport](../pokedex/moves/water-sport.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Status | <input type="checkbox" disabled /> |
-| 6 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 6 | [Charm](../pokedex/moves/charm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 10 | [Supersonic](../pokedex/moves/supersonic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
 | 14 | [Bubble Beam](../pokedex/moves/bubble-beam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 18 | [Acid Armor](../pokedex/moves/acid-armor.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> | Status | <input type="checkbox" disabled /> |
@@ -18374,7 +18374,7 @@ All of Rotom's formes match their types as of Gen V.
 | 30 | [Aromatherapy](../pokedex/moves/aromatherapy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Status | <input type="checkbox" disabled /> |
 | 34 | [Energy Ball](../pokedex/moves/energy-ball.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 38 | [Earth Power](../pokedex/moves/earth-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> | Special | <input type="checkbox" disabled /> |
-| 42 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 42 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 46 | [Leaf Storm](../pokedex/moves/leaf-storm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 50 | [Seed Flare](../pokedex/moves/seed-flare.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 
@@ -18393,7 +18393,7 @@ All of Rotom's formes match their types as of Gen V.
 | 30 | [Aromatherapy](../pokedex/moves/aromatherapy.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Status | <input type="checkbox" disabled /> |
 | 34 | [Energy Ball](../pokedex/moves/energy-ball.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 38 | [Air Slash](../pokedex/moves/air-slash.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | Special | <input type="checkbox" disabled /> |
-| 42 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Status | <input type="checkbox" disabled /> |
+| 42 | [Sweet Kiss](../pokedex/moves/sweet-kiss.md) | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> | Status | <input type="checkbox" disabled /> |
 | 46 | [Leaf Storm](../pokedex/moves/leaf-storm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 | 50 | [Seed Flare](../pokedex/moves/seed-flare.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | Special | <input type="checkbox" disabled /> |
 

@@ -88,7 +88,7 @@ Additionally, all TMs will now have a quantity of 99 when obtained.
 | ![Griseous Orb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/griseous-orb.png){ .item-sprite } [Griseous Orb](../pokedex/items/griseous-orb.md) | Distortion World |
 | ![Hard Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hard-stone.png){ .item-sprite } [Hard Stone](../pokedex/items/hard-stone.md) | Route 207 |
 | ![Heat Rock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heat-rock.png){ .item-sprite } [Heat Rock](../pokedex/items/heat-rock.md) | Route 214 |
-| Ice Stone | Oreburgh Mine, Route 216, Route 217 (Ice Rock), Snowpoint Temple, Veilstone Dept. Store (Buyable) |
+| ![Ice Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ice-stone.png){ .item-sprite } [Ice Stone](../pokedex/items/ice-stone.md) | Oreburgh Mine, Route 216, Route 217 (Ice Rock), Snowpoint Temple, Veilstone Dept. Store (Buyable) |
 | ![Icy Rock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/icy-rock.png){ .item-sprite } [Icy Rock](../pokedex/items/icy-rock.md) | Route 217 |
 | ![Iron Ball](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iron-ball.png){ .item-sprite } [Iron Ball](../pokedex/items/iron-ball.md) | Iron Island |
 | ![King's Rock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kings-rock.png){ .item-sprite } [King's Rock](../pokedex/items/kings-rock.md) | Wayward Cave, Celestic Town (Hidden), Veilstone Game Corner Prize (Buyable) |
@@ -274,8 +274,8 @@ A * means the location has changed from the original Platinum.
 | ![HM04](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM04](../pokedex/items/hm04.md), [Strength](../pokedex/moves/strength.md) | Iron Island | Gift from Riley | <input type="checkbox" disabled /> |
 | ![HM05](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM05](../pokedex/items/hm05.md), [Defog](../pokedex/moves/defog.md) | Solaceon Ruins | Item on ground | <input type="checkbox" disabled /> |
 | ![HM06](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM06](../pokedex/items/hm06.md), [Rock Smash](../pokedex/moves/rock-smash.md) | Oreburgh Gate | Gift from NPC | <input type="checkbox" disabled /> |
-| HM07 Waterfall | Pastoria Gym | Gift from Wake | <input type="checkbox" disabled checked /> |
-| HM08 Rock Climb | Snowpoint City | Gift from Candice | <input type="checkbox" disabled checked /> |
+| ![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md) | Pastoria Gym | Gift from Wake | <input type="checkbox" disabled checked /> |
+| ![HM08](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM08](../pokedex/items/hm08.md), [Rock Climb](../pokedex/moves/rock-climb.md) | Snowpoint City | Gift from Candice | <input type="checkbox" disabled checked /> |
 
 ## Plate Locations
 
@@ -341,7 +341,7 @@ A ** means the key item is new to Renegade Platinum.
 | ![Sprayduck](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sprayduck.png){ .item-sprite } [Sprayduck](../pokedex/items/sprayduck.md) | Floaroma Town | Gift from NPC | <input type="checkbox" disabled /> | <input type="checkbox" disabled /> |
 | ![Suite Key](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/suite-key.png){ .item-sprite } [Suite Key](../pokedex/items/suite-key.md) | Route 213 | Item on ground (hidden) | <input type="checkbox" disabled /> | <input type="checkbox" disabled /> |
 | ![Super Rod](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/super-rod.png){ .item-sprite } [Super Rod](../pokedex/items/super-rod.md) | Snowpoint City | Gift from NPC | <input type="checkbox" disabled checked /> | <input type="checkbox" disabled /> |
-| Tea | Pal Park | Gift from Darach | <input type="checkbox" disabled /> | <input type="checkbox" disabled checked /> |
+| ![Tea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tea.png){ .item-sprite } [Tea](../pokedex/items/tea.md) | Pal Park | Gift from Darach | <input type="checkbox" disabled /> | <input type="checkbox" disabled checked /> |
 | ![Town Map](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/town-map.png){ .item-sprite } [Town Map](../pokedex/items/town-map.md) | Jubilife City | Gift from rival | <input type="checkbox" disabled /> | <input type="checkbox" disabled /> |
 | ![Vs Seeker](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/vs-seeker.png){ .item-sprite } [Vs Seeker](../pokedex/items/vs-seeker.md) | Route 207 | Gift from Dawn/Lucas | <input type="checkbox" disabled /> | <input type="checkbox" disabled /> |
 | ![Works Key](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/works-key.png){ .item-sprite } [Works Key](../pokedex/items/works-key.md) | Floaroma Meadow | Gift from NPC | <input type="checkbox" disabled /> | <input type="checkbox" disabled /> |
