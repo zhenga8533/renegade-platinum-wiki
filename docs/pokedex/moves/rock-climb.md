@@ -1,5 +1,17 @@
 # Rock Climb
 
+
+!!! info "ROM Changes
+
+    **Power:** `90` → `80`
+
+    **Accuracy:** `85` → `95`
+
+    **Pp:** `20` → `10`
+
+    **Type:** `normal` → `rock`
+
+
 ## :material-chart-box: Stats
 
 <div class="grid cards" markdown>

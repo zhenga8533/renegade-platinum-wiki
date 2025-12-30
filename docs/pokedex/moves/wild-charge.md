@@ -1,5 +1,11 @@
 # Wild Charge
 
+
+!!! info "ROM Changes
+
+    **Power:** `90` → `100`
+
+
 ## :material-chart-box: Stats
 
 <div class="grid cards" markdown>

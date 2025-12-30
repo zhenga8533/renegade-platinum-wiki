@@ -8,51 +8,51 @@ Ninja Boy Zach
 
 === "(!)"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![zubat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/41.png){ .sprite }<br>[Zubat](../../pokedex/pokemon/zubat.md) | Lv. 19 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
-	| ![skorupi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/451.png){ .sprite }<br>[Skorupi](../../pokedex/pokemon/skorupi.md) | Lv. 19 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span></div> |
-	| ![zubat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/41.png){ .sprite }<br>[Zubat](../../pokedex/pokemon/zubat.md) | Lv. 19 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![zubat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/41.png){ .sprite }<br>[Zubat](../../pokedex/pokemon/zubat.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 19 |  |
+	| ![skorupi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/451.png){ .sprite }<br>[Skorupi](../../pokedex/pokemon/skorupi.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span></div> | **Level:** 19 |  |
+	| ![zubat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/41.png){ .sprite }<br>[Zubat](../../pokedex/pokemon/zubat.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 19 |  |
 
 === "(5)"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){ .sprite }<br>[Golbat](../../pokedex/pokemon/golbat.md) | Lv. 38 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
-	| ![skorupi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/451.png){ .sprite }<br>[Skorupi](../../pokedex/pokemon/skorupi.md) | Lv. 38 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span></div> |
-	| ![golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){ .sprite }<br>[Golbat](../../pokedex/pokemon/golbat.md) | Lv. 38 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){ .sprite }<br>[Golbat](../../pokedex/pokemon/golbat.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 38 |  |
+	| ![skorupi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/451.png){ .sprite }<br>[Skorupi](../../pokedex/pokemon/skorupi.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span></div> | **Level:** 38 |  |
+	| ![golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){ .sprite }<br>[Golbat](../../pokedex/pokemon/golbat.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 38 |  |
 
 === "(8)"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![crobat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/169.png){ .sprite }<br>[Crobat](../../pokedex/pokemon/crobat.md) | Lv. 59 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
-	| ![drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){ .sprite }<br>[Drapion](../../pokedex/pokemon/drapion.md) | Lv. 59 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> |
-	| ![crobat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/169.png){ .sprite }<br>[Crobat](../../pokedex/pokemon/crobat.md) | Lv. 59 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![crobat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/169.png){ .sprite }<br>[Crobat](../../pokedex/pokemon/crobat.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 59 |  |
+	| ![drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){ .sprite }<br>[Drapion](../../pokedex/pokemon/drapion.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> | **Level:** 59 |  |
+	| ![crobat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/169.png){ .sprite }<br>[Crobat](../../pokedex/pokemon/crobat.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 59 |  |
 
 === "(C)"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![crobat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/169.png){ .sprite }<br>[Crobat](../../pokedex/pokemon/crobat.md) | Lv. 70 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
-	| ![drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){ .sprite }<br>[Drapion](../../pokedex/pokemon/drapion.md) | Lv. 70 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> |
-	| ![crobat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/169.png){ .sprite }<br>[Crobat](../../pokedex/pokemon/crobat.md) | Lv. 70 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![crobat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/169.png){ .sprite }<br>[Crobat](../../pokedex/pokemon/crobat.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 70 |  |
+	| ![drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){ .sprite }<br>[Drapion](../../pokedex/pokemon/drapion.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> | **Level:** 70 |  |
+	| ![crobat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/169.png){ .sprite }<br>[Crobat](../../pokedex/pokemon/crobat.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 70 |  |
 
 Hiker Louis
 
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![geodude](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/74.png){ .sprite }<br>[Geodude](../../pokedex/pokemon/geodude.md) | Lv. 19 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> |
-| ![slugma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/218.png){ .sprite }<br>[Slugma](../../pokedex/pokemon/slugma.md) | Lv. 19 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> |
-| ![beldum](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/374.png){ .sprite }<br>[Beldum](../../pokedex/pokemon/beldum.md) | Lv. 19 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> |
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![geodude](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/74.png){ .sprite }<br>[Geodude](../../pokedex/pokemon/geodude.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> | **Level:** 19 |  |
+| ![slugma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/218.png){ .sprite }<br>[Slugma](../../pokedex/pokemon/slugma.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> | **Level:** 19 |  |
+| ![beldum](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/374.png){ .sprite }<br>[Beldum](../../pokedex/pokemon/beldum.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> | **Level:** 19 |  |
 
 Bird Keeper Alexandra
 
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![natu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/177.png){ .sprite }<br>[Natu](../../pokedex/pokemon/natu.md) | Lv. 20 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
-| ![swablu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/333.png){ .sprite }<br>[Swablu](../../pokedex/pokemon/swablu.md) | Lv. 20 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
-| ![staravia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/397.png){ .sprite }<br>[Staravia](../../pokedex/pokemon/staravia.md) | Lv. 20 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![natu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/177.png){ .sprite }<br>[Natu](../../pokedex/pokemon/natu.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 20 |  |
+| ![swablu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/333.png){ .sprite }<br>[Swablu](../../pokedex/pokemon/swablu.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 20 |  |
+| ![staravia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/397.png){ .sprite }<br>[Staravia](../../pokedex/pokemon/staravia.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 20 |  |
 
 ### Wild Encounters
 
@@ -101,41 +101,41 @@ Poké Radar
 
 Bird Keeper Katherine
 
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![noctowl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/164.png){ .sprite }<br>[Noctowl](../../pokedex/pokemon/noctowl.md) | Lv. 22 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![noctowl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/164.png){ .sprite }<br>[Noctowl](../../pokedex/pokemon/noctowl.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 22 |  |
 
 Ninja Boy Nick
 
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![ninjask](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/291.png){ .sprite }<br>[Ninjask](../../pokedex/pokemon/ninjask.md) | Lv. 20 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![ninjask](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/291.png){ .sprite }<br>[Ninjask](../../pokedex/pokemon/ninjask.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 20 |  |
 
 Black Belt Sean
 
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![heracross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/214.png){ .sprite }<br>[Heracross](../../pokedex/pokemon/heracross.md) | Lv. 22 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> |
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![heracross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/214.png){ .sprite }<br>[Heracross](../../pokedex/pokemon/heracross.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> | **Level:** 22 |  |
 
 Ruin Maniac Harry
 
 === "(!)"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![aerodactyl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/142.png){ .sprite }<br>[Aerodactyl](../../pokedex/pokemon/aerodactyl.md) | Lv. 21 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![aerodactyl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/142.png){ .sprite }<br>[Aerodactyl](../../pokedex/pokemon/aerodactyl.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 21 |  |
 
 === "(8)"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![aerodactyl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/142.png){ .sprite }<br>[Aerodactyl](../../pokedex/pokemon/aerodactyl.md) | Lv. 61 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![aerodactyl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/142.png){ .sprite }<br>[Aerodactyl](../../pokedex/pokemon/aerodactyl.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 61 |  |
 
 === "(C)"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![aerodactyl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/142.png){ .sprite }<br>[Aerodactyl](../../pokedex/pokemon/aerodactyl.md) | Lv. 72 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![aerodactyl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/142.png){ .sprite }<br>[Aerodactyl](../../pokedex/pokemon/aerodactyl.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 72 |  |
 
 ### Wild Encounters
 

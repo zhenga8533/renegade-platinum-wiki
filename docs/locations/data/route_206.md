@@ -4,110 +4,110 @@
 
 Cyclist Axel
 
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![pichu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/172.png){ .sprite }<br>[Pichu](../../pokedex/pokemon/pichu.md) | Lv. 19 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> |
-| ![pichu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/172.png){ .sprite }<br>[Pichu](../../pokedex/pokemon/pichu.md) | Lv. 19 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> |
-| ![pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/25.png){ .sprite }<br>[Pikachu](../../pokedex/pokemon/pikachu.md) | Lv. 19 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> |
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![pichu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/172.png){ .sprite }<br>[Pichu](../../pokedex/pokemon/pichu.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> | **Level:** 19 |  |
+| ![pichu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/172.png){ .sprite }<br>[Pichu](../../pokedex/pokemon/pichu.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> | **Level:** 19 |  |
+| ![pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/25.png){ .sprite }<br>[Pikachu](../../pokedex/pokemon/pikachu.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> | **Level:** 19 |  |
 
 Cyclist Megan
 
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![pidgeotto](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/17.png){ .sprite }<br>[Pidgeotto](../../pokedex/pokemon/pidgeotto.md) | Lv. 21 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![pidgeotto](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/17.png){ .sprite }<br>[Pidgeotto](../../pokedex/pokemon/pidgeotto.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 21 |  |
 
 Cyclist James
 
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![ponyta](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/77.png){ .sprite }<br>[Ponyta](../../pokedex/pokemon/ponyta.md) | Lv. 20 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> |
-| ![flaaffy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/180.png){ .sprite }<br>[Flaaffy](../../pokedex/pokemon/flaaffy.md) | Lv. 20 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> |
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![ponyta](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/77.png){ .sprite }<br>[Ponyta](../../pokedex/pokemon/ponyta.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> | **Level:** 20 |  |
+| ![flaaffy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/180.png){ .sprite }<br>[Flaaffy](../../pokedex/pokemon/flaaffy.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> | **Level:** 20 |  |
 
 Cyclist Nicole
 
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![taillow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/276.png){ .sprite }<br>[Taillow](../../pokedex/pokemon/taillow.md) | Lv. 19 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
-| ![doduo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/84.png){ .sprite }<br>[Doduo](../../pokedex/pokemon/doduo.md) | Lv. 19 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
-| ![wingull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/278.png){ .sprite }<br>[Wingull](../../pokedex/pokemon/wingull.md) | Lv. 19 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![taillow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/276.png){ .sprite }<br>[Taillow](../../pokedex/pokemon/taillow.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 19 |  |
+| ![doduo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/84.png){ .sprite }<br>[Doduo](../../pokedex/pokemon/doduo.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 19 |  |
+| ![wingull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/278.png){ .sprite }<br>[Wingull](../../pokedex/pokemon/wingull.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 19 |  |
 
 Cyclist John
 
 === "(!)"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![farfetchd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){ .sprite }<br>[Farfetchˈd](../../pokedex/pokemon/farfetchd.md) | Lv. 21 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![farfetchd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){ .sprite }<br>[Farfetchˈd](../../pokedex/pokemon/farfetchd.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 21 |  |
 
 === "(5)"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![farfetchd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){ .sprite }<br>[Farfetchˈd](../../pokedex/pokemon/farfetchd.md) | Lv. 40 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![farfetchd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){ .sprite }<br>[Farfetchˈd](../../pokedex/pokemon/farfetchd.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 40 |  |
 
 === "(8)"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![farfetchd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){ .sprite }<br>[Farfetchˈd](../../pokedex/pokemon/farfetchd.md) | Lv. 61 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![farfetchd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){ .sprite }<br>[Farfetchˈd](../../pokedex/pokemon/farfetchd.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 61 |  |
 
 === "(C)"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![farfetchd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){ .sprite }<br>[Farfetchˈd](../../pokedex/pokemon/farfetchd.md) | Lv. 72 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![farfetchd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){ .sprite }<br>[Farfetchˈd](../../pokedex/pokemon/farfetchd.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 72 |  |
 
 Cyclist Kayla
 
 === "(!)"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![voltorb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/100.png){ .sprite }<br>[Voltorb](../../pokedex/pokemon/voltorb.md) | Lv. 19 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> |
-	| ![magnemite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/81.png){ .sprite }<br>[Magnemite](../../pokedex/pokemon/magnemite.md) | Lv. 19 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span></div> |
-	| ![electrike](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/309.png){ .sprite }<br>[Electrike](../../pokedex/pokemon/electrike.md) | Lv. 19 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![voltorb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/100.png){ .sprite }<br>[Voltorb](../../pokedex/pokemon/voltorb.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> | **Level:** 19 |  |
+	| ![magnemite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/81.png){ .sprite }<br>[Magnemite](../../pokedex/pokemon/magnemite.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span></div> | **Level:** 19 |  |
+	| ![electrike](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/309.png){ .sprite }<br>[Electrike](../../pokedex/pokemon/electrike.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> | **Level:** 19 |  |
 
 === "(5)"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![electrode](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/101.png){ .sprite }<br>[Electrode](../../pokedex/pokemon/electrode.md) | Lv. 38 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> |
-	| ![magneton](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/82.png){ .sprite }<br>[Magneton](../../pokedex/pokemon/magneton.md) | Lv. 38 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span></div> |
-	| ![manectric](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/310.png){ .sprite }<br>[Manectric](../../pokedex/pokemon/manectric.md) | Lv. 38 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![electrode](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/101.png){ .sprite }<br>[Electrode](../../pokedex/pokemon/electrode.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> | **Level:** 38 |  |
+	| ![magneton](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/82.png){ .sprite }<br>[Magneton](../../pokedex/pokemon/magneton.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span></div> | **Level:** 38 |  |
+	| ![manectric](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/310.png){ .sprite }<br>[Manectric](../../pokedex/pokemon/manectric.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> | **Level:** 38 |  |
 
 === "(8)"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![electrode](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/101.png){ .sprite }<br>[Electrode](../../pokedex/pokemon/electrode.md) | Lv. 59 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> |
-	| ![magneton](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/82.png){ .sprite }<br>[Magneton](../../pokedex/pokemon/magneton.md) | Lv. 59 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span></div> |
-	| ![manectric](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/310.png){ .sprite }<br>[Manectric](../../pokedex/pokemon/manectric.md) | Lv. 59 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![electrode](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/101.png){ .sprite }<br>[Electrode](../../pokedex/pokemon/electrode.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> | **Level:** 59 |  |
+	| ![magneton](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/82.png){ .sprite }<br>[Magneton](../../pokedex/pokemon/magneton.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span></div> | **Level:** 59 |  |
+	| ![manectric](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/310.png){ .sprite }<br>[Manectric](../../pokedex/pokemon/manectric.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> | **Level:** 59 |  |
 
 === "(C)"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![electrode](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/101.png){ .sprite }<br>[Electrode](../../pokedex/pokemon/electrode.md) | Lv. 70 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> |
-	| ![magnezone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/462.png){ .sprite }<br>[Magnezone](../../pokedex/pokemon/magnezone.md) | Lv. 70 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span></div> |
-	| ![manectric](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/310.png){ .sprite }<br>[Manectric](../../pokedex/pokemon/manectric.md) | Lv. 70 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![electrode](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/101.png){ .sprite }<br>[Electrode](../../pokedex/pokemon/electrode.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> | **Level:** 70 |  |
+	| ![magnezone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/462.png){ .sprite }<br>[Magnezone](../../pokedex/pokemon/magnezone.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span></div> | **Level:** 70 |  |
+	| ![manectric](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/310.png){ .sprite }<br>[Manectric](../../pokedex/pokemon/manectric.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> | **Level:** 70 |  |
 
 Cyclist Ryan
 
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![luxio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/404.png){ .sprite }<br>[Luxio](../../pokedex/pokemon/luxio.md) | Lv. 21 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> |
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![luxio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/404.png){ .sprite }<br>[Luxio](../../pokedex/pokemon/luxio.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> | **Level:** 21 |  |
 
 Cyclist Rachel
 
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![jolteon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/135.png){ .sprite }<br>[Jolteon](../../pokedex/pokemon/jolteon.md) | Lv. 21 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> |
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![jolteon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/135.png){ .sprite }<br>[Jolteon](../../pokedex/pokemon/jolteon.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> | **Level:** 21 |  |
 
 Hiker Theodore
 
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![torkoal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/324.png){ .sprite }<br>[Torkoal](../../pokedex/pokemon/torkoal.md) | Lv. 26 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> |
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![torkoal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/324.png){ .sprite }<br>[Torkoal](../../pokedex/pokemon/torkoal.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> | **Level:** 26 |  |
 
 ## Wild Encounters
 

@@ -1,5 +1,11 @@
 # Rock Smash
 
+
+!!! info "ROM Changes
+
+    **Power:** `40` → `60`
+
+
 ## :material-chart-box: Stats
 
 <div class="grid cards" markdown>

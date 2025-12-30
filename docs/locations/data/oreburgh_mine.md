@@ -1,25 +1,5 @@
 # Oreburgh Mine
 
-## Main Area
-
-### Trainers
-
-Worker Mason
-
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![aron](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/304.png){ .sprite }<br>[Aron](../../pokedex/pokemon/aron.md) | Lv. 12 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span></div> |
-| ![phanpy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/231.png){ .sprite }<br>[Phanpy](../../pokedex/pokemon/phanpy.md) | Lv. 12 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> |
-| ![riolu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/447.png){ .sprite }<br>[Riolu](../../pokedex/pokemon/riolu.md) | Lv. 12 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> |
-
-Worker Colin
-
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![geodude](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/74.png){ .sprite }<br>[Geodude](../../pokedex/pokemon/geodude.md) | Lv. 12 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> |
-| ![whismur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/293.png){ .sprite }<br>[Whismur](../../pokedex/pokemon/whismur.md) | Lv. 12 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> |
-| ![machop](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/66.png){ .sprite }<br>[Machop](../../pokedex/pokemon/machop.md) | Lv. 12 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> |
-
 ## 1F
 
 ### Wild Encounters

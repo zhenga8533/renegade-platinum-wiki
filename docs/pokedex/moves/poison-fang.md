@@ -1,5 +1,11 @@
 # Poison Fang
 
+
+!!! info "ROM Changes
+
+    **Power:** `50` → `65`
+
+
 ## :material-chart-box: Stats
 
 <div class="grid cards" markdown>

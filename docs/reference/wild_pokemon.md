@@ -5068,7 +5068,7 @@ Wild Levels: 30 - 45 (Surf)
 | ![torkoal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/324.png){ .sprite }<br>[Torkoal](../pokedex/pokemon/torkoal.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> | 66 - 68 | 10% |
 
 
-### Stark Mountain (Entrance)
+#### Stark Mountain ~ Entrance
 
 #### Morning
 
@@ -5110,7 +5110,7 @@ Wild Levels: 30 - 45 (Surf)
 | ![torkoal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/324.png){ .sprite }<br>[Torkoal](../pokedex/pokemon/torkoal.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> | 67 - 69 | 10% |
 
 
-### Stark Mountain (Interior)
+#### Stark Mountain ~ Interior
 
 #### Morning
 

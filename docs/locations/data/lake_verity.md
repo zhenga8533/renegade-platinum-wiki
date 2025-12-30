@@ -4,45 +4,43 @@
 
 Galactic Grunt
 
-=== "Team 1"
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![beautifly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/267.png){ .sprite }<br>[Beautifly](../../pokedex/pokemon/beautifly.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 50 |  |
+| ![butterfree](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/12.png){ .sprite }<br>[Butterfree](../../pokedex/pokemon/butterfree.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 50 |  |
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![beautifly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/267.png){ .sprite }<br>[Beautifly](../../pokedex/pokemon/beautifly.md) | Lv. 50 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
-	| ![butterfree](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/12.png){ .sprite }<br>[Butterfree](../../pokedex/pokemon/butterfree.md) | Lv. 50 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
+Galactic Grunt
 
-=== "Trainer 2"
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![dustox](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/269.png){ .sprite }<br>[Dustox](../../pokedex/pokemon/dustox.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | **Level:** 50 |  |
+| ![beedrill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/15.png){ .sprite }<br>[Beedrill](../../pokedex/pokemon/beedrill.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | **Level:** 50 |  |
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![dustox](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/269.png){ .sprite }<br>[Dustox](../../pokedex/pokemon/dustox.md) | Lv. 50 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
-	| ![beedrill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/15.png){ .sprite }<br>[Beedrill](../../pokedex/pokemon/beedrill.md) | Lv. 50 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
+Galactic Grunt
 
-=== "Trainer 3"
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![nidorino](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/33.png){ .sprite }<br>[Nidorino](../../pokedex/pokemon/nidorino.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | **Level:** 49 |  |
+| ![golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){ .sprite }<br>[Golbat](../../pokedex/pokemon/golbat.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 49 |  |
+| ![wormadam-plant](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/413.png){ .sprite }<br>[Wormadam Plant](../../pokedex/pokemon/wormadam-plant.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span></div> | **Level:** 49 |  |
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![nidorino](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/33.png){ .sprite }<br>[Nidorino](../../pokedex/pokemon/nidorino.md) | Lv. 49 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
-	| ![golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){ .sprite }<br>[Golbat](../../pokedex/pokemon/golbat.md) | Lv. 49 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
-	| ![wormadam-plant](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/413.png){ .sprite }<br>[Wormadam Plant](../../pokedex/pokemon/wormadam-plant.md) | Lv. 49 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span></div> |
+Galactic Grunt
 
-=== "Trainer 4"
-
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![nidorina](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/30.png){ .sprite }<br>[Nidorina](../../pokedex/pokemon/nidorina.md) | Lv. 49 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
-	| ![golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){ .sprite }<br>[Golbat](../../pokedex/pokemon/golbat.md) | Lv. 49 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
-	| ![mothim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/414.png){ .sprite }<br>[Mothim](../../pokedex/pokemon/mothim.md) | Lv. 49 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![nidorina](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/30.png){ .sprite }<br>[Nidorina](../../pokedex/pokemon/nidorina.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | **Level:** 49 |  |
+| ![golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){ .sprite }<br>[Golbat](../../pokedex/pokemon/golbat.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 49 |  |
+| ![mothim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/414.png){ .sprite }<br>[Mothim](../../pokedex/pokemon/mothim.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 49 |  |
 
 Commander Mars
 
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![crobat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/169.png){ .sprite }<br>[Crobat](../../pokedex/pokemon/crobat.md) | Lv. 52 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
-| ![yanmega](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/469.png){ .sprite }<br>[Yanmega](../../pokedex/pokemon/yanmega.md) | Lv. 52 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
-| ![bronzong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/437.png){ .sprite }<br>[Bronzong](../../pokedex/pokemon/bronzong.md) | Lv. 52 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> |
-| ![kangaskhan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/115.png){ .sprite }<br>[Kangaskhan](../../pokedex/pokemon/kangaskhan.md) | Lv. 52 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> |
-| ![purugly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/432.png){ .sprite }<br>[Purugly](../../pokedex/pokemon/purugly.md) | Lv. 53 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> |
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![crobat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/169.png){ .sprite }<br>[Crobat](../../pokedex/pokemon/crobat.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 52 |  |
+| ![yanmega](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/469.png){ .sprite }<br>[Yanmega](../../pokedex/pokemon/yanmega.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 52 |  |
+| ![bronzong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/437.png){ .sprite }<br>[Bronzong](../../pokedex/pokemon/bronzong.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> | **Level:** 52 |  |
+| ![kangaskhan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/115.png){ .sprite }<br>[Kangaskhan](../../pokedex/pokemon/kangaskhan.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> | **Level:** 52 |  |
+| ![purugly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/432.png){ .sprite }<br>[Purugly](../../pokedex/pokemon/purugly.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> | **Level:** 53 |  |
 
 ## Wild Encounters
 

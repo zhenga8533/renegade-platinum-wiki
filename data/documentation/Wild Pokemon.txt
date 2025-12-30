@@ -889,14 +889,14 @@ Morning     Fearow (20%), Rhydon (20%), Camerupt (10%), Machoke (10%), Skarmory 
 Day         Fearow (20%), Rhydon (20%), Camerupt (10%), Machoke (10%), Skarmory (10%), Gligar (10%), Magmar (10%), Torkoal (10%)
 Night       Fearow (20%), Rhydon (20%), Camerupt (10%), Machoke (10%), Skarmory (10%), Gligar (10%), Magmar (10%), Torkoal (10%)
 
-Stark Mountain (Entrance)
+Stark Mountain ~ Entrance
 Levels: 67 - 69 (Walking)
 ==================================================================================================================================
 Morning     Golbat (20%), Rhydon (20%), Magcargo (10%), Graveler (10%), Machoke (10%), Weezing (10%), Muk (10%), Torkoal (10%)
 Day         Golbat (20%), Rhydon (20%), Magcargo (10%), Graveler (10%), Machoke (10%), Weezing (10%), Muk (10%), Torkoal (10%)
 Night       Golbat (20%), Rhydon (20%), Magcargo (10%), Graveler (10%), Machoke (10%), Weezing (10%), Muk (10%), Torkoal (10%)
 
-Stark Mountain (Interior)
+Stark Mountain ~ Interior
 Levels: 67 - 69 (Walking)
 ==================================================================================================================================
 Morning     Magcargo (20%), Rhydon (20%), Golbat (10%), Graveler (10%), Machoke (10%), Weezing (10%), Muk (10%), Torkoal (10%)

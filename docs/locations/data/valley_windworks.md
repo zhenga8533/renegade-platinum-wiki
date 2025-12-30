@@ -4,37 +4,35 @@
 
 Galactic Grunt
 
-=== "Team 1"
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![poochyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/261.png){ .sprite }<br>[Poochyena](../../pokedex/pokemon/poochyena.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> | **Level:** 14 |  |
+| ![gulpin](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/316.png){ .sprite }<br>[Gulpin](../../pokedex/pokemon/gulpin.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | **Level:** 14 |  |
+| ![houndour](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/228.png){ .sprite }<br>[Houndour](../../pokedex/pokemon/houndour.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> | **Level:** 14 |  |
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![poochyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/261.png){ .sprite }<br>[Poochyena](../../pokedex/pokemon/poochyena.md) | Lv. 14 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> |
-	| ![gulpin](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/316.png){ .sprite }<br>[Gulpin](../../pokedex/pokemon/gulpin.md) | Lv. 14 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
-	| ![houndour](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/228.png){ .sprite }<br>[Houndour](../../pokedex/pokemon/houndour.md) | Lv. 14 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> |
+Galactic Grunt
 
-=== "Trainer 2"
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![grimer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/88.png){ .sprite }<br>[Grimer](../../pokedex/pokemon/grimer.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | **Level:** 15 |  |
+| ![koffing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/109.png){ .sprite }<br>[Koffing](../../pokedex/pokemon/koffing.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | **Level:** 15 |  |
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![grimer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/88.png){ .sprite }<br>[Grimer](../../pokedex/pokemon/grimer.md) | Lv. 15 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
-	| ![koffing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/109.png){ .sprite }<br>[Koffing](../../pokedex/pokemon/koffing.md) | Lv. 15 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
+Galactic Grunt
 
-=== "Trainer 3"
-
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![kakuna](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/14.png){ .sprite }<br>[Kakuna](../../pokedex/pokemon/kakuna.md) | Lv. 14 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
-	| ![pineco](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/204.png){ .sprite }<br>[Pineco](../../pokedex/pokemon/pineco.md) | Lv. 14 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span></div> |
-	| ![metapod](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/11.png){ .sprite }<br>[Metapod](../../pokedex/pokemon/metapod.md) | Lv. 14 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span></div> |
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![kakuna](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/14.png){ .sprite }<br>[Kakuna](../../pokedex/pokemon/kakuna.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> | **Level:** 14 |  |
+| ![pineco](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/204.png){ .sprite }<br>[Pineco](../../pokedex/pokemon/pineco.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span></div> | **Level:** 14 |  |
+| ![metapod](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/11.png){ .sprite }<br>[Metapod](../../pokedex/pokemon/metapod.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span></div> | **Level:** 14 |  |
 
 Commander Mars
 
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![zubat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/41.png){ .sprite }<br>[Zubat](../../pokedex/pokemon/zubat.md) | Lv. 18 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
-| ![bronzor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/436.png){ .sprite }<br>[Bronzor](../../pokedex/pokemon/bronzor.md) | Lv. 18 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> |
-| ![yanma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/193.png){ .sprite }<br>[Yanma](../../pokedex/pokemon/yanma.md) | Lv. 18 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
-| ![purugly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/432.png){ .sprite }<br>[Purugly](../../pokedex/pokemon/purugly.md) | Lv. 19 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> |
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![zubat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/41.png){ .sprite }<br>[Zubat](../../pokedex/pokemon/zubat.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 18 |  |
+| ![bronzor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/436.png){ .sprite }<br>[Bronzor](../../pokedex/pokemon/bronzor.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span></div> | **Level:** 18 |  |
+| ![yanma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/193.png){ .sprite }<br>[Yanma](../../pokedex/pokemon/yanma.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> | **Level:** 18 |  |
+| ![purugly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/432.png){ .sprite }<br>[Purugly](../../pokedex/pokemon/purugly.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> | **Level:** 19 |  |
 
 ## Wild Encounters
 

@@ -1,31 +1,5 @@
 # Oreburgh Gate
 
-## Main Area
-
-### Trainers
-
-Camper Curtis
-
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![seedot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/273.png){ .sprite }<br>[Seedot](../../pokedex/pokemon/seedot.md) | Lv. 10 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span></div> |
-| ![diglett](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/50.png){ .sprite }<br>[Diglett](../../pokedex/pokemon/diglett.md) | Lv. 10 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> |
-
-Picnicker Diana
-
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![whismur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/293.png){ .sprite }<br>[Whismur](../../pokedex/pokemon/whismur.md) | Lv. 10 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> |
-| ![wooper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/194.png){ .sprite }<br>[Wooper](../../pokedex/pokemon/wooper.md) | Lv. 10 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> |
-
-Veteran Grant
-
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![lucario](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/448.png){ .sprite }<br>[Lucario](../../pokedex/pokemon/lucario.md) | Lv. 45 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span></div> |
-| ![golem](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/76.png){ .sprite }<br>[Golem](../../pokedex/pokemon/golem.md) | Lv. 45 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> |
-| ![staraptor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/398.png){ .sprite }<br>[Staraptor](../../pokedex/pokemon/staraptor.md) | Lv. 45 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
-
 ## 1F
 
 ### Wild Encounters

@@ -12,6 +12,12 @@
 	</div>
 </div>
 
+
+!!! info "ROM Changes
+
+    **Abilities:** `shield-dust` → `run-away / shield-dust`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

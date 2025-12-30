@@ -20,19 +20,19 @@
 
 	---
 
-	50
+	60
 
 - **:material-target: Accuracy**
 
 	---
 
-	80%
+	95%
 
 - **:material-counter: PP**
 
 	---
 
-	10
+	15
 
 - **:material-priority-high: Priority**
 

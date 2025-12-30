@@ -12,6 +12,14 @@
 	</div>
 </div>
 
+
+!!! info "ROM Changes
+
+    **Abilities:** `clear-body` → `rock-head / clear-body`
+
+    **Catch Rate:** `3` → `45`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

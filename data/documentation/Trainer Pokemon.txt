@@ -42,7 +42,7 @@ Youngster Tristan (3)       Noctowl Lv. 27, Staravia Lv. 27
 Youngster Tristan (5)       Noctowl Lv. 39, Staraptor Lv. 39
 Youngster Tristan (8)       Noctowl Lv. 59, Staraptor Lv. 59, Pidgeot Lv. 59
 
-Jubilife City Trainer School
+Jubilife City ~ Trainer School
 ---
 Schoolkid Harrison          Abra Lv. 8, Psyduck Lv. 8
 Schoolkid Christine         Ralts Lv. 8, Staryu Lv. 8
@@ -77,7 +77,7 @@ Lass Madeline (3)           Psyduck Lv. 26, Sunkern Lv. 26, Buneary Lv. 26
 Lass Madeline (5)           Golduck Lv. 38, Sunflora Lv. 38, Lopunny Lv. 38
 Lass Madeline (8)           Golduck Lv. 59, Sunflora Lv. 59, Lopunny Lv. 59
 
-Oreburgh Gate
+Oreburgh City ~ Oreburgh Gate
 ---
 Camper Curtis               Seedot Lv. 10, Diglett Lv. 10
 Picnicker Diana             Whismur Lv. 10, Wooper Lv. 10
@@ -96,12 +96,12 @@ Cradily (Lv. 88) @ Leftovers        /   ?           /   Suction Cups    /   Powe
 Armaldo (Lv. 88) @ Passho Berry     /   ?           /   Battle Armor    /   Stone Edge, X-Scissor, Swords Dance, Aqua Jet
 Metagross (Lv. 89) @ Life Orb       /   ?           /   Iron Fist       /   Meteor Mash, Zen Headbutt, Earthquake, Ice Punch
 
-Oreburgh Mine
+Oreburgh City ~ Oreburgh Mine
 ---
 Worker Mason                Aron Lv. 12, Phanpy Lv. 12, Riolu Lv. 12
 Worker Colin                Geodude Lv. 12, Whismur Lv. 12, Machop Lv. 12
 
-Oreburgh Gym
+Oreburgh City ~ Oreburgh Gym
 ---
 Youngster Jonathon          Rhyhorn Lv. 13, Omanyte Lv. 13, Kabuto Lv. 13
 Youngster Darius            Aron Lv. 13, Anorith Lv. 13, Lileep Lv. 13
@@ -273,7 +273,7 @@ Cyclist Kayla (5)           Electrode Lv. 38, Magneton Lv. 38, Manectric Lv. 38
 Cyclist Kayla (8)           Electrode Lv. 59, Magneton Lv. 59, Manectric Lv. 59
 Cyclist Kayla (C)           Electrode Lv. 70, Magnezone Lv. 70, Manectric Lv. 70
 
-Eterna Gym
+Eterna City ~ Eterna Gym
 ---
 Lass Caroline               Lotad Lv. 22, Cacnea Lv. 22, Exeggcute Lv. 22, Shroomish Lv. 22
 Aroma Lady Jenna            Weepinbell Lv. 23, Ivysaur Lv. 23, Gloom Lv. 23
@@ -288,7 +288,7 @@ Grotle (Lv. 25) @ Leftovers         /   Adamant     /   Overgrow        /   Seed
 Breloom (Lv. 25) @ Muscle Band      /   Naughty     /   Technician      /   Bullet Seed, Mach Punch, Thunder Punch, Spore
 Roserade (Lv. 26) @ Sitrus Berry    /   Timid       /   Technician      /   Magical Leaf, Sludge, Dazzling Gleam, Extrasensory
 
-Team Galactic Eterna Building
+Eterna City ~ Team Galactic Building
 ---
 Galactic Grunt              Ledian Lv. 24, Ariados Lv. 24
 Galactic Grunt              Ekans Lv. 23, Glameow Lv. 23, Nidoran♀ Lv. 23
@@ -384,7 +384,7 @@ Venomoth (Lv. 31) @ Wise Glasses    /   Naive       /   Tinted Lens     /   Bug 
 Scizor (Lv. 31) @ Muscle Band       /   Adamant     /   Technician      /   X-Scissor, Bullet Punch, Iron Head, Swords Dance
 Drapion (Lv. 32) @ Scope Lens       /   Jolly       /   Sniper          /   Cross Poison, X-Scissor, Night Slash, Swords Dance
 
-Hearthome Gym
+Hearthome City ~ Hearthome Gym
 ---
 Youngster Donny             Gastly Lv. 27, Gastly Lv. 27, Gastly Lv. 27
 Lass Molly                  Misdreavus Lv. 29
@@ -528,7 +528,7 @@ Ace Trainer Dennis (S)      Gliscor Lv. 77, Gyarados Lv. 77, Drifblim Lv. 77
 Ace Trainer Maya (7)        Lickilicky Lv. 62, Gardevoir Lv. 62, Roserade Lv. 62
 Ace Trainer Maya (S)        Lickilicky Lv. 77, Gardevoir Lv. 77, Roserade Lv. 77
 
-Veilstone Gym
+Veilstone City ~ Veilstone Gym
 ---
 Black Belt Colby            Machop Lv. 33, Meditite Lv. 33, Croagunk Lv. 33, Mankey Lv. 33, Makuhita Lv. 33
 Black Belt Darren           Primeape Lv. 35, Hariyama Lv. 35, Breloom Lv. 35
@@ -658,7 +658,7 @@ Torterra (Lv. 42) @ Sitrus Berry    /   ?           /   Overgrow        /   Seed
 Infernape (Lv. 42) @ Sitrus Berry   /   ?           /   Iron Fist       /   Flamethrower, Close Combat, Fake Out, Thunder Punch (!)
 Empoleon (Lv. 42) @ Sitrus Berry    /   ?           /   Torrent         /   Scald, Flash Cannon, Agility, Swagger               (!)
 
-Pastoria Gym
+Pastoria City ~ Pastoria Gym
 ---
 Tuber Jacky                 Bibarel Lv. 39, Wartortle Lv. 39, Sealeo Lv. 39
 Fisherman Walter            Whiscash Lv. 39, Lanturn Lv. 39, Seaking Lv. 39
@@ -842,7 +842,7 @@ Salamence (Lv. 49) @ Power Herb     /   ?           /   Intimidate      /   Drag
 Slaking (Lv. 49) @ Sitrus Berry     /   ?           /   Truant          /   Body Slam, Hammer Arm, Play Rough, Slack Off
 Lucario (Lv. 50) @ Life Orb         /   ?           /   Adaptability    /   High Jump Kick, Meteor Mash, Blaze Kick, Bullet Punch
 
-Canalave Gym
+Canalave City ~ Canalave Gym
 ---
 Black Belt Ricky            Steelix Lv. 51
 Worker Gary                 Magnemite Lv. 46, Aron Lv. 46, Bronzor Lv. 46, Beldum Lv. 46, Shieldon Lv. 46
@@ -915,7 +915,7 @@ Snowpoint City
 Ace Trainer Aran            Heracross Lv. 54, Typhlosion Lv. 54, Tyranitar Lv. 54
 Ace Trainer Nephenee        Blissey Lv. 54, Meganium Lv. 54, Feraligatr Lv. 54
 
-Snowpoint Gym
+Snowpoint City ~ Snowpoint Gym
 ---
 Ace Trainer Anton           Snorunt Lv. 51, Glalie Lv. 54, Glalie Lv. 54
 Ace Trainer Savannah        Seel Lv. 51, Jynx Lv. 54, Dewgong Lv. 54
@@ -1067,7 +1067,7 @@ Togekiss (Lv. 63) @ Wise Glasses    /   ?           /   Serene Grace    /   Hurr
 Ludicolo (Lv. 63) @ Life Orb        /   ?           /   Swift Swim      /   Hydro Pump, Giga Drain, Ice Beam, Fake Out
 Zapdos (Lv. 63) @ Sitrus Berry      /   ?           /   Pressure        /   Thunderbolt, Heat Wave, Drill Peck, Light Screen
 
-Sunyshore Gym
+Sunyshore City ~ Sunyshore Gym
 ---
 School Kid Tiera            Plusle Lv. 56, Minun Lv. 56, Pachirisu Lv. 59
 School Kid Forrest          Elekid Lv. 56, Elekid Lv. 56, Electabuzz Lv. 59
@@ -1206,7 +1206,7 @@ PKMN Trainer Barry          Staraptor Lv. 70, Heracross Lv. 70, Snorlax Lv. 70, 
 PKMN Trainer Barry          Staraptor Lv. 70, Heracross Lv. 70, Snorlax Lv. 70, Azumarill Lv. 70, Breloom Lv. 70, Infernape Lv. 71
 PKMN Trainer Barry          Staraptor Lv. 70, Heracross Lv. 70, Snorlax Lv. 70, Breloom Lv. 70, Arcanine Lv. 70, Empoleon Lv. 71
 
-Round 1
+Pokémon League ~ Round 1
 ---
 Elite Four Aaron            Yanmega Lv. 71, Scizor Lv. 71, Heracross Lv. 71, Vespiquen Lv. 71, Armaldo Lv. 71, Drapion Lv. 72
 Elite Four Aaron            Venomoth Lv. 71, Scyther Lv. 71, Pinsir Lv. 71, Forretress Lv. 71, Armaldo Lv. 71, Drapion Lv. 72
@@ -1229,7 +1229,7 @@ Champion Cynthia            Milotic Lv. 77, Spiritomb Lv. 77, Ampharos Lv. 77, S
 Champion Cynthia            Togekiss Lv. 77, Milotic Lv. 77, Spiritomb Lv. 77, Lucario Lv. 77, Glaceon Lv. 77, Garchomp Lv. 78
 Champion Cynthia            Clefable Lv. 77, Roserade Lv. 77, Mismagius Lv. 77, Lopunny Lv. 77, Milotic Lv. 77, Garchomp Lv. 78
 
-Round 2
+Pokémon League ~ Round 2
 ---
 Elite Four Aaron            Yanmega Lv. 83, Scizor Lv. 83, Heracross Lv. 83, Scyther Lv. 83, Armaldo Lv. 83, Drapion Lv. 84
 Elite Four Bertha           Hippowdon Lv. 84, Swampert Lv. 84, Gliscor Lv. 84, Tyranitar Lv. 84, Dugtrio Lv. 84, Rhyperior Lv. 85

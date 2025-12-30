@@ -1,5 +1,11 @@
 # Draining Kiss
 
+
+!!! info "ROM Changes
+
+    **Power:** `50` → `75`
+
+
 ## :material-chart-box: Stats
 
 <div class="grid cards" markdown>

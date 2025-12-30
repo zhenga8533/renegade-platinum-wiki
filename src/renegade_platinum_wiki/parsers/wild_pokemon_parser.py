@@ -32,7 +32,7 @@ class WildPokemonParser(LocationParser):
             input_file (str): Path to the input file.
             output_dir (str, optional): Path to the output directory. Defaults to "docs/reference".
         """
-        super().__init__(input_file=input_file, output_dir=output_dir)
+        super().__init__(input_file=input_file, output_dir=output_dir, location_separators=[" ~ ", " - "])
         self._sections = ["General Changes", "Area Changes"]
 
         # Constant States

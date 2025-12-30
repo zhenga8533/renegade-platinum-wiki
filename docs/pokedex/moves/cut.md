@@ -1,5 +1,17 @@
 # Cut
 
+
+!!! info "ROM Changes
+
+    **Power:** `50` → `60`
+
+    **Accuracy:** `95` → `100`
+
+    **Pp:** `30` → `25`
+
+    **Type:** `normal` → `grass`
+
+
 ## :material-chart-box: Stats
 
 <div class="grid cards" markdown>

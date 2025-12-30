@@ -20,7 +20,7 @@
 
 	---
 
-	20
+	40
 
 - **:material-target: Accuracy**
 
@@ -32,7 +32,7 @@
 
 	---
 
-	25
+	15
 
 - **:material-priority-high: Priority**
 

@@ -6,48 +6,48 @@ Fisherman Miguel
 
 === "(!)"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![huntail](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/367.png){ .sprite }<br>[Huntail](../../pokedex/pokemon/huntail.md) | Lv. 44 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> |
-	| ![gorebyss](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/368.png){ .sprite }<br>[Gorebyss](../../pokedex/pokemon/gorebyss.md) | Lv. 44 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![huntail](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/367.png){ .sprite }<br>[Huntail](../../pokedex/pokemon/huntail.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | **Level:** 44 |  |
+	| ![gorebyss](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/368.png){ .sprite }<br>[Gorebyss](../../pokedex/pokemon/gorebyss.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | **Level:** 44 |  |
 
 === "(C)"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![clamperl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/366.png){ .sprite }<br>[Clamperl](../../pokedex/pokemon/clamperl.md) | Lv. 70 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> |
-	| ![huntail](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/367.png){ .sprite }<br>[Huntail](../../pokedex/pokemon/huntail.md) | Lv. 70 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> |
-	| ![gorebyss](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/368.png){ .sprite }<br>[Gorebyss](../../pokedex/pokemon/gorebyss.md) | Lv. 70 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![clamperl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/366.png){ .sprite }<br>[Clamperl](../../pokedex/pokemon/clamperl.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | **Level:** 70 |  |
+	| ![huntail](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/367.png){ .sprite }<br>[Huntail](../../pokedex/pokemon/huntail.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | **Level:** 70 |  |
+	| ![gorebyss](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/368.png){ .sprite }<br>[Gorebyss](../../pokedex/pokemon/gorebyss.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | **Level:** 70 |  |
 
 Fisherman Luc
 
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![crawdaunt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/342.png){ .sprite }<br>[Crawdaunt](../../pokedex/pokemon/crawdaunt.md) | Lv. 45 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> |
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![crawdaunt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/342.png){ .sprite }<br>[Crawdaunt](../../pokedex/pokemon/crawdaunt.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> | **Level:** 45 |  |
 
 Sailor Skyler
 
-| Pokémon | Level | Type(s) |
-|:-------:|:------|:-------|
-| ![omastar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/139.png){ .sprite }<br>[Omastar](../../pokedex/pokemon/omastar.md) | Lv. 43 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> |
-| ![kabutops](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/141.png){ .sprite }<br>[Kabutops](../../pokedex/pokemon/kabutops.md) | Lv. 43 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> |
-| ![relicanth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/369.png){ .sprite }<br>[Relicanth](../../pokedex/pokemon/relicanth.md) | Lv. 43 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span></div> |
+| Pokémon | Type(s) | Attributes | Moves |
+|:-------:|:-------:|:-----------|:------|
+| ![omastar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/139.png){ .sprite }<br>[Omastar](../../pokedex/pokemon/omastar.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | **Level:** 43 |  |
+| ![kabutops](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/141.png){ .sprite }<br>[Kabutops](../../pokedex/pokemon/kabutops.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | **Level:** 43 |  |
+| ![relicanth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/369.png){ .sprite }<br>[Relicanth](../../pokedex/pokemon/relicanth.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span></div> | **Level:** 43 |  |
 
 Guitarist Tony
 
 === "(!)"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![kricketune](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/402.png){ .sprite }<br>[Kricketune](../../pokedex/pokemon/kricketune.md) | Lv. 44 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span></div> |
-	| ![exploud](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/295.png){ .sprite }<br>[Exploud](../../pokedex/pokemon/exploud.md) | Lv. 44 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![kricketune](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/402.png){ .sprite }<br>[Kricketune](../../pokedex/pokemon/kricketune.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span></div> | **Level:** 44 |  |
+	| ![exploud](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/295.png){ .sprite }<br>[Exploud](../../pokedex/pokemon/exploud.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> | **Level:** 44 |  |
 
 === "(C)"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![kricketune](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/402.png){ .sprite }<br>[Kricketune](../../pokedex/pokemon/kricketune.md) | Lv. 71 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span></div> |
-	| ![exploud](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/295.png){ .sprite }<br>[Exploud](../../pokedex/pokemon/exploud.md) | Lv. 71 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![kricketune](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/402.png){ .sprite }<br>[Kricketune](../../pokedex/pokemon/kricketune.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span></div> | **Level:** 71 |  |
+	| ![exploud](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/295.png){ .sprite }<br>[Exploud](../../pokedex/pokemon/exploud.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> | **Level:** 71 |  |
 
 ## Wild Encounters
 

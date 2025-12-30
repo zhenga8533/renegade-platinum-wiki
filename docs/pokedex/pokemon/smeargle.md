@@ -12,6 +12,12 @@
 	</div>
 </div>
 
+
+!!! info "ROM Changes
+
+    **Abilities:** `own-tempo / technician` → `technician / own-tempo`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>

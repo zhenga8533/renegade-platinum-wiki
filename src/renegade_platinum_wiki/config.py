@@ -127,4 +127,6 @@ CONFIG = WikiConfig(
     # Generator configuration
     generator_dex_relative_path="../..",
     generator_index_relative_path="..",
+    # Location generator configuration
+    location_index_columns=["Location", "Trainers", "Wild Encounters"],
 )

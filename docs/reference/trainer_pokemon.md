@@ -135,7 +135,7 @@
 	| ![staraptor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/398.png){ .sprite }<br>[Staraptor](../pokedex/pokemon/staraptor.md) | Lv. 59 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 	| ![pidgeot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/18.png){ .sprite }<br>[Pidgeot](../pokedex/pokemon/pidgeot.md) | Lv. 59 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div> |
 
-### Jubilife City Trainer School
+### Jubilife City ~ Trainer School
 
 
 #### Normal Trainers
@@ -339,7 +339,7 @@
 	| ![sunflora](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/192.png){ .sprite }<br>[Sunflora](../pokedex/pokemon/sunflora.md) | Lv. 59 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span></div> |
 	| ![lopunny](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/428.png){ .sprite }<br>[Lopunny](../pokedex/pokemon/lopunny.md) | Lv. 59 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> |
 
-### Oreburgh Gate
+### Oreburgh City ~ Oreburgh Gate
 
 
 #### Normal Trainers
@@ -404,7 +404,7 @@
 | ![armaldo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/348.png){ .sprite }<br>[Armaldo](../pokedex/pokemon/armaldo.md) | **Level:** Lv. 88<br>**Item:** ![Passho Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/passho-berry.png){ .item-sprite } [Passho Berry](../pokedex/items/passho-berry.md)<br>**Nature:** ?<br>**Ability:** [Battle Armor](../pokedex/abilities/battle-armor.md)| [Stone Edge](../pokedex/moves/stone-edge.md)<br>[X Scissor](../pokedex/moves/x-scissor.md)<br>[Swords Dance](../pokedex/moves/swords-dance.md)<br>[Aqua Jet](../pokedex/moves/aqua-jet.md) |
 | ![metagross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/376.png){ .sprite }<br>[Metagross](../pokedex/pokemon/metagross.md) | **Level:** Lv. 89<br>**Item:** ![Life Orb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png){ .item-sprite } [Life Orb](../pokedex/items/life-orb.md)<br>**Nature:** ?<br>**Ability:** [Iron Fist](../pokedex/abilities/iron-fist.md)| [Meteor Mash](../pokedex/moves/meteor-mash.md)<br>[Zen Headbutt](../pokedex/moves/zen-headbutt.md)<br>[Earthquake](../pokedex/moves/earthquake.md)<br>[Ice Punch](../pokedex/moves/ice-punch.md) |
 
-### Oreburgh Mine
+### Oreburgh City ~ Oreburgh Mine
 
 
 #### Normal Trainers
@@ -425,7 +425,7 @@
 | ![whismur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/293.png){ .sprite }<br>[Whismur](../pokedex/pokemon/whismur.md) | Lv. 12 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span></div> |
 | ![machop](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/66.png){ .sprite }<br>[Machop](../pokedex/pokemon/machop.md) | Lv. 12 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span></div> |
 
-### Oreburgh Gym
+### Oreburgh City ~ Oreburgh Gym
 
 
 
@@ -1319,7 +1319,7 @@
 	| ![magnezone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/462.png){ .sprite }<br>[Magnezone](../pokedex/pokemon/magnezone.md) | Lv. 70 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span></div> |
 	| ![manectric](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/310.png){ .sprite }<br>[Manectric](../pokedex/pokemon/manectric.md) | Lv. 70 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span></div> |
 
-### Eterna Gym
+### Eterna City ~ Eterna Gym
 
 
 
@@ -1374,7 +1374,7 @@
 | ![breloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/286.png){ .sprite }<br>[Breloom](../pokedex/pokemon/breloom.md) | **Level:** Lv. 25<br>**Item:** ![Muscle Band](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png){ .item-sprite } [Muscle Band](../pokedex/items/muscle-band.md)<br>**Nature:** Naughty<br>**Ability:** [Technician](../pokedex/abilities/technician.md)| [Bullet Seed](../pokedex/moves/bullet-seed.md)<br>[Mach Punch](../pokedex/moves/mach-punch.md)<br>[Thunder Punch](../pokedex/moves/thunder-punch.md)<br>[Spore](../pokedex/moves/spore.md) |
 | ![roserade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/407.png){ .sprite }<br>[Roserade](../pokedex/pokemon/roserade.md) | **Level:** Lv. 26<br>**Item:** ![Sitrus Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sitrus-berry.png){ .item-sprite } [Sitrus Berry](../pokedex/items/sitrus-berry.md)<br>**Nature:** Timid<br>**Ability:** [Technician](../pokedex/abilities/technician.md)| [Magical Leaf](../pokedex/moves/magical-leaf.md)<br>[Sludge](../pokedex/moves/sludge.md)<br>[Dazzling Gleam](../pokedex/moves/dazzling-gleam.md)<br>[Extrasensory](../pokedex/moves/extrasensory.md) |
 
-### Team Galactic Eterna Building
+### Eterna City ~ Team Galactic Building
 
 
 
@@ -1827,7 +1827,7 @@
 | ![scizor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/212.png){ .sprite }<br>[Scizor](../pokedex/pokemon/scizor.md) | **Level:** Lv. 31<br>**Item:** ![Muscle Band](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png){ .item-sprite } [Muscle Band](../pokedex/items/muscle-band.md)<br>**Nature:** Adamant<br>**Ability:** [Technician](../pokedex/abilities/technician.md)| [X Scissor](../pokedex/moves/x-scissor.md)<br>[Bullet Punch](../pokedex/moves/bullet-punch.md)<br>[Iron Head](../pokedex/moves/iron-head.md)<br>[Swords Dance](../pokedex/moves/swords-dance.md) |
 | ![drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){ .sprite }<br>[Drapion](../pokedex/pokemon/drapion.md) | **Level:** Lv. 32<br>**Item:** ![Scope Lens](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scope-lens.png){ .item-sprite } [Scope Lens](../pokedex/items/scope-lens.md)<br>**Nature:** Jolly<br>**Ability:** [Sniper](../pokedex/abilities/sniper.md)| [Cross Poison](../pokedex/moves/cross-poison.md)<br>[X Scissor](../pokedex/moves/x-scissor.md)<br>[Night Slash](../pokedex/moves/night-slash.md)<br>[Swords Dance](../pokedex/moves/swords-dance.md) |
 
-### Hearthome Gym
+### Hearthome City ~ Hearthome Gym
 
 
 
@@ -2638,7 +2638,7 @@
 	| ![gardevoir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/282.png){ .sprite }<br>[Gardevoir](../pokedex/pokemon/gardevoir.md) | Lv. 77 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span></div> |
 	| ![roserade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/407.png){ .sprite }<br>[Roserade](../pokedex/pokemon/roserade.md) | Lv. 77 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span></div> |
 
-### Veilstone Gym
+### Veilstone City ~ Veilstone Gym
 
 
 
@@ -3374,7 +3374,7 @@
 	| ![infernape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/392.png){ .sprite }<br>[Infernape](../pokedex/pokemon/infernape.md) | **Level:** Lv. 42<br>**Item:** ![Sitrus Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sitrus-berry.png){ .item-sprite } [Sitrus Berry](../pokedex/items/sitrus-berry.md)<br>**Nature:** ?<br>**Ability:** [Iron Fist](../pokedex/abilities/iron-fist.md)| [Flamethrower](../pokedex/moves/flamethrower.md)<br>[Close Combat](../pokedex/moves/close-combat.md)<br>[Fake Out](../pokedex/moves/fake-out.md)<br>[Thunder Punch](../pokedex/moves/thunder-punch.md) |
 	| ![empoleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/395.png){ .sprite }<br>[Empoleon](../pokedex/pokemon/empoleon.md) | **Level:** Lv. 42<br>**Item:** ![Sitrus Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sitrus-berry.png){ .item-sprite } [Sitrus Berry](../pokedex/items/sitrus-berry.md)<br>**Nature:** ?<br>**Ability:** [Torrent](../pokedex/abilities/torrent.md)| [Scald](../pokedex/moves/scald.md)<br>[Flash Cannon](../pokedex/moves/flash-cannon.md)<br>[Agility](../pokedex/moves/agility.md)<br>[Swagger](../pokedex/moves/swagger.md) |
 
-### Pastoria Gym
+### Pastoria City ~ Pastoria Gym
 
 
 
@@ -4243,7 +4243,7 @@
 | ![slaking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/289.png){ .sprite }<br>[Slaking](../pokedex/pokemon/slaking.md) | **Level:** Lv. 49<br>**Item:** ![Sitrus Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sitrus-berry.png){ .item-sprite } [Sitrus Berry](../pokedex/items/sitrus-berry.md)<br>**Nature:** ?<br>**Ability:** [Truant](../pokedex/abilities/truant.md)| [Body Slam](../pokedex/moves/body-slam.md)<br>[Hammer Arm](../pokedex/moves/hammer-arm.md)<br>[Play Rough](../pokedex/moves/play-rough.md)<br>[Slack Off](../pokedex/moves/slack-off.md) |
 | ![lucario](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/448.png){ .sprite }<br>[Lucario](../pokedex/pokemon/lucario.md) | **Level:** Lv. 50<br>**Item:** ![Life Orb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png){ .item-sprite } [Life Orb](../pokedex/items/life-orb.md)<br>**Nature:** ?<br>**Ability:** [Adaptability](../pokedex/abilities/adaptability.md)| [High Jump Kick](../pokedex/moves/high-jump-kick.md)<br>[Meteor Mash](../pokedex/moves/meteor-mash.md)<br>[Blaze Kick](../pokedex/moves/blaze-kick.md)<br>[Bullet Punch](../pokedex/moves/bullet-punch.md) |
 
-### Canalave Gym
+### Canalave City ~ Canalave Gym
 
 
 
@@ -4594,7 +4594,7 @@
 | ![meganium](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/154.png){ .sprite }<br>[Meganium](../pokedex/pokemon/meganium.md) | Lv. 54 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span></div> |
 | ![feraligatr](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/160.png){ .sprite }<br>[Feraligatr](../pokedex/pokemon/feraligatr.md) | Lv. 54 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span></div> |
 
-### Snowpoint Gym
+### Snowpoint City ~ Snowpoint Gym
 
 
 
@@ -5245,7 +5245,7 @@
 
 ****
 
-### Sunyshore Gym
+### Sunyshore City ~ Sunyshore Gym
 
 
 
@@ -6045,7 +6045,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![arcanine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/59.png){ .sprite }<br>[Arcanine](../pokedex/pokemon/arcanine.md) | Lv. 70 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> |
 	| ![empoleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/395.png){ .sprite }<br>[Empoleon](../pokedex/pokemon/empoleon.md) | Lv. 71 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span></div> |
 
-### Round 1
+### Pokémon League ~ Round 1
 
 
 #### Normal Trainers
@@ -6280,7 +6280,7 @@ Note: In the first round, each Elite Four member will use a random team out of t
 	| ![milotic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/350.png){ .sprite }<br>[Milotic](../pokedex/pokemon/milotic.md) | Lv. 77 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span></div> |
 	| ![garchomp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/445.png){ .sprite }<br>[Garchomp](../pokedex/pokemon/garchomp.md) | Lv. 78 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span></div> |
 
-### Round 2
+### Pokémon League ~ Round 2
 
 
 

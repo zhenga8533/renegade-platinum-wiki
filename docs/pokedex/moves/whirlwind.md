@@ -26,7 +26,7 @@
 
 	---
 
-	100%
+	—
 
 - **:material-counter: PP**
 

@@ -32,7 +32,7 @@
 
 	---
 
-	20
+	10
 
 - **:material-priority-high: Priority**
 

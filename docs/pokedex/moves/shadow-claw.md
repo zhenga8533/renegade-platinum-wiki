@@ -1,5 +1,11 @@
 # Shadow Claw
 
+
+!!! info "ROM Changes
+
+    **Power:** `70` → `80`
+
+
 ## :material-chart-box: Stats
 
 <div class="grid cards" markdown>

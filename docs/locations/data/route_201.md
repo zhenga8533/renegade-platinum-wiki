@@ -6,21 +6,21 @@ PKMN Trainer Barry
 
 === "Turtwig"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![chimchar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/390.png){ .sprite }<br>[Chimchar](../../pokedex/pokemon/chimchar.md) | Lv. 5 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![chimchar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/390.png){ .sprite }<br>[Chimchar](../../pokedex/pokemon/chimchar.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span></div> | **Level:** 5 |  |
 
 === "Chimchar"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![piplup](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/393.png){ .sprite }<br>[Piplup](../../pokedex/pokemon/piplup.md) | Lv. 5 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![piplup](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/393.png){ .sprite }<br>[Piplup](../../pokedex/pokemon/piplup.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span></div> | **Level:** 5 |  |
 
 === "Piplup"
 
-	| Pokémon | Level | Type(s) |
-	|:-------:|:------|:-------|
-	| ![turtwig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/387.png){ .sprite }<br>[Turtwig](../../pokedex/pokemon/turtwig.md) | Lv. 5 | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span></div> |
+	| Pokémon | Type(s) | Attributes | Moves |
+	|:-------:|:-------:|:-----------|:------|
+	| ![turtwig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/387.png){ .sprite }<br>[Turtwig](../../pokedex/pokemon/turtwig.md) | <div class='badges-vstack'><span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span></div> | **Level:** 5 |  |
 
 ## Wild Encounters
 
