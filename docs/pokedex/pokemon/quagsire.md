@@ -16,9 +16,9 @@
 
 !!! info "ROM Changes
 
-    **Base Stats:** `95 HP / 85 Atk / 85 Def / 65 SAtk / 65 SDef / 35 Spd` → `95 HP / 95 Atk / 95 Def / 65 SAtk / 65 SDef / 35 Spd`
-
     **Abilities:** `damp / water-absorb` → `water-absorb / unaware`
+
+    **Base Stats:** `95 HP / 85 Atk / 85 Def / 65 SAtk / 65 SDef / 35 Spd` → `95 HP / 95 Atk / 95 Def / 65 SAtk / 65 SDef / 35 Spd`
 
 
 ## :material-information: Basic Information

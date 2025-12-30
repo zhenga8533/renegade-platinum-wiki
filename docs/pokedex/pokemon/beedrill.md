@@ -15,9 +15,9 @@
 
 !!! info "ROM Changes
 
-    **Base Stats:** `65 HP / 90 Atk / 40 Def / 45 SAtk / 80 SDef / 75 Spd` → `65 HP / 115 Atk / 40 Def / 40 SAtk / 95 SDef / 95 Spd`
-
     **Abilities:** `swarm` → `adaptability / swarm`
+
+    **Base Stats:** `65 HP / 90 Atk / 40 Def / 45 SAtk / 80 SDef / 75 Spd` → `65 HP / 115 Atk / 40 Def / 40 SAtk / 95 SDef / 95 Spd`
 
 
 ## :material-information: Basic Information

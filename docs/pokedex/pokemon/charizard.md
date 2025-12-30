@@ -15,11 +15,11 @@
 
 !!! info "ROM Changes
 
+    **Abilities:** `blaze` → `levitate / blaze`
+
     **Base Stats:** `78 HP / 84 Atk / 78 Def / 109 SAtk / 85 SDef / 100 Spd` → `78 HP / 84 Atk / 78 Def / 110 SAtk / 85 SDef / 100 Spd`
 
     **Type:** `fire / flying` → `fire / dragon`
-
-    **Abilities:** `blaze` → `levitate / blaze`
 
 
 ## :material-information: Basic Information

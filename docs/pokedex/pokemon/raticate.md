@@ -15,9 +15,9 @@
 
 !!! info "ROM Changes
 
-    **Base Stats:** `55 HP / 81 Atk / 60 Def / 50 SAtk / 70 SDef / 97 Spd` → `55 HP / 97 Atk / 70 Def / 45 SAtk / 70 SDef / 113 Spd`
-
     **Abilities:** `run-away / guts` → `hustle / guts`
+
+    **Base Stats:** `55 HP / 81 Atk / 60 Def / 50 SAtk / 70 SDef / 97 Spd` → `55 HP / 97 Atk / 70 Def / 45 SAtk / 70 SDef / 113 Spd`
 
 
 ## :material-information: Basic Information

@@ -15,9 +15,9 @@
 
 !!! info "ROM Changes
 
-    **Base Stats:** `70 HP / 65 Atk / 60 Def / 90 SAtk / 75 SDef / 90 Spd` → `70 HP / 55 Atk / 60 Def / 100 SAtk / 75 SDef / 90 Spd`
-
     **Abilities:** `shield-dust / tinted-lens` → `tinted-lens / shield-dust`
+
+    **Base Stats:** `70 HP / 65 Atk / 60 Def / 90 SAtk / 75 SDef / 90 Spd` → `70 HP / 55 Atk / 60 Def / 100 SAtk / 75 SDef / 90 Spd`
 
 
 ## :material-information: Basic Information

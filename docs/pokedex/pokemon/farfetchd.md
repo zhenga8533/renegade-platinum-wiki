@@ -15,13 +15,13 @@
 
 !!! info "ROM Changes
 
+    **Abilities:** `keen-eye / inner-focus` → `super-luck / keen-eye`
+
     **Base Stats:** `52 HP / 90 Atk / 55 Def / 58 SAtk / 62 SDef / 60 Spd` → `55 HP / 110 Atk / 60 Def / 55 SAtk / 60 SDef / 110 Spd`
 
     **EV Yield:** `1 Atk` → `2 Atk`
 
     **Type:** `normal / flying` → `fighting / flying`
-
-    **Abilities:** `keen-eye / inner-focus` → `super-luck / keen-eye`
 
 
 ## :material-information: Basic Information

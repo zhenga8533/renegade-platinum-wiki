@@ -15,9 +15,9 @@
 
 !!! info "ROM Changes
 
-    **Base Stats:** `140 HP / 70 Atk / 45 Def / 85 SAtk / 50 SDef / 45 Spd` → `140 HP / 80 Atk / 55 Def / 95 SAtk / 60 SDef / 55 Spd`
-
     **Abilities:** `cute-charm` → `cute-charm / magic-guard`
+
+    **Base Stats:** `140 HP / 70 Atk / 45 Def / 85 SAtk / 50 SDef / 45 Spd` → `140 HP / 80 Atk / 55 Def / 95 SAtk / 60 SDef / 55 Spd`
 
 
 ## :material-information: Basic Information

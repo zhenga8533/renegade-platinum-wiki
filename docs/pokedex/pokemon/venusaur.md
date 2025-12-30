@@ -15,9 +15,9 @@
 
 !!! info "ROM Changes
 
-    **Base Stats:** `80 HP / 82 Atk / 83 Def / 100 SAtk / 100 SDef / 80 Spd` → `80 HP / 82 Atk / 83 Def / 110 SAtk / 100 SDef / 80 Spd`
-
     **Abilities:** `overgrow` → `thick-fat / overgrow`
+
+    **Base Stats:** `80 HP / 82 Atk / 83 Def / 100 SAtk / 100 SDef / 80 Spd` → `80 HP / 82 Atk / 83 Def / 110 SAtk / 100 SDef / 80 Spd`
 
 
 ## :material-information: Basic Information

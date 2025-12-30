@@ -16,9 +16,9 @@
 
 !!! info "ROM Changes
 
-    **Base Stats:** `70 HP / 100 Atk / 115 Def / 30 SAtk / 65 SDef / 30 Spd` → `90 HP / 115 Atk / 125 Def / 30 SAtk / 75 SDef / 30 Spd`
-
     **Abilities:** `sturdy / rock-head` → `rock-head / sturdy`
+
+    **Base Stats:** `70 HP / 100 Atk / 115 Def / 30 SAtk / 65 SDef / 30 Spd` → `90 HP / 115 Atk / 125 Def / 30 SAtk / 75 SDef / 30 Spd`
 
 
 ## :material-information: Basic Information

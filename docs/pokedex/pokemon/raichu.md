@@ -16,9 +16,9 @@
 
 !!! info "ROM Changes
 
-    **Base Stats:** `60 HP / 90 Atk / 55 Def / 90 SAtk / 80 SDef / 110 Spd` → `60 HP / 95 Atk / 55 Def / 95 SAtk / 80 SDef / 110 Spd`
-
     **Abilities:** `static` → `static / lightning-rod`
+
+    **Base Stats:** `60 HP / 90 Atk / 55 Def / 90 SAtk / 80 SDef / 110 Spd` → `60 HP / 95 Atk / 55 Def / 95 SAtk / 80 SDef / 110 Spd`
 
 
 ## :material-information: Basic Information

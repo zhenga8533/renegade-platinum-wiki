@@ -16,9 +16,9 @@
 
 !!! info "ROM Changes
 
-    **Base Stats:** `100 HP / 50 Atk / 80 Def / 60 SAtk / 80 SDef / 50 Spd` → `110 HP / 50 Atk / 80 Def / 80 SAtk / 80 SDef / 50 Spd`
-
     **Abilities:** `thick-fat / huge-power` → `huge-power / thick-fat`
+
+    **Base Stats:** `100 HP / 50 Atk / 80 Def / 60 SAtk / 80 SDef / 50 Spd` → `110 HP / 50 Atk / 80 Def / 80 SAtk / 80 SDef / 50 Spd`
 
 
 ## :material-information: Basic Information

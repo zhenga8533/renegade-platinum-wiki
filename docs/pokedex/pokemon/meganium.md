@@ -15,11 +15,11 @@
 
 !!! info "ROM Changes
 
+    **Abilities:** `overgrow` → `serene-grace / overgrow`
+
     **Base Stats:** `80 HP / 82 Atk / 100 Def / 83 SAtk / 100 SDef / 80 Spd` → `80 HP / 82 Atk / 100 Def / 93 SAtk / 100 SDef / 80 Spd`
 
     **Type:** `grass` → `grass / fairy`
-
-    **Abilities:** `overgrow` → `serene-grace / overgrow`
 
 
 ## :material-information: Basic Information

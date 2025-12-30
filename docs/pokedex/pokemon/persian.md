@@ -15,9 +15,9 @@
 
 !!! info "ROM Changes
 
-    **Base Stats:** `65 HP / 70 Atk / 60 Def / 65 SAtk / 65 SDef / 115 Spd` → `65 HP / 80 Atk / 60 Def / 80 SAtk / 65 SDef / 115 Spd`
-
     **Abilities:** `limber / technician` → `technician / limber`
+
+    **Base Stats:** `65 HP / 70 Atk / 60 Def / 65 SAtk / 65 SDef / 115 Spd` → `65 HP / 80 Atk / 60 Def / 80 SAtk / 65 SDef / 115 Spd`
 
 
 ## :material-information: Basic Information

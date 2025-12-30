@@ -17,9 +17,9 @@
 
 !!! info "ROM Changes
 
-    **Base Happiness:** `70` → `180`
-
     **Abilities:** `static` → `static / lightning-rod`
+
+    **Base Happiness:** `70` → `180`
 
 
 ## :material-information: Basic Information

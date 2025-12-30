@@ -15,9 +15,9 @@
 
 !!! info "ROM Changes
 
-    **Base Stats:** `79 HP / 83 Atk / 100 Def / 85 SAtk / 105 SDef / 78 Spd` → `79 HP / 83 Atk / 100 Def / 90 SAtk / 105 SDef / 78 Spd`
-
     **Abilities:** `torrent` → `drizzle / torrent`
+
+    **Base Stats:** `79 HP / 83 Atk / 100 Def / 85 SAtk / 105 SDef / 78 Spd` → `79 HP / 83 Atk / 100 Def / 90 SAtk / 105 SDef / 78 Spd`
 
 
 ## :material-information: Basic Information

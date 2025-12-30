@@ -15,11 +15,11 @@
 
 !!! info "ROM Changes
 
+    **Abilities:** `flash-fire` → `drought / flash-fire`
+
     **Base Stats:** `73 HP / 76 Atk / 75 Def / 81 SAtk / 100 SDef / 100 Spd` → `73 HP / 67 Atk / 75 Def / 81 SAtk / 100 SDef / 109 Spd`
 
     **Type:** `fire` → `fire / fairy`
-
-    **Abilities:** `flash-fire` → `drought / flash-fire`
 
 
 ## :material-information: Basic Information

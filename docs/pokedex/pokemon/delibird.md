@@ -15,11 +15,11 @@
 
 !!! info "ROM Changes
 
+    **Abilities:** `vital-spirit / hustle` → `technician / hustle`
+
     **Base Stats:** `45 HP / 55 Atk / 45 Def / 65 SAtk / 45 SDef / 75 Spd` → `45 HP / 85 Atk / 50 Def / 110 SAtk / 50 SDef / 110 Spd`
 
     **EV Yield:** `1 Spd` → `1 SAtk, 1 Spd`
-
-    **Abilities:** `vital-spirit / hustle` → `technician / hustle`
 
 
 ## :material-information: Basic Information

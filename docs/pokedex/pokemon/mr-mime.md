@@ -16,9 +16,9 @@
 
 !!! info "ROM Changes
 
-    **Base Stats:** `40 HP / 45 Atk / 65 Def / 100 SAtk / 120 SDef / 90 Spd` → `40 HP / 35 Atk / 65 Def / 110 SAtk / 120 SDef / 95 Spd`
-
     **Abilities:** `soundproof / filter` → `filter / technician`
+
+    **Base Stats:** `40 HP / 45 Atk / 65 Def / 100 SAtk / 120 SDef / 90 Spd` → `40 HP / 35 Atk / 65 Def / 110 SAtk / 120 SDef / 95 Spd`
 
 
 ## :material-information: Basic Information

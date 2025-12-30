@@ -16,9 +16,9 @@
 
 !!! info "ROM Changes
 
-    **Base Happiness:** `70` → `180`
-
     **Abilities:** `cute-charm` → `cute-charm / magic-guard`
+
+    **Base Happiness:** `70` → `180`
 
 
 ## :material-information: Basic Information

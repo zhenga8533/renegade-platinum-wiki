@@ -17,9 +17,9 @@
 
     **Evolution Chain:** `Updated` → `Modified evolution method or target`
 
-    **Base Stats:** `60 HP / 50 Atk / 120 Def / 90 SAtk / 80 SDef / 30 Spd` → `60 HP / 50 Atk / 150 Def / 110 SAtk / 100 SDef / 30 Spd`
-
     **Abilities:** `magma-armor / flame-body` → `solid-rock / flame-body`
+
+    **Base Stats:** `60 HP / 50 Atk / 120 Def / 90 SAtk / 80 SDef / 30 Spd` → `60 HP / 50 Atk / 150 Def / 110 SAtk / 100 SDef / 30 Spd`
 
 
 ## :material-information: Basic Information

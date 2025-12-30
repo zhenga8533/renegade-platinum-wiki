@@ -15,9 +15,9 @@
 
 !!! info "ROM Changes
 
-    **Base Stats:** `55 HP / 35 Atk / 50 Def / 55 SAtk / 110 SDef / 85 Spd` → `65 HP / 105 Atk / 50 Def / 35 SAtk / 110 SDef / 85 Spd`
-
     **Abilities:** `swarm / early-bird` → `technician / iron-fist`
+
+    **Base Stats:** `55 HP / 35 Atk / 50 Def / 55 SAtk / 110 SDef / 85 Spd` → `65 HP / 105 Atk / 50 Def / 35 SAtk / 110 SDef / 85 Spd`
 
 
 ## :material-information: Basic Information

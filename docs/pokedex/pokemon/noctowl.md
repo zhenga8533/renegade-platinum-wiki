@@ -16,11 +16,11 @@
 
 !!! info "ROM Changes
 
+    **Abilities:** `insomnia / keen-eye` → `tinted-lens / insomnia`
+
     **Base Stats:** `100 HP / 50 Atk / 50 Def / 86 SAtk / 96 SDef / 70 Spd` → `100 HP / 40 Atk / 40 Def / 106 SAtk / 116 SDef / 60 Spd`
 
     **Type:** `normal / flying` → `psychic / flying`
-
-    **Abilities:** `insomnia / keen-eye` → `tinted-lens / insomnia`
 
 
 ## :material-information: Basic Information

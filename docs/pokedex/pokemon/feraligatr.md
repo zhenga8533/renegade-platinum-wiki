@@ -15,11 +15,11 @@
 
 !!! info "ROM Changes
 
+    **Abilities:** `torrent` → `intimidate / torrent`
+
     **Base Stats:** `85 HP / 105 Atk / 100 Def / 79 SAtk / 83 SDef / 78 Spd` → `85 HP / 110 Atk / 100 Def / 79 SAtk / 83 SDef / 78 Spd`
 
     **Type:** `water` → `water / dark`
-
-    **Abilities:** `torrent` → `intimidate / torrent`
 
 
 ## :material-information: Basic Information

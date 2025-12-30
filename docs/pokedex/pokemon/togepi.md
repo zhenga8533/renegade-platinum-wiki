@@ -16,9 +16,9 @@
 
 !!! info "ROM Changes
 
-    **Base Happiness:** `70` → `180`
-
     **Abilities:** `hustle / serene-grace` → `serene-grace / super-luck`
+
+    **Base Happiness:** `70` → `180`
 
 
 ## :material-information: Basic Information

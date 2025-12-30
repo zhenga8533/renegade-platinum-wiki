@@ -15,9 +15,9 @@
 
 !!! info "ROM Changes
 
-    **Base Stats:** `65 HP / 90 Atk / 65 Def / 61 SAtk / 61 SDef / 100 Spd` → `65 HP / 110 Atk / 65 Def / 61 SAtk / 61 SDef / 100 Spd`
-
     **Abilities:** `keen-eye` → `keen-eye / sniper`
+
+    **Base Stats:** `65 HP / 90 Atk / 65 Def / 61 SAtk / 61 SDef / 100 Spd` → `65 HP / 110 Atk / 65 Def / 61 SAtk / 61 SDef / 100 Spd`
 
 
 ## :material-information: Basic Information
