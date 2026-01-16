@@ -13190,7 +13190,7 @@ Level Up:
 ===================
 Ability (Fan Rotom) (Complete):
 Old     Levitate / None
-New     Motor Drive / None
+New     Motor Drive
 
 Base Stats (Regular Form) (Complete):
 Old     50 HP / 50 Atk / 77 Def / 95 SAtk / 77 SDef / 91 Spd / 440 BST

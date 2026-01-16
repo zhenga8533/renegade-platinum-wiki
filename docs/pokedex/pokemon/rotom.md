@@ -17,7 +17,7 @@
 
 	**Abilities Changes:**
 
-	- `levitate` → `motor-drive / none`
+	- `levitate` → `motor-drive`
 
 	**Base Stats Changes:**
 
@@ -37,7 +37,6 @@
 	---
 
 	- [Motor Drive](../../pokedex/abilities/motor-drive.md)
-	- None
 
 - **:material-ruler: Physical Attributes**
 
