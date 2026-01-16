@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Gible ROM Changes"
 
-    **Abilities:** `sand-veil` → `rough-skin / sand-veil`
+	**Abilities Changes:**
+
+	- `sand-veil` → `rough-skin / sand-veil`
 
 
 ## :material-information: Basic Information
@@ -70,7 +72,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Blue
 
@@ -147,7 +149,7 @@
 
 	**#443 [Gible](./gible.md)**
 
-	
+
 
 	***You are here***
 

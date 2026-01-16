@@ -126,7 +126,7 @@
 
 	**#098 [Krabby](./krabby.md)**
 
-	
+
 
 	***You are here***
 

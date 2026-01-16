@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Blaziken ROM Changes"
 
-    **Abilities:** `blaze` → `speed-boost / blaze`
+	**Abilities Changes:**
 
-    **Base Stats:** `80 HP / 120 Atk / 70 Def / 110 SAtk / 70 SDef / 80 Spd` → `80 HP / 120 Atk / 75 Def / 110 SAtk / 70 SDef / 80 Spd`
+	- `blaze` → `speed-boost / blaze`
+
+	**Base Stats Changes:**
+
+	- `80 HP / 120 Atk / 70 Def / 110 SAtk / 70 SDef / 80 Spd` → `80 HP / 120 Atk / 75 Def / 110 SAtk / 70 SDef / 80 Spd`
 
 
 ## :material-information: Basic Information
@@ -73,7 +77,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Red
 

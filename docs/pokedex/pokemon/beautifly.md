@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Beautifly ROM Changes"
 
-    **Base Stats:** `60 HP / 70 Atk / 50 Def / 100 SAtk / 50 SDef / 65 Spd` → `60 HP / 70 Atk / 60 Def / 125 SAtk / 60 SDef / 75 Spd`
+	**Base Stats Changes:**
+
+	- `60 HP / 70 Atk / 50 Def / 100 SAtk / 50 SDef / 65 Spd` → `60 HP / 70 Atk / 60 Def / 125 SAtk / 60 SDef / 75 Spd`
 
 
 ## :material-information: Basic Information
@@ -71,7 +73,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Yellow
 
@@ -86,7 +88,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Shed Shell](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shed-shell.png){ .item-sprite } [Shed Shell](../../pokedex/items/shed-shell.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Shed Shell](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shed-shell.png){ .item-sprite } [Shed Shell](../../pokedex/items/shed-shell.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

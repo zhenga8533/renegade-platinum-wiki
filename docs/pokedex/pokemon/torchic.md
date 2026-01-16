@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Torchic ROM Changes"
 
-    **Abilities:** `blaze` → `speed-boost / blaze`
+	**Abilities Changes:**
+
+	- `blaze` → `speed-boost / blaze`
 
 
 ## :material-information: Basic Information
@@ -71,7 +73,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Red
 
@@ -134,7 +136,7 @@
 
 	**#255 [Torchic](./torchic.md)**
 
-	
+
 
 	***You are here***
 

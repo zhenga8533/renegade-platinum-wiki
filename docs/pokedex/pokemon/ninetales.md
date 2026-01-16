@@ -13,13 +13,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Ninetales ROM Changes"
 
-    **Abilities:** `flash-fire` → `drought / flash-fire`
+	**Abilities Changes:**
 
-    **Base Stats:** `73 HP / 76 Atk / 75 Def / 81 SAtk / 100 SDef / 100 Spd` → `73 HP / 67 Atk / 75 Def / 81 SAtk / 100 SDef / 109 Spd`
+	- `flash-fire` → `drought / flash-fire`
 
-    **Type:** `fire` → `fire / fairy`
+	**Base Stats Changes:**
+
+	- `73 HP / 76 Atk / 75 Def / 81 SAtk / 100 SDef / 100 Spd` → `73 HP / 67 Atk / 75 Def / 81 SAtk / 100 SDef / 109 Spd`
+
+	**Type Changes:**
+
+	- `fire` → `fire / fairy`
 
 
 ## :material-information: Basic Information
@@ -88,7 +94,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Charcoal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charcoal.png){ .item-sprite } [Charcoal](../../pokedex/items/charcoal.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Charcoal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charcoal.png){ .item-sprite } [Charcoal](../../pokedex/items/charcoal.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

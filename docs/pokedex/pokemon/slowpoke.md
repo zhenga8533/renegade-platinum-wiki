@@ -13,9 +13,13 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Slowpoke ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
+
+	- `slowpoke > slowking: trade (held: kings-rock)` → `slowpoke > slowking: use-item (kings-rock)`
+
+	- `slowpoke > slowbro: level-up (level 37)` → `slowpoke > slowbro: level-up (level 33)`
 
 
 ## :material-information: Basic Information
@@ -84,7 +88,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Lagging Tail](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lagging-tail.png){ .item-sprite } [Lagging Tail](../../pokedex/items/lagging-tail.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Lagging Tail](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lagging-tail.png){ .item-sprite } [Lagging Tail](../../pokedex/items/lagging-tail.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -140,7 +144,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#079 [Slowpoke](./slowpoke.md)**
 
-	
+
 
 	***You are here***
 

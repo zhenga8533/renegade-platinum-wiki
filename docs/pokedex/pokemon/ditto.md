@@ -77,8 +77,8 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Metal Powder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metal-powder.png){ .item-sprite } [Metal Powder](../../pokedex/items/metal-powder.md) | — | — | — | — | — |
-| ![Quick Powder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-powder.png){ .item-sprite } [Quick Powder](../../pokedex/items/quick-powder.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Metal Powder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metal-powder.png){ .item-sprite } [Metal Powder](../../pokedex/items/metal-powder.md)</span> | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Quick Powder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-powder.png){ .item-sprite } [Quick Powder](../../pokedex/items/quick-powder.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

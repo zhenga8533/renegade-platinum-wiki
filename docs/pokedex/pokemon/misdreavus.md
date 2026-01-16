@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Misdreavus ROM Changes"
 
-    **Type:** `ghost` → `ghost / fairy`
+	**Type Changes:**
+
+	- `ghost` → `ghost / fairy`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Gray
 
@@ -141,7 +143,7 @@
 
 	**#200 [Misdreavus](./misdreavus.md)**
 
-	
+
 
 	***You are here***
 

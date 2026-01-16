@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Chansey ROM Changes"
 
-    **Abilities:** `natural-cure / serene-grace` → `serene-grace / natural-cure`
+	**Abilities Changes:**
+
+	- `natural-cure / serene-grace` → `serene-grace / natural-cure`
 
 
 ## :material-information: Basic Information
@@ -85,7 +87,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Lucky Punch](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucky-punch.png){ .item-sprite } [Lucky Punch](../../pokedex/items/lucky-punch.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Lucky Punch](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucky-punch.png){ .item-sprite } [Lucky Punch](../../pokedex/items/lucky-punch.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

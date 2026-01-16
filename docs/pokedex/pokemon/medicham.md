@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Medicham ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Base Stats:** `60 HP / 60 Atk / 75 Def / 60 SAtk / 75 SDef / 80 Spd` → `60 HP / 60 Atk / 80 Def / 80 SAtk / 80 SDef / 90 Spd`
+	- `meditite > medicham: level-up (level 37)` → `meditite > medicham: level-up (level 33)`
+
+	**Base Stats Changes:**
+
+	- `60 HP / 60 Atk / 75 Def / 60 SAtk / 75 SDef / 80 Spd` → `60 HP / 60 Atk / 80 Def / 80 SAtk / 80 SDef / 90 Spd`
 
 
 ## :material-information: Basic Information
@@ -73,7 +77,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Red
 

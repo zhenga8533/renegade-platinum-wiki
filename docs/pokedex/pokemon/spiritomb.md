@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Spiritomb ROM Changes"
 
-    **Held Items:** `None` → `smoke-ball`
+	**Held Items Changes:**
+
+	- `None` → `smoke-ball`
 
 
 ## :material-information: Basic Information
@@ -67,7 +69,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Purple
 
@@ -82,7 +84,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Smoke Ball](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/smoke-ball.png){ .item-sprite } [Smoke Ball](../../pokedex/items/smoke-ball.md) | 100% | — | — | — | — |
+| <span style="white-space: nowrap;">![Smoke Ball](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/smoke-ball.png){ .item-sprite } [Smoke Ball](../../pokedex/items/smoke-ball.md)</span> | 100% | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

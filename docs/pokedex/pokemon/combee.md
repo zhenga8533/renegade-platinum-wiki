@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Combee ROM Changes"
 
-    **Abilities:** `honey-gather` → `hustle / honey-gather`
+	**Abilities Changes:**
+
+	- `honey-gather` → `hustle / honey-gather`
 
 
 ## :material-information: Basic Information
@@ -70,7 +72,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Yellow
 
@@ -85,7 +87,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Honey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/honey.png){ .item-sprite } [Honey](../../pokedex/items/honey.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Honey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/honey.png){ .item-sprite } [Honey](../../pokedex/items/honey.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -160,7 +162,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#415 [Combee](./combee.md)**
 
-	
+
 
 	***You are here***
 

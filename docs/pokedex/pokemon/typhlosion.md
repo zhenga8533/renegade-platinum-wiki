@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Typhlosion ROM Changes"
 
-    **Abilities:** `blaze` → `adaptability / blaze`
+	**Abilities Changes:**
 
-    **Base Stats:** `78 HP / 84 Atk / 78 Def / 109 SAtk / 85 SDef / 100 Spd` → `78 HP / 79 Atk / 73 Def / 124 SAtk / 80 SDef / 101 Spd`
+	- `blaze` → `adaptability / blaze`
+
+	**Base Stats Changes:**
+
+	- `78 HP / 84 Atk / 78 Def / 109 SAtk / 85 SDef / 100 Spd` → `78 HP / 79 Atk / 73 Def / 124 SAtk / 80 SDef / 101 Spd`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Yellow
 

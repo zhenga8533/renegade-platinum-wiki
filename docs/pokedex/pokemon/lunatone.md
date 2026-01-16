@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Lunatone ROM Changes"
 
-    **Base Stats:** `90 HP / 55 Atk / 65 Def / 95 SAtk / 85 SDef / 70 Spd` → `90 HP / 55 Atk / 65 Def / 100 SAtk / 85 SDef / 70 Spd`
+	**Base Stats Changes:**
+
+	- `90 HP / 55 Atk / 65 Def / 95 SAtk / 85 SDef / 70 Spd` → `90 HP / 55 Atk / 65 Def / 100 SAtk / 85 SDef / 70 Spd`
 
 
 ## :material-information: Basic Information
@@ -68,7 +70,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Yellow
 
@@ -83,8 +85,8 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Moon Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-stone.png){ .item-sprite } [Moon Stone](../../pokedex/items/moon-stone.md) | — | — | — | — | — |
-| ![Stardust](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stardust.png){ .item-sprite } [Stardust](../../pokedex/items/stardust.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Moon Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-stone.png){ .item-sprite } [Moon Stone](../../pokedex/items/moon-stone.md)</span> | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Stardust](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stardust.png){ .item-sprite } [Stardust](../../pokedex/items/stardust.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

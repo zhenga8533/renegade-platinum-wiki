@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Mothim ROM Changes"
 
-    **Abilities:** `swarm` → `tinted-lens / swarm`
+	**Abilities Changes:**
 
-    **Base Stats:** `70 HP / 94 Atk / 50 Def / 94 SAtk / 50 SDef / 66 Spd` → `70 HP / 70 Atk / 50 Def / 110 SAtk / 50 SDef / 100 Spd`
+	- `swarm` → `tinted-lens / swarm`
+
+	**Base Stats Changes:**
+
+	- `70 HP / 94 Atk / 50 Def / 94 SAtk / 50 SDef / 66 Spd` → `70 HP / 70 Atk / 50 Def / 110 SAtk / 50 SDef / 100 Spd`
 
 
 ## :material-information: Basic Information
@@ -70,7 +74,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Yellow
 
@@ -85,7 +89,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Silver Powder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-powder.png){ .item-sprite } [Silver Powder](../../pokedex/items/silver-powder.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Silver Powder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-powder.png){ .item-sprite } [Silver Powder](../../pokedex/items/silver-powder.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

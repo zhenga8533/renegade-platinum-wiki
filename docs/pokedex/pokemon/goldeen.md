@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Goldeen ROM Changes"
 
-    **Base Stats:** `45 HP / 67 Atk / 60 Def / 35 SAtk / 50 SDef / 63 Spd` → `45 HP / 77 Atk / 60 Def / 25 SAtk / 50 SDef / 73 Spd`
+	**Base Stats Changes:**
+
+	- `45 HP / 67 Atk / 60 Def / 35 SAtk / 50 SDef / 63 Spd` → `45 HP / 77 Atk / 60 Def / 25 SAtk / 50 SDef / 73 Spd`
 
 
 ## :material-information: Basic Information
@@ -87,7 +89,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Mystic Water](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mystic-water.png){ .item-sprite } [Mystic Water](../../pokedex/items/mystic-water.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Mystic Water](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mystic-water.png){ .item-sprite } [Mystic Water](../../pokedex/items/mystic-water.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -143,7 +145,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#118 [Goldeen](./goldeen.md)**
 
-	
+
 
 	***You are here***
 

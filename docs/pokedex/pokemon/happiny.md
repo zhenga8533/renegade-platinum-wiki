@@ -15,11 +15,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Happiny ROM Changes"
 
-    **Abilities:** `natural-cure / serene-grace` → `serene-grace / natural-cure`
+	**Abilities Changes:**
 
-    **Base Happiness:** `140` → `180`
+	- `natural-cure / serene-grace` → `serene-grace / natural-cure`
+
+	**Base Happiness Changes:**
+
+	- `140` → `180`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Pink
 
@@ -86,7 +90,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Oval Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oval-stone.png){ .item-sprite } [Oval Stone](../../pokedex/items/oval-stone.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Oval Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oval-stone.png){ .item-sprite } [Oval Stone](../../pokedex/items/oval-stone.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -142,7 +146,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#440 [Happiny](./happiny.md)**
 
-	
+
 
 	***You are here***
 

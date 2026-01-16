@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Carvanha ROM Changes"
 
-    **Abilities:** `rough-skin` → `speed-boost / rough-skin`
+	**Abilities Changes:**
+
+	- `rough-skin` → `speed-boost / rough-skin`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Red
 
@@ -84,7 +86,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Deep Sea Tooth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/deep-sea-tooth.png){ .item-sprite } [Deep Sea Tooth](../../pokedex/items/deep-sea-tooth.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Deep Sea Tooth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/deep-sea-tooth.png){ .item-sprite } [Deep Sea Tooth](../../pokedex/items/deep-sea-tooth.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -149,7 +151,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#318 [Carvanha](./carvanha.md)**
 
-	
+
 
 	***You are here***
 

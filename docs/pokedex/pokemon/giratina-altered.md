@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Giratina Altered ROM Changes"
 
-    **Held Items:** `None` → `griseous-orb`
+	**Held Items Changes:**
+
+	- `None` → `griseous-orb`
 
 
 ## :material-information: Basic Information
@@ -67,7 +69,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Black
 
@@ -82,7 +84,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Griseous Orb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/griseous-orb.png){ .item-sprite } [Griseous Orb](../../pokedex/items/griseous-orb.md) | 100% | — | — | — | — |
+| <span style="white-space: nowrap;">![Griseous Orb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/griseous-orb.png){ .item-sprite } [Griseous Orb](../../pokedex/items/griseous-orb.md)</span> | 100% | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

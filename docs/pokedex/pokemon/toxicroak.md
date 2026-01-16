@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Toxicroak ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `anticipation / dry-skin` → `dry-skin / anticipation`
+	- `croagunk > toxicroak: level-up (level 37)` → `croagunk > toxicroak: level-up (level 33)`
+
+	**Abilities Changes:**
+
+	- `anticipation / dry-skin` → `dry-skin / anticipation`
 
 
 ## :material-information: Basic Information
@@ -72,7 +76,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Blue
 
@@ -87,7 +91,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Black Sludge](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-sludge.png){ .item-sprite } [Black Sludge](../../pokedex/items/black-sludge.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Black Sludge](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-sludge.png){ .item-sprite } [Black Sludge](../../pokedex/items/black-sludge.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

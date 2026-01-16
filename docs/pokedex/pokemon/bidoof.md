@@ -64,7 +64,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Brown
 
@@ -127,7 +127,7 @@
 
 	**#399 [Bidoof](./bidoof.md)**
 
-	
+
 
 	***You are here***
 

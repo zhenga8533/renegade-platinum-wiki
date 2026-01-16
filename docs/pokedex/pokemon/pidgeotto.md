@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Pidgeotto ROM Changes"
 
-    **Base Stats:** `63 HP / 60 Atk / 55 Def / 50 SAtk / 50 SDef / 71 Spd` → `63 HP / 50 Atk / 50 Def / 65 SAtk / 50 SDef / 71 Spd`
+	**Base Stats Changes:**
+
+	- `63 HP / 60 Atk / 55 Def / 50 SAtk / 50 SDef / 71 Spd` → `63 HP / 50 Atk / 50 Def / 65 SAtk / 50 SDef / 71 Spd`
 
 
 ## :material-information: Basic Information

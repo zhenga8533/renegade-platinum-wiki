@@ -78,7 +78,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Thick Club](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/thick-club.png){ .item-sprite } [Thick Club](../../pokedex/items/thick-club.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Thick Club](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/thick-club.png){ .item-sprite } [Thick Club](../../pokedex/items/thick-club.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -143,7 +143,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#104 [Cubone](./cubone.md)**
 
-	
+
 
 	***You are here***
 

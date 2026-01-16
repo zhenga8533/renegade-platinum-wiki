@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Plusle ROM Changes"
 
-    **Abilities:** `plus` → `plus / lightning-rod`
+	**Abilities Changes:**
 
-    **Base Stats:** `60 HP / 50 Atk / 40 Def / 85 SAtk / 75 SDef / 95 Spd` → `60 HP / 50 Atk / 50 Def / 95 SAtk / 85 SDef / 110 Spd`
+	- `plus` → `plus / lightning-rod`
+
+	**Base Stats Changes:**
+
+	- `60 HP / 50 Atk / 40 Def / 85 SAtk / 75 SDef / 95 Spd` → `60 HP / 50 Atk / 50 Def / 95 SAtk / 85 SDef / 110 Spd`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Yellow
 

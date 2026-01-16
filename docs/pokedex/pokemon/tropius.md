@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Tropius ROM Changes"
 
-    **Base Experience:** `169` → `219`
+	**Base Experience Changes:**
 
-    **Base Stats:** `99 HP / 68 Atk / 83 Def / 72 SAtk / 87 SDef / 51 Spd` → `110 HP / 95 Atk / 95 Def / 95 SAtk / 95 SDef / 45 Spd`
+	- `169` → `219`
+
+	**Base Stats Changes:**
+
+	- `99 HP / 68 Atk / 83 Def / 72 SAtk / 87 SDef / 51 Spd` → `110 HP / 95 Atk / 95 Def / 95 SAtk / 95 SDef / 45 Spd`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Green
 

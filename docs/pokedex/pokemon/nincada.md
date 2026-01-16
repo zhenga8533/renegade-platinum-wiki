@@ -62,7 +62,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Gray
 
@@ -77,7 +77,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Soft Sand](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soft-sand.png){ .item-sprite } [Soft Sand](../../pokedex/items/soft-sand.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Soft Sand](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soft-sand.png){ .item-sprite } [Soft Sand](../../pokedex/items/soft-sand.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -142,7 +142,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#290 [Nincada](./nincada.md)**
 
-	
+
 
 	***You are here***
 

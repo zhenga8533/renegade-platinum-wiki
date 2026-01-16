@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Breloom ROM Changes"
 
-    **Abilities:** `effect-spore / poison-heal` → `technician / poison-heal`
+	**Abilities Changes:**
+
+	- `effect-spore / poison-heal` → `technician / poison-heal`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Green
 
@@ -84,8 +86,8 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Big Mushroom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-mushroom.png){ .item-sprite } [Big Mushroom](../../pokedex/items/big-mushroom.md) | — | — | — | — | — |
-| ![Tiny Mushroom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tiny-mushroom.png){ .item-sprite } [Tiny Mushroom](../../pokedex/items/tiny-mushroom.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Big Mushroom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-mushroom.png){ .item-sprite } [Big Mushroom](../../pokedex/items/big-mushroom.md)</span> | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Tiny Mushroom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tiny-mushroom.png){ .item-sprite } [Tiny Mushroom](../../pokedex/items/tiny-mushroom.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

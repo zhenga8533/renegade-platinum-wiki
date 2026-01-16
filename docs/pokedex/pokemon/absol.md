@@ -13,13 +13,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Absol ROM Changes"
 
-    **Held Items:** `None` → `life-orb`
+	**Held Items Changes:**
 
-    **Abilities:** `pressure / super-luck` → `super-luck / pressure`
+	- `None` → `life-orb`
 
-    **Base Stats:** `65 HP / 130 Atk / 60 Def / 75 SAtk / 60 SDef / 75 Spd` → `65 HP / 130 Atk / 60 Def / 85 SAtk / 60 SDef / 85 Spd`
+	**Abilities Changes:**
+
+	- `pressure / super-luck` → `super-luck / pressure`
+
+	**Base Stats Changes:**
+
+	- `65 HP / 130 Atk / 60 Def / 75 SAtk / 60 SDef / 75 Spd` → `65 HP / 130 Atk / 60 Def / 85 SAtk / 60 SDef / 85 Spd`
 
 
 ## :material-information: Basic Information
@@ -73,7 +79,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** White
 
@@ -88,7 +94,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Life Orb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png){ .item-sprite } [Life Orb](../../pokedex/items/life-orb.md) | 5% | — | — | — | — |
+| <span style="white-space: nowrap;">![Life Orb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png){ .item-sprite } [Life Orb](../../pokedex/items/life-orb.md)</span> | 5% | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

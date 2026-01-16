@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Skorupi ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `battle-armor / sniper` → `sniper / battle-armor`
+	- `skorupi > drapion: level-up (level 40)` → `skorupi > drapion: level-up (level 30)`
+
+	**Abilities Changes:**
+
+	- `battle-armor / sniper` → `sniper / battle-armor`
 
 
 ## :material-information: Basic Information
@@ -70,7 +74,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Purple
 
@@ -85,7 +89,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Poison Barb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-barb.png){ .item-sprite } [Poison Barb](../../pokedex/items/poison-barb.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Poison Barb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-barb.png){ .item-sprite } [Poison Barb](../../pokedex/items/poison-barb.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -146,7 +150,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#451 [Skorupi](./skorupi.md)**
 
-	
+
 
 	***You are here***
 

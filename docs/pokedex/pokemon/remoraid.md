@@ -64,7 +64,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Gray
 
@@ -127,7 +127,7 @@
 
 	**#223 [Remoraid](./remoraid.md)**
 
-	
+
 
 	***You are here***
 

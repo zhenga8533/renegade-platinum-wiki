@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Slugma ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Base Stats:** `40 HP / 40 Atk / 40 Def / 70 SAtk / 40 SDef / 20 Spd` → `50 HP / 50 Atk / 50 Def / 90 SAtk / 50 SDef / 20 Spd`
+	- `slugma > magcargo: level-up (level 38)` → `slugma > magcargo: level-up (level 32)`
+
+	**Base Stats Changes:**
+
+	- `40 HP / 40 Atk / 40 Def / 70 SAtk / 40 SDef / 20 Spd` → `50 HP / 50 Atk / 50 Def / 90 SAtk / 50 SDef / 20 Spd`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Red
 
@@ -134,7 +138,7 @@
 
 	**#218 [Slugma](./slugma.md)**
 
-	
+
 
 	***You are here***
 

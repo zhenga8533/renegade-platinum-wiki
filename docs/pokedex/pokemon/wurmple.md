@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Wurmple ROM Changes"
 
-    **Abilities:** `shield-dust` → `shield-dust / run-away`
+	**Abilities Changes:**
+
+	- `shield-dust` → `shield-dust / run-away`
 
 
 ## :material-information: Basic Information
@@ -70,7 +72,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Red
 
@@ -85,8 +87,8 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Bright Powder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png){ .item-sprite } [Bright Powder](../../pokedex/items/bright-powder.md) | — | — | — | — | — |
-| ![Pecha Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pecha-berry.png){ .item-sprite } [Pecha Berry](../../pokedex/items/pecha-berry.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Bright Powder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png){ .item-sprite } [Bright Powder](../../pokedex/items/bright-powder.md)</span> | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Pecha Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pecha-berry.png){ .item-sprite } [Pecha Berry](../../pokedex/items/pecha-berry.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -142,7 +144,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#265 [Wurmple](./wurmple.md)**
 
-	
+
 
 	***You are here***
 

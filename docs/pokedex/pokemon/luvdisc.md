@@ -13,13 +13,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Luvdisc ROM Changes"
 
-    **Abilities:** `swift-swim` → `swift-swim / hydration`
+	**Abilities Changes:**
 
-    **Base Stats:** `43 HP / 30 Atk / 55 Def / 40 SAtk / 65 SDef / 97 Spd` → `50 HP / 30 Atk / 75 Def / 95 SAtk / 75 SDef / 125 Spd`
+	- `swift-swim` → `swift-swim / hydration`
 
-    **Type:** `water` → `water / fairy`
+	**Base Stats Changes:**
+
+	- `43 HP / 30 Atk / 55 Def / 40 SAtk / 65 SDef / 97 Spd` → `50 HP / 30 Atk / 75 Def / 95 SAtk / 75 SDef / 125 Spd`
+
+	**Type Changes:**
+
+	- `water` → `water / fairy`
 
 
 ## :material-information: Basic Information
@@ -73,7 +79,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Pink
 
@@ -88,7 +94,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Heart Scale](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heart-scale.png){ .item-sprite } [Heart Scale](../../pokedex/items/heart-scale.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Heart Scale](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heart-scale.png){ .item-sprite } [Heart Scale](../../pokedex/items/heart-scale.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

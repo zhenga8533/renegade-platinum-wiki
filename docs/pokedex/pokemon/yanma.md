@@ -63,7 +63,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Red
 
@@ -78,7 +78,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Wide Lens](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wide-lens.png){ .item-sprite } [Wide Lens](../../pokedex/items/wide-lens.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Wide Lens](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wide-lens.png){ .item-sprite } [Wide Lens](../../pokedex/items/wide-lens.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -153,7 +153,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#193 [Yanma](./yanma.md)**
 
-	
+
 
 	***You are here***
 

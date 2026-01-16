@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Togepi ROM Changes"
 
-    **Abilities:** `hustle / serene-grace` → `serene-grace / super-luck`
+	**Abilities Changes:**
 
-    **Base Happiness:** `70` → `180`
+	- `hustle / serene-grace` → `serene-grace / super-luck`
+
+	**Base Happiness Changes:**
+
+	- `70` → `180`
 
 
 ## :material-information: Basic Information
@@ -72,7 +76,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** White
 
@@ -144,7 +148,7 @@
 
 	**#175 [Togepi](./togepi.md)**
 
-	
+
 
 	***You are here***
 

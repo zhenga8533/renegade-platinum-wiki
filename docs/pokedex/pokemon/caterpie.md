@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Caterpie ROM Changes"
 
-    **Abilities:** `shield-dust` → `run-away / shield-dust`
+	**Abilities Changes:**
+
+	- `shield-dust` → `run-away / shield-dust`
 
 
 ## :material-information: Basic Information
@@ -132,7 +134,7 @@
 
 	**#010 [Caterpie](./caterpie.md)**
 
-	
+
 
 	***You are here***
 

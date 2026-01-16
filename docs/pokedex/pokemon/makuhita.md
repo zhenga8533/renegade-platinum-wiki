@@ -63,7 +63,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Yellow
 
@@ -78,7 +78,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Black Belt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-belt.png){ .item-sprite } [Black Belt](../../pokedex/items/black-belt.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Black Belt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-belt.png){ .item-sprite } [Black Belt](../../pokedex/items/black-belt.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -134,7 +134,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#296 [Makuhita](./makuhita.md)**
 
-	
+
 
 	***You are here***
 

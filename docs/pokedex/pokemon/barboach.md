@@ -64,7 +64,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Gray
 
@@ -136,7 +136,7 @@
 
 	**#339 [Barboach](./barboach.md)**
 
-	
+
 
 	***You are here***
 

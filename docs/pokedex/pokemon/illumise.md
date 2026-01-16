@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Illumise ROM Changes"
 
-    **Abilities:** `oblivious / tinted-lens` → `tinted-lens / oblivious`
+	**Abilities Changes:**
 
-    **Type:** `bug` → `bug / fairy`
+	- `oblivious / tinted-lens` → `tinted-lens / oblivious`
+
+	**Type Changes:**
+
+	- `bug` → `bug / fairy`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Purple
 
@@ -86,7 +90,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Bright Powder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png){ .item-sprite } [Bright Powder](../../pokedex/items/bright-powder.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Bright Powder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png){ .item-sprite } [Bright Powder](../../pokedex/items/bright-powder.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

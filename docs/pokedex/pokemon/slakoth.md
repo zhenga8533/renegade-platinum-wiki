@@ -62,7 +62,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Brown
 
@@ -125,7 +125,7 @@
 
 	**#287 [Slakoth](./slakoth.md)**
 
-	
+
 
 	***You are here***
 

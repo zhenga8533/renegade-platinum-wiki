@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Gloom ROM Changes"
 
-    **Abilities:** `chlorophyll` → `chlorophyll / stench`
+	**Abilities Changes:**
+
+	- `chlorophyll` → `chlorophyll / stench`
 
 
 ## :material-information: Basic Information

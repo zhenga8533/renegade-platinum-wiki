@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Loudred ROM Changes"
 
-    **Abilities:** `soundproof` → `soundproof / scrappy`
+	**Abilities Changes:**
+
+	- `soundproof` → `soundproof / scrappy`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Blue
 

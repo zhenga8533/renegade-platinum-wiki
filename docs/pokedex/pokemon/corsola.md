@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Corsola ROM Changes"
 
-    **Held Items:** `None` → `hard-stone`
+	**Held Items Changes:**
 
-    **Base Stats:** `65 HP / 55 Atk / 95 Def / 65 SAtk / 95 SDef / 35 Spd` → `65 HP / 45 Atk / 115 Def / 90 SAtk / 115 SDef / 35 Spd`
+	- `None` → `hard-stone`
+
+	**Base Stats Changes:**
+
+	- `65 HP / 55 Atk / 95 Def / 65 SAtk / 95 SDef / 35 Spd` → `65 HP / 45 Atk / 115 Def / 90 SAtk / 115 SDef / 35 Spd`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Pink
 
@@ -86,7 +90,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Hard Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hard-stone.png){ .item-sprite } [Hard Stone](../../pokedex/items/hard-stone.md) | 5% | — | — | — | — |
+| <span style="white-space: nowrap;">![Hard Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hard-stone.png){ .item-sprite } [Hard Stone](../../pokedex/items/hard-stone.md)</span> | 5% | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

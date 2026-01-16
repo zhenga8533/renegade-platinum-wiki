@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Smoochum ROM Changes"
 
-    **Abilities:** `oblivious / forewarn` → `hydration / forewarn`
+	**Abilities Changes:**
 
-    **Base Stats:** `45 HP / 30 Atk / 15 Def / 85 SAtk / 65 SDef / 65 Spd` → `45 HP / 30 Atk / 15 Def / 95 SAtk / 65 SDef / 65 Spd`
+	- `oblivious / forewarn` → `hydration / forewarn`
+
+	**Base Stats Changes:**
+
+	- `45 HP / 30 Atk / 15 Def / 85 SAtk / 65 SDef / 65 Spd` → `45 HP / 30 Atk / 15 Def / 95 SAtk / 65 SDef / 65 Spd`
 
 
 ## :material-information: Basic Information
@@ -72,7 +76,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Pink
 
@@ -135,7 +139,7 @@
 
 	**#238 [Smoochum](./smoochum.md)**
 
-	
+
 
 	***You are here***
 

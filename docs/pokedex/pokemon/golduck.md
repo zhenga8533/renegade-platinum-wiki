@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Golduck ROM Changes"
 
-    **Type:** `water` → `water / psychic`
+	**Type Changes:**
+
+	- `water` → `water / psychic`
 
 
 ## :material-information: Basic Information

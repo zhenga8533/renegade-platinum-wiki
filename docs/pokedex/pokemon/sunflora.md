@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Sunflora ROM Changes"
 
-    **Base Stats:** `75 HP / 75 Atk / 55 Def / 105 SAtk / 85 SDef / 30 Spd` → `85 HP / 55 Atk / 85 Def / 125 SAtk / 95 SDef / 30 Spd`
+	**Base Stats Changes:**
+
+	- `75 HP / 75 Atk / 55 Def / 105 SAtk / 85 SDef / 30 Spd` → `85 HP / 55 Atk / 85 Def / 125 SAtk / 95 SDef / 30 Spd`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Yellow
 

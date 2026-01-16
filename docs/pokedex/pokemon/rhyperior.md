@@ -13,11 +13,17 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Rhyperior ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `lightning-rod / solid-rock` → `solid-rock / reckless`
+	- `rhydon > rhyperior: trade (held: protector)` → `rhydon > rhyperior: use-item (protector)`
+
+	**Abilities Changes:**
+
+	- `lightning-rod / solid-rock` → `solid-rock / reckless`
+
+	- `rhydon > rhyperior: unknown` → `rhydon > rhyperior: use-item (protector)`
 
 
 ## :material-information: Basic Information
@@ -71,7 +77,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Gray
 

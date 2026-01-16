@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Rattata ROM Changes"
 
-    **Abilities:** `run-away / guts` → `hustle / guts`
+	**Abilities Changes:**
+
+	- `run-away / guts` → `hustle / guts`
 
 
 ## :material-information: Basic Information
@@ -134,7 +136,7 @@
 
 	**#019 [Rattata](./rattata.md)**
 
-	
+
 
 	***You are here***
 

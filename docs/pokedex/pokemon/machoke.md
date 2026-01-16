@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Machoke ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
+
+	- `machoke > machamp: trade` → `machoke > machamp: level-up (level 36)`
 
 
 ## :material-information: Basic Information
@@ -85,7 +87,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Focus Band](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-band.png){ .item-sprite } [Focus Band](../../pokedex/items/focus-band.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Focus Band](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-band.png){ .item-sprite } [Focus Band](../../pokedex/items/focus-band.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

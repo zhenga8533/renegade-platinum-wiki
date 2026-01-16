@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Purugly ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Base Stats:** `71 HP / 82 Atk / 64 Def / 64 SAtk / 59 SDef / 112 Spd` → `90 HP / 95 Atk / 70 Def / 65 SAtk / 60 SDef / 115 Spd`
+	- `glameow > purugly: level-up (level 38)` → `glameow > purugly: level-up (level 32)`
+
+	**Base Stats Changes:**
+
+	- `71 HP / 82 Atk / 64 Def / 64 SAtk / 59 SDef / 112 Spd` → `90 HP / 95 Atk / 70 Def / 65 SAtk / 60 SDef / 115 Spd`
 
 
 ## :material-information: Basic Information
@@ -70,7 +74,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Gray
 

@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Hoothoot ROM Changes"
 
-    **Abilities:** `insomnia / keen-eye` → `tinted-lens / insomnia`
+	**Abilities Changes:**
+
+	- `insomnia / keen-eye` → `tinted-lens / insomnia`
 
 
 ## :material-information: Basic Information
@@ -70,7 +72,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Brown
 
@@ -142,7 +144,7 @@
 
 	**#163 [Hoothoot](./hoothoot.md)**
 
-	
+
 
 	***You are here***
 

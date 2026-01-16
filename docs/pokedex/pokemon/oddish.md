@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Oddish ROM Changes"
 
-    **Abilities:** `chlorophyll` → `chlorophyll / run-away`
+	**Abilities Changes:**
+
+	- `chlorophyll` → `chlorophyll / run-away`
 
 
 ## :material-information: Basic Information
@@ -137,7 +139,7 @@
 
 	**#043 [Oddish](./oddish.md)**
 
-	
+
 
 	***You are here***
 

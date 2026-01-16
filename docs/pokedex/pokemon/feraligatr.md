@@ -13,13 +13,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Feraligatr ROM Changes"
 
-    **Abilities:** `torrent` → `intimidate / torrent`
+	**Abilities Changes:**
 
-    **Base Stats:** `85 HP / 105 Atk / 100 Def / 79 SAtk / 83 SDef / 78 Spd` → `85 HP / 110 Atk / 100 Def / 79 SAtk / 83 SDef / 78 Spd`
+	- `torrent` → `intimidate / torrent`
 
-    **Type:** `water` → `water / dark`
+	**Base Stats Changes:**
+
+	- `85 HP / 105 Atk / 100 Def / 79 SAtk / 83 SDef / 78 Spd` → `85 HP / 110 Atk / 100 Def / 79 SAtk / 83 SDef / 78 Spd`
+
+	**Type Changes:**
+
+	- `water` → `water / dark`
 
 
 ## :material-information: Basic Information
@@ -73,7 +79,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Blue
 

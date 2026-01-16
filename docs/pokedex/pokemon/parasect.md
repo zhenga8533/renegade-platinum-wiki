@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Parasect ROM Changes"
 
-    **Base Stats:** `60 HP / 95 Atk / 80 Def / 60 SAtk / 80 SDef / 30 Spd` → `60 HP / 115 Atk / 100 Def / 55 SAtk / 90 SDef / 30 Spd`
+	**Base Stats Changes:**
+
+	- `60 HP / 95 Atk / 80 Def / 60 SAtk / 80 SDef / 30 Spd` → `60 HP / 115 Atk / 100 Def / 55 SAtk / 90 SDef / 30 Spd`
 
 
 ## :material-information: Basic Information
@@ -84,8 +86,8 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Big Mushroom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-mushroom.png){ .item-sprite } [Big Mushroom](../../pokedex/items/big-mushroom.md) | — | — | — | — | — |
-| ![Tiny Mushroom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tiny-mushroom.png){ .item-sprite } [Tiny Mushroom](../../pokedex/items/tiny-mushroom.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Big Mushroom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-mushroom.png){ .item-sprite } [Big Mushroom](../../pokedex/items/big-mushroom.md)</span> | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Tiny Mushroom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tiny-mushroom.png){ .item-sprite } [Tiny Mushroom](../../pokedex/items/tiny-mushroom.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

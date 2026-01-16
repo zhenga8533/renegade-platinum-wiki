@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Geodude ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
+
+	- `graveler > golem: trade` → `graveler > golem: level-up (level 36)`
 
 
 ## :material-information: Basic Information
@@ -85,7 +87,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Everstone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/everstone.png){ .item-sprite } [Everstone](../../pokedex/items/everstone.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Everstone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/everstone.png){ .item-sprite } [Everstone](../../pokedex/items/everstone.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -160,7 +162,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#074 [Geodude](./geodude.md)**
 
-	
+
 
 	***You are here***
 

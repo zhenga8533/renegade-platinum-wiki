@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Zapdos ROM Changes"
 
-    **Abilities:** `pressure` → `pressure / static`
+	**Abilities Changes:**
+
+	- `pressure` → `pressure / static`
 
 
 ## :material-information: Basic Information

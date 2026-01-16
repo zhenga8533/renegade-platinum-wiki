@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Swellow ROM Changes"
 
-    **Abilities:** `guts` → `guts / scrappy`
+	**Abilities Changes:**
 
-    **Base Stats:** `60 HP / 85 Atk / 60 Def / 75 SAtk / 50 SDef / 125 Spd` → `60 HP / 90 Atk / 60 Def / 80 SAtk / 50 SDef / 125 Spd`
+	- `guts` → `guts / scrappy`
+
+	**Base Stats Changes:**
+
+	- `60 HP / 85 Atk / 60 Def / 75 SAtk / 50 SDef / 125 Spd` → `60 HP / 90 Atk / 60 Def / 80 SAtk / 50 SDef / 125 Spd`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Blue
 

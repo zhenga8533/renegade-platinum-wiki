@@ -13,13 +13,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Electivire ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `motor-drive` → `motor-drive / vital-spirit`
+	- `electabuzz > electivire: trade (held: electirizer)` → `electabuzz > electivire: use-item (electirizer)`
 
-    **Type:** `electric` → `electric / fighting`
+	**Abilities Changes:**
+
+	- `motor-drive` → `motor-drive / vital-spirit`
+
+	**Type Changes:**
+
+	- `electric` → `electric / fighting`
 
 
 ## :material-information: Basic Information
@@ -71,7 +77,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Yellow
 
@@ -86,7 +92,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Electirizer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electirizer.png){ .item-sprite } [Electirizer](../../pokedex/items/electirizer.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Electirizer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electirizer.png){ .item-sprite } [Electirizer](../../pokedex/items/electirizer.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

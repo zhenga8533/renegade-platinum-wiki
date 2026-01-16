@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Feebas ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `swift-swim` → `swift-swim / adaptability`
+	- `feebas > milotic: level-up` → `feebas > milotic: use-item (prism-scale)`
+
+	**Abilities Changes:**
+
+	- `swift-swim` → `swift-swim / adaptability`
 
 
 ## :material-information: Basic Information
@@ -72,7 +76,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Brown
 
@@ -135,7 +139,7 @@
 
 	**#349 [Feebas](./feebas.md)**
 
-	
+
 
 	***You are here***
 

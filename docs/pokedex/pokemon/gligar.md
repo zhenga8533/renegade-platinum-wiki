@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Gligar ROM Changes"
 
-    **Abilities:** `hyper-cutter / sand-veil` → `immunity / hyper-cutter`
+	**Abilities Changes:**
+
+	- `hyper-cutter / sand-veil` → `immunity / hyper-cutter`
 
 
 ## :material-information: Basic Information
@@ -71,7 +73,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Purple
 
@@ -148,7 +150,7 @@
 
 	**#207 [Gligar](./gligar.md)**
 
-	
+
 
 	***You are here***
 

@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Squirtle ROM Changes"
 
-    **Abilities:** `torrent` → `rain-dish / torrent`
+	**Abilities Changes:**
+
+	- `torrent` → `rain-dish / torrent`
 
 
 ## :material-information: Basic Information
@@ -132,7 +134,7 @@
 
 	**#007 [Squirtle](./squirtle.md)**
 
-	
+
 
 	***You are here***
 

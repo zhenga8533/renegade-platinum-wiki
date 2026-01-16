@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Claydol ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
+
+	- `baltoy > claydol: level-up (level 36)` → `baltoy > claydol: level-up (level 32)`
 
 
 ## :material-information: Basic Information
@@ -68,7 +70,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Black
 
@@ -83,7 +85,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Light Clay](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-clay.png){ .item-sprite } [Light Clay](../../pokedex/items/light-clay.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Light Clay](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-clay.png){ .item-sprite } [Light Clay](../../pokedex/items/light-clay.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

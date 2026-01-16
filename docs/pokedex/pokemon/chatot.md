@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Chatot ROM Changes"
 
-    **Abilities:** `keen-eye / tangled-feet` → `soundproof / tangled-feet`
+	**Abilities Changes:**
 
-    **Base Stats:** `76 HP / 65 Atk / 45 Def / 92 SAtk / 42 SDef / 91 Spd` → `75 HP / 45 Atk / 55 Def / 110 SAtk / 55 SDef / 110 Spd`
+	- `keen-eye / tangled-feet` → `soundproof / tangled-feet`
+
+	**Base Stats Changes:**
+
+	- `76 HP / 65 Atk / 45 Def / 92 SAtk / 42 SDef / 91 Spd` → `75 HP / 45 Atk / 55 Def / 110 SAtk / 55 SDef / 110 Spd`
 
 
 ## :material-information: Basic Information
@@ -70,7 +74,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Black
 
@@ -85,7 +89,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Metronome](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metronome.png){ .item-sprite } [Metronome](../../pokedex/items/metronome.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Metronome](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metronome.png){ .item-sprite } [Metronome](../../pokedex/items/metronome.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

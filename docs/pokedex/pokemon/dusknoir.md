@@ -13,11 +13,17 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Dusknoir ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `pressure` → `iron-fist / pressure`
+	- `dusclops > dusknoir: trade (held: reaper-cloth)` → `dusclops > dusknoir: use-item (reaper-cloth)`
+
+	**Abilities Changes:**
+
+	- `pressure` → `iron-fist / pressure`
+
+	- `dusclops > dusknoir: unknown` → `dusclops > dusknoir: use-item (reaper-cloth)`
 
 
 ## :material-information: Basic Information
@@ -69,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Black
 
@@ -84,7 +90,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Spell Tag](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spell-tag.png){ .item-sprite } [Spell Tag](../../pokedex/items/spell-tag.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Spell Tag](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spell-tag.png){ .item-sprite } [Spell Tag](../../pokedex/items/spell-tag.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

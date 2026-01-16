@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Kangaskhan ROM Changes"
 
-    **Abilities:** `early-bird / scrappy` → `scrappy / early-bird`
+	**Abilities Changes:**
+
+	- `early-bird / scrappy` → `scrappy / early-bird`
 
 
 ## :material-information: Basic Information

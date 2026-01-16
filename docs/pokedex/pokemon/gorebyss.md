@@ -13,11 +13,17 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Gorebyss ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `swift-swim` → `swift-swim / hydration`
+	- `clamperl > huntail: trade (held: deep-sea-tooth)` → `clamperl > huntail: use-item (deep-sea-tooth)`
+
+	- `clamperl > gorebyss: trade (held: deep-sea-scale)` → `clamperl > gorebyss: use-item (deep-sea-scale)`
+
+	**Abilities Changes:**
+
+	- `swift-swim` → `swift-swim / hydration`
 
 
 ## :material-information: Basic Information
@@ -71,7 +77,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Pink
 
@@ -86,7 +92,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Deep Sea Scale](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/deep-sea-scale.png){ .item-sprite } [Deep Sea Scale](../../pokedex/items/deep-sea-scale.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Deep Sea Scale](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/deep-sea-scale.png){ .item-sprite } [Deep Sea Scale](../../pokedex/items/deep-sea-scale.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

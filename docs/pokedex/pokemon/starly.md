@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Starly ROM Changes"
 
-    **Abilities:** `keen-eye` → `reckless / keen-eye`
+	**Abilities Changes:**
+
+	- `keen-eye` → `reckless / keen-eye`
 
 
 ## :material-information: Basic Information
@@ -70,7 +72,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Brown
 
@@ -142,7 +144,7 @@
 
 	**#396 [Starly](./starly.md)**
 
-	
+
 
 	***You are here***
 

@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Dragonite ROM Changes"
 
-    **Abilities:** `inner-focus` → `marvel-scale / inner-focus`
+	**Abilities Changes:**
+
+	- `inner-focus` → `marvel-scale / inner-focus`
 
 
 ## :material-information: Basic Information
@@ -84,7 +86,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Dragon Scale](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-scale.png){ .item-sprite } [Dragon Scale](../../pokedex/items/dragon-scale.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Dragon Scale](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-scale.png){ .item-sprite } [Dragon Scale](../../pokedex/items/dragon-scale.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

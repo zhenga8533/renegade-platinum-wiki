@@ -77,7 +77,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Smoke Ball](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/smoke-ball.png){ .item-sprite } [Smoke Ball](../../pokedex/items/smoke-ball.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Smoke Ball](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/smoke-ball.png){ .item-sprite } [Smoke Ball](../../pokedex/items/smoke-ball.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -133,7 +133,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#109 [Koffing](./koffing.md)**
 
-	
+
 
 	***You are here***
 

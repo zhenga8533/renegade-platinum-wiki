@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Sableye ROM Changes"
 
-    **Abilities:** `keen-eye / stall` → `magic-guard / stall`
+	**Abilities Changes:**
 
-    **Base Stats:** `50 HP / 75 Atk / 75 Def / 65 SAtk / 65 SDef / 50 Spd` → `50 HP / 85 Atk / 95 Def / 85 SAtk / 85 SDef / 50 Spd`
+	- `keen-eye / stall` → `magic-guard / stall`
+
+	**Base Stats Changes:**
+
+	- `50 HP / 75 Atk / 75 Def / 65 SAtk / 65 SDef / 50 Spd` → `50 HP / 85 Atk / 95 Def / 85 SAtk / 85 SDef / 50 Spd`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Purple
 
@@ -86,7 +90,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Wide Lens](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wide-lens.png){ .item-sprite } [Wide Lens](../../pokedex/items/wide-lens.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Wide Lens](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wide-lens.png){ .item-sprite } [Wide Lens](../../pokedex/items/wide-lens.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

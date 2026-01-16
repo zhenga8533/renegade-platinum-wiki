@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Snorlax ROM Changes"
 
-    **Abilities:** `immunity / thick-fat` → `thick-fat / immunity`
+	**Abilities Changes:**
+
+	- `immunity / thick-fat` → `thick-fat / immunity`
 
 
 ## :material-information: Basic Information
@@ -85,7 +87,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Leftovers](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png){ .item-sprite } [Leftovers](../../pokedex/items/leftovers.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Leftovers](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png){ .item-sprite } [Leftovers](../../pokedex/items/leftovers.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

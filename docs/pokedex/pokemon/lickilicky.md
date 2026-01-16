@@ -61,7 +61,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Pink
 
@@ -76,7 +76,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Lagging Tail](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lagging-tail.png){ .item-sprite } [Lagging Tail](../../pokedex/items/lagging-tail.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Lagging Tail](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lagging-tail.png){ .item-sprite } [Lagging Tail](../../pokedex/items/lagging-tail.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

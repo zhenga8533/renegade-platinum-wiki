@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Linoone ROM Changes"
 
-    **Base Stats:** `78 HP / 70 Atk / 61 Def / 50 SAtk / 61 SDef / 100 Spd` → `85 HP / 85 Atk / 60 Def / 50 SAtk / 60 SDef / 110 Spd`
+	**Base Stats Changes:**
+
+	- `78 HP / 70 Atk / 61 Def / 50 SAtk / 61 SDef / 100 Spd` → `85 HP / 85 Atk / 60 Def / 50 SAtk / 60 SDef / 110 Spd`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** White
 
@@ -84,8 +86,8 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Max Revive](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-revive.png){ .item-sprite } [Max Revive](../../pokedex/items/max-revive.md) | — | — | — | — | — |
-| ![Potion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/potion.png){ .item-sprite } [Potion](../../pokedex/items/potion.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Max Revive](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-revive.png){ .item-sprite } [Max Revive](../../pokedex/items/max-revive.md)</span> | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Potion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/potion.png){ .item-sprite } [Potion](../../pokedex/items/potion.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

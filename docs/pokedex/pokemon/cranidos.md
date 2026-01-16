@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Cranidos ROM Changes"
 
-    **Abilities:** `mold-breaker` → `rock-head / mold-breaker`
+	**Abilities Changes:**
+
+	- `mold-breaker` → `rock-head / mold-breaker`
 
 
 ## :material-information: Basic Information
@@ -68,7 +70,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Blue
 
@@ -131,7 +133,7 @@
 
 	**#408 [Cranidos](./cranidos.md)**
 
-	
+
 
 	***You are here***
 

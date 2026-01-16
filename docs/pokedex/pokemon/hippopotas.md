@@ -63,7 +63,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Brown
 
@@ -135,7 +135,7 @@
 
 	**#449 [Hippopotas](./hippopotas.md)**
 
-	
+
 
 	***You are here***
 

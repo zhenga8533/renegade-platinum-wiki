@@ -1,9 +1,11 @@
 # Wild Charge
 
 
-!!! info "ROM Changes
+??? note "Wild Charge ROM Changes"
 
-    **Power:** `90` → `100`
+	**Power Changes:**
+
+	- `90` → `100`
 
 
 ## :material-chart-box: Stats

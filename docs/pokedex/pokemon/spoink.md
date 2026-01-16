@@ -63,7 +63,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Black
 
@@ -126,7 +126,7 @@
 
 	**#325 [Spoink](./spoink.md)**
 
-	
+
 
 	***You are here***
 

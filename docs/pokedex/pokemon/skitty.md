@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Skitty ROM Changes"
 
-    **Base Stats:** `50 HP / 45 Atk / 45 Def / 35 SAtk / 35 SDef / 50 Spd` → `50 HP / 50 Atk / 50 Def / 40 SAtk / 40 SDef / 60 Spd`
+	**Base Stats Changes:**
+
+	- `50 HP / 45 Atk / 45 Def / 35 SAtk / 35 SDef / 50 Spd` → `50 HP / 50 Atk / 50 Def / 40 SAtk / 40 SDef / 60 Spd`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Pink
 
@@ -132,7 +134,7 @@
 
 	**#300 [Skitty](./skitty.md)**
 
-	
+
 
 	***You are here***
 

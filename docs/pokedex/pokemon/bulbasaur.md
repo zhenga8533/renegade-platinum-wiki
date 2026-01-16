@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Bulbasaur ROM Changes"
 
-    **Abilities:** `overgrow` → `chlorophyll / overgrow`
+	**Abilities Changes:**
+
+	- `overgrow` → `chlorophyll / overgrow`
 
 
 ## :material-information: Basic Information
@@ -137,7 +139,7 @@
 
 	**#001 [Bulbasaur](./bulbasaur.md)**
 
-	
+
 
 	***You are here***
 

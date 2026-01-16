@@ -13,11 +13,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Rhydon ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `lightning-rod / rock-head` → `rock-head / reckless`
+	- `rhydon > rhyperior: trade (held: protector)` → `rhydon > rhyperior: use-item (protector)`
+
+	- `rhyhorn > rhydon: level-up (level 42)` → `rhyhorn > rhydon: level-up (level 36)`
+
+	**Abilities Changes:**
+
+	- `lightning-rod / rock-head` → `rock-head / reckless`
+
+	- `rhydon > rhyperior: unknown` → `rhydon > rhyperior: use-item (protector)`
 
 
 ## :material-information: Basic Information

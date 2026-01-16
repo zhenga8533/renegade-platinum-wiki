@@ -13,9 +13,17 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Umbreon ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
+
+	- `eevee > espeon: level-up (happiness, day)` → `eevee > espeon: use-item (sun-stone)`
+
+	- `eevee > umbreon: level-up (happiness, night)` → `eevee > umbreon: use-item (moon-stone)`
+
+	- `eevee > leafeon: level-up (at eterna-forest)` → `eevee > leafeon: use-item (leaf-stone)`
+
+	- `eevee > glaceon: level-up (at sinnoh-route-217)` → `eevee > glaceon: use-item (ice-stone)`
 
 
 ## :material-information: Basic Information
@@ -68,7 +76,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Black
 

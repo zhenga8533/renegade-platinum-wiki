@@ -14,13 +14,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Pelipper ROM Changes"
 
-    **Held Items:** `None` → `lucky-egg`
+	**Held Items Changes:**
 
-    **Abilities:** `keen-eye` → `drizzle / keen-eye`
+	- `None` → `lucky-egg`
 
-    **Base Stats:** `60 HP / 50 Atk / 100 Def / 95 SAtk / 70 SDef / 65 Spd` → `60 HP / 50 Atk / 110 Def / 95 SAtk / 80 SDef / 65 Spd`
+	**Abilities Changes:**
+
+	- `keen-eye` → `drizzle / keen-eye`
+
+	**Base Stats Changes:**
+
+	- `60 HP / 50 Atk / 100 Def / 95 SAtk / 70 SDef / 65 Spd` → `60 HP / 50 Atk / 110 Def / 95 SAtk / 80 SDef / 65 Spd`
 
 
 ## :material-information: Basic Information
@@ -74,7 +80,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Yellow
 
@@ -89,7 +95,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Lucky Egg](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucky-egg.png){ .item-sprite } [Lucky Egg](../../pokedex/items/lucky-egg.md) | 5% | — | — | — | — |
+| <span style="white-space: nowrap;">![Lucky Egg](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucky-egg.png){ .item-sprite } [Lucky Egg](../../pokedex/items/lucky-egg.md)</span> | 5% | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

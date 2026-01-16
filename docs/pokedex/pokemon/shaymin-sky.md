@@ -61,7 +61,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Green
 
@@ -76,7 +76,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Lum Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lum-berry.png){ .item-sprite } [Lum Berry](../../pokedex/items/lum-berry.md) | 100% | 100% | 100% | 100% | 100% |
+| <span style="white-space: nowrap;">![Lum Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lum-berry.png){ .item-sprite } [Lum Berry](../../pokedex/items/lum-berry.md)</span> | 100% | 100% | 100% | 100% | 100% |
 
 ## :material-shield-half-full: Type Effectiveness
 

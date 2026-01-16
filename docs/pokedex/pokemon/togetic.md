@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Togetic ROM Changes"
 
-    **Abilities:** `hustle / serene-grace` → `serene-grace / super-luck`
+	**Abilities Changes:**
+
+	- `hustle / serene-grace` → `serene-grace / super-luck`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** White
 

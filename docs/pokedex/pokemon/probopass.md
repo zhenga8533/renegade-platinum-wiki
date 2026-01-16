@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Probopass ROM Changes"
 
-    **Base Stats:** `60 HP / 55 Atk / 145 Def / 75 SAtk / 150 SDef / 40 Spd` → `60 HP / 45 Atk / 145 Def / 85 SAtk / 150 SDef / 40 Spd`
+	**Base Stats Changes:**
+
+	- `60 HP / 55 Atk / 145 Def / 75 SAtk / 150 SDef / 40 Spd` → `60 HP / 45 Atk / 145 Def / 85 SAtk / 150 SDef / 40 Spd`
 
 
 ## :material-information: Basic Information
@@ -67,7 +69,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Gray
 
@@ -82,7 +84,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Magnet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magnet.png){ .item-sprite } [Magnet](../../pokedex/items/magnet.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Magnet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magnet.png){ .item-sprite } [Magnet](../../pokedex/items/magnet.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

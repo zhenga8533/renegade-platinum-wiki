@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Honchkrow ROM Changes"
 
-    **Abilities:** `insomnia / super-luck` → `super-luck / insomnia`
+	**Abilities Changes:**
+
+	- `insomnia / super-luck` → `super-luck / insomnia`
 
 
 ## :material-information: Basic Information
@@ -68,7 +70,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Black
 

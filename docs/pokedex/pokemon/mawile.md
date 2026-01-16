@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Mawile ROM Changes"
 
-    **Abilities:** `hyper-cutter / intimidate` → `huge-power / intimidate`
+	**Abilities Changes:**
 
-    **Base Stats:** `50 HP / 85 Atk / 85 Def / 55 SAtk / 55 SDef / 50 Spd` → `50 HP / 95 Atk / 115 Def / 55 SAtk / 85 SDef / 50 Spd`
+	- `hyper-cutter / intimidate` → `huge-power / intimidate`
+
+	**Base Stats Changes:**
+
+	- `50 HP / 85 Atk / 85 Def / 55 SAtk / 55 SDef / 50 Spd` → `50 HP / 95 Atk / 115 Def / 55 SAtk / 85 SDef / 50 Spd`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Black
 
@@ -86,7 +90,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Iron Ball](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iron-ball.png){ .item-sprite } [Iron Ball](../../pokedex/items/iron-ball.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Iron Ball](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iron-ball.png){ .item-sprite } [Iron Ball](../../pokedex/items/iron-ball.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

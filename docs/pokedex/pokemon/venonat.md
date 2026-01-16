@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Venonat ROM Changes"
 
-    **Abilities:** `compound-eyes / tinted-lens` → `tinted-lens / compound-eyes`
+	**Abilities Changes:**
+
+	- `compound-eyes / tinted-lens` → `tinted-lens / compound-eyes`
 
 
 ## :material-information: Basic Information
@@ -137,7 +139,7 @@
 
 	**#048 [Venonat](./venonat.md)**
 
-	
+
 
 	***You are here***
 

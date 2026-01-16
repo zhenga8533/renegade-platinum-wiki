@@ -63,7 +63,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Yellow
 
@@ -78,7 +78,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Berry Juice](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/berry-juice.png){ .item-sprite } [Berry Juice](../../pokedex/items/berry-juice.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Berry Juice](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/berry-juice.png){ .item-sprite } [Berry Juice](../../pokedex/items/berry-juice.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

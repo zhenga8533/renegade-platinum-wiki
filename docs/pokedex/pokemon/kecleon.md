@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Kecleon ROM Changes"
 
-    **Base Stats:** `60 HP / 90 Atk / 70 Def / 60 SAtk / 120 SDef / 40 Spd` → `60 HP / 100 Atk / 70 Def / 60 SAtk / 120 SDef / 40 Spd`
+	**Base Stats Changes:**
+
+	- `60 HP / 90 Atk / 70 Def / 60 SAtk / 120 SDef / 40 Spd` → `60 HP / 100 Atk / 70 Def / 60 SAtk / 120 SDef / 40 Spd`
 
 
 ## :material-information: Basic Information
@@ -68,7 +70,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Green
 

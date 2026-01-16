@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Beldum ROM Changes"
 
-    **Abilities:** `clear-body` → `rock-head / clear-body`
+	**Abilities Changes:**
 
-    **Catch Rate:** `3` → `45`
+	- `clear-body` → `rock-head / clear-body`
+
+	**Catch Rate Changes:**
+
+	- `3` → `45`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Blue
 
@@ -86,7 +90,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Metal Coat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metal-coat.png){ .item-sprite } [Metal Coat](../../pokedex/items/metal-coat.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Metal Coat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metal-coat.png){ .item-sprite } [Metal Coat](../../pokedex/items/metal-coat.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -156,7 +160,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#374 [Beldum](./beldum.md)**
 
-	
+
 
 	***You are here***
 

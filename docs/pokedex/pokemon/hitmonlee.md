@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Hitmonlee ROM Changes"
 
-    **Abilities:** `limber / reckless` → `reckless / limber`
+	**Abilities Changes:**
+
+	- `limber / reckless` → `reckless / limber`
 
 
 ## :material-information: Basic Information

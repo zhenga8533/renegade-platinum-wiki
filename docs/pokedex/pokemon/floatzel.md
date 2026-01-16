@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Floatzel ROM Changes"
 
-    **Abilities:** `swift-swim` → `swift-swim / water-veil`
+	**Abilities Changes:**
+
+	- `swift-swim` → `swift-swim / water-veil`
 
 
 ## :material-information: Basic Information
@@ -70,7 +72,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Brown
 

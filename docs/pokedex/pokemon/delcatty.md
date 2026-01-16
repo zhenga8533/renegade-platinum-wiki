@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Delcatty ROM Changes"
 
-    **Base Stats:** `70 HP / 65 Atk / 65 Def / 55 SAtk / 55 SDef / 90 Spd` → `70 HP / 95 Atk / 65 Def / 85 SAtk / 55 SDef / 95 Spd`
+	**Base Stats Changes:**
+
+	- `70 HP / 65 Atk / 65 Def / 55 SAtk / 55 SDef / 90 Spd` → `70 HP / 95 Atk / 65 Def / 85 SAtk / 55 SDef / 95 Spd`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Purple
 

@@ -13,13 +13,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Magcargo ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `magma-armor / flame-body` → `solid-rock / flame-body`
+	- `slugma > magcargo: level-up (level 38)` → `slugma > magcargo: level-up (level 32)`
 
-    **Base Stats:** `60 HP / 50 Atk / 120 Def / 90 SAtk / 80 SDef / 30 Spd` → `60 HP / 50 Atk / 150 Def / 110 SAtk / 100 SDef / 30 Spd`
+	**Abilities Changes:**
+
+	- `magma-armor / flame-body` → `solid-rock / flame-body`
+
+	**Base Stats Changes:**
+
+	- `60 HP / 50 Atk / 120 Def / 90 SAtk / 80 SDef / 30 Spd` → `60 HP / 50 Atk / 150 Def / 110 SAtk / 100 SDef / 30 Spd`
 
 
 ## :material-information: Basic Information
@@ -73,7 +79,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Red
 

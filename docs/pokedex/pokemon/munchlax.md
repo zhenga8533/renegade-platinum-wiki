@@ -15,9 +15,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Munchlax ROM Changes"
 
-    **Abilities:** `pickup / thick-fat` → `thick-fat / pickup`
+	**Abilities Changes:**
+
+	- `pickup / thick-fat` → `thick-fat / pickup`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Black
 
@@ -84,7 +86,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Leftovers](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png){ .item-sprite } [Leftovers](../../pokedex/items/leftovers.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Leftovers](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png){ .item-sprite } [Leftovers](../../pokedex/items/leftovers.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -140,7 +142,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#446 [Munchlax](./munchlax.md)**
 
-	
+
 
 	***You are here***
 

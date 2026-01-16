@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Zangoose ROM Changes"
 
-    **Base Stats:** `73 HP / 115 Atk / 60 Def / 60 SAtk / 60 SDef / 90 Spd` → `75 HP / 115 Atk / 60 Def / 60 SAtk / 60 SDef / 95 Spd`
+	**Base Stats Changes:**
+
+	- `73 HP / 115 Atk / 60 Def / 60 SAtk / 60 SDef / 90 Spd` → `75 HP / 115 Atk / 60 Def / 60 SAtk / 60 SDef / 95 Spd`
 
 
 ## :material-information: Basic Information
@@ -68,7 +70,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** White
 
@@ -83,7 +85,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Quick Claw](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-claw.png){ .item-sprite } [Quick Claw](../../pokedex/items/quick-claw.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Quick Claw](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-claw.png){ .item-sprite } [Quick Claw](../../pokedex/items/quick-claw.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

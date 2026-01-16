@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Charmeleon ROM Changes"
 
-    **Abilities:** `blaze` → `solar-power / blaze`
+	**Abilities Changes:**
+
+	- `blaze` → `solar-power / blaze`
 
 
 ## :material-information: Basic Information

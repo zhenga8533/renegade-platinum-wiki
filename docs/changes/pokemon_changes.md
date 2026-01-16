@@ -12,11 +12,11 @@
 ## Held Item Exceptions
 
 - Pokémon who may hold an item in Ultra Sun and Ultra Moon that doesn't exist in Platinum will not hold anything.
-- [Corsola](../pokedex/pokemon/corsola.md) has a 5% chance to hold a ![Hard Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hard-stone.png){ .item-sprite } [Hard Stone](../pokedex/items/hard-stone.md).
-- [Pelipper](../pokedex/pokemon/pelipper.md) has a 5% chance to hold a ![Lucky Egg](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucky-egg.png){ .item-sprite } [Lucky Egg](../pokedex/items/lucky-egg.md).
-- [Absol](../pokedex/pokemon/absol.md) has a 5% chance to hold a ![Life Orb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png){ .item-sprite } [Life Orb](../pokedex/items/life-orb.md).
-- [Spiritomb](../pokedex/pokemon/spiritomb.md) has a 100% chance to hold a ![Smoke Ball](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/smoke-ball.png){ .item-sprite } [Smoke Ball](../pokedex/items/smoke-ball.md).
-- [Giratina Altered](../pokedex/pokemon/giratina-altered.md) has a 100% chance to hold a ![Griseous Orb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/griseous-orb.png){ .item-sprite } [Griseous Orb](../pokedex/items/griseous-orb.md).
+- [Corsola](../pokedex/pokemon/corsola.md) has a 5% chance to hold a <span style="white-space: nowrap;">![Hard Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hard-stone.png){ .item-sprite } [Hard Stone](../pokedex/items/hard-stone.md)</span>.
+- [Pelipper](../pokedex/pokemon/pelipper.md) has a 5% chance to hold a <span style="white-space: nowrap;">![Lucky Egg](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucky-egg.png){ .item-sprite } [Lucky Egg](../pokedex/items/lucky-egg.md)</span>.
+- [Absol](../pokedex/pokemon/absol.md) has a 5% chance to hold a <span style="white-space: nowrap;">![Life Orb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png){ .item-sprite } [Life Orb](../pokedex/items/life-orb.md)</span>.
+- [Spiritomb](../pokedex/pokemon/spiritomb.md) has a 100% chance to hold a <span style="white-space: nowrap;">![Smoke Ball](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/smoke-ball.png){ .item-sprite } [Smoke Ball](../pokedex/items/smoke-ball.md)</span>.
+- [Giratina Altered](../pokedex/pokemon/giratina-altered.md) has a 100% chance to hold a <span style="white-space: nowrap;">![Griseous Orb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/griseous-orb.png){ .item-sprite } [Griseous Orb](../pokedex/items/griseous-orb.md)</span>.
 
 ## Other Changes
 
@@ -174,7 +174,7 @@ Each Pokémon is listed under its own section header below.
 |:----------|:----------|:----------|
 | **Ability** |  [Blaze](../pokedex/abilities/blaze.md) | [Solar Power](../pokedex/abilities/solar-power.md) / [Blaze](../pokedex/abilities/blaze.md) |
 
-- Now compatible with ![TM59](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM59](../pokedex/items/tm59.md), [Dragon Pulse](../pokedex/moves/dragon-pulse.md).
+- Now compatible with <span style="white-space: nowrap;">![TM59](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM59](../pokedex/items/tm59.md), [Dragon Pulse](../pokedex/moves/dragon-pulse.md)</span>.
 
 **Moves**:
 
@@ -213,7 +213,7 @@ Each Pokémon is listed under its own section header below.
 |:----------|:----------|:----------|
 | **Ability** |  [Blaze](../pokedex/abilities/blaze.md) | [Solar Power](../pokedex/abilities/solar-power.md) / [Blaze](../pokedex/abilities/blaze.md) |
 
-- Now compatible with ![TM59](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM59](../pokedex/items/tm59.md), [Dragon Pulse](../pokedex/moves/dragon-pulse.md).
+- Now compatible with <span style="white-space: nowrap;">![TM59](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM59](../pokedex/items/tm59.md), [Dragon Pulse](../pokedex/moves/dragon-pulse.md)</span>.
 
 **Moves**:
 
@@ -257,7 +257,7 @@ Each Pokémon is listed under its own section header below.
 
 | **Base Stats (Complete)** |  `78 HP / 84 Atk / 78 Def / 109 SAtk / 85 SDef / 100 Spd / 534 BST` | `78 HP / 84 Atk / 78 Def / 110 SAtk / 85 SDef / 100 Spd / 535 BST` |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 - Now compatible with Draco Meteor from the Move Tutor. (!!) (Complete only)
 
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> |
@@ -379,8 +379,8 @@ Each Pokémon is listed under its own section header below.
 
 | **Base Stats (Complete)** |  `79 HP / 83 Atk / 100 Def / 85 SAtk / 105 SDef / 78 Spd / 530 BST` | `79 HP / 83 Atk / 100 Def / 90 SAtk / 105 SDef / 78 Spd / 535 BST` |
 
-- Now compatible with ![TM59](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM59](../pokedex/items/tm59.md), [Dragon Pulse](../pokedex/moves/dragon-pulse.md).
-- Now compatible with ![TM79](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM79](../pokedex/items/tm79.md), [Dark Pulse](../pokedex/moves/dark-pulse.md).
+- Now compatible with <span style="white-space: nowrap;">![TM59](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM59](../pokedex/items/tm59.md), [Dragon Pulse](../pokedex/moves/dragon-pulse.md)</span>.
+- Now compatible with <span style="white-space: nowrap;">![TM79](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM79](../pokedex/items/tm79.md), [Dark Pulse](../pokedex/moves/dark-pulse.md)</span>.
 
 **Moves**:
 
@@ -470,9 +470,9 @@ Each Pokémon is listed under its own section header below.
 
 | **Base Stats (Complete)** |  `60 HP / 45 Atk / 50 Def / 90 SAtk / 80 SDef / 70 Spd / 395 BST` | `60 HP / 45 Atk / 45 Def / 110 SAtk / 100 SDef / 90 Spd / 450 BST` |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
-- Now compatible with ![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md)</span>. (!!)
 
 **Moves**:
 
@@ -562,8 +562,8 @@ Each Pokémon is listed under its own section header below.
 
 | **Base Stats (Complete)** |  `65 HP / 90 Atk / 40 Def / 45 SAtk / 80 SDef / 75 Spd / 395 BST` | `65 HP / 115 Atk / 40 Def / 40 SAtk / 95 SDef / 95 Spd / 450 BST` |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
-- Now compatible with ![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md)</span>. (!!)
 
 **Moves**:
 
@@ -604,8 +604,8 @@ Each Pokémon is listed under its own section header below.
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `40 HP / 45 Atk / 40 Def / 35 SAtk / 35 SDef / 56 Spd / 251 BST` | `40 HP / 35 Atk / 35 Def / 50 SAtk / 35 SDef / 56 Spd / 251 BST` |
 
-- Now compatible with ![TM83](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM83](../pokedex/items/tm83.md), [Hyper Voice](../pokedex/moves/hyper-voice.md). (!!)
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md).
+- Now compatible with <span style="white-space: nowrap;">![TM83](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM83](../pokedex/items/tm83.md), [Hyper Voice](../pokedex/moves/hyper-voice.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
 **Moves**:
 
@@ -645,8 +645,8 @@ Each Pokémon is listed under its own section header below.
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `63 HP / 60 Atk / 55 Def / 50 SAtk / 50 SDef / 71 Spd / 349 BST` | `63 HP / 50 Atk / 50 Def / 65 SAtk / 50 SDef / 71 Spd / 349 BST` |
 
-- Now compatible with ![TM83](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM83](../pokedex/items/tm83.md), [Hyper Voice](../pokedex/moves/hyper-voice.md). (!!)
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md).
+- Now compatible with <span style="white-space: nowrap;">![TM83](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM83](../pokedex/items/tm83.md), [Hyper Voice](../pokedex/moves/hyper-voice.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
 **Moves**:
 
@@ -688,8 +688,8 @@ Each Pokémon is listed under its own section header below.
 
 | **Base Stats (Complete)** |  `83 HP / 80 Atk / 75 Def / 70 SAtk / 70 SDef / 101 Spd / 479 BST` | `83 HP / 60 Atk / 70 Def / 115 SAtk / 70 SDef / 101 Spd / 499 BST` |
 
-- Now compatible with ![TM83](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM83](../pokedex/items/tm83.md), [Hyper Voice](../pokedex/moves/hyper-voice.md). (!!)
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md).
+- Now compatible with <span style="white-space: nowrap;">![TM83](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM83](../pokedex/items/tm83.md), [Hyper Voice](../pokedex/moves/hyper-voice.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
 **Moves**:
 
@@ -808,7 +808,7 @@ Each Pokémon is listed under its own section header below.
 |:----------|:----------|:----------|
 | **Ability** |  [Keen Eye](../pokedex/abilities/keen-eye.md) | [Keen Eye](../pokedex/abilities/keen-eye.md) / [Sniper](../pokedex/abilities/sniper.md) |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Moves**:
 
@@ -850,7 +850,7 @@ Each Pokémon is listed under its own section header below.
 
 | **Base Stats (Complete)** |  `65 HP / 90 Atk / 65 Def / 61 SAtk / 61 SDef / 100 Spd / 442 BST` | `65 HP / 110 Atk / 65 Def / 61 SAtk / 61 SDef / 100 Spd / 462 BST` |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Moves**:
 
@@ -965,7 +965,7 @@ Each Pokémon is listed under its own section header below.
 |:----------|:----------|:----------|
 | **Ability** |  [Static](../pokedex/abilities/static.md) | [Static](../pokedex/abilities/static.md) / [Lightning Rod](../pokedex/abilities/lightning-rod.md) |
 
-- Now compatible with ![HM03](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM03](../pokedex/items/hm03.md), [Surf](../pokedex/moves/surf.md).
+- Now compatible with <span style="white-space: nowrap;">![HM03](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM03](../pokedex/items/hm03.md), [Surf](../pokedex/moves/surf.md)</span>.
 
 **Moves**:
 
@@ -1007,8 +1007,8 @@ Each Pokémon is listed under its own section header below.
 
 | **Base Stats (Complete)** |  `60 HP / 90 Atk / 55 Def / 90 SAtk / 80 SDef / 110 Spd / 485 BST` | `60 HP / 95 Atk / 55 Def / 95 SAtk / 80 SDef / 110 Spd / 495 BST` |
 
-- Now compatible with ![TM29](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM29](../pokedex/items/tm29.md), [Psychic](../pokedex/moves/psychic.md). (!!)
-- Now compatible with ![HM03](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM03](../pokedex/items/hm03.md), [Surf](../pokedex/moves/surf.md).
+- Now compatible with <span style="white-space: nowrap;">![TM29](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM29](../pokedex/items/tm29.md), [Psychic](../pokedex/moves/psychic.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM03](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM03](../pokedex/items/hm03.md), [Surf](../pokedex/moves/surf.md)</span>.
 
 **Moves**:
 
@@ -1342,7 +1342,7 @@ Each Pokémon is listed under its own section header below.
 |:----------|:----------|:----------|
 | **Ability** |  [Flash Fire](../pokedex/abilities/flash-fire.md) | [Drought](../pokedex/abilities/drought.md) / [Flash Fire](../pokedex/abilities/flash-fire.md) |
 
-- Now compatible with ![TM53](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM53](../pokedex/items/tm53.md), [Energy Ball](../pokedex/moves/energy-ball.md).
+- Now compatible with <span style="white-space: nowrap;">![TM53](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM53](../pokedex/items/tm53.md), [Energy Ball](../pokedex/moves/energy-ball.md)</span>.
 
 **Moves**:
 
@@ -1386,10 +1386,10 @@ Each Pokémon is listed under its own section header below.
 
 | **Base Stats (Complete)** |  `73 HP / 76 Atk / 75 Def / 81 SAtk / 100 SDef / 100 Spd / 505 BST` | `73 HP / 67 Atk / 75 Def / 81 SAtk / 100 SDef / 109 Spd / 505 BST` |
 
-- Now compatible with ![TM29](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM29](../pokedex/items/tm29.md), [Psychic](../pokedex/moves/psychic.md). (!!)
-- Now compatible with ![TM30](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM30](../pokedex/items/tm30.md), [Shadow Ball](../pokedex/moves/shadow-ball.md). (!!)
-- Now compatible with ![TM53](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM53](../pokedex/items/tm53.md), [Energy Ball](../pokedex/moves/energy-ball.md).
-- Now compatible with ![TM85](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM85](../pokedex/items/tm85.md), [Dazzling Gleam](../pokedex/moves/dazzling-gleam.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM29](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM29](../pokedex/items/tm29.md), [Psychic](../pokedex/moves/psychic.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM30](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM30](../pokedex/items/tm30.md), [Shadow Ball](../pokedex/moves/shadow-ball.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM53](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM53](../pokedex/items/tm53.md), [Energy Ball](../pokedex/moves/energy-ball.md)</span>.
+- Now compatible with <span style="white-space: nowrap;">![TM85](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM85](../pokedex/items/tm85.md), [Dazzling Gleam](../pokedex/moves/dazzling-gleam.md)</span>. (!!)
 
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> |
 
@@ -1491,7 +1491,7 @@ Each Pokémon is listed under its own section header below.
 
 </div>**Moves**:
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Level Up**:
 
@@ -1527,7 +1527,7 @@ Each Pokémon is listed under its own section header below.
 
 </div>**Moves**:
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Level Up**:
 
@@ -1666,7 +1666,7 @@ Each Pokémon is listed under its own section header below.
 
 </div>**Moves**:
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Level Up**:
 
@@ -1704,7 +1704,7 @@ Each Pokémon is listed under its own section header below.
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `60 HP / 95 Atk / 80 Def / 60 SAtk / 80 SDef / 30 Spd / 405 BST` | `60 HP / 115 Atk / 100 Def / 55 SAtk / 90 SDef / 30 Spd / 450 BST` |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Moves**:
 
@@ -1745,7 +1745,7 @@ Each Pokémon is listed under its own section header below.
 |:----------|:----------|:----------|
 | **Ability** |  [Compound Eyes](../pokedex/abilities/compound-eyes.md) / [Tinted Lens](../pokedex/abilities/tinted-lens.md) | [Tinted Lens](../pokedex/abilities/tinted-lens.md) / [Compound Eyes](../pokedex/abilities/compound-eyes.md) |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Moves**:
 
@@ -1787,9 +1787,9 @@ Each Pokémon is listed under its own section header below.
 
 | **Base Stats (Complete)** |  `70 HP / 65 Atk / 60 Def / 90 SAtk / 75 SDef / 90 Spd / 450 BST` | `70 HP / 55 Atk / 60 Def / 100 SAtk / 75 SDef / 90 Spd / 450 BST` |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
-- Now compatible with ![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md)</span>. (!!)
 
 **Moves**:
 
@@ -2239,7 +2239,7 @@ Each Pokémon is listed under its own section header below.
 
 </div>**Moves**:
 
-- Now compatible with ![TM60](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM60](../pokedex/items/tm60.md), [Drain Punch](../pokedex/moves/drain-punch.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM60](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM60](../pokedex/items/tm60.md), [Drain Punch](../pokedex/moves/drain-punch.md)</span>. (!!)
 
 **Level Up**:
 
@@ -2833,7 +2833,7 @@ Now evolves into Slowbro at Level 33.
 
 **Moves**:
 
-- Now compatible with ![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md)</span>. (!!)
 
 **Level Up**:
 
@@ -2870,7 +2870,7 @@ Now evolves into Slowbro at Level 33.
 
 </div>**Moves**:
 
-- Now compatible with ![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md)</span>. (!!)
 
 **Level Up**:
 
@@ -2908,7 +2908,7 @@ Now evolves into Slowbro at Level 33.
 
 </div>**Moves**:
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Level Up**:
 
@@ -2946,7 +2946,7 @@ Now evolves into Slowbro at Level 33.
 
 </div>**Moves**:
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Level Up**:
 
@@ -2993,9 +2993,9 @@ Now evolves into Slowbro at Level 33.
 
 **Moves**:
 
-- Now compatible with ![TM31](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM31](../pokedex/items/tm31.md), [Brick Break](../pokedex/moves/brick-break.md). (!!)
-- Now compatible with ![TM52](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM52](../pokedex/items/tm52.md), [Focus Blast](../pokedex/moves/focus-blast.md). (!!)
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM31](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM31](../pokedex/items/tm31.md), [Brick Break](../pokedex/moves/brick-break.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM52](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM52](../pokedex/items/tm52.md), [Focus Blast](../pokedex/moves/focus-blast.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 | Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
@@ -3267,7 +3267,7 @@ Now evolves into Muk at Level 35.
 |:----------|:----------|:----------|
 | **Ability** |  [Shell Armor](../pokedex/abilities/shell-armor.md) / [Skill Link](../pokedex/abilities/skill-link.md) | [Skill Link](../pokedex/abilities/skill-link.md) / [Shell Armor](../pokedex/abilities/shell-armor.md) |
 
-- Now compatible with ![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md)</span>. (!!)
 
 **Moves**:
 
@@ -3306,7 +3306,7 @@ Now evolves into Muk at Level 35.
 |:----------|:----------|:----------|
 | **Ability** |  [Shell Armor](../pokedex/abilities/shell-armor.md) / [Skill Link](../pokedex/abilities/skill-link.md) | [Skill Link](../pokedex/abilities/skill-link.md) / [Shell Armor](../pokedex/abilities/shell-armor.md) |
 
-- Now compatible with ![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md)</span>. (!!)
 
 **Moves**:
 
@@ -3555,8 +3555,8 @@ Now evolves into Muk at Level 35.
 
 </div>**Moves**:
 
-- Now compatible with ![TM65](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM65](../pokedex/items/tm65.md), [Shadow Claw](../pokedex/moves/shadow-claw.md). (!!)
-- Now compatible with ![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM65](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM65](../pokedex/items/tm65.md), [Shadow Claw](../pokedex/moves/shadow-claw.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md)</span>. (!!)
 
 **Level Up**:
 
@@ -3592,8 +3592,8 @@ Now evolves into Muk at Level 35.
 
 </div>**Moves**:
 
-- Now compatible with ![TM65](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM65](../pokedex/items/tm65.md), [Shadow Claw](../pokedex/moves/shadow-claw.md). (!!)
-- Now compatible with ![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM65](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM65](../pokedex/items/tm65.md), [Shadow Claw](../pokedex/moves/shadow-claw.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md)</span>. (!!)
 
 **Level Up**:
 
@@ -3633,7 +3633,7 @@ Now evolves into Muk at Level 35.
 
 </div>**Moves**:
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Level Up**:
 
@@ -3670,8 +3670,8 @@ Now evolves into Muk at Level 35.
 
 </div>**Moves**:
 
-- Now compatible with ![TM53](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM53](../pokedex/items/tm53.md), [Energy Ball](../pokedex/moves/energy-ball.md). (!!)
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM53](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM53](../pokedex/items/tm53.md), [Energy Ball](../pokedex/moves/energy-ball.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Level Up**:
 
@@ -4450,7 +4450,7 @@ Now evolves into Rhydon at Level 36.
 
 - Now able to evolve into Scizor by using a Metal Coat.
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
 
 **Evolution**:
 
@@ -4616,7 +4616,7 @@ Now evolves into Rhydon at Level 36.
 
 </div>**Moves**:
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Level Up**:
 
@@ -4708,7 +4708,7 @@ Now evolves into Rhydon at Level 36.
 
 </div>**Moves**:
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md).
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
 **Level Up**:
 
@@ -4802,7 +4802,7 @@ Now only evolves into Glaceon with the Ice Stone.
 
 **Moves**:
 
-- Now compatible with ![TM86](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM86](../pokedex/items/tm86.md), [Grass Knot](../pokedex/moves/grass-knot.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM86](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM86](../pokedex/items/tm86.md), [Grass Knot](../pokedex/moves/grass-knot.md)</span>. (!!)
 
 **Level Up**:
 
@@ -4840,7 +4840,7 @@ Now only evolves into Glaceon with the Ice Stone.
 
 </div>**Moves**:
 
-- Now compatible with ![TM86](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM86](../pokedex/items/tm86.md), [Grass Knot](../pokedex/moves/grass-knot.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM86](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM86](../pokedex/items/tm86.md), [Grass Knot](../pokedex/moves/grass-knot.md)</span>. (!!)
 
 **Level Up**:
 
@@ -4878,7 +4878,7 @@ Now only evolves into Glaceon with the Ice Stone.
 
 </div>**Moves**:
 
-- Now compatible with ![TM86](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM86](../pokedex/items/tm86.md), [Grass Knot](../pokedex/moves/grass-knot.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM86](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM86](../pokedex/items/tm86.md), [Grass Knot](../pokedex/moves/grass-knot.md)</span>. (!!)
 
 **Level Up**:
 
@@ -4918,9 +4918,9 @@ Now only evolves into Glaceon with the Ice Stone.
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `65 HP / 130 Atk / 60 Def / 95 SAtk / 110 SDef / 65 Spd / 525 BST` | `110 HP / 130 Atk / 60 Def / 65 SAtk / 65 SDef / 95 Spd / 525 BST` |
 
-- Now compatible with ![TM57](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM57](../pokedex/items/tm57.md), [Wild Charge](../pokedex/moves/wild-charge.md). (!!)
-- Now compatible with ![TM80](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM80](../pokedex/items/tm80.md), [Rock Slide](../pokedex/moves/rock-slide.md). (!!)
-- Now compatible with ![TM86](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM86](../pokedex/items/tm86.md), [Grass Knot](../pokedex/moves/grass-knot.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM57](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM57](../pokedex/items/tm57.md), [Wild Charge](../pokedex/moves/wild-charge.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM80](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM80](../pokedex/items/tm80.md), [Rock Slide](../pokedex/moves/rock-slide.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM86](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM86](../pokedex/items/tm86.md), [Grass Knot](../pokedex/moves/grass-knot.md)</span>. (!!)
 
 **Moves**:
 
@@ -5142,7 +5142,7 @@ Now evolves into Kabutops at Level 30.
 
 </div>**Moves**:
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Level Up**:
 
@@ -5223,7 +5223,7 @@ Now evolves into Kabutops at Level 30.
 |:----------|:----------|:----------|
 | **Ability** |  [Pressure](../pokedex/abilities/pressure.md) | [Pressure](../pokedex/abilities/pressure.md) / [Snow Cloak](../pokedex/abilities/snow-cloak.md) |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md).
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
 **Moves**:
 
@@ -5262,7 +5262,7 @@ Now evolves into Kabutops at Level 30.
 |:----------|:----------|:----------|
 | **Ability** |  [Pressure](../pokedex/abilities/pressure.md) | [Pressure](../pokedex/abilities/pressure.md) / [Static](../pokedex/abilities/static.md) |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Moves**:
 
@@ -5301,7 +5301,7 @@ Now evolves into Kabutops at Level 30.
 |:----------|:----------|:----------|
 | **Ability** |  [Pressure](../pokedex/abilities/pressure.md) | [Pressure](../pokedex/abilities/pressure.md) / [Flame Body](../pokedex/abilities/flame-body.md) |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md).
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
 **Moves**:
 
@@ -5375,7 +5375,7 @@ Now evolves into Kabutops at Level 30.
 |:----------|:----------|:----------|
 | **Ability** |  [Shed Skin](../pokedex/abilities/shed-skin.md) | [Marvel Scale](../pokedex/abilities/marvel-scale.md) / [Shed Skin](../pokedex/abilities/shed-skin.md) |
 
-- Now compatible with ![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md)</span>. (!!)
 
 **Moves**:
 
@@ -5416,7 +5416,7 @@ Now evolves into Kabutops at Level 30.
 
 | **Ability (Classic)** |  [Inner Focus](../pokedex/abilities/inner-focus.md) | [Inner Focus](../pokedex/abilities/inner-focus.md) / [Inner Focus](../pokedex/abilities/inner-focus.md) |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md).
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
 **Moves**:
 
@@ -5492,8 +5492,8 @@ Now evolves into Kabutops at Level 30.
 
 </div>**Moves**:
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md).
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
 **Level Up**:
 
@@ -5530,7 +5530,7 @@ Now evolves into Kabutops at Level 30.
 
 | **Ability (Classic)** |  [Overgrow](../pokedex/abilities/overgrow.md) | [Overgrow](../pokedex/abilities/overgrow.md) / [Leaf Guard](../pokedex/abilities/leaf-guard.md) |
 
-- Now compatible with ![TM85](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM85](../pokedex/items/tm85.md), [Dazzling Gleam](../pokedex/moves/dazzling-gleam.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM85](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM85](../pokedex/items/tm85.md), [Dazzling Gleam](../pokedex/moves/dazzling-gleam.md)</span>. (!!)
 
 **Moves**:
 
@@ -5572,7 +5572,7 @@ Now evolves into Kabutops at Level 30.
 
 | **Ability (Classic)** |  [Overgrow](../pokedex/abilities/overgrow.md) | [Overgrow](../pokedex/abilities/overgrow.md) / [Leaf Guard](../pokedex/abilities/leaf-guard.md) |
 
-- Now compatible with ![TM85](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM85](../pokedex/items/tm85.md), [Dazzling Gleam](../pokedex/moves/dazzling-gleam.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM85](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM85](../pokedex/items/tm85.md), [Dazzling Gleam](../pokedex/moves/dazzling-gleam.md)</span>. (!!)
 
 **Moves**:
 
@@ -5617,7 +5617,7 @@ Now evolves into Kabutops at Level 30.
 
 | **Base Stats (Complete)** |  `80 HP / 82 Atk / 100 Def / 83 SAtk / 100 SDef / 80 Spd / 525 BST` | `80 HP / 82 Atk / 100 Def / 93 SAtk / 100 SDef / 80 Spd / 535 BST` |
 
-- Now compatible with ![TM85](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM85](../pokedex/items/tm85.md), [Dazzling Gleam](../pokedex/moves/dazzling-gleam.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM85](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM85](../pokedex/items/tm85.md), [Dazzling Gleam](../pokedex/moves/dazzling-gleam.md)</span>. (!!)
 
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> |
 
@@ -5782,7 +5782,7 @@ Now evolves into Kabutops at Level 30.
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Torrent](../pokedex/abilities/torrent.md) | [Intimidate](../pokedex/abilities/intimidate.md) / [Torrent](../pokedex/abilities/torrent.md) |
 
-- Now compatible with ![TM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM02](../pokedex/items/tm02.md), [Dragon Claw](../pokedex/moves/dragon-claw.md).
+- Now compatible with <span style="white-space: nowrap;">![TM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM02](../pokedex/items/tm02.md), [Dragon Claw](../pokedex/moves/dragon-claw.md)</span>.
 
 **Moves**:
 
@@ -5822,7 +5822,7 @@ Now evolves into Kabutops at Level 30.
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Torrent](../pokedex/abilities/torrent.md) | [Intimidate](../pokedex/abilities/intimidate.md) / [Torrent](../pokedex/abilities/torrent.md) |
 
-- Now compatible with ![TM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM02](../pokedex/items/tm02.md), [Dragon Claw](../pokedex/moves/dragon-claw.md).
+- Now compatible with <span style="white-space: nowrap;">![TM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM02](../pokedex/items/tm02.md), [Dragon Claw](../pokedex/moves/dragon-claw.md)</span>.
 
 **Moves**:
 
@@ -5985,8 +5985,8 @@ Now evolves into Kabutops at Level 30.
 |:----------|:----------|:----------|
 | **Ability** |  [Insomnia](../pokedex/abilities/insomnia.md) / [Keen Eye](../pokedex/abilities/keen-eye.md) | [Tinted Lens](../pokedex/abilities/tinted-lens.md) / [Insomnia](../pokedex/abilities/insomnia.md) |
 
-- Now compatible with ![TM70](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM70](../pokedex/items/tm70.md), [Flash](../pokedex/moves/flash.md). (!!)
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md).
+- Now compatible with <span style="white-space: nowrap;">![TM70](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM70](../pokedex/items/tm70.md), [Flash](../pokedex/moves/flash.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
 **Moves**:
 
@@ -6029,8 +6029,8 @@ Now evolves into Kabutops at Level 30.
 
 | **Base Stats (Complete)** |  `100 HP / 50 Atk / 50 Def / 86 SAtk / 96 SDef / 70 Spd / 452 BST` | `100 HP / 40 Atk / 40 Def / 106 SAtk / 116 SDef / 60 Spd / 462 BST` |
 
-- Now compatible with ![TM70](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM70](../pokedex/items/tm70.md), [Flash](../pokedex/moves/flash.md). (!!)
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md).
+- Now compatible with <span style="white-space: nowrap;">![TM70](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM70](../pokedex/items/tm70.md), [Flash](../pokedex/moves/flash.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> |
 
@@ -6078,7 +6078,7 @@ Now evolves into Kabutops at Level 30.
 
 | **Base Stats (Complete)** |  `40 HP / 20 Atk / 30 Def / 40 SAtk / 80 SDef / 55 Spd / 265 BST` | `40 HP / 50 Atk / 30 Def / 20 SAtk / 80 SDef / 55 Spd / 275 BST` |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
 
 **Moves**:
 
@@ -6122,8 +6122,8 @@ Now evolves into Kabutops at Level 30.
 
 | **Base Stats (Complete)** |  `55 HP / 35 Atk / 50 Def / 55 SAtk / 110 SDef / 85 Spd / 390 BST` | `65 HP / 105 Atk / 50 Def / 35 SAtk / 110 SDef / 85 Spd / 450 BST` |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
-- Now compatible with ![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
+- Now compatible with <span style="white-space: nowrap;">![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md)</span>. (!!)
 
 **Moves**:
 
@@ -6167,7 +6167,7 @@ Now evolves into Kabutops at Level 30.
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `40 HP / 60 Atk / 40 Def / 40 SAtk / 40 SDef / 30 Spd / 250 BST` | `40 HP / 70 Atk / 40 Def / 40 SAtk / 40 SDef / 45 Spd / 275 BST` |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Moves**:
 
@@ -6209,7 +6209,7 @@ Now evolves into Kabutops at Level 30.
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `70 HP / 90 Atk / 70 Def / 60 SAtk / 70 SDef / 40 Spd / 400 BST` | `70 HP / 110 Atk / 70 Def / 50 SAtk / 70 SDef / 80 Spd / 450 BST` |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Moves**:
 
@@ -6251,7 +6251,7 @@ Now evolves into Kabutops at Level 30.
 
 </div>**Moves**:
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Level Up**:
 
@@ -6368,7 +6368,7 @@ Now evolves into Kabutops at Level 30.
 
 **Moves**:
 
-- Now compatible with ![HM03](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM03](../pokedex/items/hm03.md), [Surf](../pokedex/moves/surf.md).
+- Now compatible with <span style="white-space: nowrap;">![HM03](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM03](../pokedex/items/hm03.md), [Surf](../pokedex/moves/surf.md)</span>.
 
 **Level Up**:
 
@@ -6500,7 +6500,7 @@ Now evolves into Kabutops at Level 30.
 |:----------|:----------|:----------|
 | **Ability** |  [Hustle](../pokedex/abilities/hustle.md) / [Serene Grace](../pokedex/abilities/serene-grace.md) | [Serene Grace](../pokedex/abilities/serene-grace.md) / [Super Luck](../pokedex/abilities/super-luck.md) |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Moves**:
 
@@ -6574,7 +6574,7 @@ Now evolves into Kabutops at Level 30.
 
 </div>**Moves**:
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Level Up**:
 
@@ -6675,9 +6675,9 @@ Now evolves into Kabutops at Level 30.
 
 </div>**Moves**:
 
-- Now compatible with ![TM59](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM59](../pokedex/items/tm59.md), [Dragon Pulse](../pokedex/moves/dragon-pulse.md).
-- Now compatible with ![TM85](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM85](../pokedex/items/tm85.md), [Dazzling Gleam](../pokedex/moves/dazzling-gleam.md). (!!)
-- Now compatible with ![TM91](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM91](../pokedex/items/tm91.md), [Flash Cannon](../pokedex/moves/flash-cannon.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM59](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM59](../pokedex/items/tm59.md), [Dragon Pulse](../pokedex/moves/dragon-pulse.md)</span>.
+- Now compatible with <span style="white-space: nowrap;">![TM85](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM85](../pokedex/items/tm85.md), [Dazzling Gleam](../pokedex/moves/dazzling-gleam.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM91](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM91](../pokedex/items/tm91.md), [Flash Cannon](../pokedex/moves/flash-cannon.md)</span>. (!!)
 - Now compatible with Draco Meteor from the Move Tutor. (!!) (Complete only)
 
 | Attribute | Old Value | New Value |
@@ -6799,7 +6799,7 @@ Now evolves into Kabutops at Level 30.
 
 | **Base Stats (Complete)** |  `100 HP / 50 Atk / 80 Def / 60 SAtk / 80 SDef / 50 Spd / 420 BST` | `110 HP / 50 Atk / 80 Def / 80 SAtk / 80 SDef / 50 Spd / 450 BST` |
 
-- Now compatible with ![TM60](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM60](../pokedex/items/tm60.md), [Drain Punch](../pokedex/moves/drain-punch.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM60](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM60](../pokedex/items/tm60.md), [Drain Punch](../pokedex/moves/drain-punch.md)</span>. (!!)
 
 **Moves**:
 
@@ -6992,8 +6992,8 @@ Now evolves into Kabutops at Level 30.
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `75 HP / 55 Atk / 70 Def / 55 SAtk / 95 SDef / 110 Spd / 460 BST` | `75 HP / 55 Atk / 70 Def / 85 SAtk / 95 SDef / 110 Spd / 490 BST` |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
-- Now compatible with ![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md)</span>. (!!)
 
 **Moves**:
 
@@ -7144,8 +7144,8 @@ Now evolves into Kabutops at Level 30.
 
 </div>**Moves**:
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Level Up**:
 
@@ -7297,7 +7297,7 @@ Now evolves into Kabutops at Level 30.
 
 </div>**Moves**:
 
-- Now compatible with ![TM86](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM86](../pokedex/items/tm86.md), [Grass Knot](../pokedex/moves/grass-knot.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM86](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM86](../pokedex/items/tm86.md), [Grass Knot](../pokedex/moves/grass-knot.md)</span>. (!!)
 
 **Level Up**:
 
@@ -7337,7 +7337,7 @@ Now evolves into Kabutops at Level 30.
 |:----------|:----------|:----------|
 | **Ability** |  [Insomnia](../pokedex/abilities/insomnia.md) / [Super Luck](../pokedex/abilities/super-luck.md) | [Super Luck](../pokedex/abilities/super-luck.md) / [Insomnia](../pokedex/abilities/insomnia.md) |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Moves**:
 
@@ -7374,7 +7374,7 @@ Now evolves into Kabutops at Level 30.
 
 </div>**Moves**:
 
-- Now compatible with ![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md)</span>. (!!)
 
 **Level Up**:
 
@@ -7537,7 +7537,7 @@ Now evolves into Kabutops at Level 30.
 
 </div>**Moves**:
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Level Up**:
 
@@ -7574,7 +7574,7 @@ Now evolves into Kabutops at Level 30.
 
 </div>**Moves**:
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Level Up**:
 
@@ -7656,8 +7656,8 @@ Now evolves into Kabutops at Level 30.
 |:----------|:----------|:----------|
 | **Ability** |  [Hyper Cutter](../pokedex/abilities/hyper-cutter.md) / [Sand Veil](../pokedex/abilities/sand-veil.md) | [Immunity](../pokedex/abilities/immunity.md) / [Hyper Cutter](../pokedex/abilities/hyper-cutter.md) |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
-- Now compatible with ![HM08](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM08](../pokedex/items/hm08.md), [Rock Climb](../pokedex/moves/rock-climb.md).
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM08](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM08](../pokedex/items/hm08.md), [Rock Climb](../pokedex/moves/rock-climb.md)</span>.
 
 **Moves**:
 
@@ -7850,7 +7850,7 @@ Now evolves into Kabutops at Level 30.
 |:----------|:----------|:----------|
 | **Ability** |  [Swarm](../pokedex/abilities/swarm.md) / [Technician](../pokedex/abilities/technician.md) | [Technician](../pokedex/abilities/technician.md) / [Swarm](../pokedex/abilities/swarm.md) |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
 
 **Moves**:
 
@@ -7892,7 +7892,7 @@ Now evolves into Kabutops at Level 30.
 
 </div>**Moves**:
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Level Up**:
 
@@ -7933,8 +7933,8 @@ Now evolves into Kabutops at Level 30.
 
 | **Ability (Classic)** |  [Swarm](../pokedex/abilities/swarm.md) / [Guts](../pokedex/abilities/guts.md) | [Guts](../pokedex/abilities/guts.md) / [Swarm](../pokedex/abilities/swarm.md) |
 
-- Now compatible with ![TM09](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM09](../pokedex/items/tm09.md), [Bullet Seed](../pokedex/moves/bullet-seed.md).
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM09](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM09](../pokedex/items/tm09.md), [Bullet Seed](../pokedex/moves/bullet-seed.md)</span>.
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Moves**:
 
@@ -8354,7 +8354,7 @@ Now evolves into Magcargo at Level 32.
 
 **Moves**:
 
-- Now compatible with ![TM89](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM89](../pokedex/items/tm89.md), [U Turn](../pokedex/moves/u-turn.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM89](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM89](../pokedex/items/tm89.md), [U Turn](../pokedex/moves/u-turn.md)</span>. (!!)
 
 **Level Up**:
 
@@ -8394,8 +8394,8 @@ Now evolves into Magcargo at Level 32.
 
 </div>**Moves**:
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
-- Now compatible with ![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md)</span>. (!!)
 
 **Level Up**:
 
@@ -8435,7 +8435,7 @@ Now evolves into Magcargo at Level 32.
 
 </div>**Moves**:
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Level Up**:
 
@@ -9090,7 +9090,7 @@ Now evolves into Magcargo at Level 32.
 |:----------|:----------|:----------|
 | **Ability** |  [Pressure](../pokedex/abilities/pressure.md) | [Pressure](../pokedex/abilities/pressure.md) / [Inner Focus](../pokedex/abilities/inner-focus.md) |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Moves**:
 
@@ -9228,7 +9228,7 @@ Now evolves into Magcargo at Level 32.
 
 </div>**Moves**:
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md).
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
 **Level Up**:
 
@@ -9263,7 +9263,7 @@ Now evolves into Magcargo at Level 32.
 
 </div>**Moves**:
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md).
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
 **Level Up**:
 
@@ -9752,7 +9752,7 @@ Now evolves into Magcargo at Level 32.
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `38 HP / 30 Atk / 41 Def / 30 SAtk / 41 SDef / 60 Spd / 240 BST` | `38 HP / 40 Atk / 41 Def / 30 SAtk / 41 SDef / 60 Spd / 250 BST` |
 
-- Now compatible with ![HM08](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM08](../pokedex/items/hm08.md), [Rock Climb](../pokedex/moves/rock-climb.md).
+- Now compatible with <span style="white-space: nowrap;">![HM08](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM08](../pokedex/items/hm08.md), [Rock Climb](../pokedex/moves/rock-climb.md)</span>.
 
 **Moves**:
 
@@ -9791,7 +9791,7 @@ Now evolves into Magcargo at Level 32.
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `78 HP / 70 Atk / 61 Def / 50 SAtk / 61 SDef / 100 Spd / 420 BST` | `85 HP / 85 Atk / 60 Def / 50 SAtk / 60 SDef / 110 Spd / 450 BST` |
 
-- Now compatible with ![HM08](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM08](../pokedex/items/hm08.md), [Rock Climb](../pokedex/moves/rock-climb.md).
+- Now compatible with <span style="white-space: nowrap;">![HM08](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM08](../pokedex/items/hm08.md), [Rock Climb](../pokedex/moves/rock-climb.md)</span>.
 
 **Moves**:
 
@@ -9882,9 +9882,9 @@ Now evolves into Magcargo at Level 32.
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `60 HP / 70 Atk / 50 Def / 100 SAtk / 50 SDef / 65 Spd / 395 BST` | `60 HP / 70 Atk / 60 Def / 125 SAtk / 60 SDef / 75 Spd / 450 BST` |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
-- Now compatible with ![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md)</span>. (!!)
 
 **Moves**:
 
@@ -9947,9 +9947,9 @@ Now evolves into Magcargo at Level 32.
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `60 HP / 50 Atk / 70 Def / 50 SAtk / 90 SDef / 65 Spd / 385 BST` | `60 HP / 50 Atk / 75 Def / 75 SAtk / 115 SDef / 75 Spd / 450 BST` |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
-- Now compatible with ![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md)</span>. (!!)
 
 **Moves**:
 
@@ -10117,7 +10117,7 @@ Now evolves into Magcargo at Level 32.
 
 </div>**Moves**:
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md).
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
 **Level Up**:
 
@@ -10146,7 +10146,7 @@ Now evolves into Magcargo at Level 32.
 |:----------|:----------|:----------|
 | **Ability** |  [Guts](../pokedex/abilities/guts.md) | [Guts](../pokedex/abilities/guts.md) / [Scrappy](../pokedex/abilities/scrappy.md) |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md).
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
 **Moves**:
 
@@ -10185,7 +10185,7 @@ Now evolves into Magcargo at Level 32.
 
 | **Base Stats (Complete)** |  `60 HP / 85 Atk / 60 Def / 75 SAtk / 50 SDef / 125 Spd / 455 BST` | `60 HP / 90 Atk / 60 Def / 80 SAtk / 50 SDef / 125 Spd / 465 BST` |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md).
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
 **Moves**:
 
@@ -10224,7 +10224,7 @@ Now evolves into Magcargo at Level 32.
 |:----------|:----------|:----------|
 | **Ability** |  [Keen Eye](../pokedex/abilities/keen-eye.md) / [Hydration](../pokedex/abilities/hydration.md) | [Hydration](../pokedex/abilities/hydration.md) / [Keen Eye](../pokedex/abilities/keen-eye.md) |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md).
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
 **Moves**:
 
@@ -10265,7 +10265,7 @@ Now evolves into Magcargo at Level 32.
 
 | **Base Stats (Complete)** |  `60 HP / 50 Atk / 100 Def / 95 SAtk / 70 SDef / 65 Spd / 440 BST` | `60 HP / 50 Atk / 110 Def / 95 SAtk / 80 SDef / 65 Spd / 460 BST` |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md).
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
 **Moves**:
 
@@ -10415,9 +10415,9 @@ Now evolves into Magcargo at Level 32.
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `40 HP / 30 Atk / 32 Def / 50 SAtk / 52 SDef / 65 Spd / 269 BST` | `40 HP / 30 Atk / 30 Def / 55 SAtk / 55 SDef / 65 Spd / 275 BST` |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
-- Now compatible with ![HM03](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM03](../pokedex/items/hm03.md), [Surf](../pokedex/moves/surf.md). (!!)
-- Now compatible with ![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM03](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM03](../pokedex/items/hm03.md), [Surf](../pokedex/moves/surf.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md)</span>. (!!)
 
 **Moves**:
 
@@ -10455,11 +10455,11 @@ Now evolves into Magcargo at Level 32.
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `70 HP / 60 Atk / 62 Def / 100 SAtk / 82 SDef / 80 Spd / 454 BST` | `70 HP / 50 Atk / 50 Def / 110 SAtk / 100 SDef / 100 Spd / 480 BST` |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
-- Now compatible with ![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md). (!!)
-- Now compatible with ![HM03](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM03](../pokedex/items/hm03.md), [Surf](../pokedex/moves/surf.md). (!!)
-- Now compatible with ![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM03](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM03](../pokedex/items/hm03.md), [Surf](../pokedex/moves/surf.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md)</span>. (!!)
 
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> |
 
@@ -10540,7 +10540,7 @@ Now evolves into Magcargo at Level 32.
 |:----------|:----------|:----------|
 | **Ability** |  [Effect Spore](../pokedex/abilities/effect-spore.md) / [Poison Heal](../pokedex/abilities/poison-heal.md) | [Technician](../pokedex/abilities/technician.md) / [Poison Heal](../pokedex/abilities/poison-heal.md) |
 
-- Now compatible with ![TM54](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM54](../pokedex/items/tm54.md), [False Swipe](../pokedex/moves/false-swipe.md).
+- Now compatible with <span style="white-space: nowrap;">![TM54](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM54](../pokedex/items/tm54.md), [False Swipe](../pokedex/moves/false-swipe.md)</span>.
 
 **Moves**:
 
@@ -10669,7 +10669,7 @@ Now evolves into Magcargo at Level 32.
 
 </div>**Moves**:
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
 
 **Level Up**:
 
@@ -10702,7 +10702,7 @@ Now evolves into Magcargo at Level 32.
 
 </div>**Moves**:
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
 
 **Level Up**:
 
@@ -10742,8 +10742,8 @@ Now evolves into Magcargo at Level 32.
 
 </div>**Moves**:
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
-- Now compatible with ![TM75](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM75](../pokedex/items/tm75.md), [Swords Dance](../pokedex/moves/swords-dance.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
+- Now compatible with <span style="white-space: nowrap;">![TM75](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM75](../pokedex/items/tm75.md), [Swords Dance](../pokedex/moves/swords-dance.md)</span>. (!!)
 
 **Level Up**:
 
@@ -10779,7 +10779,7 @@ Now evolves into Magcargo at Level 32.
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Soundproof](../pokedex/abilities/soundproof.md) | [Soundproof](../pokedex/abilities/soundproof.md) / [Scrappy](../pokedex/abilities/scrappy.md) |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Moves**:
 
@@ -10818,7 +10818,7 @@ Now evolves into Magcargo at Level 32.
 |:----------|:----------|:----------|
 | **Ability** |  [Soundproof](../pokedex/abilities/soundproof.md) | [Soundproof](../pokedex/abilities/soundproof.md) / [Scrappy](../pokedex/abilities/scrappy.md) |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Moves**:
 
@@ -10857,7 +10857,7 @@ Now evolves into Magcargo at Level 32.
 |:----------|:----------|:----------|
 | **Ability** |  [Soundproof](../pokedex/abilities/soundproof.md) | [Soundproof](../pokedex/abilities/soundproof.md) / [Scrappy](../pokedex/abilities/scrappy.md) |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Moves**:
 
@@ -11552,7 +11552,7 @@ Now evolves into Medicham at Level 33.
 | **Base Stats (Complete)** |  `65 HP / 73 Atk / 75 Def / 47 SAtk / 85 SDef / 85 Spd / 430 BST` | `65 HP / 33 Atk / 75 Def / 107 SAtk / 85 SDef / 100 Spd / 465 BST` |
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
 
 **Moves**:
 
@@ -11597,7 +11597,7 @@ Now evolves into Medicham at Level 33.
 | **Base Stats (Complete)** |  `65 HP / 47 Atk / 75 Def / 73 SAtk / 85 SDef / 85 Spd / 430 BST` | `65 HP / 33 Atk / 85 Def / 97 SAtk / 85 SDef / 100 Spd / 450 BST` |
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
 
 **Moves**:
 
@@ -12167,8 +12167,8 @@ Now evolves into Vibrava at Level 30.
 |:----------|:----------|:----------|
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **EVs (Complete)**:
 
@@ -12219,8 +12219,8 @@ Now evolves into Vibrava at Level 30.
 |:----------|:----------|:----------|
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span> <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **EVs (Complete)**:
 
@@ -12347,7 +12347,7 @@ Now evolves into Vibrava at Level 30.
 
 | **Base Stats (Complete)** |  `45 HP / 40 Atk / 60 Def / 40 SAtk / 75 SDef / 50 Spd / 310 BST` | `45 HP / 60 Atk / 60 Def / 60 SAtk / 75 SDef / 50 Spd / 350 BST` |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> |
 
@@ -12392,7 +12392,7 @@ Now evolves into Vibrava at Level 30.
 
 | **Base Stats (Complete)** |  `75 HP / 70 Atk / 90 Def / 70 SAtk / 105 SDef / 80 Spd / 490 BST` | `75 HP / 90 Atk / 90 Def / 90 SAtk / 105 SDef / 80 Spd / 530 BST` |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> |
 
@@ -12769,7 +12769,7 @@ Now evolves into Claydol at Level 32.
 
 </div>**Moves**:
 
-- Now compatible with ![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md)</span>. (!!)
 
 **Level Up**:
 
@@ -12892,7 +12892,7 @@ Now evolves into Cradily at Level 30.
 
 Now evolves into Armaldo at Level 30.
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Evolution**:
 
@@ -12934,7 +12934,7 @@ Now evolves into Armaldo at Level 30.
 |:----------|:----------|:----------|
 | **Ability** |  [Battle Armor](../pokedex/abilities/battle-armor.md) | [Battle Armor](../pokedex/abilities/battle-armor.md) / [Swift Swim](../pokedex/abilities/swift-swim.md) |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Moves**:
 
@@ -13003,7 +13003,7 @@ Now evolves into Armaldo at Level 30.
 |:----------|:----------|:----------|
 | **Ability** |  [Marvel Scale](../pokedex/abilities/marvel-scale.md) | [Marvel Scale](../pokedex/abilities/marvel-scale.md) / [Cute Charm](../pokedex/abilities/cute-charm.md) |
 
-- Now compatible with ![TM85](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM85](../pokedex/items/tm85.md), [Dazzling Gleam](../pokedex/moves/dazzling-gleam.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM85](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM85](../pokedex/items/tm85.md), [Dazzling Gleam](../pokedex/moves/dazzling-gleam.md)</span>. (!!)
 
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> |
 
@@ -13049,7 +13049,7 @@ Now evolves into Armaldo at Level 30.
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `70 HP / 70 Atk / 70 Def / 70 SAtk / 70 SDef / 70 Spd / 420 BST` | `60 HP / 60 Atk / 60 Def / 105 SAtk / 70 SDef / 95 Spd / 450 BST` |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md).
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
 **Moves**:
 
@@ -13290,8 +13290,8 @@ Now evolves into Dusclops at Level 32.
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `99 HP / 68 Atk / 83 Def / 72 SAtk / 87 SDef / 51 Spd / 460 BST` | `110 HP / 95 Atk / 95 Def / 95 SAtk / 95 SDef / 45 Spd / 535 BST` |
 
-- Now compatible with ![TM59](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM59](../pokedex/items/tm59.md), [Dragon Pulse](../pokedex/moves/dragon-pulse.md).
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM59](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM59](../pokedex/items/tm59.md), [Dragon Pulse](../pokedex/moves/dragon-pulse.md)</span>.
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Moves**:
 
@@ -13474,12 +13474,12 @@ Now evolves into Glalie at Level 32.
 
 | **Base Stats (Complete)** |  `80 HP / 80 Atk / 80 Def / 80 SAtk / 80 SDef / 80 Spd / 480 BST` | `80 HP / 110 Atk / 110 Def / 60 SAtk / 60 SDef / 80 Spd / 500 BST` |
 
-- Now compatible with ![TM39](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM39](../pokedex/items/tm39.md), [Rock Tomb](../pokedex/moves/rock-tomb.md). (!!)
-- Now compatible with ![TM69](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM69](../pokedex/items/tm69.md), [Rock Polish](../pokedex/moves/rock-polish.md). (!!)
-- Now compatible with ![TM71](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM71](../pokedex/items/tm71.md), [Stone Edge](../pokedex/moves/stone-edge.md). (!!)
-- Now compatible with ![TM80](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM80](../pokedex/items/tm80.md), [Rock Slide](../pokedex/moves/rock-slide.md). (!!)
-- Now compatible with ![HM06](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM06](../pokedex/items/hm06.md), [Rock Smash](../pokedex/moves/rock-smash.md). (!!)
-- Now compatible with ![HM08](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM08](../pokedex/items/hm08.md), [Rock Climb](../pokedex/moves/rock-climb.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM39](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM39](../pokedex/items/tm39.md), [Rock Tomb](../pokedex/moves/rock-tomb.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM69](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM69](../pokedex/items/tm69.md), [Rock Polish](../pokedex/moves/rock-polish.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM71](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM71](../pokedex/items/tm71.md), [Stone Edge](../pokedex/moves/stone-edge.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM80](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM80](../pokedex/items/tm80.md), [Rock Slide](../pokedex/moves/rock-slide.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM06](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM06](../pokedex/items/hm06.md), [Rock Smash](../pokedex/moves/rock-smash.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM08](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM08](../pokedex/items/hm08.md), [Rock Climb](../pokedex/moves/rock-climb.md)</span>. (!!)
 
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> | <span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span> |
 
@@ -13780,7 +13780,7 @@ Now evolves into Walrein at Level 40.
 
 | **Base Stats (Complete)** |  `43 HP / 30 Atk / 55 Def / 40 SAtk / 65 SDef / 97 Spd / 330 BST` | `50 HP / 30 Atk / 75 Def / 95 SAtk / 75 SDef / 125 Spd / 450 BST` |
 
-- Now compatible with ![TM85](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM85](../pokedex/items/tm85.md), [Dazzling Gleam](../pokedex/moves/dazzling-gleam.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM85](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM85](../pokedex/items/tm85.md), [Dazzling Gleam](../pokedex/moves/dazzling-gleam.md)</span>. (!!)
 
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> |
 
@@ -13887,7 +13887,7 @@ Now evolves into Walrein at Level 40.
 
 </div>**Moves**:
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Level Up**:
 
@@ -13956,7 +13956,7 @@ Now evolves into Walrein at Level 40.
 
 | **Catch Rate** |  3 | 45 |
 
-- Now compatible with ![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md)</span>. (!!)
 
 **Moves**:
 
@@ -13998,7 +13998,7 @@ Now evolves into Walrein at Level 40.
 
 | **Catch Rate** |  3 | 45 |
 
-- Now compatible with ![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md)</span>. (!!)
 
 **Moves**:
 
@@ -14549,7 +14549,7 @@ Now evolves into Walrein at Level 40.
 |:----------|:----------|:----------|
 | **Ability** |  [Blaze](../pokedex/abilities/blaze.md) | [Iron Fist](../pokedex/abilities/iron-fist.md) / [Blaze](../pokedex/abilities/blaze.md) |
 
-- Now compatible with ![TM60](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM60](../pokedex/items/tm60.md), [Drain Punch](../pokedex/moves/drain-punch.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM60](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM60](../pokedex/items/tm60.md), [Drain Punch](../pokedex/moves/drain-punch.md)</span>. (!!)
 
 **Moves**:
 
@@ -14590,7 +14590,7 @@ Now evolves into Walrein at Level 40.
 
 | **Base Stats (Complete)** |  `76 HP / 104 Atk / 71 Def / 104 SAtk / 71 SDef / 108 Spd / 534 BST` | `76 HP / 104 Atk / 71 Def / 104 SAtk / 71 SDef / 109 Spd / 535 BST` |
 
-- Now compatible with ![TM60](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM60](../pokedex/items/tm60.md), [Drain Punch](../pokedex/moves/drain-punch.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM60](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM60](../pokedex/items/tm60.md), [Drain Punch](../pokedex/moves/drain-punch.md)</span>. (!!)
 
 **Moves**:
 
@@ -14742,7 +14742,7 @@ Now evolves into Walrein at Level 40.
 |:----------|:----------|:----------|
 | **Ability** |  [Keen Eye](../pokedex/abilities/keen-eye.md) | [Reckless](../pokedex/abilities/reckless.md) / [Keen Eye](../pokedex/abilities/keen-eye.md) |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Moves**:
 
@@ -14780,7 +14780,7 @@ Now evolves into Walrein at Level 40.
 |:----------|:----------|:----------|
 | **Ability** |  [Intimidate](../pokedex/abilities/intimidate.md) | [Reckless](../pokedex/abilities/reckless.md) / [Intimidate](../pokedex/abilities/intimidate.md) |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Moves**:
 
@@ -14818,7 +14818,7 @@ Now evolves into Walrein at Level 40.
 |:----------|:----------|:----------|
 | **Ability** |  [Intimidate](../pokedex/abilities/intimidate.md) | [Reckless](../pokedex/abilities/reckless.md) / [Intimidate](../pokedex/abilities/intimidate.md) |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Moves**:
 
@@ -14857,7 +14857,7 @@ Now evolves into Walrein at Level 40.
 
 </div>**Moves**:
 
-- Now compatible with ![TM75](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM75](../pokedex/items/tm75.md), [Swords Dance](../pokedex/moves/swords-dance.md).
+- Now compatible with <span style="white-space: nowrap;">![TM75](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM75](../pokedex/items/tm75.md), [Swords Dance](../pokedex/moves/swords-dance.md)</span>.
 
 **Level Up**:
 
@@ -14894,7 +14894,7 @@ Now evolves into Walrein at Level 40.
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `79 HP / 85 Atk / 60 Def / 55 SAtk / 60 SDef / 71 Spd / 410 BST` | `94 HP / 100 Atk / 65 Def / 55 SAtk / 65 SDef / 71 Spd / 450 BST` |
 
-- Now compatible with ![TM75](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM75](../pokedex/items/tm75.md), [Swords Dance](../pokedex/moves/swords-dance.md).
+- Now compatible with <span style="white-space: nowrap;">![TM75](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM75](../pokedex/items/tm75.md), [Swords Dance](../pokedex/moves/swords-dance.md)</span>.
 
 **Moves**:
 
@@ -14962,7 +14962,7 @@ Now evolves into Walrein at Level 40.
 
 | **Base Stats (Complete)** |  `77 HP / 85 Atk / 51 Def / 55 SAtk / 51 SDef / 65 Spd / 384 BST` | `80 HP / 115 Atk / 70 Def / 50 SAtk / 70 SDef / 65 Spd / 450 BST` |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
 
 **Moves**:
 
@@ -15080,7 +15080,7 @@ Now evolves into Walrein at Level 40.
 |:----------|:----------|:----------|
 | **Ability** |  [Rivalry](../pokedex/abilities/rivalry.md) / [Intimidate](../pokedex/abilities/intimidate.md) | [Intimidate](../pokedex/abilities/intimidate.md) / [Guts](../pokedex/abilities/guts.md) |
 
-- Now compatible with ![TM79](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM79](../pokedex/items/tm79.md), [Dark Pulse](../pokedex/moves/dark-pulse.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM79](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM79](../pokedex/items/tm79.md), [Dark Pulse](../pokedex/moves/dark-pulse.md)</span>. (!!)
 
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> |
 
@@ -15371,7 +15371,7 @@ Now evolves into Roselia when happy regardless of the time.
 
 | **Base Stats (Trash Cloak) (Complete)** |  `60 HP / 69 Atk / 95 Def / 69 SAtk / 95 SDef / 36 Spd / 424 BST` | `60 HP / 50 Atk / 100 Def / 110 SAtk / 100 SDef / 30 Spd / 450 BST` |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
 
 **Moves**:
 
@@ -15458,8 +15458,8 @@ Now evolves into Roselia when happy regardless of the time.
 
 | **Base Stats (Complete)** |  `70 HP / 94 Atk / 50 Def / 94 SAtk / 50 SDef / 66 Spd / 424 BST` | `70 HP / 70 Atk / 50 Def / 110 SAtk / 50 SDef / 100 Spd / 450 BST` |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Moves**:
 
@@ -15498,7 +15498,7 @@ Now evolves into Roselia when happy regardless of the time.
 |:----------|:----------|:----------|
 | **Ability** |  [Honey Gather](../pokedex/abilities/honey-gather.md) | [Hustle](../pokedex/abilities/hustle.md) / [Honey Gather](../pokedex/abilities/honey-gather.md) |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
 
 **Moves**:
 
@@ -15843,7 +15843,7 @@ Now compatible with HM02, Fly. (!!)
 |:----------|:----------|:----------|
 | **Ability** |  [Aftermath](../pokedex/abilities/aftermath.md) / [Unburden](../pokedex/abilities/unburden.md) | [Unburden](../pokedex/abilities/unburden.md) / [Aftermath](../pokedex/abilities/aftermath.md) |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Moves**:
 
@@ -15884,8 +15884,8 @@ Now compatible with HM02, Fly. (!!)
 |:----------|:----------|:----------|
 | **Ability** |  [Aftermath](../pokedex/abilities/aftermath.md) / [Unburden](../pokedex/abilities/unburden.md) | [Unburden](../pokedex/abilities/unburden.md) / [Aftermath](../pokedex/abilities/aftermath.md) |
 
-- Now compatible with ![TM35](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM35](../pokedex/items/tm35.md), [Flamethrower](../pokedex/moves/flamethrower.md). (!!)
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM35](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM35](../pokedex/items/tm35.md), [Flamethrower](../pokedex/moves/flamethrower.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Moves**:
 
@@ -16039,7 +16039,7 @@ Now compatible with HM02, Fly. (!!)
 |:----------|:----------|:----------|
 | **Ability** |  [Insomnia](../pokedex/abilities/insomnia.md) / [Super Luck](../pokedex/abilities/super-luck.md) | [Super Luck](../pokedex/abilities/super-luck.md) / [Insomnia](../pokedex/abilities/insomnia.md) |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Moves**:
 
@@ -16306,7 +16306,7 @@ Now evolves into Skuntank at Level 32.
 
 </div>**Moves**:
 
-- Now compatible with ![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md)</span>. (!!)
 
 **Level Up**:
 
@@ -16456,8 +16456,8 @@ Now evolves into Skuntank at Level 32.
 
 | **Base Stats (Complete)** |  `76 HP / 65 Atk / 45 Def / 92 SAtk / 42 SDef / 91 Spd / 411 BST` | `75 HP / 45 Atk / 55 Def / 110 SAtk / 55 SDef / 110 Spd / 450 BST` |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Moves**:
 
@@ -16604,7 +16604,7 @@ Now evolves into Skuntank at Level 32.
 |:----------|:----------|:----------|
 | **Ability** |  [Sand Veil](../pokedex/abilities/sand-veil.md) | [Rough Skin](../pokedex/abilities/rough-skin.md) / [Sand Veil](../pokedex/abilities/sand-veil.md) |
 
-- Now compatible with ![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md)</span>. (!!)
 
 **Moves**:
 
@@ -16825,7 +16825,7 @@ Now evolves into Lucario when happy regardless of the time.
 
 Now evolves into Drapion at Level 30.
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Evolution**:
 
@@ -16867,7 +16867,7 @@ Now evolves into Drapion at Level 30.
 |:----------|:----------|:----------|
 | **Ability** |  [Battle Armor](../pokedex/abilities/battle-armor.md) / [Sniper](../pokedex/abilities/sniper.md) | [Sniper](../pokedex/abilities/sniper.md) / [Battle Armor](../pokedex/abilities/battle-armor.md) |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Moves**:
 
@@ -16912,7 +16912,7 @@ Now evolves into Drapion at Level 30.
 
 Now evolves into Toxicroak at Level 33.
 
-- Now compatible with ![TM60](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM60](../pokedex/items/tm60.md), [Drain Punch](../pokedex/moves/drain-punch.md).
+- Now compatible with <span style="white-space: nowrap;">![TM60](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM60](../pokedex/items/tm60.md), [Drain Punch](../pokedex/moves/drain-punch.md)</span>.
 
 **Evolution**:
 
@@ -16956,7 +16956,7 @@ Now evolves into Toxicroak at Level 33.
 |:----------|:----------|:----------|
 | **Ability** |  [Anticipation](../pokedex/abilities/anticipation.md) / [Dry Skin](../pokedex/abilities/dry-skin.md) | [Dry Skin](../pokedex/abilities/dry-skin.md) / [Anticipation](../pokedex/abilities/anticipation.md) |
 
-- Now compatible with ![TM60](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM60](../pokedex/items/tm60.md), [Drain Punch](../pokedex/moves/drain-punch.md).
+- Now compatible with <span style="white-space: nowrap;">![TM60](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM60](../pokedex/items/tm60.md), [Drain Punch](../pokedex/moves/drain-punch.md)</span>.
 
 **Moves**:
 
@@ -16999,7 +16999,7 @@ Now evolves into Toxicroak at Level 33.
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `74 HP / 100 Atk / 72 Def / 90 SAtk / 72 SDef / 46 Spd / 454 BST` | `74 HP / 110 Atk / 72 Def / 100 SAtk / 72 SDef / 36 Spd / 464 BST` |
 
-- Now compatible with ![TM79](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM79](../pokedex/items/tm79.md), [Dark Pulse](../pokedex/moves/dark-pulse.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM79](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM79](../pokedex/items/tm79.md), [Dark Pulse](../pokedex/moves/dark-pulse.md)</span>. (!!)
 
 **Moves**:
 
@@ -17042,7 +17042,7 @@ Now evolves into Toxicroak at Level 33.
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `49 HP / 49 Atk / 56 Def / 49 SAtk / 61 SDef / 66 Spd / 330 BST` | `50 HP / 30 Atk / 60 Def / 60 SAtk / 60 SDef / 70 Spd / 330 BST` |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Moves**:
 
@@ -17082,7 +17082,7 @@ Now evolves into Toxicroak at Level 33.
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `69 HP / 69 Atk / 76 Def / 69 SAtk / 86 SDef / 91 Spd / 460 BST` | `70 HP / 40 Atk / 75 Def / 105 SAtk / 90 SDef / 105 Spd / 485 BST` |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Moves**:
 
@@ -17269,7 +17269,7 @@ Now evolves into Toxicroak at Level 33.
 
 </div>**Moves**:
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
 **Level Up**:
 
@@ -17422,7 +17422,7 @@ Now evolves into Toxicroak at Level 33.
 |:----------|:----------|:----------|
 | **Ability** |  [Motor Drive](../pokedex/abilities/motor-drive.md) | [Motor Drive](../pokedex/abilities/motor-drive.md) / [Vital Spirit](../pokedex/abilities/vital-spirit.md) |
 
-- Now compatible with ![TM60](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM60](../pokedex/items/tm60.md), [Drain Punch](../pokedex/moves/drain-punch.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM60](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM60](../pokedex/items/tm60.md), [Drain Punch](../pokedex/moves/drain-punch.md)</span>. (!!)
 
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> | <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> |
 
@@ -17507,7 +17507,7 @@ Now evolves into Toxicroak at Level 33.
 |:----------|:----------|:----------|
 | **Ability** |  [Hustle](../pokedex/abilities/hustle.md) / [Serene Grace](../pokedex/abilities/serene-grace.md) | [Serene Grace](../pokedex/abilities/serene-grace.md) / [Super Luck](../pokedex/abilities/super-luck.md) |
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Moves**:
 
@@ -17534,9 +17534,9 @@ Now evolves into Toxicroak at Level 33.
 
 </div>**Moves**:
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md).
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
-- Now compatible with ![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md)</span>. (!!)
 
 **Level Up**:
 
@@ -17576,7 +17576,7 @@ Now evolves into Toxicroak at Level 33.
 
 </div>**Moves**:
 
-- Now compatible with ![HM01](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM01](../pokedex/items/hm01.md), [Cut](../pokedex/moves/cut.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM01](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM01](../pokedex/items/hm01.md), [Cut](../pokedex/moves/cut.md)</span>. (!!)
 
 **Level Up**:
 
@@ -17617,8 +17617,8 @@ Now evolves into Toxicroak at Level 33.
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `65 HP / 60 Atk / 110 Def / 130 SAtk / 95 SDef / 65 Spd / 525 BST` | `65 HP / 60 Atk / 110 Def / 130 SAtk / 65 SDef / 95 Spd / 525 BST` |
 
-- Now compatible with ![TM85](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM85](../pokedex/items/tm85.md), [Dazzling Gleam](../pokedex/moves/dazzling-gleam.md). (!!)
-- Now compatible with ![TM86](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM86](../pokedex/items/tm86.md), [Grass Knot](../pokedex/moves/grass-knot.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM85](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM85](../pokedex/items/tm85.md), [Dazzling Gleam](../pokedex/moves/dazzling-gleam.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM86](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM86](../pokedex/items/tm86.md), [Grass Knot](../pokedex/moves/grass-knot.md)</span>. (!!)
 
 **Moves**:
 
@@ -17661,9 +17661,9 @@ Now evolves into Toxicroak at Level 33.
 |:----------|:----------|:----------|
 | **Ability** |  [Hyper Cutter](../pokedex/abilities/hyper-cutter.md) / [Sand Veil](../pokedex/abilities/sand-veil.md) | [Poison Heal](../pokedex/abilities/poison-heal.md) / [Hyper Cutter](../pokedex/abilities/hyper-cutter.md) |
 
-- Now compatible with ![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md). (!!)
-- Now compatible with ![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md). (!!)
-- Now compatible with ![HM08](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM08](../pokedex/items/hm08.md), [Rock Climb](../pokedex/moves/rock-climb.md).
+- Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md)</span>. (!!)
+- Now compatible with <span style="white-space: nowrap;">![HM08](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM08](../pokedex/items/hm08.md), [Rock Climb](../pokedex/moves/rock-climb.md)</span>.
 
 **Moves**:
 
@@ -17858,7 +17858,7 @@ Now evolves into Toxicroak at Level 33.
 
 | **Ability (Classic)** |  [Pressure](../pokedex/abilities/pressure.md) | [Pressure](../pokedex/abilities/pressure.md) / [Frisk](../pokedex/abilities/frisk.md) |
 
-- Now compatible with ![TM60](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM60](../pokedex/items/tm60.md), [Drain Punch](../pokedex/moves/drain-punch.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM60](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM60](../pokedex/items/tm60.md), [Drain Punch](../pokedex/moves/drain-punch.md)</span>. (!!)
 
 **Moves**:
 
@@ -18409,7 +18409,7 @@ All of Rotom's formes match their types as of Gen V.
 
 </div>**Moves**:
 
-- Now compatible with ![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md). (!!)
+- Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
 **Level Up**:
 

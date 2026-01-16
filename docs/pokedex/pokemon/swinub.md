@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Swinub ROM Changes"
 
-    **Abilities:** `oblivious / snow-cloak` → `thick-fat / snow-cloak`
+	**Abilities Changes:**
+
+	- `oblivious / snow-cloak` → `thick-fat / snow-cloak`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Brown
 
@@ -141,7 +143,7 @@
 
 	**#220 [Swinub](./swinub.md)**
 
-	
+
 
 	***You are here***
 

@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Spinda ROM Changes"
 
-    **Base Stats:** `60 HP / 60 Atk / 60 Def / 60 SAtk / 60 SDef / 60 Spd` → `75 HP / 75 Atk / 75 Def / 75 SAtk / 75 SDef / 75 Spd`
+	**Base Stats Changes:**
+
+	- `60 HP / 60 Atk / 60 Def / 60 SAtk / 60 SDef / 60 Spd` → `75 HP / 75 Atk / 75 Def / 75 SAtk / 75 SDef / 75 Spd`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Brown
 

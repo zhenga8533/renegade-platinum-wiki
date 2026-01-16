@@ -63,7 +63,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Green
 
@@ -78,7 +78,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Mental Herb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mental-herb.png){ .item-sprite } [Mental Herb](../../pokedex/items/mental-herb.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Mental Herb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mental-herb.png){ .item-sprite } [Mental Herb](../../pokedex/items/mental-herb.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -139,7 +139,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#270 [Lotad](./lotad.md)**
 
-	
+
 
 	***You are here***
 

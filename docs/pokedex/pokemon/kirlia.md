@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Kirlia ROM Changes"
 
-    **Base Stats:** `38 HP / 35 Atk / 35 Def / 65 SAtk / 55 SDef / 50 Spd` → `38 HP / 35 Atk / 35 Def / 95 SAtk / 85 SDef / 50 Spd`
+	**Base Stats Changes:**
+
+	- `38 HP / 35 Atk / 35 Def / 65 SAtk / 55 SDef / 50 Spd` → `38 HP / 35 Atk / 35 Def / 95 SAtk / 85 SDef / 50 Spd`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** White
 

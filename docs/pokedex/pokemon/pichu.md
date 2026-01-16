@@ -15,11 +15,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Pichu ROM Changes"
 
-    **Abilities:** `static` → `static / lightning-rod`
+	**Abilities Changes:**
 
-    **Base Happiness:** `70` → `180`
+	- `static` → `static / lightning-rod`
+
+	**Base Happiness Changes:**
+
+	- `70` → `180`
 
 
 ## :material-information: Basic Information
@@ -73,7 +77,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Yellow
 
@@ -136,7 +140,7 @@
 
 	**#172 [Pichu](./pichu.md)**
 
-	
+
 
 	***You are here***
 

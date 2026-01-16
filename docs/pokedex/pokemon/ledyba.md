@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Ledyba ROM Changes"
 
-    **Abilities:** `swarm / early-bird` → `technician / iron-fist`
+	**Abilities Changes:**
 
-    **Base Stats:** `40 HP / 20 Atk / 30 Def / 40 SAtk / 80 SDef / 55 Spd` → `40 HP / 50 Atk / 30 Def / 20 SAtk / 80 SDef / 55 Spd`
+	- `swarm / early-bird` → `technician / iron-fist`
+
+	**Base Stats Changes:**
+
+	- `40 HP / 20 Atk / 30 Def / 40 SAtk / 80 SDef / 55 Spd` → `40 HP / 50 Atk / 30 Def / 20 SAtk / 80 SDef / 55 Spd`
 
 
 ## :material-information: Basic Information
@@ -73,7 +77,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Red
 
@@ -155,7 +159,7 @@
 
 	**#165 [Ledyba](./ledyba.md)**
 
-	
+
 
 	***You are here***
 

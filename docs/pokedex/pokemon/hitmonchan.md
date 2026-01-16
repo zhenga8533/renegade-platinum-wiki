@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Hitmonchan ROM Changes"
 
-    **Abilities:** `keen-eye / iron-fist` → `iron-fist / keen-eye`
+	**Abilities Changes:**
+
+	- `keen-eye / iron-fist` → `iron-fist / keen-eye`
 
 
 ## :material-information: Basic Information

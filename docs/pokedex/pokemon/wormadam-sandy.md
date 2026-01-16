@@ -61,7 +61,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Green
 
@@ -76,7 +76,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Silver Powder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-powder.png){ .item-sprite } [Silver Powder](../../pokedex/items/silver-powder.md) | 5% | 5% | 5% | 5% | 5% |
+| <span style="white-space: nowrap;">![Silver Powder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-powder.png){ .item-sprite } [Silver Powder](../../pokedex/items/silver-powder.md)</span> | 5% | 5% | 5% | 5% | 5% |
 
 ## :material-shield-half-full: Type Effectiveness
 

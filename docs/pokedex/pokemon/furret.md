@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Furret ROM Changes"
 
-    **Abilities:** `run-away / keen-eye` → `scrappy / keen-eye`
+	**Abilities Changes:**
 
-    **Base Stats:** `85 HP / 76 Atk / 64 Def / 45 SAtk / 55 SDef / 90 Spd` → `95 HP / 85 Atk / 65 Def / 45 SAtk / 55 SDef / 105 Spd`
+	- `run-away / keen-eye` → `scrappy / keen-eye`
+
+	**Base Stats Changes:**
+
+	- `85 HP / 76 Atk / 64 Def / 45 SAtk / 55 SDef / 90 Spd` → `95 HP / 85 Atk / 65 Def / 45 SAtk / 55 SDef / 105 Spd`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Brown
 

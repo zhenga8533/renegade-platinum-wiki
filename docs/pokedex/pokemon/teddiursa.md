@@ -63,7 +63,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Brown
 
@@ -126,7 +126,7 @@
 
 	**#216 [Teddiursa](./teddiursa.md)**
 
-	
+
 
 	***You are here***
 

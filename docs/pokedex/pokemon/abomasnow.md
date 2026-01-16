@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Abomasnow ROM Changes"
 
-    **Abilities:** `snow-warning` → `snow-warning / soundproof`
+	**Abilities Changes:**
+
+	- `snow-warning` → `snow-warning / soundproof`
 
 
 ## :material-information: Basic Information
@@ -70,7 +72,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** White
 
@@ -85,7 +87,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Never Melt Ice](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/never-melt-ice.png){ .item-sprite } [Never Melt Ice](../../pokedex/items/never-melt-ice.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Never Melt Ice](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/never-melt-ice.png){ .item-sprite } [Never Melt Ice](../../pokedex/items/never-melt-ice.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

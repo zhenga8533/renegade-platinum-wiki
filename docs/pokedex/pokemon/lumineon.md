@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Lumineon ROM Changes"
 
-    **Base Stats:** `69 HP / 69 Atk / 76 Def / 69 SAtk / 86 SDef / 91 Spd` → `70 HP / 40 Atk / 75 Def / 105 SAtk / 90 SDef / 105 Spd`
+	**Base Stats Changes:**
+
+	- `69 HP / 69 Atk / 76 Def / 69 SAtk / 86 SDef / 91 Spd` → `70 HP / 40 Atk / 75 Def / 105 SAtk / 90 SDef / 105 Spd`
 
 
 ## :material-information: Basic Information
@@ -70,7 +72,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Blue
 

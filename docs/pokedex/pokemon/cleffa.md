@@ -15,9 +15,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Cleffa ROM Changes"
 
-    **Base Happiness:** `140` → `180`
+	**Base Happiness Changes:**
+
+	- `140` → `180`
 
 
 ## :material-information: Basic Information
@@ -71,7 +73,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Pink
 
@@ -86,7 +88,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Moon Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-stone.png){ .item-sprite } [Moon Stone](../../pokedex/items/moon-stone.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Moon Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-stone.png){ .item-sprite } [Moon Stone](../../pokedex/items/moon-stone.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -151,7 +153,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#173 [Cleffa](./cleffa.md)**
 
-	
+
 
 	***You are here***
 

@@ -14,13 +14,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Skuntank ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `stench / aftermath` → `aftermath / stench`
+	- `stunky > skuntank: level-up (level 34)` → `stunky > skuntank: level-up (level 32)`
 
-    **Base Stats:** `103 HP / 93 Atk / 67 Def / 71 SAtk / 61 SDef / 84 Spd` → `115 HP / 95 Atk / 70 Def / 70 SAtk / 60 SDef / 85 Spd`
+	**Abilities Changes:**
+
+	- `stench / aftermath` → `aftermath / stench`
+
+	**Base Stats Changes:**
+
+	- `103 HP / 93 Atk / 67 Def / 71 SAtk / 61 SDef / 84 Spd` → `115 HP / 95 Atk / 70 Def / 70 SAtk / 60 SDef / 85 Spd`
 
 
 ## :material-information: Basic Information
@@ -72,7 +78,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Purple
 

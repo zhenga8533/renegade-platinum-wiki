@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Cascoon ROM Changes"
 
-    **Abilities:** `shed-skin` → `shed-skin / shed-skin`
+	**Abilities Changes:**
+
+	- `shed-skin` → `shed-skin / shed-skin`
 
 
 ## :material-information: Basic Information
@@ -70,7 +72,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Purple
 

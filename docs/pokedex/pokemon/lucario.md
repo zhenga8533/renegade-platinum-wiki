@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Lucario ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `steadfast / inner-focus` → `adaptability / inner-focus`
+	- `riolu > lucario: level-up (happiness, day)` → `riolu > lucario: level-up (happiness)`
+
+	**Abilities Changes:**
+
+	- `steadfast / inner-focus` → `adaptability / inner-focus`
 
 
 ## :material-information: Basic Information
@@ -70,7 +74,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Blue
 

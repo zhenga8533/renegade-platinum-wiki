@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Poliwag ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
+
+	- `poliwhirl > politoed: trade (held: kings-rock)` → `poliwhirl > politoed: use-item (kings-rock)`
 
 
 ## :material-information: Basic Information
@@ -132,7 +134,7 @@
 
 	**#060 [Poliwag](./poliwag.md)**
 
-	
+
 
 	***You are here***
 

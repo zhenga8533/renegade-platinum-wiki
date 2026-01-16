@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Dustox ROM Changes"
 
-    **Base Stats:** `60 HP / 50 Atk / 70 Def / 50 SAtk / 90 SDef / 65 Spd` → `60 HP / 50 Atk / 75 Def / 75 SAtk / 115 SDef / 75 Spd`
+	**Base Stats Changes:**
+
+	- `60 HP / 50 Atk / 70 Def / 50 SAtk / 90 SDef / 65 Spd` → `60 HP / 50 Atk / 75 Def / 75 SAtk / 115 SDef / 75 Spd`
 
 
 ## :material-information: Basic Information
@@ -71,7 +73,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Green
 
@@ -86,7 +88,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Shed Shell](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shed-shell.png){ .item-sprite } [Shed Shell](../../pokedex/items/shed-shell.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Shed Shell](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shed-shell.png){ .item-sprite } [Shed Shell](../../pokedex/items/shed-shell.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

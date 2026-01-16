@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Drifloon ROM Changes"
 
-    **Abilities:** `aftermath / unburden` → `unburden / aftermath`
+	**Abilities Changes:**
+
+	- `aftermath / unburden` → `unburden / aftermath`
 
 
 ## :material-information: Basic Information
@@ -68,7 +70,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Purple
 
@@ -145,7 +147,7 @@
 
 	**#425 [Drifloon](./drifloon.md)**
 
-	
+
 
 	***You are here***
 

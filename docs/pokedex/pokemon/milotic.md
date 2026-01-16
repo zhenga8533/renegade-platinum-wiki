@@ -14,13 +14,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Milotic ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `marvel-scale` → `marvel-scale / cute-charm`
+	- `feebas > milotic: level-up` → `feebas > milotic: use-item (prism-scale)`
 
-    **Type:** `water` → `water / fairy`
+	**Abilities Changes:**
+
+	- `marvel-scale` → `marvel-scale / cute-charm`
+
+	**Type Changes:**
+
+	- `water` → `water / fairy`
 
 
 ## :material-information: Basic Information
@@ -76,7 +82,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Pink
 

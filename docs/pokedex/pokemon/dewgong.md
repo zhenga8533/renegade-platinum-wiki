@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Dewgong ROM Changes"
 
-    **Base Stats:** `90 HP / 70 Atk / 80 Def / 70 SAtk / 95 SDef / 70 Spd` → `90 HP / 80 Atk / 80 Def / 80 SAtk / 95 SDef / 70 Spd`
+	**Base Stats Changes:**
+
+	- `90 HP / 70 Atk / 80 Def / 70 SAtk / 95 SDef / 70 Spd` → `90 HP / 80 Atk / 80 Def / 80 SAtk / 95 SDef / 70 Spd`
 
 
 ## :material-information: Basic Information

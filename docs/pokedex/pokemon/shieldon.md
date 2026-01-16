@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Shieldon ROM Changes"
 
-    **Abilities:** `sturdy` → `soundproof / sturdy`
+	**Abilities Changes:**
 
-    **Base Stats:** `30 HP / 42 Atk / 118 Def / 42 SAtk / 88 SDef / 30 Spd` → `30 HP / 62 Atk / 118 Def / 22 SAtk / 88 SDef / 30 Spd`
+	- `sturdy` → `soundproof / sturdy`
+
+	**Base Stats Changes:**
+
+	- `30 HP / 42 Atk / 118 Def / 42 SAtk / 88 SDef / 30 Spd` → `30 HP / 62 Atk / 118 Def / 22 SAtk / 88 SDef / 30 Spd`
 
 
 ## :material-information: Basic Information
@@ -70,7 +74,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Gray
 
@@ -152,7 +156,7 @@
 
 	**#410 [Shieldon](./shieldon.md)**
 
-	
+
 
 	***You are here***
 

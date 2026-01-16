@@ -1,9 +1,11 @@
 # Poison Fang
 
 
-!!! info "ROM Changes
+??? note "Poison Fang ROM Changes"
 
-    **Power:** `50` → `65`
+	**Power Changes:**
+
+	- `50` → `65`
 
 
 ## :material-chart-box: Stats

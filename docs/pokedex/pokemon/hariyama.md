@@ -63,7 +63,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Brown
 
@@ -78,7 +78,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![King's Rock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kings-rock.png){ .item-sprite } [King's Rock](../../pokedex/items/kings-rock.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![King's Rock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kings-rock.png){ .item-sprite } [King's Rock](../../pokedex/items/kings-rock.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

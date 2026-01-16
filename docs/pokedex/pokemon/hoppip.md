@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Hoppip ROM Changes"
 
-    **Base Stats:** `35 HP / 35 Atk / 40 Def / 35 SAtk / 55 SDef / 50 Spd` → `35 HP / 35 Atk / 40 Def / 45 SAtk / 55 SDef / 50 Spd`
+	**Base Stats Changes:**
+
+	- `35 HP / 35 Atk / 40 Def / 35 SAtk / 55 SDef / 50 Spd` → `35 HP / 35 Atk / 40 Def / 45 SAtk / 55 SDef / 50 Spd`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Pink
 
@@ -151,7 +153,7 @@
 
 	**#187 [Hoppip](./hoppip.md)**
 
-	
+
 
 	***You are here***
 

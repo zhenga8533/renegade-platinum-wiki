@@ -62,7 +62,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** White
 
@@ -125,7 +125,7 @@
 
 	**#179 [Mareep](./mareep.md)**
 
-	
+
 
 	***You are here***
 

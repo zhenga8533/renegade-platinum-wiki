@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Phanpy ROM Changes"
 
-    **Abilities:** `pickup` → `sand-veil / pickup`
+	**Abilities Changes:**
+
+	- `pickup` → `sand-veil / pickup`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Blue
 
@@ -141,7 +143,7 @@
 
 	**#231 [Phanpy](./phanpy.md)**
 
-	
+
 
 	***You are here***
 

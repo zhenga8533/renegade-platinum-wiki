@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Weepinbell ROM Changes"
 
-    **Abilities:** `chlorophyll` → `chlorophyll / gluttony`
+	**Abilities Changes:**
+
+	- `chlorophyll` → `chlorophyll / gluttony`
 
 
 ## :material-information: Basic Information

@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Taillow ROM Changes"
 
-    **Abilities:** `guts` → `guts / scrappy`
+	**Abilities Changes:**
+
+	- `guts` → `guts / scrappy`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Blue
 
@@ -141,7 +143,7 @@
 
 	**#276 [Taillow](./taillow.md)**
 
-	
+
 
 	***You are here***
 

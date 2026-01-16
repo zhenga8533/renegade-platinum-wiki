@@ -1,9 +1,11 @@
 # Strength
 
 
-!!! info "ROM Changes
+??? note "Strength ROM Changes"
 
-    **Power:** `80` → `100`
+	**Power Changes:**
+
+	- `80` → `100`
 
 
 ## :material-chart-box: Stats

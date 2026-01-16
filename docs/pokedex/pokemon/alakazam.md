@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Alakazam ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `synchronize / inner-focus` → `magic-guard / synchronize`
+	- `kadabra > alakazam: trade` → `kadabra > alakazam: level-up (level 36)`
+
+	**Abilities Changes:**
+
+	- `synchronize / inner-focus` → `magic-guard / synchronize`
 
 
 ## :material-information: Basic Information
@@ -89,7 +93,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Twisted Spoon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/twisted-spoon.png){ .item-sprite } [Twisted Spoon](../../pokedex/items/twisted-spoon.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Twisted Spoon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/twisted-spoon.png){ .item-sprite } [Twisted Spoon](../../pokedex/items/twisted-spoon.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

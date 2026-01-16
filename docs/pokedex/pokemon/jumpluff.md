@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Jumpluff ROM Changes"
 
-    **Base Stats:** `75 HP / 55 Atk / 70 Def / 55 SAtk / 95 SDef / 110 Spd` → `75 HP / 55 Atk / 70 Def / 85 SAtk / 95 SDef / 110 Spd`
+	**Base Stats Changes:**
+
+	- `75 HP / 55 Atk / 70 Def / 55 SAtk / 95 SDef / 110 Spd` → `75 HP / 55 Atk / 70 Def / 85 SAtk / 95 SDef / 110 Spd`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Blue
 

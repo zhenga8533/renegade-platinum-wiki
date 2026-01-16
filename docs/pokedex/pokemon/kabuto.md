@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Kabuto ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
+
+	- `kabuto > kabutops: level-up (level 40)` → `kabuto > kabutops: level-up (level 30)`
 
 
 ## :material-information: Basic Information
@@ -142,7 +144,7 @@
 
 	**#140 [Kabuto](./kabuto.md)**
 
-	
+
 
 	***You are here***
 

@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Snorunt ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
+
+	- `snorunt > glalie: level-up (level 42)` → `snorunt > glalie: level-up (level 32)`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Gray
 
@@ -132,7 +134,7 @@
 
 	**#361 [Snorunt](./snorunt.md)**
 
-	
+
 
 	***You are here***
 

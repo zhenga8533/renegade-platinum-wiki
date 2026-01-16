@@ -126,7 +126,7 @@
 
 	**#058 [Growlithe](./growlithe.md)**
 
-	
+
 
 	***You are here***
 

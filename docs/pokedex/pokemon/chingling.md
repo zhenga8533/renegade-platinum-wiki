@@ -15,13 +15,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Chingling ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Base Stats:** `45 HP / 30 Atk / 50 Def / 65 SAtk / 50 SDef / 45 Spd` → `45 HP / 30 Atk / 50 Def / 80 SAtk / 60 SDef / 45 Spd`
+	- `chingling > chimecho: level-up (happiness, night)` → `chingling > chimecho: level-up (happiness)`
 
-    **Base Happiness:** `70` → `180`
+	**Base Stats Changes:**
+
+	- `45 HP / 30 Atk / 50 Def / 65 SAtk / 50 SDef / 45 Spd` → `45 HP / 30 Atk / 50 Def / 80 SAtk / 60 SDef / 45 Spd`
+
+	**Base Happiness Changes:**
+
+	- `70` → `180`
 
 
 ## :material-information: Basic Information
@@ -72,7 +78,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Yellow
 
@@ -87,7 +93,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Cleanse Tag](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cleanse-tag.png){ .item-sprite } [Cleanse Tag](../../pokedex/items/cleanse-tag.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Cleanse Tag](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cleanse-tag.png){ .item-sprite } [Cleanse Tag](../../pokedex/items/cleanse-tag.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -143,7 +149,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#433 [Chingling](./chingling.md)**
 
-	
+
 
 	***You are here***
 

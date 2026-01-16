@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Kricketot ROM Changes"
 
-    **Abilities:** `shed-skin` → `run-away / shed-skin`
+	**Abilities Changes:**
 
-    **Base Stats:** `37 HP / 25 Atk / 41 Def / 25 SAtk / 41 SDef / 25 Spd` → `37 HP / 35 Atk / 41 Def / 35 SAtk / 41 SDef / 25 Spd`
+	- `shed-skin` → `run-away / shed-skin`
+
+	**Base Stats Changes:**
+
+	- `37 HP / 25 Atk / 41 Def / 25 SAtk / 41 SDef / 25 Spd` → `37 HP / 35 Atk / 41 Def / 35 SAtk / 41 SDef / 25 Spd`
 
 
 ## :material-information: Basic Information
@@ -72,7 +76,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Red
 
@@ -87,7 +91,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Metronome](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metronome.png){ .item-sprite } [Metronome](../../pokedex/items/metronome.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Metronome](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metronome.png){ .item-sprite } [Metronome](../../pokedex/items/metronome.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -143,7 +147,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#401 [Kricketot](./kricketot.md)**
 
-	
+
 
 	***You are here***
 

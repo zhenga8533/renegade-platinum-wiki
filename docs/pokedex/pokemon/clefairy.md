@@ -79,7 +79,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Moon Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-stone.png){ .item-sprite } [Moon Stone](../../pokedex/items/moon-stone.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Moon Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-stone.png){ .item-sprite } [Moon Stone](../../pokedex/items/moon-stone.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

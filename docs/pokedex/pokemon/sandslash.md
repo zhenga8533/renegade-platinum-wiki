@@ -77,7 +77,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Grip Claw](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grip-claw.png){ .item-sprite } [Grip Claw](../../pokedex/items/grip-claw.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Grip Claw](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grip-claw.png){ .item-sprite } [Grip Claw](../../pokedex/items/grip-claw.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

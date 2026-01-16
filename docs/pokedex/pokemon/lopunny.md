@@ -14,13 +14,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Lopunny ROM Changes"
 
-    **Abilities:** `cute-charm / klutz` → `scrappy / cute-charm`
+	**Abilities Changes:**
 
-    **Base Stats:** `65 HP / 76 Atk / 84 Def / 54 SAtk / 96 SDef / 105 Spd` → `65 HP / 106 Atk / 84 Def / 44 SAtk / 96 SDef / 105 Spd`
+	- `cute-charm / klutz` → `scrappy / cute-charm`
 
-    **Type:** `normal` → `normal / fighting`
+	**Base Stats Changes:**
+
+	- `65 HP / 76 Atk / 84 Def / 54 SAtk / 96 SDef / 105 Spd` → `65 HP / 106 Atk / 84 Def / 44 SAtk / 96 SDef / 105 Spd`
+
+	**Type Changes:**
+
+	- `normal` → `normal / fighting`
 
 
 ## :material-information: Basic Information
@@ -72,7 +78,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Brown
 

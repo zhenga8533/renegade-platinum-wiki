@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Buneary ROM Changes"
 
-    **Abilities:** `run-away / klutz` → `limber / run-away`
+	**Abilities Changes:**
+
+	- `run-away / klutz` → `limber / run-away`
 
 
 ## :material-information: Basic Information
@@ -68,7 +70,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Brown
 
@@ -131,7 +133,7 @@
 
 	**#427 [Buneary](./buneary.md)**
 
-	
+
 
 	***You are here***
 

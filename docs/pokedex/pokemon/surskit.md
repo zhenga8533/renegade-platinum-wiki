@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Surskit ROM Changes"
 
-    **Base Stats:** `40 HP / 30 Atk / 32 Def / 50 SAtk / 52 SDef / 65 Spd` → `40 HP / 30 Atk / 30 Def / 55 SAtk / 55 SDef / 65 Spd`
+	**Base Stats Changes:**
+
+	- `40 HP / 30 Atk / 32 Def / 50 SAtk / 52 SDef / 65 Spd` → `40 HP / 30 Atk / 30 Def / 55 SAtk / 55 SDef / 65 Spd`
 
 
 ## :material-information: Basic Information
@@ -68,7 +70,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Blue
 
@@ -83,7 +85,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Honey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/honey.png){ .item-sprite } [Honey](../../pokedex/items/honey.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Honey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/honey.png){ .item-sprite } [Honey](../../pokedex/items/honey.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -139,7 +141,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#283 [Surskit](./surskit.md)**
 
-	
+
 
 	***You are here***
 

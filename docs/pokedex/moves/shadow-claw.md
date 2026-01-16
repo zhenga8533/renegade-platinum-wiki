@@ -1,9 +1,11 @@
 # Shadow Claw
 
 
-!!! info "ROM Changes
+??? note "Shadow Claw ROM Changes"
 
-    **Power:** `70` → `80`
+	**Power Changes:**
+
+	- `70` → `80`
 
 
 ## :material-chart-box: Stats

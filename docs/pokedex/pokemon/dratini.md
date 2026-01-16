@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Dratini ROM Changes"
 
-    **Abilities:** `shed-skin` → `marvel-scale / shed-skin`
+	**Abilities Changes:**
+
+	- `shed-skin` → `marvel-scale / shed-skin`
 
 
 ## :material-information: Basic Information
@@ -84,7 +86,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Dragon Scale](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-scale.png){ .item-sprite } [Dragon Scale](../../pokedex/items/dragon-scale.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Dragon Scale](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-scale.png){ .item-sprite } [Dragon Scale](../../pokedex/items/dragon-scale.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -140,7 +142,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#147 [Dratini](./dratini.md)**
 
-	
+
 
 	***You are here***
 

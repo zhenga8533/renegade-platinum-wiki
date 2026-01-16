@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Raikou ROM Changes"
 
-    **Abilities:** `pressure` → `pressure / inner-focus`
+	**Abilities Changes:**
+
+	- `pressure` → `pressure / inner-focus`
 
 
 ## :material-information: Basic Information
@@ -70,7 +72,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Yellow
 

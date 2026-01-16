@@ -13,13 +13,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Meganium ROM Changes"
 
-    **Abilities:** `overgrow` → `serene-grace / overgrow`
+	**Abilities Changes:**
 
-    **Base Stats:** `80 HP / 82 Atk / 100 Def / 83 SAtk / 100 SDef / 80 Spd` → `80 HP / 82 Atk / 100 Def / 93 SAtk / 100 SDef / 80 Spd`
+	- `overgrow` → `serene-grace / overgrow`
 
-    **Type:** `grass` → `grass / fairy`
+	**Base Stats Changes:**
+
+	- `80 HP / 82 Atk / 100 Def / 83 SAtk / 100 SDef / 80 Spd` → `80 HP / 82 Atk / 100 Def / 93 SAtk / 100 SDef / 80 Spd`
+
+	**Type Changes:**
+
+	- `grass` → `grass / fairy`
 
 
 ## :material-information: Basic Information
@@ -75,7 +81,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Green
 

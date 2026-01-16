@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Empoleon ROM Changes"
 
-    **Abilities:** `torrent` → `torrent / vital-spirit`
+	**Abilities Changes:**
 
-    **Base Stats:** `84 HP / 86 Atk / 88 Def / 111 SAtk / 101 SDef / 60 Spd` → `84 HP / 86 Atk / 88 Def / 116 SAtk / 101 SDef / 60 Spd`
+	- `torrent` → `torrent / vital-spirit`
+
+	**Base Stats Changes:**
+
+	- `84 HP / 86 Atk / 88 Def / 111 SAtk / 101 SDef / 60 Spd` → `84 HP / 86 Atk / 88 Def / 116 SAtk / 101 SDef / 60 Spd`
 
 
 ## :material-information: Basic Information
@@ -70,7 +74,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Blue
 

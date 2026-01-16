@@ -13,13 +13,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Altaria ROM Changes"
 
-    **Abilities:** `natural-cure` → `cloud-nine / natural-cure`
+	**Abilities Changes:**
 
-    **Base Stats:** `75 HP / 70 Atk / 90 Def / 70 SAtk / 105 SDef / 80 Spd` → `75 HP / 90 Atk / 90 Def / 90 SAtk / 105 SDef / 80 Spd`
+	- `natural-cure` → `cloud-nine / natural-cure`
 
-    **Type:** `dragon / flying` → `dragon / fairy`
+	**Base Stats Changes:**
+
+	- `75 HP / 70 Atk / 90 Def / 70 SAtk / 105 SDef / 80 Spd` → `75 HP / 90 Atk / 90 Def / 90 SAtk / 105 SDef / 80 Spd`
+
+	**Type Changes:**
+
+	- `dragon / flying` → `dragon / fairy`
 
 
 ## :material-information: Basic Information
@@ -73,7 +79,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Blue
 

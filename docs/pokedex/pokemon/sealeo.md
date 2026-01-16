@@ -13,9 +13,13 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Sealeo ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
+
+	- `spheal > sealeo: level-up (level 32)` → `spheal > sealeo: level-up (level 24)`
+
+	- `sealeo > walrein: unknown` → `sealeo > walrein: level-up (level 40)`
 
 
 ## :material-information: Basic Information
@@ -69,7 +73,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Blue
 

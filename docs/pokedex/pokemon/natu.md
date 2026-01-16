@@ -63,7 +63,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Green
 
@@ -140,7 +140,7 @@
 
 	**#177 [Natu](./natu.md)**
 
-	
+
 
 	***You are here***
 

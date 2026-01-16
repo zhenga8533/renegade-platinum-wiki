@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Seaking ROM Changes"
 
-    **Base Stats:** `80 HP / 92 Atk / 65 Def / 65 SAtk / 80 SDef / 68 Spd` → `80 HP / 122 Atk / 80 Def / 45 SAtk / 80 SDef / 78 Spd`
+	**Base Stats Changes:**
+
+	- `80 HP / 92 Atk / 65 Def / 65 SAtk / 80 SDef / 68 Spd` → `80 HP / 122 Atk / 80 Def / 45 SAtk / 80 SDef / 78 Spd`
 
 
 ## :material-information: Basic Information
@@ -87,7 +89,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Mystic Water](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mystic-water.png){ .item-sprite } [Mystic Water](../../pokedex/items/mystic-water.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Mystic Water](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mystic-water.png){ .item-sprite } [Mystic Water](../../pokedex/items/mystic-water.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

@@ -78,8 +78,8 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Star Piece](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/star-piece.png){ .item-sprite } [Star Piece](../../pokedex/items/star-piece.md) | — | — | — | — | — |
-| ![Stardust](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stardust.png){ .item-sprite } [Stardust](../../pokedex/items/stardust.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Star Piece](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/star-piece.png){ .item-sprite } [Star Piece](../../pokedex/items/star-piece.md)</span> | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Stardust](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stardust.png){ .item-sprite } [Stardust](../../pokedex/items/stardust.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -135,7 +135,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#120 [Staryu](./staryu.md)**
 
-	
+
 
 	***You are here***
 

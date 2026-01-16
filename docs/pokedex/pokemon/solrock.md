@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Solrock ROM Changes"
 
-    **Base Stats:** `90 HP / 95 Atk / 85 Def / 55 SAtk / 65 SDef / 70 Spd` → `90 HP / 100 Atk / 85 Def / 55 SAtk / 65 SDef / 70 Spd`
+	**Base Stats Changes:**
+
+	- `90 HP / 95 Atk / 85 Def / 55 SAtk / 65 SDef / 70 Spd` → `90 HP / 100 Atk / 85 Def / 55 SAtk / 65 SDef / 70 Spd`
 
 
 ## :material-information: Basic Information
@@ -68,7 +70,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Red
 
@@ -83,8 +85,8 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Stardust](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stardust.png){ .item-sprite } [Stardust](../../pokedex/items/stardust.md) | — | — | — | — | — |
-| ![Sun Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sun-stone.png){ .item-sprite } [Sun Stone](../../pokedex/items/sun-stone.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Stardust](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stardust.png){ .item-sprite } [Stardust](../../pokedex/items/stardust.md)</span> | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Sun Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sun-stone.png){ .item-sprite } [Sun Stone](../../pokedex/items/sun-stone.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

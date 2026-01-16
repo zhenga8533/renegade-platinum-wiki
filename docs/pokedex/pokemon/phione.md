@@ -61,7 +61,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Blue
 
@@ -124,7 +124,7 @@
 
 	**#489 [Phione](./phione.md)**
 
-	
+
 
 	***You are here***
 

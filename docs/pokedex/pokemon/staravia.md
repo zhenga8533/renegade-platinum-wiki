@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Staravia ROM Changes"
 
-    **Abilities:** `intimidate` → `reckless / intimidate`
+	**Abilities Changes:**
+
+	- `intimidate` → `reckless / intimidate`
 
 
 ## :material-information: Basic Information
@@ -70,7 +72,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Brown
 

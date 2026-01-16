@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Bibarel ROM Changes"
 
-    **Base Stats:** `79 HP / 85 Atk / 60 Def / 55 SAtk / 60 SDef / 71 Spd` → `94 HP / 100 Atk / 65 Def / 55 SAtk / 65 SDef / 71 Spd`
+	**Base Stats Changes:**
+
+	- `79 HP / 85 Atk / 60 Def / 55 SAtk / 60 SDef / 71 Spd` → `94 HP / 100 Atk / 65 Def / 55 SAtk / 65 SDef / 71 Spd`
 
 
 ## :material-information: Basic Information
@@ -70,7 +72,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Brown
 

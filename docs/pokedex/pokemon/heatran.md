@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Heatran ROM Changes"
 
-    **Abilities:** `flash-fire` → `flash-fire / flame-body`
+	**Abilities Changes:**
+
+	- `flash-fire` → `flash-fire / flame-body`
 
 
 ## :material-information: Basic Information
@@ -68,7 +70,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Brown
 

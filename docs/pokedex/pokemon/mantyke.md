@@ -63,7 +63,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Blue
 
@@ -140,7 +140,7 @@
 
 	**#458 [Mantyke](./mantyke.md)**
 
-	
+
 
 	***You are here***
 

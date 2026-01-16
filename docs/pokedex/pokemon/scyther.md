@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Scyther ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `swarm / technician` → `technician / swarm`
+	- `scyther > scizor: trade (held: metal-coat)` → `scyther > scizor: use-item (metal-coat)`
+
+	**Abilities Changes:**
+
+	- `swarm / technician` → `technician / swarm`
 
 
 ## :material-information: Basic Information
@@ -155,7 +159,7 @@
 
 	**#123 [Scyther](./scyther.md)**
 
-	
+
 
 	***You are here***
 

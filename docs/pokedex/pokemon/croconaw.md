@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Croconaw ROM Changes"
 
-    **Abilities:** `torrent` → `intimidate / torrent`
+	**Abilities Changes:**
+
+	- `torrent` → `intimidate / torrent`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Blue
 

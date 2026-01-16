@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Shinx ROM Changes"
 
-    **Abilities:** `rivalry / intimidate` → `intimidate / guts`
+	**Abilities Changes:**
+
+	- `rivalry / intimidate` → `intimidate / guts`
 
 
 ## :material-information: Basic Information
@@ -70,7 +72,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Blue
 
@@ -133,7 +135,7 @@
 
 	**#403 [Shinx](./shinx.md)**
 
-	
+
 
 	***You are here***
 

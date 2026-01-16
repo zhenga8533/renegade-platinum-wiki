@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Pachirisu ROM Changes"
 
-    **Abilities:** `run-away / pickup` → `volt-absorb / pickup`
+	**Abilities Changes:**
 
-    **Base Stats:** `60 HP / 45 Atk / 70 Def / 45 SAtk / 90 SDef / 95 Spd` → `60 HP / 45 Atk / 80 Def / 80 SAtk / 90 SDef / 95 Spd`
+	- `run-away / pickup` → `volt-absorb / pickup`
+
+	**Base Stats Changes:**
+
+	- `60 HP / 45 Atk / 70 Def / 45 SAtk / 90 SDef / 95 Spd` → `60 HP / 45 Atk / 80 Def / 80 SAtk / 90 SDef / 95 Spd`
 
 
 ## :material-information: Basic Information
@@ -72,7 +76,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** White
 

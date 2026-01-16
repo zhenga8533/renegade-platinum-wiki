@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Lanturn ROM Changes"
 
-    **Abilities:** `volt-absorb / illuminate` → `volt-absorb / water-absorb`
+	**Abilities Changes:**
+
+	- `volt-absorb / illuminate` → `volt-absorb / water-absorb`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Blue
 
@@ -84,7 +86,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Deep Sea Scale](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/deep-sea-scale.png){ .item-sprite } [Deep Sea Scale](../../pokedex/items/deep-sea-scale.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Deep Sea Scale](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/deep-sea-scale.png){ .item-sprite } [Deep Sea Scale](../../pokedex/items/deep-sea-scale.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

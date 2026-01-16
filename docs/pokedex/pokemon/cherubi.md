@@ -61,7 +61,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Pink
 
@@ -76,7 +76,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Miracle Seed](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png){ .item-sprite } [Miracle Seed](../../pokedex/items/miracle-seed.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Miracle Seed](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png){ .item-sprite } [Miracle Seed](../../pokedex/items/miracle-seed.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -132,7 +132,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#420 [Cherubi](./cherubi.md)**
 
-	
+
 
 	***You are here***
 

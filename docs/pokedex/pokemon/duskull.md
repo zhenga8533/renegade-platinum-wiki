@@ -13,11 +13,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Duskull ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `levitate` → `levitate / frisk`
+	- `dusclops > dusknoir: trade (held: reaper-cloth)` → `dusclops > dusknoir: use-item (reaper-cloth)`
+
+	- `duskull > dusclops: level-up (level 37)` → `duskull > dusclops: level-up (level 32)`
+
+	**Abilities Changes:**
+
+	- `levitate` → `levitate / frisk`
+
+	- `dusclops > dusknoir: unknown` → `dusclops > dusknoir: use-item (reaper-cloth)`
 
 
 ## :material-information: Basic Information
@@ -71,7 +79,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Black
 
@@ -86,7 +94,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Spell Tag](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spell-tag.png){ .item-sprite } [Spell Tag](../../pokedex/items/spell-tag.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Spell Tag](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spell-tag.png){ .item-sprite } [Spell Tag](../../pokedex/items/spell-tag.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -151,7 +159,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#355 [Duskull](./duskull.md)**
 
-	
+
 
 	***You are here***
 

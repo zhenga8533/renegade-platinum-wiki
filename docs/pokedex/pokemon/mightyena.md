@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Mightyena ROM Changes"
 
-    **Base Stats:** `70 HP / 90 Atk / 70 Def / 60 SAtk / 60 SDef / 70 Spd` → `70 HP / 110 Atk / 70 Def / 60 SAtk / 60 SDef / 95 Spd`
+	**Base Stats Changes:**
+
+	- `70 HP / 90 Atk / 70 Def / 60 SAtk / 60 SDef / 70 Spd` → `70 HP / 110 Atk / 70 Def / 60 SAtk / 60 SDef / 95 Spd`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Gray
 

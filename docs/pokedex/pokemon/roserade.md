@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Roserade ROM Changes"
 
-    **Abilities:** `natural-cure / poison-point` → `technician / natural-cure`
+	**Abilities Changes:**
+
+	- `natural-cure / poison-point` → `technician / natural-cure`
 
 
 ## :material-information: Basic Information
@@ -70,7 +72,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Green
 
@@ -85,7 +87,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Poison Barb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-barb.png){ .item-sprite } [Poison Barb](../../pokedex/items/poison-barb.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Poison Barb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-barb.png){ .item-sprite } [Poison Barb](../../pokedex/items/poison-barb.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

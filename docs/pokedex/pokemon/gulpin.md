@@ -65,7 +65,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Green
 
@@ -80,8 +80,8 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Oran Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oran-berry.png){ .item-sprite } [Oran Berry](../../pokedex/items/oran-berry.md) | — | — | — | — | — |
-| ![Sitrus Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sitrus-berry.png){ .item-sprite } [Sitrus Berry](../../pokedex/items/sitrus-berry.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Oran Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oran-berry.png){ .item-sprite } [Oran Berry](../../pokedex/items/oran-berry.md)</span> | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Sitrus Berry](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sitrus-berry.png){ .item-sprite } [Sitrus Berry](../../pokedex/items/sitrus-berry.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -137,7 +137,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#316 [Gulpin](./gulpin.md)**
 
-	
+
 
 	***You are here***
 

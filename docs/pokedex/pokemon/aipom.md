@@ -66,7 +66,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Purple
 
@@ -129,7 +129,7 @@
 
 	**#190 [Aipom](./aipom.md)**
 
-	
+
 
 	***You are here***
 

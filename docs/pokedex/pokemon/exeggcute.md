@@ -130,7 +130,7 @@
 
 	**#102 [Exeggcute](./exeggcute.md)**
 
-	
+
 
 	***You are here***
 

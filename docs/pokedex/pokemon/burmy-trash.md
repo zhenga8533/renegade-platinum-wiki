@@ -61,7 +61,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Green
 
@@ -124,7 +124,7 @@
 
 	**#412 [Burmy](./burmy.md)**
 
-	
+
 
 	***You are here***
 

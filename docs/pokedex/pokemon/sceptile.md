@@ -13,13 +13,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Sceptile ROM Changes"
 
-    **Abilities:** `overgrow` → `unburden / overgrow`
+	**Abilities Changes:**
 
-    **Base Stats:** `70 HP / 85 Atk / 65 Def / 105 SAtk / 85 SDef / 120 Spd` → `70 HP / 90 Atk / 65 Def / 110 SAtk / 80 SDef / 120 Spd`
+	- `overgrow` → `unburden / overgrow`
 
-    **Type:** `grass` → `grass / dragon`
+	**Base Stats Changes:**
+
+	- `70 HP / 85 Atk / 65 Def / 105 SAtk / 85 SDef / 120 Spd` → `70 HP / 90 Atk / 65 Def / 110 SAtk / 80 SDef / 120 Spd`
+
+	**Type Changes:**
+
+	- `grass` → `grass / dragon`
 
 
 ## :material-information: Basic Information
@@ -73,7 +79,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Green
 

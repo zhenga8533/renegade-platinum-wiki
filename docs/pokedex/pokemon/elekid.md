@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Elekid ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `static` → `static / vital-spirit`
+	- `electabuzz > electivire: trade (held: electirizer)` → `electabuzz > electivire: use-item (electirizer)`
+
+	**Abilities Changes:**
+
+	- `static` → `static / vital-spirit`
 
 
 ## :material-information: Basic Information
@@ -72,7 +76,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Yellow
 
@@ -87,7 +91,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Electirizer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electirizer.png){ .item-sprite } [Electirizer](../../pokedex/items/electirizer.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Electirizer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electirizer.png){ .item-sprite } [Electirizer](../../pokedex/items/electirizer.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -143,7 +147,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#239 [Elekid](./elekid.md)**
 
-	
+
 
 	***You are here***
 

@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Cherrim ROM Changes"
 
-    **Base Stats:** `70 HP / 60 Atk / 70 Def / 87 SAtk / 78 SDef / 85 Spd` → `70 HP / 45 Atk / 70 Def / 107 SAtk / 83 SDef / 90 Spd`
+	**Base Stats Changes:**
+
+	- `70 HP / 60 Atk / 70 Def / 87 SAtk / 78 SDef / 85 Spd` → `70 HP / 45 Atk / 70 Def / 107 SAtk / 83 SDef / 90 Spd`
 
 
 ## :material-information: Basic Information
@@ -67,7 +69,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Purple
 
@@ -82,7 +84,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Miracle Seed](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png){ .item-sprite } [Miracle Seed](../../pokedex/items/miracle-seed.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Miracle Seed](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png){ .item-sprite } [Miracle Seed](../../pokedex/items/miracle-seed.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Qwilfish ROM Changes"
 
-    **Abilities:** `poison-point / swift-swim` → `intimidate / swift-swim`
+	**Abilities Changes:**
 
-    **Base Stats:** `65 HP / 95 Atk / 85 Def / 55 SAtk / 55 SDef / 85 Spd` → `65 HP / 95 Atk / 95 Def / 45 SAtk / 55 SDef / 95 Spd`
+	- `poison-point / swift-swim` → `intimidate / swift-swim`
+
+	**Base Stats Changes:**
+
+	- `65 HP / 95 Atk / 85 Def / 55 SAtk / 55 SDef / 85 Spd` → `65 HP / 95 Atk / 95 Def / 45 SAtk / 55 SDef / 95 Spd`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Gray
 
@@ -86,7 +90,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Poison Barb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-barb.png){ .item-sprite } [Poison Barb](../../pokedex/items/poison-barb.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Poison Barb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-barb.png){ .item-sprite } [Poison Barb](../../pokedex/items/poison-barb.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

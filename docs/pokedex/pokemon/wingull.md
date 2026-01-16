@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Wingull ROM Changes"
 
-    **Abilities:** `keen-eye` → `hydration / keen-eye`
+	**Abilities Changes:**
+
+	- `keen-eye` → `hydration / keen-eye`
 
 
 ## :material-information: Basic Information
@@ -70,7 +72,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** White
 
@@ -147,7 +149,7 @@
 
 	**#278 [Wingull](./wingull.md)**
 
-	
+
 
 	***You are here***
 

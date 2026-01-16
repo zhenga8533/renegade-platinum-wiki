@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Relicanth ROM Changes"
 
-    **Abilities:** `swift-swim / rock-head` → `rock-head / swift-swim`
+	**Abilities Changes:**
+
+	- `swift-swim / rock-head` → `rock-head / swift-swim`
 
 
 ## :material-information: Basic Information
@@ -71,7 +73,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Gray
 
@@ -86,7 +88,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Deep Sea Scale](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/deep-sea-scale.png){ .item-sprite } [Deep Sea Scale](../../pokedex/items/deep-sea-scale.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Deep Sea Scale](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/deep-sea-scale.png){ .item-sprite } [Deep Sea Scale](../../pokedex/items/deep-sea-scale.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

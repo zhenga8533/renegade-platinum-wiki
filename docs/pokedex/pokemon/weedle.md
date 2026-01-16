@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Weedle ROM Changes"
 
-    **Abilities:** `shield-dust` → `run-away / shield-dust`
+	**Abilities Changes:**
+
+	- `shield-dust` → `run-away / shield-dust`
 
 
 ## :material-information: Basic Information
@@ -137,7 +139,7 @@
 
 	**#013 [Weedle](./weedle.md)**
 
-	
+
 
 	***You are here***
 

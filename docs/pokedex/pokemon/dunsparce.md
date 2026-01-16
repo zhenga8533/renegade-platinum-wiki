@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Dunsparce ROM Changes"
 
-    **Base Stats:** `100 HP / 70 Atk / 70 Def / 65 SAtk / 65 SDef / 45 Spd` → `105 HP / 95 Atk / 95 Def / 55 SAtk / 55 SDef / 45 Spd`
+	**Base Stats Changes:**
+
+	- `100 HP / 70 Atk / 70 Def / 65 SAtk / 65 SDef / 45 Spd` → `105 HP / 95 Atk / 95 Def / 55 SAtk / 55 SDef / 45 Spd`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Yellow
 

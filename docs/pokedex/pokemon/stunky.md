@@ -14,13 +14,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Stunky ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `stench / aftermath` → `aftermath / stench`
+	- `stunky > skuntank: level-up (level 34)` → `stunky > skuntank: level-up (level 32)`
 
-    **Base Stats:** `63 HP / 63 Atk / 47 Def / 41 SAtk / 41 SDef / 74 Spd` → `65 HP / 65 Atk / 50 Def / 40 SAtk / 40 SDef / 75 Spd`
+	**Abilities Changes:**
+
+	- `stench / aftermath` → `aftermath / stench`
+
+	**Base Stats Changes:**
+
+	- `63 HP / 63 Atk / 47 Def / 41 SAtk / 41 SDef / 74 Spd` → `65 HP / 65 Atk / 50 Def / 40 SAtk / 40 SDef / 75 Spd`
 
 
 ## :material-information: Basic Information
@@ -72,7 +78,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Purple
 
@@ -144,7 +150,7 @@
 
 	**#434 [Stunky](./stunky.md)**
 
-	
+
 
 	***You are here***
 

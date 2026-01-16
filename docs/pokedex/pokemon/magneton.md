@@ -78,7 +78,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Metal Coat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metal-coat.png){ .item-sprite } [Metal Coat](../../pokedex/items/metal-coat.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Metal Coat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metal-coat.png){ .item-sprite } [Metal Coat](../../pokedex/items/metal-coat.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

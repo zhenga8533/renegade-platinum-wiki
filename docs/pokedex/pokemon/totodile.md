@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Totodile ROM Changes"
 
-    **Abilities:** `torrent` → `intimidate / torrent`
+	**Abilities Changes:**
+
+	- `torrent` → `intimidate / torrent`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Blue
 
@@ -132,7 +134,7 @@
 
 	**#158 [Totodile](./totodile.md)**
 
-	
+
 
 	***You are here***
 

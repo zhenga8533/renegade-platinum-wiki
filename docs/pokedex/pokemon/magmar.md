@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Magmar ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `flame-body` → `flame-body / vital-spirit`
+	- `magmar > magmortar: trade (held: magmarizer)` → `magmar > magmortar: use-item (magmarizer)`
+
+	**Abilities Changes:**
+
+	- `flame-body` → `flame-body / vital-spirit`
 
 
 ## :material-information: Basic Information
@@ -86,7 +90,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Magmarizer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magmarizer.png){ .item-sprite } [Magmarizer](../../pokedex/items/magmarizer.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Magmarizer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magmarizer.png){ .item-sprite } [Magmarizer](../../pokedex/items/magmarizer.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

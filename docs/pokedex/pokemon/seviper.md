@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Seviper ROM Changes"
 
-    **Base Stats:** `73 HP / 100 Atk / 60 Def / 100 SAtk / 60 SDef / 65 Spd` → `75 HP / 115 Atk / 60 Def / 80 SAtk / 60 SDef / 75 Spd`
+	**Base Stats Changes:**
 
-    **Type:** `poison` → `poison / dark`
+	- `73 HP / 100 Atk / 60 Def / 100 SAtk / 60 SDef / 65 Spd` → `75 HP / 115 Atk / 60 Def / 80 SAtk / 60 SDef / 75 Spd`
+
+	**Type Changes:**
+
+	- `poison` → `poison / dark`
 
 
 ## :material-information: Basic Information
@@ -70,7 +74,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Black
 
@@ -85,7 +89,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Shed Shell](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shed-shell.png){ .item-sprite } [Shed Shell](../../pokedex/items/shed-shell.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Shed Shell](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shed-shell.png){ .item-sprite } [Shed Shell](../../pokedex/items/shed-shell.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

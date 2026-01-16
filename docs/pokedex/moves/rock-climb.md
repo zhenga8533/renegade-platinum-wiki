@@ -1,15 +1,23 @@
 # Rock Climb
 
 
-!!! info "ROM Changes
+??? note "Rock Climb ROM Changes"
 
-    **Power:** `90` → `80`
+	**Power Changes:**
 
-    **Accuracy:** `85` → `95`
+	- `90` → `80`
 
-    **Pp:** `20` → `10`
+	**Accuracy Changes:**
 
-    **Type:** `normal` → `rock`
+	- `85` → `95`
+
+	**Pp Changes:**
+
+	- `20` → `10`
+
+	**Type Changes:**
+
+	- `normal` → `rock`
 
 
 ## :material-chart-box: Stats

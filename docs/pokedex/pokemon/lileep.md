@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Lileep ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `suction-cups` → `suction-cups / storm-drain`
+	- `lileep > cradily: level-up (level 40)` → `lileep > cradily: level-up (level 30)`
+
+	**Abilities Changes:**
+
+	- `suction-cups` → `suction-cups / storm-drain`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Purple
 
@@ -86,7 +90,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Big Root](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-root.png){ .item-sprite } [Big Root](../../pokedex/items/big-root.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Big Root](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-root.png){ .item-sprite } [Big Root](../../pokedex/items/big-root.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -142,7 +146,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#345 [Lileep](./lileep.md)**
 
-	
+
 
 	***You are here***
 

@@ -1,11 +1,15 @@
 # Poison Tail
 
 
-!!! info "ROM Changes
+??? note "Poison Tail ROM Changes"
 
-    **Power:** `50` → `90`
+	**Power Changes:**
 
-    **Pp:** `25` → `15`
+	- `50` → `90`
+
+	**Pp Changes:**
+
+	- `25` → `15`
 
 
 ## :material-chart-box: Stats

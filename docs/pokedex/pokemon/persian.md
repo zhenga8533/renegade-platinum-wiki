@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Persian ROM Changes"
 
-    **Abilities:** `limber / technician` → `technician / limber`
+	**Abilities Changes:**
 
-    **Base Stats:** `65 HP / 70 Atk / 60 Def / 65 SAtk / 65 SDef / 115 Spd` → `65 HP / 80 Atk / 60 Def / 80 SAtk / 65 SDef / 115 Spd`
+	- `limber / technician` → `technician / limber`
+
+	**Base Stats Changes:**
+
+	- `65 HP / 70 Atk / 60 Def / 65 SAtk / 65 SDef / 115 Spd` → `65 HP / 80 Atk / 60 Def / 80 SAtk / 65 SDef / 115 Spd`
 
 
 ## :material-information: Basic Information
@@ -86,7 +90,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Quick Claw](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-claw.png){ .item-sprite } [Quick Claw](../../pokedex/items/quick-claw.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Quick Claw](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-claw.png){ .item-sprite } [Quick Claw](../../pokedex/items/quick-claw.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

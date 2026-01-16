@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Murkrow ROM Changes"
 
-    **Abilities:** `insomnia / super-luck` → `super-luck / insomnia`
+	**Abilities Changes:**
+
+	- `insomnia / super-luck` → `super-luck / insomnia`
 
 
 ## :material-information: Basic Information
@@ -72,7 +74,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Black
 
@@ -144,7 +146,7 @@
 
 	**#198 [Murkrow](./murkrow.md)**
 
-	
+
 
 	***You are here***
 

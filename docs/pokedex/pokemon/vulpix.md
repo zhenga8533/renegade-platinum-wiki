@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Vulpix ROM Changes"
 
-    **Abilities:** `flash-fire` → `drought / flash-fire`
+	**Abilities Changes:**
+
+	- `flash-fire` → `drought / flash-fire`
 
 
 ## :material-information: Basic Information
@@ -84,7 +86,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Charcoal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charcoal.png){ .item-sprite } [Charcoal](../../pokedex/items/charcoal.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Charcoal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charcoal.png){ .item-sprite } [Charcoal](../../pokedex/items/charcoal.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -140,7 +142,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#037 [Vulpix](./vulpix.md)**
 
-	
+
 
 	***You are here***
 

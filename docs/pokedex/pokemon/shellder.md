@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Shellder ROM Changes"
 
-    **Abilities:** `shell-armor / skill-link` → `skill-link / shell-armor`
+	**Abilities Changes:**
+
+	- `shell-armor / skill-link` → `skill-link / shell-armor`
 
 
 ## :material-information: Basic Information
@@ -84,8 +86,8 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Big Pearl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-pearl.png){ .item-sprite } [Big Pearl](../../pokedex/items/big-pearl.md) | — | — | — | — | — |
-| ![Pearl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pearl.png){ .item-sprite } [Pearl](../../pokedex/items/pearl.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Big Pearl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-pearl.png){ .item-sprite } [Big Pearl](../../pokedex/items/big-pearl.md)</span> | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Pearl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pearl.png){ .item-sprite } [Pearl](../../pokedex/items/pearl.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -141,7 +143,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#090 [Shellder](./shellder.md)**
 
-	
+
 
 	***You are here***
 

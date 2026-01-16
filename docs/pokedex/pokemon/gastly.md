@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Gastly ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
+
+	- `haunter > gengar: trade` → `haunter > gengar: level-up (level 36)`
 
 
 ## :material-information: Basic Information
@@ -146,7 +148,7 @@
 
 	**#092 [Gastly](./gastly.md)**
 
-	
+
 
 	***You are here***
 

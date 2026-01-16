@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Mismagius ROM Changes"
 
-    **Type:** `ghost` → `ghost / fairy`
+	**Type Changes:**
+
+	- `ghost` → `ghost / fairy`
 
 
 ## :material-information: Basic Information
@@ -67,7 +69,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Purple
 

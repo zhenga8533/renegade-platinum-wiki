@@ -14,11 +14,21 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Wormadam Plant ROM Changes"
 
-    **Abilities:** `anticipation` → `battle-armor / anticipation`
+	**Abilities Changes:**
 
-    **Base Stats:** `60 HP / 59 Atk / 85 Def / 79 SAtk / 105 SDef / 36 Spd` → `60 HP / 50 Atk / 100 Def / 110 SAtk / 100 SDef / 30 Spd`
+	- `anticipation` → `battle-armor / anticipation`
+
+	**Base Stats Changes:**
+
+	- `60 HP / 59 Atk / 85 Def / 79 SAtk / 105 SDef / 36 Spd` → `60 HP / 50 Atk / 90 Def / 110 SAtk / 110 SDef / 30 Spd`
+
+	- `60 HP / 50 Atk / 90 Def / 110 SAtk / 110 SDef / 30 Spd` → `60 HP / 50 Atk / 110 Def / 110 SAtk / 90 SDef / 30 Spd`
+
+	- `60 HP / 50 Atk / 110 Def / 110 SAtk / 90 SDef / 30 Spd` → `60 HP / 50 Atk / 100 Def / 110 SAtk / 100 SDef / 30 Spd`
+
+	- `60 HP / 50 Atk / 100 Def / 110 SAtk / 100 SDef / 30 Spd` → `60 HP / 50 Atk / 90 Def / 110 SAtk / 110 SDef / 30 Spd`
 
 
 ## :material-information: Basic Information
@@ -70,7 +80,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Green
 
@@ -85,7 +95,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Silver Powder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-powder.png){ .item-sprite } [Silver Powder](../../pokedex/items/silver-powder.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Silver Powder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-powder.png){ .item-sprite } [Silver Powder](../../pokedex/items/silver-powder.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

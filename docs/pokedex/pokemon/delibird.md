@@ -13,13 +13,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Delibird ROM Changes"
 
-    **Abilities:** `vital-spirit / hustle` → `technician / hustle`
+	**Abilities Changes:**
 
-    **Base Stats:** `45 HP / 55 Atk / 45 Def / 65 SAtk / 45 SDef / 75 Spd` → `45 HP / 85 Atk / 50 Def / 110 SAtk / 50 SDef / 110 Spd`
+	- `vital-spirit / hustle` → `technician / hustle`
 
-    **EV Yield:** `1 Spd` → `1 SAtk, 1 Spd`
+	**Base Stats Changes:**
+
+	- `45 HP / 55 Atk / 45 Def / 65 SAtk / 45 SDef / 75 Spd` → `45 HP / 85 Atk / 50 Def / 110 SAtk / 50 SDef / 110 Spd`
+
+	**EV Yield Changes:**
+
+	- `1 Spd` → `1 SAtk, 1 Spd`
 
 
 ## :material-information: Basic Information
@@ -73,7 +79,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Red
 

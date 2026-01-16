@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Gliscor ROM Changes"
 
-    **Abilities:** `hyper-cutter / sand-veil` → `poison-heal / hyper-cutter`
+	**Abilities Changes:**
+
+	- `hyper-cutter / sand-veil` → `poison-heal / hyper-cutter`
 
 
 ## :material-information: Basic Information
@@ -67,7 +69,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Purple
 

@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Sentret ROM Changes"
 
-    **Base Stats:** `35 HP / 46 Atk / 34 Def / 35 SAtk / 45 SDef / 20 Spd` → `45 HP / 45 Atk / 35 Def / 35 SAtk / 45 SDef / 40 Spd`
+	**Base Stats Changes:**
+
+	- `35 HP / 46 Atk / 34 Def / 35 SAtk / 45 SDef / 20 Spd` → `45 HP / 45 Atk / 35 Def / 35 SAtk / 45 SDef / 40 Spd`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Brown
 
@@ -132,7 +134,7 @@
 
 	**#161 [Sentret](./sentret.md)**
 
-	
+
 
 	***You are here***
 

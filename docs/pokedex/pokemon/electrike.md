@@ -63,7 +63,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Green
 
@@ -126,7 +126,7 @@
 
 	**#309 [Electrike](./electrike.md)**
 
-	
+
 
 	***You are here***
 

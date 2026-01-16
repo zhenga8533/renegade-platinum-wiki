@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Armaldo ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `battle-armor` → `battle-armor / swift-swim`
+	- `anorith > armaldo: level-up (level 40)` → `anorith > armaldo: level-up (level 30)`
+
+	**Abilities Changes:**
+
+	- `battle-armor` → `battle-armor / swift-swim`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Gray
 

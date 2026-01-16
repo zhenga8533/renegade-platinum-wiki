@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Camerupt ROM Changes"
 
-    **Abilities:** `magma-armor / solid-rock` → `solid-rock / magma-armor`
+	**Abilities Changes:**
+
+	- `magma-armor / solid-rock` → `solid-rock / magma-armor`
 
 
 ## :material-information: Basic Information
@@ -71,7 +73,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Red
 

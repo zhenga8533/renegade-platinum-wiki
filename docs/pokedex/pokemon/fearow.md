@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Fearow ROM Changes"
 
-    **Abilities:** `keen-eye` → `keen-eye / sniper`
+	**Abilities Changes:**
 
-    **Base Stats:** `65 HP / 90 Atk / 65 Def / 61 SAtk / 61 SDef / 100 Spd` → `65 HP / 110 Atk / 65 Def / 61 SAtk / 61 SDef / 100 Spd`
+	- `keen-eye` → `keen-eye / sniper`
+
+	**Base Stats Changes:**
+
+	- `65 HP / 90 Atk / 65 Def / 61 SAtk / 61 SDef / 100 Spd` → `65 HP / 110 Atk / 65 Def / 61 SAtk / 61 SDef / 100 Spd`
 
 
 ## :material-information: Basic Information
@@ -86,7 +90,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Sharp Beak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sharp-beak.png){ .item-sprite } [Sharp Beak](../../pokedex/items/sharp-beak.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Sharp Beak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sharp-beak.png){ .item-sprite } [Sharp Beak](../../pokedex/items/sharp-beak.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

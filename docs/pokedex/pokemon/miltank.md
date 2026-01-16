@@ -63,7 +63,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Pink
 
@@ -78,7 +78,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Moomoo Milk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moomoo-milk.png){ .item-sprite } [Moomoo Milk](../../pokedex/items/moomoo-milk.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Moomoo Milk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moomoo-milk.png){ .item-sprite } [Moomoo Milk](../../pokedex/items/moomoo-milk.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Mamoswine ROM Changes"
 
-    **Abilities:** `oblivious / snow-cloak` → `thick-fat / snow-cloak`
+	**Abilities Changes:**
+
+	- `oblivious / snow-cloak` → `thick-fat / snow-cloak`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Brown
 

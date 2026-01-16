@@ -63,7 +63,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Blue
 
@@ -126,7 +126,7 @@
 
 	**#360 [Wynaut](./wynaut.md)**
 
-	
+
 
 	***You are here***
 

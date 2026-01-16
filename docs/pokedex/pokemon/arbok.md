@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Arbok ROM Changes"
 
-    **Base Stats:** `60 HP / 95 Atk / 69 Def / 65 SAtk / 79 SDef / 80 Spd` → `60 HP / 110 Atk / 70 Def / 55 SAtk / 80 SDef / 80 Spd`
+	**Base Stats Changes:**
+
+	- `60 HP / 95 Atk / 69 Def / 65 SAtk / 79 SDef / 80 Spd` → `60 HP / 110 Atk / 70 Def / 55 SAtk / 80 SDef / 80 Spd`
 
 
 ## :material-information: Basic Information

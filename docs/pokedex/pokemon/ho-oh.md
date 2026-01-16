@@ -63,7 +63,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Red
 
@@ -78,7 +78,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Sacred Ash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sacred-ash.png){ .item-sprite } [Sacred Ash](../../pokedex/items/sacred-ash.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Sacred Ash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sacred-ash.png){ .item-sprite } [Sacred Ash](../../pokedex/items/sacred-ash.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

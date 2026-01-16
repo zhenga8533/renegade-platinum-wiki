@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Articuno ROM Changes"
 
-    **Abilities:** `pressure` → `pressure / snow-cloak`
+	**Abilities Changes:**
+
+	- `pressure` → `pressure / snow-cloak`
 
 
 ## :material-information: Basic Information

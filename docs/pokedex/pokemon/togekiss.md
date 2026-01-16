@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Togekiss ROM Changes"
 
-    **Abilities:** `hustle / serene-grace` → `serene-grace / super-luck`
+	**Abilities Changes:**
+
+	- `hustle / serene-grace` → `serene-grace / super-luck`
 
 
 ## :material-information: Basic Information
@@ -67,7 +69,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** White
 

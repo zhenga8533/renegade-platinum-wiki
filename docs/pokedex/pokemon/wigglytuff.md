@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Wigglytuff ROM Changes"
 
-    **Abilities:** `cute-charm` → `cute-charm / magic-guard`
+	**Abilities Changes:**
 
-    **Base Stats:** `140 HP / 70 Atk / 45 Def / 85 SAtk / 50 SDef / 45 Spd` → `140 HP / 80 Atk / 55 Def / 95 SAtk / 60 SDef / 55 Spd`
+	- `cute-charm` → `cute-charm / magic-guard`
+
+	**Base Stats Changes:**
+
+	- `140 HP / 70 Atk / 45 Def / 85 SAtk / 50 SDef / 45 Spd` → `140 HP / 80 Atk / 55 Def / 95 SAtk / 60 SDef / 55 Spd`
 
 
 ## :material-information: Basic Information
@@ -86,7 +90,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Moon Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-stone.png){ .item-sprite } [Moon Stone](../../pokedex/items/moon-stone.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Moon Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-stone.png){ .item-sprite } [Moon Stone](../../pokedex/items/moon-stone.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

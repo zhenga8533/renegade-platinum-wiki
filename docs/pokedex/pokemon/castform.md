@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Castform ROM Changes"
 
-    **Base Stats:** `70 HP / 70 Atk / 70 Def / 70 SAtk / 70 SDef / 70 Spd` → `60 HP / 60 Atk / 60 Def / 105 SAtk / 70 SDef / 95 Spd`
+	**Base Stats Changes:**
+
+	- `70 HP / 70 Atk / 70 Def / 70 SAtk / 70 SDef / 70 Spd` → `60 HP / 60 Atk / 60 Def / 105 SAtk / 70 SDef / 95 Spd`
 
 
 ## :material-information: Basic Information
@@ -68,7 +70,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Gray
 
@@ -83,7 +85,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Mystic Water](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mystic-water.png){ .item-sprite } [Mystic Water](../../pokedex/items/mystic-water.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Mystic Water](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mystic-water.png){ .item-sprite } [Mystic Water](../../pokedex/items/mystic-water.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

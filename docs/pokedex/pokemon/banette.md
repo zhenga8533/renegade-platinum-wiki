@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Banette ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Base Stats:** `64 HP / 115 Atk / 65 Def / 83 SAtk / 63 SDef / 65 Spd` → `64 HP / 125 Atk / 65 Def / 93 SAtk / 63 SDef / 65 Spd`
+	- `shuppet > banette: level-up (level 37)` → `shuppet > banette: level-up (level 32)`
+
+	**Base Stats Changes:**
+
+	- `64 HP / 115 Atk / 65 Def / 83 SAtk / 63 SDef / 65 Spd` → `64 HP / 125 Atk / 65 Def / 93 SAtk / 63 SDef / 65 Spd`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Black
 
@@ -86,7 +90,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Spell Tag](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spell-tag.png){ .item-sprite } [Spell Tag](../../pokedex/items/spell-tag.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Spell Tag](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spell-tag.png){ .item-sprite } [Spell Tag](../../pokedex/items/spell-tag.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

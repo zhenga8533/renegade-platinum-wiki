@@ -15,9 +15,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Riolu ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
+
+	- `riolu > lucario: level-up (happiness, day)` → `riolu > lucario: level-up (happiness)`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Blue
 
@@ -132,7 +134,7 @@
 
 	**#447 [Riolu](./riolu.md)**
 
-	
+
 
 	***You are here***
 

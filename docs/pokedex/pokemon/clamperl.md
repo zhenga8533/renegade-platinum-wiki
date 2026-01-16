@@ -13,11 +13,17 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Clamperl ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `shell-armor` → `shell-armor / battle-armor`
+	- `clamperl > huntail: trade (held: deep-sea-tooth)` → `clamperl > huntail: use-item (deep-sea-tooth)`
+
+	- `clamperl > gorebyss: trade (held: deep-sea-scale)` → `clamperl > gorebyss: use-item (deep-sea-scale)`
+
+	**Abilities Changes:**
+
+	- `shell-armor` → `shell-armor / battle-armor`
 
 
 ## :material-information: Basic Information
@@ -71,7 +77,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Blue
 
@@ -86,8 +92,8 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Big Pearl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-pearl.png){ .item-sprite } [Big Pearl](../../pokedex/items/big-pearl.md) | — | — | — | — | — |
-| ![Pearl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pearl.png){ .item-sprite } [Pearl](../../pokedex/items/pearl.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Big Pearl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-pearl.png){ .item-sprite } [Big Pearl](../../pokedex/items/big-pearl.md)</span> | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Pearl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pearl.png){ .item-sprite } [Pearl](../../pokedex/items/pearl.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -143,7 +149,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#366 [Clamperl](./clamperl.md)**
 
-	
+
 
 	***You are here***
 

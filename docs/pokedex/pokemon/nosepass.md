@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Nosepass ROM Changes"
 
-    **Base Stats:** `30 HP / 45 Atk / 135 Def / 45 SAtk / 90 SDef / 30 Spd` → `30 HP / 35 Atk / 135 Def / 55 SAtk / 90 SDef / 30 Spd`
+	**Base Stats Changes:**
+
+	- `30 HP / 45 Atk / 135 Def / 45 SAtk / 90 SDef / 30 Spd` → `30 HP / 35 Atk / 135 Def / 55 SAtk / 90 SDef / 30 Spd`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Gray
 
@@ -84,7 +86,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Magnet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magnet.png){ .item-sprite } [Magnet](../../pokedex/items/magnet.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Magnet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magnet.png){ .item-sprite } [Magnet](../../pokedex/items/magnet.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -140,7 +142,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#299 [Nosepass](./nosepass.md)**
 
-	
+
 
 	***You are here***
 

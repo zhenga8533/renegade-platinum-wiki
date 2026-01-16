@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Pidgey ROM Changes"
 
-    **Base Stats:** `40 HP / 45 Atk / 40 Def / 35 SAtk / 35 SDef / 56 Spd` → `40 HP / 35 Atk / 35 Def / 50 SAtk / 35 SDef / 56 Spd`
+	**Base Stats Changes:**
+
+	- `40 HP / 45 Atk / 40 Def / 35 SAtk / 35 SDef / 56 Spd` → `40 HP / 35 Atk / 35 Def / 50 SAtk / 35 SDef / 56 Spd`
 
 
 ## :material-information: Basic Information
@@ -141,7 +143,7 @@
 
 	**#016 [Pidgey](./pidgey.md)**
 
-	
+
 
 	***You are here***
 

@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Sudowoodo ROM Changes"
 
-    **Abilities:** `sturdy / rock-head` → `rock-head / sturdy`
+	**Abilities Changes:**
 
-    **Base Stats:** `70 HP / 100 Atk / 115 Def / 30 SAtk / 65 SDef / 30 Spd` → `90 HP / 115 Atk / 125 Def / 30 SAtk / 75 SDef / 30 Spd`
+	- `sturdy / rock-head` → `rock-head / sturdy`
+
+	**Base Stats Changes:**
+
+	- `70 HP / 100 Atk / 115 Def / 30 SAtk / 65 SDef / 30 Spd` → `90 HP / 115 Atk / 125 Def / 30 SAtk / 75 SDef / 30 Spd`
 
 
 ## :material-information: Basic Information
@@ -74,7 +78,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Brown
 

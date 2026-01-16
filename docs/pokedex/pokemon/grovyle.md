@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Grovyle ROM Changes"
 
-    **Abilities:** `overgrow` → `unburden / overgrow`
+	**Abilities Changes:**
+
+	- `overgrow` → `unburden / overgrow`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Green
 

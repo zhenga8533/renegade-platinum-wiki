@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Smeargle ROM Changes"
 
-    **Abilities:** `own-tempo / technician` → `technician / own-tempo`
+	**Abilities Changes:**
+
+	- `own-tempo / technician` → `technician / own-tempo`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** White
 

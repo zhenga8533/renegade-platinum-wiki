@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Aggron ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `sturdy / rock-head` → `rock-head / sturdy`
+	- `lairon > aggron: unknown` → `lairon > aggron: level-up (level 40)`
+
+	**Abilities Changes:**
+
+	- `sturdy / rock-head` → `rock-head / sturdy`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Gray
 
@@ -86,7 +90,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Hard Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hard-stone.png){ .item-sprite } [Hard Stone](../../pokedex/items/hard-stone.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Hard Stone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hard-stone.png){ .item-sprite } [Hard Stone](../../pokedex/items/hard-stone.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

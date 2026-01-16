@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Poochyena ROM Changes"
 
-    **Base Stats:** `35 HP / 55 Atk / 35 Def / 30 SAtk / 30 SDef / 35 Spd` → `35 HP / 75 Atk / 35 Def / 30 SAtk / 30 SDef / 65 Spd`
+	**Base Stats Changes:**
+
+	- `35 HP / 55 Atk / 35 Def / 30 SAtk / 30 SDef / 35 Spd` → `35 HP / 75 Atk / 35 Def / 30 SAtk / 30 SDef / 65 Spd`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Gray
 
@@ -141,7 +143,7 @@
 
 	**#261 [Poochyena](./poochyena.md)**
 
-	
+
 
 	***You are here***
 

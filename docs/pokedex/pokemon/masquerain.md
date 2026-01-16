@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Masquerain ROM Changes"
 
-    **Base Stats:** `70 HP / 60 Atk / 62 Def / 100 SAtk / 82 SDef / 80 Spd` → `70 HP / 50 Atk / 50 Def / 110 SAtk / 100 SDef / 100 Spd`
+	**Base Stats Changes:**
 
-    **Type:** `bug / flying` → `bug / water`
+	- `70 HP / 60 Atk / 62 Def / 100 SAtk / 82 SDef / 80 Spd` → `70 HP / 50 Atk / 50 Def / 110 SAtk / 100 SDef / 100 Spd`
+
+	**Type Changes:**
+
+	- `bug / flying` → `bug / water`
 
 
 ## :material-information: Basic Information
@@ -70,7 +74,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Blue
 
@@ -85,7 +89,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Silver Powder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-powder.png){ .item-sprite } [Silver Powder](../../pokedex/items/silver-powder.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Silver Powder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-powder.png){ .item-sprite } [Silver Powder](../../pokedex/items/silver-powder.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

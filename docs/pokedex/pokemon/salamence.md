@@ -62,7 +62,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Blue
 
@@ -77,7 +77,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Dragon Fang](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-fang.png){ .item-sprite } [Dragon Fang](../../pokedex/items/dragon-fang.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Dragon Fang](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-fang.png){ .item-sprite } [Dragon Fang](../../pokedex/items/dragon-fang.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

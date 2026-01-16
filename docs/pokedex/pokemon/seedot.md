@@ -63,7 +63,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Brown
 
@@ -78,7 +78,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Power Herb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-herb.png){ .item-sprite } [Power Herb](../../pokedex/items/power-herb.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Power Herb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-herb.png){ .item-sprite } [Power Herb](../../pokedex/items/power-herb.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -134,7 +134,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#273 [Seedot](./seedot.md)**
 
-	
+
 
 	***You are here***
 

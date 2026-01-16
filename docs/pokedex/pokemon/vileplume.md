@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Vileplume ROM Changes"
 
-    **Abilities:** `chlorophyll` → `chlorophyll / effect-spore`
+	**Abilities Changes:**
+
+	- `chlorophyll` → `chlorophyll / effect-spore`
 
 
 ## :material-information: Basic Information

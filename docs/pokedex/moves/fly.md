@@ -1,11 +1,15 @@
 # Fly
 
 
-!!! info "ROM Changes
+??? note "Fly ROM Changes"
 
-    **Power:** `90` → `100`
+	**Power Changes:**
 
-    **Accuracy:** `95` → `100`
+	- `90` → `100`
+
+	**Accuracy Changes:**
+
+	- `95` → `100`
 
 
 ## :material-chart-box: Stats

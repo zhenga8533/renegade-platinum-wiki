@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Finneon ROM Changes"
 
-    **Base Stats:** `49 HP / 49 Atk / 56 Def / 49 SAtk / 61 SDef / 66 Spd` → `50 HP / 30 Atk / 60 Def / 60 SAtk / 60 SDef / 70 Spd`
+	**Base Stats Changes:**
+
+	- `49 HP / 49 Atk / 56 Def / 49 SAtk / 61 SDef / 66 Spd` → `50 HP / 30 Atk / 60 Def / 60 SAtk / 60 SDef / 70 Spd`
 
 
 ## :material-information: Basic Information
@@ -70,7 +72,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Blue
 
@@ -133,7 +135,7 @@
 
 	**#456 [Finneon](./finneon.md)**
 
-	
+
 
 	***You are here***
 

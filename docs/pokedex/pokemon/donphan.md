@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Donphan ROM Changes"
 
-    **Abilities:** `sturdy` → `sand-veil / sturdy`
+	**Abilities Changes:**
+
+	- `sturdy` → `sand-veil / sturdy`
 
 
 ## :material-information: Basic Information
@@ -71,7 +73,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Gray
 

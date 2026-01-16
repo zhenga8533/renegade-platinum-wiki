@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Rapidash ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `run-away / flash-fire` → `flame-body / flash-fire`
+	- `ponyta > rapidash: level-up (level 40)` → `ponyta > rapidash: level-up (level 35)`
+
+	**Abilities Changes:**
+
+	- `run-away / flash-fire` → `flame-body / flash-fire`
 
 
 ## :material-information: Basic Information

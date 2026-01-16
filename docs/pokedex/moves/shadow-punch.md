@@ -1,11 +1,15 @@
 # Shadow Punch
 
 
-!!! info "ROM Changes
+??? note "Shadow Punch ROM Changes"
 
-    **Power:** `60` → `80`
+	**Power Changes:**
 
-    **Pp:** `20` → `15`
+	- `60` → `80`
+
+	**Pp Changes:**
+
+	- `20` → `15`
 
 
 ## :material-chart-box: Stats

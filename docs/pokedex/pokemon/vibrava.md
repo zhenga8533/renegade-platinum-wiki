@@ -13,17 +13,27 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Vibrava ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `levitate` → `compound-eyes / levitate`
+	- `trapinch > vibrava: level-up (level 35)` → `trapinch > vibrava: level-up (level 30)`
 
-    **Base Stats:** `50 HP / 70 Atk / 50 Def / 50 SAtk / 50 SDef / 70 Spd` → `60 HP / 80 Atk / 55 Def / 90 SAtk / 55 SDef / 70 Spd`
+	**Abilities Changes:**
 
-    **EV Yield:** `1 Atk, 1 Spd` → `2 SAtk`
+	- `levitate` → `compound-eyes / levitate`
 
-    **Type:** `ground / dragon` → `bug / dragon`
+	**Base Stats Changes:**
+
+	- `50 HP / 70 Atk / 50 Def / 50 SAtk / 50 SDef / 70 Spd` → `60 HP / 80 Atk / 55 Def / 90 SAtk / 55 SDef / 70 Spd`
+
+	**EV Yield Changes:**
+
+	- `1 Atk, 1 Spd` → `2 SAtk`
+
+	**Type Changes:**
+
+	- `ground / dragon` → `bug / dragon`
 
 
 ## :material-information: Basic Information
@@ -77,7 +87,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Green
 

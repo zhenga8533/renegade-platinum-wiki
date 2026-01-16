@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Corphish ROM Changes"
 
-    **Abilities:** `hyper-cutter / shell-armor` → `adaptability / hyper-cutter`
+	**Abilities Changes:**
+
+	- `hyper-cutter / shell-armor` → `adaptability / hyper-cutter`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Red
 
@@ -132,7 +134,7 @@
 
 	**#341 [Corphish](./corphish.md)**
 
-	
+
 
 	***You are here***
 

@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Venusaur ROM Changes"
 
-    **Abilities:** `overgrow` → `thick-fat / overgrow`
+	**Abilities Changes:**
 
-    **Base Stats:** `80 HP / 82 Atk / 83 Def / 100 SAtk / 100 SDef / 80 Spd` → `80 HP / 82 Atk / 83 Def / 110 SAtk / 100 SDef / 80 Spd`
+	- `overgrow` → `thick-fat / overgrow`
+
+	**Base Stats Changes:**
+
+	- `80 HP / 82 Atk / 83 Def / 100 SAtk / 100 SDef / 80 Spd` → `80 HP / 82 Atk / 83 Def / 110 SAtk / 100 SDef / 80 Spd`
 
 
 ## :material-information: Basic Information

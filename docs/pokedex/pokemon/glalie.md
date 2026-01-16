@@ -13,15 +13,23 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Glalie ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `inner-focus / ice-body` → `levitate / ice-body`
+	- `snorunt > glalie: level-up (level 42)` → `snorunt > glalie: level-up (level 32)`
 
-    **Base Stats:** `80 HP / 80 Atk / 80 Def / 80 SAtk / 80 SDef / 80 Spd` → `80 HP / 110 Atk / 110 Def / 60 SAtk / 60 SDef / 80 Spd`
+	**Abilities Changes:**
 
-    **Type:** `ice` → `ice / rock`
+	- `inner-focus / ice-body` → `levitate / ice-body`
+
+	**Base Stats Changes:**
+
+	- `80 HP / 80 Atk / 80 Def / 80 SAtk / 80 SDef / 80 Spd` → `80 HP / 110 Atk / 110 Def / 60 SAtk / 60 SDef / 80 Spd`
+
+	**Type Changes:**
+
+	- `ice` → `ice / rock`
 
 
 ## :material-information: Basic Information
@@ -75,7 +83,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Gray
 

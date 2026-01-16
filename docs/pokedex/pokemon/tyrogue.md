@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Tyrogue ROM Changes"
 
-    **Abilities:** `guts / steadfast` → `steadfast / guts`
+	**Abilities Changes:**
+
+	- `guts / steadfast` → `steadfast / guts`
 
 
 ## :material-information: Basic Information
@@ -70,7 +72,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Purple
 
@@ -133,7 +135,7 @@
 
 	**#236 [Tyrogue](./tyrogue.md)**
 
-	
+
 
 	***You are here***
 

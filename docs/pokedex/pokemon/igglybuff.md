@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Igglybuff ROM Changes"
 
-    **Abilities:** `cute-charm` → `cute-charm / magic-guard`
+	**Abilities Changes:**
 
-    **Base Happiness:** `70` → `180`
+	- `cute-charm` → `cute-charm / magic-guard`
+
+	**Base Happiness Changes:**
+
+	- `70` → `180`
 
 
 ## :material-information: Basic Information
@@ -72,7 +76,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Pink
 
@@ -144,7 +148,7 @@
 
 	**#174 [Igglybuff](./igglybuff.md)**
 
-	
+
 
 	***You are here***
 

@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Quagsire ROM Changes"
 
-    **Abilities:** `damp / water-absorb` → `water-absorb / unaware`
+	**Abilities Changes:**
 
-    **Base Stats:** `95 HP / 85 Atk / 85 Def / 65 SAtk / 65 SDef / 35 Spd` → `95 HP / 95 Atk / 95 Def / 65 SAtk / 65 SDef / 35 Spd`
+	- `damp / water-absorb` → `water-absorb / unaware`
+
+	**Base Stats Changes:**
+
+	- `95 HP / 85 Atk / 85 Def / 65 SAtk / 65 SDef / 35 Spd` → `95 HP / 95 Atk / 95 Def / 65 SAtk / 65 SDef / 35 Spd`
 
 
 ## :material-information: Basic Information
@@ -74,7 +78,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Blue
 

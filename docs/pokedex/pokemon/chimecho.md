@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Chimecho ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Base Stats:** `75 HP / 50 Atk / 80 Def / 95 SAtk / 90 SDef / 65 Spd` → `75 HP / 40 Atk / 80 Def / 110 SAtk / 100 SDef / 65 Spd`
+	- `chingling > chimecho: level-up (happiness, night)` → `chingling > chimecho: level-up (happiness)`
+
+	**Base Stats Changes:**
+
+	- `75 HP / 50 Atk / 80 Def / 95 SAtk / 90 SDef / 65 Spd` → `75 HP / 40 Atk / 80 Def / 110 SAtk / 100 SDef / 65 Spd`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Blue
 
@@ -86,7 +90,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Cleanse Tag](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cleanse-tag.png){ .item-sprite } [Cleanse Tag](../../pokedex/items/cleanse-tag.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Cleanse Tag](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cleanse-tag.png){ .item-sprite } [Cleanse Tag](../../pokedex/items/cleanse-tag.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

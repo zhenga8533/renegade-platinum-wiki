@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Charmander ROM Changes"
 
-    **Abilities:** `blaze` → `solar-power / blaze`
+	**Abilities Changes:**
+
+	- `blaze` → `solar-power / blaze`
 
 
 ## :material-information: Basic Information
@@ -132,7 +134,7 @@
 
 	**#004 [Charmander](./charmander.md)**
 
-	
+
 
 	***You are here***
 

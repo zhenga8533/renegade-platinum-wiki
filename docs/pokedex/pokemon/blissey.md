@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Blissey ROM Changes"
 
-    **Abilities:** `natural-cure / serene-grace` → `serene-grace / natural-cure`
+	**Abilities Changes:**
+
+	- `natural-cure / serene-grace` → `serene-grace / natural-cure`
 
 
 ## :material-information: Basic Information
@@ -70,7 +72,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Pink
 
@@ -85,7 +87,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Lucky Egg](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucky-egg.png){ .item-sprite } [Lucky Egg](../../pokedex/items/lucky-egg.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Lucky Egg](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucky-egg.png){ .item-sprite } [Lucky Egg](../../pokedex/items/lucky-egg.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

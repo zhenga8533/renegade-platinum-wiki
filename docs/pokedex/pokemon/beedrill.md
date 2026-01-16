@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Beedrill ROM Changes"
 
-    **Abilities:** `swarm` → `adaptability / swarm`
+	**Abilities Changes:**
 
-    **Base Stats:** `65 HP / 90 Atk / 40 Def / 45 SAtk / 80 SDef / 75 Spd` → `65 HP / 115 Atk / 40 Def / 40 SAtk / 95 SDef / 95 Spd`
+	- `swarm` → `adaptability / swarm`
+
+	**Base Stats Changes:**
+
+	- `65 HP / 90 Atk / 40 Def / 45 SAtk / 80 SDef / 75 Spd` → `65 HP / 115 Atk / 40 Def / 40 SAtk / 95 SDef / 95 Spd`
 
 
 ## :material-information: Basic Information
@@ -86,7 +90,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Poison Barb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-barb.png){ .item-sprite } [Poison Barb](../../pokedex/items/poison-barb.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Poison Barb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-barb.png){ .item-sprite } [Poison Barb](../../pokedex/items/poison-barb.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

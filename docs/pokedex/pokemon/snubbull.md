@@ -63,7 +63,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Pink
 
@@ -135,7 +135,7 @@
 
 	**#209 [Snubbull](./snubbull.md)**
 
-	
+
 
 	***You are here***
 

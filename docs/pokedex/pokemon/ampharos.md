@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Ampharos ROM Changes"
 
-    **Type:** `electric` → `electric / dragon`
+	**Type Changes:**
+
+	- `electric` → `electric / dragon`
 
 
 ## :material-information: Basic Information
@@ -68,7 +70,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Yellow
 

@@ -13,13 +13,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Trapinch ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Base Stats:** `45 HP / 100 Atk / 45 Def / 45 SAtk / 45 SDef / 10 Spd` → `55 HP / 100 Atk / 45 Def / 45 SAtk / 45 SDef / 10 Spd`
+	- `trapinch > vibrava: level-up (level 35)` → `trapinch > vibrava: level-up (level 30)`
 
-    **Type:** `ground` → `bug / ground`
+	**Base Stats Changes:**
+
+	- `45 HP / 100 Atk / 45 Def / 45 SAtk / 45 SDef / 10 Spd` → `55 HP / 100 Atk / 45 Def / 45 SAtk / 45 SDef / 10 Spd`
+
+	**Type Changes:**
+
+	- `ground` → `bug / ground`
 
 
 ## :material-information: Basic Information
@@ -73,7 +79,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Brown
 
@@ -88,7 +94,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Soft Sand](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soft-sand.png){ .item-sprite } [Soft Sand](../../pokedex/items/soft-sand.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Soft Sand](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soft-sand.png){ .item-sprite } [Soft Sand](../../pokedex/items/soft-sand.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -153,7 +159,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#328 [Trapinch](./trapinch.md)**
 
-	
+
 
 	***You are here***
 

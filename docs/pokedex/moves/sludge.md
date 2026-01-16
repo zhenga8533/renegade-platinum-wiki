@@ -1,11 +1,15 @@
 # Sludge
 
 
-!!! info "ROM Changes
+??? note "Sludge ROM Changes"
 
-    **Power:** `65` → `75`
+	**Power Changes:**
 
-    **Pp:** `20` → `15`
+	- `65` → `75`
+
+	**Pp Changes:**
+
+	- `20` → `15`
 
 
 ## :material-chart-box: Stats

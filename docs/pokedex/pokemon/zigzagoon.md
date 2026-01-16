@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Zigzagoon ROM Changes"
 
-    **Base Stats:** `38 HP / 30 Atk / 41 Def / 30 SAtk / 41 SDef / 60 Spd` → `38 HP / 40 Atk / 41 Def / 30 SAtk / 41 SDef / 60 Spd`
+	**Base Stats Changes:**
+
+	- `38 HP / 30 Atk / 41 Def / 30 SAtk / 41 SDef / 60 Spd` → `38 HP / 40 Atk / 41 Def / 30 SAtk / 41 SDef / 60 Spd`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Brown
 
@@ -84,8 +86,8 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Potion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/potion.png){ .item-sprite } [Potion](../../pokedex/items/potion.md) | — | — | — | — | — |
-| ![Revive](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/revive.png){ .item-sprite } [Revive](../../pokedex/items/revive.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Potion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/potion.png){ .item-sprite } [Potion](../../pokedex/items/potion.md)</span> | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Revive](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/revive.png){ .item-sprite } [Revive](../../pokedex/items/revive.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -141,7 +143,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#263 [Zigzagoon](./zigzagoon.md)**
 
-	
+
 
 	***You are here***
 

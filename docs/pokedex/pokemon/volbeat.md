@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Volbeat ROM Changes"
 
-    **Abilities:** `illuminate / swarm` → `swarm / illuminate`
+	**Abilities Changes:**
 
-    **Type:** `bug` → `bug / electric`
+	- `illuminate / swarm` → `swarm / illuminate`
+
+	**Type Changes:**
+
+	- `bug` → `bug / electric`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Gray
 
@@ -86,7 +90,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Bright Powder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png){ .item-sprite } [Bright Powder](../../pokedex/items/bright-powder.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Bright Powder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png){ .item-sprite } [Bright Powder](../../pokedex/items/bright-powder.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

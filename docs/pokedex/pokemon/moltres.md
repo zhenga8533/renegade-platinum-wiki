@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Moltres ROM Changes"
 
-    **Abilities:** `pressure` → `pressure / flame-body`
+	**Abilities Changes:**
+
+	- `pressure` → `pressure / flame-body`
 
 
 ## :material-information: Basic Information

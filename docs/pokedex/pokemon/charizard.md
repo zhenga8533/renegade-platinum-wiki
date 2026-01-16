@@ -13,13 +13,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Charizard ROM Changes"
 
-    **Abilities:** `blaze` → `levitate / blaze`
+	**Abilities Changes:**
 
-    **Base Stats:** `78 HP / 84 Atk / 78 Def / 109 SAtk / 85 SDef / 100 Spd` → `78 HP / 84 Atk / 78 Def / 110 SAtk / 85 SDef / 100 Spd`
+	- `blaze` → `levitate / blaze`
 
-    **Type:** `fire / flying` → `fire / dragon`
+	**Base Stats Changes:**
+
+	- `78 HP / 84 Atk / 78 Def / 109 SAtk / 85 SDef / 100 Spd` → `78 HP / 84 Atk / 78 Def / 110 SAtk / 85 SDef / 100 Spd`
+
+	**Type Changes:**
+
+	- `fire / flying` → `fire / dragon`
 
 
 ## :material-information: Basic Information

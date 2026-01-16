@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Hitmontop ROM Changes"
 
-    **Abilities:** `intimidate / technician` → `technician / intimidate`
+	**Abilities Changes:**
+
+	- `intimidate / technician` → `technician / intimidate`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Brown
 

@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Numel ROM Changes"
 
-    **Abilities:** `oblivious / simple` → `simple / oblivious`
+	**Abilities Changes:**
+
+	- `oblivious / simple` → `simple / oblivious`
 
 
 ## :material-information: Basic Information
@@ -71,7 +73,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Yellow
 
@@ -148,7 +150,7 @@
 
 	**#322 [Numel](./numel.md)**
 
-	
+
 
 	***You are here***
 

@@ -15,9 +15,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Uxie ROM Changes"
 
-    **Type:** `psychic` → `psychic / fairy`
+	**Type Changes:**
+
+	- `psychic` → `psychic / fairy`
 
 
 ## :material-information: Basic Information
@@ -68,7 +70,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Yellow
 

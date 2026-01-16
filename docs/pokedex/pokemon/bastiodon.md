@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Bastiodon ROM Changes"
 
-    **Abilities:** `sturdy` → `soundproof / sturdy`
+	**Abilities Changes:**
 
-    **Base Stats:** `60 HP / 52 Atk / 168 Def / 47 SAtk / 138 SDef / 30 Spd` → `60 HP / 72 Atk / 168 Def / 27 SAtk / 138 SDef / 30 Spd`
+	- `sturdy` → `soundproof / sturdy`
+
+	**Base Stats Changes:**
+
+	- `60 HP / 52 Atk / 168 Def / 47 SAtk / 138 SDef / 30 Spd` → `60 HP / 72 Atk / 168 Def / 27 SAtk / 138 SDef / 30 Spd`
 
 
 ## :material-information: Basic Information
@@ -70,7 +74,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Gray
 

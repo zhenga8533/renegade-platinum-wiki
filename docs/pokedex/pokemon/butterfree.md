@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Butterfree ROM Changes"
 
-    **Abilities:** `compound-eyes` → `tinted-lens / compound-eyes`
+	**Abilities Changes:**
 
-    **Base Stats:** `60 HP / 45 Atk / 50 Def / 90 SAtk / 80 SDef / 70 Spd` → `60 HP / 45 Atk / 45 Def / 110 SAtk / 100 SDef / 90 Spd`
+	- `compound-eyes` → `tinted-lens / compound-eyes`
+
+	**Base Stats Changes:**
+
+	- `60 HP / 45 Atk / 50 Def / 90 SAtk / 80 SDef / 70 Spd` → `60 HP / 45 Atk / 45 Def / 110 SAtk / 100 SDef / 90 Spd`
 
 
 ## :material-information: Basic Information
@@ -88,7 +92,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Silver Powder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-powder.png){ .item-sprite } [Silver Powder](../../pokedex/items/silver-powder.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Silver Powder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-powder.png){ .item-sprite } [Silver Powder](../../pokedex/items/silver-powder.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

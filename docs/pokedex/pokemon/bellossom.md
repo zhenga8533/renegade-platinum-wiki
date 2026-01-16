@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Bellossom ROM Changes"
 
-    **Abilities:** `chlorophyll` → `chlorophyll / own-tempo`
+	**Abilities Changes:**
+
+	- `chlorophyll` → `chlorophyll / own-tempo`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Green
 

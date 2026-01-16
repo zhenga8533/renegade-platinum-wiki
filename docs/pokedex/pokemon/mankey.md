@@ -126,7 +126,7 @@
 
 	**#056 [Mankey](./mankey.md)**
 
-	
+
 
 	***You are here***
 

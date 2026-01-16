@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Raichu ROM Changes"
 
-    **Abilities:** `static` → `static / lightning-rod`
+	**Abilities Changes:**
 
-    **Base Stats:** `60 HP / 90 Atk / 55 Def / 90 SAtk / 80 SDef / 110 Spd` → `60 HP / 95 Atk / 55 Def / 95 SAtk / 80 SDef / 110 Spd`
+	- `static` → `static / lightning-rod`
+
+	**Base Stats Changes:**
+
+	- `60 HP / 90 Atk / 55 Def / 90 SAtk / 80 SDef / 110 Spd` → `60 HP / 95 Atk / 55 Def / 95 SAtk / 80 SDef / 110 Spd`
 
 
 ## :material-information: Basic Information

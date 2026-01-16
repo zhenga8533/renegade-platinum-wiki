@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Mudkip ROM Changes"
 
-    **Abilities:** `torrent` → `torrent / damp`
+	**Abilities Changes:**
+
+	- `torrent` → `torrent / damp`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Blue
 
@@ -132,7 +134,7 @@
 
 	**#258 [Mudkip](./mudkip.md)**
 
-	
+
 
 	***You are here***
 

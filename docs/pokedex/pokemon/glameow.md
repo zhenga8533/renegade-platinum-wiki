@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Glameow ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Base Stats:** `49 HP / 55 Atk / 42 Def / 42 SAtk / 37 SDef / 85 Spd` → `50 HP / 65 Atk / 45 Def / 45 SAtk / 40 SDef / 90 Spd`
+	- `glameow > purugly: level-up (level 38)` → `glameow > purugly: level-up (level 32)`
+
+	**Base Stats Changes:**
+
+	- `49 HP / 55 Atk / 42 Def / 42 SAtk / 37 SDef / 85 Spd` → `50 HP / 65 Atk / 45 Def / 45 SAtk / 40 SDef / 90 Spd`
 
 
 ## :material-information: Basic Information
@@ -70,7 +74,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Gray
 
@@ -133,7 +137,7 @@
 
 	**#431 [Glameow](./glameow.md)**
 
-	
+
 
 	***You are here***
 

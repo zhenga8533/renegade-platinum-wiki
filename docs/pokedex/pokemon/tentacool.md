@@ -79,7 +79,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Poison Barb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-barb.png){ .item-sprite } [Poison Barb](../../pokedex/items/poison-barb.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Poison Barb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-barb.png){ .item-sprite } [Poison Barb](../../pokedex/items/poison-barb.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -135,7 +135,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#072 [Tentacool](./tentacool.md)**
 
-	
+
 
 	***You are here***
 

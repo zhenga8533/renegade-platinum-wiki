@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Minun ROM Changes"
 
-    **Abilities:** `minus` → `minus / volt-absorb`
+	**Abilities Changes:**
 
-    **Base Stats:** `60 HP / 40 Atk / 50 Def / 75 SAtk / 85 SDef / 95 Spd` → `60 HP / 50 Atk / 50 Def / 85 SAtk / 95 SDef / 110 Spd`
+	- `minus` → `minus / volt-absorb`
+
+	**Base Stats Changes:**
+
+	- `60 HP / 40 Atk / 50 Def / 75 SAtk / 85 SDef / 95 Spd` → `60 HP / 50 Atk / 50 Def / 85 SAtk / 95 SDef / 110 Spd`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Yellow
 

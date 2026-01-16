@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Marill ROM Changes"
 
-    **Abilities:** `thick-fat / huge-power` → `huge-power / thick-fat`
+	**Abilities Changes:**
 
-    **Base Stats:** `70 HP / 20 Atk / 50 Def / 20 SAtk / 50 SDef / 40 Spd` → `70 HP / 20 Atk / 50 Def / 40 SAtk / 50 SDef / 40 Spd`
+	- `thick-fat / huge-power` → `huge-power / thick-fat`
+
+	**Base Stats Changes:**
+
+	- `70 HP / 20 Atk / 50 Def / 20 SAtk / 50 SDef / 40 Spd` → `70 HP / 20 Atk / 50 Def / 40 SAtk / 50 SDef / 40 Spd`
 
 
 ## :material-information: Basic Information
@@ -72,7 +76,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Blue
 

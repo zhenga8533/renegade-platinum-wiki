@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Whismur ROM Changes"
 
-    **Abilities:** `soundproof` → `soundproof / scrappy`
+	**Abilities Changes:**
+
+	- `soundproof` → `soundproof / scrappy`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Pink
 
@@ -132,7 +134,7 @@
 
 	**#293 [Whismur](./whismur.md)**
 
-	
+
 
 	***You are here***
 

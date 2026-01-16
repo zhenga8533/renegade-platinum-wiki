@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Meowth ROM Changes"
 
-    **Abilities:** `pickup / technician` → `technician / pickup`
+	**Abilities Changes:**
+
+	- `pickup / technician` → `technician / pickup`
 
 
 ## :material-information: Basic Information
@@ -84,7 +86,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Quick Claw](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-claw.png){ .item-sprite } [Quick Claw](../../pokedex/items/quick-claw.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Quick Claw](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-claw.png){ .item-sprite } [Quick Claw](../../pokedex/items/quick-claw.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -140,7 +142,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#052 [Meowth](./meowth.md)**
 
-	
+
 
 	***You are here***
 

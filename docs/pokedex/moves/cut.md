@@ -1,15 +1,23 @@
 # Cut
 
 
-!!! info "ROM Changes
+??? note "Cut ROM Changes"
 
-    **Power:** `50` → `60`
+	**Power Changes:**
 
-    **Accuracy:** `95` → `100`
+	- `50` → `60`
 
-    **Pp:** `30` → `25`
+	**Accuracy Changes:**
 
-    **Type:** `normal` → `grass`
+	- `95` → `100`
+
+	**Pp Changes:**
+
+	- `30` → `25`
+
+	**Type Changes:**
+
+	- `normal` → `grass`
 
 
 ## :material-chart-box: Stats

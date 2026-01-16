@@ -13,11 +13,21 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Flareon ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Base Stats:** `65 HP / 130 Atk / 60 Def / 95 SAtk / 110 SDef / 65 Spd` → `110 HP / 130 Atk / 60 Def / 65 SAtk / 65 SDef / 95 Spd`
+	- `eevee > espeon: level-up (happiness, day)` → `eevee > espeon: use-item (sun-stone)`
+
+	- `eevee > umbreon: level-up (happiness, night)` → `eevee > umbreon: use-item (moon-stone)`
+
+	- `eevee > leafeon: level-up (at eterna-forest)` → `eevee > leafeon: use-item (leaf-stone)`
+
+	- `eevee > glaceon: level-up (at sinnoh-route-217)` → `eevee > glaceon: use-item (ice-stone)`
+
+	**Base Stats Changes:**
+
+	- `65 HP / 130 Atk / 60 Def / 95 SAtk / 110 SDef / 65 Spd` → `110 HP / 130 Atk / 60 Def / 65 SAtk / 65 SDef / 95 Spd`
 
 
 ## :material-information: Basic Information

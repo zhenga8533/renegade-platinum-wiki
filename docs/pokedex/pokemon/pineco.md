@@ -62,7 +62,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Gray
 
@@ -125,7 +125,7 @@
 
 	**#204 [Pineco](./pineco.md)**
 
-	
+
 
 	***You are here***
 

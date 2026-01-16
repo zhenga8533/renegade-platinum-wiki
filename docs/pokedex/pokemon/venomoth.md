@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Venomoth ROM Changes"
 
-    **Abilities:** `shield-dust / tinted-lens` → `tinted-lens / shield-dust`
+	**Abilities Changes:**
 
-    **Base Stats:** `70 HP / 65 Atk / 60 Def / 90 SAtk / 75 SDef / 90 Spd` → `70 HP / 55 Atk / 60 Def / 100 SAtk / 75 SDef / 90 Spd`
+	- `shield-dust / tinted-lens` → `tinted-lens / shield-dust`
+
+	**Base Stats Changes:**
+
+	- `70 HP / 65 Atk / 60 Def / 90 SAtk / 75 SDef / 90 Spd` → `70 HP / 55 Atk / 60 Def / 100 SAtk / 75 SDef / 90 Spd`
 
 
 ## :material-information: Basic Information
@@ -86,7 +90,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Shed Shell](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shed-shell.png){ .item-sprite } [Shed Shell](../../pokedex/items/shed-shell.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Shed Shell](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shed-shell.png){ .item-sprite } [Shed Shell](../../pokedex/items/shed-shell.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

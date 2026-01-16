@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Weavile ROM Changes"
 
-    **Abilities:** `pressure` → `technician / pressure`
+	**Abilities Changes:**
+
+	- `pressure` → `technician / pressure`
 
 
 ## :material-information: Basic Information
@@ -70,7 +72,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Black
 
@@ -85,7 +87,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Quick Claw](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-claw.png){ .item-sprite } [Quick Claw](../../pokedex/items/quick-claw.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Quick Claw](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-claw.png){ .item-sprite } [Quick Claw](../../pokedex/items/quick-claw.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Spinarak ROM Changes"
 
-    **Base Stats:** `40 HP / 60 Atk / 40 Def / 40 SAtk / 40 SDef / 30 Spd` → `40 HP / 70 Atk / 40 Def / 40 SAtk / 40 SDef / 45 Spd`
+	**Base Stats Changes:**
+
+	- `40 HP / 60 Atk / 40 Def / 40 SAtk / 40 SDef / 30 Spd` → `40 HP / 70 Atk / 40 Def / 40 SAtk / 40 SDef / 45 Spd`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Green
 
@@ -137,7 +139,7 @@
 
 	**#167 [Spinarak](./spinarak.md)**
 
-	
+
 
 	***You are here***
 

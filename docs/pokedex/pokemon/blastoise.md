@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Blastoise ROM Changes"
 
-    **Abilities:** `torrent` → `drizzle / torrent`
+	**Abilities Changes:**
 
-    **Base Stats:** `79 HP / 83 Atk / 100 Def / 85 SAtk / 105 SDef / 78 Spd` → `79 HP / 83 Atk / 100 Def / 90 SAtk / 105 SDef / 78 Spd`
+	- `torrent` → `drizzle / torrent`
+
+	**Base Stats Changes:**
+
+	- `79 HP / 83 Atk / 100 Def / 85 SAtk / 105 SDef / 78 Spd` → `79 HP / 83 Atk / 100 Def / 90 SAtk / 105 SDef / 78 Spd`
 
 
 ## :material-information: Basic Information

@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Burmy ROM Changes"
 
-    **Abilities:** `shed-skin` → `battle-armor / shed-skin`
+	**Abilities Changes:**
 
-    **Base Stats:** `40 HP / 29 Atk / 45 Def / 29 SAtk / 45 SDef / 36 Spd` → `40 HP / 20 Atk / 45 Def / 45 SAtk / 45 SDef / 30 Spd`
+	- `shed-skin` → `battle-armor / shed-skin`
+
+	**Base Stats Changes:**
+
+	- `40 HP / 29 Atk / 45 Def / 29 SAtk / 45 SDef / 36 Spd` → `40 HP / 20 Atk / 45 Def / 45 SAtk / 45 SDef / 30 Spd`
 
 
 ## :material-information: Basic Information
@@ -70,7 +74,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Green
 
@@ -133,7 +137,7 @@
 
 	**#412 [Burmy](./burmy.md)**
 
-	
+
 
 	***You are here***
 

@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Chikorita ROM Changes"
 
-    **Abilities:** `overgrow` → `serene-grace / overgrow`
+	**Abilities Changes:**
+
+	- `overgrow` → `serene-grace / overgrow`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Green
 
@@ -132,7 +134,7 @@
 
 	**#152 [Chikorita](./chikorita.md)**
 
-	
+
 
 	***You are here***
 

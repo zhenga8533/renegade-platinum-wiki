@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Wartortle ROM Changes"
 
-    **Abilities:** `torrent` → `rain-dish / torrent`
+	**Abilities Changes:**
+
+	- `torrent` → `rain-dish / torrent`
 
 
 ## :material-information: Basic Information

@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Carnivine ROM Changes"
 
-    **Base Stats:** `74 HP / 100 Atk / 72 Def / 90 SAtk / 72 SDef / 46 Spd` → `74 HP / 110 Atk / 72 Def / 100 SAtk / 72 SDef / 36 Spd`
+	**Base Stats Changes:**
+
+	- `74 HP / 100 Atk / 72 Def / 90 SAtk / 72 SDef / 46 Spd` → `74 HP / 110 Atk / 72 Def / 100 SAtk / 72 SDef / 36 Spd`
 
 
 ## :material-information: Basic Information
@@ -67,7 +69,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Green
 

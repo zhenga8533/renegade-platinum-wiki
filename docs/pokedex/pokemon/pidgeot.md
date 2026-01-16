@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Pidgeot ROM Changes"
 
-    **Abilities:** `keen-eye / tangled-feet` → `no-guard / tangled-feet`
+	**Abilities Changes:**
 
-    **Base Stats:** `83 HP / 80 Atk / 75 Def / 70 SAtk / 70 SDef / 101 Spd` → `83 HP / 60 Atk / 70 Def / 115 SAtk / 70 SDef / 101 Spd`
+	- `keen-eye / tangled-feet` → `no-guard / tangled-feet`
+
+	**Base Stats Changes:**
+
+	- `83 HP / 80 Atk / 75 Def / 70 SAtk / 70 SDef / 101 Spd` → `83 HP / 60 Atk / 70 Def / 115 SAtk / 70 SDef / 101 Spd`
 
 
 ## :material-information: Basic Information

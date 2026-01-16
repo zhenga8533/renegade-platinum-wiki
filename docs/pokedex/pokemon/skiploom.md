@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Skiploom ROM Changes"
 
-    **Base Stats:** `55 HP / 45 Atk / 50 Def / 45 SAtk / 65 SDef / 80 Spd` → `55 HP / 45 Atk / 50 Def / 65 SAtk / 65 SDef / 80 Spd`
+	**Base Stats Changes:**
+
+	- `55 HP / 45 Atk / 50 Def / 45 SAtk / 65 SDef / 80 Spd` → `55 HP / 45 Atk / 50 Def / 65 SAtk / 65 SDef / 80 Spd`
 
 
 ## :material-information: Basic Information
@@ -69,7 +71,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Green
 

@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Dodrio ROM Changes"
 
-    **Abilities:** `run-away / early-bird` → `tangled-feet / early-bird`
+	**Abilities Changes:**
+
+	- `run-away / early-bird` → `tangled-feet / early-bird`
 
 
 ## :material-information: Basic Information
@@ -86,7 +88,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Sharp Beak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sharp-beak.png){ .item-sprite } [Sharp Beak](../../pokedex/items/sharp-beak.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Sharp Beak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sharp-beak.png){ .item-sprite } [Sharp Beak](../../pokedex/items/sharp-beak.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

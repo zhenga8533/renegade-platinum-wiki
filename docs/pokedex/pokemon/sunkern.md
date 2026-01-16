@@ -63,7 +63,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Yellow
 
@@ -126,7 +126,7 @@
 
 	**#191 [Sunkern](./sunkern.md)**
 
-	
+
 
 	***You are here***
 

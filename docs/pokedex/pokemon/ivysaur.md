@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Ivysaur ROM Changes"
 
-    **Abilities:** `overgrow` → `chlorophyll / overgrow`
+	**Abilities Changes:**
+
+	- `overgrow` → `chlorophyll / overgrow`
 
 
 ## :material-information: Basic Information

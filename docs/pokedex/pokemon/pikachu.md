@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Pikachu ROM Changes"
 
-    **Abilities:** `static` → `static / lightning-rod`
+	**Abilities Changes:**
+
+	- `static` → `static / lightning-rod`
 
 
 ## :material-information: Basic Information
@@ -87,7 +89,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Light Ball](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-ball.png){ .item-sprite } [Light Ball](../../pokedex/items/light-ball.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Light Ball](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-ball.png){ .item-sprite } [Light Ball](../../pokedex/items/light-ball.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

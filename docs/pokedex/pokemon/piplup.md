@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Piplup ROM Changes"
 
-    **Abilities:** `torrent` → `torrent / vital-spirit`
+	**Abilities Changes:**
+
+	- `torrent` → `torrent / vital-spirit`
 
 
 ## :material-information: Basic Information
@@ -68,7 +70,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Blue
 
@@ -131,7 +133,7 @@
 
 	**#393 [Piplup](./piplup.md)**
 
-	
+
 
 	***You are here***
 

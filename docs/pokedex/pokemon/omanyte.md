@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Omanyte ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
+
+	- `omanyte > omastar: level-up (level 40)` → `omanyte > omastar: level-up (level 30)`
 
 
 ## :material-information: Basic Information
@@ -142,7 +144,7 @@
 
 	**#138 [Omanyte](./omanyte.md)**
 
-	
+
 
 	***You are here***
 

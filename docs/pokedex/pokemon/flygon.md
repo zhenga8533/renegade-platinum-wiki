@@ -13,15 +13,23 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Flygon ROM Changes"
 
-    **Abilities:** `levitate` → `compound-eyes / levitate`
+	**Abilities Changes:**
 
-    **Base Stats:** `80 HP / 100 Atk / 80 Def / 80 SAtk / 80 SDef / 100 Spd` → `90 HP / 110 Atk / 85 Def / 130 SAtk / 85 SDef / 100 Spd`
+	- `levitate` → `compound-eyes / levitate`
 
-    **EV Yield:** `1 Atk, 2 Spd` → `3 SAtk`
+	**Base Stats Changes:**
 
-    **Type:** `ground / dragon` → `bug / dragon`
+	- `80 HP / 100 Atk / 80 Def / 80 SAtk / 80 SDef / 100 Spd` → `90 HP / 110 Atk / 85 Def / 130 SAtk / 85 SDef / 100 Spd`
+
+	**EV Yield Changes:**
+
+	- `1 Atk, 2 Spd` → `3 SAtk`
+
+	**Type Changes:**
+
+	- `ground / dragon` → `bug / dragon`
 
 
 ## :material-information: Basic Information
@@ -75,7 +83,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Green
 

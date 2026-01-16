@@ -15,13 +15,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Budew ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `natural-cure / poison-point` → `poison-point / natural-cure`
+	- `budew > roselia: level-up (happiness, day)` → `budew > roselia: level-up (happiness)`
 
-    **Base Happiness:** `70` → `180`
+	**Abilities Changes:**
+
+	- `natural-cure / poison-point` → `poison-point / natural-cure`
+
+	**Base Happiness Changes:**
+
+	- `70` → `180`
 
 
 ## :material-information: Basic Information
@@ -73,7 +79,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Green
 
@@ -88,7 +94,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Poison Barb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-barb.png){ .item-sprite } [Poison Barb](../../pokedex/items/poison-barb.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Poison Barb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-barb.png){ .item-sprite } [Poison Barb](../../pokedex/items/poison-barb.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
@@ -149,7 +155,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	**#406 [Budew](./budew.md)**
 
-	
+
 
 	***You are here***
 

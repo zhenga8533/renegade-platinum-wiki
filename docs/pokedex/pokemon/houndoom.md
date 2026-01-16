@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Houndoom ROM Changes"
 
-    **Abilities:** `early-bird / flash-fire` → `intimidate / flash-fire`
+	**Abilities Changes:**
+
+	- `early-bird / flash-fire` → `intimidate / flash-fire`
 
 
 ## :material-information: Basic Information
@@ -71,7 +73,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Black
 

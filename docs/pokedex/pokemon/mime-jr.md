@@ -15,11 +15,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Mime Jr. ROM Changes"
 
-    **Abilities:** `soundproof / filter` → `filter / technician`
+	**Abilities Changes:**
 
-    **Base Stats:** `20 HP / 25 Atk / 45 Def / 70 SAtk / 90 SDef / 60 Spd` → `20 HP / 15 Atk / 45 Def / 80 SAtk / 90 SDef / 65 Spd`
+	- `soundproof / filter` → `filter / technician`
+
+	**Base Stats Changes:**
+
+	- `20 HP / 25 Atk / 45 Def / 70 SAtk / 90 SDef / 60 Spd` → `20 HP / 15 Atk / 45 Def / 80 SAtk / 90 SDef / 65 Spd`
 
 
 ## :material-information: Basic Information
@@ -71,7 +75,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Pink
 
@@ -148,7 +152,7 @@
 
 	**#439 [Mime Jr.](./mime-jr.md)**
 
-	
+
 
 	***You are here***
 

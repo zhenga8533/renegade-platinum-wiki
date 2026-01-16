@@ -13,13 +13,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Froslass ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Abilities:** `snow-cloak` → `levitate / snow-cloak`
+	- `snorunt > glalie: level-up (level 42)` → `snorunt > glalie: level-up (level 32)`
 
-    **Base Stats:** `70 HP / 80 Atk / 70 Def / 80 SAtk / 70 SDef / 110 Spd` → `70 HP / 70 Atk / 70 Def / 110 SAtk / 70 SDef / 110 Spd`
+	**Abilities Changes:**
+
+	- `snow-cloak` → `levitate / snow-cloak`
+
+	**Base Stats Changes:**
+
+	- `70 HP / 80 Atk / 70 Def / 80 SAtk / 70 SDef / 110 Spd` → `70 HP / 70 Atk / 70 Def / 110 SAtk / 70 SDef / 110 Spd`
 
 
 ## :material-information: Basic Information
@@ -71,7 +77,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** White
 

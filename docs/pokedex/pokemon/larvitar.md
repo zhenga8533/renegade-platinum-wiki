@@ -62,7 +62,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Green
 
@@ -144,7 +144,7 @@
 
 	**#246 [Larvitar](./larvitar.md)**
 
-	
+
 
 	***You are here***
 

@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Steelix ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
 
-    **Base Stats:** `75 HP / 85 Atk / 200 Def / 55 SAtk / 65 SDef / 30 Spd` → `75 HP / 105 Atk / 200 Def / 45 SAtk / 65 SDef / 30 Spd`
+	- `onix > steelix: trade (held: metal-coat)` → `onix > steelix: use-item (metal-coat)`
+
+	**Base Stats Changes:**
+
+	- `75 HP / 85 Atk / 200 Def / 55 SAtk / 65 SDef / 30 Spd` → `75 HP / 105 Atk / 200 Def / 45 SAtk / 65 SDef / 30 Spd`
 
 
 ## :material-information: Basic Information
@@ -74,7 +78,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Gray
 
@@ -89,7 +93,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Metal Coat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metal-coat.png){ .item-sprite } [Metal Coat](../../pokedex/items/metal-coat.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Metal Coat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metal-coat.png){ .item-sprite } [Metal Coat](../../pokedex/items/metal-coat.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

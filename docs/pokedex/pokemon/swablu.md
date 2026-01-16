@@ -13,13 +13,19 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Swablu ROM Changes"
 
-    **Abilities:** `natural-cure` → `cloud-nine / natural-cure`
+	**Abilities Changes:**
 
-    **Base Stats:** `45 HP / 40 Atk / 60 Def / 40 SAtk / 75 SDef / 50 Spd` → `45 HP / 60 Atk / 60 Def / 60 SAtk / 75 SDef / 50 Spd`
+	- `natural-cure` → `cloud-nine / natural-cure`
 
-    **Type:** `normal / flying` → `fairy / flying`
+	**Base Stats Changes:**
+
+	- `45 HP / 40 Atk / 60 Def / 40 SAtk / 75 SDef / 50 Spd` → `45 HP / 60 Atk / 60 Def / 60 SAtk / 75 SDef / 50 Spd`
+
+	**Type Changes:**
+
+	- `normal / flying` → `fairy / flying`
 
 
 ## :material-information: Basic Information
@@ -73,7 +79,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Blue
 
@@ -150,7 +156,7 @@
 
 	**#333 [Swablu](./swablu.md)**
 
-	
+
 
 	***You are here***
 

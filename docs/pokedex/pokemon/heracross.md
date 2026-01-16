@@ -14,9 +14,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Heracross ROM Changes"
 
-    **Abilities:** `swarm / guts` → `guts / skill-link`
+	**Abilities Changes:**
+
+	- `swarm / guts` → `guts / skill-link`
 
 
 ## :material-information: Basic Information
@@ -72,7 +74,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Blue
 

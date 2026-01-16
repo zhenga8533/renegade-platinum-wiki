@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Muk ROM Changes"
 
-    **Evolution Chain:** `Updated` → `Modified evolution method or target`
+	**Evolution Chain Changes:**
+
+	- `grimer > muk: level-up (level 38)` → `grimer > muk: level-up (level 35)`
 
 
 ## :material-information: Basic Information
@@ -84,7 +86,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Black Sludge](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-sludge.png){ .item-sprite } [Black Sludge](../../pokedex/items/black-sludge.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Black Sludge](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-sludge.png){ .item-sprite } [Black Sludge](../../pokedex/items/black-sludge.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

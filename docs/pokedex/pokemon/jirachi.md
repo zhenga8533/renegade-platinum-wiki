@@ -63,7 +63,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Yellow
 
@@ -78,7 +78,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Star Piece](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/star-piece.png){ .item-sprite } [Star Piece](../../pokedex/items/star-piece.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Star Piece](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/star-piece.png){ .item-sprite } [Star Piece](../../pokedex/items/star-piece.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

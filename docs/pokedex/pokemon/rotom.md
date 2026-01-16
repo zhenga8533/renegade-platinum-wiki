@@ -13,11 +13,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Rotom ROM Changes"
 
-    **Abilities:** `levitate` → `motor-drive / none`
+	**Abilities Changes:**
 
-    **Base Stats:** `50 HP / 50 Atk / 77 Def / 95 SAtk / 77 SDef / 91 Spd` → `50 HP / 50 Atk / 77 Def / 95 SAtk / 77 SDef / 101 Spd`
+	- `levitate` → `motor-drive / none`
+
+	**Base Stats Changes:**
+
+	- `50 HP / 50 Atk / 77 Def / 95 SAtk / 77 SDef / 91 Spd` → `50 HP / 50 Atk / 77 Def / 95 SAtk / 77 SDef / 101 Spd`
 
 
 ## :material-information: Basic Information
@@ -69,7 +73,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Red
 

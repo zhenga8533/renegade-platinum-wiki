@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Cacturne ROM Changes"
 
-    **Abilities:** `sand-veil` → `water-absorb / sand-veil`
+	**Abilities Changes:**
+
+	- `sand-veil` → `water-absorb / sand-veil`
 
 
 ## :material-information: Basic Information
@@ -71,7 +73,7 @@
 
 	---
 
-	**Generation:** Generation Iii
+	**Generation:** Generation III
 
 	**Color:** Green
 
@@ -86,7 +88,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Sticky Barb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sticky-barb.png){ .item-sprite } [Sticky Barb](../../pokedex/items/sticky-barb.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Sticky Barb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sticky-barb.png){ .item-sprite } [Sticky Barb](../../pokedex/items/sticky-barb.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 

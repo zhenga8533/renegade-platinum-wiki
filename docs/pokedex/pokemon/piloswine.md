@@ -13,9 +13,11 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Piloswine ROM Changes"
 
-    **Abilities:** `oblivious / snow-cloak` → `thick-fat / snow-cloak`
+	**Abilities Changes:**
+
+	- `oblivious / snow-cloak` → `thick-fat / snow-cloak`
 
 
 ## :material-information: Basic Information
@@ -71,7 +73,7 @@
 
 	---
 
-	**Generation:** Generation Ii
+	**Generation:** Generation II
 
 	**Color:** Brown
 

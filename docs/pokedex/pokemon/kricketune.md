@@ -14,11 +14,15 @@
 </div>
 
 
-!!! info "ROM Changes
+??? note "Kricketune ROM Changes"
 
-    **Abilities:** `swarm` → `technician / swarm`
+	**Abilities Changes:**
 
-    **Base Stats:** `77 HP / 85 Atk / 51 Def / 55 SAtk / 51 SDef / 65 Spd` → `80 HP / 115 Atk / 70 Def / 50 SAtk / 70 SDef / 65 Spd`
+	- `swarm` → `technician / swarm`
+
+	**Base Stats Changes:**
+
+	- `77 HP / 85 Atk / 51 Def / 55 SAtk / 51 SDef / 65 Spd` → `80 HP / 115 Atk / 70 Def / 50 SAtk / 70 SDef / 65 Spd`
 
 
 ## :material-information: Basic Information
@@ -72,7 +76,7 @@
 
 	---
 
-	**Generation:** Generation Iv
+	**Generation:** Generation IV
 
 	**Color:** Red
 
@@ -87,7 +91,7 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| ![Metronome](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metronome.png){ .item-sprite } [Metronome](../../pokedex/items/metronome.md) | — | — | — | — | — |
+| <span style="white-space: nowrap;">![Metronome](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metronome.png){ .item-sprite } [Metronome](../../pokedex/items/metronome.md)</span> | — | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness
 
