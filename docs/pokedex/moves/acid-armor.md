@@ -70,7 +70,7 @@
 
 	**#088 [Grimer](../pokemon/grimer.md)**
 
-	Level 39
+	Level 40
 
 -	[![Muk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/89.png){: .pokemon-sprite-img }](../pokemon/muk.md)
 
@@ -78,7 +78,7 @@
 
 	**#089 [Muk](../pokemon/muk.md)**
 
-	Level 44
+	Level 42
 
 -	[![Vaporeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/134.png){: .pokemon-sprite-img }](../pokemon/vaporeon.md)
 
@@ -86,7 +86,23 @@
 
 	**#134 [Vaporeon](../pokemon/vaporeon.md)**
 
-	Level 64
+	Level 31
+
+-	[![Shellos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/422.png){: .pokemon-sprite-img }](../pokemon/shellos.md)
+
+	***
+
+	**#422 [Shellos](../pokemon/shellos.md)**
+
+	Level 40
+
+-	[![Gastrodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/423.png){: .pokemon-sprite-img }](../pokemon/gastrodon.md)
+
+	***
+
+	**#423 [Gastrodon](../pokemon/gastrodon.md)**
+
+	Level 44
 
 -	[![Phione](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/489.png){: .pokemon-sprite-img }](../pokemon/phione.md)
 
@@ -94,7 +110,7 @@
 
 	**#489 [Phione](../pokemon/phione.md)**
 
-	Level 31
+	Level 18
 
 -	[![Manaphy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/490.png){: .pokemon-sprite-img }](../pokemon/manaphy.md)
 
@@ -102,7 +118,7 @@
 
 	**#490 [Manaphy](../pokemon/manaphy.md)**
 
-	Level 31
+	Level 18
 
 </div>
 

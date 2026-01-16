@@ -70,7 +70,7 @@
 
 	**#023 [Ekans](../pokemon/ekans.md)**
 
-	Level 36
+	Level 34
 
 -	[![Arbok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/24.png){: .pokemon-sprite-img }](../pokemon/arbok.md)
 
@@ -78,7 +78,7 @@
 
 	**#024 [Arbok](../pokemon/arbok.md)**
 
-	Level 48
+	Level 39
 
 -	[![Zubat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/41.png){: .pokemon-sprite-img }](../pokemon/zubat.md)
 
@@ -86,7 +86,7 @@
 
 	**#041 [Zubat](../pokemon/zubat.md)**
 
-	Level 37
+	Level 34
 
 -	[![Golbat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/42.png){: .pokemon-sprite-img }](../pokemon/golbat.md)
 
@@ -94,7 +94,23 @@
 
 	**#042 [Golbat](../pokemon/golbat.md)**
 
-	Level 45
+	Level 39
+
+-	[![Poliwrath](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/62.png){: .pokemon-sprite-img }](../pokemon/poliwrath.md)
+
+	***
+
+	**#062 [Poliwrath](../pokemon/poliwrath.md)**
+
+	Level 1
+
+-	[![Muk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/89.png){: .pokemon-sprite-img }](../pokemon/muk.md)
+
+	***
+
+	**#089 [Muk](../pokemon/muk.md)**
+
+	Level 1
 
 -	[![Koffing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/109.png){: .pokemon-sprite-img }](../pokemon/koffing.md)
 
@@ -102,7 +118,7 @@
 
 	**#109 [Koffing](../pokemon/koffing.md)**
 
-	Level 28
+	Level 22
 
 -	[![Weezing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/110.png){: .pokemon-sprite-img }](../pokemon/weezing.md)
 
@@ -110,7 +126,7 @@
 
 	**#110 [Weezing](../pokemon/weezing.md)**
 
-	Level 28
+	Level 22
 
 -	[![Vaporeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/134.png){: .pokemon-sprite-img }](../pokemon/vaporeon.md)
 
@@ -118,7 +134,7 @@
 
 	**#134 [Vaporeon](../pokemon/vaporeon.md)**
 
-	Level 57
+	Level 13
 
 -	[![Crobat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/169.png){: .pokemon-sprite-img }](../pokemon/crobat.md)
 
@@ -126,7 +142,7 @@
 
 	**#169 [Crobat](../pokemon/crobat.md)**
 
-	Level 45
+	Level 39
 
 -	[![Wooper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/194.png){: .pokemon-sprite-img }](../pokemon/wooper.md)
 
@@ -142,7 +158,7 @@
 
 	**#195 [Quagsire](../pokemon/quagsire.md)**
 
-	Level 48
+	Level 51
 
 -	[![Murkrow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/198.png){: .pokemon-sprite-img }](../pokemon/murkrow.md)
 
@@ -150,7 +166,7 @@
 
 	**#198 [Murkrow](../pokemon/murkrow.md)**
 
-	Level 11
+	Level 9
 
 -	[![Surskit](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/283.png){: .pokemon-sprite-img }](../pokemon/surskit.md)
 
@@ -158,7 +174,7 @@
 
 	**#283 [Surskit](../pokemon/surskit.md)**
 
-	Level 37
+	Level 30
 
 -	[![Seviper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/336.png){: .pokemon-sprite-img }](../pokemon/seviper.md)
 
@@ -166,7 +182,7 @@
 
 	**#336 [Seviper](../pokemon/seviper.md)**
 
-	Level 43
+	Level 40
 
 -	[![Honchkrow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/430.png){: .pokemon-sprite-img }](../pokemon/honchkrow.md)
 
@@ -182,7 +198,7 @@
 
 	**#491 [Darkrai](../pokemon/darkrai.md)**
 
-	Level 57
+	Level 26
 
 </div>
 

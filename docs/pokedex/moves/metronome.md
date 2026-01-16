@@ -70,7 +70,7 @@
 
 	**#035 [Clefairy](../pokemon/clefairy.md)**
 
-	Level 31
+	Level 23
 
 -	[![Clefable](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/36.png){: .pokemon-sprite-img }](../pokemon/clefable.md)
 
@@ -86,7 +86,7 @@
 
 	**#151 [Mew](../pokemon/mew.md)**
 
-	Level 20
+	Level 10
 
 -	[![Togepi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/175.png){: .pokemon-sprite-img }](../pokemon/togepi.md)
 
@@ -94,7 +94,7 @@
 
 	**#175 [Togepi](../pokemon/togepi.md)**
 
-	Level 6
+	Level 5
 
 -	[![Togetic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/176.png){: .pokemon-sprite-img }](../pokemon/togetic.md)
 
@@ -102,15 +102,7 @@
 
 	**#176 [Togetic](../pokemon/togetic.md)**
 
-	Level 1
-
--	[![Togetic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/176.png){: .pokemon-sprite-img }](../pokemon/togetic.md)
-
-	***
-
-	**#176 [Togetic](../pokemon/togetic.md)**
-
-	Level 6
+	Level 5
 
 -	[![Munchlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/446.png){: .pokemon-sprite-img }](../pokemon/munchlax.md)
 

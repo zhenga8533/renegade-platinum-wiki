@@ -70,7 +70,7 @@
 
 	**#104 [Cubone](../pokemon/cubone.md)**
 
-	Level 21
+	Level 19
 
 -	[![Marowak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/105.png){: .pokemon-sprite-img }](../pokemon/marowak.md)
 
@@ -78,7 +78,7 @@
 
 	**#105 [Marowak](../pokemon/marowak.md)**
 
-	Level 21
+	Level 19
 
 </div>
 

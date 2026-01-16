@@ -96,6 +96,22 @@
 
 	Level 1
 
+-	[![Wobbuffet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/202.png){: .pokemon-sprite-img }](../pokemon/wobbuffet.md)
+
+	***
+
+	**#202 [Wobbuffet](../pokemon/wobbuffet.md)**
+
+	Level 1
+
+-	[![Delibird](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/225.png){: .pokemon-sprite-img }](../pokemon/delibird.md)
+
+	***
+
+	**#225 [Delibird](../pokemon/delibird.md)**
+
+	Level 1
+
 -	[![Azurill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/298.png){: .pokemon-sprite-img }](../pokemon/azurill.md)
 
 	***

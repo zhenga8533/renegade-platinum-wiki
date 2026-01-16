@@ -76,13 +76,29 @@
 
 <div class="grid cards" markdown>
 
+-	[![Rattata](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/19.png){: .pokemon-sprite-img }](../pokemon/rattata.md)
+
+	***
+
+	**#019 [Rattata](../pokemon/rattata.md)**
+
+	Level 31
+
+-	[![Raticate](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/20.png){: .pokemon-sprite-img }](../pokemon/raticate.md)
+
+	***
+
+	**#020 [Raticate](../pokemon/raticate.md)**
+
+	Level 35
+
 -	[![Growlithe](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/58.png){: .pokemon-sprite-img }](../pokemon/growlithe.md)
 
 	***
 
 	**#058 [Growlithe](../pokemon/growlithe.md)**
 
-	Level 20
+	Level 23
 
 -	[![Ponyta](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/77.png){: .pokemon-sprite-img }](../pokemon/ponyta.md)
 
@@ -90,7 +106,7 @@
 
 	**#077 [Ponyta](../pokemon/ponyta.md)**
 
-	Level 15
+	Level 16
 
 -	[![Rapidash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/78.png){: .pokemon-sprite-img }](../pokemon/rapidash.md)
 
@@ -98,7 +114,15 @@
 
 	**#078 [Rapidash](../pokemon/rapidash.md)**
 
-	Level 15
+	Level 16
+
+-	[![Flareon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/136.png){: .pokemon-sprite-img }](../pokemon/flareon.md)
+
+	***
+
+	**#136 [Flareon](../pokemon/flareon.md)**
+
+	Level 22
 
 -	[![Cyndaquil](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/155.png){: .pokemon-sprite-img }](../pokemon/cyndaquil.md)
 
@@ -106,7 +130,7 @@
 
 	**#155 [Cyndaquil](../pokemon/cyndaquil.md)**
 
-	Level 19
+	Level 14
 
 -	[![Quilava](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/156.png){: .pokemon-sprite-img }](../pokemon/quilava.md)
 
@@ -114,7 +138,7 @@
 
 	**#156 [Quilava](../pokemon/quilava.md)**
 
-	Level 20
+	Level 15
 
 -	[![Typhlosion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/157.png){: .pokemon-sprite-img }](../pokemon/typhlosion.md)
 
@@ -122,7 +146,31 @@
 
 	**#157 [Typhlosion](../pokemon/typhlosion.md)**
 
+	Level 15
+
+-	[![Sentret](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/161.png){: .pokemon-sprite-img }](../pokemon/sentret.md)
+
+	***
+
+	**#161 [Sentret](../pokemon/sentret.md)**
+
 	Level 20
+
+-	[![Furret](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/162.png){: .pokemon-sprite-img }](../pokemon/furret.md)
+
+	***
+
+	**#162 [Furret](../pokemon/furret.md)**
+
+	Level 22
+
+-	[![Torkoal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/324.png){: .pokemon-sprite-img }](../pokemon/torkoal.md)
+
+	***
+
+	**#324 [Torkoal](../pokemon/torkoal.md)**
+
+	Level 16
 
 -	[![Chimchar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/390.png){: .pokemon-sprite-img }](../pokemon/chimchar.md)
 
@@ -130,7 +178,7 @@
 
 	**#390 [Chimchar](../pokemon/chimchar.md)**
 
-	Level 17
+	Level 14
 
 -	[![Monferno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/391.png){: .pokemon-sprite-img }](../pokemon/monferno.md)
 
@@ -138,7 +186,7 @@
 
 	**#391 [Monferno](../pokemon/monferno.md)**
 
-	Level 19
+	Level 15
 
 -	[![Infernape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/392.png){: .pokemon-sprite-img }](../pokemon/infernape.md)
 
@@ -146,7 +194,7 @@
 
 	**#392 [Infernape](../pokemon/infernape.md)**
 
-	Level 21
+	Level 15
 
 </div>
 

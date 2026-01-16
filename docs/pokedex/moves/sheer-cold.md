@@ -86,7 +86,15 @@
 
 	**#144 [Articuno](../pokemon/articuno.md)**
 
-	Level 78
+	Level 50
+
+-	[![Suicune](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/245.png){: .pokemon-sprite-img }](../pokemon/suicune.md)
+
+	***
+
+	**#245 [Suicune](../pokemon/suicune.md)**
+
+	Level 1
 
 -	[![Glalie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/362.png){: .pokemon-sprite-img }](../pokemon/glalie.md)
 
@@ -94,7 +102,7 @@
 
 	**#362 [Glalie](../pokemon/glalie.md)**
 
-	Level 59
+	Level 54
 
 -	[![Spheal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/363.png){: .pokemon-sprite-img }](../pokemon/spheal.md)
 
@@ -102,7 +110,7 @@
 
 	**#363 [Spheal](../pokemon/spheal.md)**
 
-	Level 49
+	Level 43
 
 -	[![Sealeo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/364.png){: .pokemon-sprite-img }](../pokemon/sealeo.md)
 
@@ -110,7 +118,7 @@
 
 	**#364 [Sealeo](../pokemon/sealeo.md)**
 
-	Level 55
+	Level 50
 
 -	[![Walrein](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/365.png){: .pokemon-sprite-img }](../pokemon/walrein.md)
 
@@ -118,7 +126,7 @@
 
 	**#365 [Walrein](../pokemon/walrein.md)**
 
-	Level 65
+	Level 56
 
 -	[![Kyogre](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/382.png){: .pokemon-sprite-img }](../pokemon/kyogre.md)
 
@@ -126,15 +134,7 @@
 
 	**#382 [Kyogre](../pokemon/kyogre.md)**
 
-	Level 60
-
--	[![Kyogre](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/382.png){: .pokemon-sprite-img }](../pokemon/kyogre.md)
-
-	***
-
-	**#382 [Kyogre](../pokemon/kyogre.md)**
-
-	Level 75
+	Level 34
 
 -	[![Snover](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/459.png){: .pokemon-sprite-img }](../pokemon/snover.md)
 
@@ -150,7 +150,7 @@
 
 	**#460 [Abomasnow](../pokemon/abomasnow.md)**
 
-	Level 58
+	Level 49
 
 </div>
 

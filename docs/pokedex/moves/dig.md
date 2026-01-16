@@ -64,13 +64,29 @@
 
 <div class="grid cards" markdown>
 
+-	[![Sandshrew](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/27.png){: .pokemon-sprite-img }](../pokemon/sandshrew.md)
+
+	***
+
+	**#027 [Sandshrew](../pokemon/sandshrew.md)**
+
+	Level 27
+
+-	[![Sandslash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/28.png){: .pokemon-sprite-img }](../pokemon/sandslash.md)
+
+	***
+
+	**#028 [Sandslash](../pokemon/sandslash.md)**
+
+	Level 29
+
 -	[![Diglett](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/50.png){: .pokemon-sprite-img }](../pokemon/diglett.md)
 
 	***
 
 	**#050 [Diglett](../pokemon/diglett.md)**
 
-	Level 18
+	Level 19
 
 -	[![Dugtrio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/51.png){: .pokemon-sprite-img }](../pokemon/dugtrio.md)
 
@@ -78,7 +94,15 @@
 
 	**#051 [Dugtrio](../pokemon/dugtrio.md)**
 
-	Level 18
+	Level 19
+
+-	[![Onix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/95.png){: .pokemon-sprite-img }](../pokemon/onix.md)
+
+	***
+
+	**#095 [Onix](../pokemon/onix.md)**
+
+	Level 22
 
 -	[![Dunsparce](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/206.png){: .pokemon-sprite-img }](../pokemon/dunsparce.md)
 
@@ -86,7 +110,15 @@
 
 	**#206 [Dunsparce](../pokemon/dunsparce.md)**
 
-	Level 45
+	Level 29
+
+-	[![Steelix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/208.png){: .pokemon-sprite-img }](../pokemon/steelix.md)
+
+	***
+
+	**#208 [Steelix](../pokemon/steelix.md)**
+
+	Level 22
 
 -	[![Nincada](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/290.png){: .pokemon-sprite-img }](../pokemon/nincada.md)
 
@@ -94,7 +126,7 @@
 
 	**#290 [Nincada](../pokemon/nincada.md)**
 
-	Level 45
+	Level 27
 
 -	[![Trapinch](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/328.png){: .pokemon-sprite-img }](../pokemon/trapinch.md)
 
@@ -102,7 +134,7 @@
 
 	**#328 [Trapinch](../pokemon/trapinch.md)**
 
-	Level 41
+	Level 19
 
 -	[![Gible](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/443.png){: .pokemon-sprite-img }](../pokemon/gible.md)
 
@@ -110,7 +142,7 @@
 
 	**#443 [Gible](../pokemon/gible.md)**
 
-	Level 31
+	Level 22
 
 -	[![Gabite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/444.png){: .pokemon-sprite-img }](../pokemon/gabite.md)
 
@@ -118,7 +150,7 @@
 
 	**#444 [Gabite](../pokemon/gabite.md)**
 
-	Level 40
+	Level 22
 
 -	[![Garchomp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/445.png){: .pokemon-sprite-img }](../pokemon/garchomp.md)
 
@@ -126,7 +158,7 @@
 
 	**#445 [Garchomp](../pokemon/garchomp.md)**
 
-	Level 40
+	Level 22
 
 -	[![Hippopotas](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/449.png){: .pokemon-sprite-img }](../pokemon/hippopotas.md)
 
@@ -134,7 +166,7 @@
 
 	**#449 [Hippopotas](../pokemon/hippopotas.md)**
 
-	Level 19
+	Level 23
 
 -	[![Hippowdon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/450.png){: .pokemon-sprite-img }](../pokemon/hippowdon.md)
 
@@ -142,7 +174,7 @@
 
 	**#450 [Hippowdon](../pokemon/hippowdon.md)**
 
-	Level 19
+	Level 23
 
 </div>
 

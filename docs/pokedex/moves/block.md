@@ -70,7 +70,7 @@
 
 	**#143 [Snorlax](../pokemon/snorlax.md)**
 
-	Level 36
+	Level 39
 
 -	[![Sudowoodo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/185.png){: .pokemon-sprite-img }](../pokemon/sudowoodo.md)
 
@@ -78,7 +78,7 @@
 
 	**#185 [Sudowoodo](../pokemon/sudowoodo.md)**
 
-	Level 22
+	Level 30
 
 -	[![Nosepass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/299.png){: .pokemon-sprite-img }](../pokemon/nosepass.md)
 
@@ -86,7 +86,31 @@
 
 	**#299 [Nosepass](../pokemon/nosepass.md)**
 
-	Level 19
+	Level 4
+
+-	[![Regirock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/377.png){: .pokemon-sprite-img }](../pokemon/regirock.md)
+
+	***
+
+	**#377 [Regirock](../pokemon/regirock.md)**
+
+	Level 14
+
+-	[![Regice](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/378.png){: .pokemon-sprite-img }](../pokemon/regice.md)
+
+	***
+
+	**#378 [Regice](../pokemon/regice.md)**
+
+	Level 14
+
+-	[![Registeel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/379.png){: .pokemon-sprite-img }](../pokemon/registeel.md)
+
+	***
+
+	**#379 [Registeel](../pokemon/registeel.md)**
+
+	Level 14
 
 -	[![Bastiodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/411.png){: .pokemon-sprite-img }](../pokemon/bastiodon.md)
 
@@ -110,21 +134,13 @@
 
 	**#438 [Bonsly](../pokemon/bonsly.md)**
 
-	Level 22
+	Level 30
 
 -	[![Tangrowth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/465.png){: .pokemon-sprite-img }](../pokemon/tangrowth.md)
 
 	***
 
 	**#465 [Tangrowth](../pokemon/tangrowth.md)**
-
-	Level 57
-
--	[![Probopass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/476.png){: .pokemon-sprite-img }](../pokemon/probopass.md)
-
-	***
-
-	**#476 [Probopass](../pokemon/probopass.md)**
 
 	Level 1
 
@@ -134,7 +150,15 @@
 
 	**#476 [Probopass](../pokemon/probopass.md)**
 
-	Level 19
+	Level 4
+
+-	[![Regigigas](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/486.png){: .pokemon-sprite-img }](../pokemon/regigigas.md)
+
+	***
+
+	**#486 [Regigigas](../pokemon/regigigas.md)**
+
+	Level 34
 
 </div>
 

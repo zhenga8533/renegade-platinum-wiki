@@ -64,21 +64,29 @@
 
 <div class="grid cards" markdown>
 
+-	[![Meowth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/52.png){: .pokemon-sprite-img }](../pokemon/meowth.md)
+
+	***
+
+	**#052 [Meowth](../pokemon/meowth.md)**
+
+	Level 1
+
+-	[![Persian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/53.png){: .pokemon-sprite-img }](../pokemon/persian.md)
+
+	***
+
+	**#053 [Persian](../pokemon/persian.md)**
+
+	Level 1
+
 -	[![Skitty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/300.png){: .pokemon-sprite-img }](../pokemon/skitty.md)
 
 	***
 
 	**#300 [Skitty](../pokemon/skitty.md)**
 
-	Level 18
-
--	[![Skitty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/300.png){: .pokemon-sprite-img }](../pokemon/skitty.md)
-
-	***
-
-	**#300 [Skitty](../pokemon/skitty.md)**
-
-	Level 22
+	Level 1
 
 -	[![Glameow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/431.png){: .pokemon-sprite-img }](../pokemon/glameow.md)
 
@@ -86,7 +94,7 @@
 
 	**#431 [Glameow](../pokemon/glameow.md)**
 
-	Level 29
+	Level 25
 
 -	[![Purugly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/432.png){: .pokemon-sprite-img }](../pokemon/purugly.md)
 
@@ -94,7 +102,7 @@
 
 	**#432 [Purugly](../pokemon/purugly.md)**
 
-	Level 29
+	Level 25
 
 </div>
 

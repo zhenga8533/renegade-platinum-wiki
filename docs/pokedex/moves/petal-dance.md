@@ -78,7 +78,7 @@
 
 	**#043 [Oddish](../pokemon/oddish.md)**
 
-	Level 41
+	Level 40
 
 -	[![Gloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/44.png){: .pokemon-sprite-img }](../pokemon/gloom.md)
 
@@ -86,7 +86,7 @@
 
 	**#044 [Gloom](../pokemon/gloom.md)**
 
-	Level 53
+	Level 47
 
 -	[![Vileplume](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/45.png){: .pokemon-sprite-img }](../pokemon/vileplume.md)
 
@@ -94,7 +94,7 @@
 
 	**#045 [Vileplume](../pokemon/vileplume.md)**
 
-	Level 53
+	Level 47
 
 -	[![Meganium](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/154.png){: .pokemon-sprite-img }](../pokemon/meganium.md)
 
@@ -104,13 +104,21 @@
 
 	Level 32
 
+-	[![Bellossom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/182.png){: .pokemon-sprite-img }](../pokemon/bellossom.md)
+
+	***
+
+	**#182 [Bellossom](../pokemon/bellossom.md)**
+
+	Level 47
+
 -	[![Sunflora](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/192.png){: .pokemon-sprite-img }](../pokemon/sunflora.md)
 
 	***
 
 	**#192 [Sunflora](../pokemon/sunflora.md)**
 
-	Level 33
+	Level 32
 
 -	[![Roselia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/315.png){: .pokemon-sprite-img }](../pokemon/roselia.md)
 
@@ -118,7 +126,7 @@
 
 	**#315 [Roselia](../pokemon/roselia.md)**
 
-	Level 40
+	Level 39
 
 -	[![Cherrim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/421.png){: .pokemon-sprite-img }](../pokemon/cherrim.md)
 

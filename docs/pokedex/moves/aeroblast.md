@@ -70,15 +70,7 @@
 
 	**#249 [Lugia](../pokemon/lugia.md)**
 
-	Level 85
-
--	[![Lugia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/249.png){: .pokemon-sprite-img }](../pokemon/lugia.md)
-
-	***
-
-	**#249 [Lugia](../pokemon/lugia.md)**
-
-	Level 43
+	Level 46
 
 </div>
 

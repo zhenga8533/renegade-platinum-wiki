@@ -70,7 +70,7 @@
 
 	**#106 [Hitmonlee](../pokemon/hitmonlee.md)**
 
-	Level 9
+	Level 23
 
 -	[![Hitmontop](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/237.png){: .pokemon-sprite-img }](../pokemon/hitmontop.md)
 
@@ -78,7 +78,7 @@
 
 	**#237 [Hitmontop](../pokemon/hitmontop.md)**
 
-	Level 1
+	Level 20
 
 </div>
 

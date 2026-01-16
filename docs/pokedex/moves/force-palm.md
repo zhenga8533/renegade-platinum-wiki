@@ -70,7 +70,7 @@
 
 	**#286 [Breloom](../pokemon/breloom.md)**
 
-	Level 29
+	Level 26
 
 -	[![Makuhita](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/296.png){: .pokemon-sprite-img }](../pokemon/makuhita.md)
 
@@ -78,7 +78,7 @@
 
 	**#296 [Makuhita](../pokemon/makuhita.md)**
 
-	Level 28
+	Level 11
 
 -	[![Hariyama](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/297.png){: .pokemon-sprite-img }](../pokemon/hariyama.md)
 
@@ -86,7 +86,7 @@
 
 	**#297 [Hariyama](../pokemon/hariyama.md)**
 
-	Level 32
+	Level 11
 
 -	[![Meditite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/307.png){: .pokemon-sprite-img }](../pokemon/meditite.md)
 
@@ -94,7 +94,7 @@
 
 	**#307 [Meditite](../pokemon/meditite.md)**
 
-	Level 29
+	Level 16
 
 -	[![Medicham](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/308.png){: .pokemon-sprite-img }](../pokemon/medicham.md)
 
@@ -102,7 +102,7 @@
 
 	**#308 [Medicham](../pokemon/medicham.md)**
 
-	Level 29
+	Level 16
 
 -	[![Riolu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/447.png){: .pokemon-sprite-img }](../pokemon/riolu.md)
 
@@ -110,7 +110,7 @@
 
 	**#447 [Riolu](../pokemon/riolu.md)**
 
-	Level 11
+	Level 10
 
 -	[![Lucario](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/448.png){: .pokemon-sprite-img }](../pokemon/lucario.md)
 
@@ -118,7 +118,7 @@
 
 	**#448 [Lucario](../pokemon/lucario.md)**
 
-	Level 11
+	Level 10
 
 </div>
 

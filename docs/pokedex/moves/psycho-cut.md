@@ -70,7 +70,7 @@
 
 	**#064 [Kadabra](../pokemon/kadabra.md)**
 
-	Level 34
+	Level 31
 
 -	[![Alakazam](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/65.png){: .pokemon-sprite-img }](../pokemon/alakazam.md)
 
@@ -78,7 +78,23 @@
 
 	**#065 [Alakazam](../pokemon/alakazam.md)**
 
-	Level 34
+	Level 31
+
+-	[![Drowzee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/96.png){: .pokemon-sprite-img }](../pokemon/drowzee.md)
+
+	***
+
+	**#096 [Drowzee](../pokemon/drowzee.md)**
+
+	Level 24
+
+-	[![Hypno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/97.png){: .pokemon-sprite-img }](../pokemon/hypno.md)
+
+	***
+
+	**#097 [Hypno](../pokemon/hypno.md)**
+
+	Level 24
 
 -	[![Mewtwo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/150.png){: .pokemon-sprite-img }](../pokemon/mewtwo.md)
 
@@ -86,7 +102,23 @@
 
 	**#150 [Mewtwo](../pokemon/mewtwo.md)**
 
-	Level 50
+	Level 22
+
+-	[![Meditite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/307.png){: .pokemon-sprite-img }](../pokemon/meditite.md)
+
+	***
+
+	**#307 [Meditite](../pokemon/meditite.md)**
+
+	Level 22
+
+-	[![Medicham](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/308.png){: .pokemon-sprite-img }](../pokemon/medicham.md)
+
+	***
+
+	**#308 [Medicham](../pokemon/medicham.md)**
+
+	Level 22
 
 -	[![Absol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/359.png){: .pokemon-sprite-img }](../pokemon/absol.md)
 
@@ -94,7 +126,15 @@
 
 	**#359 [Absol](../pokemon/absol.md)**
 
-	Level 60
+	Level 28
+
+-	[![Leafeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/470.png){: .pokemon-sprite-img }](../pokemon/leafeon.md)
+
+	***
+
+	**#470 [Leafeon](../pokemon/leafeon.md)**
+
+	Level 37
 
 -	[![Gallade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/475.png){: .pokemon-sprite-img }](../pokemon/gallade.md)
 
@@ -102,7 +142,7 @@
 
 	**#475 [Gallade](../pokemon/gallade.md)**
 
-	Level 31
+	Level 13
 
 -	[![Cresselia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/488.png){: .pokemon-sprite-img }](../pokemon/cresselia.md)
 
@@ -110,7 +150,7 @@
 
 	**#488 [Cresselia](../pokemon/cresselia.md)**
 
-	Level 66
+	Level 34
 
 </div>
 

@@ -78,14 +78,6 @@
 
 	**#099 [Kingler](../pokemon/kingler.md)**
 
-	Level 1
-
--	[![Kingler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/99.png){: .pokemon-sprite-img }](../pokemon/kingler.md)
-
-	***
-
-	**#099 [Kingler](../pokemon/kingler.md)**
-
 	Level 5
 
 -	[![Pinsir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/127.png){: .pokemon-sprite-img }](../pokemon/pinsir.md)
@@ -102,21 +94,13 @@
 
 	**#303 [Mawile](../pokemon/mawile.md)**
 
-	Level 21
+	Level 13
 
 -	[![Corphish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/341.png){: .pokemon-sprite-img }](../pokemon/corphish.md)
 
 	***
 
 	**#341 [Corphish](../pokemon/corphish.md)**
-
-	Level 10
-
--	[![Crawdaunt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/342.png){: .pokemon-sprite-img }](../pokemon/crawdaunt.md)
-
-	***
-
-	**#342 [Crawdaunt](../pokemon/crawdaunt.md)**
 
 	Level 1
 
@@ -126,7 +110,7 @@
 
 	**#342 [Crawdaunt](../pokemon/crawdaunt.md)**
 
-	Level 10
+	Level 1
 
 </div>
 

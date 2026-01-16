@@ -70,7 +70,7 @@
 
 	**#241 [Miltank](../pokemon/miltank.md)**
 
-	Level 11
+	Level 13
 
 </div>
 

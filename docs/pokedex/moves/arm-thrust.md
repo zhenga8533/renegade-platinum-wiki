@@ -64,6 +64,14 @@
 
 <div class="grid cards" markdown>
 
+-	[![Heracross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/214.png){: .pokemon-sprite-img }](../pokemon/heracross.md)
+
+	***
+
+	**#214 [Heracross](../pokemon/heracross.md)**
+
+	Level 1
+
 -	[![Makuhita](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/296.png){: .pokemon-sprite-img }](../pokemon/makuhita.md)
 
 	***
@@ -71,14 +79,6 @@
 	**#296 [Makuhita](../pokemon/makuhita.md)**
 
 	Level 7
-
--	[![Hariyama](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/297.png){: .pokemon-sprite-img }](../pokemon/hariyama.md)
-
-	***
-
-	**#297 [Hariyama](../pokemon/hariyama.md)**
-
-	Level 1
 
 -	[![Hariyama](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/297.png){: .pokemon-sprite-img }](../pokemon/hariyama.md)
 

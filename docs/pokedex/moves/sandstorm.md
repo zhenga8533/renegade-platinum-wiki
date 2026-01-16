@@ -70,7 +70,7 @@
 
 	**#027 [Sandshrew](../pokemon/sandshrew.md)**
 
-	Level 37
+	Level 42
 
 -	[![Sandslash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/28.png){: .pokemon-sprite-img }](../pokemon/sandslash.md)
 
@@ -78,7 +78,7 @@
 
 	**#028 [Sandslash](../pokemon/sandslash.md)**
 
-	Level 52
+	Level 49
 
 -	[![Onix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/95.png){: .pokemon-sprite-img }](../pokemon/onix.md)
 
@@ -86,7 +86,7 @@
 
 	**#095 [Onix](../pokemon/onix.md)**
 
-	Level 22
+	Level 43
 
 -	[![Steelix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/208.png){: .pokemon-sprite-img }](../pokemon/steelix.md)
 
@@ -94,7 +94,7 @@
 
 	**#208 [Steelix](../pokemon/steelix.md)**
 
-	Level 22
+	Level 43
 
 -	[![Larvitar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/246.png){: .pokemon-sprite-img }](../pokemon/larvitar.md)
 
@@ -102,7 +102,7 @@
 
 	**#246 [Larvitar](../pokemon/larvitar.md)**
 
-	Level 5
+	Level 4
 
 -	[![Pupitar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/247.png){: .pokemon-sprite-img }](../pokemon/pupitar.md)
 
@@ -110,15 +110,7 @@
 
 	**#247 [Pupitar](../pokemon/pupitar.md)**
 
-	Level 1
-
--	[![Pupitar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/247.png){: .pokemon-sprite-img }](../pokemon/pupitar.md)
-
-	***
-
-	**#247 [Pupitar](../pokemon/pupitar.md)**
-
-	Level 5
+	Level 4
 
 -	[![Tyranitar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/248.png){: .pokemon-sprite-img }](../pokemon/tyranitar.md)
 
@@ -126,15 +118,7 @@
 
 	**#248 [Tyranitar](../pokemon/tyranitar.md)**
 
-	Level 1
-
--	[![Tyranitar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/248.png){: .pokemon-sprite-img }](../pokemon/tyranitar.md)
-
-	***
-
-	**#248 [Tyranitar](../pokemon/tyranitar.md)**
-
-	Level 5
+	Level 4
 
 -	[![Nosepass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/299.png){: .pokemon-sprite-img }](../pokemon/nosepass.md)
 
@@ -142,7 +126,7 @@
 
 	**#299 [Nosepass](../pokemon/nosepass.md)**
 
-	Level 37
+	Level 31
 
 -	[![Trapinch](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/328.png){: .pokemon-sprite-img }](../pokemon/trapinch.md)
 
@@ -150,7 +134,7 @@
 
 	**#328 [Trapinch](../pokemon/trapinch.md)**
 
-	Level 49
+	Level 35
 
 -	[![Vibrava](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/329.png){: .pokemon-sprite-img }](../pokemon/vibrava.md)
 
@@ -158,7 +142,7 @@
 
 	**#329 [Vibrava](../pokemon/vibrava.md)**
 
-	Level 49
+	Level 35
 
 -	[![Flygon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/330.png){: .pokemon-sprite-img }](../pokemon/flygon.md)
 
@@ -166,7 +150,7 @@
 
 	**#330 [Flygon](../pokemon/flygon.md)**
 
-	Level 49
+	Level 35
 
 -	[![Cacnea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/331.png){: .pokemon-sprite-img }](../pokemon/cacnea.md)
 
@@ -174,7 +158,7 @@
 
 	**#331 [Cacnea](../pokemon/cacnea.md)**
 
-	Level 53
+	Level 52
 
 -	[![Cacturne](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/332.png){: .pokemon-sprite-img }](../pokemon/cacturne.md)
 
@@ -182,7 +166,7 @@
 
 	**#332 [Cacturne](../pokemon/cacturne.md)**
 
-	Level 65
+	Level 59
 
 -	[![Baltoy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/343.png){: .pokemon-sprite-img }](../pokemon/baltoy.md)
 
@@ -190,7 +174,7 @@
 
 	**#343 [Baltoy](../pokemon/baltoy.md)**
 
-	Level 37
+	Level 40
 
 -	[![Claydol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/344.png){: .pokemon-sprite-img }](../pokemon/claydol.md)
 
@@ -198,7 +182,15 @@
 
 	**#344 [Claydol](../pokemon/claydol.md)**
 
-	Level 40
+	Level 43
+
+-	[![Regirock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/377.png){: .pokemon-sprite-img }](../pokemon/regirock.md)
+
+	***
+
+	**#377 [Regirock](../pokemon/regirock.md)**
+
+	Level 38
 
 -	[![Gible](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/443.png){: .pokemon-sprite-img }](../pokemon/gible.md)
 
@@ -206,7 +198,7 @@
 
 	**#443 [Gible](../pokemon/gible.md)**
 
-	Level 13
+	Level 19
 
 -	[![Gabite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/444.png){: .pokemon-sprite-img }](../pokemon/gabite.md)
 
@@ -214,7 +206,7 @@
 
 	**#444 [Gabite](../pokemon/gabite.md)**
 
-	Level 13
+	Level 19
 
 -	[![Garchomp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/445.png){: .pokemon-sprite-img }](../pokemon/garchomp.md)
 
@@ -222,15 +214,7 @@
 
 	**#445 [Garchomp](../pokemon/garchomp.md)**
 
-	Level 1
-
--	[![Garchomp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/445.png){: .pokemon-sprite-img }](../pokemon/garchomp.md)
-
-	***
-
-	**#445 [Garchomp](../pokemon/garchomp.md)**
-
-	Level 13
+	Level 19
 
 -	[![Probopass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/476.png){: .pokemon-sprite-img }](../pokemon/probopass.md)
 
@@ -238,7 +222,7 @@
 
 	**#476 [Probopass](../pokemon/probopass.md)**
 
-	Level 37
+	Level 31
 
 </div>
 

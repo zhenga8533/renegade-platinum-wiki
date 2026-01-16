@@ -70,7 +70,7 @@
 
 	**#062 [Poliwrath](../pokemon/poliwrath.md)**
 
-	Level 53
+	Level 43
 
 -	[![Hitmonlee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/106.png){: .pokemon-sprite-img }](../pokemon/hitmonlee.md)
 
@@ -78,7 +78,7 @@
 
 	**#106 [Hitmonlee](../pokemon/hitmonlee.md)**
 
-	Level 33
+	Level 41
 
 -	[![Articuno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/144.png){: .pokemon-sprite-img }](../pokemon/articuno.md)
 
@@ -86,7 +86,7 @@
 
 	**#144 [Articuno](../pokemon/articuno.md)**
 
-	Level 22
+	Level 6
 
 -	[![Breloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/286.png){: .pokemon-sprite-img }](../pokemon/breloom.md)
 
@@ -94,7 +94,7 @@
 
 	**#286 [Breloom](../pokemon/breloom.md)**
 
-	Level 37
+	Level 34
 
 -	[![Nincada](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/290.png){: .pokemon-sprite-img }](../pokemon/nincada.md)
 
@@ -126,7 +126,7 @@
 
 	**#307 [Meditite](../pokemon/meditite.md)**
 
-	Level 18
+	Level 28
 
 -	[![Medicham](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/308.png){: .pokemon-sprite-img }](../pokemon/medicham.md)
 
@@ -134,7 +134,7 @@
 
 	**#308 [Medicham](../pokemon/medicham.md)**
 
-	Level 18
+	Level 28
 
 </div>
 

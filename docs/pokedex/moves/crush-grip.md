@@ -70,7 +70,7 @@
 
 	**#486 [Regigigas](../pokemon/regigigas.md)**
 
-	Level 75
+	Level 42
 
 </div>
 

@@ -70,7 +70,7 @@
 
 	**#021 [Spearow](../pokemon/spearow.md)**
 
-	Level 17
+	Level 13
 
 -	[![Fearow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/22.png){: .pokemon-sprite-img }](../pokemon/fearow.md)
 
@@ -78,7 +78,7 @@
 
 	**#022 [Fearow](../pokemon/fearow.md)**
 
-	Level 17
+	Level 13
 
 -	[![Farfetchˈd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){: .pokemon-sprite-img }](../pokemon/farfetchd.md)
 
@@ -86,7 +86,23 @@
 
 	**#083 [Farfetchˈd](../pokemon/farfetchd.md)**
 
-	Level 13
+	Level 10
+
+-	[![Ledyba](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/165.png){: .pokemon-sprite-img }](../pokemon/ledyba.md)
+
+	***
+
+	**#165 [Ledyba](../pokemon/ledyba.md)**
+
+	Level 15
+
+-	[![Ledian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/166.png){: .pokemon-sprite-img }](../pokemon/ledian.md)
+
+	***
+
+	**#166 [Ledian](../pokemon/ledian.md)**
+
+	Level 15
 
 -	[![Heracross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/214.png){: .pokemon-sprite-img }](../pokemon/heracross.md)
 
@@ -94,7 +110,7 @@
 
 	**#214 [Heracross](../pokemon/heracross.md)**
 
-	Level 13
+	Level 11
 
 -	[![Taillow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/276.png){: .pokemon-sprite-img }](../pokemon/taillow.md)
 
@@ -102,7 +118,7 @@
 
 	**#276 [Taillow](../pokemon/taillow.md)**
 
-	Level 34
+	Level 19
 
 -	[![Swellow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/277.png){: .pokemon-sprite-img }](../pokemon/swellow.md)
 
@@ -110,7 +126,7 @@
 
 	**#277 [Swellow](../pokemon/swellow.md)**
 
-	Level 38
+	Level 19
 
 -	[![Wingull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/278.png){: .pokemon-sprite-img }](../pokemon/wingull.md)
 
@@ -118,7 +134,15 @@
 
 	**#278 [Wingull](../pokemon/wingull.md)**
 
-	Level 42
+	Level 25
+
+-	[![Ninjask](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/291.png){: .pokemon-sprite-img }](../pokemon/ninjask.md)
+
+	***
+
+	**#291 [Ninjask](../pokemon/ninjask.md)**
+
+	Level 27
 
 -	[![Starly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/396.png){: .pokemon-sprite-img }](../pokemon/starly.md)
 
@@ -126,7 +150,7 @@
 
 	**#396 [Starly](../pokemon/starly.md)**
 
-	Level 25
+	Level 17
 
 -	[![Staravia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/397.png){: .pokemon-sprite-img }](../pokemon/staravia.md)
 
@@ -134,7 +158,7 @@
 
 	**#397 [Staravia](../pokemon/staravia.md)**
 
-	Level 28
+	Level 18
 
 -	[![Staraptor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/398.png){: .pokemon-sprite-img }](../pokemon/staraptor.md)
 
@@ -142,7 +166,15 @@
 
 	**#398 [Staraptor](../pokemon/staraptor.md)**
 
-	Level 28
+	Level 18
+
+-	[![Gallade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/475.png){: .pokemon-sprite-img }](../pokemon/gallade.md)
+
+	***
+
+	**#475 [Gallade](../pokemon/gallade.md)**
+
+	Level 19
 
 </div>
 

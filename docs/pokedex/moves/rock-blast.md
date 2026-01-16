@@ -70,7 +70,7 @@
 
 	**#074 [Geodude](../pokemon/geodude.md)**
 
-	Level 25
+	Level 34
 
 -	[![Graveler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/75.png){: .pokemon-sprite-img }](../pokemon/graveler.md)
 
@@ -78,7 +78,7 @@
 
 	**#075 [Graveler](../pokemon/graveler.md)**
 
-	Level 27
+	Level 38
 
 -	[![Golem](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/76.png){: .pokemon-sprite-img }](../pokemon/golem.md)
 
@@ -86,7 +86,15 @@
 
 	**#076 [Golem](../pokemon/golem.md)**
 
-	Level 27
+	Level 38
+
+-	[![Cloyster](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/91.png){: .pokemon-sprite-img }](../pokemon/cloyster.md)
+
+	***
+
+	**#091 [Cloyster](../pokemon/cloyster.md)**
+
+	Level 37
 
 -	[![Rhyhorn](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/111.png){: .pokemon-sprite-img }](../pokemon/rhyhorn.md)
 
@@ -94,7 +102,7 @@
 
 	**#111 [Rhyhorn](../pokemon/rhyhorn.md)**
 
-	Level 25
+	Level 16
 
 -	[![Rhydon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/112.png){: .pokemon-sprite-img }](../pokemon/rhydon.md)
 
@@ -102,7 +110,7 @@
 
 	**#112 [Rhydon](../pokemon/rhydon.md)**
 
-	Level 25
+	Level 16
 
 -	[![Omanyte](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/138.png){: .pokemon-sprite-img }](../pokemon/omanyte.md)
 
@@ -110,7 +118,7 @@
 
 	**#138 [Omanyte](../pokemon/omanyte.md)**
 
-	Level 46
+	Level 43
 
 -	[![Omastar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/139.png){: .pokemon-sprite-img }](../pokemon/omastar.md)
 
@@ -118,7 +126,23 @@
 
 	**#139 [Omastar](../pokemon/omastar.md)**
 
-	Level 56
+	Level 48
+
+-	[![Shuckle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/213.png){: .pokemon-sprite-img }](../pokemon/shuckle.md)
+
+	***
+
+	**#213 [Shuckle](../pokemon/shuckle.md)**
+
+	Level 33
+
+-	[![Heracross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/214.png){: .pokemon-sprite-img }](../pokemon/heracross.md)
+
+	***
+
+	**#214 [Heracross](../pokemon/heracross.md)**
+
+	Level 1
 
 -	[![Corsola](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/222.png){: .pokemon-sprite-img }](../pokemon/corsola.md)
 
@@ -126,7 +150,7 @@
 
 	**#222 [Corsola](../pokemon/corsola.md)**
 
-	Level 20
+	Level 40
 
 -	[![Octillery](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/224.png){: .pokemon-sprite-img }](../pokemon/octillery.md)
 
@@ -136,13 +160,21 @@
 
 	Level 1
 
+-	[![Nosepass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/299.png){: .pokemon-sprite-img }](../pokemon/nosepass.md)
+
+	***
+
+	**#299 [Nosepass](../pokemon/nosepass.md)**
+
+	Level 28
+
 -	[![Anorith](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/347.png){: .pokemon-sprite-img }](../pokemon/anorith.md)
 
 	***
 
 	**#347 [Anorith](../pokemon/anorith.md)**
 
-	Level 49
+	Level 45
 
 -	[![Armaldo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/348.png){: .pokemon-sprite-img }](../pokemon/armaldo.md)
 
@@ -150,7 +182,7 @@
 
 	**#348 [Armaldo](../pokemon/armaldo.md)**
 
-	Level 55
+	Level 51
 
 -	[![Rhyperior](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/464.png){: .pokemon-sprite-img }](../pokemon/rhyperior.md)
 
@@ -158,7 +190,15 @@
 
 	**#464 [Rhyperior](../pokemon/rhyperior.md)**
 
-	Level 25
+	Level 16
+
+-	[![Probopass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/476.png){: .pokemon-sprite-img }](../pokemon/probopass.md)
+
+	***
+
+	**#476 [Probopass](../pokemon/probopass.md)**
+
+	Level 28
 
 </div>
 

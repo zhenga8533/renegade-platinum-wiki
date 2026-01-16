@@ -70,7 +70,7 @@
 
 	**#123 [Scyther](../pokemon/scyther.md)**
 
-	Level 33
+	Level 28
 
 -	[![Scizor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/212.png){: .pokemon-sprite-img }](../pokemon/scizor.md)
 
@@ -78,7 +78,7 @@
 
 	**#212 [Scizor](../pokemon/scizor.md)**
 
-	Level 33
+	Level 28
 
 -	[![Nuzleaf](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/274.png){: .pokemon-sprite-img }](../pokemon/nuzleaf.md)
 
@@ -86,7 +86,7 @@
 
 	**#274 [Nuzleaf](../pokemon/nuzleaf.md)**
 
-	Level 37
+	Level 29
 
 -	[![Absol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/359.png){: .pokemon-sprite-img }](../pokemon/absol.md)
 
@@ -94,7 +94,7 @@
 
 	**#359 [Absol](../pokemon/absol.md)**
 
-	Level 17
+	Level 40
 
 -	[![Buizel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/418.png){: .pokemon-sprite-img }](../pokemon/buizel.md)
 
@@ -102,7 +102,7 @@
 
 	**#418 [Buizel](../pokemon/buizel.md)**
 
-	Level 45
+	Level 34
 
 -	[![Floatzel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/419.png){: .pokemon-sprite-img }](../pokemon/floatzel.md)
 
@@ -110,7 +110,7 @@
 
 	**#419 [Floatzel](../pokemon/floatzel.md)**
 
-	Level 50
+	Level 37
 
 </div>
 

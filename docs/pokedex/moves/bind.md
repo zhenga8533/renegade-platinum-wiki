@@ -78,7 +78,7 @@
 
 	**#114 [Tangela](../pokemon/tangela.md)**
 
-	Level 22
+	Level 10
 
 -	[![Pinsir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/127.png){: .pokemon-sprite-img }](../pokemon/pinsir.md)
 
@@ -86,7 +86,15 @@
 
 	**#127 [Pinsir](../pokemon/pinsir.md)**
 
-	Level 4
+	Level 1
+
+-	[![Gyarados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/130.png){: .pokemon-sprite-img }](../pokemon/gyarados.md)
+
+	***
+
+	**#130 [Gyarados](../pokemon/gyarados.md)**
+
+	Level 1
 
 -	[![Steelix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/208.png){: .pokemon-sprite-img }](../pokemon/steelix.md)
 
@@ -126,7 +134,7 @@
 
 	**#465 [Tangrowth](../pokemon/tangrowth.md)**
 
-	Level 22
+	Level 10
 
 -	[![Dusknoir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/477.png){: .pokemon-sprite-img }](../pokemon/dusknoir.md)
 

@@ -104,6 +104,22 @@
 
 	Level 1
 
+-	[![Kricketot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/401.png){: .pokemon-sprite-img }](../pokemon/kricketot.md)
+
+	***
+
+	**#401 [Kricketot](../pokemon/kricketot.md)**
+
+	Level 1
+
+-	[![Kricketune](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/402.png){: .pokemon-sprite-img }](../pokemon/kricketune.md)
+
+	***
+
+	**#402 [Kricketune](../pokemon/kricketune.md)**
+
+	Level 1
+
 </div>
 
 ### :material-school: Tutor

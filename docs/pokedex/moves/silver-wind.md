@@ -70,7 +70,7 @@
 
 	**#012 [Butterfree](../pokemon/butterfree.md)**
 
-	Level 28
+	Level 15
 
 -	[![Venomoth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/49.png){: .pokemon-sprite-img }](../pokemon/venomoth.md)
 
@@ -86,7 +86,7 @@
 
 	**#165 [Ledyba](../pokemon/ledyba.md)**
 
-	Level 25
+	Level 18
 
 -	[![Ledian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/166.png){: .pokemon-sprite-img }](../pokemon/ledian.md)
 
@@ -94,7 +94,15 @@
 
 	**#166 [Ledian](../pokemon/ledian.md)**
 
-	Level 29
+	Level 19
+
+-	[![Yanma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/193.png){: .pokemon-sprite-img }](../pokemon/yanma.md)
+
+	***
+
+	**#193 [Yanma](../pokemon/yanma.md)**
+
+	Level 15
 
 -	[![Beautifly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/267.png){: .pokemon-sprite-img }](../pokemon/beautifly.md)
 
@@ -102,7 +110,7 @@
 
 	**#267 [Beautifly](../pokemon/beautifly.md)**
 
-	Level 34
+	Level 15
 
 -	[![Dustox](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/269.png){: .pokemon-sprite-img }](../pokemon/dustox.md)
 
@@ -110,7 +118,7 @@
 
 	**#269 [Dustox](../pokemon/dustox.md)**
 
-	Level 34
+	Level 15
 
 -	[![Masquerain](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/284.png){: .pokemon-sprite-img }](../pokemon/masquerain.md)
 
@@ -118,15 +126,15 @@
 
 	**#284 [Masquerain](../pokemon/masquerain.md)**
 
-	Level 40
+	Level 29
 
--	[![Mothim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/414.png){: .pokemon-sprite-img }](../pokemon/mothim.md)
+-	[![Illumise](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/314.png){: .pokemon-sprite-img }](../pokemon/illumise.md)
 
 	***
 
-	**#414 [Mothim](../pokemon/mothim.md)**
+	**#314 [Illumise](../pokemon/illumise.md)**
 
-	Level 38
+	Level 15
 
 -	[![Finneon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/456.png){: .pokemon-sprite-img }](../pokemon/finneon.md)
 
@@ -134,7 +142,7 @@
 
 	**#456 [Finneon](../pokemon/finneon.md)**
 
-	Level 49
+	Level 33
 
 -	[![Lumineon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/457.png){: .pokemon-sprite-img }](../pokemon/lumineon.md)
 
@@ -142,7 +150,15 @@
 
 	**#457 [Lumineon](../pokemon/lumineon.md)**
 
-	Level 59
+	Level 34
+
+-	[![Yanmega](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/469.png){: .pokemon-sprite-img }](../pokemon/yanmega.md)
+
+	***
+
+	**#469 [Yanmega](../pokemon/yanmega.md)**
+
+	Level 15
 
 </div>
 

@@ -78,7 +78,7 @@
 
 	**#331 [Cacnea](../pokemon/cacnea.md)**
 
-	Level 45
+	Level 25
 
 -	[![Cacturne](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/332.png){: .pokemon-sprite-img }](../pokemon/cacturne.md)
 
@@ -86,7 +86,7 @@
 
 	**#332 [Cacturne](../pokemon/cacturne.md)**
 
-	Level 53
+	Level 25
 
 </div>
 

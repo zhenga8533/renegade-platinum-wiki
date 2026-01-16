@@ -70,7 +70,7 @@
 
 	**#066 [Machop](../pokemon/machop.md)**
 
-	Level 22
+	Level 17
 
 -	[![Machoke](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/67.png){: .pokemon-sprite-img }](../pokemon/machoke.md)
 
@@ -78,7 +78,7 @@
 
 	**#067 [Machoke](../pokemon/machoke.md)**
 
-	Level 22
+	Level 17
 
 -	[![Machamp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/68.png){: .pokemon-sprite-img }](../pokemon/machamp.md)
 
@@ -86,7 +86,15 @@
 
 	**#068 [Machamp](../pokemon/machamp.md)**
 
-	Level 22
+	Level 17
+
+-	[![Farfetchˈd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){: .pokemon-sprite-img }](../pokemon/farfetchd.md)
+
+	***
+
+	**#083 [Farfetchˈd](../pokemon/farfetchd.md)**
+
+	Level 25
 
 -	[![Hitmonlee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/106.png){: .pokemon-sprite-img }](../pokemon/hitmonlee.md)
 
@@ -110,7 +118,15 @@
 
 	**#127 [Pinsir](../pokemon/pinsir.md)**
 
-	Level 18
+	Level 16
+
+-	[![Pineco](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/204.png){: .pokemon-sprite-img }](../pokemon/pineco.md)
+
+	***
+
+	**#204 [Pineco](../pokemon/pineco.md)**
+
+	Level 1
 
 -	[![Qwilfish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/211.png){: .pokemon-sprite-img }](../pokemon/qwilfish.md)
 
@@ -118,7 +134,7 @@
 
 	**#211 [Qwilfish](../pokemon/qwilfish.md)**
 
-	Level 29
+	Level 30
 
 -	[![Hitmontop](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/237.png){: .pokemon-sprite-img }](../pokemon/hitmontop.md)
 
@@ -128,13 +144,37 @@
 
 	Level 1
 
+-	[![Makuhita](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/296.png){: .pokemon-sprite-img }](../pokemon/makuhita.md)
+
+	***
+
+	**#296 [Makuhita](../pokemon/makuhita.md)**
+
+	Level 27
+
+-	[![Hariyama](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/297.png){: .pokemon-sprite-img }](../pokemon/hariyama.md)
+
+	***
+
+	**#297 [Hariyama](../pokemon/hariyama.md)**
+
+	Level 29
+
 -	[![Cacturne](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/332.png){: .pokemon-sprite-img }](../pokemon/cacturne.md)
 
 	***
 
 	**#332 [Cacturne](../pokemon/cacturne.md)**
 
-	Level 1
+	Level 32
+
+-	[![Zangoose](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/335.png){: .pokemon-sprite-img }](../pokemon/zangoose.md)
+
+	***
+
+	**#335 [Zangoose](../pokemon/zangoose.md)**
+
+	Level 19
 
 -	[![Croagunk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/453.png){: .pokemon-sprite-img }](../pokemon/croagunk.md)
 
@@ -142,7 +182,7 @@
 
 	**#453 [Croagunk](../pokemon/croagunk.md)**
 
-	Level 22
+	Level 19
 
 -	[![Toxicroak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/454.png){: .pokemon-sprite-img }](../pokemon/toxicroak.md)
 
@@ -150,7 +190,7 @@
 
 	**#454 [Toxicroak](../pokemon/toxicroak.md)**
 
-	Level 22
+	Level 19
 
 -	[![Weavile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/461.png){: .pokemon-sprite-img }](../pokemon/weavile.md)
 
@@ -166,7 +206,7 @@
 
 	**#486 [Regigigas](../pokemon/regigigas.md)**
 
-	Level 25
+	Level 22
 
 </div>
 

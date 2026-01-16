@@ -70,7 +70,7 @@
 
 	**#016 [Pidgey](../pokemon/pidgey.md)**
 
-	Level 25
+	Level 18
 
 -	[![Pidgeotto](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/17.png){: .pokemon-sprite-img }](../pokemon/pidgeotto.md)
 
@@ -78,7 +78,7 @@
 
 	**#017 [Pidgeotto](../pokemon/pidgeotto.md)**
 
-	Level 27
+	Level 19
 
 -	[![Pidgeot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/18.png){: .pokemon-sprite-img }](../pokemon/pidgeot.md)
 
@@ -86,7 +86,23 @@
 
 	**#018 [Pidgeot](../pokemon/pidgeot.md)**
 
-	Level 27
+	Level 19
+
+-	[![Torchic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/255.png){: .pokemon-sprite-img }](../pokemon/torchic.md)
+
+	***
+
+	**#255 [Torchic](../pokemon/torchic.md)**
+
+	Level 26
+
+-	[![Empoleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/395.png){: .pokemon-sprite-img }](../pokemon/empoleon.md)
+
+	***
+
+	**#395 [Empoleon](../pokemon/empoleon.md)**
+
+	Level 1
 
 -	[![Chatot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/441.png){: .pokemon-sprite-img }](../pokemon/chatot.md)
 
@@ -94,7 +110,7 @@
 
 	**#441 [Chatot](../pokemon/chatot.md)**
 
-	Level 41
+	Level 42
 
 </div>
 

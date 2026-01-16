@@ -70,7 +70,7 @@
 
 	**#108 [Lickitung](../pokemon/lickitung.md)**
 
-	Level 41
+	Level 40
 
 -	[![Chansey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/113.png){: .pokemon-sprite-img }](../pokemon/chansey.md)
 
@@ -78,7 +78,15 @@
 
 	**#113 [Chansey](../pokemon/chansey.md)**
 
-	Level 9
+	Level 7
+
+-	[![Eevee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/133.png){: .pokemon-sprite-img }](../pokemon/eevee.md)
+
+	***
+
+	**#133 [Eevee](../pokemon/eevee.md)**
+
+	Level 19
 
 -	[![Corsola](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/222.png){: .pokemon-sprite-img }](../pokemon/corsola.md)
 
@@ -86,7 +94,7 @@
 
 	**#222 [Corsola](../pokemon/corsola.md)**
 
-	Level 16
+	Level 10
 
 -	[![Blissey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/242.png){: .pokemon-sprite-img }](../pokemon/blissey.md)
 
@@ -94,7 +102,7 @@
 
 	**#242 [Blissey](../pokemon/blissey.md)**
 
-	Level 9
+	Level 7
 
 -	[![Swablu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/333.png){: .pokemon-sprite-img }](../pokemon/swablu.md)
 
@@ -102,7 +110,7 @@
 
 	**#333 [Swablu](../pokemon/swablu.md)**
 
-	Level 40
+	Level 34
 
 -	[![Altaria](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/334.png){: .pokemon-sprite-img }](../pokemon/altaria.md)
 
@@ -110,7 +118,7 @@
 
 	**#334 [Altaria](../pokemon/altaria.md)**
 
-	Level 46
+	Level 34
 
 -	[![Milotic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/350.png){: .pokemon-sprite-img }](../pokemon/milotic.md)
 
@@ -118,7 +126,7 @@
 
 	**#350 [Milotic](../pokemon/milotic.md)**
 
-	Level 9
+	Level 5
 
 -	[![Latias](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/380.png){: .pokemon-sprite-img }](../pokemon/latias.md)
 
@@ -126,7 +134,7 @@
 
 	**#380 [Latias](../pokemon/latias.md)**
 
-	Level 30
+	Level 14
 
 -	[![Latios](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/381.png){: .pokemon-sprite-img }](../pokemon/latios.md)
 
@@ -134,7 +142,7 @@
 
 	**#381 [Latios](../pokemon/latios.md)**
 
-	Level 30
+	Level 14
 
 -	[![Jirachi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/385.png){: .pokemon-sprite-img }](../pokemon/jirachi.md)
 
@@ -142,7 +150,7 @@
 
 	**#385 [Jirachi](../pokemon/jirachi.md)**
 
-	Level 25
+	Level 14
 
 -	[![Happiny](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/440.png){: .pokemon-sprite-img }](../pokemon/happiny.md)
 
@@ -150,7 +158,7 @@
 
 	**#440 [Happiny](../pokemon/happiny.md)**
 
-	Level 9
+	Level 7
 
 -	[![Lickilicky](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/463.png){: .pokemon-sprite-img }](../pokemon/lickilicky.md)
 
@@ -158,7 +166,7 @@
 
 	**#463 [Lickilicky](../pokemon/lickilicky.md)**
 
-	Level 41
+	Level 40
 
 -	[![Arceus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/493.png){: .pokemon-sprite-img }](../pokemon/arceus.md)
 
@@ -166,7 +174,7 @@
 
 	**#493 [Arceus](../pokemon/arceus.md)**
 
-	Level 50
+	Level 22
 
 </div>
 

@@ -70,7 +70,7 @@
 
 	**#179 [Mareep](../pokemon/mareep.md)**
 
-	Level 19
+	Level 10
 
 -	[![Flaaffy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/180.png){: .pokemon-sprite-img }](../pokemon/flaaffy.md)
 
@@ -78,7 +78,7 @@
 
 	**#180 [Flaaffy](../pokemon/flaaffy.md)**
 
-	Level 20
+	Level 10
 
 -	[![Ampharos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/181.png){: .pokemon-sprite-img }](../pokemon/ampharos.md)
 
@@ -86,7 +86,7 @@
 
 	**#181 [Ampharos](../pokemon/ampharos.md)**
 
-	Level 20
+	Level 10
 
 -	[![Hoppip](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/187.png){: .pokemon-sprite-img }](../pokemon/hoppip.md)
 
@@ -94,7 +94,7 @@
 
 	**#187 [Hoppip](../pokemon/hoppip.md)**
 
-	Level 28
+	Level 19
 
 -	[![Skiploom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/188.png){: .pokemon-sprite-img }](../pokemon/skiploom.md)
 
@@ -102,7 +102,7 @@
 
 	**#188 [Skiploom](../pokemon/skiploom.md)**
 
-	Level 32
+	Level 20
 
 -	[![Jumpluff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/189.png){: .pokemon-sprite-img }](../pokemon/jumpluff.md)
 
@@ -110,7 +110,7 @@
 
 	**#189 [Jumpluff](../pokemon/jumpluff.md)**
 
-	Level 32
+	Level 20
 
 -	[![Cacnea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/331.png){: .pokemon-sprite-img }](../pokemon/cacnea.md)
 
@@ -118,7 +118,7 @@
 
 	**#331 [Cacnea](../pokemon/cacnea.md)**
 
-	Level 49
+	Level 46
 
 -	[![Cacturne](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/332.png){: .pokemon-sprite-img }](../pokemon/cacturne.md)
 
@@ -126,7 +126,7 @@
 
 	**#332 [Cacturne](../pokemon/cacturne.md)**
 
-	Level 59
+	Level 51
 
 </div>
 

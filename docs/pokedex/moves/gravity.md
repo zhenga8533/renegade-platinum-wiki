@@ -70,7 +70,15 @@
 
 	**#035 [Clefairy](../pokemon/clefairy.md)**
 
-	Level 34
+	Level 37
+
+-	[![Claydol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/344.png){: .pokemon-sprite-img }](../pokemon/claydol.md)
+
+	***
+
+	**#344 [Claydol](../pokemon/claydol.md)**
+
+	Level 1
 
 -	[![Dusclops](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/356.png){: .pokemon-sprite-img }](../pokemon/dusclops.md)
 
@@ -80,13 +88,21 @@
 
 	Level 1
 
+-	[![Registeel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/379.png){: .pokemon-sprite-img }](../pokemon/registeel.md)
+
+	***
+
+	**#379 [Registeel](../pokemon/registeel.md)**
+
+	Level 38
+
 -	[![Jirachi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/385.png){: .pokemon-sprite-img }](../pokemon/jirachi.md)
 
 	***
 
 	**#385 [Jirachi](../pokemon/jirachi.md)**
 
-	Level 45
+	Level 30
 
 -	[![Probopass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/476.png){: .pokemon-sprite-img }](../pokemon/probopass.md)
 
@@ -110,7 +126,7 @@
 
 	**#493 [Arceus](../pokemon/arceus.md)**
 
-	Level 10
+	Level 6
 
 </div>
 

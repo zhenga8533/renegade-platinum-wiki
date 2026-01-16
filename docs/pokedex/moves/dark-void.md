@@ -70,7 +70,7 @@
 
 	**#491 [Darkrai](../pokemon/darkrai.md)**
 
-	Level 66
+	Level 38
 
 </div>
 

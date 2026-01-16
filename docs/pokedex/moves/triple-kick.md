@@ -70,7 +70,7 @@
 
 	**#237 [Hitmontop](../pokemon/hitmontop.md)**
 
-	Level 19
+	Level 29
 
 </div>
 

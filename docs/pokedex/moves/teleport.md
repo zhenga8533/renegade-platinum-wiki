@@ -64,6 +64,22 @@
 
 <div class="grid cards" markdown>
 
+-	[![Butterfree](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/12.png){: .pokemon-sprite-img }](../pokemon/butterfree.md)
+
+	***
+
+	**#012 [Butterfree](../pokemon/butterfree.md)**
+
+	Level 43
+
+-	[![Clefable](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/36.png){: .pokemon-sprite-img }](../pokemon/clefable.md)
+
+	***
+
+	**#036 [Clefable](../pokemon/clefable.md)**
+
+	Level 1
+
 -	[![Abra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/63.png){: .pokemon-sprite-img }](../pokemon/abra.md)
 
 	***
@@ -85,6 +101,14 @@
 	***
 
 	**#065 [Alakazam](../pokemon/alakazam.md)**
+
+	Level 1
+
+-	[![Mewtwo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/150.png){: .pokemon-sprite-img }](../pokemon/mewtwo.md)
+
+	***
+
+	**#150 [Mewtwo](../pokemon/mewtwo.md)**
 
 	Level 1
 
@@ -110,7 +134,7 @@
 
 	**#280 [Ralts](../pokemon/ralts.md)**
 
-	Level 12
+	Level 1
 
 -	[![Kirlia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/281.png){: .pokemon-sprite-img }](../pokemon/kirlia.md)
 
@@ -120,14 +144,6 @@
 
 	Level 1
 
--	[![Kirlia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/281.png){: .pokemon-sprite-img }](../pokemon/kirlia.md)
-
-	***
-
-	**#281 [Kirlia](../pokemon/kirlia.md)**
-
-	Level 12
-
 -	[![Gardevoir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/282.png){: .pokemon-sprite-img }](../pokemon/gardevoir.md)
 
 	***
@@ -135,14 +151,6 @@
 	**#282 [Gardevoir](../pokemon/gardevoir.md)**
 
 	Level 1
-
--	[![Gardevoir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/282.png){: .pokemon-sprite-img }](../pokemon/gardevoir.md)
-
-	***
-
-	**#282 [Gardevoir](../pokemon/gardevoir.md)**
-
-	Level 12
 
 -	[![Claydol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/344.png){: .pokemon-sprite-img }](../pokemon/claydol.md)
 
@@ -167,14 +175,6 @@
 	**#475 [Gallade](../pokemon/gallade.md)**
 
 	Level 1
-
--	[![Gallade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/475.png){: .pokemon-sprite-img }](../pokemon/gallade.md)
-
-	***
-
-	**#475 [Gallade](../pokemon/gallade.md)**
-
-	Level 12
 
 </div>
 

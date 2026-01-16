@@ -70,7 +70,7 @@
 
 	**#098 [Krabby](../pokemon/krabby.md)**
 
-	Level 41
+	Level 23
 
 -	[![Kingler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/99.png){: .pokemon-sprite-img }](../pokemon/kingler.md)
 
@@ -78,7 +78,7 @@
 
 	**#099 [Kingler](../pokemon/kingler.md)**
 
-	Level 56
+	Level 23
 
 -	[![Corphish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/341.png){: .pokemon-sprite-img }](../pokemon/corphish.md)
 
@@ -86,7 +86,7 @@
 
 	**#341 [Corphish](../pokemon/corphish.md)**
 
-	Level 38
+	Level 20
 
 -	[![Crawdaunt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/342.png){: .pokemon-sprite-img }](../pokemon/crawdaunt.md)
 
@@ -94,7 +94,7 @@
 
 	**#342 [Crawdaunt](../pokemon/crawdaunt.md)**
 
-	Level 44
+	Level 20
 
 </div>
 

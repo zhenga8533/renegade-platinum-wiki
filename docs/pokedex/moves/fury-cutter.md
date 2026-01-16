@@ -70,7 +70,7 @@
 
 	**#027 [Sandshrew](../pokemon/sandshrew.md)**
 
-	Level 25
+	Level 13
 
 -	[![Sandslash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/28.png){: .pokemon-sprite-img }](../pokemon/sandslash.md)
 
@@ -78,7 +78,23 @@
 
 	**#028 [Sandslash](../pokemon/sandslash.md)**
 
-	Level 28
+	Level 13
+
+-	[![Paras](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/46.png){: .pokemon-sprite-img }](../pokemon/paras.md)
+
+	***
+
+	**#046 [Paras](../pokemon/paras.md)**
+
+	Level 1
+
+-	[![Parasect](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/47.png){: .pokemon-sprite-img }](../pokemon/parasect.md)
+
+	***
+
+	**#047 [Parasect](../pokemon/parasect.md)**
+
+	Level 1
 
 -	[![Farfetchˈd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){: .pokemon-sprite-img }](../pokemon/farfetchd.md)
 
@@ -94,7 +110,7 @@
 
 	**#123 [Scyther](../pokemon/scyther.md)**
 
-	Level 25
+	Level 13
 
 -	[![Gligar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/207.png){: .pokemon-sprite-img }](../pokemon/gligar.md)
 
@@ -102,7 +118,7 @@
 
 	**#207 [Gligar](../pokemon/gligar.md)**
 
-	Level 20
+	Level 7
 
 -	[![Scizor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/212.png){: .pokemon-sprite-img }](../pokemon/scizor.md)
 
@@ -110,13 +126,21 @@
 
 	**#212 [Scizor](../pokemon/scizor.md)**
 
-	Level 25
+	Level 13
 
 -	[![Grovyle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/253.png){: .pokemon-sprite-img }](../pokemon/grovyle.md)
 
 	***
 
 	**#253 [Grovyle](../pokemon/grovyle.md)**
+
+	Level 16
+
+-	[![Sceptile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/254.png){: .pokemon-sprite-img }](../pokemon/sceptile.md)
+
+	***
+
+	**#254 [Sceptile](../pokemon/sceptile.md)**
 
 	Level 16
 
@@ -134,7 +158,7 @@
 
 	**#335 [Zangoose](../pokemon/zangoose.md)**
 
-	Level 14
+	Level 7
 
 -	[![Anorith](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/347.png){: .pokemon-sprite-img }](../pokemon/anorith.md)
 
@@ -142,7 +166,7 @@
 
 	**#347 [Anorith](../pokemon/anorith.md)**
 
-	Level 37
+	Level 12
 
 -	[![Armaldo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/348.png){: .pokemon-sprite-img }](../pokemon/armaldo.md)
 
@@ -150,7 +174,15 @@
 
 	**#348 [Armaldo](../pokemon/armaldo.md)**
 
-	Level 37
+	Level 12
+
+-	[![Kricketune](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/402.png){: .pokemon-sprite-img }](../pokemon/kricketune.md)
+
+	***
+
+	**#402 [Kricketune](../pokemon/kricketune.md)**
+
+	Level 1
 
 -	[![Kricketune](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/402.png){: .pokemon-sprite-img }](../pokemon/kricketune.md)
 
@@ -166,7 +198,7 @@
 
 	**#416 [Vespiquen](../pokemon/vespiquen.md)**
 
-	Level 9
+	Level 5
 
 -	[![Gliscor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/472.png){: .pokemon-sprite-img }](../pokemon/gliscor.md)
 
@@ -174,7 +206,7 @@
 
 	**#472 [Gliscor](../pokemon/gliscor.md)**
 
-	Level 20
+	Level 7
 
 -	[![Gallade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/475.png){: .pokemon-sprite-img }](../pokemon/gallade.md)
 
@@ -182,7 +214,7 @@
 
 	**#475 [Gallade](../pokemon/gallade.md)**
 
-	Level 17
+	Level 10
 
 </div>
 

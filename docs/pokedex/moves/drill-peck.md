@@ -64,13 +64,21 @@
 
 <div class="grid cards" markdown>
 
+-	[![Beedrill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/15.png){: .pokemon-sprite-img }](../pokemon/beedrill.md)
+
+	***
+
+	**#015 [Beedrill](../pokemon/beedrill.md)**
+
+	Level 34
+
 -	[![Spearow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/21.png){: .pokemon-sprite-img }](../pokemon/spearow.md)
 
 	***
 
 	**#021 [Spearow](../pokemon/spearow.md)**
 
-	Level 37
+	Level 25
 
 -	[![Fearow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/22.png){: .pokemon-sprite-img }](../pokemon/fearow.md)
 
@@ -78,7 +86,7 @@
 
 	**#022 [Fearow](../pokemon/fearow.md)**
 
-	Level 47
+	Level 27
 
 -	[![Doduo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/84.png){: .pokemon-sprite-img }](../pokemon/doduo.md)
 
@@ -86,7 +94,7 @@
 
 	**#084 [Doduo](../pokemon/doduo.md)**
 
-	Level 41
+	Level 30
 
 -	[![Dodrio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/85.png){: .pokemon-sprite-img }](../pokemon/dodrio.md)
 
@@ -94,7 +102,7 @@
 
 	**#085 [Dodrio](../pokemon/dodrio.md)**
 
-	Level 47
+	Level 30
 
 -	[![Zapdos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/145.png){: .pokemon-sprite-img }](../pokemon/zapdos.md)
 
@@ -102,7 +110,31 @@
 
 	**#145 [Zapdos](../pokemon/zapdos.md)**
 
-	Level 71
+	Level 34
+
+-	[![Murkrow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/198.png){: .pokemon-sprite-img }](../pokemon/murkrow.md)
+
+	***
+
+	**#198 [Murkrow](../pokemon/murkrow.md)**
+
+	Level 25
+
+-	[![Delibird](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/225.png){: .pokemon-sprite-img }](../pokemon/delibird.md)
+
+	***
+
+	**#225 [Delibird](../pokemon/delibird.md)**
+
+	Level 24
+
+-	[![Skarmory](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/227.png){: .pokemon-sprite-img }](../pokemon/skarmory.md)
+
+	***
+
+	**#227 [Skarmory](../pokemon/skarmory.md)**
+
+	Level 28
 
 -	[![Piplup](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/393.png){: .pokemon-sprite-img }](../pokemon/piplup.md)
 
@@ -110,7 +142,7 @@
 
 	**#393 [Piplup](../pokemon/piplup.md)**
 
-	Level 39
+	Level 38
 
 -	[![Prinplup](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/394.png){: .pokemon-sprite-img }](../pokemon/prinplup.md)
 
@@ -126,7 +158,7 @@
 
 	**#395 [Empoleon](../pokemon/empoleon.md)**
 
-	Level 52
+	Level 49
 
 </div>
 

@@ -60,25 +60,5 @@
 
 ## :material-pokeball: Learning Pokémon
 
-### :material-arrow-up-bold: Level-Up
-
-<div class="grid cards" markdown>
-
--	[![Exeggcute](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/102.png){: .pokemon-sprite-img }](../pokemon/exeggcute.md)
-
-	***
-
-	**#102 [Exeggcute](../pokemon/exeggcute.md)**
-
-	Level 1
-
--	[![Exeggutor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/103.png){: .pokemon-sprite-img }](../pokemon/exeggutor.md)
-
-	***
-
-	**#103 [Exeggutor](../pokemon/exeggutor.md)**
-
-	Level 1
-
-</div>
+*No Pokémon can learn this move.*
 

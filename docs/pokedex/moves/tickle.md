@@ -70,7 +70,7 @@
 
 	**#114 [Tangela](../pokemon/tangela.md)**
 
-	Level 47
+	Level 40
 
 -	[![Omanyte](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/138.png){: .pokemon-sprite-img }](../pokemon/omanyte.md)
 
@@ -78,7 +78,7 @@
 
 	**#138 [Omanyte](../pokemon/omanyte.md)**
 
-	Level 43
+	Level 37
 
 -	[![Omastar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/139.png){: .pokemon-sprite-img }](../pokemon/omastar.md)
 
@@ -86,7 +86,7 @@
 
 	**#139 [Omastar](../pokemon/omastar.md)**
 
-	Level 48
+	Level 40
 
 -	[![Aipom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/190.png){: .pokemon-sprite-img }](../pokemon/aipom.md)
 
@@ -94,7 +94,7 @@
 
 	**#190 [Aipom](../pokemon/aipom.md)**
 
-	Level 15
+	Level 8
 
 -	[![Whiscash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/340.png){: .pokemon-sprite-img }](../pokemon/whiscash.md)
 
@@ -104,13 +104,21 @@
 
 	Level 1
 
+-	[![Milotic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/350.png){: .pokemon-sprite-img }](../pokemon/milotic.md)
+
+	***
+
+	**#350 [Milotic](../pokemon/milotic.md)**
+
+	Level 7
+
 -	[![Ambipom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/424.png){: .pokemon-sprite-img }](../pokemon/ambipom.md)
 
 	***
 
 	**#424 [Ambipom](../pokemon/ambipom.md)**
 
-	Level 15
+	Level 8
 
 -	[![Mime Jr.](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/439.png){: .pokemon-sprite-img }](../pokemon/mime-jr.md)
 
@@ -126,7 +134,7 @@
 
 	**#465 [Tangrowth](../pokemon/tangrowth.md)**
 
-	Level 47
+	Level 40
 
 </div>
 

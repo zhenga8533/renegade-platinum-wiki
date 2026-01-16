@@ -24,6 +24,7 @@ from rom_wiki_core.utils.formatters.markdown_formatter import (
 )
 from rom_wiki_core.utils.services.attribute_service import AttributeService
 from rom_wiki_core.utils.services.pokemon_item_service import PokemonItemService
+from rom_wiki_core.utils.services.pokemon_move_service import PokemonMoveService
 from rom_wiki_core.utils.text.text_util import name_to_id
 
 
@@ -58,6 +59,10 @@ class PokemonChangesParser(BaseParser):
 
         # Track Pokemon with held items updated to skip later
         self._held_item_updated = set()
+
+        # Track moves for current Pokemon
+        self._levelup_moves: list[tuple[int, str]] = []
+        self._machine_moves: list[tuple[str, str, str]] = []  # (type, number, name)
 
     def _update_all_pokemon_to_gen7(self) -> None:
         """Update all existing Pokemon in parsed data to match gen7 stats.
@@ -210,6 +215,9 @@ class PokemonChangesParser(BaseParser):
 
         # Matches: XXX - Pokemon
         if match := re.match(r"^(\d{3}) - (.+?)$", line):
+            # Save moves for the previous Pokemon before switching
+            self._save_pokemon_moves()
+
             number, self._current_pokemon = match.groups()
             self._markdown += f"### {number} {self._current_pokemon}\n\n"
             self._markdown += format_pokemon_card_grid(
@@ -255,6 +263,18 @@ class PokemonChangesParser(BaseParser):
             # Format for markdown
             formatted_line = self._parse_moves_line(line)
             self._markdown += f"- {formatted_line}\n"
+
+            # Collect TM/HM move for saving (skip Move Tutor lines)
+            if "Move Tutor" not in line:
+                tm_match = re.match(
+                    r"^Now compatible with (TM|HM)(\d+), (.*?)\.(?: \(!\!\)| \[\*\])?$",
+                    line,
+                )
+                if tm_match:
+                    machine_type = tm_match.group(1)
+                    number = tm_match.group(2)
+                    move_name = tm_match.group(3)
+                    self._machine_moves.append((machine_type, number, move_name))
         # Matches: Now able to evolve...
         elif self._current_attribute == "Evolution" and line.startswith(
             "Now able to evolve"
@@ -266,6 +286,14 @@ class PokemonChangesParser(BaseParser):
             level = match.group(1)
             move = match.group(2)
             self._markdown += self._format_move_row(level, move)
+
+            # Collect level-up move for saving (strip event markers)
+            clean_move = move
+            if clean_move.endswith(" [*]"):
+                clean_move = clean_move[:-4]
+            elif clean_move.endswith(" (!!)"):
+                clean_move = clean_move[:-5]
+            self._levelup_moves.append((int(level), clean_move))
         # Default: regular text line
         else:
             self.parse_default(line)
@@ -276,9 +304,29 @@ class PokemonChangesParser(BaseParser):
         Returns:
             bool: True if should skip, False otherwise
         """
-        # Skip evolution, moves, level up - handled by other parsers/services
+        # Skip evolution - handled by evolution_changes_parser
+        # Skip moves, level up - handled by _save_pokemon_moves in this parser
         skip_attributes = ["Evolution", "Moves", "Level Up"]
         return any(self._current_attribute.startswith(attr) for attr in skip_attributes)
+
+    def _save_pokemon_moves(self) -> None:
+        """Save collected moves for the current Pokemon and reset tracking."""
+        if not self._current_pokemon:
+            return
+
+        # Save level-up moves if any were collected
+        if self._levelup_moves:
+            PokemonMoveService.update_levelup_moves(
+                self._current_pokemon, self._levelup_moves
+            )
+            self._levelup_moves = []
+
+        # Save TM/HM moves if any were collected
+        if self._machine_moves:
+            PokemonMoveService.update_machine_moves(
+                self._current_pokemon, self._machine_moves
+            )
+            self._machine_moves = []
 
     def _format_attribute(self, attribute: str, is_changed: bool) -> str:
         """Format an attribute change section.
@@ -435,3 +483,9 @@ class PokemonChangesParser(BaseParser):
             formatted_line += " (!!)"
 
         return formatted_line
+
+    def finalize(self) -> None:
+        """Finalize the parser, saving any remaining Pokemon moves."""
+        # Save moves for the last Pokemon
+        self._save_pokemon_moves()
+        super().finalize()

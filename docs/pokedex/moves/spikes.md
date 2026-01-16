@@ -70,7 +70,15 @@
 
 	**#091 [Cloyster](../pokemon/cloyster.md)**
 
-	Level 28
+	Level 25
+
+-	[![Omastar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/139.png){: .pokemon-sprite-img }](../pokemon/omastar.md)
+
+	***
+
+	**#139 [Omastar](../pokemon/omastar.md)**
+
+	Level 1
 
 -	[![Pineco](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/204.png){: .pokemon-sprite-img }](../pokemon/pineco.md)
 
@@ -78,15 +86,7 @@
 
 	**#204 [Pineco](../pokemon/pineco.md)**
 
-	Level 23
-
--	[![Pineco](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/204.png){: .pokemon-sprite-img }](../pokemon/pineco.md)
-
-	***
-
-	**#204 [Pineco](../pokemon/pineco.md)**
-
-	Level 28
+	Level 27
 
 -	[![Forretress](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/205.png){: .pokemon-sprite-img }](../pokemon/forretress.md)
 
@@ -94,15 +94,7 @@
 
 	**#205 [Forretress](../pokemon/forretress.md)**
 
-	Level 23
-
--	[![Forretress](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/205.png){: .pokemon-sprite-img }](../pokemon/forretress.md)
-
-	***
-
-	**#205 [Forretress](../pokemon/forretress.md)**
-
-	Level 28
+	Level 27
 
 -	[![Qwilfish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/211.png){: .pokemon-sprite-img }](../pokemon/qwilfish.md)
 
@@ -118,15 +110,15 @@
 
 	**#227 [Skarmory](../pokemon/skarmory.md)**
 
-	Level 27
+	Level 25
 
--	[![Skarmory](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/227.png){: .pokemon-sprite-img }](../pokemon/skarmory.md)
+-	[![Roselia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/315.png){: .pokemon-sprite-img }](../pokemon/roselia.md)
 
 	***
 
-	**#227 [Skarmory](../pokemon/skarmory.md)**
+	**#315 [Roselia](../pokemon/roselia.md)**
 
-	Level 28
+	Level 24
 
 -	[![Cacnea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/331.png){: .pokemon-sprite-img }](../pokemon/cacnea.md)
 
@@ -134,7 +126,7 @@
 
 	**#331 [Cacnea](../pokemon/cacnea.md)**
 
-	Level 33
+	Level 31
 
 -	[![Cacturne](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/332.png){: .pokemon-sprite-img }](../pokemon/cacturne.md)
 
@@ -142,7 +134,7 @@
 
 	**#332 [Cacturne](../pokemon/cacturne.md)**
 
-	Level 35
+	Level 31
 
 </div>
 

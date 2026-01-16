@@ -70,7 +70,7 @@
 
 	**#001 [Bulbasaur](../pokemon/bulbasaur.md)**
 
-	Level 9
+	Level 5
 
 -	[![Ivysaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/2.png){: .pokemon-sprite-img }](../pokemon/ivysaur.md)
 
@@ -78,7 +78,7 @@
 
 	**#002 [Ivysaur](../pokemon/ivysaur.md)**
 
-	Level 9
+	Level 5
 
 -	[![Venusaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/3.png){: .pokemon-sprite-img }](../pokemon/venusaur.md)
 
@@ -86,15 +86,7 @@
 
 	**#003 [Venusaur](../pokemon/venusaur.md)**
 
-	Level 1
-
--	[![Venusaur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/3.png){: .pokemon-sprite-img }](../pokemon/venusaur.md)
-
-	***
-
-	**#003 [Venusaur](../pokemon/venusaur.md)**
-
-	Level 9
+	Level 5
 
 -	[![Bellsprout](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/69.png){: .pokemon-sprite-img }](../pokemon/bellsprout.md)
 
@@ -126,7 +118,7 @@
 
 	**#114 [Tangela](../pokemon/tangela.md)**
 
-	Level 19
+	Level 7
 
 -	[![Carnivine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/455.png){: .pokemon-sprite-img }](../pokemon/carnivine.md)
 
@@ -134,7 +126,7 @@
 
 	**#455 [Carnivine](../pokemon/carnivine.md)**
 
-	Level 11
+	Level 6
 
 -	[![Tangrowth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/465.png){: .pokemon-sprite-img }](../pokemon/tangrowth.md)
 
@@ -142,7 +134,15 @@
 
 	**#465 [Tangrowth](../pokemon/tangrowth.md)**
 
-	Level 19
+	Level 7
+
+-	[![Leafeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/470.png){: .pokemon-sprite-img }](../pokemon/leafeon.md)
+
+	***
+
+	**#470 [Leafeon](../pokemon/leafeon.md)**
+
+	Level 1
 
 </div>
 

@@ -70,7 +70,7 @@
 
 	**#092 [Gastly](../pokemon/gastly.md)**
 
-	Level 29
+	Level 25
 
 -	[![Haunter](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/93.png){: .pokemon-sprite-img }](../pokemon/haunter.md)
 
@@ -78,7 +78,7 @@
 
 	**#093 [Haunter](../pokemon/haunter.md)**
 
-	Level 33
+	Level 26
 
 -	[![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/94.png){: .pokemon-sprite-img }](../pokemon/gengar.md)
 
@@ -86,7 +86,7 @@
 
 	**#094 [Gengar](../pokemon/gengar.md)**
 
-	Level 33
+	Level 26
 
 -	[![Misdreavus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/200.png){: .pokemon-sprite-img }](../pokemon/misdreavus.md)
 
@@ -94,7 +94,7 @@
 
 	**#200 [Misdreavus](../pokemon/misdreavus.md)**
 
-	Level 37
+	Level 25
 
 -	[![Shedinja](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/292.png){: .pokemon-sprite-img }](../pokemon/shedinja.md)
 
@@ -102,7 +102,7 @@
 
 	**#292 [Shedinja](../pokemon/shedinja.md)**
 
-	Level 59
+	Level 35
 
 -	[![Sableye](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/302.png){: .pokemon-sprite-img }](../pokemon/sableye.md)
 
@@ -110,7 +110,7 @@
 
 	**#302 [Sableye](../pokemon/sableye.md)**
 
-	Level 53
+	Level 41
 
 -	[![Shuppet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/353.png){: .pokemon-sprite-img }](../pokemon/shuppet.md)
 
@@ -118,13 +118,29 @@
 
 	**#353 [Shuppet](../pokemon/shuppet.md)**
 
-	Level 31
+	Level 28
 
 -	[![Banette](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/354.png){: .pokemon-sprite-img }](../pokemon/banette.md)
 
 	***
 
 	**#354 [Banette](../pokemon/banette.md)**
+
+	Level 28
+
+-	[![Duskull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/355.png){: .pokemon-sprite-img }](../pokemon/duskull.md)
+
+	***
+
+	**#355 [Duskull](../pokemon/duskull.md)**
+
+	Level 31
+
+-	[![Dusclops](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/356.png){: .pokemon-sprite-img }](../pokemon/dusclops.md)
+
+	***
+
+	**#356 [Dusclops](../pokemon/dusclops.md)**
 
 	Level 31
 
@@ -134,7 +150,7 @@
 
 	**#425 [Drifloon](../pokemon/drifloon.md)**
 
-	Level 38
+	Level 25
 
 -	[![Drifblim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/426.png){: .pokemon-sprite-img }](../pokemon/drifblim.md)
 
@@ -142,7 +158,39 @@
 
 	**#426 [Drifblim](../pokemon/drifblim.md)**
 
-	Level 44
+	Level 25
+
+-	[![Spiritomb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/442.png){: .pokemon-sprite-img }](../pokemon/spiritomb.md)
+
+	***
+
+	**#442 [Spiritomb](../pokemon/spiritomb.md)**
+
+	Level 28
+
+-	[![Dusknoir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/477.png){: .pokemon-sprite-img }](../pokemon/dusknoir.md)
+
+	***
+
+	**#477 [Dusknoir](../pokemon/dusknoir.md)**
+
+	Level 31
+
+-	[![Froslass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/478.png){: .pokemon-sprite-img }](../pokemon/froslass.md)
+
+	***
+
+	**#478 [Froslass](../pokemon/froslass.md)**
+
+	Level 32
+
+-	[![Rotom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/479.png){: .pokemon-sprite-img }](../pokemon/rotom.md)
+
+	***
+
+	**#479 [Rotom](../pokemon/rotom.md)**
+
+	Level 34
 
 </div>
 
@@ -191,6 +239,12 @@
 	***
 
 	**#036 [Clefable](../pokemon/clefable.md)**
+
+-	[![Ninetales](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/38.png){: .pokemon-sprite-img }](../pokemon/ninetales.md)
+
+	***
+
+	**#038 [Ninetales](../pokemon/ninetales.md)**
 
 -	[![Jigglypuff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/39.png){: .pokemon-sprite-img }](../pokemon/jigglypuff.md)
 

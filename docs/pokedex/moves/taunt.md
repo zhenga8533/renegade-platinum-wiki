@@ -70,7 +70,7 @@
 
 	**#052 [Meowth](../pokemon/meowth.md)**
 
-	Level 25
+	Level 27
 
 -	[![Persian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/53.png){: .pokemon-sprite-img }](../pokemon/persian.md)
 
@@ -78,7 +78,7 @@
 
 	**#053 [Persian](../pokemon/persian.md)**
 
-	Level 25
+	Level 27
 
 -	[![Murkrow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/198.png){: .pokemon-sprite-img }](../pokemon/murkrow.md)
 
@@ -86,7 +86,7 @@
 
 	**#198 [Murkrow](../pokemon/murkrow.md)**
 
-	Level 31
+	Level 19
 
 -	[![Sneasel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/215.png){: .pokemon-sprite-img }](../pokemon/sneasel.md)
 
@@ -102,7 +102,7 @@
 
 	**#261 [Poochyena](../pokemon/poochyena.md)**
 
-	Level 37
+	Level 31
 
 -	[![Mightyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/262.png){: .pokemon-sprite-img }](../pokemon/mightyena.md)
 
@@ -110,7 +110,15 @@
 
 	**#262 [Mightyena](../pokemon/mightyena.md)**
 
-	Level 42
+	Level 35
+
+-	[![Mawile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/303.png){: .pokemon-sprite-img }](../pokemon/mawile.md)
+
+	***
+
+	**#303 [Mawile](../pokemon/mawile.md)**
+
+	Level 1
 
 -	[![Sharpedo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/319.png){: .pokemon-sprite-img }](../pokemon/sharpedo.md)
 
@@ -118,7 +126,7 @@
 
 	**#319 [Sharpedo](../pokemon/sharpedo.md)**
 
-	Level 40
+	Level 1
 
 -	[![Zangoose](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/335.png){: .pokemon-sprite-img }](../pokemon/zangoose.md)
 
@@ -126,7 +134,7 @@
 
 	**#335 [Zangoose](../pokemon/zangoose.md)**
 
-	Level 35
+	Level 37
 
 -	[![Corphish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/341.png){: .pokemon-sprite-img }](../pokemon/corphish.md)
 
@@ -134,7 +142,7 @@
 
 	**#341 [Corphish](../pokemon/corphish.md)**
 
-	Level 32
+	Level 23
 
 -	[![Crawdaunt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/342.png){: .pokemon-sprite-img }](../pokemon/crawdaunt.md)
 
@@ -142,7 +150,7 @@
 
 	**#342 [Crawdaunt](../pokemon/crawdaunt.md)**
 
-	Level 34
+	Level 23
 
 -	[![Absol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/359.png){: .pokemon-sprite-img }](../pokemon/absol.md)
 
@@ -150,7 +158,7 @@
 
 	**#359 [Absol](../pokemon/absol.md)**
 
-	Level 9
+	Level 13
 
 -	[![Chimchar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/390.png){: .pokemon-sprite-img }](../pokemon/chimchar.md)
 
@@ -158,7 +166,7 @@
 
 	**#390 [Chimchar](../pokemon/chimchar.md)**
 
-	Level 9
+	Level 8
 
 -	[![Monferno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/391.png){: .pokemon-sprite-img }](../pokemon/monferno.md)
 
@@ -166,7 +174,7 @@
 
 	**#391 [Monferno](../pokemon/monferno.md)**
 
-	Level 9
+	Level 8
 
 -	[![Infernape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/392.png){: .pokemon-sprite-img }](../pokemon/infernape.md)
 
@@ -174,15 +182,7 @@
 
 	**#392 [Infernape](../pokemon/infernape.md)**
 
-	Level 1
-
--	[![Infernape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/392.png){: .pokemon-sprite-img }](../pokemon/infernape.md)
-
-	***
-
-	**#392 [Infernape](../pokemon/infernape.md)**
-
-	Level 9
+	Level 8
 
 -	[![Kricketune](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/402.png){: .pokemon-sprite-img }](../pokemon/kricketune.md)
 
@@ -190,7 +190,7 @@
 
 	**#402 [Kricketune](../pokemon/kricketune.md)**
 
-	Level 38
+	Level 37
 
 -	[![Shieldon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/410.png){: .pokemon-sprite-img }](../pokemon/shieldon.md)
 
@@ -206,14 +206,6 @@
 
 	**#411 [Bastiodon](../pokemon/bastiodon.md)**
 
-	Level 1
-
--	[![Bastiodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/411.png){: .pokemon-sprite-img }](../pokemon/bastiodon.md)
-
-	***
-
-	**#411 [Bastiodon](../pokemon/bastiodon.md)**
-
 	Level 6
 
 -	[![Chatot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/441.png){: .pokemon-sprite-img }](../pokemon/chatot.md)
@@ -222,7 +214,15 @@
 
 	**#441 [Chatot](../pokemon/chatot.md)**
 
-	Level 25
+	Level 1
+
+-	[![Chatot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/441.png){: .pokemon-sprite-img }](../pokemon/chatot.md)
+
+	***
+
+	**#441 [Chatot](../pokemon/chatot.md)**
+
+	Level 21
 
 -	[![Croagunk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/453.png){: .pokemon-sprite-img }](../pokemon/croagunk.md)
 
@@ -230,7 +230,7 @@
 
 	**#453 [Croagunk](../pokemon/croagunk.md)**
 
-	Level 10
+	Level 1
 
 -	[![Toxicroak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/454.png){: .pokemon-sprite-img }](../pokemon/toxicroak.md)
 
@@ -238,7 +238,7 @@
 
 	**#454 [Toxicroak](../pokemon/toxicroak.md)**
 
-	Level 10
+	Level 1
 
 -	[![Weavile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/461.png){: .pokemon-sprite-img }](../pokemon/weavile.md)
 

@@ -86,14 +86,6 @@
 
 	**#024 [Arbok](../pokemon/arbok.md)**
 
-	Level 1
-
--	[![Arbok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/24.png){: .pokemon-sprite-img }](../pokemon/arbok.md)
-
-	***
-
-	**#024 [Arbok](../pokemon/arbok.md)**
-
 	Level 4
 
 -	[![Sandshrew](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/27.png){: .pokemon-sprite-img }](../pokemon/sandshrew.md)
@@ -102,7 +94,7 @@
 
 	**#027 [Sandshrew](../pokemon/sandshrew.md)**
 
-	Level 9
+	Level 1
 
 -	[![Sandslash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/28.png){: .pokemon-sprite-img }](../pokemon/sandslash.md)
 
@@ -110,7 +102,7 @@
 
 	**#028 [Sandslash](../pokemon/sandslash.md)**
 
-	Level 9
+	Level 1
 
 -	[![Nidoran♀](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/29.png){: .pokemon-sprite-img }](../pokemon/nidoran-f.md)
 
@@ -126,7 +118,7 @@
 
 	**#030 [Nidorina](../pokemon/nidorina.md)**
 
-	Level 13
+	Level 1
 
 -	[![Nidoqueen](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/31.png){: .pokemon-sprite-img }](../pokemon/nidoqueen.md)
 
@@ -150,7 +142,7 @@
 
 	**#033 [Nidorino](../pokemon/nidorino.md)**
 
-	Level 13
+	Level 1
 
 -	[![Nidoking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/34.png){: .pokemon-sprite-img }](../pokemon/nidoking.md)
 
@@ -214,7 +206,7 @@
 
 	**#265 [Wurmple](../pokemon/wurmple.md)**
 
-	Level 5
+	Level 1
 
 -	[![Roselia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/315.png){: .pokemon-sprite-img }](../pokemon/roselia.md)
 
@@ -222,7 +214,7 @@
 
 	**#315 [Roselia](../pokemon/roselia.md)**
 
-	Level 7
+	Level 1
 
 -	[![Cacnea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/331.png){: .pokemon-sprite-img }](../pokemon/cacnea.md)
 
@@ -254,7 +246,7 @@
 
 	**#416 [Vespiquen](../pokemon/vespiquen.md)**
 
-	Level 3
+	Level 1
 
 -	[![Skorupi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/451.png){: .pokemon-sprite-img }](../pokemon/skorupi.md)
 
@@ -278,7 +270,7 @@
 
 	**#453 [Croagunk](../pokemon/croagunk.md)**
 
-	Level 8
+	Level 7
 
 -	[![Toxicroak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/454.png){: .pokemon-sprite-img }](../pokemon/toxicroak.md)
 
@@ -286,15 +278,7 @@
 
 	**#454 [Toxicroak](../pokemon/toxicroak.md)**
 
-	Level 1
-
--	[![Toxicroak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/454.png){: .pokemon-sprite-img }](../pokemon/toxicroak.md)
-
-	***
-
-	**#454 [Toxicroak](../pokemon/toxicroak.md)**
-
-	Level 8
+	Level 7
 
 </div>
 

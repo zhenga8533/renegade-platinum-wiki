@@ -70,7 +70,7 @@
 
 	**#058 [Growlithe](../pokemon/growlithe.md)**
 
-	Level 14
+	Level 11
 
 -	[![Arcanine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/59.png){: .pokemon-sprite-img }](../pokemon/arcanine.md)
 
@@ -86,7 +86,7 @@
 
 	**#203 [Girafarig](../pokemon/girafarig.md)**
 
-	Level 5
+	Level 6
 
 -	[![Swinub](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/220.png){: .pokemon-sprite-img }](../pokemon/swinub.md)
 
@@ -110,7 +110,7 @@
 
 	**#228 [Houndour](../pokemon/houndour.md)**
 
-	Level 22
+	Level 19
 
 -	[![Houndoom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/229.png){: .pokemon-sprite-img }](../pokemon/houndoom.md)
 
@@ -118,7 +118,7 @@
 
 	**#229 [Houndoom](../pokemon/houndoom.md)**
 
-	Level 22
+	Level 19
 
 -	[![Phanpy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/231.png){: .pokemon-sprite-img }](../pokemon/phanpy.md)
 
@@ -134,7 +134,7 @@
 
 	**#261 [Poochyena](../pokemon/poochyena.md)**
 
-	Level 17
+	Level 10
 
 -	[![Mightyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/262.png){: .pokemon-sprite-img }](../pokemon/mightyena.md)
 
@@ -142,7 +142,7 @@
 
 	**#262 [Mightyena](../pokemon/mightyena.md)**
 
-	Level 17
+	Level 10
 
 -	[![Zigzagoon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/263.png){: .pokemon-sprite-img }](../pokemon/zigzagoon.md)
 
@@ -150,7 +150,7 @@
 
 	**#263 [Zigzagoon](../pokemon/zigzagoon.md)**
 
-	Level 17
+	Level 10
 
 -	[![Linoone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/264.png){: .pokemon-sprite-img }](../pokemon/linoone.md)
 
@@ -158,7 +158,7 @@
 
 	**#264 [Linoone](../pokemon/linoone.md)**
 
-	Level 17
+	Level 10
 
 -	[![Electrike](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/309.png){: .pokemon-sprite-img }](../pokemon/electrike.md)
 
@@ -166,7 +166,7 @@
 
 	**#309 [Electrike](../pokemon/electrike.md)**
 
-	Level 25
+	Level 7
 
 -	[![Manectric](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/310.png){: .pokemon-sprite-img }](../pokemon/manectric.md)
 
@@ -174,7 +174,7 @@
 
 	**#310 [Manectric](../pokemon/manectric.md)**
 
-	Level 25
+	Level 7
 
 -	[![Spoink](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/325.png){: .pokemon-sprite-img }](../pokemon/spoink.md)
 
@@ -182,7 +182,7 @@
 
 	**#325 [Spoink](../pokemon/spoink.md)**
 
-	Level 10
+	Level 7
 
 -	[![Grumpig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/326.png){: .pokemon-sprite-img }](../pokemon/grumpig.md)
 
@@ -190,15 +190,7 @@
 
 	**#326 [Grumpig](../pokemon/grumpig.md)**
 
-	Level 1
-
--	[![Grumpig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/326.png){: .pokemon-sprite-img }](../pokemon/grumpig.md)
-
-	***
-
-	**#326 [Grumpig](../pokemon/grumpig.md)**
-
-	Level 10
+	Level 7
 
 -	[![Munchlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/446.png){: .pokemon-sprite-img }](../pokemon/munchlax.md)
 

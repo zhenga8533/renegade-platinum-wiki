@@ -70,7 +70,7 @@
 
 	**#493 [Arceus](../pokemon/arceus.md)**
 
-	Level 100
+	Level 50
 
 </div>
 

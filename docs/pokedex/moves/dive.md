@@ -70,7 +70,7 @@
 
 	**#086 [Seel](../pokemon/seel.md)**
 
-	Level 41
+	Level 38
 
 -	[![Dewgong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/87.png){: .pokemon-sprite-img }](../pokemon/dewgong.md)
 
@@ -86,7 +86,7 @@
 
 	**#320 [Wailmer](../pokemon/wailmer.md)**
 
-	Level 41
+	Level 25
 
 -	[![Wailord](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/321.png){: .pokemon-sprite-img }](../pokemon/wailord.md)
 
@@ -94,7 +94,7 @@
 
 	**#321 [Wailord](../pokemon/wailord.md)**
 
-	Level 46
+	Level 25
 
 -	[![Huntail](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/367.png){: .pokemon-sprite-img }](../pokemon/huntail.md)
 
@@ -102,7 +102,7 @@
 
 	**#367 [Huntail](../pokemon/huntail.md)**
 
-	Level 37
+	Level 23
 
 -	[![Gorebyss](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/368.png){: .pokemon-sprite-img }](../pokemon/gorebyss.md)
 
@@ -110,7 +110,7 @@
 
 	**#368 [Gorebyss](../pokemon/gorebyss.md)**
 
-	Level 37
+	Level 23
 
 -	[![Relicanth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/369.png){: .pokemon-sprite-img }](../pokemon/relicanth.md)
 
@@ -118,7 +118,7 @@
 
 	**#369 [Relicanth](../pokemon/relicanth.md)**
 
-	Level 57
+	Level 13
 
 -	[![Phione](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/489.png){: .pokemon-sprite-img }](../pokemon/phione.md)
 
@@ -126,7 +126,7 @@
 
 	**#489 [Phione](../pokemon/phione.md)**
 
-	Level 61
+	Level 42
 
 -	[![Manaphy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/490.png){: .pokemon-sprite-img }](../pokemon/manaphy.md)
 
@@ -134,7 +134,7 @@
 
 	**#490 [Manaphy](../pokemon/manaphy.md)**
 
-	Level 61
+	Level 42
 
 </div>
 

@@ -70,7 +70,15 @@
 
 	**#015 [Beedrill](../pokemon/beedrill.md)**
 
-	Level 16
+	Level 10
+
+-	[![Cloyster](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/91.png){: .pokemon-sprite-img }](../pokemon/cloyster.md)
+
+	***
+
+	**#091 [Cloyster](../pokemon/cloyster.md)**
+
+	Level 31
 
 </div>
 

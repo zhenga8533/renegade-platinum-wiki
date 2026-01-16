@@ -70,7 +70,7 @@
 
 	**#065 [Alakazam](../pokemon/alakazam.md)**
 
-	Level 36
+	Level 40
 
 -	[![Stantler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/234.png){: .pokemon-sprite-img }](../pokemon/stantler.md)
 
@@ -78,7 +78,7 @@
 
 	**#234 [Stantler](../pokemon/stantler.md)**
 
-	Level 27
+	Level 24
 
 -	[![Raikou](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/243.png){: .pokemon-sprite-img }](../pokemon/raikou.md)
 
@@ -86,7 +86,7 @@
 
 	**#243 [Raikou](../pokemon/raikou.md)**
 
-	Level 78
+	Level 42
 
 -	[![Entei](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/244.png){: .pokemon-sprite-img }](../pokemon/entei.md)
 
@@ -94,7 +94,7 @@
 
 	**#244 [Entei](../pokemon/entei.md)**
 
-	Level 78
+	Level 42
 
 -	[![Suicune](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/245.png){: .pokemon-sprite-img }](../pokemon/suicune.md)
 
@@ -102,7 +102,7 @@
 
 	**#245 [Suicune](../pokemon/suicune.md)**
 
-	Level 78
+	Level 42
 
 -	[![Lugia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/249.png){: .pokemon-sprite-img }](../pokemon/lugia.md)
 
@@ -110,7 +110,7 @@
 
 	**#249 [Lugia](../pokemon/lugia.md)**
 
-	Level 93
+	Level 6
 
 -	[![Ho-Oh](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/250.png){: .pokemon-sprite-img }](../pokemon/ho-oh.md)
 
@@ -118,7 +118,7 @@
 
 	**#250 [Ho-Oh](../pokemon/ho-oh.md)**
 
-	Level 93
+	Level 6
 
 -	[![Ralts](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/280.png){: .pokemon-sprite-img }](../pokemon/ralts.md)
 
@@ -126,7 +126,7 @@
 
 	**#280 [Ralts](../pokemon/ralts.md)**
 
-	Level 23
+	Level 28
 
 -	[![Kirlia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/281.png){: .pokemon-sprite-img }](../pokemon/kirlia.md)
 
@@ -134,7 +134,7 @@
 
 	**#281 [Kirlia](../pokemon/kirlia.md)**
 
-	Level 25
+	Level 31
 
 -	[![Gardevoir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/282.png){: .pokemon-sprite-img }](../pokemon/gardevoir.md)
 
@@ -142,7 +142,7 @@
 
 	**#282 [Gardevoir](../pokemon/gardevoir.md)**
 
-	Level 25
+	Level 32
 
 -	[![Meditite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/307.png){: .pokemon-sprite-img }](../pokemon/meditite.md)
 
@@ -166,23 +166,15 @@
 
 	**#382 [Kyogre](../pokemon/kyogre.md)**
 
-	Level 30
+	Level 26
 
--	[![Kyogre](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/382.png){: .pokemon-sprite-img }](../pokemon/kyogre.md)
-
-	***
-
-	**#382 [Kyogre](../pokemon/kyogre.md)**
-
-	Level 60
-
--	[![Infernape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/392.png){: .pokemon-sprite-img }](../pokemon/infernape.md)
+-	[![Lucario](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/448.png){: .pokemon-sprite-img }](../pokemon/lucario.md)
 
 	***
 
-	**#392 [Infernape](../pokemon/infernape.md)**
+	**#448 [Lucario](../pokemon/lucario.md)**
 
-	Level 53
+	Level 28
 
 </div>
 

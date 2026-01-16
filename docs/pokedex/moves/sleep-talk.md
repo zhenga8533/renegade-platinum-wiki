@@ -70,7 +70,7 @@
 
 	**#143 [Snorlax](../pokemon/snorlax.md)**
 
-	Level 28
+	Level 27
 
 -	[![Whismur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/293.png){: .pokemon-sprite-img }](../pokemon/whismur.md)
 
@@ -78,7 +78,7 @@
 
 	**#293 [Whismur](../pokemon/whismur.md)**
 
-	Level 41
+	Level 34
 
 -	[![Loudred](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/294.png){: .pokemon-sprite-img }](../pokemon/loudred.md)
 
@@ -86,7 +86,7 @@
 
 	**#294 [Loudred](../pokemon/loudred.md)**
 
-	Level 51
+	Level 39
 
 -	[![Exploud](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/295.png){: .pokemon-sprite-img }](../pokemon/exploud.md)
 
@@ -94,7 +94,23 @@
 
 	**#295 [Exploud](../pokemon/exploud.md)**
 
-	Level 55
+	Level 39
+
+-	[![Spoink](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/325.png){: .pokemon-sprite-img }](../pokemon/spoink.md)
+
+	***
+
+	**#325 [Spoink](../pokemon/spoink.md)**
+
+	Level 31
+
+-	[![Grumpig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/326.png){: .pokemon-sprite-img }](../pokemon/grumpig.md)
+
+	***
+
+	**#326 [Grumpig](../pokemon/grumpig.md)**
+
+	Level 31
 
 </div>
 

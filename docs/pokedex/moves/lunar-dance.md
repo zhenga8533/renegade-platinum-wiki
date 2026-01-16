@@ -60,17 +60,5 @@
 
 ## :material-pokeball: Learning Pokémon
 
-### :material-arrow-up-bold: Level-Up
-
-<div class="grid cards" markdown>
-
--	[![Cresselia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/488.png){: .pokemon-sprite-img }](../pokemon/cresselia.md)
-
-	***
-
-	**#488 [Cresselia](../pokemon/cresselia.md)**
-
-	Level 84
-
-</div>
+*No Pokémon can learn this move.*
 

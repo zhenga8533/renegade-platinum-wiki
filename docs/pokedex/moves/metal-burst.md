@@ -64,13 +64,21 @@
 
 <div class="grid cards" markdown>
 
+-	[![Mawile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/303.png){: .pokemon-sprite-img }](../pokemon/mawile.md)
+
+	***
+
+	**#303 [Mawile](../pokemon/mawile.md)**
+
+	Level 43
+
 -	[![Aron](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/304.png){: .pokemon-sprite-img }](../pokemon/aron.md)
 
 	***
 
 	**#304 [Aron](../pokemon/aron.md)**
 
-	Level 46
+	Level 49
 
 -	[![Lairon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/305.png){: .pokemon-sprite-img }](../pokemon/lairon.md)
 
@@ -78,7 +86,7 @@
 
 	**#305 [Lairon](../pokemon/lairon.md)**
 
-	Level 56
+	Level 58
 
 -	[![Aggron](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/306.png){: .pokemon-sprite-img }](../pokemon/aggron.md)
 
@@ -86,7 +94,15 @@
 
 	**#306 [Aggron](../pokemon/aggron.md)**
 
-	Level 65
+	Level 1
+
+-	[![Aggron](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/306.png){: .pokemon-sprite-img }](../pokemon/aggron.md)
+
+	***
+
+	**#306 [Aggron](../pokemon/aggron.md)**
+
+	Level 63
 
 -	[![Shieldon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/410.png){: .pokemon-sprite-img }](../pokemon/shieldon.md)
 
@@ -94,7 +110,7 @@
 
 	**#410 [Shieldon](../pokemon/shieldon.md)**
 
-	Level 37
+	Level 36
 
 -	[![Bastiodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/411.png){: .pokemon-sprite-img }](../pokemon/bastiodon.md)
 
@@ -102,7 +118,7 @@
 
 	**#411 [Bastiodon](../pokemon/bastiodon.md)**
 
-	Level 43
+	Level 39
 
 -	[![Dialga](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/483.png){: .pokemon-sprite-img }](../pokemon/dialga.md)
 
@@ -110,7 +126,7 @@
 
 	**#483 [Dialga](../pokemon/dialga.md)**
 
-	Level 24
+	Level 22
 
 </div>
 

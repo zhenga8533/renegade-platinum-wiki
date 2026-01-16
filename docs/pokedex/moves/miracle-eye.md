@@ -70,7 +70,7 @@
 
 	**#064 [Kadabra](../pokemon/kadabra.md)**
 
-	Level 22
+	Level 25
 
 -	[![Alakazam](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/65.png){: .pokemon-sprite-img }](../pokemon/alakazam.md)
 
@@ -78,7 +78,7 @@
 
 	**#065 [Alakazam](../pokemon/alakazam.md)**
 
-	Level 22
+	Level 25
 
 -	[![Mewtwo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/150.png){: .pokemon-sprite-img }](../pokemon/mewtwo.md)
 
@@ -86,7 +86,7 @@
 
 	**#150 [Mewtwo](../pokemon/mewtwo.md)**
 
-	Level 36
+	Level 18
 
 -	[![Natu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/177.png){: .pokemon-sprite-img }](../pokemon/natu.md)
 
@@ -94,7 +94,7 @@
 
 	**#177 [Natu](../pokemon/natu.md)**
 
-	Level 17
+	Level 31
 
 -	[![Xatu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/178.png){: .pokemon-sprite-img }](../pokemon/xatu.md)
 
@@ -102,7 +102,23 @@
 
 	**#178 [Xatu](../pokemon/xatu.md)**
 
-	Level 17
+	Level 34
+
+-	[![Metang](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/375.png){: .pokemon-sprite-img }](../pokemon/metang.md)
+
+	***
+
+	**#375 [Metang](../pokemon/metang.md)**
+
+	Level 29
+
+-	[![Metagross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/376.png){: .pokemon-sprite-img }](../pokemon/metagross.md)
+
+	***
+
+	**#376 [Metagross](../pokemon/metagross.md)**
+
+	Level 29
 
 </div>
 

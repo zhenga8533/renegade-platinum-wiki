@@ -64,37 +64,13 @@
 
 <div class="grid cards" markdown>
 
--	[![Onix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/95.png){: .pokemon-sprite-img }](../pokemon/onix.md)
-
-	***
-
-	**#095 [Onix](../pokemon/onix.md)**
-
-	Level 38
-
--	[![Onix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/95.png){: .pokemon-sprite-img }](../pokemon/onix.md)
-
-	***
-
-	**#095 [Onix](../pokemon/onix.md)**
-
-	Level 41
-
 -	[![Steelix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/208.png){: .pokemon-sprite-img }](../pokemon/steelix.md)
 
 	***
 
 	**#208 [Steelix](../pokemon/steelix.md)**
 
-	Level 38
-
--	[![Steelix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/208.png){: .pokemon-sprite-img }](../pokemon/steelix.md)
-
-	***
-
-	**#208 [Steelix](../pokemon/steelix.md)**
-
-	Level 41
+	Level 25
 
 -	[![Aron](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/304.png){: .pokemon-sprite-img }](../pokemon/aron.md)
 
@@ -102,7 +78,7 @@
 
 	**#304 [Aron](../pokemon/aron.md)**
 
-	Level 39
+	Level 34
 
 -	[![Lairon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/305.png){: .pokemon-sprite-img }](../pokemon/lairon.md)
 
@@ -110,7 +86,7 @@
 
 	**#305 [Lairon](../pokemon/lairon.md)**
 
-	Level 45
+	Level 38
 
 -	[![Aggron](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/306.png){: .pokemon-sprite-img }](../pokemon/aggron.md)
 
@@ -118,7 +94,31 @@
 
 	**#306 [Aggron](../pokemon/aggron.md)**
 
-	Level 48
+	Level 38
+
+-	[![Shieldon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/410.png){: .pokemon-sprite-img }](../pokemon/shieldon.md)
+
+	***
+
+	**#410 [Shieldon](../pokemon/shieldon.md)**
+
+	Level 39
+
+-	[![Bastiodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/411.png){: .pokemon-sprite-img }](../pokemon/bastiodon.md)
+
+	***
+
+	**#411 [Bastiodon](../pokemon/bastiodon.md)**
+
+	Level 43
+
+-	[![Dialga](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/483.png){: .pokemon-sprite-img }](../pokemon/dialga.md)
+
+	***
+
+	**#483 [Dialga](../pokemon/dialga.md)**
+
+	Level 34
 
 </div>
 

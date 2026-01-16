@@ -70,7 +70,7 @@
 
 	**#107 [Hitmonchan](../pokemon/hitmonchan.md)**
 
-	Level 41
+	Level 39
 
 -	[![Kangaskhan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/115.png){: .pokemon-sprite-img }](../pokemon/kangaskhan.md)
 
@@ -78,7 +78,7 @@
 
 	**#115 [Kangaskhan](../pokemon/kangaskhan.md)**
 
-	Level 19
+	Level 22
 
 -	[![Mew](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/151.png){: .pokemon-sprite-img }](../pokemon/mew.md)
 
@@ -86,15 +86,7 @@
 
 	**#151 [Mew](../pokemon/mew.md)**
 
-	Level 10
-
--	[![Regigigas](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/486.png){: .pokemon-sprite-img }](../pokemon/regigigas.md)
-
-	***
-
-	**#486 [Regigigas](../pokemon/regigigas.md)**
-
-	Level 1
+	Level 6
 
 </div>
 

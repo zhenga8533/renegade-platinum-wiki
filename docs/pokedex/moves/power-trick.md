@@ -64,13 +64,21 @@
 
 <div class="grid cards" markdown>
 
+-	[![Forretress](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/205.png){: .pokemon-sprite-img }](../pokemon/forretress.md)
+
+	***
+
+	**#205 [Forretress](../pokemon/forretress.md)**
+
+	Level 1
+
 -	[![Shuckle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/213.png){: .pokemon-sprite-img }](../pokemon/shuckle.md)
 
 	***
 
 	**#213 [Shuckle](../pokemon/shuckle.md)**
 
-	Level 48
+	Level 27
 
 -	[![Meditite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/307.png){: .pokemon-sprite-img }](../pokemon/meditite.md)
 
@@ -78,7 +86,7 @@
 
 	**#307 [Meditite](../pokemon/meditite.md)**
 
-	Level 39
+	Level 43
 
 -	[![Medicham](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/308.png){: .pokemon-sprite-img }](../pokemon/medicham.md)
 
@@ -86,7 +94,7 @@
 
 	**#308 [Medicham](../pokemon/medicham.md)**
 
-	Level 42
+	Level 47
 
 -	[![Baltoy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/343.png){: .pokemon-sprite-img }](../pokemon/baltoy.md)
 
@@ -94,7 +102,7 @@
 
 	**#343 [Baltoy](../pokemon/baltoy.md)**
 
-	Level 31
+	Level 34
 
 -	[![Claydol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/344.png){: .pokemon-sprite-img }](../pokemon/claydol.md)
 
@@ -102,7 +110,7 @@
 
 	**#344 [Claydol](../pokemon/claydol.md)**
 
-	Level 31
+	Level 35
 
 </div>
 

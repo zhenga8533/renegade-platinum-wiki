@@ -60,17 +60,5 @@
 
 ## :material-pokeball: Learning Pokémon
 
-### :material-arrow-up-bold: Level-Up
-
-<div class="grid cards" markdown>
-
--	[![Latios](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/381.png){: .pokemon-sprite-img }](../pokemon/latios.md)
-
-	***
-
-	**#381 [Latios](../pokemon/latios.md)**
-
-	Level 35
-
-</div>
+*No Pokémon can learn this move.*
 

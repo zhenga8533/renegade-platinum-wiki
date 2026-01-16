@@ -70,7 +70,7 @@
 
 	**#015 [Beedrill](../pokemon/beedrill.md)**
 
-	Level 19
+	Level 13
 
 -	[![Primeape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/57.png){: .pokemon-sprite-img }](../pokemon/primeape.md)
 
@@ -86,7 +86,7 @@
 
 	**#084 [Doduo](../pokemon/doduo.md)**
 
-	Level 10
+	Level 6
 
 -	[![Dodrio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/85.png){: .pokemon-sprite-img }](../pokemon/dodrio.md)
 
@@ -94,15 +94,7 @@
 
 	**#085 [Dodrio](../pokemon/dodrio.md)**
 
-	Level 1
-
--	[![Dodrio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/85.png){: .pokemon-sprite-img }](../pokemon/dodrio.md)
-
-	***
-
-	**#085 [Dodrio](../pokemon/dodrio.md)**
-
-	Level 10
+	Level 6
 
 -	[![Onix](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/95.png){: .pokemon-sprite-img }](../pokemon/onix.md)
 
@@ -110,7 +102,7 @@
 
 	**#095 [Onix](../pokemon/onix.md)**
 
-	Level 14
+	Level 16
 
 -	[![Cubone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/104.png){: .pokemon-sprite-img }](../pokemon/cubone.md)
 
@@ -118,7 +110,7 @@
 
 	**#104 [Cubone](../pokemon/cubone.md)**
 
-	Level 23
+	Level 16
 
 -	[![Marowak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/105.png){: .pokemon-sprite-img }](../pokemon/marowak.md)
 
@@ -126,7 +118,7 @@
 
 	**#105 [Marowak](../pokemon/marowak.md)**
 
-	Level 23
+	Level 16
 
 -	[![Kangaskhan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/115.png){: .pokemon-sprite-img }](../pokemon/kangaskhan.md)
 
@@ -134,7 +126,7 @@
 
 	**#115 [Kangaskhan](../pokemon/kangaskhan.md)**
 
-	Level 22
+	Level 16
 
 -	[![Tauros](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/128.png){: .pokemon-sprite-img }](../pokemon/tauros.md)
 
@@ -142,7 +134,15 @@
 
 	**#128 [Tauros](../pokemon/tauros.md)**
 
-	Level 5
+	Level 1
+
+-	[![Gyarados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/130.png){: .pokemon-sprite-img }](../pokemon/gyarados.md)
+
+	***
+
+	**#130 [Gyarados](../pokemon/gyarados.md)**
+
+	Level 1
 
 -	[![Totodile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/158.png){: .pokemon-sprite-img }](../pokemon/totodile.md)
 
@@ -166,14 +166,6 @@
 
 	**#160 [Feraligatr](../pokemon/feraligatr.md)**
 
-	Level 1
-
--	[![Feraligatr](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/160.png){: .pokemon-sprite-img }](../pokemon/feraligatr.md)
-
-	***
-
-	**#160 [Feraligatr](../pokemon/feraligatr.md)**
-
 	Level 8
 
 -	[![Dunsparce](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/206.png){: .pokemon-sprite-img }](../pokemon/dunsparce.md)
@@ -190,7 +182,7 @@
 
 	**#208 [Steelix](../pokemon/steelix.md)**
 
-	Level 14
+	Level 16
 
 -	[![Snubbull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/209.png){: .pokemon-sprite-img }](../pokemon/snubbull.md)
 
@@ -198,7 +190,7 @@
 
 	**#209 [Snubbull](../pokemon/snubbull.md)**
 
-	Level 31
+	Level 22
 
 -	[![Granbull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/210.png){: .pokemon-sprite-img }](../pokemon/granbull.md)
 
@@ -206,7 +198,15 @@
 
 	**#210 [Granbull](../pokemon/granbull.md)**
 
-	Level 35
+	Level 22
+
+-	[![Beautifly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/267.png){: .pokemon-sprite-img }](../pokemon/beautifly.md)
+
+	***
+
+	**#267 [Beautifly](../pokemon/beautifly.md)**
+
+	Level 39
 
 -	[![Carvanha](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/318.png){: .pokemon-sprite-img }](../pokemon/carvanha.md)
 
@@ -214,7 +214,7 @@
 
 	**#318 [Carvanha](../pokemon/carvanha.md)**
 
-	Level 6
+	Level 4
 
 -	[![Sharpedo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/319.png){: .pokemon-sprite-img }](../pokemon/sharpedo.md)
 
@@ -222,15 +222,7 @@
 
 	**#319 [Sharpedo](../pokemon/sharpedo.md)**
 
-	Level 1
-
--	[![Sharpedo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/319.png){: .pokemon-sprite-img }](../pokemon/sharpedo.md)
-
-	***
-
-	**#319 [Sharpedo](../pokemon/sharpedo.md)**
-
-	Level 6
+	Level 4
 
 -	[![Bagon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/371.png){: .pokemon-sprite-img }](../pokemon/bagon.md)
 

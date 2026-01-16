@@ -64,13 +64,29 @@
 
 <div class="grid cards" markdown>
 
+-	[![Kadabra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/64.png){: .pokemon-sprite-img }](../pokemon/kadabra.md)
+
+	***
+
+	**#064 [Kadabra](../pokemon/kadabra.md)**
+
+	Level 22
+
+-	[![Alakazam](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/65.png){: .pokemon-sprite-img }](../pokemon/alakazam.md)
+
+	***
+
+	**#065 [Alakazam](../pokemon/alakazam.md)**
+
+	Level 22
+
 -	[![Gastly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/92.png){: .pokemon-sprite-img }](../pokemon/gastly.md)
 
 	***
 
 	**#092 [Gastly](../pokemon/gastly.md)**
 
-	Level 15
+	Level 7
 
 -	[![Haunter](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/93.png){: .pokemon-sprite-img }](../pokemon/haunter.md)
 
@@ -78,7 +94,7 @@
 
 	**#093 [Haunter](../pokemon/haunter.md)**
 
-	Level 15
+	Level 7
 
 -	[![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/94.png){: .pokemon-sprite-img }](../pokemon/gengar.md)
 
@@ -86,7 +102,7 @@
 
 	**#094 [Gengar](../pokemon/gengar.md)**
 
-	Level 15
+	Level 7
 
 -	[![Spinarak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/167.png){: .pokemon-sprite-img }](../pokemon/spinarak.md)
 
@@ -126,7 +142,7 @@
 
 	**#198 [Murkrow](../pokemon/murkrow.md)**
 
-	Level 21
+	Level 17
 
 -	[![Sableye](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/302.png){: .pokemon-sprite-img }](../pokemon/sableye.md)
 
@@ -134,7 +150,7 @@
 
 	**#302 [Sableye](../pokemon/sableye.md)**
 
-	Level 8
+	Level 4
 
 -	[![Shuppet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/353.png){: .pokemon-sprite-img }](../pokemon/shuppet.md)
 
@@ -142,7 +158,7 @@
 
 	**#353 [Shuppet](../pokemon/shuppet.md)**
 
-	Level 8
+	Level 7
 
 -	[![Banette](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/354.png){: .pokemon-sprite-img }](../pokemon/banette.md)
 
@@ -150,15 +166,7 @@
 
 	**#354 [Banette](../pokemon/banette.md)**
 
-	Level 1
-
--	[![Banette](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/354.png){: .pokemon-sprite-img }](../pokemon/banette.md)
-
-	***
-
-	**#354 [Banette](../pokemon/banette.md)**
-
-	Level 5
+	Level 7
 
 -	[![Duskull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/355.png){: .pokemon-sprite-img }](../pokemon/duskull.md)
 
@@ -198,7 +206,7 @@
 
 	**#491 [Darkrai](../pokemon/darkrai.md)**
 
-	Level 1
+	Level 30
 
 </div>
 

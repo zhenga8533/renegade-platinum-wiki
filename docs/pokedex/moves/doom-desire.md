@@ -70,7 +70,7 @@
 
 	**#385 [Jirachi](../pokemon/jirachi.md)**
 
-	Level 70
+	Level 50
 
 </div>
 

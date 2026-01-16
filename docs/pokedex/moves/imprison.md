@@ -70,7 +70,15 @@
 
 	**#037 [Vulpix](../pokemon/vulpix.md)**
 
-	Level 21
+	Level 37
+
+-	[![Ninetales](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/38.png){: .pokemon-sprite-img }](../pokemon/ninetales.md)
+
+	***
+
+	**#038 [Ninetales](../pokemon/ninetales.md)**
+
+	Level 1
 
 -	[![Stantler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/234.png){: .pokemon-sprite-img }](../pokemon/stantler.md)
 
@@ -78,7 +86,7 @@
 
 	**#234 [Stantler](../pokemon/stantler.md)**
 
-	Level 43
+	Level 40
 
 -	[![Ralts](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/280.png){: .pokemon-sprite-img }](../pokemon/ralts.md)
 
@@ -86,7 +94,7 @@
 
 	**#280 [Ralts](../pokemon/ralts.md)**
 
-	Level 32
+	Level 34
 
 -	[![Kirlia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/281.png){: .pokemon-sprite-img }](../pokemon/kirlia.md)
 
@@ -94,7 +102,7 @@
 
 	**#281 [Kirlia](../pokemon/kirlia.md)**
 
-	Level 36
+	Level 39
 
 -	[![Gardevoir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/282.png){: .pokemon-sprite-img }](../pokemon/gardevoir.md)
 
@@ -102,7 +110,23 @@
 
 	**#282 [Gardevoir](../pokemon/gardevoir.md)**
 
-	Level 40
+	Level 42
+
+-	[![Baltoy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/343.png){: .pokemon-sprite-img }](../pokemon/baltoy.md)
+
+	***
+
+	**#343 [Baltoy](../pokemon/baltoy.md)**
+
+	Level 43
+
+-	[![Claydol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/344.png){: .pokemon-sprite-img }](../pokemon/claydol.md)
+
+	***
+
+	**#344 [Claydol](../pokemon/claydol.md)**
+
+	Level 47
 
 -	[![Bronzor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/436.png){: .pokemon-sprite-img }](../pokemon/bronzor.md)
 
@@ -110,7 +134,7 @@
 
 	**#436 [Bronzor](../pokemon/bronzor.md)**
 
-	Level 12
+	Level 5
 
 -	[![Bronzong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/437.png){: .pokemon-sprite-img }](../pokemon/bronzong.md)
 
@@ -118,15 +142,7 @@
 
 	**#437 [Bronzong](../pokemon/bronzong.md)**
 
-	Level 1
-
--	[![Bronzong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/437.png){: .pokemon-sprite-img }](../pokemon/bronzong.md)
-
-	***
-
-	**#437 [Bronzong](../pokemon/bronzong.md)**
-
-	Level 12
+	Level 5
 
 -	[![Uxie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/480.png){: .pokemon-sprite-img }](../pokemon/uxie.md)
 

@@ -70,7 +70,7 @@
 
 	**#056 [Mankey](../pokemon/mankey.md)**
 
-	Level 45
+	Level 29
 
 -	[![Primeape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/57.png){: .pokemon-sprite-img }](../pokemon/primeape.md)
 
@@ -78,7 +78,15 @@
 
 	**#057 [Primeape](../pokemon/primeape.md)**
 
-	Level 53
+	Level 30
+
+-	[![Sneasel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/215.png){: .pokemon-sprite-img }](../pokemon/sneasel.md)
+
+	***
+
+	**#215 [Sneasel](../pokemon/sneasel.md)**
+
+	Level 43
 
 -	[![Lugia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/249.png){: .pokemon-sprite-img }](../pokemon/lugia.md)
 
@@ -86,15 +94,7 @@
 
 	**#249 [Lugia](../pokemon/lugia.md)**
 
-	Level 71
-
--	[![Lugia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/249.png){: .pokemon-sprite-img }](../pokemon/lugia.md)
-
-	***
-
-	**#249 [Lugia](../pokemon/lugia.md)**
-
-	Level 50
+	Level 18
 
 -	[![Ho-Oh](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/250.png){: .pokemon-sprite-img }](../pokemon/ho-oh.md)
 
@@ -102,15 +102,7 @@
 
 	**#250 [Ho-Oh](../pokemon/ho-oh.md)**
 
-	Level 71
-
--	[![Ho-Oh](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/250.png){: .pokemon-sprite-img }](../pokemon/ho-oh.md)
-
-	***
-
-	**#250 [Ho-Oh](../pokemon/ho-oh.md)**
-
-	Level 50
+	Level 18
 
 -	[![Slaking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/289.png){: .pokemon-sprite-img }](../pokemon/slaking.md)
 
@@ -126,15 +118,15 @@
 
 	**#302 [Sableye](../pokemon/sableye.md)**
 
-	Level 36
+	Level 23
 
--	[![Infernape](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/392.png){: .pokemon-sprite-img }](../pokemon/infernape.md)
+-	[![Weavile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/461.png){: .pokemon-sprite-img }](../pokemon/weavile.md)
 
 	***
 
-	**#392 [Infernape](../pokemon/infernape.md)**
+	**#461 [Weavile](../pokemon/weavile.md)**
 
-	Level 33
+	Level 43
 
 -	[![Arceus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/493.png){: .pokemon-sprite-img }](../pokemon/arceus.md)
 

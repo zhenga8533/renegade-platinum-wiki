@@ -98,7 +98,7 @@
 
 	**#356 [Dusclops](../pokemon/dusclops.md)**
 
-	Level 37
+	Level 32
 
 -	[![Dusknoir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/477.png){: .pokemon-sprite-img }](../pokemon/dusknoir.md)
 
@@ -106,7 +106,7 @@
 
 	**#477 [Dusknoir](../pokemon/dusknoir.md)**
 
-	Level 37
+	Level 32
 
 </div>
 

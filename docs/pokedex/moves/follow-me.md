@@ -70,7 +70,7 @@
 
 	**#035 [Clefairy](../pokemon/clefairy.md)**
 
-	Level 16
+	Level 13
 
 -	[![Sentret](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/161.png){: .pokemon-sprite-img }](../pokemon/sentret.md)
 
@@ -78,7 +78,7 @@
 
 	**#161 [Sentret](../pokemon/sentret.md)**
 
-	Level 19
+	Level 14
 
 -	[![Furret](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/162.png){: .pokemon-sprite-img }](../pokemon/furret.md)
 
@@ -86,7 +86,7 @@
 
 	**#162 [Furret](../pokemon/furret.md)**
 
-	Level 21
+	Level 14
 
 -	[![Togepi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/175.png){: .pokemon-sprite-img }](../pokemon/togepi.md)
 
@@ -94,7 +94,7 @@
 
 	**#175 [Togepi](../pokemon/togepi.md)**
 
-	Level 24
+	Level 17
 
 -	[![Togetic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/176.png){: .pokemon-sprite-img }](../pokemon/togetic.md)
 
@@ -102,7 +102,7 @@
 
 	**#176 [Togetic](../pokemon/togetic.md)**
 
-	Level 24
+	Level 17
 
 </div>
 

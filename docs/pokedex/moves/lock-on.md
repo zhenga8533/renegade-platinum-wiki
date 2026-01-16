@@ -70,7 +70,7 @@
 
 	**#081 [Magnemite](../pokemon/magnemite.md)**
 
-	Level 27
+	Level 40
 
 -	[![Magneton](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/82.png){: .pokemon-sprite-img }](../pokemon/magneton.md)
 
@@ -78,7 +78,7 @@
 
 	**#082 [Magneton](../pokemon/magneton.md)**
 
-	Level 27
+	Level 45
 
 -	[![Porygon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/137.png){: .pokemon-sprite-img }](../pokemon/porygon.md)
 
@@ -86,7 +86,7 @@
 
 	**#137 [Porygon](../pokemon/porygon.md)**
 
-	Level 45
+	Level 31
 
 -	[![Remoraid](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/223.png){: .pokemon-sprite-img }](../pokemon/remoraid.md)
 
@@ -94,7 +94,15 @@
 
 	**#223 [Remoraid](../pokemon/remoraid.md)**
 
-	Level 6
+	Level 1
+
+-	[![Octillery](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/224.png){: .pokemon-sprite-img }](../pokemon/octillery.md)
+
+	***
+
+	**#224 [Octillery](../pokemon/octillery.md)**
+
+	Level 1
 
 -	[![Porygon2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/233.png){: .pokemon-sprite-img }](../pokemon/porygon2.md)
 
@@ -102,7 +110,7 @@
 
 	**#233 [Porygon2](../pokemon/porygon2.md)**
 
-	Level 45
+	Level 31
 
 -	[![Nosepass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/299.png){: .pokemon-sprite-img }](../pokemon/nosepass.md)
 
@@ -110,15 +118,7 @@
 
 	**#299 [Nosepass](../pokemon/nosepass.md)**
 
-	Level 67
-
--	[![Nosepass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/299.png){: .pokemon-sprite-img }](../pokemon/nosepass.md)
-
-	***
-
-	**#299 [Nosepass](../pokemon/nosepass.md)**
-
-	Level 73
+	Level 43
 
 -	[![Regirock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/377.png){: .pokemon-sprite-img }](../pokemon/regirock.md)
 
@@ -126,7 +126,7 @@
 
 	**#377 [Regirock](../pokemon/regirock.md)**
 
-	Level 57
+	Level 34
 
 -	[![Regice](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/378.png){: .pokemon-sprite-img }](../pokemon/regice.md)
 
@@ -134,7 +134,7 @@
 
 	**#378 [Regice](../pokemon/regice.md)**
 
-	Level 57
+	Level 34
 
 -	[![Registeel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/379.png){: .pokemon-sprite-img }](../pokemon/registeel.md)
 
@@ -142,7 +142,7 @@
 
 	**#379 [Registeel](../pokemon/registeel.md)**
 
-	Level 57
+	Level 34
 
 -	[![Magnezone](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/462.png){: .pokemon-sprite-img }](../pokemon/magnezone.md)
 
@@ -150,7 +150,7 @@
 
 	**#462 [Magnezone](../pokemon/magnezone.md)**
 
-	Level 27
+	Level 45
 
 -	[![Porygon Z](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/474.png){: .pokemon-sprite-img }](../pokemon/porygon-z.md)
 
@@ -158,7 +158,7 @@
 
 	**#474 [Porygon Z](../pokemon/porygon-z.md)**
 
-	Level 45
+	Level 31
 
 -	[![Probopass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/476.png){: .pokemon-sprite-img }](../pokemon/probopass.md)
 
@@ -166,15 +166,7 @@
 
 	**#476 [Probopass](../pokemon/probopass.md)**
 
-	Level 67
-
--	[![Probopass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/476.png){: .pokemon-sprite-img }](../pokemon/probopass.md)
-
-	***
-
-	**#476 [Probopass](../pokemon/probopass.md)**
-
-	Level 73
+	Level 43
 
 </div>
 

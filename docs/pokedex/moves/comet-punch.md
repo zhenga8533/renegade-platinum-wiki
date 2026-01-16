@@ -70,7 +70,7 @@
 
 	**#107 [Hitmonchan](../pokemon/hitmonchan.md)**
 
-	Level 1
+	Level 20
 
 -	[![Kangaskhan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/115.png){: .pokemon-sprite-img }](../pokemon/kangaskhan.md)
 
@@ -86,14 +86,6 @@
 
 	**#165 [Ledyba](../pokemon/ledyba.md)**
 
-	Level 9
-
--	[![Ledian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/166.png){: .pokemon-sprite-img }](../pokemon/ledian.md)
-
-	***
-
-	**#166 [Ledian](../pokemon/ledian.md)**
-
 	Level 1
 
 -	[![Ledian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/166.png){: .pokemon-sprite-img }](../pokemon/ledian.md)
@@ -102,7 +94,7 @@
 
 	**#166 [Ledian](../pokemon/ledian.md)**
 
-	Level 9
+	Level 1
 
 </div>
 

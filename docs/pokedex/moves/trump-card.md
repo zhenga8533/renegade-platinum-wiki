@@ -70,7 +70,7 @@
 
 	**#133 [Eevee](../pokemon/eevee.md)**
 
-	Level 57
+	Level 43
 
 -	[![Slowking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/199.png){: .pokemon-sprite-img }](../pokemon/slowking.md)
 
@@ -78,7 +78,7 @@
 
 	**#199 [Slowking](../pokemon/slowking.md)**
 
-	Level 53
+	Level 37
 
 -	[![Minun](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/312.png){: .pokemon-sprite-img }](../pokemon/minun.md)
 
@@ -86,7 +86,7 @@
 
 	**#312 [Minun](../pokemon/minun.md)**
 
-	Level 48
+	Level 43
 
 </div>
 

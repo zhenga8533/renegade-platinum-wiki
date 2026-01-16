@@ -70,7 +70,7 @@
 
 	**#163 [Hoothoot](../pokemon/hoothoot.md)**
 
-	Level 41
+	Level 21
 
 -	[![Noctowl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/164.png){: .pokemon-sprite-img }](../pokemon/noctowl.md)
 
@@ -78,7 +78,7 @@
 
 	**#164 [Noctowl](../pokemon/noctowl.md)**
 
-	Level 47
+	Level 22
 
 -	[![Natu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/177.png){: .pokemon-sprite-img }](../pokemon/natu.md)
 
@@ -86,7 +86,7 @@
 
 	**#177 [Natu](../pokemon/natu.md)**
 
-	Level 33
+	Level 34
 
 -	[![Xatu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/178.png){: .pokemon-sprite-img }](../pokemon/xatu.md)
 
@@ -94,7 +94,7 @@
 
 	**#178 [Xatu](../pokemon/xatu.md)**
 
-	Level 37
+	Level 38
 
 -	[![Latias](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/380.png){: .pokemon-sprite-img }](../pokemon/latias.md)
 
@@ -102,7 +102,7 @@
 
 	**#380 [Latias](../pokemon/latias.md)**
 
-	Level 50
+	Level 26
 
 -	[![Latios](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/381.png){: .pokemon-sprite-img }](../pokemon/latios.md)
 
@@ -110,7 +110,7 @@
 
 	**#381 [Latios](../pokemon/latios.md)**
 
-	Level 50
+	Level 26
 
 -	[![Deoxys Normal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/386.png){: .pokemon-sprite-img }](../pokemon/deoxys-normal.md)
 
@@ -126,7 +126,7 @@
 
 	**#488 [Cresselia](../pokemon/cresselia.md)**
 
-	Level 75
+	Level 30
 
 </div>
 

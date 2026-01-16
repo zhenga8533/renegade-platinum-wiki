@@ -70,7 +70,7 @@
 
 	**#037 [Vulpix](../pokemon/vulpix.md)**
 
-	Level 41
+	Level 43
 
 -	[![Misdreavus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/200.png){: .pokemon-sprite-img }](../pokemon/misdreavus.md)
 
@@ -78,7 +78,7 @@
 
 	**#200 [Misdreavus](../pokemon/misdreavus.md)**
 
-	Level 46
+	Level 39
 
 -	[![Shedinja](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/292.png){: .pokemon-sprite-img }](../pokemon/shedinja.md)
 
@@ -86,7 +86,7 @@
 
 	**#292 [Shedinja](../pokemon/shedinja.md)**
 
-	Level 45
+	Level 43
 
 -	[![Shuppet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/353.png){: .pokemon-sprite-img }](../pokemon/shuppet.md)
 
@@ -102,7 +102,7 @@
 
 	**#354 [Banette](../pokemon/banette.md)**
 
-	Level 58
+	Level 51
 
 </div>
 

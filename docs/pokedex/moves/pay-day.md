@@ -70,7 +70,7 @@
 
 	**#052 [Meowth](../pokemon/meowth.md)**
 
-	Level 30
+	Level 18
 
 </div>
 

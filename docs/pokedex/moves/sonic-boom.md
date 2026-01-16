@@ -70,7 +70,7 @@
 
 	**#081 [Magnemite](../pokemon/magnemite.md)**
 
-	Level 14
+	Level 7
 
 -	[![Magneton](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/82.png){: .pokemon-sprite-img }](../pokemon/magneton.md)
 
@@ -78,7 +78,7 @@
 
 	**#082 [Magneton](../pokemon/magneton.md)**
 
-	Level 14
+	Level 7
 
 -	[![Voltorb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/100.png){: .pokemon-sprite-img }](../pokemon/voltorb.md)
 
@@ -86,7 +86,7 @@
 
 	**#100 [Voltorb](../pokemon/voltorb.md)**
 
-	Level 8
+	Level 6
 
 -	[![Electrode](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/101.png){: .pokemon-sprite-img }](../pokemon/electrode.md)
 
@@ -94,15 +94,7 @@
 
 	**#101 [Electrode](../pokemon/electrode.md)**
 
-	Level 1
-
--	[![Electrode](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/101.png){: .pokemon-sprite-img }](../pokemon/electrode.md)
-
-	***
-
-	**#101 [Electrode](../pokemon/electrode.md)**
-
-	Level 8
+	Level 6
 
 -	[![Yanma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/193.png){: .pokemon-sprite-img }](../pokemon/yanma.md)
 
@@ -110,7 +102,7 @@
 
 	**#193 [Yanma](../pokemon/yanma.md)**
 
-	Level 14
+	Level 9
 
 -	[![Vibrava](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/329.png){: .pokemon-sprite-img }](../pokemon/vibrava.md)
 
@@ -150,7 +142,7 @@
 
 	**#462 [Magnezone](../pokemon/magnezone.md)**
 
-	Level 14
+	Level 7
 
 -	[![Yanmega](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/469.png){: .pokemon-sprite-img }](../pokemon/yanmega.md)
 
@@ -158,7 +150,7 @@
 
 	**#469 [Yanmega](../pokemon/yanmega.md)**
 
-	Level 14
+	Level 9
 
 </div>
 

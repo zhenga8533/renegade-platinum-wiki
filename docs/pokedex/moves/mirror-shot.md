@@ -70,7 +70,7 @@
 
 	**#081 [Magnemite](../pokemon/magnemite.md)**
 
-	Level 43
+	Level 22
 
 -	[![Magneton](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/82.png){: .pokemon-sprite-img }](../pokemon/magneton.md)
 
@@ -78,7 +78,7 @@
 
 	**#082 [Magneton](../pokemon/magneton.md)**
 
-	Level 46
+	Level 22
 
 -	[![Forretress](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/205.png){: .pokemon-sprite-img }](../pokemon/forretress.md)
 
@@ -94,7 +94,7 @@
 
 	**#462 [Magnezone](../pokemon/magnezone.md)**
 
-	Level 46
+	Level 22
 
 </div>
 

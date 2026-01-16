@@ -158,15 +158,7 @@
 
 	**#163 [Hoothoot](../pokemon/hoothoot.md)**
 
-	Level 13
-
--	[![Hoothoot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/163.png){: .pokemon-sprite-img }](../pokemon/hoothoot.md)
-
-	***
-
-	**#163 [Hoothoot](../pokemon/hoothoot.md)**
-
-	Level 9
+	Level 1
 
 -	[![Noctowl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/164.png){: .pokemon-sprite-img }](../pokemon/noctowl.md)
 
@@ -174,15 +166,7 @@
 
 	**#164 [Noctowl](../pokemon/noctowl.md)**
 
-	Level 13
-
--	[![Noctowl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/164.png){: .pokemon-sprite-img }](../pokemon/noctowl.md)
-
-	***
-
-	**#164 [Noctowl](../pokemon/noctowl.md)**
-
-	Level 9
+	Level 1
 
 -	[![Natu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/177.png){: .pokemon-sprite-img }](../pokemon/natu.md)
 
@@ -230,7 +214,7 @@
 
 	**#255 [Torchic](../pokemon/torchic.md)**
 
-	Level 16
+	Level 11
 
 -	[![Combusken](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/256.png){: .pokemon-sprite-img }](../pokemon/combusken.md)
 
@@ -238,7 +222,7 @@
 
 	**#256 [Combusken](../pokemon/combusken.md)**
 
-	Level 17
+	Level 11
 
 -	[![Blaziken](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/257.png){: .pokemon-sprite-img }](../pokemon/blaziken.md)
 
@@ -246,7 +230,7 @@
 
 	**#257 [Blaziken](../pokemon/blaziken.md)**
 
-	Level 17
+	Level 11
 
 -	[![Taillow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/276.png){: .pokemon-sprite-img }](../pokemon/taillow.md)
 
@@ -286,7 +270,7 @@
 
 	**#393 [Piplup](../pokemon/piplup.md)**
 
-	Level 15
+	Level 11
 
 -	[![Prinplup](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/394.png){: .pokemon-sprite-img }](../pokemon/prinplup.md)
 
@@ -294,7 +278,7 @@
 
 	**#394 [Prinplup](../pokemon/prinplup.md)**
 
-	Level 15
+	Level 11
 
 -	[![Empoleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/395.png){: .pokemon-sprite-img }](../pokemon/empoleon.md)
 
@@ -302,7 +286,7 @@
 
 	**#395 [Empoleon](../pokemon/empoleon.md)**
 
-	Level 15
+	Level 11
 
 -	[![Chatot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/441.png){: .pokemon-sprite-img }](../pokemon/chatot.md)
 

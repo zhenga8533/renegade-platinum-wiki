@@ -78,7 +78,7 @@
 
 	**#150 [Mewtwo](../pokemon/mewtwo.md)**
 
-	Level 64
+	Level 26
 
 -	[![Natu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/177.png){: .pokemon-sprite-img }](../pokemon/natu.md)
 
@@ -86,7 +86,7 @@
 
 	**#177 [Natu](../pokemon/natu.md)**
 
-	Level 44
+	Level 40
 
 -	[![Xatu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/178.png){: .pokemon-sprite-img }](../pokemon/xatu.md)
 
@@ -94,7 +94,7 @@
 
 	**#178 [Xatu](../pokemon/xatu.md)**
 
-	Level 54
+	Level 46
 
 -	[![Espeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/196.png){: .pokemon-sprite-img }](../pokemon/espeon.md)
 
@@ -102,7 +102,7 @@
 
 	**#196 [Espeon](../pokemon/espeon.md)**
 
-	Level 78
+	Level 43
 
 -	[![Girafarig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/203.png){: .pokemon-sprite-img }](../pokemon/girafarig.md)
 

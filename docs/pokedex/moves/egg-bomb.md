@@ -64,13 +64,21 @@
 
 <div class="grid cards" markdown>
 
+-	[![Exeggcute](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/102.png){: .pokemon-sprite-img }](../pokemon/exeggcute.md)
+
+	***
+
+	**#102 [Exeggcute](../pokemon/exeggcute.md)**
+
+	Level 1
+
 -	[![Exeggutor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/103.png){: .pokemon-sprite-img }](../pokemon/exeggutor.md)
 
 	***
 
 	**#103 [Exeggutor](../pokemon/exeggutor.md)**
 
-	Level 27
+	Level 1
 
 -	[![Chansey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/113.png){: .pokemon-sprite-img }](../pokemon/chansey.md)
 
@@ -78,7 +86,7 @@
 
 	**#113 [Chansey](../pokemon/chansey.md)**
 
-	Level 38
+	Level 16
 
 -	[![Blissey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/242.png){: .pokemon-sprite-img }](../pokemon/blissey.md)
 
@@ -86,7 +94,7 @@
 
 	**#242 [Blissey](../pokemon/blissey.md)**
 
-	Level 38
+	Level 16
 
 </div>
 

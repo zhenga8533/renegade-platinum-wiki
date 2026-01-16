@@ -70,7 +70,7 @@
 
 	**#107 [Hitmonchan](../pokemon/hitmonchan.md)**
 
-	Level 16
+	Level 1
 
 -	[![Ledyba](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/165.png){: .pokemon-sprite-img }](../pokemon/ledyba.md)
 
@@ -78,7 +78,7 @@
 
 	**#165 [Ledyba](../pokemon/ledyba.md)**
 
-	Level 17
+	Level 13
 
 -	[![Ledian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/166.png){: .pokemon-sprite-img }](../pokemon/ledian.md)
 
@@ -86,7 +86,15 @@
 
 	**#166 [Ledian](../pokemon/ledian.md)**
 
-	Level 17
+	Level 13
+
+-	[![Tyrogue](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/236.png){: .pokemon-sprite-img }](../pokemon/tyrogue.md)
+
+	***
+
+	**#236 [Tyrogue](../pokemon/tyrogue.md)**
+
+	Level 1
 
 -	[![Breloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/286.png){: .pokemon-sprite-img }](../pokemon/breloom.md)
 

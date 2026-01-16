@@ -70,7 +70,15 @@
 
 	**#106 [Hitmonlee](../pokemon/hitmonlee.md)**
 
-	Level 49
+	Level 39
+
+-	[![Lopunny](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/428.png){: .pokemon-sprite-img }](../pokemon/lopunny.md)
+
+	***
+
+	**#428 [Lopunny](../pokemon/lopunny.md)**
+
+	Level 1
 
 </div>
 

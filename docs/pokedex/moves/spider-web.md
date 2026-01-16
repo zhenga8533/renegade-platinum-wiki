@@ -70,7 +70,7 @@
 
 	**#167 [Spinarak](../pokemon/spinarak.md)**
 
-	Level 29
+	Level 27
 
 -	[![Ariados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/168.png){: .pokemon-sprite-img }](../pokemon/ariados.md)
 
@@ -78,7 +78,7 @@
 
 	**#168 [Ariados](../pokemon/ariados.md)**
 
-	Level 32
+	Level 30
 
 </div>
 

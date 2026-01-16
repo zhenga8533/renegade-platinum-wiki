@@ -86,7 +86,7 @@
 
 	**#106 [Hitmonlee](../pokemon/hitmonlee.md)**
 
-	Level 5
+	Level 21
 
 -	[![Mr. Mime](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/122.png){: .pokemon-sprite-img }](../pokemon/mr-mime.md)
 
@@ -94,21 +94,13 @@
 
 	**#122 [Mr. Mime](../pokemon/mr-mime.md)**
 
-	Level 8
+	Level 9
 
 -	[![Meditite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/307.png){: .pokemon-sprite-img }](../pokemon/meditite.md)
 
 	***
 
 	**#307 [Meditite](../pokemon/meditite.md)**
-
-	Level 4
-
--	[![Medicham](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/308.png){: .pokemon-sprite-img }](../pokemon/medicham.md)
-
-	***
-
-	**#308 [Medicham](../pokemon/medicham.md)**
 
 	Level 1
 
@@ -118,7 +110,7 @@
 
 	**#308 [Medicham](../pokemon/medicham.md)**
 
-	Level 4
+	Level 1
 
 -	[![Mime Jr.](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/439.png){: .pokemon-sprite-img }](../pokemon/mime-jr.md)
 
@@ -126,7 +118,7 @@
 
 	**#439 [Mime Jr.](../pokemon/mime-jr.md)**
 
-	Level 8
+	Level 9
 
 </div>
 

@@ -70,7 +70,7 @@
 
 	**#103 [Exeggutor](../pokemon/exeggutor.md)**
 
-	Level 37
+	Level 43
 
 -	[![Sudowoodo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/185.png){: .pokemon-sprite-img }](../pokemon/sudowoodo.md)
 
@@ -94,7 +94,7 @@
 
 	**#459 [Snover](../pokemon/snover.md)**
 
-	Level 36
+	Level 34
 
 -	[![Abomasnow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/460.png){: .pokemon-sprite-img }](../pokemon/abomasnow.md)
 
@@ -102,7 +102,7 @@
 
 	**#460 [Abomasnow](../pokemon/abomasnow.md)**
 
-	Level 36
+	Level 34
 
 </div>
 

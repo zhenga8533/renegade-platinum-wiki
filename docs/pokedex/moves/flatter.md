@@ -78,7 +78,7 @@
 
 	**#030 [Nidorina](../pokemon/nidorina.md)**
 
-	Level 38
+	Level 31
 
 -	[![Nidoran♂](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/32.png){: .pokemon-sprite-img }](../pokemon/nidoran-m.md)
 
@@ -94,7 +94,7 @@
 
 	**#033 [Nidorino](../pokemon/nidorino.md)**
 
-	Level 38
+	Level 31
 
 -	[![Illumise](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/314.png){: .pokemon-sprite-img }](../pokemon/illumise.md)
 
@@ -102,7 +102,7 @@
 
 	**#314 [Illumise](../pokemon/illumise.md)**
 
-	Level 29
+	Level 30
 
 -	[![Croagunk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/453.png){: .pokemon-sprite-img }](../pokemon/croagunk.md)
 
@@ -110,7 +110,7 @@
 
 	**#453 [Croagunk](../pokemon/croagunk.md)**
 
-	Level 45
+	Level 46
 
 -	[![Toxicroak](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/454.png){: .pokemon-sprite-img }](../pokemon/toxicroak.md)
 
@@ -118,7 +118,7 @@
 
 	**#454 [Toxicroak](../pokemon/toxicroak.md)**
 
-	Level 54
+	Level 51
 
 </div>
 

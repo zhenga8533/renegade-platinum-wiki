@@ -70,7 +70,7 @@
 
 	**#004 [Charmander](../pokemon/charmander.md)**
 
-	Level 16
+	Level 17
 
 -	[![Charmeleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/5.png){: .pokemon-sprite-img }](../pokemon/charmeleon.md)
 
@@ -78,7 +78,7 @@
 
 	**#005 [Charmeleon](../pokemon/charmeleon.md)**
 
-	Level 17
+	Level 18
 
 -	[![Charizard](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/6.png){: .pokemon-sprite-img }](../pokemon/charizard.md)
 
@@ -86,7 +86,23 @@
 
 	**#006 [Charizard](../pokemon/charizard.md)**
 
-	Level 17
+	Level 18
+
+-	[![Horsea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/116.png){: .pokemon-sprite-img }](../pokemon/horsea.md)
+
+	***
+
+	**#116 [Horsea](../pokemon/horsea.md)**
+
+	Level 22
+
+-	[![Seadra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/117.png){: .pokemon-sprite-img }](../pokemon/seadra.md)
+
+	***
+
+	**#117 [Seadra](../pokemon/seadra.md)**
+
+	Level 22
 
 -	[![Gyarados](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/130.png){: .pokemon-sprite-img }](../pokemon/gyarados.md)
 
@@ -102,7 +118,7 @@
 
 	**#147 [Dratini](../pokemon/dratini.md)**
 
-	Level 15
+	Level 16
 
 -	[![Dragonair](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/148.png){: .pokemon-sprite-img }](../pokemon/dragonair.md)
 
@@ -110,7 +126,7 @@
 
 	**#148 [Dragonair](../pokemon/dragonair.md)**
 
-	Level 15
+	Level 16
 
 -	[![Dragonite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/149.png){: .pokemon-sprite-img }](../pokemon/dragonite.md)
 
@@ -118,7 +134,15 @@
 
 	**#149 [Dragonite](../pokemon/dragonite.md)**
 
-	Level 15
+	Level 16
+
+-	[![Kingdra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/230.png){: .pokemon-sprite-img }](../pokemon/kingdra.md)
+
+	***
+
+	**#230 [Kingdra](../pokemon/kingdra.md)**
+
+	Level 22
 
 -	[![Gible](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/443.png){: .pokemon-sprite-img }](../pokemon/gible.md)
 
@@ -126,7 +150,7 @@
 
 	**#443 [Gible](../pokemon/gible.md)**
 
-	Level 7
+	Level 16
 
 -	[![Gabite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/444.png){: .pokemon-sprite-img }](../pokemon/gabite.md)
 
@@ -134,7 +158,7 @@
 
 	**#444 [Gabite](../pokemon/gabite.md)**
 
-	Level 7
+	Level 16
 
 -	[![Garchomp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/445.png){: .pokemon-sprite-img }](../pokemon/garchomp.md)
 
@@ -142,15 +166,7 @@
 
 	**#445 [Garchomp](../pokemon/garchomp.md)**
 
-	Level 1
-
--	[![Garchomp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/445.png){: .pokemon-sprite-img }](../pokemon/garchomp.md)
-
-	***
-
-	**#445 [Garchomp](../pokemon/garchomp.md)**
-
-	Level 7
+	Level 16
 
 </div>
 

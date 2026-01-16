@@ -78,7 +78,7 @@
 
 	**#015 [Beedrill](../pokemon/beedrill.md)**
 
-	Level 10
+	Level 11
 
 -	[![Spearow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/21.png){: .pokemon-sprite-img }](../pokemon/spearow.md)
 
@@ -86,7 +86,7 @@
 
 	**#021 [Spearow](../pokemon/spearow.md)**
 
-	Level 9
+	Level 10
 
 -	[![Fearow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/22.png){: .pokemon-sprite-img }](../pokemon/fearow.md)
 
@@ -94,15 +94,7 @@
 
 	**#022 [Fearow](../pokemon/fearow.md)**
 
-	Level 1
-
--	[![Fearow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/22.png){: .pokemon-sprite-img }](../pokemon/fearow.md)
-
-	***
-
-	**#022 [Fearow](../pokemon/fearow.md)**
-
-	Level 9
+	Level 10
 
 -	[![Nidoran♂](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/32.png){: .pokemon-sprite-img }](../pokemon/nidoran-m.md)
 
@@ -118,7 +110,7 @@
 
 	**#033 [Nidorino](../pokemon/nidorino.md)**
 
-	Level 20
+	Level 6
 
 -	[![Rapidash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/78.png){: .pokemon-sprite-img }](../pokemon/rapidash.md)
 
@@ -126,7 +118,7 @@
 
 	**#078 [Rapidash](../pokemon/rapidash.md)**
 
-	Level 40
+	Level 35
 
 -	[![Farfetchˈd](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/83.png){: .pokemon-sprite-img }](../pokemon/farfetchd.md)
 
@@ -142,7 +134,7 @@
 
 	**#084 [Doduo](../pokemon/doduo.md)**
 
-	Level 14
+	Level 9
 
 -	[![Dodrio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/85.png){: .pokemon-sprite-img }](../pokemon/dodrio.md)
 
@@ -150,7 +142,7 @@
 
 	**#085 [Dodrio](../pokemon/dodrio.md)**
 
-	Level 14
+	Level 9
 
 -	[![Rhyhorn](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/111.png){: .pokemon-sprite-img }](../pokemon/rhyhorn.md)
 
@@ -158,7 +150,7 @@
 
 	**#111 [Rhyhorn](../pokemon/rhyhorn.md)**
 
-	Level 13
+	Level 4
 
 -	[![Rhydon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/112.png){: .pokemon-sprite-img }](../pokemon/rhydon.md)
 
@@ -166,15 +158,7 @@
 
 	**#112 [Rhydon](../pokemon/rhydon.md)**
 
-	Level 1
-
--	[![Rhydon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/112.png){: .pokemon-sprite-img }](../pokemon/rhydon.md)
-
-	***
-
-	**#112 [Rhydon](../pokemon/rhydon.md)**
-
-	Level 13
+	Level 4
 
 -	[![Goldeen](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/118.png){: .pokemon-sprite-img }](../pokemon/goldeen.md)
 
@@ -182,7 +166,7 @@
 
 	**#118 [Goldeen](../pokemon/goldeen.md)**
 
-	Level 31
+	Level 19
 
 -	[![Seaking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/119.png){: .pokemon-sprite-img }](../pokemon/seaking.md)
 
@@ -190,7 +174,7 @@
 
 	**#119 [Seaking](../pokemon/seaking.md)**
 
-	Level 31
+	Level 19
 
 -	[![Heracross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/214.png){: .pokemon-sprite-img }](../pokemon/heracross.md)
 
@@ -198,7 +182,7 @@
 
 	**#214 [Heracross](../pokemon/heracross.md)**
 
-	Level 7
+	Level 23
 
 -	[![Piloswine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/221.png){: .pokemon-sprite-img }](../pokemon/piloswine.md)
 
@@ -214,15 +198,7 @@
 
 	**#227 [Skarmory](../pokemon/skarmory.md)**
 
-	Level 20
-
--	[![Skarmory](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/227.png){: .pokemon-sprite-img }](../pokemon/skarmory.md)
-
-	***
-
-	**#227 [Skarmory](../pokemon/skarmory.md)**
-
-	Level 17
+	Level 13
 
 -	[![Donphan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/232.png){: .pokemon-sprite-img }](../pokemon/donphan.md)
 
@@ -254,7 +230,7 @@
 
 	**#393 [Piplup](../pokemon/piplup.md)**
 
-	Level 25
+	Level 26
 
 -	[![Prinplup](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/394.png){: .pokemon-sprite-img }](../pokemon/prinplup.md)
 
@@ -262,7 +238,7 @@
 
 	**#394 [Prinplup](../pokemon/prinplup.md)**
 
-	Level 28
+	Level 30
 
 -	[![Empoleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/395.png){: .pokemon-sprite-img }](../pokemon/empoleon.md)
 
@@ -270,7 +246,7 @@
 
 	**#395 [Empoleon](../pokemon/empoleon.md)**
 
-	Level 28
+	Level 30
 
 -	[![Chatot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/441.png){: .pokemon-sprite-img }](../pokemon/chatot.md)
 
@@ -278,23 +254,23 @@
 
 	**#441 [Chatot](../pokemon/chatot.md)**
 
-	Level 17
+	Level 9
 
 -	[![Rhyperior](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/464.png){: .pokemon-sprite-img }](../pokemon/rhyperior.md)
 
 	***
 
 	**#464 [Rhyperior](../pokemon/rhyperior.md)**
+
+	Level 4
+
+-	[![Mamoswine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/473.png){: .pokemon-sprite-img }](../pokemon/mamoswine.md)
+
+	***
+
+	**#473 [Mamoswine](../pokemon/mamoswine.md)**
 
 	Level 1
-
--	[![Rhyperior](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/464.png){: .pokemon-sprite-img }](../pokemon/rhyperior.md)
-
-	***
-
-	**#464 [Rhyperior](../pokemon/rhyperior.md)**
-
-	Level 13
 
 </div>
 

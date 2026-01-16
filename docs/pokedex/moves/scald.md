@@ -60,5 +60,41 @@
 
 ## :material-pokeball: Learning Pokémon
 
-*No Pokémon can learn this move.*
+### :material-arrow-up-bold: Level-Up
+
+<div class="grid cards" markdown>
+
+-	[![Vaporeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/134.png){: .pokemon-sprite-img }](../pokemon/vaporeon.md)
+
+	***
+
+	**#134 [Vaporeon](../pokemon/vaporeon.md)**
+
+	Level 25
+
+-	[![Piplup](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/393.png){: .pokemon-sprite-img }](../pokemon/piplup.md)
+
+	***
+
+	**#393 [Piplup](../pokemon/piplup.md)**
+
+	Level 23
+
+-	[![Prinplup](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/394.png){: .pokemon-sprite-img }](../pokemon/prinplup.md)
+
+	***
+
+	**#394 [Prinplup](../pokemon/prinplup.md)**
+
+	Level 26
+
+-	[![Empoleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/395.png){: .pokemon-sprite-img }](../pokemon/empoleon.md)
+
+	***
+
+	**#395 [Empoleon](../pokemon/empoleon.md)**
+
+	Level 26
+
+</div>
 

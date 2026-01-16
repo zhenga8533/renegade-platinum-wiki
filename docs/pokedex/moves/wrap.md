@@ -86,7 +86,7 @@
 
 	**#069 [Bellsprout](../pokemon/bellsprout.md)**
 
-	Level 11
+	Level 7
 
 -	[![Weepinbell](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/70.png){: .pokemon-sprite-img }](../pokemon/weepinbell.md)
 
@@ -94,15 +94,7 @@
 
 	**#070 [Weepinbell](../pokemon/weepinbell.md)**
 
-	Level 1
-
--	[![Weepinbell](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/70.png){: .pokemon-sprite-img }](../pokemon/weepinbell.md)
-
-	***
-
-	**#070 [Weepinbell](../pokemon/weepinbell.md)**
-
-	Level 11
+	Level 7
 
 -	[![Tentacool](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/72.png){: .pokemon-sprite-img }](../pokemon/tentacool.md)
 
@@ -110,7 +102,7 @@
 
 	**#072 [Tentacool](../pokemon/tentacool.md)**
 
-	Level 22
+	Level 16
 
 -	[![Tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){: .pokemon-sprite-img }](../pokemon/tentacruel.md)
 
@@ -118,7 +110,7 @@
 
 	**#073 [Tentacruel](../pokemon/tentacruel.md)**
 
-	Level 22
+	Level 16
 
 -	[![Lickitung](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/108.png){: .pokemon-sprite-img }](../pokemon/lickitung.md)
 
@@ -126,7 +118,7 @@
 
 	**#108 [Lickitung](../pokemon/lickitung.md)**
 
-	Level 17
+	Level 10
 
 -	[![Dratini](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/147.png){: .pokemon-sprite-img }](../pokemon/dratini.md)
 
@@ -158,15 +150,7 @@
 
 	**#213 [Shuckle](../pokemon/shuckle.md)**
 
-	Level 27
-
--	[![Shuckle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/213.png){: .pokemon-sprite-img }](../pokemon/shuckle.md)
-
-	***
-
-	**#213 [Shuckle](../pokemon/shuckle.md)**
-
-	Level 22
+	Level 9
 
 -	[![Seviper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/336.png){: .pokemon-sprite-img }](../pokemon/seviper.md)
 
@@ -214,7 +198,7 @@
 
 	**#463 [Lickilicky](../pokemon/lickilicky.md)**
 
-	Level 17
+	Level 10
 
 </div>
 

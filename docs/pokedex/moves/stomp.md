@@ -70,7 +70,7 @@
 
 	**#077 [Ponyta](../pokemon/ponyta.md)**
 
-	Level 19
+	Level 10
 
 -	[![Rapidash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/78.png){: .pokemon-sprite-img }](../pokemon/rapidash.md)
 
@@ -78,7 +78,7 @@
 
 	**#078 [Rapidash](../pokemon/rapidash.md)**
 
-	Level 19
+	Level 10
 
 -	[![Krabby](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/98.png){: .pokemon-sprite-img }](../pokemon/krabby.md)
 
@@ -86,7 +86,7 @@
 
 	**#098 [Krabby](../pokemon/krabby.md)**
 
-	Level 25
+	Level 20
 
 -	[![Kingler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/99.png){: .pokemon-sprite-img }](../pokemon/kingler.md)
 
@@ -94,7 +94,7 @@
 
 	**#099 [Kingler](../pokemon/kingler.md)**
 
-	Level 25
+	Level 20
 
 -	[![Exeggutor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/103.png){: .pokemon-sprite-img }](../pokemon/exeggutor.md)
 
@@ -102,15 +102,7 @@
 
 	**#103 [Exeggutor](../pokemon/exeggutor.md)**
 
-	Level 1
-
--	[![Exeggutor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/103.png){: .pokemon-sprite-img }](../pokemon/exeggutor.md)
-
-	***
-
-	**#103 [Exeggutor](../pokemon/exeggutor.md)**
-
-	Level 17
+	Level 23
 
 -	[![Lickitung](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/108.png){: .pokemon-sprite-img }](../pokemon/lickitung.md)
 
@@ -118,7 +110,7 @@
 
 	**#108 [Lickitung](../pokemon/lickitung.md)**
 
-	Level 21
+	Level 16
 
 -	[![Rhyhorn](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/111.png){: .pokemon-sprite-img }](../pokemon/rhyhorn.md)
 
@@ -126,7 +118,7 @@
 
 	**#111 [Rhyhorn](../pokemon/rhyhorn.md)**
 
-	Level 9
+	Level 13
 
 -	[![Rhydon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/112.png){: .pokemon-sprite-img }](../pokemon/rhydon.md)
 
@@ -134,15 +126,15 @@
 
 	**#112 [Rhydon](../pokemon/rhydon.md)**
 
-	Level 1
+	Level 13
 
--	[![Rhydon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/112.png){: .pokemon-sprite-img }](../pokemon/rhydon.md)
+-	[![Tauros](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/128.png){: .pokemon-sprite-img }](../pokemon/tauros.md)
 
 	***
 
-	**#112 [Rhydon](../pokemon/rhydon.md)**
+	**#128 [Tauros](../pokemon/tauros.md)**
 
-	Level 9
+	Level 13
 
 -	[![Girafarig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/203.png){: .pokemon-sprite-img }](../pokemon/girafarig.md)
 
@@ -150,7 +142,7 @@
 
 	**#203 [Girafarig](../pokemon/girafarig.md)**
 
-	Level 10
+	Level 12
 
 -	[![Stantler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/234.png){: .pokemon-sprite-img }](../pokemon/stantler.md)
 
@@ -166,7 +158,7 @@
 
 	**#241 [Miltank](../pokemon/miltank.md)**
 
-	Level 8
+	Level 9
 
 -	[![Entei](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/244.png){: .pokemon-sprite-img }](../pokemon/entei.md)
 
@@ -174,7 +166,7 @@
 
 	**#244 [Entei](../pokemon/entei.md)**
 
-	Level 29
+	Level 14
 
 -	[![Whismur](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/293.png){: .pokemon-sprite-img }](../pokemon/whismur.md)
 
@@ -182,7 +174,7 @@
 
 	**#293 [Whismur](../pokemon/whismur.md)**
 
-	Level 25
+	Level 16
 
 -	[![Loudred](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/294.png){: .pokemon-sprite-img }](../pokemon/loudred.md)
 
@@ -190,7 +182,7 @@
 
 	**#294 [Loudred](../pokemon/loudred.md)**
 
-	Level 29
+	Level 16
 
 -	[![Exploud](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/295.png){: .pokemon-sprite-img }](../pokemon/exploud.md)
 
@@ -198,7 +190,7 @@
 
 	**#295 [Exploud](../pokemon/exploud.md)**
 
-	Level 29
+	Level 16
 
 -	[![Tropius](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/357.png){: .pokemon-sprite-img }](../pokemon/tropius.md)
 
@@ -206,7 +198,7 @@
 
 	**#357 [Tropius](../pokemon/tropius.md)**
 
-	Level 17
+	Level 9
 
 -	[![Regirock](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/377.png){: .pokemon-sprite-img }](../pokemon/regirock.md)
 
@@ -238,7 +230,7 @@
 
 	**#463 [Lickilicky](../pokemon/lickilicky.md)**
 
-	Level 21
+	Level 16
 
 -	[![Rhyperior](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/464.png){: .pokemon-sprite-img }](../pokemon/rhyperior.md)
 
@@ -246,23 +238,7 @@
 
 	**#464 [Rhyperior](../pokemon/rhyperior.md)**
 
-	Level 1
-
--	[![Rhyperior](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/464.png){: .pokemon-sprite-img }](../pokemon/rhyperior.md)
-
-	***
-
-	**#464 [Rhyperior](../pokemon/rhyperior.md)**
-
-	Level 9
-
--	[![Regigigas](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/486.png){: .pokemon-sprite-img }](../pokemon/regigigas.md)
-
-	***
-
-	**#486 [Regigigas](../pokemon/regigigas.md)**
-
-	Level 1
+	Level 13
 
 </div>
 

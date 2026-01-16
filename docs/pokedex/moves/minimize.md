@@ -70,7 +70,7 @@
 
 	**#035 [Clefairy](../pokemon/clefairy.md)**
 
-	Level 19
+	Level 21
 
 -	[![Clefable](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/36.png){: .pokemon-sprite-img }](../pokemon/clefable.md)
 
@@ -86,7 +86,7 @@
 
 	**#088 [Grimer](../pokemon/grimer.md)**
 
-	Level 17
+	Level 19
 
 -	[![Muk](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/89.png){: .pokemon-sprite-img }](../pokemon/muk.md)
 
@@ -94,7 +94,7 @@
 
 	**#089 [Muk](../pokemon/muk.md)**
 
-	Level 17
+	Level 19
 
 -	[![Chansey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/113.png){: .pokemon-sprite-img }](../pokemon/chansey.md)
 
@@ -102,7 +102,7 @@
 
 	**#113 [Chansey](../pokemon/chansey.md)**
 
-	Level 20
+	Level 19
 
 -	[![Staryu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/120.png){: .pokemon-sprite-img }](../pokemon/staryu.md)
 
@@ -110,7 +110,7 @@
 
 	**#120 [Staryu](../pokemon/staryu.md)**
 
-	Level 33
+	Level 25
 
 -	[![Qwilfish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/211.png){: .pokemon-sprite-img }](../pokemon/qwilfish.md)
 
@@ -118,7 +118,7 @@
 
 	**#211 [Qwilfish](../pokemon/qwilfish.md)**
 
-	Level 9
+	Level 12
 
 -	[![Blissey](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/242.png){: .pokemon-sprite-img }](../pokemon/blissey.md)
 
@@ -126,7 +126,7 @@
 
 	**#242 [Blissey](../pokemon/blissey.md)**
 
-	Level 20
+	Level 19
 
 -	[![Drifloon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/425.png){: .pokemon-sprite-img }](../pokemon/drifloon.md)
 
@@ -134,7 +134,7 @@
 
 	**#425 [Drifloon](../pokemon/drifloon.md)**
 
-	Level 1
+	Level 4
 
 -	[![Drifblim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/426.png){: .pokemon-sprite-img }](../pokemon/drifblim.md)
 
@@ -142,7 +142,7 @@
 
 	**#426 [Drifblim](../pokemon/drifblim.md)**
 
-	Level 1
+	Level 4
 
 </div>
 

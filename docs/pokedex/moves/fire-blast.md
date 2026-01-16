@@ -70,7 +70,7 @@
 
 	**#037 [Vulpix](../pokemon/vulpix.md)**
 
-	Level 47
+	Level 45
 
 -	[![Ponyta](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/77.png){: .pokemon-sprite-img }](../pokemon/ponyta.md)
 
@@ -78,15 +78,7 @@
 
 	**#077 [Ponyta](../pokemon/ponyta.md)**
 
-	Level 38
-
--	[![Ponyta](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/77.png){: .pokemon-sprite-img }](../pokemon/ponyta.md)
-
-	***
-
-	**#077 [Ponyta](../pokemon/ponyta.md)**
-
-	Level 37
+	Level 46
 
 -	[![Rapidash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/78.png){: .pokemon-sprite-img }](../pokemon/rapidash.md)
 
@@ -94,15 +86,7 @@
 
 	**#078 [Rapidash](../pokemon/rapidash.md)**
 
-	Level 38
-
--	[![Rapidash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/78.png){: .pokemon-sprite-img }](../pokemon/rapidash.md)
-
-	***
-
-	**#078 [Rapidash](../pokemon/rapidash.md)**
-
-	Level 37
+	Level 50
 
 -	[![Magmar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/126.png){: .pokemon-sprite-img }](../pokemon/magmar.md)
 
@@ -110,15 +94,7 @@
 
 	**#126 [Magmar](../pokemon/magmar.md)**
 
-	Level 54
-
--	[![Flareon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/136.png){: .pokemon-sprite-img }](../pokemon/flareon.md)
-
-	***
-
-	**#136 [Flareon](../pokemon/flareon.md)**
-
-	Level 71
+	Level 53
 
 -	[![Magby](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/240.png){: .pokemon-sprite-img }](../pokemon/magby.md)
 
@@ -134,7 +110,7 @@
 
 	**#244 [Entei](../pokemon/entei.md)**
 
-	Level 71
+	Level 38
 
 -	[![Ho-Oh](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/250.png){: .pokemon-sprite-img }](../pokemon/ho-oh.md)
 
@@ -142,15 +118,23 @@
 
 	**#250 [Ho-Oh](../pokemon/ho-oh.md)**
 
-	Level 29
+	Level 38
 
--	[![Ho-Oh](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/250.png){: .pokemon-sprite-img }](../pokemon/ho-oh.md)
+-	[![Torchic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/255.png){: .pokemon-sprite-img }](../pokemon/torchic.md)
 
 	***
 
-	**#250 [Ho-Oh](../pokemon/ho-oh.md)**
+	**#255 [Torchic](../pokemon/torchic.md)**
 
-	Level 37
+	Level 44
+
+-	[![Castform](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/351.png){: .pokemon-sprite-img }](../pokemon/castform.md)
+
+	***
+
+	**#351 [Castform](../pokemon/castform.md)**
+
+	Level 35
 
 -	[![Groudon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/383.png){: .pokemon-sprite-img }](../pokemon/groudon.md)
 
@@ -158,15 +142,15 @@
 
 	**#383 [Groudon](../pokemon/groudon.md)**
 
-	Level 45
+	Level 38
 
--	[![Groudon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/383.png){: .pokemon-sprite-img }](../pokemon/groudon.md)
+-	[![Chimchar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/390.png){: .pokemon-sprite-img }](../pokemon/chimchar.md)
 
 	***
 
-	**#383 [Groudon](../pokemon/groudon.md)**
+	**#390 [Chimchar](../pokemon/chimchar.md)**
 
-	Level 90
+	Level 41
 
 -	[![Magmortar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/467.png){: .pokemon-sprite-img }](../pokemon/magmortar.md)
 
@@ -174,7 +158,7 @@
 
 	**#467 [Magmortar](../pokemon/magmortar.md)**
 
-	Level 58
+	Level 53
 
 </div>
 

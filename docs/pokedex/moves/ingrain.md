@@ -70,7 +70,7 @@
 
 	**#114 [Tangela](../pokemon/tangela.md)**
 
-	Level 1
+	Level 4
 
 -	[![Sunkern](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/191.png){: .pokemon-sprite-img }](../pokemon/sunkern.md)
 
@@ -78,7 +78,7 @@
 
 	**#191 [Sunkern](../pokemon/sunkern.md)**
 
-	Level 9
+	Level 4
 
 -	[![Sunflora](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/192.png){: .pokemon-sprite-img }](../pokemon/sunflora.md)
 
@@ -86,7 +86,7 @@
 
 	**#192 [Sunflora](../pokemon/sunflora.md)**
 
-	Level 9
+	Level 4
 
 -	[![Roselia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/315.png){: .pokemon-sprite-img }](../pokemon/roselia.md)
 
@@ -94,7 +94,7 @@
 
 	**#315 [Roselia](../pokemon/roselia.md)**
 
-	Level 34
+	Level 36
 
 -	[![Cacnea](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/331.png){: .pokemon-sprite-img }](../pokemon/cacnea.md)
 
@@ -102,7 +102,7 @@
 
 	**#331 [Cacnea](../pokemon/cacnea.md)**
 
-	Level 25
+	Level 22
 
 -	[![Cacturne](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/332.png){: .pokemon-sprite-img }](../pokemon/cacturne.md)
 
@@ -110,7 +110,7 @@
 
 	**#332 [Cacturne](../pokemon/cacturne.md)**
 
-	Level 25
+	Level 22
 
 -	[![Lileep](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/345.png){: .pokemon-sprite-img }](../pokemon/lileep.md)
 
@@ -118,7 +118,7 @@
 
 	**#345 [Lileep](../pokemon/lileep.md)**
 
-	Level 15
+	Level 9
 
 -	[![Cradily](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/346.png){: .pokemon-sprite-img }](../pokemon/cradily.md)
 
@@ -126,15 +126,7 @@
 
 	**#346 [Cradily](../pokemon/cradily.md)**
 
-	Level 1
-
--	[![Cradily](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/346.png){: .pokemon-sprite-img }](../pokemon/cradily.md)
-
-	***
-
-	**#346 [Cradily](../pokemon/cradily.md)**
-
-	Level 15
+	Level 9
 
 -	[![Carnivine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/455.png){: .pokemon-sprite-img }](../pokemon/carnivine.md)
 
@@ -142,7 +134,7 @@
 
 	**#455 [Carnivine](../pokemon/carnivine.md)**
 
-	Level 21
+	Level 18
 
 -	[![Snover](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/459.png){: .pokemon-sprite-img }](../pokemon/snover.md)
 
@@ -166,7 +158,7 @@
 
 	**#465 [Tangrowth](../pokemon/tangrowth.md)**
 
-	Level 1
+	Level 4
 
 </div>
 

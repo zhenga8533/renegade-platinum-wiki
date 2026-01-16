@@ -70,7 +70,7 @@
 
 	**#054 [Psyduck](../pokemon/psyduck.md)**
 
-	Level 44
+	Level 42
 
 -	[![Golduck](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/55.png){: .pokemon-sprite-img }](../pokemon/golduck.md)
 
@@ -78,7 +78,7 @@
 
 	**#055 [Golduck](../pokemon/golduck.md)**
 
-	Level 50
+	Level 46
 
 -	[![Slowpoke](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/79.png){: .pokemon-sprite-img }](../pokemon/slowpoke.md)
 
@@ -86,7 +86,7 @@
 
 	**#079 [Slowpoke](../pokemon/slowpoke.md)**
 
-	Level 43
+	Level 31
 
 -	[![Slowbro](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/80.png){: .pokemon-sprite-img }](../pokemon/slowbro.md)
 
@@ -94,7 +94,23 @@
 
 	**#080 [Slowbro](../pokemon/slowbro.md)**
 
-	Level 47
+	Level 31
+
+-	[![Kingler](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/99.png){: .pokemon-sprite-img }](../pokemon/kingler.md)
+
+	***
+
+	**#099 [Kingler](../pokemon/kingler.md)**
+
+	Level 1
+
+-	[![Lickitung](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/108.png){: .pokemon-sprite-img }](../pokemon/lickitung.md)
+
+	***
+
+	**#108 [Lickitung](../pokemon/lickitung.md)**
+
+	Level 22
 
 -	[![Snorlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/143.png){: .pokemon-sprite-img }](../pokemon/snorlax.md)
 
@@ -110,7 +126,7 @@
 
 	**#150 [Mewtwo](../pokemon/mewtwo.md)**
 
-	Level 57
+	Level 34
 
 -	[![Mew](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/151.png){: .pokemon-sprite-img }](../pokemon/mew.md)
 
@@ -118,7 +134,7 @@
 
 	**#151 [Mew](../pokemon/mew.md)**
 
-	Level 60
+	Level 26
 
 -	[![Sentret](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/161.png){: .pokemon-sprite-img }](../pokemon/sentret.md)
 
@@ -126,7 +142,7 @@
 
 	**#161 [Sentret](../pokemon/sentret.md)**
 
-	Level 36
+	Level 26
 
 -	[![Furret](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/162.png){: .pokemon-sprite-img }](../pokemon/furret.md)
 
@@ -134,7 +150,7 @@
 
 	**#162 [Furret](../pokemon/furret.md)**
 
-	Level 42
+	Level 30
 
 -	[![Wooper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/194.png){: .pokemon-sprite-img }](../pokemon/wooper.md)
 
@@ -142,7 +158,7 @@
 
 	**#194 [Wooper](../pokemon/wooper.md)**
 
-	Level 23
+	Level 19
 
 -	[![Quagsire](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/195.png){: .pokemon-sprite-img }](../pokemon/quagsire.md)
 
@@ -150,7 +166,7 @@
 
 	**#195 [Quagsire](../pokemon/quagsire.md)**
 
-	Level 24
+	Level 19
 
 -	[![Slugma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/218.png){: .pokemon-sprite-img }](../pokemon/slugma.md)
 
@@ -158,7 +174,7 @@
 
 	**#218 [Slugma](../pokemon/slugma.md)**
 
-	Level 31
+	Level 27
 
 -	[![Magcargo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/219.png){: .pokemon-sprite-img }](../pokemon/magcargo.md)
 
@@ -166,7 +182,7 @@
 
 	**#219 [Magcargo](../pokemon/magcargo.md)**
 
-	Level 31
+	Level 27
 
 -	[![Swinub](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/220.png){: .pokemon-sprite-img }](../pokemon/swinub.md)
 
@@ -174,7 +190,7 @@
 
 	**#220 [Swinub](../pokemon/swinub.md)**
 
-	Level 49
+	Level 43
 
 -	[![Piloswine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/221.png){: .pokemon-sprite-img }](../pokemon/piloswine.md)
 
@@ -182,7 +198,15 @@
 
 	**#221 [Piloswine](../pokemon/piloswine.md)**
 
-	Level 65
+	Level 47
+
+-	[![Corsola](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/222.png){: .pokemon-sprite-img }](../pokemon/corsola.md)
+
+	***
+
+	**#222 [Corsola](../pokemon/corsola.md)**
+
+	Level 28
 
 -	[![Slakoth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/287.png){: .pokemon-sprite-img }](../pokemon/slakoth.md)
 
@@ -190,7 +214,7 @@
 
 	**#287 [Slakoth](../pokemon/slakoth.md)**
 
-	Level 25
+	Level 27
 
 -	[![Slaking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/289.png){: .pokemon-sprite-img }](../pokemon/slaking.md)
 
@@ -198,7 +222,7 @@
 
 	**#289 [Slaking](../pokemon/slaking.md)**
 
-	Level 25
+	Level 27
 
 -	[![Gulpin](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/316.png){: .pokemon-sprite-img }](../pokemon/gulpin.md)
 
@@ -206,7 +230,7 @@
 
 	**#316 [Gulpin](../pokemon/gulpin.md)**
 
-	Level 17
+	Level 14
 
 -	[![Swalot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/317.png){: .pokemon-sprite-img }](../pokemon/swalot.md)
 
@@ -214,7 +238,7 @@
 
 	**#317 [Swalot](../pokemon/swalot.md)**
 
-	Level 17
+	Level 14
 
 -	[![Wailmer](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/320.png){: .pokemon-sprite-img }](../pokemon/wailmer.md)
 
@@ -222,7 +246,7 @@
 
 	**#320 [Wailmer](../pokemon/wailmer.md)**
 
-	Level 37
+	Level 46
 
 -	[![Wailord](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/321.png){: .pokemon-sprite-img }](../pokemon/wailord.md)
 
@@ -230,7 +254,7 @@
 
 	**#321 [Wailord](../pokemon/wailord.md)**
 
-	Level 37
+	Level 50
 
 -	[![Numel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/322.png){: .pokemon-sprite-img }](../pokemon/numel.md)
 
@@ -238,7 +262,7 @@
 
 	**#322 [Numel](../pokemon/numel.md)**
 
-	Level 25
+	Level 19
 
 -	[![Camerupt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/323.png){: .pokemon-sprite-img }](../pokemon/camerupt.md)
 
@@ -246,7 +270,7 @@
 
 	**#323 [Camerupt](../pokemon/camerupt.md)**
 
-	Level 25
+	Level 19
 
 -	[![Torkoal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/324.png){: .pokemon-sprite-img }](../pokemon/torkoal.md)
 
@@ -254,7 +278,7 @@
 
 	**#324 [Torkoal](../pokemon/torkoal.md)**
 
-	Level 49
+	Level 43
 
 -	[![Barboach](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/339.png){: .pokemon-sprite-img }](../pokemon/barboach.md)
 
@@ -262,7 +286,7 @@
 
 	**#339 [Barboach](../pokemon/barboach.md)**
 
-	Level 18
+	Level 13
 
 -	[![Whiscash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/340.png){: .pokemon-sprite-img }](../pokemon/whiscash.md)
 
@@ -270,7 +294,7 @@
 
 	**#340 [Whiscash](../pokemon/whiscash.md)**
 
-	Level 18
+	Level 13
 
 -	[![Lileep](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/345.png){: .pokemon-sprite-img }](../pokemon/lileep.md)
 
@@ -278,7 +302,7 @@
 
 	**#345 [Lileep](../pokemon/lileep.md)**
 
-	Level 29
+	Level 30
 
 -	[![Cradily](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/346.png){: .pokemon-sprite-img }](../pokemon/cradily.md)
 
@@ -286,7 +310,7 @@
 
 	**#346 [Cradily](../pokemon/cradily.md)**
 
-	Level 29
+	Level 31
 
 -	[![Gorebyss](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/368.png){: .pokemon-sprite-img }](../pokemon/gorebyss.md)
 
@@ -294,7 +318,15 @@
 
 	**#368 [Gorebyss](../pokemon/gorebyss.md)**
 
-	Level 19
+	Level 15
+
+-	[![Relicanth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/369.png){: .pokemon-sprite-img }](../pokemon/relicanth.md)
+
+	***
+
+	**#369 [Relicanth](../pokemon/relicanth.md)**
+
+	Level 43
 
 -	[![Regice](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/378.png){: .pokemon-sprite-img }](../pokemon/regice.md)
 
@@ -302,7 +334,7 @@
 
 	**#378 [Regice](../pokemon/regice.md)**
 
-	Level 41
+	Level 26
 
 -	[![Registeel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/379.png){: .pokemon-sprite-img }](../pokemon/registeel.md)
 
@@ -310,7 +342,7 @@
 
 	**#379 [Registeel](../pokemon/registeel.md)**
 
-	Level 41
+	Level 26
 
 -	[![Bidoof](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/399.png){: .pokemon-sprite-img }](../pokemon/bidoof.md)
 
@@ -318,7 +350,7 @@
 
 	**#399 [Bidoof](../pokemon/bidoof.md)**
 
-	Level 29
+	Level 32
 
 -	[![Bibarel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/400.png){: .pokemon-sprite-img }](../pokemon/bibarel.md)
 
@@ -326,7 +358,39 @@
 
 	**#400 [Bibarel](../pokemon/bibarel.md)**
 
-	Level 33
+	Level 38
+
+-	[![Shellos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/422.png){: .pokemon-sprite-img }](../pokemon/shellos.md)
+
+	***
+
+	**#422 [Shellos](../pokemon/shellos.md)**
+
+	Level 40
+
+-	[![Gastrodon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/423.png){: .pokemon-sprite-img }](../pokemon/gastrodon.md)
+
+	***
+
+	**#423 [Gastrodon](../pokemon/gastrodon.md)**
+
+	Level 44
+
+-	[![Drifloon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/425.png){: .pokemon-sprite-img }](../pokemon/drifloon.md)
+
+	***
+
+	**#425 [Drifloon](../pokemon/drifloon.md)**
+
+	Level 28
+
+-	[![Drifblim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/426.png){: .pokemon-sprite-img }](../pokemon/drifblim.md)
+
+	***
+
+	**#426 [Drifblim](../pokemon/drifblim.md)**
+
+	Level 29
 
 -	[![Munchlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/446.png){: .pokemon-sprite-img }](../pokemon/munchlax.md)
 
@@ -336,13 +400,21 @@
 
 	Level 9
 
+-	[![Lickilicky](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/463.png){: .pokemon-sprite-img }](../pokemon/lickilicky.md)
+
+	***
+
+	**#463 [Lickilicky](../pokemon/lickilicky.md)**
+
+	Level 22
+
 -	[![Uxie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/480.png){: .pokemon-sprite-img }](../pokemon/uxie.md)
 
 	***
 
 	**#480 [Uxie](../pokemon/uxie.md)**
 
-	Level 46
+	Level 42
 
 </div>
 

@@ -72,14 +72,6 @@
 
 	Level 1
 
--	[![Jynx](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/124.png){: .pokemon-sprite-img }](../pokemon/jynx.md)
-
-	***
-
-	**#124 [Jynx](../pokemon/jynx.md)**
-
-	Level 11
-
 -	[![Articuno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/144.png){: .pokemon-sprite-img }](../pokemon/articuno.md)
 
 	***
@@ -94,7 +86,7 @@
 
 	**#220 [Swinub](../pokemon/swinub.md)**
 
-	Level 8
+	Level 10
 
 -	[![Piloswine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/221.png){: .pokemon-sprite-img }](../pokemon/piloswine.md)
 
@@ -102,15 +94,7 @@
 
 	**#221 [Piloswine](../pokemon/piloswine.md)**
 
-	Level 1
-
--	[![Piloswine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/221.png){: .pokemon-sprite-img }](../pokemon/piloswine.md)
-
-	***
-
-	**#221 [Piloswine](../pokemon/piloswine.md)**
-
-	Level 8
+	Level 10
 
 -	[![Smoochum](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/238.png){: .pokemon-sprite-img }](../pokemon/smoochum.md)
 
@@ -118,7 +102,7 @@
 
 	**#238 [Smoochum](../pokemon/smoochum.md)**
 
-	Level 11
+	Level 1
 
 -	[![Castform](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/351.png){: .pokemon-sprite-img }](../pokemon/castform.md)
 
@@ -184,11 +168,11 @@
 
 	Level 1
 
--	[![Mamoswine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/473.png){: .pokemon-sprite-img }](../pokemon/mamoswine.md)
+-	[![Glaceon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/471.png){: .pokemon-sprite-img }](../pokemon/glaceon.md)
 
 	***
 
-	**#473 [Mamoswine](../pokemon/mamoswine.md)**
+	**#471 [Glaceon](../pokemon/glaceon.md)**
 
 	Level 1
 
@@ -198,7 +182,7 @@
 
 	**#473 [Mamoswine](../pokemon/mamoswine.md)**
 
-	Level 8
+	Level 10
 
 -	[![Froslass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/478.png){: .pokemon-sprite-img }](../pokemon/froslass.md)
 

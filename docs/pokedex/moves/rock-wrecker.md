@@ -70,7 +70,7 @@
 
 	**#464 [Rhyperior](../pokemon/rhyperior.md)**
 
-	Level 61
+	Level 58
 
 </div>
 

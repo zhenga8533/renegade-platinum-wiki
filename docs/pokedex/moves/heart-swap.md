@@ -70,7 +70,7 @@
 
 	**#490 [Manaphy](../pokemon/manaphy.md)**
 
-	Level 76
+	Level 1
 
 </div>
 

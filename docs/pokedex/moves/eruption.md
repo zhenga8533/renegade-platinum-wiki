@@ -70,7 +70,7 @@
 
 	**#155 [Cyndaquil](../pokemon/cyndaquil.md)**
 
-	Level 49
+	Level 44
 
 -	[![Quilava](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/156.png){: .pokemon-sprite-img }](../pokemon/quilava.md)
 
@@ -78,7 +78,7 @@
 
 	**#156 [Quilava](../pokemon/quilava.md)**
 
-	Level 57
+	Level 55
 
 -	[![Typhlosion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/157.png){: .pokemon-sprite-img }](../pokemon/typhlosion.md)
 
@@ -86,7 +86,7 @@
 
 	**#157 [Typhlosion](../pokemon/typhlosion.md)**
 
-	Level 57
+	Level 60
 
 -	[![Entei](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/244.png){: .pokemon-sprite-img }](../pokemon/entei.md)
 
@@ -94,7 +94,7 @@
 
 	**#244 [Entei](../pokemon/entei.md)**
 
-	Level 85
+	Level 46
 
 -	[![Camerupt](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/323.png){: .pokemon-sprite-img }](../pokemon/camerupt.md)
 
@@ -102,15 +102,15 @@
 
 	**#323 [Camerupt](../pokemon/camerupt.md)**
 
-	Level 57
+	Level 51
 
--	[![Groudon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/383.png){: .pokemon-sprite-img }](../pokemon/groudon.md)
+-	[![Torkoal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/324.png){: .pokemon-sprite-img }](../pokemon/torkoal.md)
 
 	***
 
-	**#383 [Groudon](../pokemon/groudon.md)**
+	**#324 [Torkoal](../pokemon/torkoal.md)**
 
-	Level 80
+	Level 49
 
 -	[![Groudon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/383.png){: .pokemon-sprite-img }](../pokemon/groudon.md)
 
@@ -119,6 +119,14 @@
 	**#383 [Groudon](../pokemon/groudon.md)**
 
 	Level 50
+
+-	[![Heatran](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/485.png){: .pokemon-sprite-img }](../pokemon/heatran.md)
+
+	***
+
+	**#485 [Heatran](../pokemon/heatran.md)**
+
+	Level 1
 
 </div>
 

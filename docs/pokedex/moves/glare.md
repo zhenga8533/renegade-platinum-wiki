@@ -70,7 +70,7 @@
 
 	**#023 [Ekans](../pokemon/ekans.md)**
 
-	Level 12
+	Level 13
 
 -	[![Arbok](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/24.png){: .pokemon-sprite-img }](../pokemon/arbok.md)
 
@@ -78,7 +78,7 @@
 
 	**#024 [Arbok](../pokemon/arbok.md)**
 
-	Level 12
+	Level 13
 
 -	[![Dunsparce](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/206.png){: .pokemon-sprite-img }](../pokemon/dunsparce.md)
 
@@ -86,7 +86,7 @@
 
 	**#206 [Dunsparce](../pokemon/dunsparce.md)**
 
-	Level 13
+	Level 31
 
 -	[![Seviper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/336.png){: .pokemon-sprite-img }](../pokemon/seviper.md)
 
@@ -94,7 +94,7 @@
 
 	**#336 [Seviper](../pokemon/seviper.md)**
 
-	Level 25
+	Level 19
 
 </div>
 

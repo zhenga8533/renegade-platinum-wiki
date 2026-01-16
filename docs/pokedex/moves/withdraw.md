@@ -70,7 +70,7 @@
 
 	**#007 [Squirtle](../pokemon/squirtle.md)**
 
-	Level 10
+	Level 8
 
 -	[![Wartortle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/8.png){: .pokemon-sprite-img }](../pokemon/wartortle.md)
 
@@ -78,7 +78,7 @@
 
 	**#008 [Wartortle](../pokemon/wartortle.md)**
 
-	Level 10
+	Level 8
 
 -	[![Blastoise](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/9.png){: .pokemon-sprite-img }](../pokemon/blastoise.md)
 
@@ -86,15 +86,7 @@
 
 	**#009 [Blastoise](../pokemon/blastoise.md)**
 
-	Level 1
-
--	[![Blastoise](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/9.png){: .pokemon-sprite-img }](../pokemon/blastoise.md)
-
-	***
-
-	**#009 [Blastoise](../pokemon/blastoise.md)**
-
-	Level 10
+	Level 8
 
 -	[![Slowbro](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/80.png){: .pokemon-sprite-img }](../pokemon/slowbro.md)
 
@@ -102,7 +94,7 @@
 
 	**#080 [Slowbro](../pokemon/slowbro.md)**
 
-	Level 37
+	Level 33
 
 -	[![Shellder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/90.png){: .pokemon-sprite-img }](../pokemon/shellder.md)
 
@@ -110,7 +102,7 @@
 
 	**#090 [Shellder](../pokemon/shellder.md)**
 
-	Level 4
+	Level 1
 
 -	[![Cloyster](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/91.png){: .pokemon-sprite-img }](../pokemon/cloyster.md)
 
@@ -126,7 +118,7 @@
 
 	**#138 [Omanyte](../pokemon/omanyte.md)**
 
-	Level 1
+	Level 4
 
 -	[![Omastar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/139.png){: .pokemon-sprite-img }](../pokemon/omastar.md)
 
@@ -134,7 +126,7 @@
 
 	**#139 [Omastar](../pokemon/omastar.md)**
 
-	Level 1
+	Level 4
 
 -	[![Shuckle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/213.png){: .pokemon-sprite-img }](../pokemon/shuckle.md)
 
@@ -150,7 +142,7 @@
 
 	**#324 [Torkoal](../pokemon/torkoal.md)**
 
-	Level 7
+	Level 1
 
 -	[![Turtwig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/387.png){: .pokemon-sprite-img }](../pokemon/turtwig.md)
 
@@ -158,7 +150,7 @@
 
 	**#387 [Turtwig](../pokemon/turtwig.md)**
 
-	Level 5
+	Level 1
 
 -	[![Grotle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/388.png){: .pokemon-sprite-img }](../pokemon/grotle.md)
 
@@ -168,14 +160,6 @@
 
 	Level 1
 
--	[![Grotle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/388.png){: .pokemon-sprite-img }](../pokemon/grotle.md)
-
-	***
-
-	**#388 [Grotle](../pokemon/grotle.md)**
-
-	Level 5
-
 -	[![Torterra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/389.png){: .pokemon-sprite-img }](../pokemon/torterra.md)
 
 	***
@@ -183,14 +167,6 @@
 	**#389 [Torterra](../pokemon/torterra.md)**
 
 	Level 1
-
--	[![Torterra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/389.png){: .pokemon-sprite-img }](../pokemon/torterra.md)
-
-	***
-
-	**#389 [Torterra](../pokemon/torterra.md)**
-
-	Level 5
 
 </div>
 

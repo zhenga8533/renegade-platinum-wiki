@@ -82,7 +82,7 @@
 
 	**#441 [Chatot](../pokemon/chatot.md)**
 
-	Level 21
+	Level 30
 
 </div>
 

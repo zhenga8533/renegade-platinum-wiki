@@ -984,6 +984,12 @@
 
 	**#465 [Tangrowth](../pokemon/tangrowth.md)**
 
+-	[![Leafeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/470.png){: .pokemon-sprite-img }](../pokemon/leafeon.md)
+
+	***
+
+	**#470 [Leafeon](../pokemon/leafeon.md)**
+
 -	[![Gliscor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/472.png){: .pokemon-sprite-img }](../pokemon/gliscor.md)
 
 	***

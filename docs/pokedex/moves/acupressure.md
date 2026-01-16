@@ -70,7 +70,7 @@
 
 	**#084 [Doduo](../pokemon/doduo.md)**
 
-	Level 28
+	Level 33
 
 -	[![Dodrio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/85.png){: .pokemon-sprite-img }](../pokemon/dodrio.md)
 
@@ -78,7 +78,23 @@
 
 	**#085 [Dodrio](../pokemon/dodrio.md)**
 
-	Level 28
+	Level 34
+
+-	[![Meditite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/307.png){: .pokemon-sprite-img }](../pokemon/meditite.md)
+
+	***
+
+	**#307 [Meditite](../pokemon/meditite.md)**
+
+	Level 40
+
+-	[![Medicham](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/308.png){: .pokemon-sprite-img }](../pokemon/medicham.md)
+
+	***
+
+	**#308 [Medicham](../pokemon/medicham.md)**
+
+	Level 43
 
 -	[![Skorupi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/451.png){: .pokemon-sprite-img }](../pokemon/skorupi.md)
 
@@ -86,7 +102,7 @@
 
 	**#451 [Skorupi](../pokemon/skorupi.md)**
 
-	Level 17
+	Level 12
 
 -	[![Drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){: .pokemon-sprite-img }](../pokemon/drapion.md)
 
@@ -94,7 +110,7 @@
 
 	**#452 [Drapion](../pokemon/drapion.md)**
 
-	Level 17
+	Level 12
 
 </div>
 

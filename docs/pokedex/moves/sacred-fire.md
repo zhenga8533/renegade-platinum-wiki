@@ -64,21 +64,21 @@
 
 <div class="grid cards" markdown>
 
+-	[![Entei](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/244.png){: .pokemon-sprite-img }](../pokemon/entei.md)
+
+	***
+
+	**#244 [Entei](../pokemon/entei.md)**
+
+	Level 1
+
 -	[![Ho-Oh](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/250.png){: .pokemon-sprite-img }](../pokemon/ho-oh.md)
 
 	***
 
 	**#250 [Ho-Oh](../pokemon/ho-oh.md)**
 
-	Level 85
-
--	[![Ho-Oh](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/250.png){: .pokemon-sprite-img }](../pokemon/ho-oh.md)
-
-	***
-
-	**#250 [Ho-Oh](../pokemon/ho-oh.md)**
-
-	Level 43
+	Level 46
 
 </div>
 

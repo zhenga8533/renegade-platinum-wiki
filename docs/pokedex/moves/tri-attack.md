@@ -70,7 +70,7 @@
 
 	**#051 [Dugtrio](../pokemon/dugtrio.md)**
 
-	Level 1
+	Level 26
 
 -	[![Magneton](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/82.png){: .pokemon-sprite-img }](../pokemon/magneton.md)
 
@@ -78,7 +78,7 @@
 
 	**#082 [Magneton](../pokemon/magneton.md)**
 
-	Level 1
+	Level 30
 
 -	[![Dodrio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/85.png){: .pokemon-sprite-img }](../pokemon/dodrio.md)
 
@@ -86,7 +86,7 @@
 
 	**#085 [Dodrio](../pokemon/dodrio.md)**
 
-	Level 34
+	Level 31
 
 -	[![Porygon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/137.png){: .pokemon-sprite-img }](../pokemon/porygon.md)
 
@@ -94,7 +94,7 @@
 
 	**#137 [Porygon](../pokemon/porygon.md)**
 
-	Level 51
+	Level 25
 
 -	[![Porygon2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/233.png){: .pokemon-sprite-img }](../pokemon/porygon2.md)
 
@@ -102,7 +102,7 @@
 
 	**#233 [Porygon2](../pokemon/porygon2.md)**
 
-	Level 51
+	Level 25
 
 -	[![Porygon Z](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/474.png){: .pokemon-sprite-img }](../pokemon/porygon-z.md)
 
@@ -110,7 +110,15 @@
 
 	**#474 [Porygon Z](../pokemon/porygon-z.md)**
 
-	Level 51
+	Level 25
+
+-	[![Probopass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/476.png){: .pokemon-sprite-img }](../pokemon/probopass.md)
+
+	***
+
+	**#476 [Probopass](../pokemon/probopass.md)**
+
+	Level 1
 
 </div>
 

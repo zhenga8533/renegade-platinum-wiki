@@ -64,13 +64,37 @@
 
 <div class="grid cards" markdown>
 
+-	[![Seel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/86.png){: .pokemon-sprite-img }](../pokemon/seel.md)
+
+	***
+
+	**#086 [Seel](../pokemon/seel.md)**
+
+	Level 41
+
+-	[![Dewgong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/87.png){: .pokemon-sprite-img }](../pokemon/dewgong.md)
+
+	***
+
+	**#087 [Dewgong](../pokemon/dewgong.md)**
+
+	Level 45
+
 -	[![Articuno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/144.png){: .pokemon-sprite-img }](../pokemon/articuno.md)
 
 	***
 
 	**#144 [Articuno](../pokemon/articuno.md)**
 
-	Level 85
+	Level 26
+
+-	[![Delibird](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/225.png){: .pokemon-sprite-img }](../pokemon/delibird.md)
+
+	***
+
+	**#225 [Delibird](../pokemon/delibird.md)**
+
+	Level 33
 
 -	[![Castform](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/351.png){: .pokemon-sprite-img }](../pokemon/castform.md)
 
@@ -86,7 +110,7 @@
 
 	**#361 [Snorunt](../pokemon/snorunt.md)**
 
-	Level 40
+	Level 42
 
 -	[![Glalie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/362.png){: .pokemon-sprite-img }](../pokemon/glalie.md)
 
@@ -94,7 +118,7 @@
 
 	**#362 [Glalie](../pokemon/glalie.md)**
 
-	Level 40
+	Level 46
 
 -	[![Spheal](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/363.png){: .pokemon-sprite-img }](../pokemon/spheal.md)
 
@@ -102,7 +126,7 @@
 
 	**#363 [Spheal](../pokemon/spheal.md)**
 
-	Level 31
+	Level 28
 
 -	[![Sealeo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/364.png){: .pokemon-sprite-img }](../pokemon/sealeo.md)
 
@@ -110,7 +134,7 @@
 
 	**#364 [Sealeo](../pokemon/sealeo.md)**
 
-	Level 31
+	Level 30
 
 -	[![Walrein](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/365.png){: .pokemon-sprite-img }](../pokemon/walrein.md)
 
@@ -118,7 +142,15 @@
 
 	**#365 [Walrein](../pokemon/walrein.md)**
 
-	Level 31
+	Level 30
+
+-	[![Regice](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/378.png){: .pokemon-sprite-img }](../pokemon/regice.md)
+
+	***
+
+	**#378 [Regice](../pokemon/regice.md)**
+
+	Level 38
 
 -	[![Glaceon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/471.png){: .pokemon-sprite-img }](../pokemon/glaceon.md)
 
@@ -126,7 +158,7 @@
 
 	**#471 [Glaceon](../pokemon/glaceon.md)**
 
-	Level 64
+	Level 1
 
 -	[![Mamoswine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/473.png){: .pokemon-sprite-img }](../pokemon/mamoswine.md)
 
@@ -134,7 +166,7 @@
 
 	**#473 [Mamoswine](../pokemon/mamoswine.md)**
 
-	Level 25
+	Level 1
 
 -	[![Froslass](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/478.png){: .pokemon-sprite-img }](../pokemon/froslass.md)
 
@@ -142,7 +174,7 @@
 
 	**#478 [Froslass](../pokemon/froslass.md)**
 
-	Level 40
+	Level 46
 
 </div>
 

@@ -70,7 +70,7 @@
 
 	**#039 [Jigglypuff](../pokemon/jigglypuff.md)**
 
-	Level 41
+	Level 33
 
 -	[![Mr. Mime](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/122.png){: .pokemon-sprite-img }](../pokemon/mr-mime.md)
 
@@ -86,7 +86,7 @@
 
 	**#185 [Sudowoodo](../pokemon/sudowoodo.md)**
 
-	Level 17
+	Level 18
 
 -	[![Bonsly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/438.png){: .pokemon-sprite-img }](../pokemon/bonsly.md)
 
@@ -94,7 +94,7 @@
 
 	**#438 [Bonsly](../pokemon/bonsly.md)**
 
-	Level 17
+	Level 18
 
 -	[![Mime Jr.](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/439.png){: .pokemon-sprite-img }](../pokemon/mime-jr.md)
 
@@ -110,7 +110,7 @@
 
 	**#441 [Chatot](../pokemon/chatot.md)**
 
-	Level 29
+	Level 27
 
 </div>
 

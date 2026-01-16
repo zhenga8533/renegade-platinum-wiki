@@ -78,7 +78,7 @@
 
 	**#030 [Nidorina](../pokemon/nidorina.md)**
 
-	Level 28
+	Level 19
 
 -	[![Nidoran♂](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/32.png){: .pokemon-sprite-img }](../pokemon/nidoran-m.md)
 
@@ -94,7 +94,7 @@
 
 	**#033 [Nidorino](../pokemon/nidorino.md)**
 
-	Level 28
+	Level 19
 
 -	[![Growlithe](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/58.png){: .pokemon-sprite-img }](../pokemon/growlithe.md)
 
@@ -102,7 +102,7 @@
 
 	**#058 [Growlithe](../pokemon/growlithe.md)**
 
-	Level 17
+	Level 13
 
 -	[![Eevee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/133.png){: .pokemon-sprite-img }](../pokemon/eevee.md)
 
@@ -142,7 +142,7 @@
 
 	**#161 [Sentret](../pokemon/sentret.md)**
 
-	Level 16
+	Level 8
 
 -	[![Furret](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/162.png){: .pokemon-sprite-img }](../pokemon/furret.md)
 
@@ -150,7 +150,23 @@
 
 	**#162 [Furret](../pokemon/furret.md)**
 
-	Level 17
+	Level 8
+
+-	[![Marill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/183.png){: .pokemon-sprite-img }](../pokemon/marill.md)
+
+	***
+
+	**#183 [Marill](../pokemon/marill.md)**
+
+	Level 18
+
+-	[![Azumarill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/184.png){: .pokemon-sprite-img }](../pokemon/azumarill.md)
+
+	***
+
+	**#184 [Azumarill](../pokemon/azumarill.md)**
+
+	Level 19
 
 -	[![Espeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/196.png){: .pokemon-sprite-img }](../pokemon/espeon.md)
 
@@ -176,13 +192,21 @@
 
 	Level 1
 
+-	[![Azurill](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/298.png){: .pokemon-sprite-img }](../pokemon/azurill.md)
+
+	***
+
+	**#298 [Azurill](../pokemon/azurill.md)**
+
+	Level 14
+
 -	[![Plusle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/311.png){: .pokemon-sprite-img }](../pokemon/plusle.md)
 
 	***
 
 	**#311 [Plusle](../pokemon/plusle.md)**
 
-	Level 10
+	Level 4
 
 -	[![Minun](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/312.png){: .pokemon-sprite-img }](../pokemon/minun.md)
 
@@ -190,7 +214,7 @@
 
 	**#312 [Minun](../pokemon/minun.md)**
 
-	Level 10
+	Level 4
 
 -	[![Volbeat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/313.png){: .pokemon-sprite-img }](../pokemon/volbeat.md)
 
@@ -198,7 +222,7 @@
 
 	**#313 [Volbeat](../pokemon/volbeat.md)**
 
-	Level 33
+	Level 45
 
 -	[![Illumise](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/314.png){: .pokemon-sprite-img }](../pokemon/illumise.md)
 
@@ -206,7 +230,7 @@
 
 	**#314 [Illumise](../pokemon/illumise.md)**
 
-	Level 33
+	Level 45
 
 -	[![Latias](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/380.png){: .pokemon-sprite-img }](../pokemon/latias.md)
 
@@ -214,7 +238,7 @@
 
 	**#380 [Latias](../pokemon/latias.md)**
 
-	Level 10
+	Level 30
 
 -	[![Latios](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/381.png){: .pokemon-sprite-img }](../pokemon/latios.md)
 
@@ -222,7 +246,7 @@
 
 	**#381 [Latios](../pokemon/latios.md)**
 
-	Level 10
+	Level 30
 
 -	[![Jirachi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/385.png){: .pokemon-sprite-img }](../pokemon/jirachi.md)
 
@@ -230,7 +254,7 @@
 
 	**#385 [Jirachi](../pokemon/jirachi.md)**
 
-	Level 15
+	Level 6
 
 -	[![Cherubi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/420.png){: .pokemon-sprite-img }](../pokemon/cherubi.md)
 
@@ -270,7 +294,7 @@
 
 	**#475 [Gallade](../pokemon/gallade.md)**
 
-	Level 36
+	Level 42
 
 </div>
 

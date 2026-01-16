@@ -70,7 +70,7 @@
 
 	**#126 [Magmar](../pokemon/magmar.md)**
 
-	Level 49
+	Level 33
 
 -	[![Moltres](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/146.png){: .pokemon-sprite-img }](../pokemon/moltres.md)
 
@@ -78,7 +78,7 @@
 
 	**#146 [Moltres](../pokemon/moltres.md)**
 
-	Level 85
+	Level 26
 
 -	[![Bellossom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/182.png){: .pokemon-sprite-img }](../pokemon/bellossom.md)
 
@@ -94,7 +94,7 @@
 
 	**#191 [Sunkern](../pokemon/sunkern.md)**
 
-	Level 37
+	Level 41
 
 -	[![Sunflora](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/192.png){: .pokemon-sprite-img }](../pokemon/sunflora.md)
 
@@ -102,7 +102,7 @@
 
 	**#192 [Sunflora](../pokemon/sunflora.md)**
 
-	Level 37
+	Level 41
 
 -	[![Magby](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/240.png){: .pokemon-sprite-img }](../pokemon/magby.md)
 
@@ -110,7 +110,7 @@
 
 	**#240 [Magby](../pokemon/magby.md)**
 
-	Level 43
+	Level 31
 
 -	[![Ho-Oh](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/250.png){: .pokemon-sprite-img }](../pokemon/ho-oh.md)
 
@@ -118,15 +118,7 @@
 
 	**#250 [Ho-Oh](../pokemon/ho-oh.md)**
 
-	Level 37
-
--	[![Ho-Oh](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/250.png){: .pokemon-sprite-img }](../pokemon/ho-oh.md)
-
-	***
-
-	**#250 [Ho-Oh](../pokemon/ho-oh.md)**
-
-	Level 29
+	Level 1
 
 -	[![Seedot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/273.png){: .pokemon-sprite-img }](../pokemon/seedot.md)
 
@@ -134,7 +126,7 @@
 
 	**#273 [Seedot](../pokemon/seedot.md)**
 
-	Level 31
+	Level 25
 
 -	[![Castform](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/351.png){: .pokemon-sprite-img }](../pokemon/castform.md)
 
@@ -174,7 +166,7 @@
 
 	**#467 [Magmortar](../pokemon/magmortar.md)**
 
-	Level 52
+	Level 33
 
 -	[![Leafeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/470.png){: .pokemon-sprite-img }](../pokemon/leafeon.md)
 
@@ -182,7 +174,7 @@
 
 	**#470 [Leafeon](../pokemon/leafeon.md)**
 
-	Level 64
+	Level 1
 
 </div>
 

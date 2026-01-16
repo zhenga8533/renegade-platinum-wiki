@@ -78,7 +78,23 @@
 
 	**#235 [Smeargle](../pokemon/smeargle.md)**
 
+	Level 6
+
+-	[![Smeargle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/235.png){: .pokemon-sprite-img }](../pokemon/smeargle.md)
+
+	***
+
+	**#235 [Smeargle](../pokemon/smeargle.md)**
+
 	Level 11
+
+-	[![Smeargle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/235.png){: .pokemon-sprite-img }](../pokemon/smeargle.md)
+
+	***
+
+	**#235 [Smeargle](../pokemon/smeargle.md)**
+
+	Level 16
 
 -	[![Smeargle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/235.png){: .pokemon-sprite-img }](../pokemon/smeargle.md)
 
@@ -94,7 +110,23 @@
 
 	**#235 [Smeargle](../pokemon/smeargle.md)**
 
+	Level 26
+
+-	[![Smeargle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/235.png){: .pokemon-sprite-img }](../pokemon/smeargle.md)
+
+	***
+
+	**#235 [Smeargle](../pokemon/smeargle.md)**
+
 	Level 31
+
+-	[![Smeargle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/235.png){: .pokemon-sprite-img }](../pokemon/smeargle.md)
+
+	***
+
+	**#235 [Smeargle](../pokemon/smeargle.md)**
+
+	Level 36
 
 -	[![Smeargle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/235.png){: .pokemon-sprite-img }](../pokemon/smeargle.md)
 
@@ -110,7 +142,23 @@
 
 	**#235 [Smeargle](../pokemon/smeargle.md)**
 
+	Level 46
+
+-	[![Smeargle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/235.png){: .pokemon-sprite-img }](../pokemon/smeargle.md)
+
+	***
+
+	**#235 [Smeargle](../pokemon/smeargle.md)**
+
 	Level 51
+
+-	[![Smeargle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/235.png){: .pokemon-sprite-img }](../pokemon/smeargle.md)
+
+	***
+
+	**#235 [Smeargle](../pokemon/smeargle.md)**
+
+	Level 56
 
 -	[![Smeargle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/235.png){: .pokemon-sprite-img }](../pokemon/smeargle.md)
 
@@ -126,7 +174,23 @@
 
 	**#235 [Smeargle](../pokemon/smeargle.md)**
 
+	Level 66
+
+-	[![Smeargle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/235.png){: .pokemon-sprite-img }](../pokemon/smeargle.md)
+
+	***
+
+	**#235 [Smeargle](../pokemon/smeargle.md)**
+
 	Level 71
+
+-	[![Smeargle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/235.png){: .pokemon-sprite-img }](../pokemon/smeargle.md)
+
+	***
+
+	**#235 [Smeargle](../pokemon/smeargle.md)**
+
+	Level 76
 
 -	[![Smeargle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/235.png){: .pokemon-sprite-img }](../pokemon/smeargle.md)
 
@@ -142,7 +206,23 @@
 
 	**#235 [Smeargle](../pokemon/smeargle.md)**
 
+	Level 86
+
+-	[![Smeargle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/235.png){: .pokemon-sprite-img }](../pokemon/smeargle.md)
+
+	***
+
+	**#235 [Smeargle](../pokemon/smeargle.md)**
+
 	Level 91
+
+-	[![Smeargle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/235.png){: .pokemon-sprite-img }](../pokemon/smeargle.md)
+
+	***
+
+	**#235 [Smeargle](../pokemon/smeargle.md)**
+
+	Level 96
 
 </div>
 

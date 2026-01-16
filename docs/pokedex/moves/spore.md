@@ -70,7 +70,7 @@
 
 	**#046 [Paras](../pokemon/paras.md)**
 
-	Level 17
+	Level 19
 
 -	[![Parasect](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/47.png){: .pokemon-sprite-img }](../pokemon/parasect.md)
 
@@ -78,7 +78,7 @@
 
 	**#047 [Parasect](../pokemon/parasect.md)**
 
-	Level 17
+	Level 19
 
 -	[![Shroomish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/285.png){: .pokemon-sprite-img }](../pokemon/shroomish.md)
 
@@ -86,7 +86,15 @@
 
 	**#285 [Shroomish](../pokemon/shroomish.md)**
 
-	Level 45
+	Level 19
+
+-	[![Breloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/286.png){: .pokemon-sprite-img }](../pokemon/breloom.md)
+
+	***
+
+	**#286 [Breloom](../pokemon/breloom.md)**
+
+	Level 19
 
 </div>
 

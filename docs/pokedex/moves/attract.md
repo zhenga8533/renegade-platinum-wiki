@@ -70,7 +70,7 @@
 
 	**#267 [Beautifly](../pokemon/beautifly.md)**
 
-	Level 31
+	Level 30
 
 -	[![Skitty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/300.png){: .pokemon-sprite-img }](../pokemon/skitty.md)
 
@@ -78,15 +78,7 @@
 
 	**#300 [Skitty](../pokemon/skitty.md)**
 
-	Level 4
-
--	[![Skitty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/300.png){: .pokemon-sprite-img }](../pokemon/skitty.md)
-
-	***
-
-	**#300 [Skitty](../pokemon/skitty.md)**
-
-	Level 8
+	Level 15
 
 -	[![Delcatty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/301.png){: .pokemon-sprite-img }](../pokemon/delcatty.md)
 
@@ -102,7 +94,7 @@
 
 	**#350 [Milotic](../pokemon/milotic.md)**
 
-	Level 41
+	Level 33
 
 -	[![Luvdisc](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/370.png){: .pokemon-sprite-img }](../pokemon/luvdisc.md)
 
@@ -126,7 +118,7 @@
 
 	**#431 [Glameow](../pokemon/glameow.md)**
 
-	Level 45
+	Level 40
 
 -	[![Purugly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/432.png){: .pokemon-sprite-img }](../pokemon/purugly.md)
 
@@ -134,7 +126,7 @@
 
 	**#432 [Purugly](../pokemon/purugly.md)**
 
-	Level 53
+	Level 43
 
 -	[![Finneon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/456.png){: .pokemon-sprite-img }](../pokemon/finneon.md)
 
@@ -142,7 +134,7 @@
 
 	**#456 [Finneon](../pokemon/finneon.md)**
 
-	Level 10
+	Level 9
 
 -	[![Lumineon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/457.png){: .pokemon-sprite-img }](../pokemon/lumineon.md)
 
@@ -150,15 +142,7 @@
 
 	**#457 [Lumineon](../pokemon/lumineon.md)**
 
-	Level 1
-
--	[![Lumineon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/457.png){: .pokemon-sprite-img }](../pokemon/lumineon.md)
-
-	***
-
-	**#457 [Lumineon](../pokemon/lumineon.md)**
-
-	Level 10
+	Level 9
 
 </div>
 

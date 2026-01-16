@@ -70,7 +70,15 @@
 
 	**#107 [Hitmonchan](../pokemon/hitmonchan.md)**
 
-	Level 36
+	Level 43
+
+-	[![Gligar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/207.png){: .pokemon-sprite-img }](../pokemon/gligar.md)
+
+	***
+
+	**#207 [Gligar](../pokemon/gligar.md)**
+
+	Level 40
 
 -	[![Combusken](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/256.png){: .pokemon-sprite-img }](../pokemon/combusken.md)
 
@@ -78,7 +86,7 @@
 
 	**#256 [Combusken](../pokemon/combusken.md)**
 
-	Level 50
+	Level 30
 
 -	[![Blaziken](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/257.png){: .pokemon-sprite-img }](../pokemon/blaziken.md)
 
@@ -86,7 +94,7 @@
 
 	**#257 [Blaziken](../pokemon/blaziken.md)**
 
-	Level 59
+	Level 30
 
 -	[![Breloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/286.png){: .pokemon-sprite-img }](../pokemon/breloom.md)
 
@@ -94,7 +102,15 @@
 
 	**#286 [Breloom](../pokemon/breloom.md)**
 
-	Level 33
+	Level 38
+
+-	[![Gliscor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/472.png){: .pokemon-sprite-img }](../pokemon/gliscor.md)
+
+	***
+
+	**#472 [Gliscor](../pokemon/gliscor.md)**
+
+	Level 40
 
 </div>
 

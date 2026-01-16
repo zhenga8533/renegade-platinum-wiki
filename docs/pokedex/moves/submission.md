@@ -60,49 +60,5 @@
 
 ## :material-pokeball: Learning Pokémon
 
-### :material-arrow-up-bold: Level-Up
-
-<div class="grid cards" markdown>
-
--	[![Poliwrath](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/62.png){: .pokemon-sprite-img }](../pokemon/poliwrath.md)
-
-	***
-
-	**#062 [Poliwrath](../pokemon/poliwrath.md)**
-
-	Level 1
-
--	[![Machop](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/66.png){: .pokemon-sprite-img }](../pokemon/machop.md)
-
-	***
-
-	**#066 [Machop](../pokemon/machop.md)**
-
-	Level 31
-
--	[![Machoke](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/67.png){: .pokemon-sprite-img }](../pokemon/machoke.md)
-
-	***
-
-	**#067 [Machoke](../pokemon/machoke.md)**
-
-	Level 32
-
--	[![Machamp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/68.png){: .pokemon-sprite-img }](../pokemon/machamp.md)
-
-	***
-
-	**#068 [Machamp](../pokemon/machamp.md)**
-
-	Level 32
-
--	[![Pinsir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/127.png){: .pokemon-sprite-img }](../pokemon/pinsir.md)
-
-	***
-
-	**#127 [Pinsir](../pokemon/pinsir.md)**
-
-	Level 42
-
-</div>
+*No Pokémon can learn this move.*
 

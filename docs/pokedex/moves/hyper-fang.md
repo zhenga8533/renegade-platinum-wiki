@@ -86,7 +86,7 @@
 
 	**#399 [Bidoof](../pokemon/bidoof.md)**
 
-	Level 21
+	Level 14
 
 -	[![Bibarel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/400.png){: .pokemon-sprite-img }](../pokemon/bibarel.md)
 
@@ -94,7 +94,15 @@
 
 	**#400 [Bibarel](../pokemon/bibarel.md)**
 
-	Level 23
+	Level 14
+
+-	[![Pachirisu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/417.png){: .pokemon-sprite-img }](../pokemon/pachirisu.md)
+
+	***
+
+	**#417 [Pachirisu](../pokemon/pachirisu.md)**
+
+	Level 19
 
 </div>
 

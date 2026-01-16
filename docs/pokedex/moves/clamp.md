@@ -70,7 +70,7 @@
 
 	**#090 [Shellder](../pokemon/shellder.md)**
 
-	Level 25
+	Level 10
 
 -	[![Clamperl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/366.png){: .pokemon-sprite-img }](../pokemon/clamperl.md)
 

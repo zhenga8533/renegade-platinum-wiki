@@ -70,7 +70,7 @@
 
 	**#035 [Clefairy](../pokemon/clefairy.md)**
 
-	Level 10
+	Level 1
 
 -	[![Clefable](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/36.png){: .pokemon-sprite-img }](../pokemon/clefable.md)
 
@@ -86,7 +86,7 @@
 
 	**#039 [Jigglypuff](../pokemon/jigglypuff.md)**
 
-	Level 21
+	Level 11
 
 -	[![Wigglytuff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/40.png){: .pokemon-sprite-img }](../pokemon/wigglytuff.md)
 
@@ -102,7 +102,7 @@
 
 	**#060 [Poliwag](../pokemon/poliwag.md)**
 
-	Level 15
+	Level 12
 
 -	[![Poliwhirl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/61.png){: .pokemon-sprite-img }](../pokemon/poliwhirl.md)
 
@@ -110,7 +110,7 @@
 
 	**#061 [Poliwhirl](../pokemon/poliwhirl.md)**
 
-	Level 15
+	Level 12
 
 -	[![Poliwrath](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/62.png){: .pokemon-sprite-img }](../pokemon/poliwrath.md)
 
@@ -126,7 +126,7 @@
 
 	**#113 [Chansey](../pokemon/chansey.md)**
 
-	Level 16
+	Level 10
 
 -	[![Mr. Mime](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/122.png){: .pokemon-sprite-img }](../pokemon/mr-mime.md)
 
@@ -134,7 +134,7 @@
 
 	**#122 [Mr. Mime](../pokemon/mr-mime.md)**
 
-	Level 15
+	Level 12
 
 -	[![Jynx](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/124.png){: .pokemon-sprite-img }](../pokemon/jynx.md)
 
@@ -142,7 +142,7 @@
 
 	**#124 [Jynx](../pokemon/jynx.md)**
 
-	Level 15
+	Level 6
 
 -	[![Politoed](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/186.png){: .pokemon-sprite-img }](../pokemon/politoed.md)
 
@@ -158,7 +158,7 @@
 
 	**#242 [Blissey](../pokemon/blissey.md)**
 
-	Level 16
+	Level 10
 
 -	[![Skitty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/300.png){: .pokemon-sprite-img }](../pokemon/skitty.md)
 
@@ -166,7 +166,7 @@
 
 	**#300 [Skitty](../pokemon/skitty.md)**
 
-	Level 15
+	Level 11
 
 -	[![Delcatty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/301.png){: .pokemon-sprite-img }](../pokemon/delcatty.md)
 
@@ -182,7 +182,7 @@
 
 	**#439 [Mime Jr.](../pokemon/mime-jr.md)**
 
-	Level 15
+	Level 12
 
 </div>
 

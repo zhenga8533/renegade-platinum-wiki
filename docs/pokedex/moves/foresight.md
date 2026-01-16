@@ -86,7 +86,7 @@
 
 	**#066 [Machop](../pokemon/machop.md)**
 
-	Level 13
+	Level 10
 
 -	[![Machoke](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/67.png){: .pokemon-sprite-img }](../pokemon/machoke.md)
 
@@ -94,7 +94,7 @@
 
 	**#067 [Machoke](../pokemon/machoke.md)**
 
-	Level 13
+	Level 10
 
 -	[![Machamp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/68.png){: .pokemon-sprite-img }](../pokemon/machamp.md)
 
@@ -102,7 +102,7 @@
 
 	**#068 [Machamp](../pokemon/machamp.md)**
 
-	Level 13
+	Level 10
 
 -	[![Hitmonlee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/106.png){: .pokemon-sprite-img }](../pokemon/hitmonlee.md)
 
@@ -134,14 +134,6 @@
 
 	**#163 [Hoothoot](../pokemon/hoothoot.md)**
 
-	Level 5
-
--	[![Hoothoot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/163.png){: .pokemon-sprite-img }](../pokemon/hoothoot.md)
-
-	***
-
-	**#163 [Hoothoot](../pokemon/hoothoot.md)**
-
 	Level 1
 
 -	[![Noctowl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/164.png){: .pokemon-sprite-img }](../pokemon/noctowl.md)
@@ -151,14 +143,6 @@
 	**#164 [Noctowl](../pokemon/noctowl.md)**
 
 	Level 1
-
--	[![Noctowl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/164.png){: .pokemon-sprite-img }](../pokemon/noctowl.md)
-
-	***
-
-	**#164 [Noctowl](../pokemon/noctowl.md)**
-
-	Level 5
 
 -	[![Yanma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/193.png){: .pokemon-sprite-img }](../pokemon/yanma.md)
 
@@ -182,7 +166,7 @@
 
 	**#258 [Mudkip](../pokemon/mudkip.md)**
 
-	Level 19
+	Level 11
 
 -	[![Marshtomp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/259.png){: .pokemon-sprite-img }](../pokemon/marshtomp.md)
 
@@ -190,7 +174,7 @@
 
 	**#259 [Marshtomp](../pokemon/marshtomp.md)**
 
-	Level 20
+	Level 11
 
 -	[![Swampert](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/260.png){: .pokemon-sprite-img }](../pokemon/swampert.md)
 
@@ -198,7 +182,7 @@
 
 	**#260 [Swampert](../pokemon/swampert.md)**
 
-	Level 20
+	Level 11
 
 -	[![Skitty](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/300.png){: .pokemon-sprite-img }](../pokemon/skitty.md)
 
@@ -214,7 +198,7 @@
 
 	**#302 [Sableye](../pokemon/sableye.md)**
 
-	Level 4
+	Level 1
 
 -	[![Duskull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/355.png){: .pokemon-sprite-img }](../pokemon/duskull.md)
 
@@ -222,7 +206,7 @@
 
 	**#355 [Duskull](../pokemon/duskull.md)**
 
-	Level 9
+	Level 13
 
 -	[![Dusclops](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/356.png){: .pokemon-sprite-img }](../pokemon/dusclops.md)
 
@@ -230,7 +214,31 @@
 
 	**#356 [Dusclops](../pokemon/dusclops.md)**
 
-	Level 9
+	Level 13
+
+-	[![Starly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/396.png){: .pokemon-sprite-img }](../pokemon/starly.md)
+
+	***
+
+	**#396 [Starly](../pokemon/starly.md)**
+
+	Level 14
+
+-	[![Staravia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/397.png){: .pokemon-sprite-img }](../pokemon/staravia.md)
+
+	***
+
+	**#397 [Staravia](../pokemon/staravia.md)**
+
+	Level 14
+
+-	[![Staraptor](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/398.png){: .pokemon-sprite-img }](../pokemon/staraptor.md)
+
+	***
+
+	**#398 [Staraptor](../pokemon/staraptor.md)**
+
+	Level 14
 
 -	[![Buneary](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/427.png){: .pokemon-sprite-img }](../pokemon/buneary.md)
 
@@ -278,7 +286,7 @@
 
 	**#477 [Dusknoir](../pokemon/dusknoir.md)**
 
-	Level 9
+	Level 13
 
 -	[![Regigigas](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/486.png){: .pokemon-sprite-img }](../pokemon/regigigas.md)
 
@@ -286,7 +294,7 @@
 
 	**#486 [Regigigas](../pokemon/regigigas.md)**
 
-	Level 1
+	Level 14
 
 </div>
 

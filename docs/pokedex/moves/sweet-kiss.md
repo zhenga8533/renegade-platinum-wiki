@@ -70,7 +70,7 @@
 
 	**#172 [Pichu](../pokemon/pichu.md)**
 
-	Level 13
+	Level 7
 
 -	[![Cleffa](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/173.png){: .pokemon-sprite-img }](../pokemon/cleffa.md)
 
@@ -78,7 +78,7 @@
 
 	**#173 [Cleffa](../pokemon/cleffa.md)**
 
-	Level 10
+	Level 1
 
 -	[![Igglybuff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/174.png){: .pokemon-sprite-img }](../pokemon/igglybuff.md)
 
@@ -86,7 +86,7 @@
 
 	**#174 [Igglybuff](../pokemon/igglybuff.md)**
 
-	Level 13
+	Level 7
 
 -	[![Togepi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/175.png){: .pokemon-sprite-img }](../pokemon/togepi.md)
 
@@ -94,7 +94,7 @@
 
 	**#175 [Togepi](../pokemon/togepi.md)**
 
-	Level 10
+	Level 8
 
 -	[![Togetic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/176.png){: .pokemon-sprite-img }](../pokemon/togetic.md)
 
@@ -102,15 +102,7 @@
 
 	**#176 [Togetic](../pokemon/togetic.md)**
 
-	Level 1
-
--	[![Togetic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/176.png){: .pokemon-sprite-img }](../pokemon/togetic.md)
-
-	***
-
-	**#176 [Togetic](../pokemon/togetic.md)**
-
-	Level 10
+	Level 8
 
 -	[![Smoochum](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/238.png){: .pokemon-sprite-img }](../pokemon/smoochum.md)
 
@@ -118,7 +110,7 @@
 
 	**#238 [Smoochum](../pokemon/smoochum.md)**
 
-	Level 8
+	Level 1
 
 -	[![Luvdisc](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/370.png){: .pokemon-sprite-img }](../pokemon/luvdisc.md)
 
@@ -126,7 +118,7 @@
 
 	**#370 [Luvdisc](../pokemon/luvdisc.md)**
 
-	Level 27
+	Level 28
 
 -	[![Pachirisu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/417.png){: .pokemon-sprite-img }](../pokemon/pachirisu.md)
 
@@ -134,7 +126,7 @@
 
 	**#417 [Pachirisu](../pokemon/pachirisu.md)**
 
-	Level 25
+	Level 29
 
 -	[![Happiny](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/440.png){: .pokemon-sprite-img }](../pokemon/happiny.md)
 
@@ -142,7 +134,7 @@
 
 	**#440 [Happiny](../pokemon/happiny.md)**
 
-	Level 12
+	Level 10
 
 -	[![Shaymin Land](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/492.png){: .pokemon-sprite-img }](../pokemon/shaymin-land.md)
 

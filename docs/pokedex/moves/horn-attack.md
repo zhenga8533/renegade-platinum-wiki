@@ -78,7 +78,7 @@
 
 	**#033 [Nidorino](../pokemon/nidorino.md)**
 
-	Level 23
+	Level 15
 
 -	[![Rhyhorn](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/111.png){: .pokemon-sprite-img }](../pokemon/rhyhorn.md)
 
@@ -102,7 +102,7 @@
 
 	**#118 [Goldeen](../pokemon/goldeen.md)**
 
-	Level 11
+	Level 7
 
 -	[![Seaking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/119.png){: .pokemon-sprite-img }](../pokemon/seaking.md)
 
@@ -110,7 +110,7 @@
 
 	**#119 [Seaking](../pokemon/seaking.md)**
 
-	Level 11
+	Level 7
 
 -	[![Tauros](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/128.png){: .pokemon-sprite-img }](../pokemon/tauros.md)
 
@@ -118,7 +118,7 @@
 
 	**#128 [Tauros](../pokemon/tauros.md)**
 
-	Level 8
+	Level 7
 
 -	[![Heracross](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/214.png){: .pokemon-sprite-img }](../pokemon/heracross.md)
 

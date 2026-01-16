@@ -70,7 +70,7 @@
 
 	**#016 [Pidgey](../pokemon/pidgey.md)**
 
-	Level 45
+	Level 39
 
 -	[![Pidgeotto](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/17.png){: .pokemon-sprite-img }](../pokemon/pidgeotto.md)
 
@@ -78,7 +78,7 @@
 
 	**#017 [Pidgeotto](../pokemon/pidgeotto.md)**
 
-	Level 52
+	Level 47
 
 -	[![Pidgeot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/18.png){: .pokemon-sprite-img }](../pokemon/pidgeot.md)
 
@@ -86,7 +86,7 @@
 
 	**#018 [Pidgeot](../pokemon/pidgeot.md)**
 
-	Level 56
+	Level 50
 
 -	[![Spearow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/21.png){: .pokemon-sprite-img }](../pokemon/spearow.md)
 
@@ -94,7 +94,7 @@
 
 	**#021 [Spearow](../pokemon/spearow.md)**
 
-	Level 21
+	Level 16
 
 -	[![Fearow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/22.png){: .pokemon-sprite-img }](../pokemon/fearow.md)
 
@@ -102,7 +102,23 @@
 
 	**#022 [Fearow](../pokemon/fearow.md)**
 
-	Level 23
+	Level 16
+
+-	[![Doduo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/84.png){: .pokemon-sprite-img }](../pokemon/doduo.md)
+
+	***
+
+	**#084 [Doduo](../pokemon/doduo.md)**
+
+	Level 36
+
+-	[![Dodrio](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/85.png){: .pokemon-sprite-img }](../pokemon/dodrio.md)
+
+	***
+
+	**#085 [Dodrio](../pokemon/dodrio.md)**
+
+	Level 38
 
 -	[![Torchic](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/255.png){: .pokemon-sprite-img }](../pokemon/torchic.md)
 
@@ -110,7 +126,7 @@
 
 	**#255 [Torchic](../pokemon/torchic.md)**
 
-	Level 37
+	Level 41
 
 -	[![Combusken](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/256.png){: .pokemon-sprite-img }](../pokemon/combusken.md)
 
@@ -118,7 +134,7 @@
 
 	**#256 [Combusken](../pokemon/combusken.md)**
 
-	Level 43
+	Level 50
 
 -	[![Swablu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/333.png){: .pokemon-sprite-img }](../pokemon/swablu.md)
 
@@ -126,7 +142,7 @@
 
 	**#333 [Swablu](../pokemon/swablu.md)**
 
-	Level 36
+	Level 37
 
 -	[![Chatot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/441.png){: .pokemon-sprite-img }](../pokemon/chatot.md)
 
@@ -134,7 +150,7 @@
 
 	**#441 [Chatot](../pokemon/chatot.md)**
 
-	Level 9
+	Level 12
 
 </div>
 

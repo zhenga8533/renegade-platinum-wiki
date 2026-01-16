@@ -60,6 +60,20 @@
 
 ## :material-pokeball: Learning Pokémon
 
+### :material-arrow-up-bold: Level-Up
+
+<div class="grid cards" markdown>
+
+-	[![Jirachi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/385.png){: .pokemon-sprite-img }](../pokemon/jirachi.md)
+
+	***
+
+	**#385 [Jirachi](../pokemon/jirachi.md)**
+
+	Level 1
+
+</div>
+
 ### :material-school: Tutor
 
 <div class="grid cards" markdown>

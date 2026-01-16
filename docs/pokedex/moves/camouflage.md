@@ -70,7 +70,15 @@
 
 	**#120 [Staryu](../pokemon/staryu.md)**
 
-	Level 19
+	Level 17
+
+-	[![Kecleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/352.png){: .pokemon-sprite-img }](../pokemon/kecleon.md)
+
+	***
+
+	**#352 [Kecleon](../pokemon/kecleon.md)**
+
+	Level 31
 
 -	[![Mothim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/414.png){: .pokemon-sprite-img }](../pokemon/mothim.md)
 
@@ -78,7 +86,7 @@
 
 	**#414 [Mothim](../pokemon/mothim.md)**
 
-	Level 35
+	Level 47
 
 </div>
 

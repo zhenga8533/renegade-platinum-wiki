@@ -94,7 +94,7 @@
 
 	**#122 [Mr. Mime](../pokemon/mr-mime.md)**
 
-	Level 22
+	Level 24
 
 -	[![Articuno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/144.png){: .pokemon-sprite-img }](../pokemon/articuno.md)
 
@@ -102,7 +102,7 @@
 
 	**#144 [Articuno](../pokemon/articuno.md)**
 
-	Level 50
+	Level 22
 
 -	[![Chikorita](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/152.png){: .pokemon-sprite-img }](../pokemon/chikorita.md)
 
@@ -134,7 +134,7 @@
 
 	**#163 [Hoothoot](../pokemon/hoothoot.md)**
 
-	Level 17
+	Level 27
 
 -	[![Noctowl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/164.png){: .pokemon-sprite-img }](../pokemon/noctowl.md)
 
@@ -142,7 +142,7 @@
 
 	**#164 [Noctowl](../pokemon/noctowl.md)**
 
-	Level 17
+	Level 30
 
 -	[![Ledyba](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/165.png){: .pokemon-sprite-img }](../pokemon/ledyba.md)
 
@@ -150,7 +150,7 @@
 
 	**#165 [Ledyba](../pokemon/ledyba.md)**
 
-	Level 14
+	Level 11
 
 -	[![Ledian](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/166.png){: .pokemon-sprite-img }](../pokemon/ledian.md)
 
@@ -158,7 +158,7 @@
 
 	**#166 [Ledian](../pokemon/ledian.md)**
 
-	Level 14
+	Level 11
 
 -	[![Raikou](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/243.png){: .pokemon-sprite-img }](../pokemon/raikou.md)
 
@@ -166,7 +166,7 @@
 
 	**#243 [Raikou](../pokemon/raikou.md)**
 
-	Level 36
+	Level 18
 
 -	[![Mime Jr.](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/439.png){: .pokemon-sprite-img }](../pokemon/mime-jr.md)
 
@@ -174,7 +174,15 @@
 
 	**#439 [Mime Jr.](../pokemon/mime-jr.md)**
 
-	Level 22
+	Level 24
+
+-	[![Cresselia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/488.png){: .pokemon-sprite-img }](../pokemon/cresselia.md)
+
+	***
+
+	**#488 [Cresselia](../pokemon/cresselia.md)**
+
+	Level 26
 
 </div>
 

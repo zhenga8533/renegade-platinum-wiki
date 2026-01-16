@@ -70,7 +70,7 @@
 
 	**#128 [Tauros](../pokemon/tauros.md)**
 
-	Level 55
+	Level 52
 
 -	[![Aerodactyl](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/142.png){: .pokemon-sprite-img }](../pokemon/aerodactyl.md)
 
@@ -78,7 +78,7 @@
 
 	**#142 [Aerodactyl](../pokemon/aerodactyl.md)**
 
-	Level 73
+	Level 61
 
 -	[![Snorlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/143.png){: .pokemon-sprite-img }](../pokemon/snorlax.md)
 
@@ -86,7 +86,7 @@
 
 	**#143 [Snorlax](../pokemon/snorlax.md)**
 
-	Level 49
+	Level 51
 
 -	[![Donphan](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/232.png){: .pokemon-sprite-img }](../pokemon/donphan.md)
 
@@ -94,7 +94,15 @@
 
 	**#232 [Donphan](../pokemon/donphan.md)**
 
-	Level 54
+	Level 46
+
+-	[![Tyranitar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/248.png){: .pokemon-sprite-img }](../pokemon/tyranitar.md)
+
+	***
+
+	**#248 [Tyranitar](../pokemon/tyranitar.md)**
+
+	Level 60
 
 -	[![Electivire](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/466.png){: .pokemon-sprite-img }](../pokemon/electivire.md)
 
@@ -102,7 +110,7 @@
 
 	**#466 [Electivire](../pokemon/electivire.md)**
 
-	Level 67
+	Level 57
 
 -	[![Regigigas](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/486.png){: .pokemon-sprite-img }](../pokemon/regigigas.md)
 
@@ -110,7 +118,7 @@
 
 	**#486 [Regigigas](../pokemon/regigigas.md)**
 
-	Level 100
+	Level 50
 
 </div>
 

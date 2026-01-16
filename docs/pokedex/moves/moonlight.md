@@ -70,7 +70,7 @@
 
 	**#035 [Clefairy](../pokemon/clefairy.md)**
 
-	Level 37
+	Level 31
 
 -	[![Oddish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/43.png){: .pokemon-sprite-img }](../pokemon/oddish.md)
 
@@ -78,7 +78,7 @@
 
 	**#043 [Oddish](../pokemon/oddish.md)**
 
-	Level 33
+	Level 22
 
 -	[![Gloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/44.png){: .pokemon-sprite-img }](../pokemon/gloom.md)
 
@@ -86,7 +86,7 @@
 
 	**#044 [Gloom](../pokemon/gloom.md)**
 
-	Level 41
+	Level 23
 
 -	[![Umbreon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/197.png){: .pokemon-sprite-img }](../pokemon/umbreon.md)
 
@@ -94,7 +94,7 @@
 
 	**#197 [Umbreon](../pokemon/umbreon.md)**
 
-	Level 71
+	Level 31
 
 -	[![Dustox](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/269.png){: .pokemon-sprite-img }](../pokemon/dustox.md)
 
@@ -102,7 +102,7 @@
 
 	**#269 [Dustox](../pokemon/dustox.md)**
 
-	Level 20
+	Level 24
 
 -	[![Volbeat](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/313.png){: .pokemon-sprite-img }](../pokemon/volbeat.md)
 
@@ -110,7 +110,7 @@
 
 	**#313 [Volbeat](../pokemon/volbeat.md)**
 
-	Level 13
+	Level 21
 
 -	[![Illumise](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/314.png){: .pokemon-sprite-img }](../pokemon/illumise.md)
 
@@ -118,7 +118,7 @@
 
 	**#314 [Illumise](../pokemon/illumise.md)**
 
-	Level 13
+	Level 21
 
 -	[![Cresselia](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/488.png){: .pokemon-sprite-img }](../pokemon/cresselia.md)
 
@@ -126,7 +126,7 @@
 
 	**#488 [Cresselia](../pokemon/cresselia.md)**
 
-	Level 57
+	Level 38
 
 </div>
 

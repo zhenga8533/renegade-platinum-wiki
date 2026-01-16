@@ -70,7 +70,7 @@
 
 	**#015 [Beedrill](../pokemon/beedrill.md)**
 
-	Level 25
+	Level 15
 
 -	[![Nidoran♀](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/29.png){: .pokemon-sprite-img }](../pokemon/nidoran-f.md)
 
@@ -86,7 +86,7 @@
 
 	**#030 [Nidorina](../pokemon/nidorina.md)**
 
-	Level 35
+	Level 23
 
 -	[![Nidoran♂](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/32.png){: .pokemon-sprite-img }](../pokemon/nidoran-m.md)
 
@@ -102,7 +102,7 @@
 
 	**#033 [Nidorino](../pokemon/nidorino.md)**
 
-	Level 35
+	Level 23
 
 -	[![Tentacool](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/72.png){: .pokemon-sprite-img }](../pokemon/tentacool.md)
 
@@ -110,7 +110,7 @@
 
 	**#072 [Tentacool](../pokemon/tentacool.md)**
 
-	Level 15
+	Level 10
 
 -	[![Tentacruel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/73.png){: .pokemon-sprite-img }](../pokemon/tentacruel.md)
 
@@ -118,7 +118,7 @@
 
 	**#073 [Tentacruel](../pokemon/tentacruel.md)**
 
-	Level 15
+	Level 10
 
 -	[![Cloyster](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/91.png){: .pokemon-sprite-img }](../pokemon/cloyster.md)
 
@@ -128,13 +128,29 @@
 
 	Level 1
 
+-	[![Omastar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/139.png){: .pokemon-sprite-img }](../pokemon/omastar.md)
+
+	***
+
+	**#139 [Omastar](../pokemon/omastar.md)**
+
+	Level 1
+
+-	[![Pineco](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/204.png){: .pokemon-sprite-img }](../pokemon/pineco.md)
+
+	***
+
+	**#204 [Pineco](../pokemon/pineco.md)**
+
+	Level 27
+
 -	[![Forretress](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/205.png){: .pokemon-sprite-img }](../pokemon/forretress.md)
 
 	***
 
 	**#205 [Forretress](../pokemon/forretress.md)**
 
-	Level 1
+	Level 27
 
 -	[![Qwilfish](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/211.png){: .pokemon-sprite-img }](../pokemon/qwilfish.md)
 
@@ -150,7 +166,7 @@
 
 	**#315 [Roselia](../pokemon/roselia.md)**
 
-	Level 28
+	Level 24
 
 -	[![Skorupi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/451.png){: .pokemon-sprite-img }](../pokemon/skorupi.md)
 
@@ -158,15 +174,7 @@
 
 	**#451 [Skorupi](../pokemon/skorupi.md)**
 
-	Level 34
-
--	[![Skorupi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/451.png){: .pokemon-sprite-img }](../pokemon/skorupi.md)
-
-	***
-
-	**#451 [Skorupi](../pokemon/skorupi.md)**
-
-	Level 28
+	Level 24
 
 -	[![Drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){: .pokemon-sprite-img }](../pokemon/drapion.md)
 
@@ -174,15 +182,7 @@
 
 	**#452 [Drapion](../pokemon/drapion.md)**
 
-	Level 34
-
--	[![Drapion](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/452.png){: .pokemon-sprite-img }](../pokemon/drapion.md)
-
-	***
-
-	**#452 [Drapion](../pokemon/drapion.md)**
-
-	Level 28
+	Level 24
 
 </div>
 

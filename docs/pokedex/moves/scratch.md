@@ -454,14 +454,6 @@
 
 	**#431 [Glameow](../pokemon/glameow.md)**
 
-	Level 5
-
--	[![Purugly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/432.png){: .pokemon-sprite-img }](../pokemon/purugly.md)
-
-	***
-
-	**#432 [Purugly](../pokemon/purugly.md)**
-
 	Level 1
 
 -	[![Purugly](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/432.png){: .pokemon-sprite-img }](../pokemon/purugly.md)
@@ -470,7 +462,7 @@
 
 	**#432 [Purugly](../pokemon/purugly.md)**
 
-	Level 5
+	Level 1
 
 -	[![Stunky](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/434.png){: .pokemon-sprite-img }](../pokemon/stunky.md)
 

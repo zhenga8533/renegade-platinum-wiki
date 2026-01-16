@@ -70,7 +70,7 @@
 
 	**#092 [Gastly](../pokemon/gastly.md)**
 
-	Level 43
+	Level 40
 
 -	[![Haunter](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/93.png){: .pokemon-sprite-img }](../pokemon/haunter.md)
 
@@ -78,7 +78,7 @@
 
 	**#093 [Haunter](../pokemon/haunter.md)**
 
-	Level 55
+	Level 46
 
 -	[![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/94.png){: .pokemon-sprite-img }](../pokemon/gengar.md)
 
@@ -86,7 +86,7 @@
 
 	**#094 [Gengar](../pokemon/gengar.md)**
 
-	Level 55
+	Level 46
 
 -	[![Hypno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/97.png){: .pokemon-sprite-img }](../pokemon/hypno.md)
 
@@ -102,7 +102,7 @@
 
 	**#491 [Darkrai](../pokemon/darkrai.md)**
 
-	Level 38
+	Level 18
 
 </div>
 

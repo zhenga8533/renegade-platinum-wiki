@@ -104,14 +104,6 @@
 
 	Level 1
 
--	[![Jynx](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/124.png){: .pokemon-sprite-img }](../pokemon/jynx.md)
-
-	***
-
-	**#124 [Jynx](../pokemon/jynx.md)**
-
-	Level 5
-
 -	[![Snorlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/143.png){: .pokemon-sprite-img }](../pokemon/snorlax.md)
 
 	***
@@ -126,7 +118,7 @@
 
 	**#209 [Snubbull](../pokemon/snubbull.md)**
 
-	Level 13
+	Level 10
 
 -	[![Granbull](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/210.png){: .pokemon-sprite-img }](../pokemon/granbull.md)
 
@@ -134,7 +126,7 @@
 
 	**#210 [Granbull](../pokemon/granbull.md)**
 
-	Level 13
+	Level 10
 
 -	[![Teddiursa](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/216.png){: .pokemon-sprite-img }](../pokemon/teddiursa.md)
 
@@ -158,7 +150,7 @@
 
 	**#238 [Smoochum](../pokemon/smoochum.md)**
 
-	Level 5
+	Level 1
 
 -	[![Seviper](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/336.png){: .pokemon-sprite-img }](../pokemon/seviper.md)
 

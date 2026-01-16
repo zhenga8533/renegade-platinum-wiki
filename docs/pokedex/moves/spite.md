@@ -70,7 +70,7 @@
 
 	**#092 [Gastly](../pokemon/gastly.md)**
 
-	Level 5
+	Level 1
 
 -	[![Haunter](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/93.png){: .pokemon-sprite-img }](../pokemon/haunter.md)
 
@@ -80,14 +80,6 @@
 
 	Level 1
 
--	[![Haunter](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/93.png){: .pokemon-sprite-img }](../pokemon/haunter.md)
-
-	***
-
-	**#093 [Haunter](../pokemon/haunter.md)**
-
-	Level 5
-
 -	[![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/94.png){: .pokemon-sprite-img }](../pokemon/gengar.md)
 
 	***
@@ -95,14 +87,6 @@
 	**#094 [Gengar](../pokemon/gengar.md)**
 
 	Level 1
-
--	[![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/94.png){: .pokemon-sprite-img }](../pokemon/gengar.md)
-
-	***
-
-	**#094 [Gengar](../pokemon/gengar.md)**
-
-	Level 5
 
 -	[![Misdreavus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/200.png){: .pokemon-sprite-img }](../pokemon/misdreavus.md)
 
@@ -118,7 +102,7 @@
 
 	**#206 [Dunsparce](../pokemon/dunsparce.md)**
 
-	Level 21
+	Level 7
 
 -	[![Shedinja](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/292.png){: .pokemon-sprite-img }](../pokemon/shedinja.md)
 
@@ -126,7 +110,7 @@
 
 	**#292 [Shedinja](../pokemon/shedinja.md)**
 
-	Level 25
+	Level 11
 
 -	[![Shuppet](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/353.png){: .pokemon-sprite-img }](../pokemon/shuppet.md)
 
@@ -134,7 +118,7 @@
 
 	**#353 [Shuppet](../pokemon/shuppet.md)**
 
-	Level 16
+	Level 1
 
 -	[![Banette](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/354.png){: .pokemon-sprite-img }](../pokemon/banette.md)
 
@@ -142,7 +126,7 @@
 
 	**#354 [Banette](../pokemon/banette.md)**
 
-	Level 16
+	Level 1
 
 -	[![Mismagius](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/429.png){: .pokemon-sprite-img }](../pokemon/mismagius.md)
 

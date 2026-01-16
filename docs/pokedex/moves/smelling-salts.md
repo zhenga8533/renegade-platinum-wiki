@@ -70,7 +70,7 @@
 
 	**#296 [Makuhita](../pokemon/makuhita.md)**
 
-	Level 22
+	Level 19
 
 -	[![Hariyama](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/297.png){: .pokemon-sprite-img }](../pokemon/hariyama.md)
 
@@ -78,7 +78,7 @@
 
 	**#297 [Hariyama](../pokemon/hariyama.md)**
 
-	Level 22
+	Level 19
 
 </div>
 

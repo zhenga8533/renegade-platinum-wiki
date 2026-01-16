@@ -64,14 +64,6 @@
 
 <div class="grid cards" markdown>
 
--	[![Mightyena](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/262.png){: .pokemon-sprite-img }](../pokemon/mightyena.md)
-
-	***
-
-	**#262 [Mightyena](../pokemon/mightyena.md)**
-
-	Level 57
-
 -	[![Kecleon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/352.png){: .pokemon-sprite-img }](../pokemon/kecleon.md)
 
 	***

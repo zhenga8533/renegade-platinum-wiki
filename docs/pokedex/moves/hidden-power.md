@@ -86,7 +86,7 @@
 
 	**#307 [Meditite](../pokemon/meditite.md)**
 
-	Level 15
+	Level 19
 
 -	[![Medicham](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/308.png){: .pokemon-sprite-img }](../pokemon/medicham.md)
 
@@ -94,7 +94,7 @@
 
 	**#308 [Medicham](../pokemon/medicham.md)**
 
-	Level 15
+	Level 19
 
 -	[![Burmy](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/412.png){: .pokemon-sprite-img }](../pokemon/burmy.md)
 
@@ -102,7 +102,7 @@
 
 	**#412 [Burmy](../pokemon/burmy.md)**
 
-	Level 20
+	Level 1
 
 -	[![Wormadam Plant](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/413.png){: .pokemon-sprite-img }](../pokemon/wormadam-plant.md)
 
@@ -118,7 +118,7 @@
 
 	**#414 [Mothim](../pokemon/mothim.md)**
 
-	Level 20
+	Level 1
 
 -	[![Shellos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/422.png){: .pokemon-sprite-img }](../pokemon/shellos.md)
 

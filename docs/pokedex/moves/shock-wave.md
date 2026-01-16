@@ -64,13 +64,45 @@
 
 <div class="grid cards" markdown>
 
+-	[![Pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/25.png){: .pokemon-sprite-img }](../pokemon/pikachu.md)
+
+	***
+
+	**#025 [Pikachu](../pokemon/pikachu.md)**
+
+	Level 13
+
 -	[![Electabuzz](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/125.png){: .pokemon-sprite-img }](../pokemon/electabuzz.md)
 
 	***
 
 	**#125 [Electabuzz](../pokemon/electabuzz.md)**
 
-	Level 19
+	Level 13
+
+-	[![Jolteon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/135.png){: .pokemon-sprite-img }](../pokemon/jolteon.md)
+
+	***
+
+	**#135 [Jolteon](../pokemon/jolteon.md)**
+
+	Level 16
+
+-	[![Chinchou](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/170.png){: .pokemon-sprite-img }](../pokemon/chinchou.md)
+
+	***
+
+	**#170 [Chinchou](../pokemon/chinchou.md)**
+
+	Level 6
+
+-	[![Lanturn](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/171.png){: .pokemon-sprite-img }](../pokemon/lanturn.md)
+
+	***
+
+	**#171 [Lanturn](../pokemon/lanturn.md)**
+
+	Level 6
 
 -	[![Elekid](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/239.png){: .pokemon-sprite-img }](../pokemon/elekid.md)
 
@@ -78,7 +110,7 @@
 
 	**#239 [Elekid](../pokemon/elekid.md)**
 
-	Level 19
+	Level 13
 
 -	[![Electivire](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/466.png){: .pokemon-sprite-img }](../pokemon/electivire.md)
 
@@ -86,7 +118,7 @@
 
 	**#466 [Electivire](../pokemon/electivire.md)**
 
-	Level 19
+	Level 13
 
 -	[![Rotom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/479.png){: .pokemon-sprite-img }](../pokemon/rotom.md)
 
@@ -94,7 +126,7 @@
 
 	**#479 [Rotom](../pokemon/rotom.md)**
 
-	Level 22
+	Level 10
 
 </div>
 

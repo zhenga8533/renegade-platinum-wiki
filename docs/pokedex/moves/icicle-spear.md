@@ -64,13 +64,37 @@
 
 <div class="grid cards" markdown>
 
+-	[![Seel](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/86.png){: .pokemon-sprite-img }](../pokemon/seel.md)
+
+	***
+
+	**#086 [Seel](../pokemon/seel.md)**
+
+	Level 1
+
+-	[![Dewgong](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/87.png){: .pokemon-sprite-img }](../pokemon/dewgong.md)
+
+	***
+
+	**#087 [Dewgong](../pokemon/dewgong.md)**
+
+	Level 1
+
 -	[![Shellder](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/90.png){: .pokemon-sprite-img }](../pokemon/shellder.md)
 
 	***
 
 	**#090 [Shellder](../pokemon/shellder.md)**
 
-	Level 13
+	Level 15
+
+-	[![Corsola](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/222.png){: .pokemon-sprite-img }](../pokemon/corsola.md)
+
+	***
+
+	**#222 [Corsola](../pokemon/corsola.md)**
+
+	Level 19
 
 </div>
 

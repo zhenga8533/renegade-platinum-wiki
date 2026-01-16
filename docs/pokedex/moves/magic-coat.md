@@ -70,7 +70,15 @@
 
 	**#137 [Porygon](../pokemon/porygon.md)**
 
-	Level 56
+	Level 34
+
+-	[![Girafarig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/203.png){: .pokemon-sprite-img }](../pokemon/girafarig.md)
+
+	***
+
+	**#203 [Girafarig](../pokemon/girafarig.md)**
+
+	Level 30
 
 -	[![Porygon2](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/233.png){: .pokemon-sprite-img }](../pokemon/porygon2.md)
 
@@ -78,7 +86,7 @@
 
 	**#233 [Porygon2](../pokemon/porygon2.md)**
 
-	Level 56
+	Level 34
 
 -	[![Spoink](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/325.png){: .pokemon-sprite-img }](../pokemon/spoink.md)
 
@@ -86,7 +94,7 @@
 
 	**#325 [Spoink](../pokemon/spoink.md)**
 
-	Level 21
+	Level 22
 
 -	[![Grumpig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/326.png){: .pokemon-sprite-img }](../pokemon/grumpig.md)
 
@@ -94,15 +102,23 @@
 
 	**#326 [Grumpig](../pokemon/grumpig.md)**
 
-	Level 21
+	Level 22
 
--	[![Lopunny](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/428.png){: .pokemon-sprite-img }](../pokemon/lopunny.md)
+-	[![Latias](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/380.png){: .pokemon-sprite-img }](../pokemon/latias.md)
 
 	***
 
-	**#428 [Lopunny](../pokemon/lopunny.md)**
+	**#380 [Latias](../pokemon/latias.md)**
 
-	Level 1
+	Level 22
+
+-	[![Latios](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/381.png){: .pokemon-sprite-img }](../pokemon/latios.md)
+
+	***
+
+	**#381 [Latios](../pokemon/latios.md)**
+
+	Level 22
 
 -	[![Porygon Z](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/474.png){: .pokemon-sprite-img }](../pokemon/porygon-z.md)
 
@@ -110,7 +126,7 @@
 
 	**#474 [Porygon Z](../pokemon/porygon-z.md)**
 
-	Level 56
+	Level 34
 
 </div>
 

@@ -70,7 +70,7 @@
 
 	**#107 [Hitmonchan](../pokemon/hitmonchan.md)**
 
-	Level 46
+	Level 33
 
 -	[![Zapdos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/145.png){: .pokemon-sprite-img }](../pokemon/zapdos.md)
 
@@ -78,7 +78,7 @@
 
 	**#145 [Zapdos](../pokemon/zapdos.md)**
 
-	Level 15
+	Level 1
 
 -	[![Yanma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/193.png){: .pokemon-sprite-img }](../pokemon/yanma.md)
 
@@ -94,7 +94,7 @@
 
 	**#237 [Hitmontop](../pokemon/hitmontop.md)**
 
-	Level 46
+	Level 33
 
 -	[![Treecko](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/252.png){: .pokemon-sprite-img }](../pokemon/treecko.md)
 
@@ -102,7 +102,7 @@
 
 	**#252 [Treecko](../pokemon/treecko.md)**
 
-	Level 41
+	Level 29
 
 -	[![Grovyle](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/253.png){: .pokemon-sprite-img }](../pokemon/grovyle.md)
 
@@ -110,7 +110,7 @@
 
 	**#253 [Grovyle](../pokemon/grovyle.md)**
 
-	Level 47
+	Level 34
 
 -	[![Sceptile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/254.png){: .pokemon-sprite-img }](../pokemon/sceptile.md)
 
@@ -118,7 +118,7 @@
 
 	**#254 [Sceptile](../pokemon/sceptile.md)**
 
-	Level 51
+	Level 34
 
 -	[![Sableye](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/302.png){: .pokemon-sprite-img }](../pokemon/sableye.md)
 
@@ -126,21 +126,13 @@
 
 	**#302 [Sableye](../pokemon/sableye.md)**
 
-	Level 22
+	Level 13
 
 -	[![Meditite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/307.png){: .pokemon-sprite-img }](../pokemon/meditite.md)
 
 	***
 
 	**#307 [Meditite](../pokemon/meditite.md)**
-
-	Level 11
-
--	[![Medicham](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/308.png){: .pokemon-sprite-img }](../pokemon/medicham.md)
-
-	***
-
-	**#308 [Medicham](../pokemon/medicham.md)**
 
 	Level 1
 
@@ -150,7 +142,7 @@
 
 	**#308 [Medicham](../pokemon/medicham.md)**
 
-	Level 11
+	Level 1
 
 -	[![Zangoose](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/335.png){: .pokemon-sprite-img }](../pokemon/zangoose.md)
 
@@ -158,7 +150,7 @@
 
 	**#335 [Zangoose](../pokemon/zangoose.md)**
 
-	Level 40
+	Level 31
 
 -	[![Absol](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/359.png){: .pokemon-sprite-img }](../pokemon/absol.md)
 
@@ -166,7 +158,7 @@
 
 	**#359 [Absol](../pokemon/absol.md)**
 
-	Level 49
+	Level 31
 
 -	[![Lucario](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/448.png){: .pokemon-sprite-img }](../pokemon/lucario.md)
 
@@ -190,7 +182,7 @@
 
 	**#482 [Azelf](../pokemon/azelf.md)**
 
-	Level 16
+	Level 10
 
 </div>
 

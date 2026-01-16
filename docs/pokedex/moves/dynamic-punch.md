@@ -70,7 +70,7 @@
 
 	**#062 [Poliwrath](../pokemon/poliwrath.md)**
 
-	Level 43
+	Level 33
 
 -	[![Machop](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/66.png){: .pokemon-sprite-img }](../pokemon/machop.md)
 
@@ -78,7 +78,7 @@
 
 	**#066 [Machop](../pokemon/machop.md)**
 
-	Level 46
+	Level 44
 
 -	[![Machoke](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/67.png){: .pokemon-sprite-img }](../pokemon/machoke.md)
 
@@ -86,7 +86,7 @@
 
 	**#067 [Machoke](../pokemon/machoke.md)**
 
-	Level 51
+	Level 50
 
 -	[![Machamp](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/68.png){: .pokemon-sprite-img }](../pokemon/machamp.md)
 
@@ -94,7 +94,7 @@
 
 	**#068 [Machamp](../pokemon/machamp.md)**
 
-	Level 51
+	Level 50
 
 -	[![Breloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/286.png){: .pokemon-sprite-img }](../pokemon/breloom.md)
 
@@ -102,7 +102,7 @@
 
 	**#286 [Breloom](../pokemon/breloom.md)**
 
-	Level 45
+	Level 46
 
 </div>
 

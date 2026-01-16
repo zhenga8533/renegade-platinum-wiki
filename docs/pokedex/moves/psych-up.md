@@ -70,7 +70,7 @@
 
 	**#054 [Psyduck](../pokemon/psyduck.md)**
 
-	Level 35
+	Level 36
 
 -	[![Golduck](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/55.png){: .pokemon-sprite-img }](../pokemon/golduck.md)
 
@@ -78,7 +78,7 @@
 
 	**#055 [Golduck](../pokemon/golduck.md)**
 
-	Level 37
+	Level 38
 
 -	[![Slowpoke](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/79.png){: .pokemon-sprite-img }](../pokemon/slowpoke.md)
 
@@ -86,7 +86,7 @@
 
 	**#079 [Slowpoke](../pokemon/slowpoke.md)**
 
-	Level 57
+	Level 40
 
 -	[![Slowbro](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/80.png){: .pokemon-sprite-img }](../pokemon/slowbro.md)
 
@@ -94,7 +94,7 @@
 
 	**#080 [Slowbro](../pokemon/slowbro.md)**
 
-	Level 67
+	Level 43
 
 -	[![Drowzee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/96.png){: .pokemon-sprite-img }](../pokemon/drowzee.md)
 
@@ -102,7 +102,7 @@
 
 	**#096 [Drowzee](../pokemon/drowzee.md)**
 
-	Level 29
+	Level 30
 
 -	[![Hypno](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/97.png){: .pokemon-sprite-img }](../pokemon/hypno.md)
 
@@ -110,7 +110,7 @@
 
 	**#097 [Hypno](../pokemon/hypno.md)**
 
-	Level 33
+	Level 30
 
 -	[![Mewtwo](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/150.png){: .pokemon-sprite-img }](../pokemon/mewtwo.md)
 
@@ -118,7 +118,7 @@
 
 	**#150 [Mewtwo](../pokemon/mewtwo.md)**
 
-	Level 29
+	Level 14
 
 -	[![Espeon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/196.png){: .pokemon-sprite-img }](../pokemon/espeon.md)
 
@@ -126,7 +126,7 @@
 
 	**#196 [Espeon](../pokemon/espeon.md)**
 
-	Level 57
+	Level 13
 
 -	[![Slowking](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/199.png){: .pokemon-sprite-img }](../pokemon/slowking.md)
 
@@ -134,7 +134,7 @@
 
 	**#199 [Slowking](../pokemon/slowking.md)**
 
-	Level 57
+	Level 40
 
 -	[![Meditite](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/307.png){: .pokemon-sprite-img }](../pokemon/meditite.md)
 
@@ -142,7 +142,7 @@
 
 	**#307 [Meditite](../pokemon/meditite.md)**
 
-	Level 36
+	Level 34
 
 -	[![Medicham](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/308.png){: .pokemon-sprite-img }](../pokemon/medicham.md)
 
@@ -150,7 +150,7 @@
 
 	**#308 [Medicham](../pokemon/medicham.md)**
 
-	Level 36
+	Level 35
 
 -	[![Spoink](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/325.png){: .pokemon-sprite-img }](../pokemon/spoink.md)
 
@@ -158,7 +158,7 @@
 
 	**#325 [Spoink](../pokemon/spoink.md)**
 
-	Level 15
+	Level 13
 
 -	[![Grumpig](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/326.png){: .pokemon-sprite-img }](../pokemon/grumpig.md)
 
@@ -166,7 +166,7 @@
 
 	**#326 [Grumpig](../pokemon/grumpig.md)**
 
-	Level 15
+	Level 13
 
 -	[![Spinda](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/327.png){: .pokemon-sprite-img }](../pokemon/spinda.md)
 
@@ -174,7 +174,7 @@
 
 	**#327 [Spinda](../pokemon/spinda.md)**
 
-	Level 41
+	Level 34
 
 </div>
 

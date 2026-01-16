@@ -70,7 +70,7 @@
 
 	**#416 [Vespiquen](../pokemon/vespiquen.md)**
 
-	Level 25
+	Level 21
 
 </div>
 

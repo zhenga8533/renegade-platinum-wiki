@@ -208,6 +208,14 @@
 
 	Level 1
 
+-	[![Rapidash](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/78.png){: .pokemon-sprite-img }](../pokemon/rapidash.md)
+
+	***
+
+	**#078 [Rapidash](../pokemon/rapidash.md)**
+
+	Level 1
+
 -	[![Slowpoke](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/79.png){: .pokemon-sprite-img }](../pokemon/slowpoke.md)
 
 	***
@@ -262,14 +270,6 @@
 
 	**#100 [Voltorb](../pokemon/voltorb.md)**
 
-	Level 5
-
--	[![Electrode](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/101.png){: .pokemon-sprite-img }](../pokemon/electrode.md)
-
-	***
-
-	**#101 [Electrode](../pokemon/electrode.md)**
-
 	Level 1
 
 -	[![Electrode](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/101.png){: .pokemon-sprite-img }](../pokemon/electrode.md)
@@ -278,7 +278,7 @@
 
 	**#101 [Electrode](../pokemon/electrode.md)**
 
-	Level 5
+	Level 1
 
 -	[![Koffing](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/109.png){: .pokemon-sprite-img }](../pokemon/koffing.md)
 
@@ -318,7 +318,7 @@
 
 	**#129 [Magikarp](../pokemon/magikarp.md)**
 
-	Level 15
+	Level 1
 
 -	[![Eevee](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/133.png){: .pokemon-sprite-img }](../pokemon/eevee.md)
 
@@ -494,7 +494,7 @@
 
 	**#187 [Hoppip](../pokemon/hoppip.md)**
 
-	Level 10
+	Level 1
 
 -	[![Skiploom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/188.png){: .pokemon-sprite-img }](../pokemon/skiploom.md)
 
@@ -504,14 +504,6 @@
 
 	Level 1
 
--	[![Skiploom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/188.png){: .pokemon-sprite-img }](../pokemon/skiploom.md)
-
-	***
-
-	**#188 [Skiploom](../pokemon/skiploom.md)**
-
-	Level 10
-
 -	[![Jumpluff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/189.png){: .pokemon-sprite-img }](../pokemon/jumpluff.md)
 
 	***
@@ -519,14 +511,6 @@
 	**#189 [Jumpluff](../pokemon/jumpluff.md)**
 
 	Level 1
-
--	[![Jumpluff](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/189.png){: .pokemon-sprite-img }](../pokemon/jumpluff.md)
-
-	***
-
-	**#189 [Jumpluff](../pokemon/jumpluff.md)**
-
-	Level 10
 
 -	[![Yanma](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/193.png){: .pokemon-sprite-img }](../pokemon/yanma.md)
 
@@ -758,7 +742,7 @@
 
 	**#285 [Shroomish](../pokemon/shroomish.md)**
 
-	Level 5
+	Level 4
 
 -	[![Breloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/286.png){: .pokemon-sprite-img }](../pokemon/breloom.md)
 
@@ -766,15 +750,7 @@
 
 	**#286 [Breloom](../pokemon/breloom.md)**
 
-	Level 1
-
--	[![Breloom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/286.png){: .pokemon-sprite-img }](../pokemon/breloom.md)
-
-	***
-
-	**#286 [Breloom](../pokemon/breloom.md)**
-
-	Level 5
+	Level 4
 
 -	[![Makuhita](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/296.png){: .pokemon-sprite-img }](../pokemon/makuhita.md)
 
@@ -910,7 +886,7 @@
 
 	**#349 [Feebas](../pokemon/feebas.md)**
 
-	Level 15
+	Level 1
 
 -	[![Castform](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/351.png){: .pokemon-sprite-img }](../pokemon/castform.md)
 
@@ -1062,7 +1038,7 @@
 
 	**#412 [Burmy](../pokemon/burmy.md)**
 
-	Level 10
+	Level 1
 
 -	[![Wormadam Plant](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/413.png){: .pokemon-sprite-img }](../pokemon/wormadam-plant.md)
 

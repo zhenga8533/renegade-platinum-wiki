@@ -70,7 +70,7 @@
 
 	**#215 [Sneasel](../pokemon/sneasel.md)**
 
-	Level 38
+	Level 28
 
 -	[![Houndour](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/228.png){: .pokemon-sprite-img }](../pokemon/houndour.md)
 
@@ -78,7 +78,7 @@
 
 	**#228 [Houndour](../pokemon/houndour.md)**
 
-	Level 27
+	Level 22
 
 -	[![Houndoom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/229.png){: .pokemon-sprite-img }](../pokemon/houndoom.md)
 
@@ -86,7 +86,7 @@
 
 	**#229 [Houndoom](../pokemon/houndoom.md)**
 
-	Level 28
+	Level 22
 
 </div>
 
