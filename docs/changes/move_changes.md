@@ -35,7 +35,7 @@ There are also some cases where moves have lost effects because it can't be repl
 | [Aurora Beam](../pokedex/moves/aurora-beam.md) | Power | 65 | 75 |
 | └── | PP | 20 | 15 |
 | [Blaze Kick](../pokedex/moves/blaze-kick.md) | Power | 85 | 90 |
-| └── | Accuracy | 90 | 100 |
+| └── | Accuracy | 90% | 100% |
 | [Bubble Beam](../pokedex/moves/bubble-beam.md) | Power | 65 | 75 |
 | └── | PP | 20 | 15 |
 | [Chatter](../pokedex/moves/chatter.md) | Power | 65 | 90 |
@@ -57,7 +57,7 @@ There are also some cases where moves have lost effects because it can't be repl
 | [Hurricane](../pokedex/moves/hurricane.md) | Effect | Confusion (30%) | No Effect (Engine limitation) |
 | [Needle Arm](../pokedex/moves/needle-arm.md) | Power | 60 | 90 |
 | [Poison Fang](../pokedex/moves/poison-fang.md) | Power | 50 | 65 |
-Accuracy: 100 > 95
+| └── | Accuracy | 100% | 95% |
 | [Poison Tail](../pokedex/moves/poison-tail.md) | Power | 50 | 90 |
 | └── | PP | 25 | 15 |
 | [Rock Climb](../pokedex/moves/rock-climb.md) | Power | 90 | 80 |

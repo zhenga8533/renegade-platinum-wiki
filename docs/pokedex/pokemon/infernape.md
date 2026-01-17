@@ -28,7 +28,7 @@
 
 	- `15 moves` → `19 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `50 moves` → `51 moves (added: drain-punch)`
 

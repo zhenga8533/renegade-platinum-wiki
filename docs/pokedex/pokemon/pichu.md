@@ -21,15 +21,11 @@
 
 	- `static` → `static / lightning-rod`
 
-	**Base Happiness Changes:**
-
-	- `70` → `180`
-
 	**Level-up Moves Changes:**
 
 	- `6 moves` → `8 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `27 moves` → `28 moves (added: surf)`
 
@@ -60,7 +56,7 @@
 
 	**Base Experience:** 42
 
-	**Base Happiness:** 180
+	**Base Happiness:** 70
 
 	**Capture Rate:** 190
 

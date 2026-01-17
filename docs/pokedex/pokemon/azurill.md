@@ -21,10 +21,6 @@
 
 	- `thick-fat / huge-power` → `huge-power / thick-fat`
 
-	**Base Happiness Changes:**
-
-	- `70` → `180`
-
 	**Base Stats Changes:**
 
 	- `50 HP / 20 Atk / 40 Def / 20 SAtk / 40 SDef / 20 Spd` → `50 HP / 20 Atk / 40 Def / 40 SAtk / 40 SDef / 20 Spd`
@@ -60,7 +56,7 @@
 
 	**Base Experience:** 33
 
-	**Base Happiness:** 180
+	**Base Happiness:** 70
 
 	**Capture Rate:** 150
 

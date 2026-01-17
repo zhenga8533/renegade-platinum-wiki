@@ -27,7 +27,7 @@
 
 	- `15 moves` → `20 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `35 moves` → `40 moves (added: bug-buzz, hurricane, fly, surf, waterfall)`
 

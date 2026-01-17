@@ -25,11 +25,11 @@
 
 	- `pressure` → `frisk / pressure`
 
-	- `dusclops > dusknoir: unknown` → `dusclops > dusknoir: use-item (reaper-cloth)`
-
 	**Level-up Moves Changes:**
 
 	- `20 moves` → `21 moves`
+
+	- `dusclops > dusknoir: unknown` → `dusclops > dusknoir: use-item (reaper-cloth)`
 
 
 ## :material-information: Basic Information

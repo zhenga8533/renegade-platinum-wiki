@@ -15,6 +15,7 @@ from rom_wiki_core.utils.core.loader import PokeDBLoader
 from rom_wiki_core.utils.data.models import Move
 from rom_wiki_core.utils.formatters.markdown_formatter import format_move
 from rom_wiki_core.utils.services.move_service import MoveService
+from rom_wiki_core.utils.text.text_util import name_to_id
 
 
 class MoveChangesParser(BaseParser):
@@ -213,8 +214,21 @@ class MoveChangesParser(BaseParser):
         if match := re.match(r"^(.+?): (.+?) >> (.+?)$", line):
             key, old_value, new_value = match.groups()
 
-            # Update the move attribute using MoveService
-            MoveService.update_move_attribute(self._current_move, key, new_value)
+            # Update the move attribute using specific MoveService methods
+            move_id = name_to_id(self._current_move)
+            key_lower = key.lower()
+            if key_lower == "power":
+                power = int(new_value) if new_value != "-" else None
+                MoveService.update_move_power(move_id, power)
+            elif key_lower == "pp":
+                MoveService.update_move_pp(move_id, int(new_value))
+            elif key_lower == "accuracy":
+                accuracy = int(new_value.strip("%")) if new_value != "-" else None
+                MoveService.update_move_accuracy(move_id, accuracy)
+            elif key_lower == "priority":
+                MoveService.update_move_priority(move_id, int(new_value))
+            elif key_lower == "type":
+                MoveService.update_move_type(move_id, name_to_id(new_value))
 
             if self._is_move_open:
                 move_md = "└──"

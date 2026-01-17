@@ -15,10 +15,6 @@
 
 ??? note "Tropius ROM Changes"
 
-	**Base Experience Changes:**
-
-	- `169` → `219`
-
 	**Base Stats Changes:**
 
 	- `99 HP / 68 Atk / 83 Def / 72 SAtk / 87 SDef / 51 Spd` → `110 HP / 95 Atk / 95 Def / 95 SAtk / 95 SDef / 45 Spd`
@@ -27,7 +23,7 @@
 
 	- `14 moves` → `21 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `38 moves` → `40 moves (added: dragon-pulse, hurricane)`
 
@@ -56,7 +52,7 @@
 
 	---
 
-	**Base Experience:** 219
+	**Base Experience:** 169
 
 	**Base Happiness:** 70
 

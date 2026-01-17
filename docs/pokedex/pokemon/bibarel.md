@@ -24,7 +24,7 @@
 
 	- `14 moves` → `18 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `45 moves` → `46 moves (added: swords-dance)`
 

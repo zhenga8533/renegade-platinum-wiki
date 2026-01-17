@@ -31,7 +31,7 @@
 
 	- `5 moves` → `7 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `33 moves` → `37 moves (added: psychic, shadow-ball, energy-ball, dazzling-gleam)`
 

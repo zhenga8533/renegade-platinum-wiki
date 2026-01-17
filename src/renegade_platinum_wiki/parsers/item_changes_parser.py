@@ -17,6 +17,7 @@ from rom_wiki_core.utils.formatters.markdown_formatter import (
 )
 from rom_wiki_core.utils.formatters.table_formatter import create_table_header
 from rom_wiki_core.utils.services.item_service import ItemService
+from rom_wiki_core.utils.text.text_util import name_to_id
 
 
 class ItemChangesParser(BaseParser):
@@ -70,7 +71,7 @@ class ItemChangesParser(BaseParser):
             item, old_price, new_price = match.groups()
 
             # Update the item cost in the database
-            ItemService.update_item_cost(item, int(new_price))
+            ItemService.update_item_cost(name_to_id(item), int(new_price))
 
             # Format for markdown
             item_md = format_item(item)
@@ -102,7 +103,7 @@ class ItemChangesParser(BaseParser):
             tm, old_move, new_move = match.groups()
 
             # Update the TM's move in the database
-            ItemService.update_tm_move(tm, new_move)
+            ItemService.update_tm_move(name_to_id(tm), name_to_id(new_move))
 
             if not self._is_tm_table_open:
                 self._markdown += (

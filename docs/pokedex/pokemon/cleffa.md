@@ -17,10 +17,6 @@
 
 ??? note "Cleffa ROM Changes"
 
-	**Base Happiness Changes:**
-
-	- `140` → `180`
-
 	**Level-up Moves Changes:**
 
 	- `7 moves` → `9 moves`
@@ -52,7 +48,7 @@
 
 	**Base Experience:** 37
 
-	**Base Happiness:** 180
+	**Base Happiness:** 140
 
 	**Capture Rate:** 150
 

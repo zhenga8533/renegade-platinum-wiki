@@ -53,7 +53,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#001 [Bulbasaur](../pokedex/pokemon/bulbasaur.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Overgrow](../pokedex/abilities/overgrow.md) | [Chlorophyll](../pokedex/abilities/chlorophyll.md) / [Overgrow](../pokedex/abilities/overgrow.md) |
 
@@ -89,7 +91,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#002 [Ivysaur](../pokedex/pokemon/ivysaur.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Overgrow](../pokedex/abilities/overgrow.md) | [Chlorophyll](../pokedex/abilities/chlorophyll.md) / [Overgrow](../pokedex/abilities/overgrow.md) |
 
@@ -126,7 +130,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#003 [Venusaur](../pokedex/pokemon/venusaur.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Overgrow](../pokedex/abilities/overgrow.md) | [Thick Fat](../pokedex/abilities/thick-fat.md) / [Overgrow](../pokedex/abilities/overgrow.md) |
 
@@ -170,7 +176,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#004 [Charmander](../pokedex/pokemon/charmander.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Blaze](../pokedex/abilities/blaze.md) | [Solar Power](../pokedex/abilities/solar-power.md) / [Blaze](../pokedex/abilities/blaze.md) |
 
@@ -209,7 +217,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#005 [Charmeleon](../pokedex/pokemon/charmeleon.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Blaze](../pokedex/abilities/blaze.md) | [Solar Power](../pokedex/abilities/solar-power.md) / [Blaze](../pokedex/abilities/blaze.md) |
 
@@ -249,7 +259,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#006 [Charizard](../pokedex/pokemon/charizard.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Blaze](../pokedex/abilities/blaze.md) | [Levitate](../pokedex/abilities/levitate.md) / [Blaze](../pokedex/abilities/blaze.md) |
 
@@ -300,7 +312,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#007 [Squirtle](../pokedex/pokemon/squirtle.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Torrent](../pokedex/abilities/torrent.md) | [Rain Dish](../pokedex/abilities/rain-dish.md) / [Torrent](../pokedex/abilities/torrent.md) |
 
@@ -335,7 +349,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#008 [Wartortle](../pokedex/pokemon/wartortle.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Torrent](../pokedex/abilities/torrent.md) | [Rain Dish](../pokedex/abilities/rain-dish.md) / [Torrent](../pokedex/abilities/torrent.md) |
 
@@ -371,7 +387,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#009 [Blastoise](../pokedex/pokemon/blastoise.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Torrent](../pokedex/abilities/torrent.md) | [Drizzle](../pokedex/abilities/drizzle.md) / [Torrent](../pokedex/abilities/torrent.md) |
 
@@ -420,7 +438,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#010 [Caterpie](../pokedex/pokemon/caterpie.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Shield Dust](../pokedex/abilities/shield-dust.md) | [Run Away](../pokedex/abilities/run-away.md) / [Shield Dust](../pokedex/abilities/shield-dust.md) |
 
@@ -442,7 +462,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#011 [Metapod](../pokedex/pokemon/metapod.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Shed Skin](../pokedex/abilities/shed-skin.md) | [Shed Skin](../pokedex/abilities/shed-skin.md) / [Shed Skin](../pokedex/abilities/shed-skin.md) |
 
@@ -464,7 +486,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#012 [Butterfree](../pokedex/pokemon/butterfree.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Compound Eyes](../pokedex/abilities/compound-eyes.md) | [Tinted Lens](../pokedex/abilities/tinted-lens.md) / [Compound Eyes](../pokedex/abilities/compound-eyes.md) |
 
@@ -510,7 +534,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#013 [Weedle](../pokedex/pokemon/weedle.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Shield Dust](../pokedex/abilities/shield-dust.md) | [Run Away](../pokedex/abilities/run-away.md) / [Shield Dust](../pokedex/abilities/shield-dust.md) |
 
@@ -532,7 +558,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#014 [Kakuna](../pokedex/pokemon/kakuna.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Shed Skin](../pokedex/abilities/shed-skin.md) | [Shed Skin](../pokedex/abilities/shed-skin.md) / [Shed Skin](../pokedex/abilities/shed-skin.md) |
 
@@ -554,7 +582,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#015 [Beedrill](../pokedex/pokemon/beedrill.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Swarm](../pokedex/abilities/swarm.md) | [Adaptability](../pokedex/abilities/adaptability.md) / [Swarm](../pokedex/abilities/swarm.md) |
 
@@ -600,7 +630,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#016 [Pidgey](../pokedex/pokemon/pidgey.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `40 HP / 45 Atk / 40 Def / 35 SAtk / 35 SDef / 56 Spd / 251 BST` | `40 HP / 35 Atk / 35 Def / 50 SAtk / 35 SDef / 56 Spd / 251 BST` |
 
@@ -641,7 +673,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#017 [Pidgeotto](../pokedex/pokemon/pidgeotto.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `63 HP / 60 Atk / 55 Def / 50 SAtk / 50 SDef / 71 Spd / 349 BST` | `63 HP / 50 Atk / 50 Def / 65 SAtk / 50 SDef / 71 Spd / 349 BST` |
 
@@ -682,7 +716,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#018 [Pidgeot](../pokedex/pokemon/pidgeot.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Keen Eye](../pokedex/abilities/keen-eye.md) / [Tangled Feet](../pokedex/abilities/tangled-feet.md) | [No Guard](../pokedex/abilities/no-guard.md) / [Tangled Feet](../pokedex/abilities/tangled-feet.md) |
 
@@ -729,7 +765,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#019 [Rattata](../pokedex/pokemon/rattata.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Run Away](../pokedex/abilities/run-away.md) / [Guts](../pokedex/abilities/guts.md) | [Hustle](../pokedex/abilities/hustle.md) / [Guts](../pokedex/abilities/guts.md) |
 
@@ -764,7 +802,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#020 [Raticate](../pokedex/pokemon/raticate.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Run Away](../pokedex/abilities/run-away.md) / [Guts](../pokedex/abilities/guts.md) | [Hustle](../pokedex/abilities/hustle.md) / [Guts](../pokedex/abilities/guts.md) |
 
@@ -804,7 +844,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#021 [Spearow](../pokedex/pokemon/spearow.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Keen Eye](../pokedex/abilities/keen-eye.md) | [Keen Eye](../pokedex/abilities/keen-eye.md) / [Sniper](../pokedex/abilities/sniper.md) |
 
@@ -844,7 +886,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#022 [Fearow](../pokedex/pokemon/fearow.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Keen Eye](../pokedex/abilities/keen-eye.md) | [Keen Eye](../pokedex/abilities/keen-eye.md) / [Sniper](../pokedex/abilities/sniper.md) |
 
@@ -889,7 +933,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#023 [Ekans](../pokedex/pokemon/ekans.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -921,7 +967,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#024 [Arbok](../pokedex/pokemon/arbok.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `60 HP / 95 Atk / 69 Def / 65 SAtk / 79 SDef / 80 Spd / 448 BST` | `60 HP / 110 Atk / 70 Def / 55 SAtk / 80 SDef / 80 Spd / 455 BST` |
 
@@ -961,7 +1009,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#025 [Pikachu](../pokedex/pokemon/pikachu.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Static](../pokedex/abilities/static.md) | [Static](../pokedex/abilities/static.md) / [Lightning Rod](../pokedex/abilities/lightning-rod.md) |
 
@@ -1001,7 +1051,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#026 [Raichu](../pokedex/pokemon/raichu.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Static](../pokedex/abilities/static.md) | [Static](../pokedex/abilities/static.md) / [Lightning Rod](../pokedex/abilities/lightning-rod.md) |
 
@@ -1035,7 +1087,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#027 [Sandshrew](../pokedex/pokemon/sandshrew.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -1070,7 +1124,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#028 [Sandslash](../pokedex/pokemon/sandslash.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -1106,7 +1162,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#029 [Nidoran♀](../pokedex/pokemon/nidoran-f.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -1137,7 +1195,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#030 [Nidorina](../pokedex/pokemon/nidorina.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -1168,7 +1228,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#031 [Nidoqueen](../pokedex/pokemon/nidoqueen.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -1193,7 +1255,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#029 [Nidoran♀](../pokedex/pokemon/nidoran-f.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -1224,7 +1288,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#033 [Nidorino](../pokedex/pokemon/nidorino.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -1255,7 +1321,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#034 [Nidoking](../pokedex/pokemon/nidoking.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -1280,7 +1348,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#035 [Clefairy](../pokedex/pokemon/clefairy.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -1316,7 +1386,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#036 [Clefable](../pokedex/pokemon/clefable.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -1338,7 +1410,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#037 [Vulpix](../pokedex/pokemon/vulpix.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Flash Fire](../pokedex/abilities/flash-fire.md) | [Drought](../pokedex/abilities/drought.md) / [Flash Fire](../pokedex/abilities/flash-fire.md) |
 
@@ -1380,7 +1454,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#038 [Ninetales](../pokedex/pokemon/ninetales.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Flash Fire](../pokedex/abilities/flash-fire.md) | [Drought](../pokedex/abilities/drought.md) / [Flash Fire](../pokedex/abilities/flash-fire.md) |
 
@@ -1417,7 +1493,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#039 [Jigglypuff](../pokedex/pokemon/jigglypuff.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Cute Charm](../pokedex/abilities/cute-charm.md) | [Cute Charm](../pokedex/abilities/cute-charm.md) / [Magic Guard](../pokedex/abilities/magic-guard.md) |
 
@@ -1459,7 +1537,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#040 [Wigglytuff](../pokedex/pokemon/wigglytuff.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Cute Charm](../pokedex/abilities/cute-charm.md) | [Cute Charm](../pokedex/abilities/cute-charm.md) / [Magic Guard](../pokedex/abilities/magic-guard.md) |
 
@@ -1489,7 +1569,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#041 [Zubat](../pokedex/pokemon/zubat.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
@@ -1525,7 +1607,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#042 [Golbat](../pokedex/pokemon/golbat.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
@@ -1563,7 +1647,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#043 [Oddish](../pokedex/pokemon/oddish.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Chlorophyll](../pokedex/abilities/chlorophyll.md) | [Chlorophyll](../pokedex/abilities/chlorophyll.md) / [Run Away](../pokedex/abilities/run-away.md) |
 
@@ -1599,7 +1685,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#044 [Gloom](../pokedex/pokemon/gloom.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Chlorophyll](../pokedex/abilities/chlorophyll.md) | [Chlorophyll](../pokedex/abilities/chlorophyll.md) / [Stench](../pokedex/abilities/stench.md) |
 
@@ -1635,7 +1723,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#045 [Vileplume](../pokedex/pokemon/vileplume.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Chlorophyll](../pokedex/abilities/chlorophyll.md) | [Chlorophyll](../pokedex/abilities/chlorophyll.md) / [Effect Spore](../pokedex/abilities/effect-spore.md) |
 
@@ -1664,7 +1754,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#046 [Paras](../pokedex/pokemon/paras.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
@@ -1700,7 +1792,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#047 [Parasect](../pokedex/pokemon/parasect.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `60 HP / 95 Atk / 80 Def / 60 SAtk / 80 SDef / 30 Spd / 405 BST` | `60 HP / 115 Atk / 100 Def / 55 SAtk / 90 SDef / 30 Spd / 450 BST` |
 
@@ -1741,7 +1835,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#048 [Venonat](../pokedex/pokemon/venonat.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Compound Eyes](../pokedex/abilities/compound-eyes.md) / [Tinted Lens](../pokedex/abilities/tinted-lens.md) | [Tinted Lens](../pokedex/abilities/tinted-lens.md) / [Compound Eyes](../pokedex/abilities/compound-eyes.md) |
 
@@ -1781,7 +1877,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#049 [Venomoth](../pokedex/pokemon/venomoth.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Shield Dust](../pokedex/abilities/shield-dust.md) / [Tinted Lens](../pokedex/abilities/tinted-lens.md) | [Tinted Lens](../pokedex/abilities/tinted-lens.md) / [Shield Dust](../pokedex/abilities/shield-dust.md) |
 
@@ -1828,7 +1926,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#050 [Diglett](../pokedex/pokemon/diglett.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -1860,7 +1960,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#051 [Dugtrio](../pokedex/pokemon/dugtrio.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -1894,7 +1996,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#052 [Meowth](../pokedex/pokemon/meowth.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Pickup](../pokedex/abilities/pickup.md) / [Technician](../pokedex/abilities/technician.md) | [Technician](../pokedex/abilities/technician.md) / [Pickup](../pokedex/abilities/pickup.md) |
 
@@ -1932,7 +2036,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#053 [Persian](../pokedex/pokemon/persian.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Limber](../pokedex/abilities/limber.md) / [Technician](../pokedex/abilities/technician.md) | [Technician](../pokedex/abilities/technician.md) / [Limber](../pokedex/abilities/limber.md) |
 
@@ -1974,7 +2080,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#054 [Psyduck](../pokedex/pokemon/psyduck.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -2007,7 +2115,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#055 [Golduck](../pokedex/pokemon/golduck.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> |
 
@@ -2047,7 +2157,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#056 [Mankey](../pokedex/pokemon/mankey.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -2082,7 +2194,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#057 [Primeape](../pokedex/pokemon/primeape.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -2118,7 +2232,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#058 [Growlithe](../pokedex/pokemon/growlithe.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -2151,7 +2267,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#059 [Arcanine](../pokedex/pokemon/arcanine.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -2176,7 +2294,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#060 [Poliwag](../pokedex/pokemon/poliwag.md)**
 
-</div>Level Up
+</div>
+
+Level Up
 | 1 | [Pound](../pokedex/moves/pound.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | Physical | <input type="checkbox" disabled /> |
 | 1 | [Bubble](../pokedex/moves/bubble.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Special | <input type="checkbox" disabled /> |
 | 1 | [Water Sport](../pokedex/moves/water-sport.md) | <span class="type-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Water</span> | Status | <input type="checkbox" disabled /> |
@@ -2203,7 +2323,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#061 [Poliwhirl](../pokedex/pokemon/poliwhirl.md)**
 
-</div>**Evolution**:
+</div>
+
+**Evolution**:
 
 - Now able to evolve into Politoed by using a King's Rock.
 
@@ -2237,7 +2359,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#062 [Poliwrath](../pokedex/pokemon/poliwrath.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM60](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM60](../pokedex/items/tm60.md), [Drain Punch](../pokedex/moves/drain-punch.md)</span>. (!!)
 
@@ -2268,7 +2392,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#063 [Abra](../pokedex/pokemon/abra.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Synchronize](../pokedex/abilities/synchronize.md) / [Inner Focus](../pokedex/abilities/inner-focus.md) | [Magic Guard](../pokedex/abilities/magic-guard.md) / [Synchronize](../pokedex/abilities/synchronize.md) |
 
@@ -2288,7 +2414,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#064 [Kadabra](../pokedex/pokemon/kadabra.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Synchronize](../pokedex/abilities/synchronize.md) / [Inner Focus](../pokedex/abilities/inner-focus.md) | [Magic Guard](../pokedex/abilities/magic-guard.md) / [Synchronize](../pokedex/abilities/synchronize.md) |
 
@@ -2328,7 +2456,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#065 [Alakazam](../pokedex/pokemon/alakazam.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Synchronize](../pokedex/abilities/synchronize.md) / [Inner Focus](../pokedex/abilities/inner-focus.md) | [Magic Guard](../pokedex/abilities/magic-guard.md) / [Synchronize](../pokedex/abilities/synchronize.md) |
 
@@ -2367,7 +2497,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#066 [Machop](../pokedex/pokemon/machop.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -2401,7 +2533,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#067 [Machoke](../pokedex/pokemon/machoke.md)**
 
-</div>**Evolution**:
+</div>
+
+**Evolution**:
 
 - Now able to evolve into Machamp at Level 36.
 
@@ -2439,7 +2573,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#068 [Machamp](../pokedex/pokemon/machamp.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -2475,7 +2611,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#069 [Bellsprout](../pokedex/pokemon/bellsprout.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Chlorophyll](../pokedex/abilities/chlorophyll.md) | [Chlorophyll](../pokedex/abilities/chlorophyll.md) / [Gluttony](../pokedex/abilities/gluttony.md) |
 
@@ -2511,7 +2649,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#070 [Weepinbell](../pokedex/pokemon/weepinbell.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Chlorophyll](../pokedex/abilities/chlorophyll.md) | [Chlorophyll](../pokedex/abilities/chlorophyll.md) / [Gluttony](../pokedex/abilities/gluttony.md) |
 
@@ -2547,7 +2687,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#071 [Victreebel](../pokedex/pokemon/victreebel.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Chlorophyll](../pokedex/abilities/chlorophyll.md) | [Chlorophyll](../pokedex/abilities/chlorophyll.md) / [Gluttony](../pokedex/abilities/gluttony.md) |
 
@@ -2579,7 +2721,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#072 [Tentacool](../pokedex/pokemon/tentacool.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -2610,7 +2754,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#073 [Tentacruel](../pokedex/pokemon/tentacruel.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -2641,7 +2787,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#074 [Geodude](../pokedex/pokemon/geodude.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -2673,7 +2821,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#075 [Graveler](../pokedex/pokemon/graveler.md)**
 
-</div>**Evolution**:
+</div>
+
+**Evolution**:
 
 - Now able to evolve into Golem at Level 36.
 
@@ -2710,7 +2860,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#076 [Golem](../pokedex/pokemon/golem.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -2746,7 +2898,9 @@ Each Pokémon is listed under its own section header below.
 
 	**#077 [Ponyta](../pokedex/pokemon/ponyta.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Run Away](../pokedex/abilities/run-away.md) / [Flash Fire](../pokedex/abilities/flash-fire.md) | [Flame Body](../pokedex/abilities/flame-body.md) / [Flash Fire](../pokedex/abilities/flash-fire.md) |
 
@@ -2786,7 +2940,9 @@ Now evolves into Rapidash at Level 35.
 
 	**#078 [Rapidash](../pokedex/pokemon/rapidash.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Run Away](../pokedex/abilities/run-away.md) / [Flash Fire](../pokedex/abilities/flash-fire.md) | [Flame Body](../pokedex/abilities/flame-body.md) / [Flash Fire](../pokedex/abilities/flash-fire.md) |
 
@@ -2826,7 +2982,9 @@ Now evolves into Rapidash at Level 35.
 
 	**#079 [Slowpoke](../pokedex/pokemon/slowpoke.md)**
 
-</div>**Evolution**:
+</div>
+
+**Evolution**:
 
 Now evolves into Slowbro at Level 33.
 - Now able to evolve into Slowking by using a King's Rock.
@@ -2868,7 +3026,9 @@ Now evolves into Slowbro at Level 33.
 
 	**#080 [Slowbro](../pokedex/pokemon/slowbro.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md)</span>. (!!)
 
@@ -2906,7 +3066,9 @@ Now evolves into Slowbro at Level 33.
 
 	**#081 [Magnemite](../pokedex/pokemon/magnemite.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
@@ -2944,7 +3106,9 @@ Now evolves into Slowbro at Level 33.
 
 	**#082 [Magneton](../pokedex/pokemon/magneton.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
@@ -2983,7 +3147,9 @@ Now evolves into Slowbro at Level 33.
 
 	**#083 [Farfetchˈd](../pokedex/pokemon/farfetchd.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Keen Eye](../pokedex/abilities/keen-eye.md) / [Inner Focus](../pokedex/abilities/inner-focus.md) | [Super Luck](../pokedex/abilities/super-luck.md) / [Keen Eye](../pokedex/abilities/keen-eye.md) |
 
@@ -3039,7 +3205,9 @@ Now evolves into Slowbro at Level 33.
 
 	**#084 [Doduo](../pokedex/pokemon/doduo.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Run Away](../pokedex/abilities/run-away.md) / [Early Bird](../pokedex/abilities/early-bird.md) | [Tangled Feet](../pokedex/abilities/tangled-feet.md) / [Early Bird](../pokedex/abilities/early-bird.md) |
 
@@ -3076,7 +3244,9 @@ Now evolves into Slowbro at Level 33.
 
 	**#085 [Dodrio](../pokedex/pokemon/dodrio.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Run Away](../pokedex/abilities/run-away.md) / [Early Bird](../pokedex/abilities/early-bird.md) | [Tangled Feet](../pokedex/abilities/tangled-feet.md) / [Early Bird](../pokedex/abilities/early-bird.md) |
 
@@ -3116,7 +3286,9 @@ Now evolves into Slowbro at Level 33.
 
 	**#086 [Seel](../pokedex/pokemon/seel.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -3151,7 +3323,9 @@ Now evolves into Slowbro at Level 33.
 
 	**#087 [Dewgong](../pokedex/pokemon/dewgong.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `90 HP / 70 Atk / 80 Def / 70 SAtk / 95 SDef / 70 Spd / 475 BST` | `90 HP / 80 Atk / 80 Def / 80 SAtk / 95 SDef / 70 Spd / 495 BST` |
 
@@ -3191,7 +3365,9 @@ Now evolves into Slowbro at Level 33.
 
 	**#088 [Grimer](../pokedex/pokemon/grimer.md)**
 
-</div>**Evolution**:
+</div>
+
+**Evolution**:
 
 Now evolves into Muk at Level 35.
 
@@ -3228,7 +3404,9 @@ Now evolves into Muk at Level 35.
 
 	**#089 [Muk](../pokedex/pokemon/muk.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -3263,7 +3441,9 @@ Now evolves into Muk at Level 35.
 
 	**#090 [Shellder](../pokedex/pokemon/shellder.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Shell Armor](../pokedex/abilities/shell-armor.md) / [Skill Link](../pokedex/abilities/skill-link.md) | [Skill Link](../pokedex/abilities/skill-link.md) / [Shell Armor](../pokedex/abilities/shell-armor.md) |
 
@@ -3302,7 +3482,9 @@ Now evolves into Muk at Level 35.
 
 	**#091 [Cloyster](../pokedex/pokemon/cloyster.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Shell Armor](../pokedex/abilities/shell-armor.md) / [Skill Link](../pokedex/abilities/skill-link.md) | [Skill Link](../pokedex/abilities/skill-link.md) / [Shell Armor](../pokedex/abilities/shell-armor.md) |
 
@@ -3336,7 +3518,9 @@ Now evolves into Muk at Level 35.
 
 	**#092 [Gastly](../pokedex/pokemon/gastly.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -3369,7 +3553,9 @@ Now evolves into Muk at Level 35.
 
 	**#093 [Haunter](../pokedex/pokemon/haunter.md)**
 
-</div>**Evolution**:
+</div>
+
+**Evolution**:
 
 - Now able to evolve into Gengar at Level 36.
 
@@ -3407,7 +3593,9 @@ Now evolves into Muk at Level 35.
 
 	**#094 [Gengar](../pokedex/pokemon/gengar.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -3442,7 +3630,9 @@ Now evolves into Muk at Level 35.
 
 	**#095 [Onix](../pokedex/pokemon/onix.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `35 HP / 45 Atk / 160 Def / 30 SAtk / 45 SDef / 70 Spd / 385 BST` | `35 HP / 75 Atk / 160 Def / 30 SAtk / 45 SDef / 80 Spd / 425 BST` |
 
@@ -3483,7 +3673,9 @@ Now evolves into Muk at Level 35.
 
 	**#096 [Drowzee](../pokedex/pokemon/drowzee.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -3517,7 +3709,9 @@ Now evolves into Muk at Level 35.
 
 	**#097 [Hypno](../pokedex/pokemon/hypno.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -3553,7 +3747,9 @@ Now evolves into Muk at Level 35.
 
 	**#098 [Krabby](../pokedex/pokemon/krabby.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM65](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM65](../pokedex/items/tm65.md), [Shadow Claw](../pokedex/moves/shadow-claw.md)</span>. (!!)
 - Now compatible with <span style="white-space: nowrap;">![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md)</span>. (!!)
@@ -3590,7 +3786,9 @@ Now evolves into Muk at Level 35.
 
 	**#099 [Kingler](../pokedex/pokemon/kingler.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM65](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM65](../pokedex/items/tm65.md), [Shadow Claw](../pokedex/moves/shadow-claw.md)</span>. (!!)
 - Now compatible with <span style="white-space: nowrap;">![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md)</span>. (!!)
@@ -3631,7 +3829,9 @@ Now evolves into Muk at Level 35.
 
 	**#100 [Voltorb](../pokedex/pokemon/voltorb.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
@@ -3668,7 +3868,9 @@ Now evolves into Muk at Level 35.
 
 	**#101 [Electrode](../pokedex/pokemon/electrode.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM53](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM53](../pokedex/items/tm53.md), [Energy Ball](../pokedex/moves/energy-ball.md)</span>. (!!)
 - Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
@@ -3706,7 +3908,9 @@ Now evolves into Muk at Level 35.
 
 	**#102 [Exeggcute](../pokedex/pokemon/exeggcute.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -3739,7 +3943,9 @@ Now evolves into Muk at Level 35.
 
 	**#103 [Exeggutor](../pokedex/pokemon/exeggutor.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -3763,7 +3969,9 @@ Now evolves into Muk at Level 35.
 
 	**#104 [Cubone](../pokedex/pokemon/cubone.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -3797,7 +4005,9 @@ Now evolves into Muk at Level 35.
 
 	**#105 [Marowak](../pokedex/pokemon/marowak.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -3832,7 +4042,9 @@ Now evolves into Muk at Level 35.
 
 	**#106 [Hitmonlee](../pokedex/pokemon/hitmonlee.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Limber](../pokedex/abilities/limber.md) / [Reckless](../pokedex/abilities/reckless.md) | [Reckless](../pokedex/abilities/reckless.md) / [Limber](../pokedex/abilities/limber.md) |
 
@@ -3868,7 +4080,9 @@ Now evolves into Muk at Level 35.
 
 	**#107 [Hitmonchan](../pokedex/pokemon/hitmonchan.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Keen Eye](../pokedex/abilities/keen-eye.md) / [Iron Fist](../pokedex/abilities/iron-fist.md) | [Iron Fist](../pokedex/abilities/iron-fist.md) / [Keen Eye](../pokedex/abilities/keen-eye.md) |
 
@@ -3905,7 +4119,9 @@ Now evolves into Muk at Level 35.
 
 	**#108 [Lickitung](../pokedex/pokemon/lickitung.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -3940,7 +4156,9 @@ Now evolves into Muk at Level 35.
 
 	**#109 [Koffing](../pokedex/pokemon/koffing.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -3972,7 +4190,9 @@ Now evolves into Muk at Level 35.
 
 	**#110 [Weezing](../pokedex/pokemon/weezing.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -4006,7 +4226,9 @@ Now evolves into Muk at Level 35.
 
 	**#111 [Rhyhorn](../pokedex/pokemon/rhyhorn.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Lightning Rod](../pokedex/abilities/lightning-rod.md) / [Rock Head](../pokedex/abilities/rock-head.md) | [Rock Head](../pokedex/abilities/rock-head.md) / [Reckless](../pokedex/abilities/reckless.md) |
 
@@ -4047,7 +4269,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#112 [Rhydon](../pokedex/pokemon/rhydon.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Lightning Rod](../pokedex/abilities/lightning-rod.md) / [Rock Head](../pokedex/abilities/rock-head.md) | [Rock Head](../pokedex/abilities/rock-head.md) / [Reckless](../pokedex/abilities/reckless.md) |
 
@@ -4090,7 +4314,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#113 [Chansey](../pokedex/pokemon/chansey.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Natural Cure](../pokedex/abilities/natural-cure.md) / [Serene Grace](../pokedex/abilities/serene-grace.md) | [Serene Grace](../pokedex/abilities/serene-grace.md) / [Natural Cure](../pokedex/abilities/natural-cure.md) |
 
@@ -4130,7 +4356,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#114 [Tangela](../pokedex/pokemon/tangela.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -4164,7 +4392,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#115 [Kangaskhan](../pokedex/pokemon/kangaskhan.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Early Bird](../pokedex/abilities/early-bird.md) / [Scrappy](../pokedex/abilities/scrappy.md) | [Scrappy](../pokedex/abilities/scrappy.md) / [Early Bird](../pokedex/abilities/early-bird.md) |
 
@@ -4201,7 +4431,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#116 [Horsea](../pokedex/pokemon/horsea.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -4233,7 +4465,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#117 [Seadra](../pokedex/pokemon/seadra.md)**
 
-</div>**Evolution**:
+</div>
+
+**Evolution**:
 
 - Now able to evolve into Kingdra by using a Dragon Scale.
 
@@ -4270,7 +4504,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#118 [Goldeen](../pokedex/pokemon/goldeen.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `45 HP / 67 Atk / 60 Def / 35 SAtk / 50 SDef / 63 Spd / 320 BST` | `45 HP / 77 Atk / 60 Def / 25 SAtk / 50 SDef / 73 Spd / 330 BST` |
 
@@ -4308,7 +4544,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#119 [Seaking](../pokedex/pokemon/seaking.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `80 HP / 92 Atk / 65 Def / 65 SAtk / 80 SDef / 68 Spd / 450 BST` | `80 HP / 122 Atk / 80 Def / 45 SAtk / 80 SDef / 78 Spd / 485 BST` |
 
@@ -4347,7 +4585,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#120 [Staryu](../pokedex/pokemon/staryu.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -4380,7 +4620,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#121 [Starmie](../pokedex/pokemon/starmie.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -4402,7 +4644,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#122 [Mr. Mime](../pokedex/pokemon/mr-mime.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Soundproof](../pokedex/abilities/soundproof.md) / [Filter](../pokedex/abilities/filter.md) | [Filter](../pokedex/abilities/filter.md) / [Technician](../pokedex/abilities/technician.md) |
 
@@ -4444,7 +4688,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#123 [Scyther](../pokedex/pokemon/scyther.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Swarm](../pokedex/abilities/swarm.md) / [Technician](../pokedex/abilities/technician.md) | [Technician](../pokedex/abilities/technician.md) / [Swarm](../pokedex/abilities/swarm.md) |
 
@@ -4492,7 +4738,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#124 [Jynx](../pokedex/pokemon/jynx.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `65 HP / 50 Atk / 35 Def / 115 SAtk / 95 SDef / 95 Spd / 455 BST` | `75 HP / 40 Atk / 35 Def / 125 SAtk / 95 SDef / 95 Spd / 465 BST` |
 
@@ -4534,7 +4782,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#125 [Electabuzz](../pokedex/pokemon/electabuzz.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Static](../pokedex/abilities/static.md) | [Static](../pokedex/abilities/static.md) / [Vital Spirit](../pokedex/abilities/vital-spirit.md) |
 
@@ -4574,7 +4824,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#126 [Magmar](../pokedex/pokemon/magmar.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Flame Body](../pokedex/abilities/flame-body.md) | [Flame Body](../pokedex/abilities/flame-body.md) / [Vital Spirit](../pokedex/abilities/vital-spirit.md) |
 
@@ -4614,7 +4866,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#127 [Pinsir](../pokedex/pokemon/pinsir.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
@@ -4652,7 +4906,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#128 [Tauros](../pokedex/pokemon/tauros.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -4687,7 +4943,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#129 [Magikarp](../pokedex/pokemon/magikarp.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -4706,7 +4964,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#130 [Gyarados](../pokedex/pokemon/gyarados.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
@@ -4741,7 +5001,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#131 [Lapras](../pokedex/pokemon/lapras.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -4777,7 +5039,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#132 [Ditto](../pokedex/pokemon/ditto.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -4793,7 +5057,9 @@ Now evolves into Rhydon at Level 36.
 
 	**#133 [Eevee](../pokedex/pokemon/eevee.md)**
 
-</div>**Evolution**:
+</div>
+
+**Evolution**:
 
 Now only evolves into Espeon with the Sun Stone.
 Now only evolves into Umbreon with the Moon Stone.
@@ -4838,7 +5104,9 @@ Now only evolves into Glaceon with the Ice Stone.
 
 	**#134 [Vaporeon](../pokedex/pokemon/vaporeon.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM86](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM86](../pokedex/items/tm86.md), [Grass Knot](../pokedex/moves/grass-knot.md)</span>. (!!)
 
@@ -4876,7 +5144,9 @@ Now only evolves into Glaceon with the Ice Stone.
 
 	**#135 [Jolteon](../pokedex/pokemon/jolteon.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM86](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM86](../pokedex/items/tm86.md), [Grass Knot](../pokedex/moves/grass-knot.md)</span>. (!!)
 
@@ -4914,7 +5184,9 @@ Now only evolves into Glaceon with the Ice Stone.
 
 	**#136 [Flareon](../pokedex/pokemon/flareon.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `65 HP / 130 Atk / 60 Def / 95 SAtk / 110 SDef / 65 Spd / 525 BST` | `110 HP / 130 Atk / 60 Def / 65 SAtk / 65 SDef / 95 Spd / 525 BST` |
 
@@ -4958,7 +5230,9 @@ Now only evolves into Glaceon with the Ice Stone.
 
 	**#137 [Porygon](../pokedex/pokemon/porygon.md)**
 
-</div>**Evolution**:
+</div>
+
+**Evolution**:
 
 - Now able to evolve into Porygon2 by using a Up-Grade.
 
@@ -4997,7 +5271,9 @@ Now only evolves into Glaceon with the Ice Stone.
 
 	**#138 [Omanyte](../pokedex/pokemon/omanyte.md)**
 
-</div>**Evolution**:
+</div>
+
+**Evolution**:
 
 Now evolves into Omastar at Level 30.
 
@@ -5033,7 +5309,9 @@ Now evolves into Omastar at Level 30.
 
 	**#139 [Omastar](../pokedex/pokemon/omastar.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -5068,7 +5346,9 @@ Now evolves into Omastar at Level 30.
 
 	**#140 [Kabuto](../pokedex/pokemon/kabuto.md)**
 
-</div>**Evolution**:
+</div>
+
+**Evolution**:
 
 Now evolves into Kabutops at Level 30.
 
@@ -5104,7 +5384,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#141 [Kabutops](../pokedex/pokemon/kabutops.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -5140,7 +5422,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#142 [Aerodactyl](../pokedex/pokemon/aerodactyl.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
@@ -5180,7 +5464,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#143 [Snorlax](../pokedex/pokemon/snorlax.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Immunity](../pokedex/abilities/immunity.md) / [Thick Fat](../pokedex/abilities/thick-fat.md) | [Thick Fat](../pokedex/abilities/thick-fat.md) / [Immunity](../pokedex/abilities/immunity.md) |
 
@@ -5219,7 +5505,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#144 [Articuno](../pokedex/pokemon/articuno.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Pressure](../pokedex/abilities/pressure.md) | [Pressure](../pokedex/abilities/pressure.md) / [Snow Cloak](../pokedex/abilities/snow-cloak.md) |
 
@@ -5258,7 +5546,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#145 [Zapdos](../pokedex/pokemon/zapdos.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Pressure](../pokedex/abilities/pressure.md) | [Pressure](../pokedex/abilities/pressure.md) / [Static](../pokedex/abilities/static.md) |
 
@@ -5297,7 +5587,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#146 [Moltres](../pokedex/pokemon/moltres.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Pressure](../pokedex/abilities/pressure.md) | [Pressure](../pokedex/abilities/pressure.md) / [Flame Body](../pokedex/abilities/flame-body.md) |
 
@@ -5336,7 +5628,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#147 [Dratini](../pokedex/pokemon/dratini.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Shed Skin](../pokedex/abilities/shed-skin.md) | [Marvel Scale](../pokedex/abilities/marvel-scale.md) / [Shed Skin](../pokedex/abilities/shed-skin.md) |
 
@@ -5371,7 +5665,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#148 [Dragonair](../pokedex/pokemon/dragonair.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Shed Skin](../pokedex/abilities/shed-skin.md) | [Marvel Scale](../pokedex/abilities/marvel-scale.md) / [Shed Skin](../pokedex/abilities/shed-skin.md) |
 
@@ -5410,7 +5706,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#149 [Dragonite](../pokedex/pokemon/dragonite.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Inner Focus](../pokedex/abilities/inner-focus.md) | [Marvel Scale](../pokedex/abilities/marvel-scale.md) / [Inner Focus](../pokedex/abilities/inner-focus.md) |
 
@@ -5456,7 +5754,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#150 [Mewtwo](../pokedex/pokemon/mewtwo.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -5490,7 +5790,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#151 [Mew](../pokedex/pokemon/mew.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
 - Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
@@ -5524,7 +5826,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#152 [Chikorita](../pokedex/pokemon/chikorita.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Overgrow](../pokedex/abilities/overgrow.md) | [Serene Grace](../pokedex/abilities/serene-grace.md) / [Overgrow](../pokedex/abilities/overgrow.md) |
 
@@ -5566,7 +5870,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#153 [Bayleef](../pokedex/pokemon/bayleef.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Overgrow](../pokedex/abilities/overgrow.md) | [Serene Grace](../pokedex/abilities/serene-grace.md) / [Overgrow](../pokedex/abilities/overgrow.md) |
 
@@ -5609,7 +5915,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#154 [Meganium](../pokedex/pokemon/meganium.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Overgrow](../pokedex/abilities/overgrow.md) | [Serene Grace](../pokedex/abilities/serene-grace.md) / [Overgrow](../pokedex/abilities/overgrow.md) |
 
@@ -5659,7 +5967,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#155 [Cyndaquil](../pokedex/pokemon/cyndaquil.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Blaze](../pokedex/abilities/blaze.md) | [Adaptability](../pokedex/abilities/adaptability.md) / [Blaze](../pokedex/abilities/blaze.md) |
 
@@ -5696,7 +6006,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#156 [Quilava](../pokedex/pokemon/quilava.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Blaze](../pokedex/abilities/blaze.md) | [Adaptability](../pokedex/abilities/adaptability.md) / [Blaze](../pokedex/abilities/blaze.md) |
 
@@ -5734,7 +6046,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#157 [Typhlosion](../pokedex/pokemon/typhlosion.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Blaze](../pokedex/abilities/blaze.md) | [Adaptability](../pokedex/abilities/adaptability.md) / [Blaze](../pokedex/abilities/blaze.md) |
 
@@ -5778,7 +6092,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#158 [Totodile](../pokedex/pokemon/totodile.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Torrent](../pokedex/abilities/torrent.md) | [Intimidate](../pokedex/abilities/intimidate.md) / [Torrent](../pokedex/abilities/torrent.md) |
 
@@ -5818,7 +6134,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#159 [Croconaw](../pokedex/pokemon/croconaw.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Torrent](../pokedex/abilities/torrent.md) | [Intimidate](../pokedex/abilities/intimidate.md) / [Torrent](../pokedex/abilities/torrent.md) |
 
@@ -5859,7 +6177,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#160 [Feraligatr](../pokedex/pokemon/feraligatr.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Torrent](../pokedex/abilities/torrent.md) | [Intimidate](../pokedex/abilities/intimidate.md) / [Torrent](../pokedex/abilities/torrent.md) |
 
@@ -5903,7 +6223,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#161 [Sentret](../pokedex/pokemon/sentret.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `35 HP / 46 Atk / 34 Def / 35 SAtk / 45 SDef / 20 Spd / 215 BST` | `45 HP / 45 Atk / 35 Def / 35 SAtk / 45 SDef / 40 Spd / 245 BST` |
 
@@ -5940,7 +6262,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#162 [Furret](../pokedex/pokemon/furret.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Run Away](../pokedex/abilities/run-away.md) / [Keen Eye](../pokedex/abilities/keen-eye.md) | [Scrappy](../pokedex/abilities/scrappy.md) / [Keen Eye](../pokedex/abilities/keen-eye.md) |
 
@@ -5981,7 +6305,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#163 [Hoothoot](../pokedex/pokemon/hoothoot.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Insomnia](../pokedex/abilities/insomnia.md) / [Keen Eye](../pokedex/abilities/keen-eye.md) | [Tinted Lens](../pokedex/abilities/tinted-lens.md) / [Insomnia](../pokedex/abilities/insomnia.md) |
 
@@ -6023,7 +6349,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#164 [Noctowl](../pokedex/pokemon/noctowl.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Insomnia](../pokedex/abilities/insomnia.md) / [Keen Eye](../pokedex/abilities/keen-eye.md) | [Tinted Lens](../pokedex/abilities/tinted-lens.md) / [Insomnia](../pokedex/abilities/insomnia.md) |
 
@@ -6072,7 +6400,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#165 [Ledyba](../pokedex/pokemon/ledyba.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Swarm](../pokedex/abilities/swarm.md) / [Early Bird](../pokedex/abilities/early-bird.md) | [Technician](../pokedex/abilities/technician.md) / [Iron Fist](../pokedex/abilities/iron-fist.md) |
 
@@ -6116,7 +6446,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#166 [Ledian](../pokedex/pokemon/ledian.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Swarm](../pokedex/abilities/swarm.md) / [Early Bird](../pokedex/abilities/early-bird.md) | [Technician](../pokedex/abilities/technician.md) / [Iron Fist](../pokedex/abilities/iron-fist.md) |
 
@@ -6163,7 +6495,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#167 [Spinarak](../pokedex/pokemon/spinarak.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `40 HP / 60 Atk / 40 Def / 40 SAtk / 40 SDef / 30 Spd / 250 BST` | `40 HP / 70 Atk / 40 Def / 40 SAtk / 40 SDef / 45 Spd / 275 BST` |
 
@@ -6205,7 +6539,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#168 [Ariados](../pokedex/pokemon/ariados.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `70 HP / 90 Atk / 70 Def / 60 SAtk / 70 SDef / 40 Spd / 400 BST` | `70 HP / 110 Atk / 70 Def / 50 SAtk / 70 SDef / 80 Spd / 450 BST` |
 
@@ -6249,7 +6585,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#169 [Crobat](../pokedex/pokemon/crobat.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
@@ -6288,7 +6626,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#170 [Chinchou](../pokedex/pokemon/chinchou.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Volt Absorb](../pokedex/abilities/volt-absorb.md) / [Illuminate](../pokedex/abilities/illuminate.md) | [Volt Absorb](../pokedex/abilities/volt-absorb.md) / [Water Absorb](../pokedex/abilities/water-absorb.md) |
 
@@ -6324,7 +6664,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#171 [Lanturn](../pokedex/pokemon/lanturn.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Volt Absorb](../pokedex/abilities/volt-absorb.md) / [Illuminate](../pokedex/abilities/illuminate.md) | [Volt Absorb](../pokedex/abilities/volt-absorb.md) / [Water Absorb](../pokedex/abilities/water-absorb.md) |
 
@@ -6360,7 +6702,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#172 [Pichu](../pokedex/pokemon/pichu.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Static](../pokedex/abilities/static.md) | [Static](../pokedex/abilities/static.md) / [Lightning Rod](../pokedex/abilities/lightning-rod.md) |
 
@@ -6395,7 +6739,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#173 [Cleffa](../pokedex/pokemon/cleffa.md)**
 
-</div>**Base Happiness**:
+</div>
+
+**Base Happiness**:
 
  140 | 180 |
 
@@ -6423,7 +6769,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#174 [Igglybuff](../pokedex/pokemon/igglybuff.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Cute Charm](../pokedex/abilities/cute-charm.md) | [Cute Charm](../pokedex/abilities/cute-charm.md) / [Magic Guard](../pokedex/abilities/magic-guard.md) |
 
@@ -6454,7 +6802,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#175 [Togepi](../pokedex/pokemon/togepi.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Hustle](../pokedex/abilities/hustle.md) / [Serene Grace](../pokedex/abilities/serene-grace.md) | [Serene Grace](../pokedex/abilities/serene-grace.md) / [Super Luck](../pokedex/abilities/super-luck.md) |
 
@@ -6496,7 +6846,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#176 [Togetic](../pokedex/pokemon/togetic.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Hustle](../pokedex/abilities/hustle.md) / [Serene Grace](../pokedex/abilities/serene-grace.md) | [Serene Grace](../pokedex/abilities/serene-grace.md) / [Super Luck](../pokedex/abilities/super-luck.md) |
 
@@ -6540,7 +6892,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#177 [Natu](../pokedex/pokemon/natu.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -6572,7 +6926,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#178 [Xatu](../pokedex/pokemon/xatu.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
@@ -6611,7 +6967,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#179 [Mareep](../pokedex/pokemon/mareep.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -6642,7 +7000,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#180 [Flaaffy](../pokedex/pokemon/flaaffy.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -6673,7 +7033,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#181 [Ampharos](../pokedex/pokemon/ampharos.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM59](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM59](../pokedex/items/tm59.md), [Dragon Pulse](../pokedex/moves/dragon-pulse.md)</span>.
 - Now compatible with <span style="white-space: nowrap;">![TM85](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM85](../pokedex/items/tm85.md), [Dazzling Gleam](../pokedex/moves/dazzling-gleam.md)</span>. (!!)
@@ -6720,7 +7082,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#182 [Bellossom](../pokedex/pokemon/bellossom.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Chlorophyll](../pokedex/abilities/chlorophyll.md) | [Chlorophyll](../pokedex/abilities/chlorophyll.md) / [Own Tempo](../pokedex/abilities/own-tempo.md) |
 
@@ -6754,7 +7118,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#183 [Marill](../pokedex/pokemon/marill.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Thick Fat](../pokedex/abilities/thick-fat.md) / [Huge Power](../pokedex/abilities/huge-power.md) | [Huge Power](../pokedex/abilities/huge-power.md) / [Thick Fat](../pokedex/abilities/thick-fat.md) |
 
@@ -6793,7 +7159,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#184 [Azumarill](../pokedex/pokemon/azumarill.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Thick Fat](../pokedex/abilities/thick-fat.md) / [Huge Power](../pokedex/abilities/huge-power.md) | [Huge Power](../pokedex/abilities/huge-power.md) / [Thick Fat](../pokedex/abilities/thick-fat.md) |
 
@@ -6839,7 +7207,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#185 [Sudowoodo](../pokedex/pokemon/sudowoodo.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Sturdy](../pokedex/abilities/sturdy.md) / [Rock Head](../pokedex/abilities/rock-head.md) | [Rock Head](../pokedex/abilities/rock-head.md) / [Sturdy](../pokedex/abilities/sturdy.md) |
 
@@ -6880,7 +7250,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#186 [Politoed](../pokedex/pokemon/politoed.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Water Absorb](../pokedex/abilities/water-absorb.md) / [Damp](../pokedex/abilities/damp.md) | [Drizzle](../pokedex/abilities/drizzle.md) / [Damp](../pokedex/abilities/damp.md) |
 
@@ -6908,7 +7280,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#187 [Hoppip](../pokedex/pokemon/hoppip.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `35 HP / 35 Atk / 40 Def / 35 SAtk / 55 SDef / 50 Spd / 250 BST` | `35 HP / 35 Atk / 40 Def / 45 SAtk / 55 SDef / 50 Spd / 260 BST` |
 
@@ -6948,7 +7322,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#188 [Skiploom](../pokedex/pokemon/skiploom.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `55 HP / 45 Atk / 50 Def / 45 SAtk / 65 SDef / 80 Spd / 340 BST` | `55 HP / 45 Atk / 50 Def / 65 SAtk / 65 SDef / 80 Spd / 360 BST` |
 
@@ -6988,7 +7364,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#189 [Jumpluff](../pokedex/pokemon/jumpluff.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `75 HP / 55 Atk / 70 Def / 55 SAtk / 95 SDef / 110 Spd / 460 BST` | `75 HP / 55 Atk / 70 Def / 85 SAtk / 95 SDef / 110 Spd / 490 BST` |
 
@@ -7033,7 +7411,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#190 [Aipom](../pokedex/pokemon/aipom.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -7067,7 +7447,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#191 [Sunkern](../pokedex/pokemon/sunkern.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -7102,7 +7484,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#192 [Sunflora](../pokedex/pokemon/sunflora.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `75 HP / 75 Atk / 55 Def / 105 SAtk / 85 SDef / 30 Spd / 425 BST` | `85 HP / 55 Atk / 85 Def / 125 SAtk / 95 SDef / 30 Spd / 475 BST` |
 
@@ -7142,7 +7526,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#193 [Yanma](../pokedex/pokemon/yanma.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
 - Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
@@ -7181,7 +7567,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#194 [Wooper](../pokedex/pokemon/wooper.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Damp](../pokedex/abilities/damp.md) / [Water Absorb](../pokedex/abilities/water-absorb.md) | [Water Absorb](../pokedex/abilities/water-absorb.md) / [Unaware](../pokedex/abilities/unaware.md) |
 
@@ -7221,7 +7609,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#195 [Quagsire](../pokedex/pokemon/quagsire.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Damp](../pokedex/abilities/damp.md) / [Water Absorb](../pokedex/abilities/water-absorb.md) | [Water Absorb](../pokedex/abilities/water-absorb.md) / [Unaware](../pokedex/abilities/unaware.md) |
 
@@ -7261,7 +7651,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#196 [Espeon](../pokedex/pokemon/espeon.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -7295,7 +7687,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#197 [Umbreon](../pokedex/pokemon/umbreon.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM86](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM86](../pokedex/items/tm86.md), [Grass Knot](../pokedex/moves/grass-knot.md)</span>. (!!)
 
@@ -7333,7 +7727,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#198 [Murkrow](../pokedex/pokemon/murkrow.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Insomnia](../pokedex/abilities/insomnia.md) / [Super Luck](../pokedex/abilities/super-luck.md) | [Super Luck](../pokedex/abilities/super-luck.md) / [Insomnia](../pokedex/abilities/insomnia.md) |
 
@@ -7372,7 +7768,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#199 [Slowking](../pokedex/pokemon/slowking.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![HM07](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM07](../pokedex/items/hm07.md), [Waterfall](../pokedex/moves/waterfall.md)</span>. (!!)
 
@@ -7412,7 +7810,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#200 [Misdreavus](../pokedex/pokemon/misdreavus.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> |
 
@@ -7451,7 +7851,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#201 [Unown](../pokedex/pokemon/unown.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `48 HP / 72 Atk / 48 Def / 72 SAtk / 48 SDef / 48 Spd / 336 BST` | `54 HP / 108 Atk / 54 Def / 108 SAtk / 54 SDef / 54 Spd / 432 BST` |
 
@@ -7478,7 +7880,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#202 [Wobbuffet](../pokedex/pokemon/wobbuffet.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -7500,7 +7904,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#203 [Girafarig](../pokedex/pokemon/girafarig.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -7535,7 +7941,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#204 [Pineco](../pokedex/pokemon/pineco.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
@@ -7572,7 +7980,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#205 [Forretress](../pokedex/pokemon/forretress.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
@@ -7612,7 +8022,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#206 [Dunsparce](../pokedex/pokemon/dunsparce.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `100 HP / 70 Atk / 70 Def / 65 SAtk / 65 SDef / 45 Spd / 415 BST` | `105 HP / 95 Atk / 95 Def / 55 SAtk / 55 SDef / 45 Spd / 450 BST` |
 
@@ -7652,7 +8064,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#207 [Gligar](../pokedex/pokemon/gligar.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Hyper Cutter](../pokedex/abilities/hyper-cutter.md) / [Sand Veil](../pokedex/abilities/sand-veil.md) | [Immunity](../pokedex/abilities/immunity.md) / [Hyper Cutter](../pokedex/abilities/hyper-cutter.md) |
 
@@ -7694,7 +8108,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#208 [Steelix](../pokedex/pokemon/steelix.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `75 HP / 85 Atk / 200 Def / 55 SAtk / 65 SDef / 30 Spd / 510 BST` | `75 HP / 105 Atk / 200 Def / 45 SAtk / 65 SDef / 30 Spd / 520 BST` |
 
@@ -7734,7 +8150,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#209 [Snubbull](../pokedex/pokemon/snubbull.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -7769,7 +8187,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#210 [Granbull](../pokedex/pokemon/granbull.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -7805,7 +8225,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#211 [Qwilfish](../pokedex/pokemon/qwilfish.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Poison Point](../pokedex/abilities/poison-point.md) / [Swift Swim](../pokedex/abilities/swift-swim.md) | [Intimidate](../pokedex/abilities/intimidate.md) / [Swift Swim](../pokedex/abilities/swift-swim.md) |
 
@@ -7846,7 +8268,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#212 [Scizor](../pokedex/pokemon/scizor.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Swarm](../pokedex/abilities/swarm.md) / [Technician](../pokedex/abilities/technician.md) | [Technician](../pokedex/abilities/technician.md) / [Swarm](../pokedex/abilities/swarm.md) |
 
@@ -7890,7 +8314,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#213 [Shuckle](../pokedex/pokemon/shuckle.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
@@ -7927,7 +8353,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#214 [Heracross](../pokedex/pokemon/heracross.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Swarm](../pokedex/abilities/swarm.md) / [Guts](../pokedex/abilities/guts.md) | [Guts](../pokedex/abilities/guts.md) / [Skill Link](../pokedex/abilities/skill-link.md) |
 
@@ -7973,7 +8401,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#215 [Sneasel](../pokedex/pokemon/sneasel.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Inner Focus](../pokedex/abilities/inner-focus.md) / [Keen Eye](../pokedex/abilities/keen-eye.md) | [Technician](../pokedex/abilities/technician.md) / [Inner Focus](../pokedex/abilities/inner-focus.md) |
 
@@ -8009,7 +8439,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#216 [Teddiursa](../pokedex/pokemon/teddiursa.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -8045,7 +8477,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#217 [Ursaring](../pokedex/pokemon/ursaring.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -8081,7 +8515,9 @@ Now evolves into Kabutops at Level 30.
 
 	**#218 [Slugma](../pokedex/pokemon/slugma.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `40 HP / 40 Atk / 40 Def / 70 SAtk / 40 SDef / 20 Spd / 250 BST` | `50 HP / 50 Atk / 50 Def / 90 SAtk / 50 SDef / 20 Spd / 310 BST` |
 
@@ -8122,7 +8558,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#219 [Magcargo](../pokedex/pokemon/magcargo.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Magma Armor](../pokedex/abilities/magma-armor.md) / [Flame Body](../pokedex/abilities/flame-body.md) | [Solid Rock](../pokedex/abilities/solid-rock.md) / [Flame Body](../pokedex/abilities/flame-body.md) |
 
@@ -8161,7 +8599,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#220 [Swinub](../pokedex/pokemon/swinub.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Oblivious](../pokedex/abilities/oblivious.md) / [Snow Cloak](../pokedex/abilities/snow-cloak.md) | [Thick Fat](../pokedex/abilities/thick-fat.md) / [Snow Cloak](../pokedex/abilities/snow-cloak.md) |
 
@@ -8198,7 +8638,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#221 [Piloswine](../pokedex/pokemon/piloswine.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Oblivious](../pokedex/abilities/oblivious.md) / [Snow Cloak](../pokedex/abilities/snow-cloak.md) | [Thick Fat](../pokedex/abilities/thick-fat.md) / [Snow Cloak](../pokedex/abilities/snow-cloak.md) |
 
@@ -8237,7 +8679,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#222 [Corsola](../pokedex/pokemon/corsola.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `65 HP / 55 Atk / 95 Def / 65 SAtk / 95 SDef / 35 Spd / 410 BST` | `65 HP / 45 Atk / 115 Def / 90 SAtk / 115 SDef / 35 Spd / 465 BST` |
 
@@ -8276,7 +8720,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#223 [Remoraid](../pokedex/pokemon/remoraid.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -8308,7 +8754,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#224 [Octillery](../pokedex/pokemon/octillery.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -8344,7 +8792,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#225 [Delibird](../pokedex/pokemon/delibird.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Vital Spirit](../pokedex/abilities/vital-spirit.md) / [Hustle](../pokedex/abilities/hustle.md) | [Technician](../pokedex/abilities/technician.md) / [Hustle](../pokedex/abilities/hustle.md) |
 
@@ -8392,7 +8842,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#226 [Mantine](../pokedex/pokemon/mantine.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 - Now compatible with <span style="white-space: nowrap;">![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md)</span>. (!!)
@@ -8433,7 +8885,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#227 [Skarmory](../pokedex/pokemon/skarmory.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
@@ -8473,7 +8927,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#228 [Houndour](../pokedex/pokemon/houndour.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Early Bird](../pokedex/abilities/early-bird.md) / [Flash Fire](../pokedex/abilities/flash-fire.md) | [Intimidate](../pokedex/abilities/intimidate.md) / [Flash Fire](../pokedex/abilities/flash-fire.md) |
 
@@ -8508,7 +8964,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#229 [Houndoom](../pokedex/pokemon/houndoom.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Early Bird](../pokedex/abilities/early-bird.md) / [Flash Fire](../pokedex/abilities/flash-fire.md) | [Intimidate](../pokedex/abilities/intimidate.md) / [Flash Fire](../pokedex/abilities/flash-fire.md) |
 
@@ -8544,7 +9002,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#230 [Kingdra](../pokedex/pokemon/kingdra.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -8579,7 +9039,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#231 [Phanpy](../pokedex/pokemon/phanpy.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Pickup](../pokedex/abilities/pickup.md) | [Sand Veil](../pokedex/abilities/sand-veil.md) / [Pickup](../pokedex/abilities/pickup.md) |
 
@@ -8617,7 +9079,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#232 [Donphan](../pokedex/pokemon/donphan.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Sturdy](../pokedex/abilities/sturdy.md) | [Sand Veil](../pokedex/abilities/sand-veil.md) / [Sturdy](../pokedex/abilities/sturdy.md) |
 
@@ -8657,7 +9121,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#233 [Porygon2](../pokedex/pokemon/porygon2.md)**
 
-</div>**Evolution**:
+</div>
+
+**Evolution**:
 
 - Now able to evolve into Porygon-Z by using a Dubious Disc.
 
@@ -8696,7 +9162,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#234 [Stantler](../pokedex/pokemon/stantler.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -8731,7 +9199,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#235 [Smeargle](../pokedex/pokemon/smeargle.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Own Tempo](../pokedex/abilities/own-tempo.md) / [Technician](../pokedex/abilities/technician.md) | [Technician](../pokedex/abilities/technician.md) / [Own Tempo](../pokedex/abilities/own-tempo.md) |
 
@@ -8770,7 +9240,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#236 [Tyrogue](../pokedex/pokemon/tyrogue.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Guts](../pokedex/abilities/guts.md) / [Steadfast](../pokedex/abilities/steadfast.md) | [Steadfast](../pokedex/abilities/steadfast.md) / [Guts](../pokedex/abilities/guts.md) |
 
@@ -8796,7 +9268,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#237 [Hitmontop](../pokedex/pokemon/hitmontop.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Intimidate](../pokedex/abilities/intimidate.md) / [Technician](../pokedex/abilities/technician.md) | [Technician](../pokedex/abilities/technician.md) / [Intimidate](../pokedex/abilities/intimidate.md) |
 
@@ -8832,7 +9306,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#238 [Smoochum](../pokedex/pokemon/smoochum.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Oblivious](../pokedex/abilities/oblivious.md) / [Forewarn](../pokedex/abilities/forewarn.md) | [Hydration](../pokedex/abilities/hydration.md) / [Forewarn](../pokedex/abilities/forewarn.md) |
 
@@ -8872,7 +9348,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#239 [Elekid](../pokedex/pokemon/elekid.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Static](../pokedex/abilities/static.md) | [Static](../pokedex/abilities/static.md) / [Vital Spirit](../pokedex/abilities/vital-spirit.md) |
 
@@ -8908,7 +9386,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#240 [Magby](../pokedex/pokemon/magby.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Flame Body](../pokedex/abilities/flame-body.md) | [Flame Body](../pokedex/abilities/flame-body.md) / [Vital Spirit](../pokedex/abilities/vital-spirit.md) |
 
@@ -8944,7 +9424,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#241 [Miltank](../pokedex/pokemon/miltank.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -8974,7 +9456,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#242 [Blissey](../pokedex/pokemon/blissey.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Natural Cure](../pokedex/abilities/natural-cure.md) / [Serene Grace](../pokedex/abilities/serene-grace.md) | [Serene Grace](../pokedex/abilities/serene-grace.md) / [Natural Cure](../pokedex/abilities/natural-cure.md) |
 
@@ -9014,7 +9498,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#243 [Raikou](../pokedex/pokemon/raikou.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Pressure](../pokedex/abilities/pressure.md) | [Pressure](../pokedex/abilities/pressure.md) / [Inner Focus](../pokedex/abilities/inner-focus.md) |
 
@@ -9050,7 +9536,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#244 [Entei](../pokedex/pokemon/entei.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Pressure](../pokedex/abilities/pressure.md) | [Pressure](../pokedex/abilities/pressure.md) / [Inner Focus](../pokedex/abilities/inner-focus.md) |
 
@@ -9086,7 +9574,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#245 [Suicune](../pokedex/pokemon/suicune.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Pressure](../pokedex/abilities/pressure.md) | [Pressure](../pokedex/abilities/pressure.md) / [Inner Focus](../pokedex/abilities/inner-focus.md) |
 
@@ -9126,7 +9616,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#246 [Larvitar](../pokedex/pokemon/larvitar.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -9158,7 +9650,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#247 [Pupitar](../pokedex/pokemon/pupitar.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -9190,7 +9684,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#248 [Tyranitar](../pokedex/pokemon/tyranitar.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -9226,7 +9722,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#249 [Lugia](../pokedex/pokemon/lugia.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
@@ -9261,7 +9759,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#250 [Ho-Oh](../pokedex/pokemon/ho-oh.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
@@ -9296,7 +9796,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#251 [Celebi](../pokedex/pokemon/celebi.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -9327,7 +9829,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#252 [Treecko](../pokedex/pokemon/treecko.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Overgrow](../pokedex/abilities/overgrow.md) | [Unburden](../pokedex/abilities/unburden.md) / [Overgrow](../pokedex/abilities/overgrow.md) |
 
@@ -9362,7 +9866,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#253 [Grovyle](../pokedex/pokemon/grovyle.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Overgrow](../pokedex/abilities/overgrow.md) | [Unburden](../pokedex/abilities/unburden.md) / [Overgrow](../pokedex/abilities/overgrow.md) |
 
@@ -9398,7 +9904,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#254 [Sceptile](../pokedex/pokemon/sceptile.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Overgrow](../pokedex/abilities/overgrow.md) | [Unburden](../pokedex/abilities/unburden.md) / [Overgrow](../pokedex/abilities/overgrow.md) |
 
@@ -9446,7 +9954,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#255 [Torchic](../pokedex/pokemon/torchic.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Blaze](../pokedex/abilities/blaze.md) | [Speed Boost](../pokedex/abilities/speed-boost.md) / [Blaze](../pokedex/abilities/blaze.md) |
 
@@ -9482,7 +9992,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#256 [Combusken](../pokedex/pokemon/combusken.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Blaze](../pokedex/abilities/blaze.md) | [Speed Boost](../pokedex/abilities/speed-boost.md) / [Blaze](../pokedex/abilities/blaze.md) |
 
@@ -9519,7 +10031,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#257 [Blaziken](../pokedex/pokemon/blaziken.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Blaze](../pokedex/abilities/blaze.md) | [Speed Boost](../pokedex/abilities/speed-boost.md) / [Blaze](../pokedex/abilities/blaze.md) |
 
@@ -9561,7 +10075,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#258 [Mudkip](../pokedex/pokemon/mudkip.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Torrent](../pokedex/abilities/torrent.md) | [Torrent](../pokedex/abilities/torrent.md) / [Damp](../pokedex/abilities/damp.md) |
 
@@ -9596,7 +10112,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#259 [Marshtomp](../pokedex/pokemon/marshtomp.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Torrent](../pokedex/abilities/torrent.md) | [Torrent](../pokedex/abilities/torrent.md) / [Damp](../pokedex/abilities/damp.md) |
 
@@ -9633,7 +10151,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#260 [Swampert](../pokedex/pokemon/swampert.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Torrent](../pokedex/abilities/torrent.md) | [Torrent](../pokedex/abilities/torrent.md) / [Damp](../pokedex/abilities/damp.md) |
 
@@ -9673,7 +10193,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#261 [Poochyena](../pokedex/pokemon/poochyena.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `35 HP / 55 Atk / 35 Def / 30 SAtk / 30 SDef / 35 Spd / 220 BST` | `35 HP / 75 Atk / 35 Def / 30 SAtk / 30 SDef / 65 Spd / 270 BST` |
 
@@ -9708,7 +10230,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#262 [Mightyena](../pokedex/pokemon/mightyena.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `70 HP / 90 Atk / 70 Def / 60 SAtk / 60 SDef / 70 Spd / 420 BST` | `70 HP / 110 Atk / 70 Def / 60 SAtk / 60 SDef / 95 Spd / 465 BST` |
 
@@ -9748,7 +10272,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#263 [Zigzagoon](../pokedex/pokemon/zigzagoon.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `38 HP / 30 Atk / 41 Def / 30 SAtk / 41 SDef / 60 Spd / 240 BST` | `38 HP / 40 Atk / 41 Def / 30 SAtk / 41 SDef / 60 Spd / 250 BST` |
 
@@ -9787,7 +10313,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#264 [Linoone](../pokedex/pokemon/linoone.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `78 HP / 70 Atk / 61 Def / 50 SAtk / 61 SDef / 100 Spd / 420 BST` | `85 HP / 85 Atk / 60 Def / 50 SAtk / 60 SDef / 110 Spd / 450 BST` |
 
@@ -9830,7 +10358,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#265 [Wurmple](../pokedex/pokemon/wurmple.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Shield Dust](../pokedex/abilities/shield-dust.md) | [Shield Dust](../pokedex/abilities/shield-dust.md) / [Run Away](../pokedex/abilities/run-away.md) |
 
@@ -9853,7 +10383,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#266 [Silcoon](../pokedex/pokemon/silcoon.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Shed Skin](../pokedex/abilities/shed-skin.md) | [Shed Skin](../pokedex/abilities/shed-skin.md) / [Shed Skin](../pokedex/abilities/shed-skin.md) |
 
@@ -9875,7 +10407,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#267 [Beautifly](../pokedex/pokemon/beautifly.md)**
 
-</div>Ability;
+</div>
+
+Ability;
  Swarm / None | Swarm / Rivalry |
 
 | Attribute | Old Value | New Value |
@@ -9918,7 +10452,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#268 [Cascoon](../pokedex/pokemon/cascoon.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Shed Skin](../pokedex/abilities/shed-skin.md) | [Shed Skin](../pokedex/abilities/shed-skin.md) / [Shed Skin](../pokedex/abilities/shed-skin.md) |
 
@@ -9940,7 +10476,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#269 [Dustox](../pokedex/pokemon/dustox.md)**
 
-</div>Ability;
+</div>
+
+Ability;
  Shield Dust / None | Shield Dust / Compound Eyes |
 
 | Attribute | Old Value | New Value |
@@ -9983,7 +10521,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#270 [Lotad](../pokedex/pokemon/lotad.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -10011,7 +10551,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#271 [Lombre](../pokedex/pokemon/lombre.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -10042,7 +10584,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#272 [Ludicolo](../pokedex/pokemon/ludicolo.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -10063,7 +10607,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#273 [Seedot](../pokedex/pokemon/seedot.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -10087,7 +10633,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#274 [Nuzleaf](../pokedex/pokemon/nuzleaf.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -10115,7 +10663,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#275 [Shiftry](../pokedex/pokemon/shiftry.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>.
 
@@ -10142,7 +10692,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#276 [Taillow](../pokedex/pokemon/taillow.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Guts](../pokedex/abilities/guts.md) | [Guts](../pokedex/abilities/guts.md) / [Scrappy](../pokedex/abilities/scrappy.md) |
 
@@ -10179,7 +10731,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#277 [Swellow](../pokedex/pokemon/swellow.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Guts](../pokedex/abilities/guts.md) | [Guts](../pokedex/abilities/guts.md) / [Scrappy](../pokedex/abilities/scrappy.md) |
 
@@ -10220,7 +10774,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#278 [Wingull](../pokedex/pokemon/wingull.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Keen Eye](../pokedex/abilities/keen-eye.md) / [Hydration](../pokedex/abilities/hydration.md) | [Hydration](../pokedex/abilities/hydration.md) / [Keen Eye](../pokedex/abilities/keen-eye.md) |
 
@@ -10259,7 +10815,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#279 [Pelipper](../pokedex/pokemon/pelipper.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Keen Eye](../pokedex/abilities/keen-eye.md) / [Hydration](../pokedex/abilities/hydration.md) | [Drizzle](../pokedex/abilities/drizzle.md) / [Keen Eye](../pokedex/abilities/keen-eye.md) |
 
@@ -10305,7 +10863,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#280 [Ralts](../pokedex/pokemon/ralts.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `28 HP / 25 Atk / 25 Def / 45 SAtk / 35 SDef / 40 Spd / 198 BST` | `28 HP / 25 Atk / 25 Def / 65 SAtk / 55 SDef / 40 Spd / 238 BST` |
 
@@ -10341,7 +10901,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#281 [Kirlia](../pokedex/pokemon/kirlia.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `38 HP / 35 Atk / 35 Def / 65 SAtk / 55 SDef / 50 Spd / 278 BST` | `38 HP / 35 Atk / 35 Def / 95 SAtk / 85 SDef / 50 Spd / 338 BST` |
 
@@ -10377,7 +10939,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#282 [Gardevoir](../pokedex/pokemon/gardevoir.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -10411,7 +10975,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#283 [Surskit](../pokedex/pokemon/surskit.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `40 HP / 30 Atk / 32 Def / 50 SAtk / 52 SDef / 65 Spd / 269 BST` | `40 HP / 30 Atk / 30 Def / 55 SAtk / 55 SDef / 65 Spd / 275 BST` |
 
@@ -10451,7 +11017,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#284 [Masquerain](../pokedex/pokemon/masquerain.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `70 HP / 60 Atk / 62 Def / 100 SAtk / 82 SDef / 80 Spd / 454 BST` | `70 HP / 50 Atk / 50 Def / 110 SAtk / 100 SDef / 100 Spd / 480 BST` |
 
@@ -10500,7 +11068,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#285 [Shroomish](../pokedex/pokemon/shroomish.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Effect Spore](../pokedex/abilities/effect-spore.md) / [Poison Heal](../pokedex/abilities/poison-heal.md) | [Technician](../pokedex/abilities/technician.md) / [Poison Heal](../pokedex/abilities/poison-heal.md) |
 
@@ -10536,7 +11106,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#286 [Breloom](../pokedex/pokemon/breloom.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Effect Spore](../pokedex/abilities/effect-spore.md) / [Poison Heal](../pokedex/abilities/poison-heal.md) | [Technician](../pokedex/abilities/technician.md) / [Poison Heal](../pokedex/abilities/poison-heal.md) |
 
@@ -10578,7 +11150,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#287 [Slakoth](../pokedex/pokemon/slakoth.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -10606,7 +11180,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#288 [Vigoroth](../pokedex/pokemon/vigoroth.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -10635,7 +11211,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#289 [Slaking](../pokedex/pokemon/slaking.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -10667,7 +11245,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#290 [Nincada](../pokedex/pokemon/nincada.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
 
@@ -10700,7 +11280,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#291 [Ninjask](../pokedex/pokemon/ninjask.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
 
@@ -10740,7 +11322,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#292 [Shedinja](../pokedex/pokemon/shedinja.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
 - Now compatible with <span style="white-space: nowrap;">![TM75](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM75](../pokedex/items/tm75.md), [Swords Dance](../pokedex/moves/swords-dance.md)</span>. (!!)
@@ -10775,7 +11359,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#293 [Whismur](../pokedex/pokemon/whismur.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Soundproof](../pokedex/abilities/soundproof.md) | [Soundproof](../pokedex/abilities/soundproof.md) / [Scrappy](../pokedex/abilities/scrappy.md) |
 
@@ -10814,7 +11400,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#294 [Loudred](../pokedex/pokemon/loudred.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Soundproof](../pokedex/abilities/soundproof.md) | [Soundproof](../pokedex/abilities/soundproof.md) / [Scrappy](../pokedex/abilities/scrappy.md) |
 
@@ -10853,7 +11441,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#295 [Exploud](../pokedex/pokemon/exploud.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Soundproof](../pokedex/abilities/soundproof.md) | [Soundproof](../pokedex/abilities/soundproof.md) / [Scrappy](../pokedex/abilities/scrappy.md) |
 
@@ -10897,7 +11487,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#296 [Makuhita](../pokedex/pokemon/makuhita.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -10931,7 +11523,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#297 [Hariyama](../pokedex/pokemon/hariyama.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -10966,7 +11560,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#298 [Azurill](../pokedex/pokemon/azurill.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Thick Fat](../pokedex/abilities/thick-fat.md) / [Huge Power](../pokedex/abilities/huge-power.md) | [Huge Power](../pokedex/abilities/huge-power.md) / [Thick Fat](../pokedex/abilities/thick-fat.md) |
 
@@ -11004,7 +11600,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#299 [Nosepass](../pokedex/pokemon/nosepass.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `30 HP / 45 Atk / 135 Def / 45 SAtk / 90 SDef / 30 Spd / 375 BST` | `30 HP / 35 Atk / 135 Def / 55 SAtk / 90 SDef / 30 Spd / 375 BST` |
 
@@ -11041,7 +11639,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#300 [Skitty](../pokedex/pokemon/skitty.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `50 HP / 45 Atk / 45 Def / 35 SAtk / 35 SDef / 50 Spd / 260 BST` | `50 HP / 50 Atk / 50 Def / 40 SAtk / 40 SDef / 60 Spd / 290 BST` |
 
@@ -11081,7 +11681,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#301 [Delcatty](../pokedex/pokemon/delcatty.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `70 HP / 65 Atk / 65 Def / 55 SAtk / 55 SDef / 90 Spd / 400 BST` | `70 HP / 95 Atk / 65 Def / 85 SAtk / 55 SDef / 95 Spd / 465 BST` |
 
@@ -11108,7 +11710,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#302 [Sableye](../pokedex/pokemon/sableye.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Keen Eye](../pokedex/abilities/keen-eye.md) / [Stall](../pokedex/abilities/stall.md) | [Magic Guard](../pokedex/abilities/magic-guard.md) / [Stall](../pokedex/abilities/stall.md) |
 
@@ -11150,7 +11754,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#303 [Mawile](../pokedex/pokemon/mawile.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Hyper Cutter](../pokedex/abilities/hyper-cutter.md) / [Intimidate](../pokedex/abilities/intimidate.md) | [Huge Power](../pokedex/abilities/huge-power.md) / [Intimidate](../pokedex/abilities/intimidate.md) |
 
@@ -11194,7 +11800,9 @@ Now evolves into Magcargo at Level 32.
 
 	**#304 [Aron](../pokedex/pokemon/aron.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Sturdy](../pokedex/abilities/sturdy.md) / [Rock Head](../pokedex/abilities/rock-head.md) | [Rock Head](../pokedex/abilities/rock-head.md) / [Sturdy](../pokedex/abilities/sturdy.md) |
 
@@ -11235,7 +11843,9 @@ Now evolves into Lairon at Level 24.
 
 	**#305 [Lairon](../pokedex/pokemon/lairon.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Sturdy](../pokedex/abilities/sturdy.md) / [Rock Head](../pokedex/abilities/rock-head.md) | [Rock Head](../pokedex/abilities/rock-head.md) / [Sturdy](../pokedex/abilities/sturdy.md) |
 
@@ -11276,7 +11886,9 @@ Now evolves into Aggron at Level 40.
 
 	**#306 [Aggron](../pokedex/pokemon/aggron.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Sturdy](../pokedex/abilities/sturdy.md) / [Rock Head](../pokedex/abilities/rock-head.md) | [Rock Head](../pokedex/abilities/rock-head.md) / [Sturdy](../pokedex/abilities/sturdy.md) |
 
@@ -11316,7 +11928,9 @@ Now evolves into Aggron at Level 40.
 
 	**#307 [Meditite](../pokedex/pokemon/meditite.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `30 HP / 40 Atk / 55 Def / 40 SAtk / 55 SDef / 60 Spd / 280 BST` | `30 HP / 40 Atk / 55 Def / 60 SAtk / 55 SDef / 60 Spd / 300 BST` |
 
@@ -11357,7 +11971,9 @@ Now evolves into Medicham at Level 33.
 
 	**#308 [Medicham](../pokedex/pokemon/medicham.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `60 HP / 60 Atk / 75 Def / 60 SAtk / 75 SDef / 80 Spd / 410 BST` | `60 HP / 60 Atk / 80 Def / 80 SAtk / 80 SDef / 90 Spd / 450 BST` |
 
@@ -11397,7 +12013,9 @@ Now evolves into Medicham at Level 33.
 
 	**#309 [Electrike](../pokedex/pokemon/electrike.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -11431,7 +12049,9 @@ Now evolves into Medicham at Level 33.
 
 	**#310 [Manectric](../pokedex/pokemon/manectric.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -11465,7 +12085,9 @@ Now evolves into Medicham at Level 33.
 
 	**#311 [Plusle](../pokedex/pokemon/plusle.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Plus](../pokedex/abilities/plus.md) | [Plus](../pokedex/abilities/plus.md) / [Lightning Rod](../pokedex/abilities/lightning-rod.md) |
 
@@ -11505,7 +12127,9 @@ Now evolves into Medicham at Level 33.
 
 	**#312 [Minun](../pokedex/pokemon/minun.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Minus](../pokedex/abilities/minus.md) | [Minus](../pokedex/abilities/minus.md) / [Volt Absorb](../pokedex/abilities/volt-absorb.md) |
 
@@ -11545,7 +12169,9 @@ Now evolves into Medicham at Level 33.
 
 	**#313 [Volbeat](../pokedex/pokemon/volbeat.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Illuminate](../pokedex/abilities/illuminate.md) / [Swarm](../pokedex/abilities/swarm.md) | [Swarm](../pokedex/abilities/swarm.md) / [Illuminate](../pokedex/abilities/illuminate.md) |
 
@@ -11590,7 +12216,9 @@ Now evolves into Medicham at Level 33.
 
 	**#314 [Illumise](../pokedex/pokemon/illumise.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Oblivious](../pokedex/abilities/oblivious.md) / [Tinted Lens](../pokedex/abilities/tinted-lens.md) | [Tinted Lens](../pokedex/abilities/tinted-lens.md) / [Oblivious](../pokedex/abilities/oblivious.md) |
 
@@ -11635,7 +12263,9 @@ Now evolves into Medicham at Level 33.
 
 	**#315 [Roselia](../pokedex/pokemon/roselia.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Natural Cure](../pokedex/abilities/natural-cure.md) / [Poison Point](../pokedex/abilities/poison-point.md) | [Poison Point](../pokedex/abilities/poison-point.md) / [Natural Cure](../pokedex/abilities/natural-cure.md) |
 
@@ -11675,7 +12305,9 @@ Now evolves into Medicham at Level 33.
 
 	**#316 [Gulpin](../pokedex/pokemon/gulpin.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -11707,7 +12339,9 @@ Now evolves into Medicham at Level 33.
 
 	**#317 [Swalot](../pokedex/pokemon/swalot.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -11742,7 +12376,9 @@ Now evolves into Medicham at Level 33.
 
 	**#318 [Carvanha](../pokedex/pokemon/carvanha.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Rough Skin](../pokedex/abilities/rough-skin.md) | [Speed Boost](../pokedex/abilities/speed-boost.md) / [Rough Skin](../pokedex/abilities/rough-skin.md) |
 
@@ -11778,7 +12414,9 @@ Now evolves into Medicham at Level 33.
 
 	**#319 [Sharpedo](../pokedex/pokemon/sharpedo.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Rough Skin](../pokedex/abilities/rough-skin.md) | [Speed Boost](../pokedex/abilities/speed-boost.md) / [Rough Skin](../pokedex/abilities/rough-skin.md) |
 
@@ -11818,7 +12456,9 @@ Now evolves into Medicham at Level 33.
 
 	**#320 [Wailmer](../pokedex/pokemon/wailmer.md)**
 
-</div>**Evolution**:
+</div>
+
+**Evolution**:
 
 Now evolves into Wailord at Level 36.
 
@@ -11857,7 +12497,9 @@ Now evolves into Wailord at Level 36.
 
 	**#321 [Wailord](../pokedex/pokemon/wailord.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -11892,7 +12534,9 @@ Now evolves into Wailord at Level 36.
 
 	**#322 [Numel](../pokedex/pokemon/numel.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Oblivious](../pokedex/abilities/oblivious.md) / [Simple](../pokedex/abilities/simple.md) | [Simple](../pokedex/abilities/simple.md) / [Oblivious](../pokedex/abilities/oblivious.md) |
 
@@ -11926,7 +12570,9 @@ Now evolves into Wailord at Level 36.
 
 	**#323 [Camerupt](../pokedex/pokemon/camerupt.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Magma Armor](../pokedex/abilities/magma-armor.md) / [Solid Rock](../pokedex/abilities/solid-rock.md) | [Solid Rock](../pokedex/abilities/solid-rock.md) / [Magma Armor](../pokedex/abilities/magma-armor.md) |
 
@@ -11963,7 +12609,9 @@ Now evolves into Wailord at Level 36.
 
 	**#324 [Torkoal](../pokedex/pokemon/torkoal.md)**
 
-</div>Ability
+</div>
+
+Ability
  White Smoke / Drought | Drought / White Smoke |
 
 **Level Up**:
@@ -11999,7 +12647,9 @@ Now evolves into Wailord at Level 36.
 
 	**#325 [Spoink](../pokedex/pokemon/spoink.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -12033,7 +12683,9 @@ Now evolves into Wailord at Level 36.
 
 	**#326 [Grumpig](../pokedex/pokemon/grumpig.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -12068,7 +12720,9 @@ Now evolves into Wailord at Level 36.
 
 	**#327 [Spinda](../pokedex/pokemon/spinda.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `60 HP / 60 Atk / 60 Def / 60 SAtk / 60 SDef / 60 Spd / 360 BST` | `75 HP / 75 Atk / 75 Def / 75 SAtk / 75 SDef / 75 Spd / 450 BST` |
 
@@ -12108,7 +12762,9 @@ Now evolves into Wailord at Level 36.
 
 	**#328 [Trapinch](../pokedex/pokemon/trapinch.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Hyper Cutter](../pokedex/abilities/hyper-cutter.md) / [Arena Trap](../pokedex/abilities/arena-trap.md) | [Hyper Cutter](../pokedex/abilities/hyper-cutter.md) / [Arena Trap](../pokedex/abilities/arena-trap.md) |
 
@@ -12155,7 +12811,9 @@ Now evolves into Vibrava at Level 30.
 
 	**#329 [Vibrava](../pokedex/pokemon/vibrava.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Levitate](../pokedex/abilities/levitate.md) / [Levitate](../pokedex/abilities/levitate.md) | [Compound Eyes](../pokedex/abilities/compound-eyes.md) / [Levitate](../pokedex/abilities/levitate.md) |
 
@@ -12207,7 +12865,9 @@ Now evolves into Vibrava at Level 30.
 
 	**#330 [Flygon](../pokedex/pokemon/flygon.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Levitate](../pokedex/abilities/levitate.md) / [Levitate](../pokedex/abilities/levitate.md) | [Compound Eyes](../pokedex/abilities/compound-eyes.md) / [Levitate](../pokedex/abilities/levitate.md) |
 
@@ -12262,7 +12922,9 @@ Now evolves into Vibrava at Level 30.
 
 	**#331 [Cacnea](../pokedex/pokemon/cacnea.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Sand Veil](../pokedex/abilities/sand-veil.md) | [Water Absorb](../pokedex/abilities/water-absorb.md) / [Sand Veil](../pokedex/abilities/sand-veil.md) |
 
@@ -12301,7 +12963,9 @@ Now evolves into Vibrava at Level 30.
 
 	**#332 [Cacturne](../pokedex/pokemon/cacturne.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Sand Veil](../pokedex/abilities/sand-veil.md) | [Water Absorb](../pokedex/abilities/water-absorb.md) / [Sand Veil](../pokedex/abilities/sand-veil.md) |
 
@@ -12341,7 +13005,9 @@ Now evolves into Vibrava at Level 30.
 
 	**#333 [Swablu](../pokedex/pokemon/swablu.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Natural Cure](../pokedex/abilities/natural-cure.md) | [Cloud Nine](../pokedex/abilities/cloud-nine.md) / [Natural Cure](../pokedex/abilities/natural-cure.md) |
 
@@ -12386,7 +13052,9 @@ Now evolves into Vibrava at Level 30.
 
 	**#334 [Altaria](../pokedex/pokemon/altaria.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Natural Cure](../pokedex/abilities/natural-cure.md) | [Cloud Nine](../pokedex/abilities/cloud-nine.md) / [Natural Cure](../pokedex/abilities/natural-cure.md) |
 
@@ -12434,7 +13102,9 @@ Now evolves into Vibrava at Level 30.
 
 	**#335 [Zangoose](../pokedex/pokemon/zangoose.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `73 HP / 115 Atk / 60 Def / 60 SAtk / 60 SDef / 90 Spd / 458 BST` | `75 HP / 115 Atk / 60 Def / 60 SAtk / 60 SDef / 95 Spd / 465 BST` |
 
@@ -12472,7 +13142,9 @@ Now evolves into Vibrava at Level 30.
 
 	**#336 [Seviper](../pokedex/pokemon/seviper.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `73 HP / 100 Atk / 60 Def / 100 SAtk / 60 SDef / 65 Spd / 458 BST` | `75 HP / 115 Atk / 60 Def / 80 SAtk / 60 SDef / 75 Spd / 465 BST` |
 
@@ -12511,7 +13183,9 @@ Now evolves into Vibrava at Level 30.
 
 	**#337 [Lunatone](../pokedex/pokemon/lunatone.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `90 HP / 55 Atk / 65 Def / 95 SAtk / 85 SDef / 70 Spd / 460 BST` | `90 HP / 55 Atk / 65 Def / 100 SAtk / 85 SDef / 70 Spd / 465 BST` |
 
@@ -12548,7 +13222,9 @@ Now evolves into Vibrava at Level 30.
 
 	**#338 [Solrock](../pokedex/pokemon/solrock.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `90 HP / 95 Atk / 85 Def / 55 SAtk / 65 SDef / 70 Spd / 460 BST` | `90 HP / 100 Atk / 85 Def / 55 SAtk / 65 SDef / 70 Spd / 465 BST` |
 
@@ -12584,7 +13260,9 @@ Now evolves into Vibrava at Level 30.
 
 	**#339 [Barboach](../pokedex/pokemon/barboach.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -12617,7 +13295,9 @@ Now evolves into Vibrava at Level 30.
 
 	**#340 [Whiscash](../pokedex/pokemon/whiscash.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -12653,7 +13333,9 @@ Now evolves into Vibrava at Level 30.
 
 	**#341 [Corphish](../pokedex/pokemon/corphish.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Hyper Cutter](../pokedex/abilities/hyper-cutter.md) / [Shell Armor](../pokedex/abilities/shell-armor.md) | [Adaptability](../pokedex/abilities/adaptability.md) / [Hyper Cutter](../pokedex/abilities/hyper-cutter.md) |
 
@@ -12691,7 +13373,9 @@ Now evolves into Vibrava at Level 30.
 
 	**#342 [Crawdaunt](../pokedex/pokemon/crawdaunt.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Hyper Cutter](../pokedex/abilities/hyper-cutter.md) / [Shell Armor](../pokedex/abilities/shell-armor.md) | [Adaptability](../pokedex/abilities/adaptability.md) / [Hyper Cutter](../pokedex/abilities/hyper-cutter.md) |
 
@@ -12730,7 +13414,9 @@ Now evolves into Vibrava at Level 30.
 
 	**#343 [Baltoy](../pokedex/pokemon/baltoy.md)**
 
-</div>**Evolution**:
+</div>
+
+**Evolution**:
 
 Now evolves into Claydol at Level 32.
 
@@ -12767,7 +13453,9 @@ Now evolves into Claydol at Level 32.
 
 	**#344 [Claydol](../pokedex/pokemon/claydol.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md)</span>. (!!)
 
@@ -12807,7 +13495,9 @@ Now evolves into Claydol at Level 32.
 
 	**#345 [Lileep](../pokedex/pokemon/lileep.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Suction Cups](../pokedex/abilities/suction-cups.md) | [Suction Cups](../pokedex/abilities/suction-cups.md) / [Storm Drain](../pokedex/abilities/storm-drain.md) |
 
@@ -12848,7 +13538,9 @@ Now evolves into Cradily at Level 30.
 
 	**#346 [Cradily](../pokedex/pokemon/cradily.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Suction Cups](../pokedex/abilities/suction-cups.md) | [Suction Cups](../pokedex/abilities/suction-cups.md) / [Storm Drain](../pokedex/abilities/storm-drain.md) |
 
@@ -12886,7 +13578,9 @@ Now evolves into Cradily at Level 30.
 
 	**#347 [Anorith](../pokedex/pokemon/anorith.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Battle Armor](../pokedex/abilities/battle-armor.md) | [Battle Armor](../pokedex/abilities/battle-armor.md) / [Swift Swim](../pokedex/abilities/swift-swim.md) |
 
@@ -12930,7 +13624,9 @@ Now evolves into Armaldo at Level 30.
 
 	**#348 [Armaldo](../pokedex/pokemon/armaldo.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Battle Armor](../pokedex/abilities/battle-armor.md) | [Battle Armor](../pokedex/abilities/battle-armor.md) / [Swift Swim](../pokedex/abilities/swift-swim.md) |
 
@@ -12972,7 +13668,9 @@ Now evolves into Armaldo at Level 30.
 
 	**#349 [Feebas](../pokedex/pokemon/feebas.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Swift Swim](../pokedex/abilities/swift-swim.md) | [Swift Swim](../pokedex/abilities/swift-swim.md) / [Adaptability](../pokedex/abilities/adaptability.md) |
 
@@ -12999,7 +13697,9 @@ Now evolves into Armaldo at Level 30.
 
 	**#350 [Milotic](../pokedex/pokemon/milotic.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Marvel Scale](../pokedex/abilities/marvel-scale.md) | [Marvel Scale](../pokedex/abilities/marvel-scale.md) / [Cute Charm](../pokedex/abilities/cute-charm.md) |
 
@@ -13045,7 +13745,9 @@ Now evolves into Armaldo at Level 30.
 
 	**#351 [Castform](../pokedex/pokemon/castform.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `70 HP / 70 Atk / 70 Def / 70 SAtk / 70 SDef / 70 Spd / 420 BST` | `60 HP / 60 Atk / 60 Def / 105 SAtk / 70 SDef / 95 Spd / 450 BST` |
 
@@ -13081,7 +13783,9 @@ Now evolves into Armaldo at Level 30.
 
 	**#352 [Kecleon](../pokedex/pokemon/kecleon.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `60 HP / 90 Atk / 70 Def / 60 SAtk / 120 SDef / 40 Spd / 440 BST` | `60 HP / 100 Atk / 70 Def / 60 SAtk / 120 SDef / 40 Spd / 450 BST` |
 
@@ -13121,7 +13825,9 @@ Now evolves into Armaldo at Level 30.
 
 	**#353 [Shuppet](../pokedex/pokemon/shuppet.md)**
 
-</div>**Evolution**:
+</div>
+
+**Evolution**:
 
 Now evolves into Banette at Level 32.
 
@@ -13158,7 +13864,9 @@ Now evolves into Banette at Level 32.
 
 	**#354 [Banette](../pokedex/pokemon/banette.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `64 HP / 115 Atk / 65 Def / 83 SAtk / 63 SDef / 65 Spd / 455 BST` | `64 HP / 125 Atk / 65 Def / 93 SAtk / 63 SDef / 65 Spd / 475 BST` |
 
@@ -13196,7 +13904,9 @@ Now evolves into Banette at Level 32.
 
 	**#355 [Duskull](../pokedex/pokemon/duskull.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Levitate](../pokedex/abilities/levitate.md) | [Levitate](../pokedex/abilities/levitate.md) / [Frisk](../pokedex/abilities/frisk.md) |
 
@@ -13236,7 +13946,9 @@ Now evolves into Dusclops at Level 32.
 
 	**#356 [Dusclops](../pokedex/pokemon/dusclops.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Pressure](../pokedex/abilities/pressure.md) | [Frisk](../pokedex/abilities/frisk.md) / [Pressure](../pokedex/abilities/pressure.md) |
 
@@ -13282,7 +13994,9 @@ Now evolves into Dusclops at Level 32.
 
 	**#357 [Tropius](../pokedex/pokemon/tropius.md)**
 
-</div>**Base Experience (Complete)**:
+</div>
+
+**Base Experience (Complete)**:
 
  169 | 219 |
 
@@ -13331,7 +14045,9 @@ Now evolves into Dusclops at Level 32.
 
 	**#358 [Chimecho](../pokedex/pokemon/chimecho.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `75 HP / 50 Atk / 80 Def / 95 SAtk / 90 SDef / 65 Spd / 455 BST` | `75 HP / 40 Atk / 80 Def / 110 SAtk / 100 SDef / 65 Spd / 470 BST` |
 
@@ -13369,7 +14085,9 @@ Now evolves into Dusclops at Level 32.
 
 	**#359 [Absol](../pokedex/pokemon/absol.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Pressure](../pokedex/abilities/pressure.md) / [Super Luck](../pokedex/abilities/super-luck.md) | [Super Luck](../pokedex/abilities/super-luck.md) / [Pressure](../pokedex/abilities/pressure.md) |
 
@@ -13411,7 +14129,9 @@ Now evolves into Dusclops at Level 32.
 
 	**#360 [Wynaut](../pokedex/pokemon/wynaut.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -13433,7 +14153,9 @@ Now evolves into Dusclops at Level 32.
 
 	**#361 [Snorunt](../pokedex/pokemon/snorunt.md)**
 
-</div>**Evolution**:
+</div>
+
+**Evolution**:
 
 Now evolves into Glalie at Level 32.
 
@@ -13468,7 +14190,9 @@ Now evolves into Glalie at Level 32.
 
 	**#362 [Glalie](../pokedex/pokemon/glalie.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Inner Focus](../pokedex/abilities/inner-focus.md) / [Ice Body](../pokedex/abilities/ice-body.md) | [Levitate](../pokedex/abilities/levitate.md) / [Ice Body](../pokedex/abilities/ice-body.md) |
 
@@ -13521,7 +14245,9 @@ Now evolves into Glalie at Level 32.
 
 	**#363 [Spheal](../pokedex/pokemon/spheal.md)**
 
-</div>**Evolution**:
+</div>
+
+**Evolution**:
 
 Now evolves into Sealeo at Level 24.
 
@@ -13558,7 +14284,9 @@ Now evolves into Sealeo at Level 24.
 
 	**#364 [Sealeo](../pokedex/pokemon/sealeo.md)**
 
-</div>**Evolution**:
+</div>
+
+**Evolution**:
 
 Now evolves into Walrein at Level 40.
 
@@ -13596,7 +14324,9 @@ Now evolves into Walrein at Level 40.
 
 	**#365 [Walrein](../pokedex/pokemon/walrein.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -13632,7 +14362,9 @@ Now evolves into Walrein at Level 40.
 
 	**#366 [Clamperl](../pokedex/pokemon/clamperl.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Shell Armor](../pokedex/abilities/shell-armor.md) | [Shell Armor](../pokedex/abilities/shell-armor.md) / [Battle Armor](../pokedex/abilities/battle-armor.md) |
 
@@ -13664,7 +14396,9 @@ Now evolves into Walrein at Level 40.
 
 	**#367 [Huntail](../pokedex/pokemon/huntail.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Swift Swim](../pokedex/abilities/swift-swim.md) | [Swift Swim](../pokedex/abilities/swift-swim.md) / [Water Veil](../pokedex/abilities/water-veil.md) |
 
@@ -13699,7 +14433,9 @@ Now evolves into Walrein at Level 40.
 
 	**#368 [Gorebyss](../pokedex/pokemon/gorebyss.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Swift Swim](../pokedex/abilities/swift-swim.md) | [Swift Swim](../pokedex/abilities/swift-swim.md) / [Hydration](../pokedex/abilities/hydration.md) |
 
@@ -13734,7 +14470,9 @@ Now evolves into Walrein at Level 40.
 
 	**#369 [Relicanth](../pokedex/pokemon/relicanth.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Swift Swim](../pokedex/abilities/swift-swim.md) / [Rock Head](../pokedex/abilities/rock-head.md) | [Rock Head](../pokedex/abilities/rock-head.md) / [Swift Swim](../pokedex/abilities/swift-swim.md) |
 
@@ -13774,7 +14512,9 @@ Now evolves into Walrein at Level 40.
 
 	**#370 [Luvdisc](../pokedex/pokemon/luvdisc.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Swift Swim](../pokedex/abilities/swift-swim.md) | [Swift Swim](../pokedex/abilities/swift-swim.md) / [Hydration](../pokedex/abilities/hydration.md) |
 
@@ -13819,7 +14559,9 @@ Now evolves into Walrein at Level 40.
 
 	**#371 [Bagon](../pokedex/pokemon/bagon.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -13852,7 +14594,9 @@ Now evolves into Walrein at Level 40.
 
 	**#372 [Shelgon](../pokedex/pokemon/shelgon.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -13885,7 +14629,9 @@ Now evolves into Walrein at Level 40.
 
 	**#373 [Salamence](../pokedex/pokemon/salamence.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 
@@ -13925,7 +14671,9 @@ Now evolves into Walrein at Level 40.
 
 	**#374 [Beldum](../pokedex/pokemon/beldum.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Clear Body](../pokedex/abilities/clear-body.md) | [Rock Head](../pokedex/abilities/rock-head.md) / [Clear Body](../pokedex/abilities/clear-body.md) |
 
@@ -13950,7 +14698,9 @@ Now evolves into Walrein at Level 40.
 
 	**#375 [Metang](../pokedex/pokemon/metang.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Clear Body](../pokedex/abilities/clear-body.md) | [Iron Fist](../pokedex/abilities/iron-fist.md) / [Clear Body](../pokedex/abilities/clear-body.md) |
 
@@ -13992,7 +14742,9 @@ Now evolves into Walrein at Level 40.
 
 	**#376 [Metagross](../pokedex/pokemon/metagross.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Clear Body](../pokedex/abilities/clear-body.md) | [Iron Fist](../pokedex/abilities/iron-fist.md) / [Clear Body](../pokedex/abilities/clear-body.md) |
 
@@ -14037,7 +14789,9 @@ Now evolves into Walrein at Level 40.
 
 	**#377 [Regirock](../pokedex/pokemon/regirock.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -14068,7 +14822,9 @@ Now evolves into Walrein at Level 40.
 
 	**#378 [Regice](../pokedex/pokemon/regice.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -14099,7 +14855,9 @@ Now evolves into Walrein at Level 40.
 
 	**#379 [Registeel](../pokedex/pokemon/registeel.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -14132,7 +14890,9 @@ Now evolves into Walrein at Level 40.
 
 	**#380 [Latias](../pokedex/pokemon/latias.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -14163,7 +14923,9 @@ Now evolves into Walrein at Level 40.
 
 	**#381 [Latios](../pokedex/pokemon/latios.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -14194,7 +14956,9 @@ Now evolves into Walrein at Level 40.
 
 	**#382 [Kyogre](../pokedex/pokemon/kyogre.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -14223,7 +14987,9 @@ Now evolves into Walrein at Level 40.
 
 	**#383 [Groudon](../pokedex/pokemon/groudon.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -14252,7 +15018,9 @@ Now evolves into Walrein at Level 40.
 
 	**#384 [Rayquaza](../pokedex/pokemon/rayquaza.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -14280,7 +15048,9 @@ Now evolves into Walrein at Level 40.
 
 	**#385 [Jirachi](../pokedex/pokemon/jirachi.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -14313,7 +15083,9 @@ Now evolves into Walrein at Level 40.
 
 	**#386 [Deoxys Normal](../pokedex/pokemon/deoxys-normal.md)**
 
-</div>**Level Up (Normal Forme)**:
+</div>
+
+**Level Up (Normal Forme)**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -14401,7 +15173,9 @@ Now evolves into Walrein at Level 40.
 
 	**#387 [Turtwig](../pokedex/pokemon/turtwig.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Overgrow](../pokedex/abilities/overgrow.md) | [Overgrow](../pokedex/abilities/overgrow.md) / [Shell Armor](../pokedex/abilities/shell-armor.md) |
 
@@ -14435,7 +15209,9 @@ Now evolves into Walrein at Level 40.
 
 	**#388 [Grotle](../pokedex/pokemon/grotle.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Overgrow](../pokedex/abilities/overgrow.md) | [Overgrow](../pokedex/abilities/overgrow.md) / [Shell Armor](../pokedex/abilities/shell-armor.md) |
 
@@ -14470,7 +15246,9 @@ Now evolves into Walrein at Level 40.
 
 	**#389 [Torterra](../pokedex/pokemon/torterra.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Overgrow](../pokedex/abilities/overgrow.md) | [Overgrow](../pokedex/abilities/overgrow.md) / [Shell Armor](../pokedex/abilities/shell-armor.md) |
 
@@ -14511,7 +15289,9 @@ Now evolves into Walrein at Level 40.
 
 	**#390 [Chimchar](../pokedex/pokemon/chimchar.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Blaze](../pokedex/abilities/blaze.md) | [Iron Fist](../pokedex/abilities/iron-fist.md) / [Blaze](../pokedex/abilities/blaze.md) |
 
@@ -14545,7 +15325,9 @@ Now evolves into Walrein at Level 40.
 
 	**#391 [Monferno](../pokedex/pokemon/monferno.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Blaze](../pokedex/abilities/blaze.md) | [Iron Fist](../pokedex/abilities/iron-fist.md) / [Blaze](../pokedex/abilities/blaze.md) |
 
@@ -14584,7 +15366,9 @@ Now evolves into Walrein at Level 40.
 
 	**#392 [Infernape](../pokedex/pokemon/infernape.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Blaze](../pokedex/abilities/blaze.md) | [Iron Fist](../pokedex/abilities/iron-fist.md) / [Blaze](../pokedex/abilities/blaze.md) |
 
@@ -14628,7 +15412,9 @@ Now evolves into Walrein at Level 40.
 
 	**#393 [Piplup](../pokedex/pokemon/piplup.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Torrent](../pokedex/abilities/torrent.md) | [Torrent](../pokedex/abilities/torrent.md) / [Vital Spirit](../pokedex/abilities/vital-spirit.md) |
 
@@ -14662,7 +15448,9 @@ Now evolves into Walrein at Level 40.
 
 	**#394 [Prinplup](../pokedex/pokemon/prinplup.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Torrent](../pokedex/abilities/torrent.md) | [Torrent](../pokedex/abilities/torrent.md) / [Vital Spirit](../pokedex/abilities/vital-spirit.md) |
 
@@ -14697,7 +15485,9 @@ Now evolves into Walrein at Level 40.
 
 	**#395 [Empoleon](../pokedex/pokemon/empoleon.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Torrent](../pokedex/abilities/torrent.md) | [Torrent](../pokedex/abilities/torrent.md) / [Vital Spirit](../pokedex/abilities/vital-spirit.md) |
 
@@ -14738,7 +15528,9 @@ Now evolves into Walrein at Level 40.
 
 	**#396 [Starly](../pokedex/pokemon/starly.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Keen Eye](../pokedex/abilities/keen-eye.md) | [Reckless](../pokedex/abilities/reckless.md) / [Keen Eye](../pokedex/abilities/keen-eye.md) |
 
@@ -14776,7 +15568,9 @@ Now evolves into Walrein at Level 40.
 
 	**#397 [Staravia](../pokedex/pokemon/staravia.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Intimidate](../pokedex/abilities/intimidate.md) | [Reckless](../pokedex/abilities/reckless.md) / [Intimidate](../pokedex/abilities/intimidate.md) |
 
@@ -14814,7 +15608,9 @@ Now evolves into Walrein at Level 40.
 
 	**#398 [Staraptor](../pokedex/pokemon/staraptor.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Intimidate](../pokedex/abilities/intimidate.md) | [Reckless](../pokedex/abilities/reckless.md) / [Intimidate](../pokedex/abilities/intimidate.md) |
 
@@ -14855,7 +15651,9 @@ Now evolves into Walrein at Level 40.
 
 	**#399 [Bidoof](../pokedex/pokemon/bidoof.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM75](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM75](../pokedex/items/tm75.md), [Swords Dance](../pokedex/moves/swords-dance.md)</span>.
 
@@ -14890,7 +15688,9 @@ Now evolves into Walrein at Level 40.
 
 	**#400 [Bibarel](../pokedex/pokemon/bibarel.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `79 HP / 85 Atk / 60 Def / 55 SAtk / 60 SDef / 71 Spd / 410 BST` | `94 HP / 100 Atk / 65 Def / 55 SAtk / 65 SDef / 71 Spd / 450 BST` |
 
@@ -14931,7 +15731,9 @@ Now evolves into Walrein at Level 40.
 
 	**#401 [Kricketot](../pokedex/pokemon/kricketot.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Shed Skin](../pokedex/abilities/shed-skin.md) | [Run Away](../pokedex/abilities/run-away.md) / [Shed Skin](../pokedex/abilities/shed-skin.md) |
 
@@ -14956,7 +15758,9 @@ Now evolves into Walrein at Level 40.
 
 	**#402 [Kricketune](../pokedex/pokemon/kricketune.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Swarm](../pokedex/abilities/swarm.md) | [Technician](../pokedex/abilities/technician.md) / [Swarm](../pokedex/abilities/swarm.md) |
 
@@ -15002,7 +15806,9 @@ Now evolves into Walrein at Level 40.
 
 	**#403 [Shinx](../pokedex/pokemon/shinx.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Rivalry](../pokedex/abilities/rivalry.md) / [Intimidate](../pokedex/abilities/intimidate.md) | [Intimidate](../pokedex/abilities/intimidate.md) / [Guts](../pokedex/abilities/guts.md) |
 
@@ -15039,7 +15845,9 @@ Now evolves into Walrein at Level 40.
 
 	**#404 [Luxio](../pokedex/pokemon/luxio.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Rivalry](../pokedex/abilities/rivalry.md) / [Intimidate](../pokedex/abilities/intimidate.md) | [Intimidate](../pokedex/abilities/intimidate.md) / [Guts](../pokedex/abilities/guts.md) |
 
@@ -15076,7 +15884,9 @@ Now evolves into Walrein at Level 40.
 
 	**#405 [Luxray](../pokedex/pokemon/luxray.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Rivalry](../pokedex/abilities/rivalry.md) / [Intimidate](../pokedex/abilities/intimidate.md) | [Intimidate](../pokedex/abilities/intimidate.md) / [Guts](../pokedex/abilities/guts.md) |
 
@@ -15120,7 +15930,9 @@ Now evolves into Walrein at Level 40.
 
 	**#406 [Budew](../pokedex/pokemon/budew.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Natural Cure](../pokedex/abilities/natural-cure.md) / [Poison Point](../pokedex/abilities/poison-point.md) | [Poison Point](../pokedex/abilities/poison-point.md) / [Natural Cure](../pokedex/abilities/natural-cure.md) |
 
@@ -15155,7 +15967,9 @@ Now evolves into Roselia when happy regardless of the time.
 
 	**#407 [Roserade](../pokedex/pokemon/roserade.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Natural Cure](../pokedex/abilities/natural-cure.md) / [Poison Point](../pokedex/abilities/poison-point.md) | [Technician](../pokedex/abilities/technician.md) / [Natural Cure](../pokedex/abilities/natural-cure.md) |
 
@@ -15180,7 +15994,9 @@ Now evolves into Roselia when happy regardless of the time.
 
 	**#408 [Cranidos](../pokedex/pokemon/cranidos.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Mold Breaker](../pokedex/abilities/mold-breaker.md) | [Rock Head](../pokedex/abilities/rock-head.md) / [Mold Breaker](../pokedex/abilities/mold-breaker.md) |
 
@@ -15216,7 +16032,9 @@ Now evolves into Roselia when happy regardless of the time.
 
 	**#409 [Rampardos](../pokedex/pokemon/rampardos.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Mold Breaker](../pokedex/abilities/mold-breaker.md) | [Rock Head](../pokedex/abilities/rock-head.md) / [Mold Breaker](../pokedex/abilities/mold-breaker.md) |
 
@@ -15254,7 +16072,9 @@ Now evolves into Roselia when happy regardless of the time.
 
 	**#410 [Shieldon](../pokedex/pokemon/shieldon.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Sturdy](../pokedex/abilities/sturdy.md) | [Soundproof](../pokedex/abilities/soundproof.md) / [Sturdy](../pokedex/abilities/sturdy.md) |
 
@@ -15292,7 +16112,9 @@ Now evolves into Roselia when happy regardless of the time.
 
 	**#411 [Bastiodon](../pokedex/pokemon/bastiodon.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Sturdy](../pokedex/abilities/sturdy.md) | [Soundproof](../pokedex/abilities/soundproof.md) / [Sturdy](../pokedex/abilities/sturdy.md) |
 
@@ -15332,7 +16154,9 @@ Now evolves into Roselia when happy regardless of the time.
 
 	**#412 [Burmy](../pokedex/pokemon/burmy.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Shed Skin](../pokedex/abilities/shed-skin.md) | [Battle Armor](../pokedex/abilities/battle-armor.md) / [Shed Skin](../pokedex/abilities/shed-skin.md) |
 
@@ -15359,7 +16183,9 @@ Now evolves into Roselia when happy regardless of the time.
 
 	**#413 [Wormadam Plant](../pokedex/pokemon/wormadam-plant.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Anticipation](../pokedex/abilities/anticipation.md) | [Battle Armor](../pokedex/abilities/battle-armor.md) / [Anticipation](../pokedex/abilities/anticipation.md) |
 
@@ -15452,7 +16278,9 @@ Now evolves into Roselia when happy regardless of the time.
 
 	**#414 [Mothim](../pokedex/pokemon/mothim.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Swarm](../pokedex/abilities/swarm.md) | [Tinted Lens](../pokedex/abilities/tinted-lens.md) / [Swarm](../pokedex/abilities/swarm.md) |
 
@@ -15494,7 +16322,9 @@ Now evolves into Roselia when happy regardless of the time.
 
 	**#415 [Combee](../pokedex/pokemon/combee.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Honey Gather](../pokedex/abilities/honey-gather.md) | [Hustle](../pokedex/abilities/hustle.md) / [Honey Gather](../pokedex/abilities/honey-gather.md) |
 
@@ -15521,7 +16351,9 @@ Now evolves into Roselia when happy regardless of the time.
 
 	**#416 [Vespiquen](../pokedex/pokemon/vespiquen.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Pressure](../pokedex/abilities/pressure.md) | [Intimidate](../pokedex/abilities/intimidate.md) / [Pressure](../pokedex/abilities/pressure.md) |
 
@@ -15566,7 +16398,9 @@ Now compatible with HM02, Fly. (!!)
 
 	**#417 [Pachirisu](../pokedex/pokemon/pachirisu.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Run Away](../pokedex/abilities/run-away.md) / [Pickup](../pokedex/abilities/pickup.md) | [Volt Absorb](../pokedex/abilities/volt-absorb.md) / [Pickup](../pokedex/abilities/pickup.md) |
 
@@ -15605,7 +16439,9 @@ Now compatible with HM02, Fly. (!!)
 
 	**#418 [Buizel](../pokedex/pokemon/buizel.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Swift Swim](../pokedex/abilities/swift-swim.md) | [Swift Swim](../pokedex/abilities/swift-swim.md) / [Water Veil](../pokedex/abilities/water-veil.md) |
 
@@ -15639,7 +16475,9 @@ Now compatible with HM02, Fly. (!!)
 
 	**#419 [Floatzel](../pokedex/pokemon/floatzel.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Swift Swim](../pokedex/abilities/swift-swim.md) | [Swift Swim](../pokedex/abilities/swift-swim.md) / [Water Veil](../pokedex/abilities/water-veil.md) |
 
@@ -15674,7 +16512,9 @@ Now compatible with HM02, Fly. (!!)
 
 	**#420 [Cherubi](../pokedex/pokemon/cherubi.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -15704,7 +16544,9 @@ Now compatible with HM02, Fly. (!!)
 
 	**#421 [Cherrim](../pokedex/pokemon/cherrim.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `70 HP / 60 Atk / 70 Def / 87 SAtk / 78 SDef / 85 Spd / 450 BST` | `70 HP / 45 Atk / 70 Def / 107 SAtk / 83 SDef / 90 Spd / 465 BST` |
 
@@ -15740,7 +16582,9 @@ Now compatible with HM02, Fly. (!!)
 
 	**#422 [Shellos](../pokedex/pokemon/shellos.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -15772,7 +16616,9 @@ Now compatible with HM02, Fly. (!!)
 
 	**#423 [Gastrodon](../pokedex/pokemon/gastrodon.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -15805,7 +16651,9 @@ Now compatible with HM02, Fly. (!!)
 
 	**#424 [Ambipom](../pokedex/pokemon/ambipom.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -15839,7 +16687,9 @@ Now compatible with HM02, Fly. (!!)
 
 	**#425 [Drifloon](../pokedex/pokemon/drifloon.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Aftermath](../pokedex/abilities/aftermath.md) / [Unburden](../pokedex/abilities/unburden.md) | [Unburden](../pokedex/abilities/unburden.md) / [Aftermath](../pokedex/abilities/aftermath.md) |
 
@@ -15880,7 +16730,9 @@ Now compatible with HM02, Fly. (!!)
 
 	**#426 [Drifblim](../pokedex/pokemon/drifblim.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Aftermath](../pokedex/abilities/aftermath.md) / [Unburden](../pokedex/abilities/unburden.md) | [Unburden](../pokedex/abilities/unburden.md) / [Aftermath](../pokedex/abilities/aftermath.md) |
 
@@ -15923,7 +16775,9 @@ Now compatible with HM02, Fly. (!!)
 
 	**#427 [Buneary](../pokedex/pokemon/buneary.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Run Away](../pokedex/abilities/run-away.md) / [Klutz](../pokedex/abilities/klutz.md) | [Limber](../pokedex/abilities/limber.md) / [Run Away](../pokedex/abilities/run-away.md) |
 
@@ -15960,7 +16814,9 @@ Now compatible with HM02, Fly. (!!)
 
 	**#428 [Lopunny](../pokedex/pokemon/lopunny.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Cute Charm](../pokedex/abilities/cute-charm.md) / [Klutz](../pokedex/abilities/klutz.md) | [Scrappy](../pokedex/abilities/scrappy.md) / [Cute Charm](../pokedex/abilities/cute-charm.md) |
 
@@ -16006,7 +16862,9 @@ Now compatible with HM02, Fly. (!!)
 
 	**#429 [Mismagius](../pokedex/pokemon/mismagius.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> | <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> |
 
@@ -16035,7 +16893,9 @@ Now compatible with HM02, Fly. (!!)
 
 	**#430 [Honchkrow](../pokedex/pokemon/honchkrow.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Insomnia](../pokedex/abilities/insomnia.md) / [Super Luck](../pokedex/abilities/super-luck.md) | [Super Luck](../pokedex/abilities/super-luck.md) / [Insomnia](../pokedex/abilities/insomnia.md) |
 
@@ -16068,7 +16928,9 @@ Now compatible with HM02, Fly. (!!)
 
 	**#431 [Glameow](../pokedex/pokemon/glameow.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `49 HP / 55 Atk / 42 Def / 42 SAtk / 37 SDef / 85 Spd / 310 BST` | `50 HP / 65 Atk / 45 Def / 45 SAtk / 40 SDef / 90 Spd / 335 BST` |
 
@@ -16110,7 +16972,9 @@ Now evolves into Purugly at Level 32.
 
 	**#432 [Purugly](../pokedex/pokemon/purugly.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `71 HP / 82 Atk / 64 Def / 64 SAtk / 59 SDef / 112 Spd / 452 BST` | `90 HP / 95 Atk / 70 Def / 65 SAtk / 60 SDef / 115 Spd / 495 BST` |
 
@@ -16149,7 +17013,9 @@ Now evolves into Purugly at Level 32.
 
 	**#433 [Chingling](../pokedex/pokemon/chingling.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `45 HP / 30 Atk / 50 Def / 65 SAtk / 50 SDef / 45 Spd / 285 BST` | `45 HP / 30 Atk / 50 Def / 80 SAtk / 60 SDef / 45 Spd / 310 BST` |
 
@@ -16185,7 +17051,9 @@ Now evolves into Chimecho when happy regardless of the time.
 
 	**#434 [Stunky](../pokedex/pokemon/stunky.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Stench](../pokedex/abilities/stench.md) / [Aftermath](../pokedex/abilities/aftermath.md) | [Aftermath](../pokedex/abilities/aftermath.md) / [Stench](../pokedex/abilities/stench.md) |
 
@@ -16230,7 +17098,9 @@ Now evolves into Skuntank at Level 32.
 
 	**#435 [Skuntank](../pokedex/pokemon/skuntank.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Stench](../pokedex/abilities/stench.md) / [Aftermath](../pokedex/abilities/aftermath.md) | [Aftermath](../pokedex/abilities/aftermath.md) / [Stench](../pokedex/abilities/stench.md) |
 
@@ -16272,7 +17142,9 @@ Now evolves into Skuntank at Level 32.
 
 	**#436 [Bronzor](../pokedex/pokemon/bronzor.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -16304,7 +17176,9 @@ Now evolves into Skuntank at Level 32.
 
 	**#437 [Bronzong](../pokedex/pokemon/bronzong.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![HM02](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM02](../pokedex/items/hm02.md), [Fly](../pokedex/moves/fly.md)</span>. (!!)
 
@@ -16343,7 +17217,9 @@ Now evolves into Skuntank at Level 32.
 
 	**#438 [Bonsly](../pokedex/pokemon/bonsly.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Sturdy](../pokedex/abilities/sturdy.md) / [Rock Head](../pokedex/abilities/rock-head.md) | [Rock Head](../pokedex/abilities/rock-head.md) / [Sturdy](../pokedex/abilities/sturdy.md) |
 
@@ -16380,7 +17256,9 @@ Now evolves into Skuntank at Level 32.
 
 	**#439 [Mime Jr.](../pokedex/pokemon/mime-jr.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Soundproof](../pokedex/abilities/soundproof.md) / [Filter](../pokedex/abilities/filter.md) | [Filter](../pokedex/abilities/filter.md) / [Technician](../pokedex/abilities/technician.md) |
 
@@ -16421,7 +17299,9 @@ Now evolves into Skuntank at Level 32.
 
 	**#440 [Happiny](../pokedex/pokemon/happiny.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Natural Cure](../pokedex/abilities/natural-cure.md) / [Serene Grace](../pokedex/abilities/serene-grace.md) | [Serene Grace](../pokedex/abilities/serene-grace.md) / [Natural Cure](../pokedex/abilities/natural-cure.md) |
 
@@ -16450,7 +17330,9 @@ Now evolves into Skuntank at Level 32.
 
 	**#441 [Chatot](../pokedex/pokemon/chatot.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Keen Eye](../pokedex/abilities/keen-eye.md) / [Tangled Feet](../pokedex/abilities/tangled-feet.md) | [Soundproof](../pokedex/abilities/soundproof.md) / [Tangled Feet](../pokedex/abilities/tangled-feet.md) |
 
@@ -16494,7 +17376,9 @@ Now evolves into Skuntank at Level 32.
 
 	**#442 [Spiritomb](../pokedex/pokemon/spiritomb.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -16527,7 +17411,9 @@ Now evolves into Skuntank at Level 32.
 
 	**#443 [Gible](../pokedex/pokemon/gible.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Sand Veil](../pokedex/abilities/sand-veil.md) | [Rough Skin](../pokedex/abilities/rough-skin.md) / [Sand Veil](../pokedex/abilities/sand-veil.md) |
 
@@ -16564,7 +17450,9 @@ Now evolves into Skuntank at Level 32.
 
 	**#444 [Gabite](../pokedex/pokemon/gabite.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Sand Veil](../pokedex/abilities/sand-veil.md) | [Rough Skin](../pokedex/abilities/rough-skin.md) / [Sand Veil](../pokedex/abilities/sand-veil.md) |
 
@@ -16600,7 +17488,9 @@ Now evolves into Skuntank at Level 32.
 
 	**#445 [Garchomp](../pokedex/pokemon/garchomp.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Sand Veil](../pokedex/abilities/sand-veil.md) | [Rough Skin](../pokedex/abilities/rough-skin.md) / [Sand Veil](../pokedex/abilities/sand-veil.md) |
 
@@ -16643,7 +17533,9 @@ Now evolves into Skuntank at Level 32.
 
 	**#446 [Munchlax](../pokedex/pokemon/munchlax.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Pickup](../pokedex/abilities/pickup.md) / [Thick Fat](../pokedex/abilities/thick-fat.md) | [Thick Fat](../pokedex/abilities/thick-fat.md) / [Pickup](../pokedex/abilities/pickup.md) |
 
@@ -16681,7 +17573,9 @@ Now evolves into Skuntank at Level 32.
 
 	**#447 [Riolu](../pokedex/pokemon/riolu.md)**
 
-</div>**Evolution**:
+</div>
+
+**Evolution**:
 
 Now evolves into Lucario when happy regardless of the time.
 
@@ -16714,7 +17608,9 @@ Now evolves into Lucario when happy regardless of the time.
 
 	**#448 [Lucario](../pokedex/pokemon/lucario.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Steadfast](../pokedex/abilities/steadfast.md) / [Inner Focus](../pokedex/abilities/inner-focus.md) | [Adaptability](../pokedex/abilities/adaptability.md) / [Inner Focus](../pokedex/abilities/inner-focus.md) |
 
@@ -16754,7 +17650,9 @@ Now evolves into Lucario when happy regardless of the time.
 
 	**#449 [Hippopotas](../pokedex/pokemon/hippopotas.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -16785,7 +17683,9 @@ Now evolves into Lucario when happy regardless of the time.
 
 	**#450 [Hippowdon](../pokedex/pokemon/hippowdon.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -16819,7 +17719,9 @@ Now evolves into Lucario when happy regardless of the time.
 
 	**#451 [Skorupi](../pokedex/pokemon/skorupi.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Battle Armor](../pokedex/abilities/battle-armor.md) / [Sniper](../pokedex/abilities/sniper.md) | [Sniper](../pokedex/abilities/sniper.md) / [Battle Armor](../pokedex/abilities/battle-armor.md) |
 
@@ -16863,7 +17765,9 @@ Now evolves into Drapion at Level 30.
 
 	**#452 [Drapion](../pokedex/pokemon/drapion.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Battle Armor](../pokedex/abilities/battle-armor.md) / [Sniper](../pokedex/abilities/sniper.md) | [Sniper](../pokedex/abilities/sniper.md) / [Battle Armor](../pokedex/abilities/battle-armor.md) |
 
@@ -16906,7 +17810,9 @@ Now evolves into Drapion at Level 30.
 
 	**#453 [Croagunk](../pokedex/pokemon/croagunk.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Anticipation](../pokedex/abilities/anticipation.md) / [Dry Skin](../pokedex/abilities/dry-skin.md) | [Dry Skin](../pokedex/abilities/dry-skin.md) / [Anticipation](../pokedex/abilities/anticipation.md) |
 
@@ -16952,7 +17858,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#454 [Toxicroak](../pokedex/pokemon/toxicroak.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Anticipation](../pokedex/abilities/anticipation.md) / [Dry Skin](../pokedex/abilities/dry-skin.md) | [Dry Skin](../pokedex/abilities/dry-skin.md) / [Anticipation](../pokedex/abilities/anticipation.md) |
 
@@ -16995,7 +17903,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#455 [Carnivine](../pokedex/pokemon/carnivine.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `74 HP / 100 Atk / 72 Def / 90 SAtk / 72 SDef / 46 Spd / 454 BST` | `74 HP / 110 Atk / 72 Def / 100 SAtk / 72 SDef / 36 Spd / 464 BST` |
 
@@ -17038,7 +17948,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#456 [Finneon](../pokedex/pokemon/finneon.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `49 HP / 49 Atk / 56 Def / 49 SAtk / 61 SDef / 66 Spd / 330 BST` | `50 HP / 30 Atk / 60 Def / 60 SAtk / 60 SDef / 70 Spd / 330 BST` |
 
@@ -17078,7 +17990,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#457 [Lumineon](../pokedex/pokemon/lumineon.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `69 HP / 69 Atk / 76 Def / 69 SAtk / 86 SDef / 91 Spd / 460 BST` | `70 HP / 40 Atk / 75 Def / 105 SAtk / 90 SDef / 105 Spd / 485 BST` |
 
@@ -17121,7 +18035,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#458 [Mantyke](../pokedex/pokemon/mantyke.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -17154,7 +18070,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#459 [Snover](../pokedex/pokemon/snover.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Snow Warning](../pokedex/abilities/snow-warning.md) | [Snow Warning](../pokedex/abilities/snow-warning.md) / [Soundproof](../pokedex/abilities/soundproof.md) |
 
@@ -17190,7 +18108,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#460 [Abomasnow](../pokedex/pokemon/abomasnow.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Snow Warning](../pokedex/abilities/snow-warning.md) | [Snow Warning](../pokedex/abilities/snow-warning.md) / [Soundproof](../pokedex/abilities/soundproof.md) |
 
@@ -17227,7 +18147,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#461 [Weavile](../pokedex/pokemon/weavile.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Pressure](../pokedex/abilities/pressure.md) | [Technician](../pokedex/abilities/technician.md) / [Pressure](../pokedex/abilities/pressure.md) |
 
@@ -17267,7 +18189,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#462 [Magnezone](../pokedex/pokemon/magnezone.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>. (!!)
 
@@ -17307,7 +18231,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#463 [Lickilicky](../pokedex/pokemon/lickilicky.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -17343,7 +18269,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#464 [Rhyperior](../pokedex/pokemon/rhyperior.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Lightning Rod](../pokedex/abilities/lightning-rod.md) / [Rock Head](../pokedex/abilities/rock-head.md) | [Solid Rock](../pokedex/abilities/solid-rock.md) / [Reckless](../pokedex/abilities/reckless.md) |
 
@@ -17383,7 +18311,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#465 [Tangrowth](../pokedex/pokemon/tangrowth.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -17418,7 +18348,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#466 [Electivire](../pokedex/pokemon/electivire.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Motor Drive](../pokedex/abilities/motor-drive.md) | [Motor Drive](../pokedex/abilities/motor-drive.md) / [Vital Spirit](../pokedex/abilities/vital-spirit.md) |
 
@@ -17464,7 +18396,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#467 [Magmortar](../pokedex/pokemon/magmortar.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Flame Body](../pokedex/abilities/flame-body.md) | [Flame Body](../pokedex/abilities/flame-body.md) / [Vital Spirit](../pokedex/abilities/vital-spirit.md) |
 
@@ -17503,7 +18437,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#468 [Togekiss](../pokedex/pokemon/togekiss.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Hustle](../pokedex/abilities/hustle.md) / [Serene Grace](../pokedex/abilities/serene-grace.md) | [Serene Grace](../pokedex/abilities/serene-grace.md) / [Super Luck](../pokedex/abilities/super-luck.md) |
 
@@ -17532,7 +18468,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#469 [Yanmega](../pokedex/pokemon/yanmega.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM62](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM62](../pokedex/items/tm62.md), [Bug Buzz](../pokedex/moves/bug-buzz.md)</span>.
 - Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
@@ -17574,7 +18512,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#470 [Leafeon](../pokedex/pokemon/leafeon.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![HM01](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png){ .item-sprite } [HM01](../pokedex/items/hm01.md), [Cut](../pokedex/moves/cut.md)</span>. (!!)
 
@@ -17613,7 +18553,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#471 [Glaceon](../pokedex/pokemon/glaceon.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `65 HP / 60 Atk / 110 Def / 130 SAtk / 95 SDef / 65 Spd / 525 BST` | `65 HP / 60 Atk / 110 Def / 130 SAtk / 65 SDef / 95 Spd / 525 BST` |
 
@@ -17657,7 +18599,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#472 [Gliscor](../pokedex/pokemon/gliscor.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Hyper Cutter](../pokedex/abilities/hyper-cutter.md) / [Sand Veil](../pokedex/abilities/sand-veil.md) | [Poison Heal](../pokedex/abilities/poison-heal.md) / [Hyper Cutter](../pokedex/abilities/hyper-cutter.md) |
 
@@ -17703,7 +18647,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#473 [Mamoswine](../pokedex/pokemon/mamoswine.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Oblivious](../pokedex/abilities/oblivious.md) / [Snow Cloak](../pokedex/abilities/snow-cloak.md) | [Thick Fat](../pokedex/abilities/thick-fat.md) / [Snow Cloak](../pokedex/abilities/snow-cloak.md) |
 
@@ -17743,7 +18689,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#474 [Porygon Z](../pokedex/pokemon/porygon-z.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -17779,7 +18727,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#475 [Gallade](../pokedex/pokemon/gallade.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -17812,7 +18762,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#476 [Probopass](../pokedex/pokemon/probopass.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Base Stats (Complete)** |  `60 HP / 55 Atk / 145 Def / 75 SAtk / 150 SDef / 40 Spd / 525 BST` | `60 HP / 45 Atk / 145 Def / 85 SAtk / 150 SDef / 40 Spd / 525 BST` |
 
@@ -17852,7 +18804,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#477 [Dusknoir](../pokedex/pokemon/dusknoir.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Pressure](../pokedex/abilities/pressure.md) | [Iron Fist](../pokedex/abilities/iron-fist.md) / [Pressure](../pokedex/abilities/pressure.md) |
 
@@ -17898,7 +18852,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#478 [Froslass](../pokedex/pokemon/froslass.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Complete)** |  [Snow Cloak](../pokedex/abilities/snow-cloak.md) | [Levitate](../pokedex/abilities/levitate.md) / [Snow Cloak](../pokedex/abilities/snow-cloak.md) |
 
@@ -17939,7 +18895,9 @@ Now evolves into Toxicroak at Level 33.
 
 	**#479 [Rotom](../pokedex/pokemon/rotom.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability (Fan Rotom) (Complete)** |  [Levitate](../pokedex/abilities/levitate.md) | [Motor Drive](../pokedex/abilities/motor-drive.md) |
 
@@ -17984,7 +18942,9 @@ All of Rotom's formes match their types as of Gen V.
 
 	**#480 [Uxie](../pokedex/pokemon/uxie.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> |
 
@@ -18018,7 +18978,9 @@ All of Rotom's formes match their types as of Gen V.
 
 	**#481 [Mesprit](../pokedex/pokemon/mesprit.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> |
 
@@ -18052,7 +19014,9 @@ All of Rotom's formes match their types as of Gen V.
 
 	**#482 [Azelf](../pokedex/pokemon/azelf.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Type (Complete)** |  <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> <span class="type-badge" style="background: linear-gradient(135deg, #EE99AC 0%, #EE99ACdd 100%);">Fairy</span> |
 
@@ -18086,7 +19050,9 @@ All of Rotom's formes match their types as of Gen V.
 
 	**#483 [Dialga](../pokedex/pokemon/dialga.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -18115,7 +19081,9 @@ All of Rotom's formes match their types as of Gen V.
 
 	**#484 [Palkia](../pokedex/pokemon/palkia.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -18144,7 +19112,9 @@ All of Rotom's formes match their types as of Gen V.
 
 	**#485 [Heatran](../pokedex/pokemon/heatran.md)**
 
-</div>| Attribute | Old Value | New Value |
+</div>
+
+| Attribute | Old Value | New Value |
 |:----------|:----------|:----------|
 | **Ability** |  [Flash Fire](../pokedex/abilities/flash-fire.md) | [Flash Fire](../pokedex/abilities/flash-fire.md) / [Flame Body](../pokedex/abilities/flame-body.md) |
 
@@ -18177,7 +19147,9 @@ All of Rotom's formes match their types as of Gen V.
 
 	**#486 [Regigigas](../pokedex/pokemon/regigigas.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -18208,7 +19180,9 @@ All of Rotom's formes match their types as of Gen V.
 
 	**#487 [Giratina Altered](../pokedex/pokemon/giratina-altered.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -18237,7 +19211,9 @@ All of Rotom's formes match their types as of Gen V.
 
 	**#488 [Cresselia](../pokedex/pokemon/cresselia.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -18267,7 +19243,9 @@ All of Rotom's formes match their types as of Gen V.
 
 	**#489 [Phione](../pokedex/pokemon/phione.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -18296,7 +19274,9 @@ All of Rotom's formes match their types as of Gen V.
 
 	**#490 [Manaphy](../pokedex/pokemon/manaphy.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -18327,7 +19307,9 @@ All of Rotom's formes match their types as of Gen V.
 
 	**#491 [Darkrai](../pokedex/pokemon/darkrai.md)**
 
-</div>**Level Up**:
+</div>
+
+**Level Up**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -18359,7 +19341,9 @@ All of Rotom's formes match their types as of Gen V.
 
 	**#492 [Shaymin Land](../pokedex/pokemon/shaymin-land.md)**
 
-</div>**Level Up (Land Forme)**:
+</div>
+
+**Level Up (Land Forme)**:
 
 | Level | Move | Type | Class | Event |
 |:------|:-----|:-----|:------|:------|
@@ -18407,7 +19391,9 @@ All of Rotom's formes match their types as of Gen V.
 
 	**#493 [Arceus](../pokedex/pokemon/arceus.md)**
 
-</div>**Moves**:
+</div>
+
+**Moves**:
 
 - Now compatible with <span style="white-space: nowrap;">![TM88](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png){ .item-sprite } [TM88](../pokedex/items/tm88.md), [Hurricane](../pokedex/moves/hurricane.md)</span>. (!!)
 

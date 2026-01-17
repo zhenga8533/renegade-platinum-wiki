@@ -21,11 +21,11 @@
 
 	- `adaptability / blaze` → `flash-fire / blaze`
 
-	- `flash-fire / blaze` → `adaptability / blaze`
-
 	**Level-up Moves Changes:**
 
 	- `15 moves` → `17 moves`
+
+	- `flash-fire / blaze` → `adaptability / blaze`
 
 
 ## :material-information: Basic Information

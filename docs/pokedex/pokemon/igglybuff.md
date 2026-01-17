@@ -20,10 +20,6 @@
 
 	- `cute-charm` → `cute-charm / magic-guard`
 
-	**Base Happiness Changes:**
-
-	- `70` → `180`
-
 	**Level-up Moves Changes:**
 
 	- `6 moves` → `8 moves`
@@ -55,7 +51,7 @@
 
 	**Base Experience:** 39
 
-	**Base Happiness:** 180
+	**Base Happiness:** 70
 
 	**Capture Rate:** 170
 

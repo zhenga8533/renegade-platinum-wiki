@@ -42,7 +42,7 @@ PP: 20 >> 15
 
 Blaze Kick
 Power: 85 >> 90
-Accuracy: 90 >> 100
+Accuracy: 90% >> 100%
 
 Bubble Beam
 Power: 65 >> 75
@@ -86,7 +86,7 @@ Power: 60 >> 90
 
 Poison Fang
 Power: 50 >> 65
-Accuracy: 100 > 95
+Accuracy: 100% >> 95%
 
 Poison Tail
 Power: 50 >> 90

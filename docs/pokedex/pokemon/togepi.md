@@ -20,10 +20,6 @@
 
 	- `hustle / serene-grace` → `serene-grace / super-luck`
 
-	**Base Happiness Changes:**
-
-	- `70` → `180`
-
 	**Level-up Moves Changes:**
 
 	- `13 moves` → `19 moves`
@@ -55,7 +51,7 @@
 
 	**Base Experience:** 74
 
-	**Base Happiness:** 180
+	**Base Happiness:** 70
 
 	**Capture Rate:** 190
 

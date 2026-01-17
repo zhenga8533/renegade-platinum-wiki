@@ -23,7 +23,7 @@
 
 	- `19 moves` → `21 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `49 moves` → `52 moves (added: bug-buzz, fly, rock-climb)`
 

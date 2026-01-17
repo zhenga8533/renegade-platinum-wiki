@@ -23,15 +23,11 @@
 
 	- `45 HP / 55 Atk / 45 Def / 65 SAtk / 45 SDef / 75 Spd` → `45 HP / 85 Atk / 50 Def / 110 SAtk / 50 SDef / 110 Spd`
 
-	**EV Yield Changes:**
-
-	- `1 Spd` → `1 SAtk, 1 Spd`
-
 	**Level-up Moves Changes:**
 
 	- `1 move` → `19 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `31 moves` → `32 moves (added: u-turn)`
 
@@ -70,7 +66,7 @@
 
 	**Habitat:** Mountain
 
-	**EV Yield:** +1 Special Attack, +1 Speed
+	**EV Yield:** +1 Speed
 
 
 - **:material-egg: Breeding**

@@ -23,10 +23,6 @@
 
 	- `52 HP / 90 Atk / 55 Def / 58 SAtk / 62 SDef / 60 Spd` → `55 HP / 110 Atk / 60 Def / 55 SAtk / 60 SDef / 110 Spd`
 
-	**EV Yield Changes:**
-
-	- `1 Atk` → `2 Atk`
-
 	**Type Changes:**
 
 	- `normal / flying` → `fighting / flying`
@@ -35,7 +31,7 @@
 
 	- `17 moves` → `21 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `31 moves` → `34 moves (added: brick-break, focus-blast, hurricane)`
 
@@ -74,7 +70,7 @@
 
 	**Habitat:** Grassland
 
-	**EV Yield:** +2 Attack
+	**EV Yield:** +1 Attack
 
 
 - **:material-egg: Breeding**

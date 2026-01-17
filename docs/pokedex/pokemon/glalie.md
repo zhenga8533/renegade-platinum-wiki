@@ -35,7 +35,7 @@
 
 	- `15 moves` → `21 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `35 moves` → `41 moves (added: rock-tomb, rock-polish, stone-edge, rock-slide, rock-smash...)`
 

@@ -23,15 +23,15 @@
 
 	- `pressure` → `iron-fist / pressure`
 
-	- `dusclops > dusknoir: unknown` → `dusclops > dusknoir: use-item (reaper-cloth)`
-
 	**Level-up Moves Changes:**
 
 	- `20 moves` → `21 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `48 moves` → `49 moves (added: drain-punch)`
+
+	- `dusclops > dusknoir: unknown` → `dusclops > dusknoir: use-item (reaper-cloth)`
 
 
 ## :material-information: Basic Information

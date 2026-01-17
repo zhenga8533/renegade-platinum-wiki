@@ -23,7 +23,7 @@
 
 	- `15 moves` → `17 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `26 moves` → `28 moves (added: hyper-voice, hurricane)`
 

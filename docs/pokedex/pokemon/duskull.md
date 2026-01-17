@@ -25,11 +25,11 @@
 
 	- `levitate` → `levitate / frisk`
 
-	- `dusclops > dusknoir: unknown` → `dusclops > dusknoir: use-item (reaper-cloth)`
-
 	**Level-up Moves Changes:**
 
 	- `13 moves` → `15 moves`
+
+	- `dusclops > dusknoir: unknown` → `dusclops > dusknoir: use-item (reaper-cloth)`
 
 
 ## :material-information: Basic Information

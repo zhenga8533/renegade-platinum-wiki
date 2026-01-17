@@ -12,7 +12,7 @@ import re
 import orjson
 from rom_wiki_core.parsers.base_parser import BaseParser
 from rom_wiki_core.utils.core.loader import PokeDBLoader
-from rom_wiki_core.utils.data.models import Pokemon
+from rom_wiki_core.utils.data.models import MoveLearn, Pokemon, PokemonAbility, Stats
 from rom_wiki_core.utils.formatters.markdown_formatter import (
     format_ability,
     format_checkbox,
@@ -61,8 +61,8 @@ class PokemonChangesParser(BaseParser):
         self._held_item_updated = set()
 
         # Track moves for current Pokemon
-        self._levelup_moves: list[tuple[int, str]] = []
-        self._machine_moves: list[tuple[str, str, str]] = []  # (type, number, name)
+        self._levelup_moves: list[MoveLearn] = []
+        self._machine_moves: list[str] = []  # list of move IDs
 
     def _update_all_pokemon_to_gen7(self) -> None:
         """Update all existing Pokemon in parsed data to match gen7 stats.
@@ -171,12 +171,13 @@ class PokemonChangesParser(BaseParser):
         # Matches: - Pokemon has a X% chance to hold a Item.
         if match := re.match(r"^- (.+?) has a (\d+)% chance to hold a (.+?)\.$", line):
             pokemon, chance, item = match.groups()
+            pokemon_id = name_to_id(pokemon)
+            item_id = name_to_id(item)
 
             # Update the Pokemon's held item
-            PokemonItemService.update_held_item(pokemon, item, int(chance))
+            PokemonItemService.update_held_item(pokemon_id, item_id, int(chance))
 
             # Track this Pokemon to skip later updates in Specific Changes
-            pokemon_id = name_to_id(pokemon)
             self._held_item_updated.add(pokemon_id)
 
             # Format for markdown
@@ -220,8 +221,11 @@ class PokemonChangesParser(BaseParser):
 
             number, self._current_pokemon = match.groups()
             self._markdown += f"### {number} {self._current_pokemon}\n\n"
-            self._markdown += format_pokemon_card_grid(
-                [self._current_pokemon], relative_path="../pokedex/pokemon"
+            self._markdown += (
+                format_pokemon_card_grid(
+                    [self._current_pokemon], relative_path="../pokedex/pokemon"
+                )
+                + "\n\n"
             )
         # Matches: Attribute:
         elif line.endswith(":"):
@@ -251,11 +255,7 @@ class PokemonChangesParser(BaseParser):
 
             # Update Pokemon attribute in JSON file using AttributeService
             if not self._should_skip_attribute_update():
-                AttributeService.update_attribute(
-                    pokemon=self._current_pokemon,
-                    attribute=self._current_attribute,
-                    value=line,
-                )
+                self._apply_attribute_update(line)
         # Matches: Now compatible with...
         elif self._current_attribute == "Moves" and line.startswith(
             "Now compatible with"
@@ -271,10 +271,8 @@ class PokemonChangesParser(BaseParser):
                     line,
                 )
                 if tm_match:
-                    machine_type = tm_match.group(1)
-                    number = tm_match.group(2)
                     move_name = tm_match.group(3)
-                    self._machine_moves.append((machine_type, number, move_name))
+                    self._machine_moves.append(name_to_id(move_name))
         # Matches: Now able to evolve...
         elif self._current_attribute == "Evolution" and line.startswith(
             "Now able to evolve"
@@ -293,7 +291,13 @@ class PokemonChangesParser(BaseParser):
                 clean_move = clean_move[:-4]
             elif clean_move.endswith(" (!!)"):
                 clean_move = clean_move[:-5]
-            self._levelup_moves.append((int(level), clean_move))
+            self._levelup_moves.append(
+                MoveLearn(
+                    name=name_to_id(clean_move),
+                    level_learned_at=int(level),
+                    version_groups=[self.config.version_group],
+                )
+            )
         # Default: regular text line
         else:
             self.parse_default(line)
@@ -309,22 +313,117 @@ class PokemonChangesParser(BaseParser):
         skip_attributes = ["Evolution", "Moves", "Level Up"]
         return any(self._current_attribute.startswith(attr) for attr in skip_attributes)
 
+    def _apply_attribute_update(self, value: str) -> None:
+        """Apply an attribute update using the appropriate AttributeService method.
+
+        Args:
+            value (str): The new value string from the documentation
+        """
+        pokemon_id = name_to_id(self._current_pokemon)
+        attr = self._current_attribute
+
+        if attr.startswith("Base Stats"):
+            # Parse: "80 HP / 100 Atk / 90 Def / 120 SAtk / 90 SDef / 100 Spd"
+            stats = self._parse_stats_value(value)
+            if stats:
+                AttributeService.update_base_stats(pokemon_id, stats)
+
+        elif attr.startswith("Type"):
+            # Parse: "Fire / Flying" or "Fire"
+            types = [name_to_id(t.strip()) for t in value.split("/")]
+            AttributeService.update_type(pokemon_id, types)
+
+        elif attr.startswith("Ability") and (
+            "Classic" not in attr or "Complete" in attr
+        ):
+            # Parse ability slot from attribute name (e.g., "Ability 1", "Ability 2", "Ability 3")
+            # or handle combined abilities "Ability1 / Ability2"
+            abilities = self._parse_abilities_value(value)
+            if abilities:
+                AttributeService.update_abilities(pokemon_id, abilities)
+
+        elif attr.startswith("Catch Rate"):
+            # Parse: just a number
+            try:
+                catch_rate = int(value)
+                AttributeService.update_catch_rate(pokemon_id, catch_rate)
+            except ValueError:
+                self.logger.warning(f"Invalid catch rate value: {value}")
+
+    def _parse_stats_value(self, value: str) -> Stats | None:
+        """Parse a base stats string into a Stats object.
+
+        Args:
+            value (str): Stats string (e.g., "80 HP / 100 Atk / 90 Def / 120 SAtk / 90 SDef / 100 Spd")
+
+        Returns:
+            Stats | None: Parsed Stats object, or None if parsing fails
+        """
+        try:
+            stat_parts = [p.strip() for p in value.split("/")]
+            stats_dict = {}
+            stat_map = {
+                "HP": "hp",
+                "Atk": "attack",
+                "Def": "defense",
+                "SAtk": "special_attack",
+                "SDef": "special_defense",
+                "Spd": "speed",
+            }
+            for part in stat_parts:
+                num, stat_name = part.split()
+                if stat_name in stat_map:
+                    stats_dict[stat_map[stat_name]] = int(num)
+            return Stats(**stats_dict)
+        except (ValueError, KeyError) as e:
+            self.logger.warning(f"Failed to parse stats value '{value}': {e}")
+            return None
+
+    def _parse_abilities_value(self, value: str) -> list[PokemonAbility] | None:
+        """Parse an abilities string into a list of PokemonAbility objects.
+
+        Args:
+            value (str): Abilities string (e.g., "Intimidate / Moxie" or "Levitate")
+
+        Returns:
+            list[PokemonAbility] | None: Parsed abilities list, or None if parsing fails
+        """
+        try:
+            ability_names = [a.strip() for a in value.split("/")]
+            abilities = []
+            for i, ability_name in enumerate(ability_names):
+                if ability_name.lower() == "none":
+                    continue
+                slot = i + 1
+                is_hidden = slot == 3
+                abilities.append(
+                    PokemonAbility(
+                        name=name_to_id(ability_name),
+                        is_hidden=is_hidden,
+                        slot=slot,
+                    )
+                )
+            return abilities if abilities else None
+        except (ValueError, KeyError) as e:
+            self.logger.warning(f"Failed to parse abilities value '{value}': {e}")
+            return None
+
     def _save_pokemon_moves(self) -> None:
         """Save collected moves for the current Pokemon and reset tracking."""
         if not self._current_pokemon:
             return
 
+        pokemon_id = name_to_id(self._current_pokemon)
+
         # Save level-up moves if any were collected
         if self._levelup_moves:
-            PokemonMoveService.update_levelup_moves(
-                self._current_pokemon, self._levelup_moves
-            )
+            PokemonMoveService.update_levelup_moves(pokemon_id, self._levelup_moves)
             self._levelup_moves = []
 
         # Save TM/HM moves if any were collected
         if self._machine_moves:
-            PokemonMoveService.update_machine_moves(
-                self._current_pokemon, self._machine_moves
+            PokemonMoveService.update_move_category(
+                pokemon_id, "machine", self._machine_moves
             )
             self._machine_moves = []
 
@@ -397,7 +496,11 @@ class PokemonChangesParser(BaseParser):
 
         # Load move data from PokeDB
         move_data = PokeDBLoader.load_move(move)
-        move_type = getattr(move_data.type, self.config.version_group, None) if move_data else None
+        move_type = (
+            getattr(move_data.type, self.config.version_group, None)
+            if move_data
+            else None
+        )
         move_type = move_type.title() if move_type else "Unknown"
         move_class = move_data.damage_class.title() if move_data else "Unknown"
 

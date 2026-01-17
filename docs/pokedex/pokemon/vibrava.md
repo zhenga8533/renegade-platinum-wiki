@@ -27,10 +27,6 @@
 
 	- `50 HP / 70 Atk / 50 Def / 50 SAtk / 50 SDef / 70 Spd` → `60 HP / 80 Atk / 55 Def / 90 SAtk / 55 SDef / 70 Spd`
 
-	**EV Yield Changes:**
-
-	- `1 Atk, 1 Spd` → `2 SAtk`
-
 	**Type Changes:**
 
 	- `ground / dragon` → `bug / dragon`
@@ -39,7 +35,7 @@
 
 	- `12 moves` → `18 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `34 moves` → `36 moves (added: bug-buzz, hurricane)`
 
@@ -78,7 +74,7 @@
 
 	**Habitat:** Rough Terrain
 
-	**EV Yield:** +2 Special Attack
+	**EV Yield:** +1 Attack, +1 Speed
 
 
 - **:material-egg: Breeding**

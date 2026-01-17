@@ -25,10 +25,6 @@
 
 	- `natural-cure / poison-point` → `poison-point / natural-cure`
 
-	**Base Happiness Changes:**
-
-	- `70` → `180`
-
 	**Level-up Moves Changes:**
 
 	- `6 moves` → `8 moves`
@@ -60,7 +56,7 @@
 
 	**Base Experience:** 68
 
-	**Base Happiness:** 180
+	**Base Happiness:** 70
 
 	**Capture Rate:** 255
 

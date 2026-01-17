@@ -25,11 +25,11 @@
 
 	- `lightning-rod / rock-head` → `rock-head / reckless`
 
-	- `rhydon > rhyperior: unknown` → `rhydon > rhyperior: use-item (protector)`
-
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `20 moves`
+
+	- `rhydon > rhyperior: unknown` → `rhydon > rhyperior: use-item (protector)`
 
 
 ## :material-information: Basic Information

@@ -21,10 +21,6 @@
 
 	- `natural-cure / serene-grace` → `serene-grace / natural-cure`
 
-	**Base Happiness Changes:**
-
-	- `140` → `180`
-
 	**Level-up Moves Changes:**
 
 	- `5 moves` → `6 moves`
@@ -56,7 +52,7 @@
 
 	**Base Experience:** 255
 
-	**Base Happiness:** 180
+	**Base Happiness:** 140
 
 	**Capture Rate:** 130
 

@@ -33,7 +33,7 @@
 
 	- `14 moves` → `19 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `30 moves` → `33 moves (added: wild-charge, rock-slide, grass-knot)`
 

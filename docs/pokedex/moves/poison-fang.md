@@ -7,6 +7,10 @@
 
 	- `50` → `65`
 
+	**Accuracy Changes:**
+
+	- `100` → `95`
+
 
 ## :material-chart-box: Stats
 
@@ -34,7 +38,7 @@
 
 	---
 
-	100%
+	95%
 
 - **:material-counter: PP**
 

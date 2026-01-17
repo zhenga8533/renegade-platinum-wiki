@@ -28,7 +28,7 @@
 
 	- `4 moves` → `8 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `36 moves` → `38 moves (added: psychic, surf)`
 

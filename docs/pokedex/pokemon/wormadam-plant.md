@@ -28,15 +28,15 @@
 
 	- `60 HP / 50 Atk / 110 Def / 110 SAtk / 90 SDef / 30 Spd` → `60 HP / 50 Atk / 100 Def / 110 SAtk / 100 SDef / 30 Spd`
 
-	- `60 HP / 50 Atk / 100 Def / 110 SAtk / 100 SDef / 30 Spd` → `60 HP / 50 Atk / 90 Def / 110 SAtk / 110 SDef / 30 Spd`
-
 	**Level-up Moves Changes:**
 
 	- `13 moves` → `52 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `33 moves` → `34 moves (added: bug-buzz)`
+
+	- `60 HP / 50 Atk / 100 Def / 110 SAtk / 100 SDef / 30 Spd` → `60 HP / 50 Atk / 90 Def / 110 SAtk / 110 SDef / 30 Spd`
 
 
 ## :material-information: Basic Information

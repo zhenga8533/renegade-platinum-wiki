@@ -23,7 +23,7 @@
 
 	- `9 moves` → `15 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `27 moves` → `30 moves (added: bug-buzz, surf, waterfall)`
 

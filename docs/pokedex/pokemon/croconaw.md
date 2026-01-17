@@ -23,7 +23,7 @@
 
 	- `20 moves` → `18 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `38 moves` → `39 moves (added: dragon-claw)`
 

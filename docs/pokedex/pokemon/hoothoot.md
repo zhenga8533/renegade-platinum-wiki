@@ -20,7 +20,7 @@
 
 	- `insomnia / keen-eye` → `tinted-lens / insomnia`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `32 moves` → `34 moves (added: flash, hurricane)`
 

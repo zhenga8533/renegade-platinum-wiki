@@ -24,7 +24,7 @@
 
 	- `3 moves` → `4 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `0 moves` → `1 moves (added: bug-buzz)`
 

@@ -24,7 +24,7 @@
 
 	- `13 moves` → `20 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `31 moves` → `32 moves (added: dark-pulse)`
 

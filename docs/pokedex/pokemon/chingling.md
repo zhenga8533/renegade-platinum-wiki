@@ -25,10 +25,6 @@
 
 	- `45 HP / 30 Atk / 50 Def / 65 SAtk / 50 SDef / 45 Spd` → `45 HP / 30 Atk / 50 Def / 80 SAtk / 60 SDef / 45 Spd`
 
-	**Base Happiness Changes:**
-
-	- `70` → `180`
-
 	**Level-up Moves Changes:**
 
 	- `6 moves` → `9 moves`
@@ -59,7 +55,7 @@
 
 	**Base Experience:** 74
 
-	**Base Happiness:** 180
+	**Base Happiness:** 70
 
 	**Capture Rate:** 120
 

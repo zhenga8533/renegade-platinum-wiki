@@ -23,7 +23,7 @@
 
 	- `14 moves` → `17 moves`
 
-	**TM/HM Compatibility Changes:**
+	**Machine Moves Changes:**
 
 	- `29 moves` → `30 moves (added: dazzling-gleam)`
 
