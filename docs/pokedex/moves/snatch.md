@@ -102,7 +102,7 @@
 
 	**#386 [Deoxys Normal](../pokemon/deoxys-normal.md)**
 
-	Level 49
+	Level 26
 
 -	[![Munchlax](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/446.png){: .pokemon-sprite-img }](../pokemon/munchlax.md)
 

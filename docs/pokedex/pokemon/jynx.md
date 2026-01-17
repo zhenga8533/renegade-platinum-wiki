@@ -15,13 +15,13 @@
 
 ??? note "Jynx ROM Changes"
 
-	**Base Stats Changes:**
-
-	- `65 HP / 50 Atk / 35 Def / 115 SAtk / 95 SDef / 95 Spd` → `75 HP / 40 Atk / 35 Def / 125 SAtk / 95 SDef / 95 Spd`
-
 	**Abilities Changes:**
 
 	- `oblivious / forewarn` → `dry-skin / forewarn`
+
+	**Base Stats Changes:**
+
+	- `65 HP / 50 Atk / 35 Def / 115 SAtk / 95 SDef / 95 Spd` → `75 HP / 40 Atk / 35 Def / 125 SAtk / 95 SDef / 95 Spd`
 
 	**Level-up Moves Changes:**
 

@@ -172,6 +172,12 @@
 
 	**#478 [Froslass](../pokemon/froslass.md)**
 
+-	[![Rotom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/479.png){: .pokemon-sprite-img }](../pokemon/rotom.md)
+
+	***
+
+	**#479 [Rotom](../pokemon/rotom.md)**
+
 -	[![Uxie](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/480.png){: .pokemon-sprite-img }](../pokemon/uxie.md)
 
 	***

@@ -184,14 +184,6 @@
 
 	Level 18
 
--	[![Shaymin Land](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/492.png){: .pokemon-sprite-img }](../pokemon/shaymin-land.md)
-
-	***
-
-	**#492 [Shaymin Land](../pokemon/shaymin-land.md)**
-
-	Level 91
-
 </div>
 
 ### :material-egg-outline: Egg Moves

@@ -336,6 +336,14 @@
 
 	Level 58
 
+-	[![Wormadam Plant](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/413.png){: .pokemon-sprite-img }](../pokemon/wormadam-plant.md)
+
+	***
+
+	**#413 [Wormadam Plant](../pokemon/wormadam-plant.md)**
+
+	Level 1
+
 -	[![Honchkrow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/430.png){: .pokemon-sprite-img }](../pokemon/honchkrow.md)
 
 	***

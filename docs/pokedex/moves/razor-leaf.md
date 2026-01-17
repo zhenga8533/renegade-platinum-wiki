@@ -206,7 +206,7 @@
 
 	**#413 [Wormadam Plant](../pokemon/wormadam-plant.md)**
 
-	Level 26
+	Level 20
 
 -	[![Carnivine](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/455.png){: .pokemon-sprite-img }](../pokemon/carnivine.md)
 

@@ -366,7 +366,7 @@
 
 	**#386 [Deoxys Normal](../pokemon/deoxys-normal.md)**
 
-	Level 25
+	Level 14
 
 -	[![Kricketune](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/402.png){: .pokemon-sprite-img }](../pokemon/kricketune.md)
 

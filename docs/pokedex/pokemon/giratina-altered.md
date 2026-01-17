@@ -18,13 +18,11 @@
 
 	**Held Items Changes:**
 
-	- `None` → `Griseous Orb`
+	- `None` → `griseous-orb`
 
 	**Level-up Moves Changes:**
 
 	- `21 moves` → `14 moves`
-
-	- `Griseous Orb` → `Griseous Orb, griseous-orb`
 
 
 ## :material-information: Basic Information
@@ -90,7 +88,6 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 | Item | Platinum | Diamond | Pearl | Heartgold | Soulsilver |
 |:-----|:--------:|:-------:|:-----:|:---------:|:----------:|
-| <span style="white-space: nowrap;">![Griseous Orb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/griseous-orb.png){ .item-sprite } [Griseous Orb](../../pokedex/items/griseous-orb.md)</span> | 100% | — | — | — | — |
 | <span style="white-space: nowrap;">![Griseous Orb](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/griseous-orb.png){ .item-sprite } [Griseous Orb](../../pokedex/items/griseous-orb.md)</span> | 100% | — | — | — | — |
 
 ## :material-shield-half-full: Type Effectiveness

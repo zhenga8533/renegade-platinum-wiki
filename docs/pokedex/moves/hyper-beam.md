@@ -262,7 +262,7 @@
 
 	**#386 [Deoxys Normal](../pokemon/deoxys-normal.md)**
 
-	Level 97
+	Level 50
 
 -	[![Magmortar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/467.png){: .pokemon-sprite-img }](../pokemon/magmortar.md)
 

@@ -13,6 +13,18 @@
 	</div>
 </div>
 
+
+??? note "Wormadam Trash ROM Changes"
+
+	**Base Stats Changes:**
+
+	- `60 HP / 69 Atk / 95 Def / 69 SAtk / 95 SDef / 36 Spd` → `60 HP / 50 Atk / 100 Def / 110 SAtk / 100 SDef / 30 Spd`
+
+	**Level-up Moves Changes:**
+
+	- `13 moves` → `18 moves`
+
+
 ## :material-information: Basic Information
 
 <div class="grid cards" markdown>
@@ -121,12 +133,12 @@ These items can be found when catching or defeating this Pokémon in the wild:
 | Stat | Base | Min | Max | Distribution |
 |------|-----:|----:|----:|:-------------|
 | **HP** | **60** | 230 | 324 | <div style="background: var(--md-default-fg-color--lightest); border-radius: 4px; overflow: hidden; height: 20px; width: 100%;"><div style="background: linear-gradient(90deg, #4CAF50 0%, #8BC34A 100%); height: 100%; width: 23.52941176470588%;"></div></div> |
-| **Attack** | **69** | 128 | 260 | <div style="background: var(--md-default-fg-color--lightest); border-radius: 4px; overflow: hidden; height: 20px; width: 100%;"><div style="background: linear-gradient(90deg, #4CAF50 0%, #8BC34A 100%); height: 100%; width: 27.058823529411764%;"></div></div> |
-| **Defense** | **95** | 175 | 317 | <div style="background: var(--md-default-fg-color--lightest); border-radius: 4px; overflow: hidden; height: 20px; width: 100%;"><div style="background: linear-gradient(90deg, #4CAF50 0%, #8BC34A 100%); height: 100%; width: 37.254901960784316%;"></div></div> |
-| **Sp. Atk** | **69** | 128 | 260 | <div style="background: var(--md-default-fg-color--lightest); border-radius: 4px; overflow: hidden; height: 20px; width: 100%;"><div style="background: linear-gradient(90deg, #4CAF50 0%, #8BC34A 100%); height: 100%; width: 27.058823529411764%;"></div></div> |
-| **Sp. Def** | **95** | 175 | 317 | <div style="background: var(--md-default-fg-color--lightest); border-radius: 4px; overflow: hidden; height: 20px; width: 100%;"><div style="background: linear-gradient(90deg, #4CAF50 0%, #8BC34A 100%); height: 100%; width: 37.254901960784316%;"></div></div> |
-| **Speed** | **36** | 69 | 188 | <div style="background: var(--md-default-fg-color--lightest); border-radius: 4px; overflow: hidden; height: 20px; width: 100%;"><div style="background: linear-gradient(90deg, #4CAF50 0%, #8BC34A 100%); height: 100%; width: 14.117647058823529%;"></div></div> |
-| **Base Stat Total** | **424** | | | |
+| **Attack** | **50** | 94 | 218 | <div style="background: var(--md-default-fg-color--lightest); border-radius: 4px; overflow: hidden; height: 20px; width: 100%;"><div style="background: linear-gradient(90deg, #4CAF50 0%, #8BC34A 100%); height: 100%; width: 19.607843137254903%;"></div></div> |
+| **Defense** | **100** | 184 | 328 | <div style="background: var(--md-default-fg-color--lightest); border-radius: 4px; overflow: hidden; height: 20px; width: 100%;"><div style="background: linear-gradient(90deg, #4CAF50 0%, #8BC34A 100%); height: 100%; width: 39.21568627450981%;"></div></div> |
+| **Sp. Atk** | **110** | 202 | 350 | <div style="background: var(--md-default-fg-color--lightest); border-radius: 4px; overflow: hidden; height: 20px; width: 100%;"><div style="background: linear-gradient(90deg, #4CAF50 0%, #8BC34A 100%); height: 100%; width: 43.13725490196079%;"></div></div> |
+| **Sp. Def** | **100** | 184 | 328 | <div style="background: var(--md-default-fg-color--lightest); border-radius: 4px; overflow: hidden; height: 20px; width: 100%;"><div style="background: linear-gradient(90deg, #4CAF50 0%, #8BC34A 100%); height: 100%; width: 39.21568627450981%;"></div></div> |
+| **Speed** | **30** | 58 | 174 | <div style="background: var(--md-default-fg-color--lightest); border-radius: 4px; overflow: hidden; height: 20px; width: 100%;"><div style="background: linear-gradient(90deg, #4CAF50 0%, #8BC34A 100%); height: 100%; width: 11.76470588235294%;"></div></div> |
+| **Base Stat Total** | **450** | | | |
 
 > **Min/Max Stats:** Calculated at Level 100.
 >
@@ -240,19 +252,24 @@ These items can be found when catching or defeating this Pokémon in the wild:
 
 	| Level | Move | Type | Category | Power | Accuracy | PP |
 	|:------|:-----|:-----|:---------|:------|:---------|:---|
+	| 1 | [Iron Head](../../pokedex/moves/iron-head.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 80 | 100 | 15 |
+	| 1 | [Metal Burst](../../pokedex/moves/metal-burst.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | 100 | 10 |
+	| 1 | [Sucker Punch](../../pokedex/moves/sucker-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 70 | 100 | 5 |
+	| 1 | [Protect](../../pokedex/moves/protect.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 10 |
 	| 1 | [Tackle](../../pokedex/moves/tackle.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 40 | 100 | 35 |
-	| 10 | [Protect](../../pokedex/moves/protect.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 10 |
-	| 15 | [Bug Bite](../../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 60 | 100 | 20 |
-	| 20 | [Hidden Power](../../pokedex/moves/hidden-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 60 | 100 | 15 |
+	| 1 | [Bug Bite](../../pokedex/moves/bug-bite.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 60 | 100 | 20 |
+	| 1 | [Hidden Power](../../pokedex/moves/hidden-power.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 60 | 100 | 15 |
+	| 20 | [Mirror Shot](../../pokedex/moves/mirror-shot.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 65 | 85 | 10 |
 	| 23 | [Confusion](../../pokedex/moves/confusion.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 50 | 100 | 25 |
-	| 26 | [Razor Leaf](../../pokedex/moves/razor-leaf.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 55 | 95 | 25 |
-	| 29 | [Growth](../../pokedex/moves/growth.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 20 |
-	| 32 | [Psybeam](../../pokedex/moves/psybeam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 65 | 100 | 20 |
-	| 35 | [Captivate](../../pokedex/moves/captivate.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 100 | 20 |
-	| 38 | [Flail](../../pokedex/moves/flail.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | 100 | 15 |
-	| 41 | [Attract](../../pokedex/moves/attract.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 100 | 15 |
-	| 44 | [Psychic](../../pokedex/moves/psychic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 90 | 100 | 10 |
-	| 47 | [Leaf Storm](../../pokedex/moves/leaf-storm.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 130 | 90 | 5 |
+	| 26 | [Bug Buzz](../../pokedex/moves/bug-buzz.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 90 | 100 | 10 |
+	| 29 | [Metal Sound](../../pokedex/moves/metal-sound.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 85 | 40 |
+	| 32 | [Flash Cannon](../../pokedex/moves/flash-cannon.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 80 | 100 | 10 |
+	| 35 | [Psybeam](../../pokedex/moves/psybeam.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 65 | 100 | 20 |
+	| 38 | [Attract](../../pokedex/moves/attract.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 100 | 15 |
+	| 41 | [Psychic](../../pokedex/moves/psychic.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F85888 0%, #F85888dd 100%);">Psychic</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 90 | 100 | 10 |
+	| 44 | [Flail](../../pokedex/moves/flail.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | 100 | 15 |
+	| 47 | [Captivate](../../pokedex/moves/captivate.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | 100 | 20 |
+	| 50 | [Iron Head](../../pokedex/moves/iron-head.md) | <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 80 | 100 | 15 |
 
 === ":material-disc: TM/HM"
 

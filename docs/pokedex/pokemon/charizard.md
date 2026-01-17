@@ -35,6 +35,10 @@
 
 	- `46 moves` → `47 moves (added: hurricane)`
 
+	**Tutor Moves Changes:**
+
+	- `14 moves` → `15 moves (added: draco-meteor)`
+
 
 ## :material-information: Basic Information
 
@@ -313,6 +317,7 @@
 	|:-----|:-----|:---------|:------|:---------|:---|
 	| [Air Cutter](../../pokedex/moves/air-cutter.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 60 | 95 | 25 |
 	| [Blast Burn](../../pokedex/moves/blast-burn.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 150 | 90 | 5 |
+	| [Draco Meteor](../../pokedex/moves/draco-meteor.md) | <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 130 | 90 | 5 |
 	| [Fire Punch](../../pokedex/moves/fire-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 75 | 100 | 15 |
 	| [Fury Cutter](../../pokedex/moves/fury-cutter.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 40 | 95 | 20 |
 	| [Headbutt](../../pokedex/moves/headbutt.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 70 | 100 | 15 |

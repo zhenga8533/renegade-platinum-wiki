@@ -27,6 +27,10 @@
 
 	- `34 moves` → `37 moves (added: dragon-pulse, dazzling-gleam, flash-cannon)`
 
+	**Tutor Moves Changes:**
+
+	- `9 moves` → `10 moves (added: draco-meteor)`
+
 
 ## :material-information: Basic Information
 
@@ -292,6 +296,7 @@
 
 	| Move | Type | Category | Power | Accuracy | PP |
 	|:-----|:-----|:---------|:------|:---------|:---|
+	| [Draco Meteor](../../pokedex/moves/draco-meteor.md) | <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 130 | 90 | 5 |
 	| [Fire Punch](../../pokedex/moves/fire-punch.md) | <span class="type-badge" style="background: linear-gradient(135deg, #F08030 0%, #F08030dd 100%);">Fire</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 75 | 100 | 15 |
 	| [Headbutt](../../pokedex/moves/headbutt.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 70 | 100 | 15 |
 	| [Heal Bell](../../pokedex/moves/heal-bell.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Status</span> | — | — | 5 |

@@ -17,15 +17,11 @@
 
 	**Abilities Changes:**
 
-	- `blaze` → `adaptability / blaze`
-
-	- `adaptability / blaze` → `flash-fire / blaze`
+	- `blaze` → `flash-fire / blaze`
 
 	**Level-up Moves Changes:**
 
 	- `14 moves` → `16 moves`
-
-	- `flash-fire / blaze` → `adaptability / blaze`
 
 
 ## :material-information: Basic Information

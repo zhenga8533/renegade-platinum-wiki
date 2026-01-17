@@ -142,7 +142,7 @@
 
 	**#492 [Shaymin Land](../pokemon/shaymin-land.md)**
 
-	Level 82
+	Level 42
 
 </div>
 

@@ -270,7 +270,7 @@
 
 	**#386 [Deoxys Normal](../pokemon/deoxys-normal.md)**
 
-	Level 81
+	Level 42
 
 -	[![Shellos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/422.png){: .pokemon-sprite-img }](../pokemon/shellos.md)
 

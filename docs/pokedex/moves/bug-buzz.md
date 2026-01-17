@@ -184,6 +184,14 @@
 
 	Level 43
 
+-	[![Wormadam Plant](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/413.png){: .pokemon-sprite-img }](../pokemon/wormadam-plant.md)
+
+	***
+
+	**#413 [Wormadam Plant](../pokemon/wormadam-plant.md)**
+
+	Level 26
+
 -	[![Mothim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/414.png){: .pokemon-sprite-img }](../pokemon/mothim.md)
 
 	***
@@ -479,6 +487,12 @@
 	***
 
 	**#415 [Combee](../pokemon/combee.md)**
+
+-	[![Vespiquen](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/416.png){: .pokemon-sprite-img }](../pokemon/vespiquen.md)
+
+	***
+
+	**#416 [Vespiquen](../pokemon/vespiquen.md)**
 
 -	[![Chatot](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/441.png){: .pokemon-sprite-img }](../pokemon/chatot.md)
 

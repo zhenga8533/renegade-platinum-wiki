@@ -434,6 +434,12 @@
 
 	**#398 [Staraptor](../pokemon/staraptor.md)**
 
+-	[![Vespiquen](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/416.png){: .pokemon-sprite-img }](../pokemon/vespiquen.md)
+
+	***
+
+	**#416 [Vespiquen](../pokemon/vespiquen.md)**
+
 -	[![Drifblim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/426.png){: .pokemon-sprite-img }](../pokemon/drifblim.md)
 
 	***

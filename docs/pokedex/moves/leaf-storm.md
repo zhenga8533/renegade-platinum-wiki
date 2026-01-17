@@ -254,7 +254,15 @@
 
 	**#413 [Wormadam Plant](../pokemon/wormadam-plant.md)**
 
-	Level 47
+	Level 1
+
+-	[![Wormadam Plant](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/413.png){: .pokemon-sprite-img }](../pokemon/wormadam-plant.md)
+
+	***
+
+	**#413 [Wormadam Plant](../pokemon/wormadam-plant.md)**
+
+	Level 50
 
 -	[![Tangrowth](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/465.png){: .pokemon-sprite-img }](../pokemon/tangrowth.md)
 
@@ -263,6 +271,14 @@
 	**#465 [Tangrowth](../pokemon/tangrowth.md)**
 
 	Level 49
+
+-	[![Shaymin Land](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/492.png){: .pokemon-sprite-img }](../pokemon/shaymin-land.md)
+
+	***
+
+	**#492 [Shaymin Land](../pokemon/shaymin-land.md)**
+
+	Level 46
 
 </div>
 

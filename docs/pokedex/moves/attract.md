@@ -110,7 +110,7 @@
 
 	**#413 [Wormadam Plant](../pokemon/wormadam-plant.md)**
 
-	Level 41
+	Level 38
 
 -	[![Glameow](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/431.png){: .pokemon-sprite-img }](../pokemon/glameow.md)
 

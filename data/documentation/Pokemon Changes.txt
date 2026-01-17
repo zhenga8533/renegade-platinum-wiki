@@ -11279,22 +11279,22 @@ Ability (Classic):
 Old     Anticipation / None
 New     Anticipation / Anticipation
 
-Base Stats (Plant Cloak) (Complete):
+Base Stats (Plant Forme) (Complete):
 Old     60 HP / 59 Atk / 85 Def / 79 SAtk / 105 SDef / 36 Spd / 424 BST
 New     60 HP / 50 Atk / 90 Def / 110 SAtk / 110 SDef / 30 Spd / 450 BST
 
-Base Stats (Sandy Cloak) (Complete):
+Base Stats (Sandy Forme) (Complete):
 Old     60 HP / 79 Atk / 105 Def / 59 SAtk / 85 SDef / 36 Spd / 424 BST
 New     60 HP / 50 Atk / 110 Def / 110 SAtk / 90 SDef / 30 Spd / 450 BST
 
-Base Stats (Trash Cloak) (Complete):
+Base Stats (Trash Forme) (Complete):
 Old     60 HP / 69 Atk / 95 Def / 69 SAtk / 95 SDef / 36 Spd / 424 BST
 New     60 HP / 50 Atk / 100 Def / 110 SAtk / 100 SDef / 30 Spd / 450 BST
 
 Moves:
 Now compatible with TM62, Bug Buzz.
 
-Level Up (Plant Cloak):
+Level Up (Plant Forme):
 1 - Leaf Storm
 1 - Sucker Punch
 1 - Protect
@@ -11313,7 +11313,7 @@ Level Up (Plant Cloak):
 47 - Captivate
 50 - Leaf Storm
 
-Level Up (Sandy Cloak):
+Level Up (Sandy Forme):
 1 - Fissure
 1 - Sucker Punch
 1 - Protect
@@ -11332,7 +11332,7 @@ Level Up (Sandy Cloak):
 47 - Captivate
 50 - Fissure
 
-Level Up (Trash Cloak):
+Level Up (Trash Forme):
 1 - Iron Head
 1 - Metal Burst
 1 - Sucker Punch
@@ -13188,16 +13188,33 @@ Level Up:
 ===================
 479 - Rotom
 ===================
-Ability (Fan Rotom) (Complete):
+Ability (Fan Forme) (Complete):
 Old     Levitate / None
 New     Motor Drive
 
-Base Stats (Regular Form) (Complete):
+Base Stats (Regular Forme) (Complete):
 Old     50 HP / 50 Atk / 77 Def / 95 SAtk / 77 SDef / 91 Spd / 440 BST
 New     50 HP / 50 Atk / 77 Def / 95 SAtk / 77 SDef / 101 Spd / 450 BST
 
-Type:
-All of Rotom's formes match their types as of Gen V.
+Type (Fan Forme):
+Old     Electric / Ghost
+New     Electric / Flying
+
+Type (Frost Forme):
+Old     Electric / Ghost
+New     Electric / Ice
+
+Type (Heat Forme):
+Old     Electric / Ghost
+New     Electric / Fire
+
+Type (Mow Forme):
+Old     Electric / Ghost
+New     Electric / Grass
+
+Type (Wash Forme):
+Old     Electric / Ghost
+New     Electric / Water
 
 Level Up:
 1 - Trick

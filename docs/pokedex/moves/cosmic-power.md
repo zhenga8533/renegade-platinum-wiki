@@ -134,7 +134,7 @@
 
 	**#386 [Deoxys Normal](../pokemon/deoxys-normal.md)**
 
-	Level 73
+	Level 38
 
 -	[![Arceus](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/493.png){: .pokemon-sprite-img }](../pokemon/arceus.md)
 

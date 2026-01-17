@@ -86,7 +86,7 @@
 
 	**#386 [Deoxys Normal](../pokemon/deoxys-normal.md)**
 
-	Level 89
+	Level 46
 
 </div>
 

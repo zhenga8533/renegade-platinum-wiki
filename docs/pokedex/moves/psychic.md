@@ -422,7 +422,7 @@
 
 	**#386 [Deoxys Normal](../pokemon/deoxys-normal.md)**
 
-	Level 41
+	Level 22
 
 -	[![Wormadam Plant](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/413.png){: .pokemon-sprite-img }](../pokemon/wormadam-plant.md)
 
@@ -430,7 +430,7 @@
 
 	**#413 [Wormadam Plant](../pokemon/wormadam-plant.md)**
 
-	Level 44
+	Level 41
 
 -	[![Mothim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/414.png){: .pokemon-sprite-img }](../pokemon/mothim.md)
 

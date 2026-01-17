@@ -190,7 +190,7 @@
 
 	**#386 [Deoxys Normal](../pokemon/deoxys-normal.md)**
 
-	Level 9
+	Level 6
 
 -	[![Dusknoir](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/477.png){: .pokemon-sprite-img }](../pokemon/dusknoir.md)
 

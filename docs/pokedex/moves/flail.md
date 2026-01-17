@@ -254,7 +254,7 @@
 
 	**#413 [Wormadam Plant](../pokemon/wormadam-plant.md)**
 
-	Level 38
+	Level 44
 
 -	[![Mothim](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/414.png){: .pokemon-sprite-img }](../pokemon/mothim.md)
 

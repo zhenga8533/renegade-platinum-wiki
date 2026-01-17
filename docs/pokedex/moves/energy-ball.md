@@ -224,6 +224,14 @@
 
 	Level 33
 
+-	[![Wormadam Plant](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/413.png){: .pokemon-sprite-img }](../pokemon/wormadam-plant.md)
+
+	***
+
+	**#413 [Wormadam Plant](../pokemon/wormadam-plant.md)**
+
+	Level 32
+
 -	[![Cherubi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/420.png){: .pokemon-sprite-img }](../pokemon/cherubi.md)
 
 	***
@@ -254,7 +262,7 @@
 
 	**#492 [Shaymin Land](../pokemon/shaymin-land.md)**
 
-	Level 73
+	Level 34
 
 </div>
 

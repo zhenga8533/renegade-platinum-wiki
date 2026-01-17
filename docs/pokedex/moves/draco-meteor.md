@@ -78,6 +78,12 @@
 
 <div class="grid cards" markdown>
 
+-	[![Charizard](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/6.png){: .pokemon-sprite-img }](../pokemon/charizard.md)
+
+	***
+
+	**#006 [Charizard](../pokemon/charizard.md)**
+
 -	[![Dratini](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/147.png){: .pokemon-sprite-img }](../pokemon/dratini.md)
 
 	***
@@ -96,11 +102,23 @@
 
 	**#149 [Dragonite](../pokemon/dragonite.md)**
 
+-	[![Ampharos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/181.png){: .pokemon-sprite-img }](../pokemon/ampharos.md)
+
+	***
+
+	**#181 [Ampharos](../pokemon/ampharos.md)**
+
 -	[![Kingdra](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/230.png){: .pokemon-sprite-img }](../pokemon/kingdra.md)
 
 	***
 
 	**#230 [Kingdra](../pokemon/kingdra.md)**
+
+-	[![Sceptile](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/254.png){: .pokemon-sprite-img }](../pokemon/sceptile.md)
+
+	***
+
+	**#254 [Sceptile](../pokemon/sceptile.md)**
 
 -	[![Vibrava](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/329.png){: .pokemon-sprite-img }](../pokemon/vibrava.md)
 

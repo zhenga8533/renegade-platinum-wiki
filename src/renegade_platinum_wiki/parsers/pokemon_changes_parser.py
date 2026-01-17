@@ -14,7 +14,6 @@ from rom_wiki_core.parsers.base_parser import BaseParser
 from rom_wiki_core.utils.core.loader import PokeDBLoader
 from rom_wiki_core.utils.data.models import MoveLearn, Pokemon, PokemonAbility, Stats
 from rom_wiki_core.utils.formatters.markdown_formatter import (
-    format_ability,
     format_checkbox,
     format_item,
     format_move,
@@ -26,6 +25,8 @@ from rom_wiki_core.utils.services.attribute_service import AttributeService
 from rom_wiki_core.utils.services.pokemon_item_service import PokemonItemService
 from rom_wiki_core.utils.services.pokemon_move_service import PokemonMoveService
 from rom_wiki_core.utils.text.text_util import name_to_id
+
+from renegade_platinum_wiki.config import CONFIG
 
 
 class PokemonChangesParser(BaseParser):
@@ -54,15 +55,20 @@ class PokemonChangesParser(BaseParser):
         # Specific Changes States
         self._current_pokemon = ""
         self._current_attribute = ""
+        self._current_forme = ""  # Track current forme (e.g., "Normal Forme", "Attack Forme")
         self._is_table_open = False
-        self._temporary_markdown = ""
-
-        # Track Pokemon with held items updated to skip later
-        self._held_item_updated = set()
 
         # Track moves for current Pokemon
-        self._levelup_moves: list[MoveLearn] = []
+        self._move_markdown = ""
+        self._levelup_moves: list[tuple[int, str]] = []  # list of (level, move ID)
         self._machine_moves: list[str] = []  # list of move IDs
+        self._tutor_moves: list[str] = []  # list of move IDs
+
+        # Track attribute changes for current Pokemon
+        self._new_abilities: list[str] = []  # list of ability names
+        self._new_stats: Stats | None = None  # new base stats
+        self._new_types: list[str] = []  # list of type names
+        self._new_catch_rate: int | None = None  # new catch rate
 
     def _update_all_pokemon_to_gen7(self) -> None:
         """Update all existing Pokemon in parsed data to match gen7 stats.
@@ -177,9 +183,6 @@ class PokemonChangesParser(BaseParser):
             # Update the Pokemon's held item
             PokemonItemService.update_held_item(pokemon_id, item_id, int(chance))
 
-            # Track this Pokemon to skip later updates in Specific Changes
-            self._held_item_updated.add(pokemon_id)
-
             # Format for markdown
             pokemon_md = format_pokemon(pokemon, has_sprite=False)
             item_md = format_item(item)
@@ -216,8 +219,7 @@ class PokemonChangesParser(BaseParser):
 
         # Matches: XXX - Pokemon
         if match := re.match(r"^(\d{3}) - (.+?)$", line):
-            # Save moves for the previous Pokemon before switching
-            self._save_pokemon_moves()
+            self._apply_pokemon_changes()
 
             number, self._current_pokemon = match.groups()
             self._markdown += f"### {number} {self._current_pokemon}\n\n"
@@ -227,368 +229,253 @@ class PokemonChangesParser(BaseParser):
                 )
                 + "\n\n"
             )
+
+            self._is_table_open = False
         # Matches: Attribute:
-        elif line.endswith(":"):
+        elif line.endswith(":") and next_line.startswith("Old"):
+            if not self._is_table_open:
+                self._markdown += "| Attribute | Old Value | New Value |\n"
+                self._markdown += "|:----------|:----------|:----------|\n"
+                self._is_table_open = True
+
             self._current_attribute = line[:-1]
-            self._markdown += self._format_attribute(
-                self._current_attribute, is_changed=next_line.startswith("Old")
-            )
-        # Matches: Old <value> or New <value>
-        elif line.startswith("Old") or line.startswith("New"):
-            is_new = line.startswith("New")
-            line = line[4:].strip()
+            self._markdown += f"| **{line[:-1]}** |"
+        elif line.startswith("Old"):
+            old_value = line[4:].strip()
+            self._markdown += f" {old_value} |"
+        elif line.startswith("New"):
+            new_value = line[4:].strip()
+            self._markdown += f" {new_value} |\n"
+            self._parse_new_attribute_value(new_value)
+        # Matches: Attribute: (without old value, for moves)
+        elif line.endswith(":") and not next_line.startswith("Old"):
+            self._current_attribute = line[:-1]
+            self._move_markdown += f"\n**{line[:-1]}:**\n\n"
 
-            # Format the value if it's an ability or type
-            formatted_value = line
-            if self._current_attribute.startswith("Ability"):
-                formatted_value = self._format_ability_value(line)
-            elif self._current_attribute.startswith("Type"):
-                formatted_value = self._format_type_value(line)
-            elif self._current_attribute.startswith("Base Stats"):
-                formatted_value = self._format_base_stats_value(line)
+            if line.startswith("Level Up"):
+                # Check if this is a forme-specific Level Up section
+                new_forme = self._extract_forme(line[:-1])
 
-            # Append to markdown table row
-            self._markdown += f" {formatted_value} |"
-            if not is_new:
+                # If forme changed and we have pending moves, apply them first
+                if new_forme != self._current_forme and self._levelup_moves:
+                    self._apply_levelup_moves()
+
+                # Update current forme
+                self._current_forme = new_forme
+
+                self._move_markdown += "| Level | Move | Type | Class | Event |\n"
+                self._move_markdown += "|:------|:-----|:-----|:------|:------|\n"
+        # Matches: Now compatible with TM##, Move Name.
+        elif match := re.match(r"^Now compatible with (?:HM|TM)\d+, ([^.]+).*$", line):
+            self._move_markdown += f"- {line}\n"
+            self._machine_moves.append(name_to_id(match.group(1)))
+        # Matches: Now compatible with Move Name from the Move Tutor.
+        elif match := re.match(
+            r"^Now compatible with (.+?) from the Move Tutor.*$", line
+        ):
+            self._move_markdown += f"- {line}\n"
+            self._tutor_moves.append(name_to_id(match.group(1)))
+        elif match := re.match(r"^(\d+) - (.+?)$", line):
+            level, move = match.groups()
+            move_data = PokeDBLoader.load_move(move)
+            if not move_data:
+                self.logger.warning(f"Move not found for level-up move: {move}")
                 return
-            self._markdown += "\n"
 
-            # Update Pokemon attribute in JSON file using AttributeService
-            if not self._should_skip_attribute_update():
-                self._apply_attribute_update(line)
-        # Matches: Now compatible with...
-        elif self._current_attribute == "Moves" and line.startswith(
-            "Now compatible with"
-        ):
-            # Format for markdown
-            formatted_line = self._parse_moves_line(line)
-            self._markdown += f"- {formatted_line}\n"
-
-            # Collect TM/HM move for saving (skip Move Tutor lines)
-            if "Move Tutor" not in line:
-                tm_match = re.match(
-                    r"^Now compatible with (TM|HM)(\d+), (.*?)\.(?: \(!\!\)| \[\*\])?$",
-                    line,
-                )
-                if tm_match:
-                    move_name = tm_match.group(3)
-                    self._machine_moves.append(name_to_id(move_name))
-        # Matches: Now able to evolve...
-        elif self._current_attribute == "Evolution" and line.startswith(
-            "Now able to evolve"
-        ):
-            # Evolution is handled by evolution_changes_parser, just display as-is
-            self._markdown += f"- {line}\n"
-        # Matches: Level Up moves (X - Move)
-        elif match := re.match(r"^(\d+) - (.*)$", line):
-            level = match.group(1)
-            move = match.group(2)
-            self._markdown += self._format_move_row(level, move)
-
-            # Collect level-up move for saving (strip event markers)
-            clean_move = move
-            if clean_move.endswith(" [*]"):
-                clean_move = clean_move[:-4]
-            elif clean_move.endswith(" (!!)"):
-                clean_move = clean_move[:-5]
-            self._levelup_moves.append(
-                MoveLearn(
-                    name=name_to_id(clean_move),
-                    level_learned_at=int(level),
-                    version_groups=[self.config.version_group],
-                )
+            type_badge = format_type_badge(
+                getattr(move_data.type, CONFIG.version_group)
             )
-        # Default: regular text line
-        else:
-            self.parse_default(line)
+            move_class = move_data.damage_class
+            event_check = format_checkbox("!!" in line)
 
-    def _should_skip_attribute_update(self) -> bool:
-        """Check if we should skip updating the current attribute.
+            self._move_markdown += f"| {level} | {format_move(move)} | {type_badge} | {move_class} | {event_check} |\n"
+            self._levelup_moves.append((int(level), name_to_id(move)))
 
-        Returns:
-            bool: True if should skip, False otherwise
-        """
-        # Skip evolution - handled by evolution_changes_parser
-        # Skip moves, level up - handled by _save_pokemon_moves in this parser
-        skip_attributes = ["Evolution", "Moves", "Level Up"]
-        return any(self._current_attribute.startswith(attr) for attr in skip_attributes)
+            if next_line == "":
+                self._move_markdown += "\n"
 
-    def _apply_attribute_update(self, value: str) -> None:
-        """Apply an attribute update using the appropriate AttributeService method.
+    def _extract_forme(self, attribute: str) -> str:
+        """Extract forme name from an attribute string.
 
         Args:
-            value (str): The new value string from the documentation
+            attribute (str): The attribute string (e.g., "Level Up (Normal Forme)").
+
+        Returns:
+            str: The forme name (e.g., "normal") or empty string if no forme.
+        """
+        # Match forme patterns like "(Normal Forme)", "(Attack Forme)", "(Plant Forme)"
+        if match := re.search(r"\(([^)]+\s+Forme)\)", attribute):
+            forme_name = match.group(1)
+            # Convert "Normal Forme" -> "normal", "Attack Forme" -> "attack"
+            forme_id = forme_name.replace(" Forme", "").lower()
+            # "Regular Forme" refers to the base form (no suffix)
+            if forme_id == "regular":
+                return ""
+            return forme_id
+        return ""
+
+    def _get_pokemon_id_with_forme(self, forme: str = "") -> str:
+        """Get the pokemon ID, optionally with forme suffix.
+
+        Args:
+            forme (str): The forme name (e.g., "normal", "attack").
+
+        Returns:
+            str: The pokemon ID with forme suffix if applicable.
         """
         pokemon_id = name_to_id(self._current_pokemon)
-        attr = self._current_attribute
+        if forme:
+            return f"{pokemon_id}-{forme}"
+        return pokemon_id
 
-        if attr.startswith("Base Stats"):
-            # Parse: "80 HP / 100 Atk / 90 Def / 120 SAtk / 90 SDef / 100 Spd"
-            stats = self._parse_stats_value(value)
-            if stats:
-                AttributeService.update_base_stats(pokemon_id, stats)
+    def _parse_new_attribute_value(self, value: str) -> None:
+        """Parse and store a new attribute value based on current attribute.
 
-        elif attr.startswith("Type"):
-            # Parse: "Fire / Flying" or "Fire"
-            types = [name_to_id(t.strip()) for t in value.split("/")]
-            AttributeService.update_type(pokemon_id, types)
+        For attributes with formes (stats, types, abilities), immediately applies
+        the change to the forme-specific pokemon ID.
 
-        elif attr.startswith("Ability") and (
-            "Classic" not in attr or "Complete" in attr
+        Args:
+            value (str): The new value string to parse.
+        """
+        attr_lower = self._current_attribute.lower()
+        forme = self._extract_forme(self._current_attribute)
+
+        # Parse ability changes: "Ability1 / Ability2" or "Ability1 / None"
+        if "ability" in attr_lower and (
+            "complete" in attr_lower or "classic" not in attr_lower
         ):
-            # Parse ability slot from attribute name (e.g., "Ability 1", "Ability 2", "Ability 3")
-            # or handle combined abilities "Ability1 / Ability2"
-            abilities = self._parse_abilities_value(value)
-            if abilities:
-                AttributeService.update_abilities(pokemon_id, abilities)
+            abilities_raw = [a.strip() for a in value.split("/")]
+            # Filter out "None" entries
+            ability_names = [a for a in abilities_raw if a.lower() != "none"]
 
-        elif attr.startswith("Catch Rate"):
-            # Parse: just a number
-            try:
-                catch_rate = int(value)
-                AttributeService.update_catch_rate(pokemon_id, catch_rate)
-            except ValueError:
-                self.logger.warning(f"Invalid catch rate value: {value}")
-
-    def _parse_stats_value(self, value: str) -> Stats | None:
-        """Parse a base stats string into a Stats object.
-
-        Args:
-            value (str): Stats string (e.g., "80 HP / 100 Atk / 90 Def / 120 SAtk / 90 SDef / 100 Spd")
-
-        Returns:
-            Stats | None: Parsed Stats object, or None if parsing fails
-        """
-        try:
-            stat_parts = [p.strip() for p in value.split("/")]
-            stats_dict = {}
-            stat_map = {
-                "HP": "hp",
-                "Atk": "attack",
-                "Def": "defense",
-                "SAtk": "special_attack",
-                "SDef": "special_defense",
-                "Spd": "speed",
-            }
-            for part in stat_parts:
-                num, stat_name = part.split()
-                if stat_name in stat_map:
-                    stats_dict[stat_map[stat_name]] = int(num)
-            return Stats(**stats_dict)
-        except (ValueError, KeyError) as e:
-            self.logger.warning(f"Failed to parse stats value '{value}': {e}")
-            return None
-
-    def _parse_abilities_value(self, value: str) -> list[PokemonAbility] | None:
-        """Parse an abilities string into a list of PokemonAbility objects.
-
-        Args:
-            value (str): Abilities string (e.g., "Intimidate / Moxie" or "Levitate")
-
-        Returns:
-            list[PokemonAbility] | None: Parsed abilities list, or None if parsing fails
-        """
-        try:
-            ability_names = [a.strip() for a in value.split("/")]
-            abilities = []
-            for i, ability_name in enumerate(ability_names):
-                if ability_name.lower() == "none":
-                    continue
-                slot = i + 1
-                is_hidden = slot == 3
-                abilities.append(
-                    PokemonAbility(
-                        name=name_to_id(ability_name),
-                        is_hidden=is_hidden,
-                        slot=slot,
+            if forme:
+                # Immediately apply to forme-specific pokemon
+                pokemon_id = self._get_pokemon_id_with_forme(forme)
+                abilities: list[PokemonAbility] = []
+                for i, ability_name in enumerate(ability_names, start=1):
+                    is_hidden = i == 3
+                    abilities.append(
+                        PokemonAbility(
+                            name=name_to_id(ability_name), is_hidden=is_hidden, slot=i
+                        )
                     )
-                )
-            return abilities if abilities else None
-        except (ValueError, KeyError) as e:
-            self.logger.warning(f"Failed to parse abilities value '{value}': {e}")
-            return None
+                AttributeService.update_abilities(pokemon_id, abilities)
+            else:
+                self._new_abilities = ability_names
 
-    def _save_pokemon_moves(self) -> None:
-        """Save collected moves for the current Pokemon and reset tracking."""
-        if not self._current_pokemon:
+        # Parse base stat changes: "80 HP / 82 Atk / 83 Def / 100 SAtk / 100 SDef / 80 Spd / 525 BST"
+        elif "base stats" in attr_lower:
+            stat_pattern = r"(\d+)\s*HP\s*/\s*(\d+)\s*Atk\s*/\s*(\d+)\s*Def\s*/\s*(\d+)\s*SAtk\s*/\s*(\d+)\s*SDef\s*/\s*(\d+)\s*Spd"
+            if match := re.match(stat_pattern, value):
+                hp, atk, defense, spatk, spdef, speed = map(int, match.groups())
+                stats = Stats(
+                    hp=hp,
+                    attack=atk,
+                    defense=defense,
+                    special_attack=spatk,
+                    special_defense=spdef,
+                    speed=speed,
+                )
+                if forme:
+                    pokemon_id = self._get_pokemon_id_with_forme(forme)
+                    AttributeService.update_base_stats(pokemon_id, stats)
+                else:
+                    self._new_stats = stats
+
+        # Parse type changes: "Fire / Dragon" or "Fire"
+        elif "type" in attr_lower:
+            types = [t.strip().lower() for t in value.split("/")]
+            if forme:
+                pokemon_id = self._get_pokemon_id_with_forme(forme)
+                AttributeService.update_type(pokemon_id, types)
+            else:
+                self._new_types = types
+
+        # Parse catch rate changes: "45"
+        elif "catch rate" in attr_lower:
+            catch_rate = int(value)
+            if forme:
+                pokemon_id = self._get_pokemon_id_with_forme(forme)
+                AttributeService.update_catch_rate(pokemon_id, catch_rate)
+            else:
+                self._new_catch_rate = catch_rate
+
+    def _apply_levelup_moves(self) -> None:
+        """Apply level-up moves for the current Pokemon and forme."""
+        if not self._levelup_moves or self._current_pokemon == "":
+            return
+
+        pokemon_id = self._get_pokemon_id_with_forme(self._current_forme)
+        move_learns = [
+            MoveLearn(
+                name=move_id,
+                level_learned_at=level,
+                version_groups=[CONFIG.version_group],
+            )
+            for level, move_id in self._levelup_moves
+        ]
+        PokemonMoveService.update_levelup_moves(pokemon_id, move_learns)
+        self._levelup_moves = []
+
+    def _apply_pokemon_changes(self) -> None:
+        """Apply all tracked changes for the current Pokemon using services."""
+        if self._current_pokemon == "":
             return
 
         pokemon_id = name_to_id(self._current_pokemon)
 
-        # Save level-up moves if any were collected
-        if self._levelup_moves:
-            PokemonMoveService.update_levelup_moves(pokemon_id, self._levelup_moves)
-            self._levelup_moves = []
+        # Apply ability changes (non-forme specific)
+        if self._new_abilities:
+            abilities: list[PokemonAbility] = []
+            for i, ability_name in enumerate(self._new_abilities, start=1):
+                # Slot 3 is hidden ability
+                is_hidden = i == 3
+                abilities.append(
+                    PokemonAbility(
+                        name=name_to_id(ability_name), is_hidden=is_hidden, slot=i
+                    )
+                )
+            AttributeService.update_abilities(pokemon_id, abilities)
 
-        # Save TM/HM moves if any were collected
+        # Apply stat changes (non-forme specific)
+        if self._new_stats:
+            AttributeService.update_base_stats(pokemon_id, self._new_stats)
+
+        # Apply type changes (non-forme specific)
+        if self._new_types:
+            AttributeService.update_type(pokemon_id, self._new_types)
+
+        # Apply catch rate changes (non-forme specific)
+        if self._new_catch_rate is not None:
+            AttributeService.update_catch_rate(pokemon_id, self._new_catch_rate)
+
+        # Apply any remaining level-up moves (with current forme)
+        self._apply_levelup_moves()
+
+        # Apply machine (TM/HM) moves
         if self._machine_moves:
             PokemonMoveService.update_move_category(
                 pokemon_id, "machine", self._machine_moves
             )
-            self._machine_moves = []
 
-    def _format_attribute(self, attribute: str, is_changed: bool) -> str:
-        """Format an attribute change section.
+        # Apply tutor moves
+        if self._tutor_moves:
+            PokemonMoveService.update_move_category(
+                pokemon_id, "tutor", self._tutor_moves
+            )
 
-        Args:
-            attribute (str): Attribute name
-            is_changed (bool): Whether the attribute has changed.
-
-        Returns:
-            str: Formatted markdown for the attribute change section.
-        """
-        changed_attributes = ["Base Stats", "Type", "Ability", "Catch Rate"]
-        md = ""
-
-        if is_changed and any(
-            attribute.startswith(attr) for attr in changed_attributes
-        ):
-            if not self._is_table_open:
-                self._is_table_open = True
-                md += "| Attribute | Old Value | New Value |\n"
-                md += "|:----------|:----------|:----------|\n"
-            md += f"| **{self._current_attribute}** | "
-            return md
-
-        # Handle static attributes (Evolution, Moves, Held Item)
-        static_attributes = ["Evolution", "Moves"]
-        if self._is_table_open:
-            self._temporary_markdown += f"**{attribute}**:\n\n"
-        else:
-            md += f"**{attribute}**:\n\n"
-
-        # Level Up moves get a table
-        if attribute.startswith("Level Up"):
-            md += self._temporary_markdown
-            self._temporary_markdown = ""
-            self._is_table_open = False
-            md += "| Level | Move | Type | Class | Event |\n"
-            md += "|:------|:-----|:-----|:------|:------|\n"
-        elif attribute in static_attributes:
-            pass
-        else:
-            # Close table if needed for other attributes
-            if self._is_table_open:
-                self._is_table_open = False
-
-        return md
-
-    def _format_move_row(self, level: str, move: str) -> str:
-        """Format a move row for markdown table.
-
-        Args:
-            level (str): Level at which the move is learned.
-            move (str): Name of the move.
-
-        Returns:
-            str: Formatted markdown table row.
-        """
-        event_move = False
-        if move.endswith(" [*]"):
-            move = move[:-4]
-            event_move = True
-        elif move.endswith(" (!!)"):
-            move = move[:-5]
-            event_move = True
-
-        # Format move name
-        move_html = format_move(move)
-
-        # Load move data from PokeDB
-        move_data = PokeDBLoader.load_move(move)
-        move_type = (
-            getattr(move_data.type, self.config.version_group, None)
-            if move_data
-            else None
-        )
-        move_type = move_type.title() if move_type else "Unknown"
-        move_class = move_data.damage_class.title() if move_data else "Unknown"
-
-        md = f"| {level} | {move_html} | {format_type_badge(move_type)} | {move_class} | {format_checkbox(event_move)} |\n"
-        return md
-
-    def _format_ability_value(self, ability_text: str) -> str:
-        """Format ability value with links to individual abilities.
-
-        Args:
-            ability_text (str): Ability string in format "Ability1 / Ability2"
-
-        Returns:
-            str: Formatted ability string with links
-        """
-        if not ability_text or ability_text.strip() == "":
-            return ability_text
-
-        abilities = [a.strip() for a in ability_text.split("/")]
-        formatted_abilities = [
-            format_ability(ability)
-            for ability in abilities
-            if ability.lower() != "none"
-        ]
-
-        return " / ".join(formatted_abilities)
-
-    def _format_type_value(self, type_text: str) -> str:
-        """Format type value with type badges.
-
-        Args:
-            type_text (str): Type string in format "Type1 / Type2"
-
-        Returns:
-            str: Formatted type string with badges
-        """
-        types = [t.strip() for t in type_text.split("/")]
-        formatted_types = [format_type_badge(t) for t in types]
-        return " ".join(formatted_types)
-
-    def _format_base_stats_value(self, stats_text: str) -> str:
-        """Format base stats value.
-
-        Args:
-            stats_text (str): Stats string (e.g., "80 HP / 100 Atk / ...")
-
-        Returns:
-            str: Formatted stats string
-        """
-        return f"`{stats_text}`"
-
-    def _parse_moves_line(self, line: str) -> str:
-        """Parse TM/HM compatibility line.
-
-        Args:
-            line (str): Line to parse.
-
-        Returns:
-            str: Formatted line with linked TM/HM for markdown output
-        """
-        # Skip move tutor lines (not TM/HM)
-        if "Move Tutor" in line:
-            return line
-
-        # Pattern: "Now compatible with TM56, Weather Ball." or "... (!!)"
-        match = re.match(
-            r"^Now compatible with (TM|HM)(\d+), (.*?)\.(?: \(!!\)| \[\\?\*\])?$", line
-        )
-        if not match:
-            self.logger.warning(f"Could not parse Moves line: {line}")
-            return line
-
-        machine_type = match.group(1)
-        number = match.group(2)
-        move_name = match.group(3)
-
-        # Format the line with links for markdown output
-        tm_item = format_item(f"{machine_type}{number} {move_name}")
-        formatted_line = f"Now compatible with {tm_item}."
-
-        # Check if this was an event move
-        if line.endswith("(!!)") or line.endswith("[*]"):
-            formatted_line += " (!!)"
-
-        return formatted_line
+        # Append move markdown and reset all tracking variables
+        self._markdown += self._move_markdown
+        self._move_markdown = ""
+        self._levelup_moves = []
+        self._machine_moves = []
+        self._tutor_moves = []
+        self._new_abilities = []
+        self._new_stats = None
+        self._new_types = []
+        self._new_catch_rate = None
+        self._current_forme = ""
 
     def finalize(self) -> None:
-        """Finalize the parser, saving any remaining Pokemon moves."""
-        # Save moves for the last Pokemon
-        self._save_pokemon_moves()
-        super().finalize()
+        self._apply_pokemon_changes()
+        return super().finalize()

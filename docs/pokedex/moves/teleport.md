@@ -166,7 +166,7 @@
 
 	**#386 [Deoxys Normal](../pokemon/deoxys-normal.md)**
 
-	Level 17
+	Level 10
 
 -	[![Gallade](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/475.png){: .pokemon-sprite-img }](../pokemon/gallade.md)
 

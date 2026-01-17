@@ -15,10 +15,6 @@
 
 ??? note "Rotom ROM Changes"
 
-	**Abilities Changes:**
-
-	- `levitate` → `motor-drive`
-
 	**Base Stats Changes:**
 
 	- `50 HP / 50 Atk / 77 Def / 95 SAtk / 77 SDef / 91 Spd` → `50 HP / 50 Atk / 77 Def / 95 SAtk / 77 SDef / 101 Spd`
@@ -36,7 +32,7 @@
 
 	---
 
-	- [Motor Drive](../../pokedex/abilities/motor-drive.md)
+	- [Levitate](../../pokedex/abilities/levitate.md)
 
 - **:material-ruler: Physical Attributes**
 

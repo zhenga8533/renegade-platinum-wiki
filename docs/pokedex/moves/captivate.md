@@ -190,7 +190,7 @@
 
 	**#413 [Wormadam Plant](../pokemon/wormadam-plant.md)**
 
-	Level 35
+	Level 47
 
 -	[![Vespiquen](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/416.png){: .pokemon-sprite-img }](../pokemon/vespiquen.md)
 

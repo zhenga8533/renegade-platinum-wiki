@@ -31,6 +31,10 @@
 
 	- `16 moves` → `21 moves`
 
+	**Tutor Moves Changes:**
+
+	- `13 moves` → `14 moves (added: draco-meteor)`
+
 
 ## :material-information: Basic Information
 
@@ -312,6 +316,7 @@
 
 	| Move | Type | Category | Power | Accuracy | PP |
 	|:-----|:-----|:---------|:------|:---------|:---|
+	| [Draco Meteor](../../pokedex/moves/draco-meteor.md) | <span class="type-badge" style="background: linear-gradient(135deg, #7038F8 0%, #7038F8dd 100%);">Dragon</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 130 | 90 | 5 |
 	| [Endeavor](../../pokedex/moves/endeavor.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | — | 100 | 5 |
 	| [Frenzy Plant](../../pokedex/moves/frenzy-plant.md) | <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> | <span class="category-badge" style="background: linear-gradient(135deg, #6890F0 0%, #6890F0dd 100%);">Special</span> | 150 | 90 | 5 |
 	| [Fury Cutter](../../pokedex/moves/fury-cutter.md) | <span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> | <span class="category-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Physical</span> | 40 | 95 | 20 |

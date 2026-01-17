@@ -1,6 +1,6 @@
 # Rotom Fan
 
-<div class="pokemon-hero" style="background: linear-gradient(135deg, #F8D030dd 0%, #70589899 100%);">
+<div class="pokemon-hero" style="background: linear-gradient(135deg, #F8D030dd 0%, #A890F099 100%);">
 	<div class="pokemon-hero-overlay"></div>
 	<div class="pokemon-hero-content">
 		<div class="pokemon-hero-sprite">
@@ -8,9 +8,21 @@
 		</div>
 		<div class="pokemon-hero-genus">Plasma Pokémon</div>
 		<div class="pokemon-hero-dex-number">#479</div>
-		<div class="badges-hstack"><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span></div>
+		<div class="badges-hstack"><span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span></div>
 	</div>
 </div>
+
+
+??? note "Rotom Fan ROM Changes"
+
+	**Abilities Changes:**
+
+	- `levitate` → `motor-drive`
+
+	**Type Changes:**
+
+	- `electric / ghost` → `electric / flying`
+
 
 ## :material-information: Basic Information
 
@@ -20,7 +32,7 @@
 
 	---
 
-	- [Levitate](../../pokedex/abilities/levitate.md)
+	- [Motor Drive](../../pokedex/abilities/motor-drive.md)
 
 - **:material-ruler: Physical Attributes**
 
@@ -79,7 +91,7 @@
 
 	**2× Damage**
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #705848 0%, #705848dd 100%);">Dark</span> <span class="type-badge" style="background: linear-gradient(135deg, #705898 0%, #705898dd 100%);">Ghost</span> <span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #98D8D8 0%, #98D8D8dd 100%);">Ice</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8A038 0%, #B8A038dd 100%);">Rock</span>
 	{: .badges-hstack }
 
 - **:material-shield-check: Resists**
@@ -88,7 +100,7 @@
 
 	**½× Damage**
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #F8D030 0%, #F8D030dd 100%);">Electric</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> <span class="type-badge" style="background: linear-gradient(135deg, #A040A0 0%, #A040A0dd 100%);">Poison</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #A8B820 0%, #A8B820dd 100%);">Bug</span> <span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> <span class="type-badge" style="background: linear-gradient(135deg, #A890F0 0%, #A890F0dd 100%);">Flying</span> <span class="type-badge" style="background: linear-gradient(135deg, #78C850 0%, #78C850dd 100%);">Grass</span> <span class="type-badge" style="background: linear-gradient(135deg, #B8B8D0 0%, #B8B8D0dd 100%);">Steel</span>
 	{: .badges-hstack }
 
 - **:material-shield: Immune To**
@@ -97,7 +109,7 @@
 
 	**No Damage**
 
-	<span class="type-badge" style="background: linear-gradient(135deg, #C03028 0%, #C03028dd 100%);">Fighting</span> <span class="type-badge" style="background: linear-gradient(135deg, #A8A878 0%, #A8A878dd 100%);">Normal</span>
+	<span class="type-badge" style="background: linear-gradient(135deg, #E0C068 0%, #E0C068dd 100%);">Ground</span>
 	{ style="display: flex; flex-wrap: wrap; gap: 0.5rem;" }
 
 </div>

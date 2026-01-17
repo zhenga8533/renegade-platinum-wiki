@@ -326,7 +326,7 @@
 
 	**#386 [Deoxys Normal](../pokemon/deoxys-normal.md)**
 
-	Level 33
+	Level 18
 
 -	[![Cranidos](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/408.png){: .pokemon-sprite-img }](../pokemon/cranidos.md)
 

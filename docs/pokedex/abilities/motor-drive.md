@@ -28,11 +28,5 @@
 
 	**#466 [Electivire](../pokemon/electivire.md)**
 
--	[![Rotom](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-iv/heartgold-soulsilver/479.png){: .pokemon-sprite-img }](../pokemon/rotom.md)
-
-	***
-
-	**#479 [Rotom](../pokemon/rotom.md)**
-
 </div>
 
