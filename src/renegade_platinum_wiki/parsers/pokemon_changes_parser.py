@@ -14,6 +14,7 @@ from rom_wiki_core.parsers.base_parser import BaseParser
 from rom_wiki_core.utils.core.loader import PokeDBLoader
 from rom_wiki_core.utils.data.models import MoveLearn, Pokemon, PokemonAbility, Stats
 from rom_wiki_core.utils.formatters.markdown_formatter import (
+    format_ability,
     format_checkbox,
     format_item,
     format_move,
@@ -55,7 +56,9 @@ class PokemonChangesParser(BaseParser):
         # Specific Changes States
         self._current_pokemon = ""
         self._current_attribute = ""
-        self._current_forme = ""  # Track current forme (e.g., "Normal Forme", "Attack Forme")
+        self._current_forme = (
+            ""  # Track current forme (e.g., "Normal Forme", "Attack Forme")
+        )
         self._is_table_open = False
 
         # Track moves for current Pokemon
@@ -222,7 +225,7 @@ class PokemonChangesParser(BaseParser):
             self._apply_pokemon_changes()
 
             number, self._current_pokemon = match.groups()
-            self._markdown += f"### {number} {self._current_pokemon}\n\n"
+            self._markdown += f"### #{number} {self._current_pokemon}\n\n"
             self._markdown += (
                 format_pokemon_card_grid(
                     [self._current_pokemon], relative_path="../pokedex/pokemon"
@@ -241,12 +244,12 @@ class PokemonChangesParser(BaseParser):
             self._current_attribute = line[:-1]
             self._markdown += f"| **{line[:-1]}** |"
         elif line.startswith("Old"):
-            old_value = line[4:].strip()
+            old_value = self._format_attribute(line[4:].strip())
             self._markdown += f" {old_value} |"
         elif line.startswith("New"):
-            new_value = line[4:].strip()
+            new_value = self._format_attribute(line[4:].strip())
             self._markdown += f" {new_value} |\n"
-            self._parse_new_attribute_value(new_value)
+            self._parse_new_attribute_value(line[4:].strip())
         # Matches: Attribute: (without old value, for moves)
         elif line.endswith(":") and not next_line.startswith("Old"):
             self._current_attribute = line[:-1]
@@ -266,15 +269,21 @@ class PokemonChangesParser(BaseParser):
                 self._move_markdown += "| Level | Move | Type | Class | Event |\n"
                 self._move_markdown += "|:------|:-----|:-----|:------|:------|\n"
         # Matches: Now compatible with TM##, Move Name.
-        elif match := re.match(r"^Now compatible with (?:HM|TM)\d+, ([^.]+).*$", line):
-            self._move_markdown += f"- {line}\n"
-            self._machine_moves.append(name_to_id(match.group(1)))
+        elif match := re.match(r"^Now compatible with (.+?), ([^.]+)(.*)$", line):
+            item, move, extra = match.groups()
+            self._move_markdown += f"- Now compatible with {format_item(item)}, {format_move(move)}{extra}\n"
+
+            self._machine_moves.append(name_to_id(move))
         # Matches: Now compatible with Move Name from the Move Tutor.
         elif match := re.match(
             r"^Now compatible with (.+?) from the Move Tutor.*$", line
         ):
-            self._move_markdown += f"- {line}\n"
-            self._tutor_moves.append(name_to_id(match.group(1)))
+            move = match.group(1)
+            self._move_markdown += (
+                f"- Now compatible with {format_move(move)} from the Move Tutor.\n"
+            )
+
+            self._tutor_moves.append(name_to_id(move))
         elif match := re.match(r"^(\d+) - (.+?)$", line):
             level, move = match.groups()
             move_data = PokeDBLoader.load_move(move)
@@ -285,7 +294,7 @@ class PokemonChangesParser(BaseParser):
             type_badge = format_type_badge(
                 getattr(move_data.type, CONFIG.version_group)
             )
-            move_class = move_data.damage_class
+            move_class = move_data.damage_class.capitalize()
             event_check = format_checkbox("!!" in line)
 
             self._move_markdown += f"| {level} | {format_move(move)} | {type_badge} | {move_class} | {event_check} |\n"
@@ -293,6 +302,27 @@ class PokemonChangesParser(BaseParser):
 
             if next_line == "":
                 self._move_markdown += "\n"
+
+    def _format_attribute(self, value: str) -> str:
+        """Format an attribute value for markdown output based on the current attribute type.
+
+        Args:
+            value (str): The raw attribute value to format.
+
+        Returns:
+            str: The formatted attribute value for markdown output.
+        """
+        if "Ability" in self._current_attribute:
+            return " / ".join(
+                format_ability(ability) if ability != "None" else "None"
+                for ability in value.split(" / ")
+            )
+        elif "Type" in self._current_attribute:
+            return " ".join(
+                format_type_badge(type_name) for type_name in value.split(" / ")
+            )
+        else:
+            return value
 
     def _extract_forme(self, attribute: str) -> str:
         """Extract forme name from an attribute string.
